@@ -21,3 +21,4 @@ ui/*/
 !patch/**/*.png
 # Archive construite (publiée comme asset de release, pas dans git)
 dist/
+work/ja.json
