@@ -1,0 +1,3 @@
+# Script anglais 07th-mod sur lequel les traductions sont alignées
+tag=v1.0.37
+md5=c95d97a1f063bab1a99e47d581a67f73

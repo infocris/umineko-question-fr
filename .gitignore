@@ -17,3 +17,7 @@ ui/*/
 *.png
 *.jpg
 *.bmp
+# Images françaises livrées dans l'archive : versionnées
+!patch/**/*.png
+# Archive construite (publiée comme asset de release, pas dans git)
+dist/

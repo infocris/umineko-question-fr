@@ -1,0 +1,9 @@
+{
+  "name": "Appliquer la traduction française (épisodes 1-2)",
+  "description": "Traduction française amateur du script et de l'interface. Couvre actuellement les épisodes 1 et 2 (avec leurs Tea Parties) ; les épisodes 3 et 4 restent en anglais. Traduction assistée par IA, relue partiellement. 07th-mod ne gère pas cette traduction : signalez les problèmes sur [la page GitHub de la traduction](https://github.com/OWNER/umineko-question-fr/issues).",
+  "data": {
+    "url": "https://github.com/OWNER/umineko-question-fr/releases/latest/download/umineko-question-fr.zip",
+    "relativeExtractionPath": ".",
+    "priority": 30
+  }
+}
