@@ -1,0 +1,150 @@
+# 96640 : 人の恋路をグチグチ言いながら悶絶 = ronchonner sur les amours des autres en se tortillant, pas « s'évanouir »
+96640|ronchonnant sur les amours des autres et se tortillant de dépit sur son lit.
+# 96707 : guillemet fermant manquant (fin de réplique)
+96707|  E-Enfin, ce n'est pas comme si nous étions mariés..."
+# 96894 : 泣く気などなかった = aucune intention de pleurer ; 祝福する = se réjouir, pas « encourager »
+96894|Jessica n'avait aucune intention de pleurer, et bien sûr, en tant qu'amie, elle se réjouissait sincèrement que les amours de Shannon avancent si bien.
+# 96897 : 囃し立てる = taquiner (l'anglais : « cheer on »)
+96897|...Pourtant, à force de la taquiner, ses vrais sentiments s'en étaient mêlés sans qu'elle s'en aperçoive, et elle n'avait pu retenir ses larmes...
+# 96940 : 構って欲しいわけじゃない = elle ne veut pas qu'on s'occupe d'elle (contresens EN « trouble Shannon »)
+96940|Jessica lui tourna le dos, comme pour montrer qu'elle ne voulait pas qu'on s'occupe d'elle,‖  et agita la main comme pour la chasser.
+# 96967 : guillemet fermant parasite (la réplique continue)
+96967|"Moi aussi...
+# 97052 : 念を押す = insister, pas « rappeler quelque chose »
+97052|La sorcière insistait.‖Sur deux choses, plus précisément.
+# 97058 : 捻じ曲げる = tordre / faire plier le destin
+97058|...Ensuite, que le pouvoir de la sorcière était assez grand pour faire plier ce destin.
+# 97078 : 卑屈になってしまった = elle s'est montrée aigrie, pas « désagréable »
+97078|  C'est comme avec les médecins.‖On s'accroche à eux quand on s'inquiète pour sa santé, mais une fois guéri, on oublie même de les remercier.‖...On ne m'a jamais remerciée, moi, la sorcière, alors je me suis laissée aller à un peu d'aigreur.‖Pardonne-moi."
+# 97090 : 口が悪い = avoir la langue acérée, pas « grossièreté »
+97090|"Pardon, pardon.‖Je ne suis pas venue ici pour te tourmenter.‖Avoir la langue acérée, c'est dans ma nature.‖Pardonne-moi, veux-tu.
+# 97107 : 現金 = intéressé, girouette (l'anglais neutralise en « rapidité »)
+97107|La sorcière eut un rire léger, comme pour railler ce revirement si prompt et si intéressé.
+# 97197 : 馳走になった = merci pour ce régal, pas « un bon repas »
+97197|"Hmmm, ce fut un régal.‖...Il faudra que je te serve un jour la Dolce Vita de chez Nero.‖La rose est le symbole de l'amour éternel.‖Je pense qu'un dolce à la rose te conviendrait bien, à présent."
+# 97229 : 身に着けず、宝石箱の中に = ne pas la porter et la ranger dans un coffret à bijoux
+97229|"Hmmm.‖...Il en va de l'amour comme des roses.‖Trop d'engrais fait pourrir les racines.‖Certaines fleurs ne s'élèvent qu'à force de travail.‖En ce cas, fais comme bon te semble.‖Libre à toi de ne pas la porter et de la ranger dans ton coffret à bijoux.‖C'est ma bienveillance que je t'ai offerte.‖Que tu me la rendes ne me ferait aucun plaisir."
+# 97246 : ただ大事にしてくれれば良い = « je te demande seulement d'en prendre soin » (l'anglais en fait une option de plus) ; 粗末にされては = traitée sans égards
+97246|"Tu peux la garder et profiter de ses bienfaits.‖Ou bien la ranger dans ton coffret à bijoux.‖Si tu le souhaites, tu peux même l'offrir à quelqu'un d'autre que l'amour tourmente.‖...Je te demande seulement d'en prendre soin.‖Il me serait tout de même pénible que tu la traites sans égards."
+# 97262 : 強気に笑う = rire crânement (bravade), pas « de bon cœur »
+97262|La sorcière riait crânement, mais aux yeux de Shannon, c'était un rire triste.
+# 97288 : 毒舌 = acerbe (pas « injurieuse ») ; べた褒め = ne pas tarir d'éloges
+97288|Peut-être aimait-elle vraiment ces douceurs.‖Beatrice, d'ordinaire si acerbe, ne tarit pas d'éloges sur le thé noir que Shannon lui servit et parut d'une humeur remarquablement joyeuse.
+# 97432 : 話を促してもいいものか = pouvait-elle l'inciter à continuer ; phrase FR bancale
+97432|Shannon hésitait : pouvait-elle l'inciter à en dire davantage ? Mais Beatrice poursuivit d'elle-même, sans s'en soucier.
+# 97441 : 一応 = pour la forme ; 作法が混在 = plusieurs traditions mêlées
+97441|"Son contrat respectait au moins, pour la forme, le formalisme et les règles.‖Plusieurs traditions s'y mêlaient, mais...enfin, par égard pour son enthousiasme, j'ai gracieusement accepté son contrat.‖...Puis, je lui ai donné une montagne d'or."
+# 97451 : からっきし = pas une once de talent (l'anglais adoucit en « minimal »)
+97451|"En effet.  Pour la magie, il n'avait pas une once de talent, mais il avait apparemment le don des affaires et du jeu.‖...Ou peut-être était-ce grâce au courage et à la folie qui le poussaient à tout risquer sur des paris déraisonnables.‖...La folie tient parfois lieu de pouvoir magique.‖Je vois, vu sous cet angle, il n'est peut-être pas tout à fait juste de dire qu'il était entièrement dépourvu de talent magique.‖*ricane*ricane*..."
+# 97464 : 魔術に傾倒 = s'adonner à l'occultisme (pas « culte de la magie noire ») ; 世迷言 = sornettes
+97464|Si tout le monde dans la famille Ushiromiya connaissait l'histoire de Kinzo s'adonnant à l'occultisme, invoquant une sorcière et recevant l'or, en réalité, ce n'étaient que des sornettes auxquelles personne ne croyait.
+# 97493 : 苦笑い = sourire gêné ; 思い出さなくて良い = inutile de s'en souvenir
+97493|En voyant Shannon chercher à se rappeler ce que c'était, Beatrice eut un sourire gêné et agita la main : inutile de s'en souvenir.
+# 97503 : どこへ行くこともできない = je ne peux aller nulle part (contresens EN)
+97503|"...Et c'est grâce à cela que j'en suis là.‖Voilà plusieurs décennies que je suis cousue à cette île, sans même une amie avec qui prendre le thé.‖...Peu importe à qui j'essaie de parler, ma voix ne l'atteint pas, et je ne peux aller nulle part.‖Quelles décennies ennuyeuses."
+# 97658 : ふ = petit rire (la ligne suivante : « elle eut un rire léger »), pas « Hmph »
+97658|"......Hé."
+# 97691 : maxime générale au présent (笑顔は全てを円滑にし…), pas le sourire de Shannon
+97691|Un sourire facilite toute chose, et change même la chance.
+# 97719 : その笑顔でもう一杯頼めんかね = resservir une tasse avec ce sourire (l'anglais perd le café)
+97719|"Hmph.‖Parfait.‖Il va sans dire que le café est meilleur quand on le sert avec le sourire.‖...Pourrais-tu m'en servir une autre tasse avec ce sourire ?"
+# 97758 : 珍しい茶菓を馳走になった = remerciement
+97758|"...Merci pour ces douceurs peu communes.‖Un moment bien employé.‖Il est sans doute temps pour toi de retourner à ton travail,‖alors mettons fin à notre petit thé.
+# 97871 : 二度と現れるな, forme impérative brute : Kanon ne vouvoie pas ici
+97871|"...Si tu es si fatiguée, ne reparais plus jamais."
+# 97951 : 頭が上がらない = ne plus oser lui tenir tête
+97951|  C'est comme si tu étais sa prisonnière.‖Elle t'a réunie avec George-sama, et maintenant tu n'oses plus lui tenir tête."
+# 98020 : 資格 = le droit d'aimer (thème récurrent de Kanon)
+98020|"Non, tu ne l'es pas.‖Nous n'avons jamais eu le droit d'aimer, ni d'être aimés."
+# 98033 : 呆れた = sidéré
+98033|"Mademoiselle m'a raconté.‖Franchement, j'en suis resté sidéré.‖Je n'arrive pas à croire que tu sois partie en voyage avec George-sama...!‖Tu as oublié ta place de meuble.‖Tu t'es simplement laissé tenter par cette sorcière, en croyant à tort être devenue humaine !"
+# 98051 : ありはしない = ça n'existe pas (l'anglais : « could never happen ») ; cf. 98057 あるの
+98051|"...Une chose pareille, ça n'existe pas."
+# 98057 : うぅん、あるの = si, ça existe ; 得たなら = si on l'obtient
+98057|"Si, ça existe.‖Si on l'obtient, on ne sera plus des meubles.‖On pourra devenir humains."
+# 98063 : なれる、ものか = comme si on pouvait le devenir (humain)
+98063|".........‖......Ridicule.‖...Comme si on pouvait...le devenir."
+# 98071 : 自分が家具であることを苦悩した日々 = souffrir d'être un meuble ; 頑なに閉ざす
+98071|...Les jours passés à souffrir d'être un meuble avaient été une telle épreuve que son cœur s'était obstinément refermé...
+# 98083 : 魔女の受け売り = répéter ce que dit la sorcière
+98083|"............‖Arrête de répéter ce que dit la sorcière."
+# 98167 : これがつまり、そういうことなの = c'est exactement ce que je veux dire
+98167|"Non.‖...La mer est d'un bleu profond.‖Si moi je le comprends et pas toi,‖...c'est exactement ce que je veux dire..."
+# 98233 : あいつ (méprisant) ≠ « cette personne »
+98233|"...Sa magie à elle n'a rien à m'apprendre."
+# 98240 : idem あいつ
+98240|"......Ridicule...‖Comme si j'allais me laisser égarer par sa magie à elle."
+# 98402 : 孤独な = solitaire
+98402|......juste derrière son vieux maître solitaire, 
+# 98552 : することになっていた = devait se produire (l'anglais « had announced »)
+98552|Pour la fête culturelle d'aujourd'hui, elle avait formé un groupe avec ses amies...‖et devait se produire avec elles en concert sur une scène provisoire.
+# 98569 : ため息をつこうとしたら = elle allait soupirer ; 黄色い声 = cris aigus
+98569|Elle allait soupirer quand son cœur fit un bond : toutes ses amies venaient de pousser des cris aigus.
+# 98625 : 鬼畜眼鏡 = binoclard sadique (trope)
+98625|  C'est vrai que c'est un binoclard sadique ?!"
+# 98635 : ギャル男だし = c'est (présent), l'anglais met un futur
+98635|  "Nan nan nan, mon mec à moi, c'est un beau gos-se !"
+# 98724 : 何系？ = de quel genre (de garçon) ; l'anglais « relationship » est faux
+98724|  Il est de quel genre ?
+# 98736 : idem
+98736|  De quel genre ?!"
+# 98804 : 私の仲間にいれたげる = je t'accepte dans mon camp (des célibataires)
+98804|  Si tu avoues maintenant, je t'accepte dans mon club !
+# 98872 : 素っ頓狂に驚く = cri de stupeur, pas « hystérique »
+98872|La proposition saugrenue de Shannon arracha à Jessica un cri de stupeur.
+# 98956 : 独り者の僻み顔 = la mine envieuse d'une célibataire, pas « complexe d'infériorité »
+98956|"...C'est vrai, ce sera peut-être terriblement embarrassant,‖mais vous n'aurez qu'à tenir bon le temps, à la fois court et si looong, qui vous sépare de la remise des diplômes.‖Pour un couple d'amoureux, il n'est pas de miel plus doux que la mine envieuse d'une célibataire☆"
+# 99000 : 悶絶して転がり回る = se tordre de dépit, pas « s'évanouir »
+99000|En entendant la réplique de Shannon, comme il n'en arrivait même pas une fois par an, Jessica serra son coussin contre elle et se roula sur son lit en se tordant de dépit.
+# 99063 : 若い男はほとんどいない = presque aucun jeune homme sur l'île (pas « visiter »)
+99063|Il n'y avait presque aucun jeune homme à Rokkenjima.
+# 99136 : もう駄目だ = c'est fichu
+99136|  Ouin, ouin, ouin, c'est fichu !!"
+# 99229 : 頭が真っ白 = l'esprit vide, pas « blêmir »
+99229|...Jessica crut qu'il était exaspéré par elle, et son esprit se vida d'un coup.
+# 99334 : 珍妙な取り合わせ = drôle de duo ; 奇声 = cris bizarres
+99334|Jessica, qui continuait de pousser des cris bizarres, et Kanon, qui soupirait profondément, formaient vraiment un drôle de duo...
+# 99563 : 私たちの出番 = notre tour (le groupe)
+99563|"O-O-Ouais, hein ?!‖A-Allez, on traîne pas ici, on va vers la scène, d'accord ?‖Parce qu'on passe bientôt !‖Allez allez allez !!"
+# 99698 : では瞑ります = alors je les ferme
+99698|"...A-Alors, je les ferme."
+# 99772 : 壁に打ち込まれていた = encastrés dans les murs (gag)
+99772|Tout le monde était encastré dans les murs, bras et jambes en croix.
+# 99790 : 勝手が違ってやりにくそう = pas dans son élément (contresens EN)
+99790|Elle poussa énergiquement dans le dos Kanon, visiblement pas dans son élément, et le mit dehors.
+# 99940 : おひとりですか : politesse envers un inconnu → vous
+99940|"E-Excusez-moi, vous êtes seul ?"
+# 100113 : 軽薄 = frivole ; 評価を改めた = réviser son jugement
+100113|.........Au début, il avait trouvé tout cela bien frivole, mais il avait révisé son jugement.‖C'était impressionnant, à sa manière.
+# 100125 : ハイカラ, mot vieilli dans la bouche de Kanon → « dans le vent »
+100125|...Aussi, pour Kanon, la chanson de Jessica était...comment dire...‖...Extrêmement dans le vent.
+# 100235 : ノリには付いていけない = je n'arrive pas à suivre (contresens EN « must not »)
+100235|...Je n'arrive pas à suivre leur délire, mais...
+# 100275 : 見た気がする = avoir vu (passé)
+100275|...Mais j'ai l'impression d'avoir vu quelque chose qu'on `ne peut pas voir' sur Rokkenjima.
+# 100390 : 憮然 = renfrogné
+100390|répondit Jessica, renfrognée.
+# 100498 : propos général de Krauss, à la 3e personne comme la phrase suivante (le « te » jurait)
+100498|"Cette expérience, se tenir au-dessus des autres et porter des responsabilités, lui sera sûrement utile à l'avenir.‖Je suis certain qu'elle aidera Jessica à mûrir en tant que membre de la famille Ushiromiya."
+# 100556 : お子様 = juste une gamine (l'anglais ajoute « entitled »)
+100556|Au fond, je suis qu'une gamine.
+# 100618 : 物憂げ = mélancolique, pas « apathique »
+100618|La Jessica mélancolique de l'instant d'avant avait disparu.
+# 100655 : 照れるぜ = tu me fais rougir
+100655|  S-Sérieux ?  Tu me fais rougir..."
+# 100815 : もう一人の、自分 : notion générale, pas « une autre vous »
+100815|"......Un autre...soi-même."
+# 100823 : 言い聞かせてきた = il se l'est répété ; les épreuves sont la cause, pas la conséquence (double contresens EN)
+100823|"Ouais.‖...Kanon-kun, tu t'es toujours répété que t'étais un meuble.‖...Je pense que t'as dû vivre plein de choses dures pour avoir besoin de te le répéter.‖...Pour ça, je trouve que c'est...
+# 100833 : 最高に生きているって実感 = se sentir vivante comme jamais
+100833|"Tu sais, on peut toujours se créer un autre `soi' à l'intérieur, un soi qu'on peut vraiment finir par aimer.‖Je parle pas de fuir la réalité, hein ?‖...Quand je suis cette autre moi, je me sens vivante comme jamais.‖Alors peu importe à quel point le quotidien devient étouffant et ennuyeux, je peux toujours continuer à vivre sans suffoquer."
+# 100893 : 新しい院生 = enfants accueillis, pas « ceux qui en sortaient »
+100893|La Maison Fukuin, pour offrir aux enfants qu'elle accueillait une nouvelle famille et une nouvelle vie, leur donnait exprès un nouveau nom.
+# 100956 : 自分に思い切り素直に = complètement moi-même, pas « honnêtement »
+100956|"Tu sais, au lycée, on m'appelle Jessie.‖Quand je suis Jessie, je vis à fond, en étant complètement moi-même.‖Et grâce à ça, je peux aussi faire de mon mieux quand je suis Jessica."
+# 101021 : 元は何という木の幹であったか = de quel arbre venait le bois
+101021|"Quel qu'ait été mon vrai nom,‖...la seule vérité désormais, c'est qu'ici, je suis Kanon.‖Le passé n'a rien à voir avec tout ça.‖...Peu importe de quel arbre provenait le bois dont on a fait un meuble."
+# 101194 : ジュリエットになんかしねぇ = il ne fera pas d'elle une Juliette
+101194|  D'accord, George nii-san est quelqu'un de formidable, et il doit être à la hauteur des attentes de ses parents.‖...Je suis sûre que quand il sera question de mariage, Tante Eva va s'en mêler de toutes les façons possibles, et, euh, je pense que leur avenir s'annonce plein d'embûches, d'accord ?!‖...Mais tu sais quoi ?  George nii-san est pas du genre à se plier à ces conneries !‖Il fera pas de Shannon une Juliette, il la rendra heureuse, j'en suis sûre !!"
+# 101259 : もう充分だぜ = ça suffit (c'est bon), pas « j'en ai assez dit »
+101259|"Non, c-c'est bon, ça suffit.‖...Euh, 

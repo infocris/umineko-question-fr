@@ -1,0 +1,116 @@
+# 69805 : suspension → résiliation : 契約の終了を宣告, cohérent avec 69823
+69805|Je l'ai servi de nombreuses années conformément à notre contrat, mais en ce jour, Kinzo-sama a prononcé la résiliation de ce contrat.‖Par conséquent, je vous prie de prendre acte de ma démission du poste d'alchimiste de la famille à compter de ce jour."
+# 69840 : 長年の退職金 : prime de départ pour ses années de service, pas « vieux jours »
+69840|"Bref, c'est un de ces trucs-là, non ?‖Ça ressemble pas exactement à un de ces pactes avec le diable ?‖Le contrat a expiré, alors elle vient récupérer les intérêts.‖Ou alors, c'est sa prime de départ pour toutes ces années de service ?‖Quelle sorcière effrontée."
+# 69911 : Kyrie dit お祖父さま (« Grand-père ») ; « il suffit de demander », pas « ce n'est qu'en »
+69911|"Nous ne pouvons pas prouver son authenticité ici.‖Il suffit de demander directement à Grand-père...s'il a vraiment remis sa bague et si cette lettre dit la vérité."
+# 69930 : ありもしない黄金 : « un or qui n'existe pas » perdu par l'anglais ; どの道 = de toute façon
+69930|"De toute façon, ce ne sont que des sornettes... !‖D'abord, ce mirage de l'or n'est lui-même qu'une mystification de Père.‖Des histoires d'or qui n'existe pas, vous m'en servez déjà bien assez, vous autres !"
+# 69936 : Eva ironise (魔女様は仰って, あられる) ; 家督 = succession ; l'anglais « this is the witch speaking » est un contresens
+69936|"Mais Madame la sorcière l'a bien dit, non ?‖Que la succession et tous les biens iraient à celui qui trouverait l'or, hein ?‖Alors, Beatrice-sama ne serait-elle pas l'avocate-conseil de Père, ou bien la gardienne de son coffre... ?"
+# 69950 : Rudolf à son frère : « mon père » sonne faux → « le vieux » (親父, gouailleur)
+69950|"Aniki, ...il faut que tu sois franc avec nous.‖Est-ce que les biens du vieux pourraient être gérés par quelqu'un que tu ne connais pas ?!
+# 69998 : idem « le vieux » ; « confident de confiance » redondant
+69998|"Faisons simple.‖Bref, le vieux avait un homme de confiance dont même Aniki ignore l'existence.‖En plus, cette personne s'est toujours chargée de surveiller et de gérer l'or.‖Ou alors, c'est un riche excentrique qui lui a proposé un prêt avec des règles dignes d'un pacte avec le diable."
+# 70128 : 負ける気はないぞ = « je n'ai pas l'intention de perdre » (affaibli par l'anglais)
+70128|............Viens, Beatrice.‖Je ne manque pas de pièces à miser.‖Savourons cette nuit pleinement, veux-tu ?‖......Je n'ai pas l'intention de perdre.‖Ton sourire sera mien pour l'éternité.‖Si je pouvais le revoir une fois encore, je ne regretterais pas de perdre ma fortune, mon honneur, ni même ma vie."
+# 70161 : contresens de l'anglais : c'est Maria, vexée, qui nous ignore même quand on lui parle
+70161|Elle en était au point de nous ignorer, même quand on lui adressait la parole.
+# 70228 : 人間ができてる = admiration sincère (un peu ironique), pas « joue les adultes »
+70228|"......Pfff,‖George-aniki, lui, il a la tête sur les épaules."
+# 70274 : 面白くねぇ = mécontentement, pas « ennuyeux » (contresens anglais)
+70274|"......Tss.‖...Ça me reste en travers de la gorge..."
+# 70404 : 溜め息をつく = soupirer, pas « inspiration »
+70404|Kyrie-san a soupiré avec un sourire amer.
+# 70437 : 呆れを通り越して逞しさを感じる : consternation dépassée → admiration, pas « répugnant »
+70437|......Qu'ils aillent aussi loin pour préserver leurs parts...ça dépassait la consternation, au point qu'on finissait presque par admirer leur ténacité...
+# 70481 : あくまでも偽名じゃないすかね = « c'est forcément un faux nom », la question négative était ambiguë
+70481|"Qui sait ?‖C'est forcément un faux nom, non ?‖Genre, elle est la représentante de Grand-père, alors elle a eu la permission de prendre le nom de la sorcière de ses délires ?"
+# 70588 : それは… = « c'est que... », pas « alors »
+70588|"C'est que...
+# 70590 : ほら = « tenez »
+70590|...tenez, Maria l'a dit elle-même.‖Elle a dit que la sorcière avait fait d'elle sa <Messagère>.‖C'est peut-être parce que Maria était la plus jeune et qu'elle avait l'air la plus obéissante..."
+# 70634 : これ見よがしな１９人目のアピール : mise en avant ostentatoire
+70634|"C'est simple.‖Beatrice est l'une des 18 personnes.‖C'est pour ça qu'elle veut créer l'illusion qu'il y a plus de 18 personnes.‖...Cette mise en avant si ostentatoire d'une 19e personne.
+# 70649 : le japonais est une question (誰か)
+70649|Qui a prêté le parapluie à Maria et lui a remis la lettre ?
+# 70709 : Maria parle d'elle à la 3e personne (真里亞が…), tic neutralisé par l'anglais
+70709|"......Uu-...‖Uu-.‖...Personne croit que Maria a rencontré Beatrice !‖......Uu-......
+# 70780 : 兄弟水入らず : pique de Kyrie sur la discussion « entre frères et sœurs », pas « sans moi »
+70780|"Désolée.‖Le maquillage d'une femme, ça prend du temps.‖......Alors ?‖Comment se passe votre petite discussion entre frères et sœurs ?"
+# 70896 : 勿体ぶる = faire des mystères
+70896|...Alors que faire des mystères, ce n'était pas trop le genre de mon père.
+# 71002 : 甘えん坊 = grand bébé (affectueux), pas « enfant gâté »
+71002|"......*gloussement*‖Oui, je vois quelque chose.‖Il veut parler de quelque chose.‖Mais il n'a pas le courage d'aborder le sujet.‖Alors, en réalité, il veut dire `cours après moi, parle-moi et demande-le-moi toi-même.'‖En disant `Me suivez pas', il veut en fait dire le contraire.‖Il veut dire `Suivez-moi et forcez-moi à répondre.'‖......Franchement, quel grand bébé."
+# 71023 : idem 甘えん坊
+71023|"Je vais rester aux côtés de ce grand bébé.‖......D'habitude, il adore fanfaronner, mais ce soir, cette discussion enflammée l'a complètement épuisé.‖Il a sûrement besoin de quelqu'un sur qui s'appuyer en ce moment.‖Et répondre à ce besoin, c'est le rôle de sa partenaire."
+# 71028 : お熱いことで = taquinerie sur le couple
+71028|"Haah.‖Eh ben, c'est le grand amour.‖Alors je vous laisse mon vieux salaud de père."
+# 71137 : contresens anglais : ce sont Eva et Rudolf (pas Kinzo) qui ont rallié Rosa pour écraser Krauss
+71137|Eva et Rudolf avaient rallié Rosa, dont la position parmi les frères et sœurs était faible en raison de son âge.‖Ainsi, à trois contre un, ils cherchaient une fois de plus à écraser Krauss et à faire accepter de force leurs théories insensées.
+# 71140 : suite du même contresens : sujet = les frères et sœurs
+71140|...Et ils remettaient en jeu un conflit qui avait pourtant presque été tranché.‖Ils s'étaient désormais mis à presser Krauss, encore et encore, de leur verser une grosse somme d'argent...
+# 71288 : typographie : espace avant ?
+71288|Qu'est-ce que c'est...... ?"
+# 71387 : typographie : espace avant !
+71387|"Impossible...... !‖...A-Alors, il existe vraiment......"
+# 71442 : typographie : espace avant ?!
+71442|...ce qu'une épouse‖représente pour vous...... ?!"
+# 71463 : 仕えてきました : Natsuhi dit « servir », pas « soutenir »
+71463|"C'est vous qui me mettez dans cet état, n'est-ce pas ?!!!‖Je suis entrée dans cette famille par le mariage, et depuis, je vous sers en tant qu'épouse... !‖Pour vous, j'ai renoncé à la famille dont je suis issue,
+# 71485 : それでいい = froide approbation ; « cela ne fait rien » faussait le sens
+71485|"Hmmm, cela me convient.‖......Je peux régler seul les problèmes avec mes frères et sœurs.‖Je n'ai pas besoin de votre aide."
+# 71494 : あなた… = Natsuhi interpelle son mari ; « Are you...? » est un contresens
+71494|Malgré cela, ...je n'aurais même pas le droit de vous aider... ?!‖Mon époux... !!!"
+# 71499 : 君を思えばこそ : c'est par égard pour elle qu'il l'a tenue à l'écart (perdu par l'anglais)
+71499|"......C'est justement par égard pour vous que je vous en ai tenue à l'écart.‖Cela ne ferait sans doute qu'aggraver vos maux de tête.‖Reposez-vous pour aujourd'hui.‖Les problèmes des frères et sœurs se règlent entre frères et sœurs.‖Cela ne vous concerne pas.‖Ce sera tout."
+# 71568 : 駄目だ = elle se reprend (« il ne faut pas »), « ça ne va pas » était ambigu
+71568|...il ne faut pas.
+# 71589 : 並み以下 : « légèrement » ajouté par l'anglais
+71589|...Comparé à Jessica, en pleine crise d'adolescence et dont les notes sont en dessous de la moyenne, on voit au premier coup d'œil lequel des deux est le plus apte à succéder au chef de famille.
+# 71606 : 自ら禁じた記憶 : souvenir qu'elle s'était interdit
+71606|C'était pourtant un souvenir qu'elle s'était elle-même interdit.
+# 71625 : 何を考えて生きていけばいいのか : à quoi se raccrocher pour vivre
+71625|"............‖À quoi dois-je me raccrocher pour continuer à vivre ?
+# 71671 : Natsuhi, épuisée, parle doucement (ごめんね, 母さんは) : registre adouci, contraste voulu
+71671|".........Jessica,‖excuse-moi, Maman a très mal à la tête.‖Tu veux bien me laisser tranquille ?"
+# 71752 : 邪険にしてしまいそうになる気持ち : l'envie de la rabrouer, pas « malveillants »
+71752|Elle secoua légèrement la tête pour chasser l'envie de la rabrouer...
+# 71775 : 寝込む = tomber malade/s'aliter ; sinon le « ça porte malheur » de Jessica (71780) n'a pas de sens
+71775|"......Merci de ta prévenance.‖......Je ne peux pas me permettre de tomber malade et de te laisser derrière moi."
+# 71807 : 魔除け = protection contre le mal, pas « contre la magie »
+71807|"Euh, dis, Maman !‖J'ai, euh, reçu un porte-bonheur aujourd'hui.‖C'était quoi déjà, un talisman contre les mauvais esprits ?
+# 72125 : 実に素敵な大雨 : ironie de Battler
+72125|Quand on a ouvert la porte d'entrée, on a été accueillis par une averse absolument splendide.
+# 72514 : 深い溜め息 = soupir
+72514|En la regardant partir, Kanon laissa échapper un profond soupir...
+# 72528 : 遊んでくるといい : Genji encourage Kanon directement
+72528|"C'est seulement parce que tu n'étais pas là à ce moment-là.‖Si tu l'avais été, tu aurais été invité toi aussi.‖......Va donc jouer comme un enfant de ton âge, pour une fois."
+# 72535 : そうか = acceptation (« je vois »), pas un doute
+72535|"...............Je vois."
+# 72668 : 会社を興す = fonder une entreprise (contresens anglais « prosperity »)
+72668|"Rien d'étonnant à ce que vous soyez si prévoyant, vous qui fonderez un jour votre propre entreprise."
+# 72674 : idem 会社を興す = fonder
+72674|"...Fonder une entreprise, c'est vraiment difficile.‖L'argent n'est pas la seule chose qui compte.‖C'est ce que j'ai bien appris auprès de mon père.‖Fonder une entreprise, c'est posséder un château et commander ses vassaux."
+# 72691 : 褒章 = récompense (pas de « décoration » chez Shingen) ; 戦が終わってから = après la bataille
+72691|"Pour unifier ses troupes, Shingen a fait preuve de grandes qualités de chef de bien des manières.‖Par exemple, quand un soldat s'illustrait au combat, il le récompensait sur-le-champ.‖Normalement, on attendait la fin de la bataille pour distribuer toutes les récompenses d'un coup.
+# 72695 : お見舞い = visite au malade, pas « soigner »
+72695|"Il a poursuivi cette pratique avec assiduité sur le champ de bataille,‖et le fait de montrer immédiatement sa reconnaissance pour les exploits militaires de ses troupes les motivait considérablement.‖Aussi, chaque fois que l'un de ses hommes tombait malade, il était le premier à accourir à son chevet, et ainsi de suite.‖...Takeda Shingen n'était pas seulement l'homme qui commandait la cavalerie la plus puissante de l'époque Sengoku.‖C'était celui qui prenait le plus soin de ses troupes de toute cette ère."
+# 72719 : 切磋琢磨 = efforts acharnés, pas « rivaux surmontés »
+72719|......Depuis que j'ai compris ça, quand je regarde le dos de mon père, je mesure à quel point je suis immature.‖Je vois clairement tous les efforts qu'il a dû fournir pour bâtir tout ce qu'il possède aujourd'hui."
+# 72772 : さもなければ = « ou bien », pas « du moins »
+72772|Ou bien des enfants que des circonstances particulières avaient séparés de leurs parents.
+# 72811 : ある時 = un jour (événement unique), pas « parfois »
+72811|C'est pourquoi, un jour, Kinzo les avait autorisés à porter le blason de la famille, en tant que domestiques placés sous son autorité directe, et les avait gardés auprès de lui...
+# 72871 : 温かくも窒息しそう : douillet mais étouffant, pas « brûlant »
+72871|L'intérieur de la coquille est peut-être un monde douillet, mais étouffant et ennuyeux,‖mais le monde au-delà de cette coquille est vaste et rempli de possibilités infinies.
+# 72932 : présent dans le JA : Shannon pose la règle du jeu (promesse non, ordre oui)
+72932|"......J-Je ne peux pas m'y plier s'il s'agit d'une promesse.‖...Mais si c'est un ordre, je suis obligée d'obéir...‖Parce que je suis......un meuble."
+# 72976 : 薔薇も頬を染めるような時間 : des instants à faire rougir les roses ; l'anglais a mal construit
+72976|De temps à autre, un éclair tentait de jeter un froid, mais il ne pouvait souiller ces instants à faire rougir les roses elles-mêmes...
+# 73100 : 特別な意味を持って : chargé d'un sens particulier (pas « circonstances »)
+73100|C'était un objet noble, offert depuis les temps anciens, chargé d'un sens particulier, à une femme particulière.
+# 73154 : 臆病な甘え : se réfugier lâchement derrière l'ordre
+73154|"Je pourrais sans doute t'ordonner de la porter à la main gauche.‖Et toi, tu te réfugierais peut-être lâchement derrière cet ordre pour t'y plier.‖......Mais je veux qu'au moins cette dernière étape...vienne de ta propre volonté, Sayo.‖...Tu comprends ?"
+# 73300 : 呆れる = être sidérée/agacée, pas « écœurée »
+73300|...Shannon en fut un peu sidérée.

@@ -1,0 +1,114 @@
+# 65772 : `いかにもって感じ' = ça a tout d'une vraie histoire de trésor ; l'anglais affadit
+65772|  .........N'empêche, le château d'Odawara, hein ?‖  L'or caché du château d'Odawara...‖  Oh oh ?!‖  Ça, ça sent carrément la vraie chasse au trésor, non ?!"
+# 65893 : l'anglais omet que le séisme du Kanto a failli anéantir les Ushiromiya (élément de lore)
+65893|"...Le Maître ne parle presque jamais du passé.‖  ...Cependant, il évoque le grand tremblement de terre du Kanto, qui a failli anéantir la famille Ushiromiya, comme s'il s'agissait de l'histoire de quelqu'un d'autre, ‖il vivait donc peut-être loin de la région du Kanto."
+# 65899 : 本家 = la branche principale (pas « la famille Ushiromiya » en général) ; contresens de l'anglais
+65899|"La branche principale des Ushiromiya vivait peut-être à Odawara, mais ce n'était pas forcément le cas des branches cadettes.‖  Grand-père se décrivait souvent comme membre de la branche d'une branche cadette, ‖la plus éloignée de la succession."
+# 65952 : 暇潰し = c'est pour tuer le temps, pas « on perd notre temps »
+65952|  Bah, de toute façon, c'est pour tuer le temps.‖  Écoutons la suite du raisonnement de Battler !"
+# 65995 : 最後は極めつけだな = « et la fin, c'est le bouquet » ; l'anglais « guaranteed » est un contresens
+65995|"...Je vois, des sacrifices pour ramener la sorcière...‖  Ouais, on peut le voir comme ça.‖  Du coup, la sorcière ressuscite au neuvième crépuscule...‖  ...Et la fin, c'est le bouquet."
+# 66047 : 魔女さま ironique, perdu en anglais
+66047|"Elle a un sacré emploi du temps, Madame la sorcière : tuer, ressusciter, séparer, réunir les gens..."
+# 66139 : ヘソを曲げる = bouder, pas « très en colère »
+66139|Maria s'était mise à bouder pour de bon et s'était agrippée à George-aniki.
+# 66152 : に変わり (= 代わり) = « à notre place », pas « contrairement à »
+66152|À notre place, à Jessica et moi qui baissions la tête sans savoir quoi faire, c'est Shannon-chan qui a timidement pris la parole.
+# 66199 : référence japonaise aux « sept mystères de l'école », l'anglais met un feu de camp
+66199|L'histoire que Shannon a racontée était une histoire de fantôme typique, du genre des légendes qui circulent dans les écoles.
+# 66236 : 小人 / 妖精 = lutins / fées, plus naturel que nain / elfe
+66236|Selon les endroits, on en rejette la faute sur des lutins ou des fées.
+# 66239 : 夜回り = ronde de nuit (domestiques), pas une promenade
+66239|Bien sûr, faire la ronde de nuit dans un manoir vaste et élégant, ça ne pouvait qu'être un peu inquiétant.
+# 66244 : 見回り = ronde, même correction
+66244|Comme le manoir est plein de courants d'air, la ronde un soir d'orage devait vraiment être sinistre.
+# 66257 : ひゅう = sifflement impressionné, pas un soupir de soulagement
+66257|"......Fiou.‖  Ça fait froid dans le dos..."
+# 66312 : それは困ったね = « voilà qui est embêtant »
+66312|"Voilà qui est embêtant...
+# 66317 : 魔除け = talisman contre le mauvais sort
+66317|  Maria-chan, il n'y aurait pas une sorte de porte-bonheur qui pourrait protéger Battler-kun et Jessica-chan de la colère de Beatrice-sama ?‖  Un talisman contre les mauvais sorts, par exemple ?"
+# 66358 : むずかった表情 = mine boudeuse, pas « intense »
+66358|Avec une mine incroyablement radieuse comparée à la moue boudeuse qu'elle avait jusque-là, elle nous a tendu `ces trucs', à Jessica et moi.
+# 66482 : 小さく手を叩くような仕草 = applaudir doucement ; えっへん = fierté
+66482|Shannon-chan a fait mine d'applaudir doucement, et Maria a bombé le torse, toute fière.
+# 66650 : 最敬礼 = salut profond (pas une révérence) ; ぱたぱた = petits pas pressés
+66650|Après s'être inclinée bien bas, Shannon-chan est partie à petits pas pressés vers la roseraie.
+# 66820 : 現にない = « pourtant elle est pas là » ; « si... ? » bancal
+66820|"Mais elle est pas là, pourtant... ?‖  Elle était peut-être de l'autre côté du parterre.‖  Si on cherche tous, on la trouvera vite, d'accord ?"
+# 66893 : 困ったな = « c'est embêtant »
+66893|"On ne peut pas trouver quelque chose qui n'est pas là...‖  C'est embêtant..."
+# 67092 : 堰を切ったように泣き出し = éclater en sanglots ; l'anglais lit « s'étrangler »
+67092|Elle a éclaté en sanglots, comme une digue qui cède... et elle s'est mise à brailler de plus en plus fort...
+# 67104 : 苦笑い = sourire gêné, pas amer ; 凄まれ = intimidé
+67104|J'ai essayé de m'interposer avec un sourire gêné, en me frottant les mains, ‖...mais Tante Rosa m'a fusillé du regard, le visage sérieux, et j'ai compris que j'aurais mieux fait de me mêler de mes affaires.
+# 67160 : へっへー = petit rire nerveux de Battler, pas « Hé »
+67160|"Hé hé..., Tante Rosa, ‖même si c'est votre fille, la violence, c'est pas la solution..."
+# 67179 : さすがに高校には = « au lycée, quand même pas » (personne ne fait ça au lycée)
+67179|"Bah, au lycée, quand même pas...‖  Mais pour une écolière, je trouve que dire `uu-uu-', c'est plutôt mignon..."
+# 67235 : うずくまりながら = recroquevillée ; « tremblante » ajouté par l'anglais
+67235|Tante Rosa a frappé la tête de Maria, recroquevillée par terre, qui protestait de plus en plus fort.
+# 67315 : 白々しかった = nos mots sonnaient faux ; « sans gêne » est un contresens
+67315|On a lancé à Maria qu'on allait à la maison d'hôtes, ‖mais elle n'a pas eu l'air d'entendre, et on s'est sentis un peu coupables, nos paroles sonnaient creux...
+# 67343 : じんじん = la main lui cuisait encore, pas « engourdie » ; 感情的に = sous le coup de l'émotion
+67343|...C'était parce que la main avec laquelle elle avait frappé la joue de Maria sous le coup de l'émotion... la brûlait encore.
+# 67420 : とうとう降り出したらしい = la pluie avait enfin commencé ; l'anglais invente « à verse »
+67420|La pluie avait fini par tomber.
+# 67458 : 家督 = la charge de chef de famille (il jette la bague), pas « l'héritage »
+67458|"...Viens, dévore tout ton soûl... !!‖  Je triompherai de cette roulette.‖  Oui, je mettrai tout en jeu.‖  D'abord, je te rends le titre de chef de la famille Ushiromiya.‖  Accepte-le !!"
+# 67569 : 後でかっちりと見られる = le travail est contrôlé après coup ; personne « derrière toi » (contresens anglais)
+67569|"Si les bateaux ne viennent pas, je reste à la maison.‖  Mais c'est pas aussi génial que ça en a l'air.‖  En général, on nous donne du travail à faire à la place, et tout est vérifié de près après, alors c'est pas si tranquille."
+# 67579 : 口酸っぱく = en rabâchant, pas « d'un ton aigre »
+67579|"Ça arrive, parfois.‖  Mais mon prof principal m'appelait tous les jours sans faute, pour me rabâcher comment étudier toute seule et ce que je devais rendre."
+# 67632 : 雨が降ろうが槍が降ろうが porte sur la ville rêvée (aller à la supérette par tous les temps), l'anglais le rattache mal
+67632|  ...Du coup, j'ai dû rester près de la maison même pour le lycée.‖  Franchement, je déteste cette île.‖  Je veux juste aller vivre en ville.‖  Une ville où, qu'il pleuve ou qu'il tombe des hallebardes, je pourrai sortir en tenue décontractée et en sandales...‖et aller à une supérette en moins de cinq minutes..."
+# 67738 : 三人の姿を認めた上で = après avoir constaté qu'on n'était que trois
+67738|Après avoir constaté qu'on n'était que trois, Kanon-kun a jeté un œil dans la chambre vide.
+# 67864 : 馬鹿が七つ付くほどの正直 = honnête jusqu'à la bêtise
+67864|Maria était d'une honnêteté confinant à la bêtise,‖ ......et si on lui ordonnait de chercher quelque chose qui n'existait pas, elle chercherait éternellement.
+# 67934 : ヘソ曲げて = bouder, pas « rébellion »
+67934|"En tout cas, je commence à m'inquiéter sérieusement pour Maria.‖  .........Vous croyez pas qu'elle boude encore dans son coin, à chercher cette rose toute seule ?"
+# 67944 : 愚直 = droiture naïve ; « franchise intense » ne veut rien dire
+67944|du moins, j'aimerais pouvoir le croire, mais Maria-chan peut parfois être très têtue, et d'une droiture terriblement naïve."
+# 68065 : スレる = devenir moins naïf, plus blasé ; l'anglais généralise
+68065|À neuf ans, avec tout ce qu'on a vécu de bon et de mauvais, on devient normalement un peu moins naïf.
+# 68371 : 金輪際つけられそうにない = « nous ne la finirions jamais » (présage) ; « fin du monde » ajouté par l'anglais
+68371|  ............Sans quoi, je crains que nous ne la terminions jamais."
+# 68460 : 苦笑い = sourire contraint, pas amer
+68460|Krauss revint avec Nanjo, un sourire contraint aux lèvres.
+# 68501 : 一斉に注目した = tous les regards se tournèrent vers elle
+68501|Lorsque Rosa rompit timidement le silence de la salle à manger, tous les regards se tournèrent vers elle.
+# 68529 : かなりの違和感 = le mot sonnait faux
+68529|Le mot `amicale' sonnait franchement faux dans la bouche d'Hideyoshi,‖ si bien que même ceux qui n'avaient pas été présents comprirent que la conversation n'avait pas été agréable.
+# 68581 : 何か粗相がございましたでしょうか = keigo de Shannon, elle craint une faute de sa part
+68581|"...Oui ?‖  A-Aurais-je commis une maladresse... ?"
+# 68605 : からからと笑う = rire de bon cœur ; « ricaner » est péjoratif
+68605|Pendant qu'elle parlait, Kumasawa-san a éclaté d'un rire franc.
+# 68633 : c'est Natsuhi elle-même qui a donné l'ordre (命じたのです), l'anglais dilue au passif
+68633| j'ai pensé qu'il serait pénible pour tous nos invités de retourner à la maison d'hôtes,‖ alors j'ai ordonné aux domestiques de préparer les chambres d'amis du manoir."
+# 68640 : あぁら…ものねぇ ? = ironie appuyée d'Eva envers Natsuhi
+68640|"...Tiens donc ?  Comme c'est prévenant.‖  Eh oui, ce serait impoli de nous mettre à la porte sous une pluie pareille, hein ?"
+# 68764 : たたずむ = se tenir immobile, pas « traîner »
+68764|...Donner un parapluie à une fillette restée seule sous la pluie était une chose dont on pouvait être fier, pas une chose à cacher.
+# 68828 : 納得が行かない = pas convaincue, pas « n'en revenait pas »
+68828|Rosa ne semblait pas convaincue.
+# 68829 : 煙に巻かれる = être mené en bateau
+68829|...Elle voulait seulement dire merci pour le parapluie, alors pourquoi fallait-il qu'on la mène ainsi en bateau... ?
+# 68872 : 愚直なぐらい正直で真面目 = honnête et sérieuse jusqu'à la naïveté
+68872|"Pas du tout.‖  Elle a toujours été honnête et sérieuse, presque jusqu'à la naïveté.‖  C'est le genre à croire n'importe quelle blague, même celles dont les gens normaux voient tout de suite que c'est des mensonges.‖  Je l'ai même jamais entendue faire une blague."
+# 68895 : ゴツいドレス = la grosse robe imposante, pas « chic » (et l'image de Genji dedans est comique)
+68895|"Alors qu'est-ce qui se passe ?‖  Tu veux dire que Genji-san ou quelqu'un d'autre a enfilé la grosse robe à froufrous du portrait pour donner le parapluie à Maria ?"
+# 68992 : あまりお好きではない = n'apprécie guère
+68992|n'apprécie guère Maria-sama."
+# 69035 : 見下したような言葉遣い = ton condescendant, plus précis que « impolitesse »
+69035|Kanon foudroya du regard Gohda, qui parlait avec condescendance à Genji, qu'il respectait.
+# 69304 : あいたたたた = « aïe aïe aïe » (sujet qui fait mal), pas « attendez »
+69304|"Aïe, aïe, aïe...  Touché...‖  Kyrie-san, si vous commencez à parler de ce genre de trucs en plein repas, on va mal digérer et on va tous finir constipés."
+# 69501 : 秀吉兄さん — Kyrie dit « nii-san » (cohérent avec « Natsuhi nee-san »)
+69501|"Hideyoshi nii-san, on ne peut pas employer la force contre une enfant.
+# 69532 : 洒落てる = avoir du style ; « toute-puissante » ajouté par l'anglais ; 魔女さま ironique
+69532|"<Messagère>... ?‖  Ihihihi, elle a du style, Madame la sorcière de l'île, dis donc."
+# 69609 : 曖昧な言葉は慎んで = s'abstenir de propos hasardeux ; « discrétion » est à côté
+69609|"Je suis tout à fait d'accord.‖  Je ne peux pas accepter qu'on décide arbitrairement que cette lettre vient de Père...en se fondant uniquement sur le cachet de cire.‖  Docteur Nanjo, auriez-vous l'obligeance de vous abstenir de propos aussi hasardeux... ?!"
+# 69761 : 気の利いたこと = un tour astucieux, pas « réfléchi »
+69761|".........M-Maria n'est pas le genre d'enfant capable d'un tour aussi astucieux."

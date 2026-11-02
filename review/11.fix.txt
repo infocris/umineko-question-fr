@@ -1,0 +1,122 @@
+# 92108 : 恥ずかしい言い回し… と思ってた — il le pensait lui-même ; l'anglais perd « gênante »
+92108|Jusqu'ici, ‖......il aurait cru qu'une réplique aussi gênante n'existait plus de nos jours, pas même dans un manga.
+# 92290 : 少し遅い昼食, 展望レストラン — ni « léger » ni « milieu d'après-midi »
+92290|Après avoir fait tout le tour de l'aquarium, nous avons pris un déjeuner un peu tardif dans un restaurant panoramique avec une belle vue.
+# 92301 : みっともなく山盛り — « m'empiler » bancal ; idée : ce serait inconvenant
+92301|Je ne pouvais pas me servir des montagnes de mes plats préférés sans avoir l'air ridicule.
+# 92444 : 白い目で見る = regarder de travers, pas « air ahuri »
+92444|C'est pour ça que les autres ont beau nous regarder de travers, on ne le remarque jamais.
+# 92447 : この歳にしてようやく = « à mon âge seulement », pas « à cet âge-là »
+92447|......Je vois, ce n'est qu'à mon âge que je comprends enfin ce que ressentent les couples qui veulent se faire des mamours sans se soucier de leur entourage.
+# 92469 : 本来の美しさには程遠かった ; double « en » fautif
+92469|Mais à cause du ciel couvert, le paysage restait bien loin de sa beauté véritable.
+# 92484 : 僕の点は辛い = je note sévèrement (prépare le « cent points » suivant)
+92484|Visiblement, Shannon faisait de son mieux pour dire une réplique gênante. ‖ Mais je n'étais pas un correcteur indulgent.
+# 92540 : いじられキャラ = le souffre-douleur gentiment moqué, pas « harcelé »
+92540|À l'école primaire, j'étais toujours le gamin dont tout le monde se moquait.
+# 92543 : オロオロ、オタオタ ; « tout le monde » se réjouissait, pas des « persécuteurs »
+92543|Quand tout le monde me taquinait, je m'affolais et je perdais mes moyens, et ma réaction faisait le bonheur de tous.
+# 92666 : 甘えん坊 → « grand bébé »
+92666|"*gloussement* ‖ Alors c'est ça que vous vouliez vraiment. ‖ ......Franchement, vous êtes un vrai grand bébé, George-sama.
+# 92760 : 挨拶をするだけ — ils ne faisaient que se saluer
+92760|"Moi aussi, ça me surprend. ‖ Je ne t'ai pas rencontrée hier ou aujourd'hui, Shannon-chan. ‖ Ça fait des années qu'on se connaît. ‖ Mais on ne faisait que se saluer pendant ces réunions de famille qui n'ont lieu que quelques fois par an.
+# 92814 : 想う力 = la force de penser à quelqu'un, pas « le pouvoir de l'amour » ; その魔法
+92814|"Alors c'est à ton cœur qui y croyait qu'on doit notre relation. ‖ La magie réside dans la force des sentiments qu'on porte à quelqu'un. ‖ Je suis sûr que c'est cette magie qui nous a réunis."
+# 92861 : おまじない = formule porte-bonheur (pas « rituel ») — écho au porte-bonheur de Shannon
+92861|"Tu parles d'une sorte de formule porte-bonheur ?"
+# 92864 : idem おまじない ; 本当に本当の魔法
+92864|"Oui, ‖ on pourrait dire que c'est de cet ordre-là. ‖ ...Sauf que ce n'était pas une simple formule porte-bonheur, mais...de la vraie magie, pour de vrai."
+# 92897 : だから僕は言ってやる = « alors je lui dis » ; « défendre la magie » est une invention
+92897|Alors je le lui dis.
+# 93166 : 納められている = enchâssé (objet du culte), pas « en offrande »
+93166|Je rassemble mon courage, ‖ ...m'approche timidement du petit sanctuaire, ‖ ...et prends le miroir qui y est enchâssé.
+# 93327 : 怒り = colère, pas « haine »
+93327|...C'est vraiment la colère des anges qui cherchent à me bannir du paradis éternel.
+# 93422 : 義務教育に行かせてもらえた — repris mot pour mot par Eva puis Beatrice
+93422|Pour une personne moins qu'humaine, le simple fait d'avoir été autorisée à suivre la scolarité obligatoire était déjà une immense faveur.
+# 93514 : 爪の垢 → « prendre de la graine »
+93514|"Vraiment admirable. ‖ J'aimerais bien que notre Jessica en prenne de la graine..."
+# 93523 : 受験勉強 = examens d'entrée ; こんな席でまで = pas la peine d'en parler jusqu'ici
+93523|"...Franchement. ‖ Tu m'en veux encore pour ces résultats d'examen ? ‖ Je prépare mes examens d'entrée à ma façon. ‖ Pas la peine d'en parler même ici. ‖ Ça me gonfle."
+# 93543 : 男に食わしてもらうため = pour se faire entretenir par un homme (l'anglais « entertain » fausse)
+93543|"Allons, elle a un certain charme à sa façon, tu ne trouves pas ? ‖ Les temps changent. ‖ L'époque où l'on devait jouer les femmes vertueuses pour se faire entretenir par un homme est révolue depuis longtemps."
+# 93577 : 半ズボン姿 = en culottes courtes, pas « à moitié nu »
+93577|...Quoi qu'il en soit, le temps passe vraiment vite. ‖ J'ai l'impression que c'était hier que tu courais en culottes courtes sur la plage et que tu revenais trempé."
+# 93630 : 言って聞かせます — Natsuhi répond à Krauss (keigo), elle parle de Jessica à la 3e personne
+93630|"...Je lui ferai la leçon sur son langage tout à l'heure."
+# 93711 : 身内の恥を見られた = une honte familiale exposée devant une domestique
+93711|Shannon n'avait en réalité rien fait de mal, ‖ mais Natsuhi, qui avait l'impression qu'une domestique venait d'assister à une honte familiale, s'en prit à elle sous le coup de l'émotion.
+# 93826 : グレイ伯爵 = le comte Grey (titre, pas prénom)
+93826|"D'après ce que j'ai entendu, il y avait autrefois en Angleterre un certain comte Grey, et le thé porte son nom.
+# 93958 : 今更ノコノコと戻れず — elle ne peut décemment pas revenir ; pas de « nonchalance »
+93958|Après sa dispute avec sa mère, Jessica ne pouvait plus décemment retourner au salon, et tuait donc le temps ici.
+# 94004 : 遮った ; ピンとくる = Jessica comprend aussitôt
+94004|Pour une fois, Shannon avait coupé la parole à Jessica d'un ton un peu ferme, et Jessica comprit aussitôt.
+# 94016 : 家庭的な子 = fille d'intérieur, pas « sens de la famille »
+94016|"Maintenant que j'y pense, j'ai presque jamais entendu parler de George nii-san et de l'amour. ‖ Hmm ? ‖ Il me semble l'avoir entendu dire que son genre, c'était les filles qui ont l'âme d'une femme d'intérieur, non ?
+# 94110 : 疫病神 = dieu de la peste (porte-malheur), repris par George
+94110|"Hahaha, t'as bien fait de t'échapper. ‖ Plutôt embrasser le dieu de la peste que d'aller voir la tête de Grand-père."
+# 94117 : idem 疫病神 — c'est eux, les fâcheux, aux yeux de Kinzo
+94117|"Tu ne devrais pas parler comme ça. ‖ ...Mais tu sais, c'est peut-être nous que Grand-père voit comme le dieu de la peste. ‖ Après tout, on est venus parler d'emprunter de l'argent pour les affaires."
+# 94196 : 何度か = plusieurs fois ; 正座をさせる = punition à genoux, pas « se tenir droit »
+94196|...Shannon elle-même avait plusieurs fois vu Kinzo gifler Krauss ou le forcer à rester agenouillé en seiza.
+# 94536 : 小意地悪そう = un brin moqueur, pas « sadique »
+94536|En les regardant tous les deux, Jessica gloussa d'un air un brin moqueur.
+# 94563 : 鬼の首でも取ったみたい — l'image japonaise passe en français
+94563|"Tch... ‖ On dirait que tu viens de rapporter la tête d'un ogre. ‖ Les hommes ne font pas le poids face aux filles quand il s'agit de ce genre de choses."
+# 94567 : 大抵 ; 不勉強でけしからん = ne travaille pas, inadmissible (pas « impolie »)
+94567|D'ordinaire, quand George et Jessica se retrouvaient, les parents en venaient presque toujours à dire `George est appliqué, c'est admirable' et `Jessica ne travaille pas, c'est inadmissible'.
+# 94775 : 苦笑い → sourire contraint
+94775|Eva eut un sourire contraint, un peu exaspérée.
+# 95022 : 義務教育に行かせてもらった恩も忘れて = l'ingratitude (école obligatoire), écho de 93422
+95022|"Je suis sûre que tu trouveras quelqu'un d'assorti à une vulgaire domestique comme toi. ‖ ......Tu oublies ce que tu dois à ceux qui t'ont laissée aller à l'école obligatoire. ‖ Reste à ta place."
+# 95036 : 釣り合う = être assortie à George ; « me voler George » est une invention de l'anglais
+95036|Tu crois vraiment qu'une vulgaire domestique sans instruction, incompétente, sans qualifications et inculte peut être assortie à George, hmmmm ?"
+# 95066 : 念を押すように = comme pour enfoncer le clou, pas « encourager »
+95066|Une fois leur conversation secrète terminée, Eva tapota l'épaule de Shannon, comme pour enfoncer le clou.
+# 95114 : ちょっとだけいい気になっていた = un peu grisée, pas « prétentieuse »
+95114|...Je me reproche durement...de m'être un peu laissée griser.
+# 95162 : 手をまったく動かしていなかった — rien fait du tout
+95162|Mais elle n'avait fait que soupirer, sans que ses mains bougent le moins du monde...
+# 95213 : 要領がいい = savoir s'y prendre (pas « rusée »)
+95213|Ainsi, elle pouvait accomplir ses tâches avec un résultat presque identique aux yeux d'un observateur extérieur, mais en bien moins de temps. ‖ Autrement dit, elle savait s'y prendre.
+# 95216 : 要領が悪い, idem
+95216|En comparaison, on peut sans doute dire que Shannon ne savait vraiment pas s'y prendre, elle qui avait répondu à Natsuhi alors que celle-ci était de mauvaise humeur...
+# 95333 : いつからいたとしても = quel que soit le moment où il était arrivé
+95333|Depuis combien de temps était-il là ? Quoi qu'il en soit, elle n'aurait pas pu le remarquer...
+# 95543 : 訴える = s'épancher, se confier ; 姿なき = invisible
+95543|Elle s'épanchait au fond de son cœur, avec des mots qu'elle ne pouvait pas prononcer à voix haute, ...et se confiait à la sorcière invisible.
+# 95709 : やがて…西暦紀元と呼ばれるようになった — c'est l'année de sa naissance qui devint l'an 1
+95709|...Quelle simplicité, quelle clarté, quelle splendeur, quelle exaltation, quel plaisir, quel frisson. ‖ ...Par la suite, l'année de sa naissance devint d'ailleurs le début de notre ère. ‖ ...*ricane*ricane* !"
+# 95768 : そなたは誇っていい = tu peux en être fière
+95768|"Tu comprends ? ‖ Quand Adam et Ève portèrent à leurs lèvres le fruit de la connaissance, c'est l'amour qu'ils découvrirent. ‖ ...C'est pour cela que les hommes furent chassés du jardin et devinrent pleinement `humains'. ‖ Ce qui signifie que c'est connaître l'amour et la souffrance qui fait de nous des humains. ‖ ...Toi, enfant au cœur tendre. ‖ Tu peux en être fière. ‖ Maintenant que tu as acquis ce savoir, tu n'es plus un meuble. ‖ Tu es désormais `humaine'. ‖ Je le reconnais de toute l'autorité de mon nom."
+# 95840 : それは本当なんですね = « c'est donc vrai ? », pas « oui, bien sûr »
+95840|`C'est donc vrai ?' ‖ ...Shannon faillit le dire sans réfléchir, mais se retint grâce à ses dernières bribes de bon sens.
+# 95909 : 安心せよ = sois sans crainte
+95909|"Sois sans crainte.  Je ne demande rien en retour. ‖ Je suis généreuse.
+# 95931 : rocher qui affleure ; « en contemplant les falaises » est un ajout
+95931|"Sais-tu que tout près de cette île, un rocher affleure de la mer, et qu'on y a installé un petit torii et un sanctuaire... ?"
+# 96002 : 忌々しい = maudit ; 手間をかけて = prendre la peine
+96002|"Cela se résume à ceci. ‖ Si tu prends la peine de briser pour moi ce maudit miroir, ‖ j'exaucerai ton souhait en récompense."
+# 96054 : 割れぬ今日まで = jusqu'ici, tant qu'il est resté intact (pas « jours inébranlables »)
+96054|"Hmm... ‖ Oui, oui, tu as parfaitement raison. ‖ C'est exactement comme tu dis. ‖ Si tu ne le brises pas, les mêmes jours que jusqu'ici, où il est resté intact, se poursuivront demain et après-demain. ‖ Je t'en donne même ma garantie absolue."
+# 96061 : idem dans la formule en doré
+96061|"J'en fais le serment sur mon nom, Beatrice. ‖ ~ib~Les mêmes jours que jusqu'ici, où il est resté intact, se poursuivront demain et après-demain~ib~. ‖ Et pour l'éternité, à perpétuité."
+# 96100 : 魔女は言っているのだ = « voilà ce que disait la sorcière »
+96100|Voilà ce que disait la sorcière.
+# 96163 : 鬼ではない = pas un monstre (« démon » brouille le lore des démons de Beatrice)
+96163|"Lorsque celui qui t'est cher aura trouvé la compagne à qui il doit jurer son amour, cette limite sera atteinte. ‖ ...Je suis peut-être une sorcière, mais je ne suis pas un monstre. ‖ Je ne possède aucune magie capable de séparer deux êtres qui s'aiment... ‖ *ricane*ricane*ricane*ricane* !!"
+# 96195 : écho exact de la phrase d'Eva (95022)
+96195|Comment une fille ignorante, incapable et inculte comme toi pourrait-elle lui convenir ? ‖ Tu le sais mieux que personne. ‖ Nulle ne lui convient moins que toi ! ‖ Ne serait-ce qu'imaginer que toi et Ushiromiya George puissiez être unis est un péché, une folie, une folie, une folie, reste à ta place !! ‖ ......Tu oublies ce que tu dois à ceux qui t'ont laissée aller à l'école obligatoire. ‖ Reste à ta place.
+# 96209 : Beatrice répète Eva mot pour mot (95033/95036) : texte aligné
+96209|George est le petit-fils aîné qui porte le sang de Père. ‖ C'est quelqu'un qui portera peut-être un jour le poids de la famille Ushiromiya. ‖ Pour répondre à cette attente, il a étudié sans relâche, il est entré dans une excellente université et il obtient d'excellentes notes. ‖ Tu crois vraiment qu'une vulgaire domestique sans instruction, incompétente, sans qualifications et inculte peut être assortie à George, hmmmm ?
+# 96229 : Kanon dit 貴様 — tutoiement hostile
+96229|"...A-Arrête, ne tourmente pas Shannon !! ‖ Qui es-tu, toi ?!!"
+# 96281 : 美容にはちと悪い — mauvais pour SON teint à elle
+96281|"......Bien, restons-en là pour ce soir. ‖ Les regards hostiles ont beau être plaisants, ils sont un peu mauvais pour mon teint, vois-tu ? ‖ *ricane*ricane*ricane*..."
+# 96289 : Kanon dit お前 — tutoiement
+96289|"Disparais...!! ‖ Je ne sais pas qui tu es, mais tu menaces Shannon ! ‖ Ne te montre plus jamais !!"
+# 96401 : 何の真似だ (Kanon) — tutoiement
+96401|tu essaies de faire... ?!"
+# 96498 : 家具ども = pluriel méprisant (Shannon et Kanon)
+96498|"Bien, revoyons-nous quand l'occasion se présentera. ‖ Qu'il est divertissant de converser de nouveau après tant de temps. ‖ Adieu, les meubles. ‖ Ahahahahahahahahahahahahahaha !"

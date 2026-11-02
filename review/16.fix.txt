@@ -1,0 +1,180 @@
+# 116782 : 魔女さま ironique (Battler) ; のたまう = « prétend »
+116782|...Ou alors, comme le prétend Maria, c'est Madame la sorcière de la Légende de l'or, la coupable ?!
+# 116786 : 短気を起こすまでもなく = pas besoin de s'emporter comme Jessica pour voir… (l'anglais déplace)
+116786|Pas besoin de s'emporter comme Jessica : vu les circonstances, cette visiteuse est sans doute la plus suspecte.
+# 116787 : 駄目 ≠ inutile
+116787|Mais il ne faut pas se faire un avis sur cette seule base.‖Aaah, ça va pas, ça va pas, ça va pas du tout... !!
+# 116826 : 書いてある : « c'est écrit », pas de « quelqu'un » ajouté par l'anglais
+116826|"...On dirait que ton raisonnement est juste.‖  ...C'est écrit juste ici.‖Il y a écrit `à ceux qui restent'.
+# 116840 : 開けようぜ = on l'ouvre (proposition collective)
+116840|Aniki, on l'ouvre... !
+# 116859 : 当家顧問錬金術師 / お仕えしております : alchimiste conseillère, au service de Kinzo-sama ; formule de lettre polie
+116859|......Bienvenue à Rokkenjima, chers membres de la famille Ushiromiya.‖Je suis Beatrice, alchimiste conseillère de cette maison, au service de Kinzo-sama...
+# 116872 : ふざけた手紙 = lettre insolente, pas « une blague »
+116872|C'était une lettre d'une insolence inouïe.
+# 116875 : 顧問錬金術師 : cohérence avec 116859
+116875|Cette Beatrice, qui se disait alchimiste conseillère de la famille, annonçait qu'elle venait récupérer l'or qu'elle avait prêté à Grand-père, avec les intérêts.
+# 116896 : ふざけやがって = « tu te fous de nous », pas une insulte
+116896|Tu te fous de nous !!
+# 116901 : それで魔女気取りってわけか = tu joues les sorcières avec ça ?
+116901|  C'est quoi ce contrat tordu !‖  Des vies comme intérêts pour de l'or, c'est ça ?!‖  C'est presque un pacte avec le diable, non ?!‖C'est comme ça que tu joues les sorcières ?!‖  Ha, me fais pas rire !!"
+# 116926 : 魔女さま ironique
+116926|Donc, en gros, ...c'est une lettre de défi de Madame la sorcière ?‖  Elle nous dit d'essayer de résoudre l'énigme qui mène à l'or caché, si on en est capables ?!‖  Et si on n'y arrive pas, elle continuera à récupérer ses intérêts comme prévu ?"
+# 116932 : ブッ殺してやる、上等だ : « à coups de poing » est un ajout
+116932|Je vais te buter, j'attends que ça !!!
+# 116977 : 前に = autrefois, pas « tout à l'heure »
+116977|"...Il porte le blason de l'Aigle à une aile...‖...J'ai déjà entendu Mère en parler.‖  ...C'est un lingot de la Légende de l'or de Grand-père... !!"
+# 117011 : 親が６人も殺されて : « six » perdu, et passif
+117011|  C'est bien trop peu !!!‖Six de nos parents ont été tués, et tout ce que t'as, c'est ce tas d'or de 60 millions de yens à peine ?!
+# 117030 : 真里亞を連れてって : Maria parle d'elle à la 3e personne
+117030|"...Vite, ouvre la porte de la Terre dorée.‖Et emmène Maria avec toi.‖  ...Kihihihihihihihihihihihihihi !"
+# 117185 : Kanon garde ベアトリーチェさま ; 釈明して納得させればいい ; « Oui » ajouté par l'anglais
+117185|...Je sais parfaitement que ce serait impoli si elle se trouvait là.‖  ......Quoi qu'il en soit,‖...si Beatrice-sama n'a rien à voir avec cette affaire, elle n'a qu'à nous l'expliquer et nous convaincre.
+# 117229 : くそったれ = juron, pas « cette garce »
+117229|...Merde !!‖  Elle est pas là !!‖  Elle est passée où, bordel ?!"
+# 117253 : 姿はなかった : simple absence, « invisible » suggère la magie
+117253|Mais d'elle, aucune trace.
+# 117265 : 訝しがっていた = ils se demandaient, perplexes
+117265|...Ils se demandaient donc, perplexes, à quoi elle ressemblait vraiment.
+# 117296 : ６人の死体 : le nombre est perdu
+117296|Après avoir découvert les six cadavres, ils étaient entrés ici en trombe, submergés par la rage, pour ne trouver personne,‖ alors forcément, la sorcière allait se moquer d'eux.
+# 117377 : そんなに私が怖ぇかよ = « t'as si peur de moi ? » — l'anglais inverse
+117377|  Sors de là, Beatrice !!‖  Comment t'as pu faire ça à Maman et Papa ?!!‖T'as si peur de moi que ça ?!!
+# 117412 : ぬくぬくと…待ち呆ける : rester au chaud à attendre bêtement ; « sénile » ajouté par l'anglais
+117412|`Tu croyais que j'allais rester bien au chaud ici, à attendre bêtement que tu débarques ?‖  Tu manques bien trop d'élégance pour cette nuit intellectuelle.
+# 117448 : Gohda : お渡し下さい / 申し上げております, keigo
+117448|Donnez-moi ceci, je vous en prie... !‖Je me permets d'insister, vous allez vous blesser... !
+# 117473 : どこかにぶつけて怪我をする : « gravement » ajouté par l'anglais
+117473|...Après tout, si elle continuait à le faire tournoyer, elle risquait de heurter quelque chose et de se blesser.
+# 117496 : contresens : on lui a ôté sa façon de pleurer (brandir sa colère), d'où les larmes
+117496|...C'était inévitable.‖On venait de lui ôter sa façon de pleurer : brandir sa colère.
+# 117533 : 間抜けなんかじゃない = ils étaient pas idiots (protestation, pas interdiction)
+117533|C'étaient pas des idiots !!‖  Papa et Maman étaient intelligents tous les deux !!‖  Pas comme moi, ils étaient vraiment intelligents !!‖C'étaient pas des idiots !‖  Retire ça, 
+# 117572 : 腹を裂いて同じ目に遭わせてやる : lui faire subir la même chose (que ses parents)
+117572|Je vais la tuer, je vais la tuer, je vais lui ouvrir le ventre et lui faire subir la même chose !!‖  Uuuuaaaaaaaaaaaa, ouaaaaaaaaaaaaaa... !!!‖  Hic, *toux*toux*, *toux*toux*toux* !!!"
+# 117655 : ささやかな交流 = un modeste lien, pas une relation « floue »
+117655|...Et il savait aussi que Jessica et Kanon entretenaient une modeste complicité.
+# 117689 : 確かに見た = l'a bel et bien vu (« sûrement » = probablement)
+117689|Et il l'avait bel et bien vu dans les yeux de Kanon.
+# 117704 : 気配を殺し = se faire discret, pas « se cacher »
+117704|...Mais tant que Jessica ne la demandait pas, il se faisait oublier, veillant sur elle à une distance d'où il pourrait la secourir à tout moment.
+# 117707 : phrase JA : la place où des milliards voudraient quelqu'un — Kanon y était ; « on peut parier » ajouté
+117707|...Quand le cœur est sur le point de se briser de chagrin et qu'on se retourne en souhaitant que quelqu'un soit là,‖à cette place même où dix milliards de gens voudraient trouver quelqu'un, Kanon se tenait,‖veillant en silence sur le dos de Jessica...
+# 117713 : うずくまる = se recroqueviller
+117713|Puis elle finit par se recroqueviller devant la porte de sa chambre.
+# 117722 : 思っていない = ne voulait pas (calque de l'anglais « didn't think she wanted »)
+117722|...Mais à cet instant, Jessica ne voulait pas qu'on lui tende la main.
+# 117804 : discours indirect : comment se dire meuble s'il ne l'avait pas sur lui un jour pareil
+117804|...Il se le reprocha : s'il ne l'avait pas sur lui un jour pareil, comment pouvait-il encore se prétendre un meuble ?
+# 117852 : 父さんと母さんは駄目だけど = pour Papa et Maman c'est fini ; contresens EN
+117852|......Papa et Maman, eux, c'est fini,
+# 117854 : 私は = mais moi
+117854|......mais moi...
+# 117941 : 何も口にすることがない = elle n'avait rien à dire
+117941|...Comme si elle l'avait retenu sans avoir rien à lui dire.
+# 118003 : 初雪が川面に消える : la neige qui fond en touchant l'eau
+118003|...Mais il était bien fragile... et s'évanouit comme la première neige qui fond en touchant une rivière.
+# 118055 : 涼しげに誘う = l'attirait par sa fraîcheur (pas « froidement »)
+118055|......La fenêtre au bout du couloir semblait l'attirer, avec sa fraîcheur engageante.
+# 118102 : 背中に掛けられた = lancées dans son dos
+118102|......Pourtant, ces paroles moqueuses furent lancées dans le dos de Kanon.
+# 118116 : 特別に教えてやろう
+118116|"Il y a trois façons de blesser une femme.‖...Je vais te les apprendre, par faveur spéciale.‖  La première, c'est de la blesser avec une lame.‖  La deuxième, c'est de la blesser au cœur.
+# 118137 : お前のような距離の男 = homme à ta distance ; わかるまいな ; 考えが及んでいまい
+118137|  ...Aucun être vivant n'est plus rêveur qu'une femme !‖  Elles s'inventent des rêves toutes seules et finissent par se blesser elles-mêmes.‖...Ce sont les hommes à ta distance qui blessent le plus les femmes !‖Tu ne peux pas comprendre, toi.‖Tu n'imagines même pas à quel point tu as blessé Jessica.
+# 118211 : 傷付ける : présent d'habitude
+118211|"*ricane*ricane*ricane*ricane*hahahahahahahahahahahahahahahaha !!‖C'est pour ça que tu blesses Jessica.‖  C'est pour ça que tu ne peux pas devenir humain... !!"
+# 118216 : ならば良いだろう (Beatrice : « soit ») ; 想い人と認めぬ
+118216|Soit, fort bien.  Si tu refuses de reconnaître Jessica comme celle que tu aimes, je veux bien l'admettre.
+# 118253 : 思いッ切り笑わせて = fais-moi rire à gorge déployée
+118253|~ib~Fais-moi rire à gorge déployée~ib~‖, Kanonnnnnnnn le meuuuuuuuuuuble !!"
+# 118362 : だって = car (explication), pas « mais » ; 咽込んだら
+118362|Car dès que Kanon accourut et que Jessica se mit à suffoquer, les papillons cessèrent leur attaque et se mirent à danser une ronde élégante autour d'eux deux.
+# 118379 : 誰の指一本 = pas même un doigt
+118379|...je ne laisserai personne poser ne serait-ce qu'un doigt sur vous.
+# 118513 : 知の咀嚼 = l'esprit qui mâche, pas la « morsure de la sagesse »
+118513|C'était l'intelligence qui mâchait à vide, cherchant à digérer l'incompréhensible.
+# 118529 : 異形 = forme monstrueuse
+118529|...Mais son visage n'était pas normal.‖C'était... une monstruosité...
+# 118574 : 這い上がる時 = en rampant hors du sol (« à quatre pattes en se relevant » incohérent)
+118574|Bien que le serviteur ait paru bestial en rampant hors du sol,‖on voyait à son maintien qu'il possédait largement assez de grâce pour être digne de servir la Sorcière dorée.
+# 118589 : 今度は間違えるな = ne te trompe pas cette fois ; 死ぬのはお前だけでは済まぬ = tu ne seras pas le seul à mourir
+118589|Cette fois, ne te trompe pas, hein ?‖  ...N'oublie pas que tu es un meuble, compris ?‖Si tu t'obstines à jouer les humains même maintenant, tu ne seras pas le seul à mourir.‖  Hihihihihihihihihihihihihihihi !"
+# 118732 : よくぞ抜いた = tu as osé la dégainer
+118732|Tu as donc osé la dégainer.‖  ......Qu'est-ce que ça fait d'exposer ta nature sous-humaine devant la fille qui t'est chère ?"
+# 118761 : だから僕は = alors moi
+118761|Alors, moi.
+# 118773 : お前の映る水面を叩き続ける : frapper l'eau où elle se reflète (image de la lune)
+118773|...je ne cesserai de frapper l'eau où vous vous reflétez... !
+# 118782 : 始めろ、家具ども : pluriel, ordre à ses meubles
+118782|"Ça me plaît, Kanon !!‖Commencez, mes meubles !!
+# 119092 : 叩き落す : « à coups de lame » ajouté
+119092|"......Viens,‖ meuble de la sorcière.‖......Je vais te renvoyer dans l'enfer d'où tu viens.
+# 119622 : 断末魔を発する資格 = le droit de pousser un dernier cri
+119622|...Peut-être le serviteur-chèvre n'avait-il même pas reçu le droit de pousser un dernier râle.
+# 119703 : 今の無礼 = l'insolence de l'instant
+119703|"Hahahahahahaha... !!‖  Tu m'as offert un spectacle fort divertissant.‖Par égard pour cela, j'avais songé à te laisser filer, mais ton insolence à l'instant m'a fait changer d'avis...
+# 119714 : 僕より先に殺させはしない = pas avant moi (repris en 120019)
+119714|"Ne mentez pas !‖  Je ne vous laisserai pas tuer Mademoiselle !!‖...Même si c'est impossible, ...je ne vous laisserai pas la tuer avant moi !
+# 120019 : écho de 119714 : お前より先には殺されなかったンじゃないのか
+120019|"Qu'y a-t-il, Kanonnn... ?‖`Mademoiselle Jessica' ne devait-elle pas mourir après toi ??
+# 119749 : 名前は家具じゃない = son nom n'est pas « meuble » ; l'anglais déforme
+119749|Bon, son vrai nom est autre, ...mais en tout cas, il s'appelle pas `meuble' !‖  Kanon-kun a sa propre façon de vivre.‖  C'est quelque chose de noble, et c'est à lui seul d'en décider."
+# 119831 : 瞬きを三つも許すな : image gardée
+119831|...Ne me laisse pas le temps de cligner trois fois des yeux, compris ?
+# 119995 : 自己犠牲を気取る = jouer les héroïnes du sacrifice (écho de sa tirade)
+119995|...Elle ne cherchait pas à jouer les héroïnes du sacrifice.‖  Elle ne voyait simplement aucun autre moyen de protéger le dos de Kanon.
+# 120422 : 窓の外を眺める = regarder par la fenêtre
+120422|L'expression de son visage, tandis qu'il regardait par la fenêtre...était un sourire, comme si son adversaire aux échecs venait de jouer un coup spectaculaire.
+# 120432 : 以後のご指示を仰ぐ = demander vos instructions pour la suite
+120432|"...Gohda et Kanon ont suivi les ordres de Rosa-sama et sont allés appeler la police.‖Elle nous a aussi chargés de vous demander vos instructions pour la suite, Maître...‖  ...Que devons-nous faire ?"
+# 120458 : Genji : simple はい (l'anglais ajoute « sir »)
+120458|......Bien.
+# 120472 : なぜに６×９が４２になるか = pourquoi 6x9 donne 42
+120472|"Ne t'ai-je pas dit qu'ils pouvaient passer le temps comme bon leur semble ?!!‖  Qu'ils chantent s'ils le veulent, qu'ils dansent s'ils le veulent !‖  Ils sont même libres de se pendre par le cou ou de sauter dans une marmite bouillante !!‖  Jusqu'à ce que 13 personnes meurent, ils peuvent occuper leur temps comme ils l'entendent.‖Si c'est trop ennuyeux, qu'ils réfléchissent donc à pourquoi<i> 6x9=42</i>, par exemple !!‖  C'est la réponse au mystère de l'humanité et de l'univers !!"
+# 120586 : 語るも良いか (« aussi » ajouté) ; 百年以上も昔 = plus d'un siècle
+120586|"......Hmm.‖  ......Par où commencer ?‖...Et si je racontais ma vie ?‖  ...Il serait amusant de laisser une trace de mes parties les plus mémorables.‖......Il est fort divertissant de lire les comptes rendus de parties vieilles de plus d'un siècle, ...et de partir en quête des pensées de ces joueurs.‖  ......Ainsi, le compte rendu de la partie de ma vie poussera-t-il ceux du futur à partir en quête de mes pensées ?‖  ...Hmph."
+# 120637 : 悔しさ = rage impuissante, pas « bouleversés »
+120637|Ce serait mentir de dire qu'on n'enrageait plus.
+# 120803 : 悪趣味に過ぎますな = d'un goût par trop douteux
+120803|C'est d'un goût par trop douteux...‖...C'est atroce...
+# 120965 : Maria à la 3e personne
+120965|"Uu-.‖...Maria aussi est venue ici une fois, elle s'est fait gronder très fort...‖  Uu-..."
+# 121006 : 不謹慎だが、面白ぇ響き = ça sonne intrigant
+121006|  ...Ihihi !‖C'est peut-être déplacé, mais ça sonne plutôt intrigant, non ?‖  Docteur Nanjo, vous êtes un vieil ami de Grand-père, pas vrai ?‖  Vous en avez entendu parler ?"
+# 121180 : 駄目 ≠ inutile ; 幼い内から
+121180|"Bravo, maintenant tu peux te taire.‖  Tante Rosa, vous avez fait prendre des cours d'anglais à Maria ?‖On dirait que l'anglais, faut vraiment s'y mettre tout petit.
+# 121448 : 親父たち６人はこの中に入って、しかも殺された : sujets = les victimes (l'anglais fait agir le coupable)
+121448|......Comment P'pa et les autres, six personnes, ont pu entrer ici, et en plus s'y faire tuer ?!
+# 121476 : 開けた = ouvert (cohérence avec 121477 閉めた)
+121476|Comment le coupable avait-il ouvert cette porte ?!
+# 121477 : 閉めた
+121477|Et comment l'avait-il refermée ?!
+# 121612 : 言うじゃねぇか = tu y vas fort ; 推理マニアは怖ぇぞ (l'anglais en fait un conseil)
+121612|"Ooooh !!‖Tu y vas fort, les fanas de polars sont redoutables, tu sais ?!‖  Christie doit grincer des dents dans sa tombe !"
+# 121952 : 駄目 ≠ inutile
+121952|Ça va pas, ça va pas, ça va pas...
+# 121985 : 駄目 ≠ inutile
+121985|Aaaaaaaaah, ça va pas, ça va pas, tous les coups que j'ai arrachés de haute lutte, c'était rien d'autre que moi qui déplaçais désespérément mon roi pour fuir l'échec.
+# 122005 : チェス盤を引っ繰り返す = retourner l'échiquier (choix fixé)
+122005|...Alors, si je retourne l'échiquier, ...je devrais pouvoir anticiper son prochain coup, non... ?
+# 122014 : retourner l'échiquier
+122014|Retourne-le.
+# 122015 : retourner l'échiquier
+122015|...Retourne l'échiquier... !!
+# 122035 : 身を委ねる悦び : « nouvelle maîtresse » ajouté par l'anglais
+122035|"...Que se passe-t-il ?‖  Tu t'es soudain tu.‖  N'aie crainte.‖  La reddition n'est qu'une honte passagère.‖Ensuite, il ne reste que le plaisir de s'abandonner...
+# 122050 : 寝惚けるな = arrête de rêver ; 続行だ = on continue (pas un ordre à Beatrice)
+122050|......Arrête de rêver.‖  Tu refuses juste d'écouter.‖  ...Alors je le redis encore une fois.‖  ...J'abandonne pas.‖...On continue.‖  Reprenons la partie."
+# 122079 : 駄目 ≠ inutile
+122079|"Depuis le début, je me concentrais sur la façon dont ils sont entrés dans la chambre close de la chapelle...‖......C'est cette façon de penser qui allait pas.
+# 122084 : 駄目 + retourner l'échiquier
+122084|...Aaah, ça va pas, ça va pas du tout.‖...Je retourne l'échiquier.
+# 122109 : 守勢から転じる = passer de la défense à l'attaque
+122109|...Cet homme...compte-t-il passer de la défense à l'attaque ?
+# 122160 : 何を言い出すかと思えば = je me demandais ce que tu allais sortir (contresens EN)
+122160|...Je me demandais ce que tu allais sortir, et c'est ridicule.
+# 122275 : 一手差は引っ繰り返った = l'avance d'un coup a changé de camp
+122275|Et voilà, l'avance d'un coup a changé de camp.‖  ...Maintenant, c'est ton roi qui fuit, Beato."
+# 122416 : 駄目 ≠ inutile
+122416|"...Ha... !‖...Aaaaah, ça va pas, ça va pas du tout.‖  Ça n'a même plus d'importance.

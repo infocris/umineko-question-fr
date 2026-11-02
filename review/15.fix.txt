@@ -1,0 +1,142 @@
+# 111412 : 読まれてた : Gohda avait anticipé la question de Krauss, pas un « coup monté »
+111412|"*gloussement*‖Voyons, Nii-san.‖Ta question, il l'avait vue venir, non ?"
+# 111419 : 美味しいところを持ってかれた : Gohda a volé la vedette à Krauss (l'anglais inverse qui fait quoi)
+111419|"Aucun doute là-dessus.‖Gohda-san t'a carrément volé la vedette."
+# 111474 : 鍔迫り合い / たかだかソース : joute à fleurets mouchetés pour une simple sauce, pas une « dispute bruyante »
+111474|Rien que pour une histoire de sauce, les frères et sœurs semblaient déjà croiser le fer,‖...mais dans l'ensemble, le dîner se déroula paisiblement.
+# 111532 : 配膳と料理の説明 : service et présentation des plats ; 小声 = à mi-voix
+111532|Une fois le service terminé et les plats présentés, Gohda voulut quitter la pièce, mais Kyrie le retint à mi-voix.
+# 111546 : Kyrie vouvoie Gohda (ごめんなさい, いらっしゃってる) ; elle demande si l'invitée ne viendra pas au dîner
+111546|"Euh, excusez-moi.‖...Il me semblait que nous avions de la visite aujourd'hui, ...mais cette personne ne se joindra-t-elle pas à nous pour le dîner ?"
+# 111563 : 何か…？ omis : Natsuhi se tient sur la défensive
+111563|"Le chef de famille n'est pas au mieux de sa forme, il a donc dit qu'il dînerait dans son bureau.‖...Mon mari l'a expliqué dès le début, y a-t-il un problème... ?"
+# 111662 : 良かったね : réponse polie de façade
+111662|...Les cousins lui avaient répondu `Tant mieux pour toi', mais sans la croire.
+# 111686 : 真里亞は“い”る : Maria à la 3e personne ; “い”る = elle `est là'
+111686|"Uu- !!‖Maria dit depuis le début qu'elle `est là' !‖Personne la croit !!"
+# 111787 : 腹の探りあい = se jauger mutuellement
+111787|"Calme-toi, Krauss nii-san.‖On en est plus au stade où on s'jauge les uns les autres.‖Si même toi tu connais pas cette personne mystérieuse, alors c'est qu'il se passe un truc pas croyable... !"
+# 111824 : 真里亞も会った : 3e personne
+111824|"Uu- !‖Maria aussi l'a rencontrée !!‖Oncle Krauss, crois-nous !‖Crois Mama !‖Uu-uu- !"
+# 111839 : 魔女さま (Jessica, ironique) → Madame la sorcière
+111839|"J'y comprends rien...‖Alors ça veut dire quoi ?‖Que Madame la sorcière qui a donné l'or à Grand-père débarque en invitée spéciale à la conférence de cette année... ?!"
+# 111853 : 真里亞も会った : 3e personne
+111853|"Maria aussi l'a rencontrée !!!‖Uu-uu-uu-uu-uu-uu-uu- !!!"
+# 111896 : その存在を間違いなく肯定した : la phrase affirme l'existence de la femme, pas sa « nature »
+111896|C'est pourquoi une seule phrase, prononcée calmement, suffit à affirmer sans l'ombre d'un doute son existence.
+# 111942 : それを言われると弱いな = là, il n'a rien à répondre (l'anglais : « difficile à dire »)
+111942|".........‖Là-dessus, je n'ai rien à répondre.‖C'est vrai, je ne me souviens pas d'être descendu du bateau avec une dame pareille."
+# 112007 : 夏妃姉さん → Natsuhi nee-san
+112007|"Bon, récapitulons.‖...En ce moment, il y a sur cette île une autre invitée, en plus des 18 personnes liées à la famille Ushiromiya.‖Et c'est une invitée dont même Aniki et Natsuhi nee-san ignorent tout, c'est bien ça ?"
+# 112060 : 肖像画の魔女にそっくりの客人 : une invitée qui ressemble à la sorcière, l'anglais en fait la sorcière elle-même
+112060|...Alors voilà où on en est.‖Père a invité en douce une personne qui ressemble trait pour trait à la sorcière du portrait.‖Et Rosa-san l'a rencontrée, Maria-chan aussi, et puis Kyrie-san."
+# 112171 : 遅れて絵羽たちは理解した : Eva et les autres comprennent avec un temps de retard (pas « trop tard »)
+112171|Les enfants ne comprirent pas pourquoi ça leur retombait soudain dessus, mais Eva et les autres, eux, finirent par comprendre, avec un temps de retard.
+# 112226 : 行きなさい : ordre sec mais pas « va-t'en »
+112226|"Jessica,‖à partir de maintenant, les adultes vont discuter entre eux.‖Va."
+# 112275 : どうやら…出番はなさそう : « il semble que je n'aie aucun rôle » (l'anglais « At any rate » est un faux sens)
+112275|"......Je vais également me retirer.‖Il semble que je n'aie aucun rôle à jouer ce soir."
+# 112287 : 促し : Nanjo en se levant incite les autres à partir
+112287|Le fait que Nanjo se lève incita ceux qui devaient partir à en faire autant.
+# 112357 : 参りましょうかな : Nanjo reste courtois
+112357|"Allons, tout le monde.‖Si nous y allions ?‖Maria-san, il ne faut pas causer davantage de soucis à votre maman."
+# 112363 : 真里亞も…する : 3e personne
+112363|"Uu-uu-uu- !!‖Maria aussi veut parler de Beato !!‖Non non non, uu-uu-uu- !!!"
+# 112496 : 熊沢の婆ちゃん → Kumasawa baa-chan ; このケーキも鯖
+112496|"Et si on demandait à Kumasawa baa-chan de le vanter, elle nous dirait que même ce gâteau est fait avec du maquereau."
+# 112591 : 真里亞は会って : 3e personne
+112591|"Elle existe !!‖Beatrice `existe' !‖Chaque année, quand on vient à la conférence familiale, Maria la rencontre et elles jouent ensemble !"
+# 112598 : イタズラをする omis ; 心が綺麗で素直な方
+112598|"C'est exact.‖Même si Beatrice-sama ne se montre pas d'ordinaire,‖il paraît qu'elle surgit parfois devant les personnes au cœur pur et sincère pour leur jouer des tours.‖Ho ho ho ho."
+# 112672 : まぁね = il l'admet (la narration suivante le dit) ; l'anglais « Who knows » le contredit
+112672|"......Eh bien, oui."
+# 112810 : 一時期、親族会議で…ずいぶんと聞かれた : pendant un temps, à plusieurs conférences
+112810|"............‖...Pendant un temps, lors des conférences familiales, Krauss-san et les autres m'ont beaucoup interrogé à ce sujet.‖...Ils voulaient savoir si, il y a longtemps, Kinzo-san avait pu avoir une maîtresse nommée Beatrice, et un enfant illégitime avec elle."
+# 112959 : 暗躍しての復讐 : une vengeance menée dans l'ombre ; 時代劇
+112959|"Sans doute pas.‖...Dans ce cas, une vengeance menée dans l'ombre, sans jamais se montrer, serait plus réaliste.‖Se présenter ouvertement pour accomplir sa vengeance, cela ne se voit que dans les drames historiques."
+# 112972 : 刺し違えてでも / 退路がなくても : prêt à mourir en emportant l'autre ; l'absence d'issue omise
+112972|Si on est prêt à y laisser sa peau du moment qu'on emporte l'autre avec soi, alors la police, le nombre, l'absence de porte de sortie... rien de tout ça ne fait peut-être peur."
+# 113002 : 犠牲 = victimes ; « sacrifices humains » est un ajout dramatisant de l'anglais
+113002|Après avoir pris conscience de cela, il était bien naturel que Jessica soit effrayée à l'idée...‖que ses parents puissent être pris dans une sorte de drame...‖et devenir les victimes de quelque chose de terrifiant...
+# 113103 : 反証 / 連れてくりゃ話は早い : « amène-la » (la sorcière), pas « un démon »
+113103|"Alors il n'y a qu'une seule façon de régler ça, Maria.‖......C'est au camp de la sorcière d'apporter une contre-preuve.‖C'est encore une preuve du diable.‖...Tu me l'amènes, et l'affaire est vite réglée."
+# 113108 : ステッキ / お星様がキラキラ飛び散る : magie de magical girl à la baguette ; ご婦人
+113108|"...Dans ce cas, il suffit que cette dame qui se fait appeler Beatrice‖nous fasse une démonstration de magie éblouissante d'un coup de baguette, avec des étoiles scintillantes qui volent partout.‖~ib~  Elle n'a qu'à nous montrer quelque chose‖qui soit impossible pour des Humains~ib~‖, pas vrai ?"
+# 113206 : だからダメなの = c'est pour ça que ça va pas
+113206|"C'est pour ça que ça va pas.‖Même si ton adversaire est une sorcière, tu refuseras de l'accepter.‖......Alors tu ne pourras pas comprendre les coups qu'une sorcière pourrait jouer, et ta logique de l'échiquier ne marchera pas.‖Ta connaissance de ton adversaire est erronée.‖La toute première prémisse de la logique de l'échiquier s'effondre."
+# 113219 : そなたは…勝てぬ : Maria parle comme Beatrice, archaïque et à la 2e personne
+113219|"‖~ib~Tu ne saurais vaincre une sorcière aux échecs~ib~‖... !‖Kihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi !"
+# 113433 : でも僕は決して君を、 : « jamais je ne te- » (promesse interrompue)
+113433|...Mais jamais je ne te-"
+# 113574 : 予告、いや、予言 : annoncer… non, prédire
+113574|"Oui.‖À ce moment-là, tu seras à mes côtés, plus âgée.‖C'est ce que je t'annonce...non, ce que je te prédis.‖...Oui.‖Parce que ce jour viendra sûrement."
+# 113870 : むしろ嘉音くん : « plutôt toi », Kanon-kun
+113870|"......C'est plutôt toi qui as des regrets, Kanon-kun.‖...Nous sommes des meubles, pas vrai ?‖Nous serons libérés quoi qu'il arrive.‖...Alors, peu importe que nous allions à la Terre dorée ou non.‖...Et pourtant, tu tiens absolument à y aller.‖......Tu veux devenir humain à tout prix, n'est-ce pas ?‖...Pourquoi ?"
+# 113934 : あの魔女が憎い = je la hais
+113934|"...Je la hais, cette sorcière... !!‖...Pourquoi a-t-elle semé ces sentiments en moi... ?!‖Si seulement...si seulement elle n'avait pas fait cette farce absurde, je n'aurais jamais fait attention à Mademoiselle... !!!"
+# 113940 : 酷い = cruelle (pas « détestable »)
+113940|".........Beatrice-sama est cruelle.‖...Pour te faire verser des larmes amères, elle a joué avec ton destin.
+# 114030 : せいぜい…関の山 : « tout au plus » (l'anglais « At any rate » est un faux sens)
+114030|Tout au plus pourras-tu répéter cela encore et encore, voilà tout.
+# 114077 : 健闘を期待するぞ : ton de Beatrice, pas « d'accord ? »
+114077|J'attends de toi un beau combat, entends-tu ?
+# 114158 : 悪魔を証明しちまった : l'existence du diable est prouvée (« preuve du diable » dit l'inverse)
+114158|"Je le reconnais aussi...‖......J'arrive toujours pas à y croire.‖...Mais bon, ......qu'est-ce que je peux y faire ?‖~ib~Vous avez prouvé l'existence du diable~ib~‖!‖C'est votre victoire... !"
+# 114168 : そなた → tu ; 仇になった = se retourner contre (pas « ennemie mortelle »)
+114168|"*ricane*ricane*ricane*... !‖La preuve du diable était une excuse commode que tu aimais invoquer face à l'improuvable, ...mais la voilà qui se retourne contre toi, n'est-ce pas ?"
+# 114174 : 魔女さま (ironique/soumis) → Madame la sorcière ; 苛める
+114174|"...Ne me tourmentez pas, Madame la sorcière.‖......Je vous ai déjà reconnue.‖J'abandonne."
+# 114226 : 悪魔は証明されてしまった : l'existence du diable est prouvée
+114226|~ib~L'existence du diable avait déjà été prouvée~ib~‖... !
+# 114438 : 人事を尽くして天命を待つ : proverbe perdu par l'anglais ; 安っぽい
+114438|"...Hmph.‖......Les humains sont des créatures bien mesquines.‖...On fait tout ce qui est humainement possible et l'on s'en remet au Ciel, mais lorsque la chance nous sourit, on voudrait se flatter de ne la devoir qu'à son propre talent."
+# 114449 : 抑え付ける : il réprime (le « souvent » est un ajout)
+114449|Ce qu'il avait envie de faire parce qu'il était humain, il le réprimait.
+# 114461 : 博才 = talent de joueur (Kinzo le flambeur), pas « génie »
+114461|...Cette excentricité et cet esprit retors lui avaient sans doute conféré un rare talent de joueur,‖lui permettant de réussir ses exploits en relevant la famille Ushiromiya en une seule génération...
+# 114566 : きょとん = perplexe
+114566|Shannon le regarda d'un air perplexe et le lut à voix haute...
+# 114605 : うるさい : bruit agaçant, pas une apostrophe
+114605|Aaah, quel boucan.
+# 114647 : 無防備に : sans se soucier d'être en pyjama
+114647|Rosa connaissait Genji depuis son enfance ; aussi, sans trop se soucier d'être en pyjama, elle entrebâilla la porte et lui répondit.
+# 114675 : 何度か復唱して : c'est Rosa qui se le répète
+114675|Un instant, Rosa sembla ne pas comprendre ce qu'on venait de lui dire.‖Ce n'est qu'après se l'être répété plusieurs fois qu'elle comprit qu'apparemment, quelque chose d'étrange s'était produit.
+# 114730 : 美しく清らか : beau et pur (« beauté éblouissante » exagère)
+114730|Vue de l'extérieur, elle semblait si belle et si pure qu'un jeune couple d'amoureux aurait pu rêver de s'y marier.
+# 114770 : ネバついた = visqueuse
+114770|Sur la porte d'entrée de la chapelle...‖il y avait quelque chose de très grand, ...tracé avec une peinture sinistre et visqueuse qui faisait penser à du sang...‖...Une sorte de sinistre cercle magique.
+# 114987 : coquille « de l'boîte »
+114987|"...En réalité, la serrure de la chapelle est particulière, le passe-partout ne fonctionne pas.‖Une seule clé peut l'ouvrir, ...mais cette clé a disparu de la boîte à clés."
+# 115020 : 蘇る : les souvenirs reviennent
+115020|À cet instant, les événements de la veille revinrent à l'esprit de Rosa...
+# 115623 : びっくり料理 = plat surprise, dans son enfance (子どもの頃 omis)
+115623|Rosa se souvint d'un plat surprise, une dinde qu'on avait servie à son anniversaire quand elle était enfant.
+# 115862 : 自分のお腹 = leur ventre (l'anglais met « chests »)
+115862|Ils avaient l'impression que leur propre ventre enflait désagréablement de l'intérieur !!‖Ça grondait,
+# 115959 : 真里亞のお手紙 : 3e personne
+115959|"Uu-uu-uu- !!‖Mama !!‖Elle est où, Mama ?!!‖La lettre de Maria !‖La lettre que Maria a eue de Beato !‖Rends-la !‖Rends-laaaa !!‖Ouaaaouh !!"
+# 115965 : 弱ったね (George) → Voilà qui est embêtant
+115965|"Voilà qui est embêtant.‖...Battler-kun, tu es sûr que c'était Tante Rosa ?"
+# 115996 : 大騒ぎ = faire un raffut (pas « tout saccager ») ; 一番に起きた ; 破かれている
+115996|De plus, Maria, réveillée la première, s'était mise à faire un raffut de tous les diables en criant que l'enveloppe qu'elle gardait précieusement avait été déchirée.
+# 116007 : 魔女さま (ironique) ; 封筒
+116007|"...L'enveloppe de Madame la Sorcière dorée...‖Je me demande ce qu'il y avait dedans."
+# 116036 : 魔女さま (ironique) → Madame la sorcière
+116036|"...Bah, si t'as raison, ce serait un truc plutôt important...‖...Pourquoi Madame la sorcière aurait refilé un truc aussi important à Maria ?‖...J'pige pas."
+# 116039 : 打ち払われてしまった : l'atmosphère a été dissipée par le tonnerre (pas « de temps à autre »)
+116039|L'atmosphère fraîche du matin avait été entièrement balayée par le tonnerre qui grondait de temps à autre.
+# 116071 : négation confuse : ils ne sont pas les seuls restants sur l'île
+116071|"C'est le docteur Nanjo.‖...Dieu merci.‖On dirait que nous ne sommes pas les seuls à rester sur cette île, finalement."
+# 116101 : 真里亞のお手紙 : 3e personne
+116101|"Uu-uu-uu- !!‖Docteur Nanjo, Mama l'a prise, Mama a pris la lettre de Maria !!‖Rends-la, rends-la, uu-uu-uu- !!!"
+# 116222 : 真里亞の手紙 : 3e personne
+116222|"Mama, rends-la !!‖Rends la lettre de Maria !!‖~ib~C'est une invitation pour la Terre dorée~ib~‖!!"
+# 116379 : びっくり料理 = plat surprise (cohérent avec 115623)
+116379|À cet instant même, une vision s'imprimait sûrement au fer rouge dans leurs yeux...‖bien plus horrible que le grotesque plat surprise que Rosa avait vu dans son enfance...
+# 116439 : サービス満点だぜ、気に入った : ironie « service impeccable »
+116439|"C... ah ouais, service impeccable, ça me plaît !!
+# 116539 : 駄目だぜ、全然駄目だ : ça va pas du tout (pas « ça sert à rien »)
+116539|"Celui qui a fait ce boulot, je vais lui faire payer sa dette jusqu'au bout !!‖Alors c'est pas le moment de pleurer, faut réfléchir à ce qu'on va faire !!‖Aaaah, ça va pas, ça va pas du tout !!‖Si t'as le temps de pleurer, alors réfléchis !‖C'est pas le moment de te laisser aller à pleurer !!"
+# 116632 : 魔女さま (Jessica, ironique) → Madame la sorcière
+116632|"C'est elle, évidemment !!‖C'est forcément cette Madame la sorcière qui est arrivée hier !!!‖Je vais l'attraper par le col !!‖Merde merde merdeeeeeeeeeee !!"

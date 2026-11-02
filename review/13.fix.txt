@@ -1,0 +1,190 @@
+# 101345 : 二組目の恋人たち — un « deuxième » couple (après Shannon/George)
+101345|*ricane*ricane*‖Je ne m'attendais pas à ce que tu la repousses aussi fermement.‖...Si tu avais donné une réponse normale, un deuxième couple d'amoureux serait né grâce à ma magie."
+# 101353 : Kanon dit お前 / ヤツ à Beatrice — tutoiement méprisant
+101353|"Depuis combien de temps es-tu là... ?‖......Ce que tu es ignoble."
+# 101365 : 男と女の拗れ合い — hommes et femmes, pas « garçons et filles »
+101365|"Je te pardonnerai tes insultes pour cette fois, par égard pour ce petit spectacle divertissant.‖...Même après mille ans, il n'existe pas de spectacle plus intéressant que les déboires entre hommes et femmes.‖Pour moi, c'est un plaisir plus doux que l'opium, et dont on ne peut se passer.‖...Hmm ?"
+# 101399 : Kanon tutoie Beatrice (お前)
+101399|"Je viens de comprendre.‖...Ce que tu fais n'a rien de l'élégance d'un Cupidon.‖Tu n'es qu'un démon qui prend plaisir à montrer l'amour à ceux qui ne pourront jamais être ensemble, pour mieux les tromper."
+# 101414 : Kanon tutoie Beatrice (惚けるな / お前)
+101414|"Ne fais pas l'innocente !!‖Tu n'as pas prêté ton pouvoir à Shannon par pitié pour elle.‖...Tu as profité d'une faille dans le cœur de Shannon, alors qu'il brûlait d'amour, pour lui faire briser le miroir qui te scellait.‖Et ce n'est pas tout,
+# 101416 : suite, tutoiement
+101416|...tu avais deviné comment tout cela finirait, et tu te joues d'elle !‖Est-ce que je me trompe ?!"
+# 101422 : 夢も未来も恋すらもないか — constat sur les meubles en général
+101422|"Hé hé hé hé hé, *ricanement* !‖Les meubles ont une existence tout à fait pitoyable.‖Ni rêves, ni avenir, pas même d'amour, hein ?‖Bien, bien, rien ne vaut le fait de connaître sa place.‖*ricane*ricane* !"
+# 101478 : tutoiement (お前)
+101478|"Tu es bien une sorcière.‖Disparais !  Hors de ma vue, démon... !!"
+# 101485 : 頼まれずとも消えよう — affirmatif, pas conditionnel
+101485|"...Oh, je disparaîtrai sans que tu aies besoin de me le demander.‖Mon pouvoir n'est toujours pas revenu.‖Rester visible m'épuise encore.
+# 101518 : 欲深な亡者たち — 亡者 = êtres possédés par l'avidité (金の亡者), pas des « morts »
+101518|"Cependant, je ressusciterai à coup sûr.‖Sois sur tes gardes, afin de ne pas regretter la venue de ce jour quand il arrivera.‖Je ferai assurément mon second avènement et régnerai sur toute chose en véritable maîtresse de cette île.‖...Ce sera le moment où la porte de la Terre dorée s'ouvrira de nouveau.‖...Les rapaces assoiffés d'or me réveilleront à coup sûr... !"
+# 101524 : くどい = « assez, tu radotes » ; tutoiement
+101524|"...Assez !!‖Disparais, maintenant, Sorcière dorée... !!"
+# 101668 : Kumasawa parle de Jessica à la 3e personne ; すすり泣く = sanglots
+101668|"...Oooh, pauvre Jessica-sama.‖...Les sanglots que j'entends venir de sa chambre m'apprennent bien ce qu'il en est, mais je n'y peux rien.‖...Tout cela n'est qu'une tragédie : deux êtres trop jeunes, devenus trop proches, alors que leurs naissances les placent si loin l'un de l'autre.‖...Je ne peux rien faire d'autre que comprendre ce que ressent Mademoiselle, étouffer le bruit de mes pas et m'éloigner en silence..."
+# 101876 : 彼女ら = Rosa et Maria → « Elles »
+101876|Elles avaient pris leur petit déjeuner dans un café de la gare.
+# 101914 : 声を潜めながら — c'est Rosa qui parle à voix basse ; l'anglais inverse
+101914|Rosa, à voix basse, l'avait reprise à plusieurs reprises, mais Maria ne voulait rien entendre.
+# 101981 : 隣の座席 = assise juste à côté ; のど飴 = pastille pour la gorge
+101981|Une vieille dame corpulente, assise juste à côté de Maria qui tapait des pieds, tira une pastille pour la gorge de son sac à main et la lui tendit.
+# 102036 : Maria parle d'elle à la 3e personne (真里亞がもらったの)
+102036|Uu- !!‖C'est Maria qui l'a eu !!
+# 102047 : 真里亞の — 3e personne
+102047|Non, c'est à Maria !!"
+# 102065 : 真里亞のー — 3e personne
+102065|"C'est à Maria !!‖À Mariaaaaa !!
+# 102182 : 襟首 = col ; 毟るように = comme pour les arracher
+102182|Submergée par l'émotion, Rosa empoigna Maria par le col et lui tira les cheveux comme pour les arracher.
+# 102227 : 頭を打つ — elle la frappe à la tête (l'anglais dit « cheek »)
+102227|Sur ces mots durs, Rosa la frappa à la tête encore et encore.
+# 102346 : お帰り — Maria accueille le retour de « sa » maman
+102346|"Mama, ...Mama...‖Te revoilà, te revoilà..."
+# 102364 : Maria à la 3e personne ; ならない = ne va pas se mettre à détester
+102364|"Uu-...‖Maria va très bien...‖Maria va pas détester Mama.‖...Mama était juste encore possédée par la méchante sorcière.‖...Mais t'es revenue, alors Maria va très bien."
+# 102398 : ファンシー = mignon (sens japonais), pas « raffiné »
+102398|...Une friandise toute mignonne : un gros chamallow orange en forme de citrouille d'Halloween, piqué au bout d'un bâtonnet.
+# 102482 : ほくほく = toute réjouie, pas « gloussant »
+102482|Maria traversa le passage piéton avec sa mère, toute réjouie, comme si elle se promenait dans un parc d'attractions.
+# 102485 : ぎこちなくも笑いあう — sourires encore maladroits ; l'anglais dit l'inverse (« sans retenue »)
+102485|Leurs deux visages étaient encore écarlates,‖...mais la mère et la fille, échangeant des sourires encore maladroits, offraient un tableau chaleureux...
+# 102548 : 腐肉の漁りあい = se disputer une charogne ; « pêche à la viande » est un calque
+102548|"......Cela ne te concerne pas.‖Ce n'est rien d'autre qu'une curée où des frères et sœurs cupides se disputent une charogne."
+# 102567 : 労う言葉 = paroles de réconfort pour sa peine, pas « féliciter »
+102567|Elle avait des mots de réconfort pour la peine que se donnait Krauss, ...mais Natsuhi savait mieux que quiconque que ses affaires ne marchaient pas bien.
+# 102579 : JA parle de Krauss (確信があったからだ), l'anglais généralise
+102579|...Bien sûr, s'il le faisait, c'est qu'il avait la certitude de pouvoir récupérer la totalité de ces investissements accumulés dans un avenir pas si lointain.
+# 102600 : constat, pas hypothèse (« What if »)
+102600|Et pourtant, le temps passait... et personne ne venait à l'autre bout.
+# 102650 : 自ら座り — il s'y assoit de lui-même
+102650|"...Je vais toujours de moi-même m'asseoir à la place réservée aux perdants...
+# 102756 : 賄い = repas du personnel (Gohda parle à un collègue domestique)
+102756|"Oui, au dîner, ce sera steak de veau... !‖Un morceau de viande magnifique attend déjà ce soir avec impatience dans le réfrigérateur.‖Et ce soir, réjouissez-vous aussi du repas du personnel."
+# 102800 : 行方をくらませて一服している = s'est éclipsée pour faire une pause
+102800|Genji soupira de nouveau en pensant à Kumasawa, qui avait sûrement disparu pour s'accorder une pause alors qu'il y avait tant à faire,‖et à ce m'as-tu-vu de Gohda, qui n'avait envie de s'activer que les jours où il pouvait se mettre en valeur.
+# 102832 : そうですね — Shannon approuve (Mademoiselle veut veiller), pas « je vois »
+102832|"En effet.‖À vos ordres."
+# 102882 : お客様がお越しになられる日 — simple rappel, l'anglais reformule
+102882|"C'est le jour où viennent nos invités de marque.‖...Veillez à ne commettre aucune maladresse."
+# 102889 : ironie de Kanon : il ne vient jamais ici que des invités importants
+102889|"...Nous le savons.‖...De toute façon, il ne vient jamais ici que des invités importants."
+# 102901 : はい — l'anglais ajoute « sir »
+102901|"...Oui."
+# 103028 : 息み過ぎるなよ — conseil (ne force pas trop), pas constat
+103028|"Vraiment... ?‖Tant mieux, alors.‖Mais force pas trop, hein.‖Tu vas te déchirer le cul."
+# 103109 : 言ってごらん = « vas-y, dis-le » ; l'anglais ajoute Hideyoshi
+103109|"Maria !‖On ne dit pas plutôt `Je suis contente de vous revoir' ?‖Allez, dis-le."
+# 103139 : Battler parle en っす à Rosa → vous ; 今日は = aujourd'hui
+103139|"Ah, allons, ha ha ha...‖Aujourd'hui, tout le monde me le dit, c'est gênant... !"
+# 103293 : 十年来 = dix ans ; はしゃぎあう = ils chahutent tous les deux
+103293|À présent, ils chahutaient ensemble comme s'ils étaient amis depuis dix ans.
+# 103305 : Maria à la 3e personne
+103305|"Maria aussi, elle voulait se déguiser.‖Voulait dire `trick or treat' avec tous les cousins déguisés..."
+# 103467 : 胡散臭ぇ = louche, pas « dingue »
+103467|"Et puis ce moine, le shugenja itinérant ou je sais pas quoi, a construit ce sanctuaire, apaisé les âmes et les a fait reposer là, c'est ça ?‖...Une histoire bien louche, si tu veux mon avis."
+# 103469 : とか — ouï-dire
+103469|"Et ce sanctuaire d'apaisement des âmes aurait été détruit cet été, dit-on, par un sinistre éclair violet qui a déchiré les ténèbres de la nuit..."
+# 103481 : fait avéré, pas hypothèse
+103481|"Kumasawa-san, t'aimes vraiment ces histoires.‖C'est vrai que c'est flippant, un sanctuaire d'apaisement détruit par la foudre.‖Mais bon, il était tout délabré dès le départ.‖Il a peut-être juste été emporté par une grosse vague.‖Ha ha ha ha ha."
+# 103584 : ひとつ芳しくない = ça ne se présente pas bien ; 裁判をも辞さない = prêts à aller au procès
+103584|"Eh bien, euh..., ...ça ne se présente pas très bien.‖La partie adverse semble prête à aller jusqu'au procès."
+# 103607 : もしもし = Allô ; どうもどうも = salutation, pas « merci »
+103607|"Allô.‖<Hello, hello> !‖Désolé pour l'attente, Ushiromiya à l'appareil.‖Bonjour, bonjour.‖Comment ça se passe de votre côté ?"
+# 103613 : デザートがないと頑張れない性質 — il a besoin d'un dessert pour tenir
+103613|"...La mauvaise d'abord, plutôt.‖Je suis du genre à avoir besoin d'un dessert pour tenir le coup."
+# 103638 : liste des points négociables (montant, excuses, délai), l'anglais déforme
+103638|"Pour être franc, je m'attends à des conditions extrêmement sévères.‖Selon nous, changer le nom de la société et celui de la marque sera inévitable.‖Les points négociables seraient le montant de l'indemnité transactionnelle, la publication d'excuses dans un grand journal,‖et le délai accordé pour exécuter tout cela."
+# 103646 : 利敵工作 — factions voulant discréditer le président qui feraient le jeu de l'adversaire
+103646|"Ils viennent tout juste de changer de président, et leurs bases ne sont pas encore totalement consolidées.‖Si nous résistons jusqu'au bout, ils craignent que les factions désireuses de discréditer le président actuel ne fassent le jeu de l'adversaire.‖C'est pourquoi leurs pontes veulent, eux aussi, régler cette affaire au plus vite.‖Nous aurions donc encore une marge suffisante pour leur faire adoucir leurs conditions, si cela permet un règlement rapide."
+# 103700 : ホップステップジャンプ = triple saut
+103700|"On s'est ramassés à la `foulée' du triple saut, faut croire.‖Y a de quoi pleurer."
+# 103730 : 数百万＄ — dollars
+103730|"Dans ce cas, ...il faut lever des fonds.‖Il nous faut au plus vite un bailleur capable de nous apporter plusieurs millions de dollars."
+# 103753 : 路頭に迷わせない / 大船に乗った気でいろ = « vous êtes entre de bonnes mains »
+103753|"Vous allez voir.  Je vais arranger tout ça.‖Je ne vous laisserai pas à la rue.‖Vous êtes entre de bonnes mains, croyez-moi !‖Une fois tout ça derrière nous, je vous récompenserai tous avec une pyramide de champagne.‖Je vous le promets.‖Alors fermez-la et suivez-moi.‖C'est compris ?!!"
+# 103812 : 親父 (Rudolf) → « le vieux » ; 借りられる = emprunter ; お隠れになって = euphémisme ironique ; スネをかじる = vivre à ses crochets
+103812|"......Si je pouvais me prosterner devant le vieux et lui emprunter 10 millions de yens par coup de poing encaissé, je lui en demanderais bien une douzaine...‖Ou alors, qu'il daigne enfin nous quitter pour de bon.‖......Après avoir vécu à ses crochets tout ce temps, voilà que je lorgne son héritage.‖.........Je file tout droit en enfer.‖...Pas étonnant que le vieux n'ait pas envie de voir un type comme moi..."
+# 103849 : 実に下らぬ = dérisoire ; « engeance » est un ajout
+103849|"Je n'ai aucune intention de me joindre aux débats de ces vautours.‖Qu'ils discutent entre eux de la façon dont ils suceront la moelle de mes os.‖...Tout cela est parfaitement dérisoire."
+# 104066 : narration neutre (l'anglais introduit un « I »)
+104066|Tel qu'il était à présent, Kinzo ne prêterait sans doute attention à aucun visiteur, quel qu'il soit.
+# 104067 : suite, narration neutre
+104067|...Existait-il seulement un visiteur capable de pousser Kinzo à dire qu'il se montrerait `le moment venu' ?
+# 104135 : 相手にもしない = l'ignorer, pas « la défier »
+104135|Il ne croisa pas son regard.‖Mais cela ne voulait pas dire qu'il l'ignorait.
+# 104136 : 貴様の術策 — discours indirect de Battler, pas une insulte de narrateur
+104136|...C'était une résolution sans équivoque : je ne me laisserai jamais prendre à tes ruses.
+# 104302 : 始めようではないか — exhortation, pas question
+104302|Allons, commençons donc cette torture !!‖Ushiromiya Battleeeeer !!!"
+# 104403 : Jessica parle poliment à Rosa (ですから) → vous
+104403|"Allons, allons.‖À cet âge-là, on rêve toujours de choses fantastiques, vous savez."
+# 104561 : Maria à la 3e personne
+104561|"Uu-.‖Le `trick or treat', c'est juste pour s'amuser.‖Ça n'a rien à voir avec ce qui était au départ une cérémonie celte.‖Ça a été inventé plus tard, quand les coutumes chrétiennes se sont mélangées.‖...Mais Maria trouve que c'est comme ça que devrait être Halloween."
+# 104629 : Maria à la 3e personne (真里亞も連れてってもらう / 真里亞を立派な魔女にしてもらう)
+104629|"Et puis on mangera des bonbons à la guimauve ensemble, et elle emmènera Maria avec elle dans la Terre dorée !‖On chantera des chansons magiques ensemble, on apprendra des formules magiques ensemble, on apprendra à dessiner des cercles magiques ensemble !‖Et puis on apprendra les secrets des runes, et elle fera vite, vite de Maria une grande sorcière !"
+# 104663 : Kyrie ↔ Rosa : vouvoiement réciproque (cohérence avec 103127 et la scène du salon)
+104663|"Ne vous en faites pas, Rosa-san.‖C'est un rêve que toutes les filles font à un moment ou à un autre."
+# 104687 : スケールのでかい話 = histoire grandiose, pas « précise »
+104687|"Oh... ?‖Ça a l'air d'une histoire drôlement grandiose.
+# 104735 : « Certainement » = anglicisme ; ゲストハウスへご案内
+104735|"Entendu.‖...Eh bien, mesdames et messieurs, si vous voulez bien me suivre jusqu'à la maison d'hôtes."
+# 104832 : 母と楽しく買い物をした記憶 — le souvenir d'avoir fait les courses avec sa mère
+104832|Pour Maria, ce devait être la preuve d'un souvenir... celui d'un moment, si bref fût-il, passé à faire joyeusement les courses avec sa mère...
+# 104951 : 両手を握り締め = serrer les poings
+104951|...Maria serrait les poings, endurant en attendant que `sa mère' revienne vite...
+# 104961 : 真里亞を助けて — 3e personne
+104961|"...Mama, Mama...‖Reviens vite...‖Sauve Maria, Mama...‖Bats la méchante sorcière..."
+# 105041 : Rosa vouvoie Kyrie
+105041|"...C'est vrai.‖...Merci de votre sollicitude, Kyrie nee-san."
+# 105105 : 引き裂くようにしながら — griffer « comme pour » déchirer, pas « faire mine »
+105105|Pendant un long moment, Rosa, griffant les draps comme pour les déchirer, ne cessa de sangloter...
+# 105131 : やせ我慢 = faire bonne figure malgré tout
+105131|Maria eut un rire inquiétant, mais pour Kanon, qui avait tout vu, ce n'était que sa façon à elle de faire bonne figure, de toutes ses forces...
+# 105137 : 最低のヤツだ。あれで母親なんて — mépris, « et ça se dit mère »
+105137|"Quelle horreur de femme.‖Et ça ose se dire mère..."
+# 105143 : その程度の器にはその程度のが入り込む — « ce qui s'y glisse » (la mauvaise sorcière) ; Maria à la 3e personne
+105143|"...On n'y peut rien.‖Un récipient de ce calibre-là n'attire que des choses du même calibre.‖...Maria va très bien.‖Kihi hi hi hi hi hi hi hi hi......"
+# 105187 : そうだ = « Ah, je sais » (idée), pas « C'est vrai »
+105187|"...Ah, je sais...‖...Je vais vous l'échanger contre celui qu'on m'a donné tout à l'heure."
+# 105238 : 出来る — affirmatif
+105238|"...Merci.‖Un Humain ne peut rien faire d'autre que l'épousseter, mais une sorcière, elle, peut lui rendre son état d'origine.
+# 105325 : Maria à la 3e personne
+105325|"Kihi hi hi hi...‖Tu sais, Maria est amie avec Beatrice.‖Je vais même la voir aujourd'hui pour jouer.‖Kihi hi hi hi hi hi hi hi..."
+# 105368 : 親父 (Rudolf à ses frères et sœurs) → « le vieux »
+105368|"...Allons bon.‖On a calé cette conférence dans nos agendas et on est venus jusqu'à Rokkenjima en plein automne, alors qu'on est débordés.‖Le vieux pourrait au moins faire un effort pour être un peu plus aimable."
+# 105426 : 親父 → « le vieux »
+105426|"...N'empêche, s'il a autant de cran, j'aimerais qu'il nous laisse au moins le saluer.‖...Tout l'intérêt de cette conférence familiale, c'est pas de venir voir la tête du vieux ?‖Je sais même plus pourquoi on est venus, du coup."
+# 105489 : 急に親孝行をするようになった — Eva est soudain devenue une fille dévouée ; その姿を見てもらいたい = vouloir qu'il la voie ainsi
+105489|"En effet.‖Tu es devenue une fille bien dévouée depuis qu'on a annoncé à Père le temps qu'il lui restait.‖...Oui, je comprends fort bien que tu tiennes à ce qu'il te voie ainsi.
+# 105512 : 親父抜き → « sans le vieux »
+105512|...De toute façon, on vient à peine d'arriver.‖Pour le moment, on n'est là que pour une petite visite de courtoisie.‖Et on pourrait même tenir la conférence familiale sans le vieux.
+# 105634 : ご冗談を — Rosa vouvoie Kyrie
+105634|"...Vous plaisantez."
+# 105641 : Kyrie ↔ Rosa : vous dans cette scène (Kyrie emploie です/ます)
+105641|"Pardon, ne le prenez pas mal.‖C'est juste que mon mari m'exaspère un peu."
+# 105689 : Rosa vouvoie Kyrie (ですよ)
+105689|"......Vous trouvez... ?‖Elle ne sait même pas encore plier ses propres vêtements."
+# 105707 : どちらの意味で — sincère ou ironique
+105707|......Peut-être ne savait-elle pas si Kyrie le disait sincèrement ou par ironie...
+# 105736 : Kyrie vouvoie Rosa (じゃないですか) ; 一緒に生きていく = faire le chemin ensemble
+105736|"Il ne s'agit pas de désigner un coupable.‖Ne suffit-il pas de veiller tranquillement sur elle pendant qu'elle grandit, en vous disant que vous ferez ce chemin ensemble ?"
+# 105742 : vous
+105742|"Vous passez tous vos jours avec Maria-chan, alors vous ne remarquez sans doute pas les petits changements.‖Mais nous autres, qui ne l'avons pas vue depuis un an, voyons clairement combien elle a grandi..."
+# 105749 : vous (ありがとうございます)
+105749|"...Si vous le pensez vraiment, merci beaucoup."
+# 105772 : 鼻の下を伸ばした = l'air béat (reluquer), pas « avoir un faible »
+105772|Tandis que Hideyoshi et Rudolf, l'air béat, la regardaient partir, 
+# 105826 : vous ; 言葉を選ばなかった = mal choisir ses mots
+105826|"...Vous non plus, vous n'avez pas la vie facile.‖...J'ai peut-être mal choisi mes mots.‖Pardonnez-moi."
+# 105833 : 変な話 = conversations désagréables, pas « louches »
+105833|"Non, ça ne me dérange pas.‖...C'est plutôt à moi de m'excuser.‖En tant que mères de filles toutes les deux, on devrait parler plus souvent.‖À chaque fois qu'on se voit, on finit par parler de choses désagréables..."
+# 105840 : vous
+105840|"...C'est l'atmosphère de ce manoir qui veut ça.‖Dès qu'on respire cet air, tout le monde devient tendu.‖...Rien qu'une fois, j'aimerais prendre longuement le thé avec vous, en dehors d'une conférence familiale.‖Il y a un merveilleux salon de thé à Ginza que j'adore.‖Laissez-moi vous y inviter un de ces jours."
+# 106052 : お帰り ; Maria à la 3e personne ; 怖い魔女 = la sorcière qui fait peur
+106052|"...Uu-.‖Mama, te revoilà...‖...Maria a attendu longtemps que tu reviennes.‖...La sorcière qui fait peur m'a pincée, mais j'ai tenu bon, j'ai attendu que Mama revienne sans pleurer..."
+# 106069 : ママ大好き = je t'adore (« je t'aime bien » affaiblit)
+106069|Alors ça va.‖Mama, je t'adore.‖Je t'aime..."
+# 106262 : Maria à la 3e personne
+106262|"Uu- !‖Maria se porte bien !‖Les sorcières attrapent pas froid !‖Uu- !!"
+# 106276 : 嬉しそうに甘える — c'est Maria qui se blottit contre la femme (l'anglais inverse)
+106276|Rosa ne pouvait pas connaître le nom de cette femme contre qui Maria se blottissait avec bonheur.‖...Mais Maria l'avait crié dès que la femme était apparue.

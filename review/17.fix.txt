@@ -1,0 +1,234 @@
+# 122451 : 言えるもんなら言ってみやがれ = défi : « dis-le si t'en es capable »
+122451|"Cette fois, c'est terminé, Sorcière dorée.‖  C'est un vrai échec et mat.‖  ...Je le redis encore une fois, répète-le !!‖  Dis-le si t'en es capable !"
+# 122544 : 盲点の安っぽいトリック = tour à deux sous reposant sur un angle mort ; « faille bon marché » est un calque
+122544|"C'était un tour à deux sous qui reposait sur un angle mort : croire que la clé n'avait pas servi parce que le cachet de cire était intact !!"
+# 122603 : 捨て台詞 = la dernière pique du vaincu, pas des « mots d'adieu » ; 好きに楽しめ = profites-en
+122603|"La dernière pique, c'est le privilège du perdant.‖  Profites-en tant que tu veux."
+# 122619 : 指し筋の甘さ = la naïveté de ton jeu (métaphore d'échecs), pas « logique naïve »
+122619|"*ricane*ricane*  Certes, tu m'as vaincue dans cette seule escarmouche.‖  ...Mais la naïveté de ton jeu finira assurément par te perdre...‖  ...Tu ne peux pas gagner contre moi, au bout du compte !!‖  Ushiromiya Battleeeeeeeeeeeeeeeeeeeer !!"
+# 122648 : 神経が参らないわけもない = leurs nerfs ne pouvaient que lâcher (épuisement), pas « à vif »
+122648|Comment leurs nerfs n'auraient-ils pas lâché...
+# 122659 : それまでが嘘だったように = comme si leur emportement de tout à l'heure n'avait pas existé ; « tout... qu'un mensonge » est ambigu
+122659|Battler et George, qui avaient pleuré, enragé et laissé exploser leurs émotions à la vue des corps tragiques de leurs parents,‖ regagnèrent le salon et, une fois assis sur les canapés, restèrent hébétés, comme si leur emportement de tout à l'heure n'avait jamais existé...
+# 122678 : 微笑ましいのとは少し違う眼差し = un regard qui n'était pas tout à fait attendri ; l'anglais déforme
+122678|...Elle fixait le dos de Maria d'un regard qui n'avait rien de tout à fait attendri.
+# 122822 : それはそうでございましょうとも = « cela va de soi » (l'anglais affaiblit) ; お気の毒 = les pauvres, pas « pitoyable » (péjoratif en français)
+122822|"Oui, oui...‖  Cela va sans dire...‖  ...Les pauvres, c'est vraiment affreux...‖  Je vais leur préparer quelque chose de chaud à boire."
+# 122899 : どう遊ばせてもらおうか = c'est Beatrice qui va jouer, pas Battler qui doit la divertir
+122899|"......Bien, à quoi vais-je donc jouer, à présent ?‖  ...Des pièces, il m'en reste encore à revendre.‖  ...*ricane*ricane*ricane*ricane*... !"
+# 122932 : 昨日から = depuis la veille (pas « au soir »)
+122932|S'il y avait un autre son audible, c'était celui de la pluie, qui tombait sans discontinuer depuis la veille.
+# 122950 : あんなことがあった為か = à cause de ce qui s'était passé ; « scandaleux » est ajouté par l'anglais
+122950|...Mais, sans doute à cause de ce qui s'était passé, Gohda semblait avoir complètement oublié de le préparer.
+# 122970 : 皆さんも…お疲れでしょう = « vous devez tous être fatigués », Kumasawa s'adresse à eux
+122970|"...Vous devez tous être bien fatigués, après tout ce qui s'est passé.‖  ...Dans ces moments-là, rien de tel qu'un bon thé bien chaud pour se réchauffer."
+# 123026 : 悪気はなかった = je ne pensais pas à mal
+123026|"...Battler-san, je suis vraiment désolée !‖  ...Je ne pensais pas à mal, vraiment..."
+# 123047 : 何しろ = après tout, pas « en tout cas »
+123047|"Sûrement.‖  Après tout, tant que le typhon sera pas passé, aucun bateau viendra."
+# 123163 : 朱志香は？ = « Et Jessica ? » ; « qu'est-ce qui est arrivé » dramatise
+123163|"...Au fait, où est Jessica ?"
+# 123201 : 悔しいことに = aussi rageant que ce soit
+123201|"Mais, aussi rageant que ce soit, on peut pas exclure cette possibilité.  Ihihi.
+# 123207 : 魔女さま ironique → Madame la sorcière ; 一族郎党 = la famille et toute sa maisonnée
+123207|  ...Cette lettre était dans la chapelle.‖  D'après elle, le coupable, c'est Madame la sorcière, ‖et si on résout pas l'énigme de l'épitaphe de Grand-père pour trouver l'or, elle massacrera toute la famille et toute sa maisonnée, ...un truc du genre."
+# 123222 : typographie : espace avant ! ?
+123222|"I-I-I-Iiiiiiiiiiiiik...  Iiiiiiiiiiiik...... !"
+# 123257 : 実在するものなのか = « que cet or existe vraiment » ; le « il » du français n'avait pas d'antécédent clair
+123257|"Cependant, ...je me demande ce qu'il en est vraiment.‖  Madame a toujours affirmé que la Légende de l'or n'était qu'une illusion créée par le Maître.‖  ...Reste à savoir si cet or existe vraiment...
+# 123390 : 一番筋が通る = c'est ce qui tient le mieux, pas « ça se tient un peu »
+123390|"......C'est vrai que c'est ce qui tient le mieux la route.‖  ...Mais il y a deux ou trois trucs qui collent pas.‖  Pour commencer, nos parents, qui étaient les plus susceptibles de résoudre l'épitaphe, ont été tués en premier.‖  Ça me paraît contradictoire d'entrée de jeu."
+# 123427 : みんなは文字、読めないのかなぁ = moquerie : « vous savez pas lire ? »
+123427|"...Kihihi.‖  C'était écrit.‖  Ce qu'elle voulait nous faire faire.‖  Vous savez pas lire, vous tous ?  Kihi hi hi hi hi hi hi hi hi hi.
+# 123461 : 知ぃらない = « sais paaas » taquin, pas « je m'en fiche » ; Maria parle d'elle à la 3e personne
+123461|"...Sais paaas.‖  Parce que Maria, Beatrice va l'emmener à la Terre dorée.‖  Alors Maria gênera pas Beatrice.
+# 123505 : いつの間にか = sans qu'on s'en aperçoive, pas « soudain »
+123505|En nous retournant, on a vu que Rosa était revenue sans qu'on s'en aperçoive, accompagnée de Genji et Shannon.
+# 123548 : うーではわからないわよ。はいは？ = « Uu-, ça ne veut rien dire. On répond comment ? » ; « On dit oui, non ? » est ambigu
+123548|"`Uu-', ça ne veut rien dire.‖  Et on répond quoi ? Oui ?"
+# 123582 : 口は挟まないでいただきます = formule ferme et polie
+123582|"...J'éduque ma fille.‖  Je vous prierai de ne pas vous en mêler."
+# 123586 : 従える = escortée par ; « au garde-à-vous » ajouté par l'anglais
+123586|Escortée de Genji et de Shannon, Rosa dégageait quelque chose de froid, et pourtant d'imposant,‖ ...rien à voir avec l'air qu'elle avait en partant.
+# 123632 : 多少、取り乱して = quelque peu agité (l'anglais exagère) ; あと = par ailleurs
+123632|"Père va bien, mais ces événements soudains l'ont quelque peu agité.‖  ...Heureusement, il a dit qu'il ne quitterait pas sa chambre, il devrait donc être en sécurité.‖  Par ailleurs, nous devrions rester rassemblés au même endroit autant que possible."
+# 123723 : 真里亞、持ってるよ = Maria a le livre (qu'elle montre plus tard), pas « je connais » ; 3e personne
+123723|"...Uu-.‖  Maria l'a.‖  Maria va te montrer."
+# 123752 : 一応 = pour la forme
+123752|Seule Maria semblait regretter un peu la télé, mais elle s'est levée elle aussi, pour la forme, comme tout le monde.
+# 123895 : typographie : espace avant ! ?
+123895|"Iiih...... !"
+# 123899 : お下がりを = formule polie de Gohda
+123899|"Tout le monde, veuillez reculer... !"
+# 123994 : ドアノブも捻る = il tourne la poignée et sent la résistance du verrou
+123994|Il a aussi secoué la poignée dans tous les sens, mais n'a senti que la résistance du verrou.
+# 124208 : typographie : espace avant ! ?
+124208|"...On était sous le choc, à ce moment-là.‖  On s'est dit que si Jessica-chan cédait à la colère et partait en courant, on ne pouvait rien y faire.‖  ...Mais on a été naïfs.‖  On aurait dû l'arrêter... !"
+# 124218 : typographie : espace avant ! ?
+124218|"...Gohda-san, pourquoi avez-vous laissé ces deux-là seuls ?!‖  Si seulement vous étiez resté avec eux, une chose pareille... !!"
+# 124224 : typographie : espace avant ! ?
+124224|"N-Non, ...c-c'est-à-dire...euh !!‖  J'ai dit que c'était dangereux et que nous devions revenir !‖  C'est juste que Mademoiselle a dit qu'elle voulait être seule !‖  Kanon-san m'a dit de lui laisser ça, et... !
+# 124230 : typographie : espace avant ! ?
+124230|  ...Mais au fait, où est Kanon-san... ?!"
+# 124258 : typographie : espace avant ! ?
+124258|"Kanon-san devait être avec Mademoiselle...‖  Où a-t-il bien pu passer... ?!"
+# 124285 : 押し込まれている = fourré quelque part (caché)
+124285|Il était possible que le cadavre de Kanon-kun ait été fourré quelque part.
+# 124366 : 何の鍵なのかはわかりかねた = on ne savait pas ce qu'elle ouvrait ; l'anglais déforme
+124366|...Vu son allure mignonne, je ne doutais pas que ce soit une clé de Jessica, mais impossible de savoir ce qu'elle ouvrait.
+# 124443 : 余剰分は…どうでしょう = « je ne saurais dire » (doute), pas « je me le demande »
+124443|"Oui.‖  Nous en avons tous un.‖  ......Quant à des clés en surplus, ...je ne saurais dire."
+# 124450 : 対応が取られたはず = des mesures ont dû être prises ; « éliminés » surinterprète
+124450|"Il y en avait plusieurs autrefois, ...mais Madame nous a sévèrement réprimandés en disant que c'était imprudent, et des mesures ont dû être prises."
+# 124564 : 施錠できる鍵 = clés capables de la fermer à clé (l'anglais dit « unlock ») ; 朱志香ちゃん
+124564|"Cette chambre était fermée à clé.‖  Et les seules clés capables de la fermer à clé sont les passe-partout, un par domestique, et la clé de Jessica-chan.‖  ...Mais la clé de Jessica-chan était enfermée ici.‖  ...Ce qui signifie que seul l'un des passe-partout a pu fermer cette chambre."
+# 124610 : あんまりにございます = « c'est trop injuste ! », pas une dénégation
+124610|  C-C-C'est trop injuste !‖  Oui, bien trop injuste !!"
+# 124637 : typographie : espace avant ! ?
+124637|"...C-Ce n'est pas nous... !!‖  Nous suivions les ordres du Maître et..."
+# 124651 : ありがとうございます sobre ; « infiniment » est de trop pour Genji
+124651|"......Je vous remercie."
+# 124675 : 刺されてる = poignardée ; 顔見知り = une connaissance
+124675|"Jessica-chan a été poignardée dans le dos.‖  ......Allons, on le dit tout le temps, non ?‖  Que quand la victime est poignardée dans le dos, il y a de fortes chances que le coupable soit une de ses connaissances.‖  Elle n'aurait certainement pas laissé entrer dans sa chambre quelqu'un en qui elle n'avait pas confiance...pour lui tourner le dos sans défense."
+# 124757 : typographie : espace avant ! ?
+124757|"Non, euh... !‖  ......J'ai le regret de dire que Mademoiselle ne m'avait peut-être pas accepté.
+# 124788 : 気持ちの悪いコント = un numéro comique écœurant ; « rondo » vient de l'anglais et ne veut rien dire ici
+124788|C'était un numéro de duettistes franchement écœurant.
+# 124805 : typographie : espace avant ! ?
+124805|"...A-Attendez, je vous en prie... !‖  Kanon-kun ne ferait jamais une chose pare-"
+# 124842 : あぁ、そうだったわね = « Ah, c'est vrai » (Rosa feint de s'en souvenir)
+124842|"......Ah, c'est vrai.‖  ...Jessica-chan aurait peut-être aussi laissé Shannon-chan entrer dans sa chambre.
+# 124936 : 嘉音くん : le -kun a disparu
+124936|"...J-Je ne peux pas le croire...‖  Que Kanon-kun ait fait ça...
+# 124940 : あんまりです = c'est trop injuste
+124940|  ...C'est trop injuste !!"
+# 125039 : ふざけるな = « te fous pas de moi », pas « bon sang »
+125039|  C'est ça que tu veux que j'accepte ?‖  Te fous pas de moi... !‖  ...Te fous pas de moi, te fous pas de moi... !!"
+# 125163 : ここにいない者へ仮の答えを求めて = chercher une réponse provisoire chez les absents
+125163|Cette faiblesse les poussait à chercher une réponse provisoire chez ceux qui n'étaient pas là...
+# 125193 : 社会を形成して生きる = vivre en formant des sociétés ; l'anglais invente « se modeler »
+125193|Les humains sont des êtres qui vivent en formant des sociétés.
+# 125197 : 逆らわされる不快感 = le malaise d'être forcé d'aller contre
+125197|...Être forcé d'aller contre ça...c'est désagréable.
+# 125230 : typographie : espace avant ! ?
+125230|Et c'est justement pour ça que ça me déplaît... !!
+# 125238 : typographie : espace avant ! ?
+125238|Donc, Kanon-kun était le seul à avoir pu tuer Jessica ?‖  ...Je ne peux pas accepter ce genre de raisonnement... !!!
+# 125307 : あいつら : Jessica est familière ; « ces gens peuvent-ils » est trop soutenu
+125307|"...Pourquoi ils...traitent Kanon-kun comme le coupable, ces types-là ?!!"
+# 125333 : typographie : espace avant ! ?
+125333|  Et puis, ...cette sorcière a fait disparaître ton corps pour s'amuser... !‖  Et après ça, ils te traitent de coupable...c'est horrible, c'est trop horrible !!"
+# 125395 : 死んでわかった = je l'ai compris en mourant ; 何のために…わかんなくなっちゃう = on ne saura plus pourquoi il a risqué sa vie
+125395|"Si je suis la seule à connaître la vérité, ça sert à rien !!‖  Je l'ai compris en mourant.‖  La vérité appartient aux vivants !!‖  Si la vérité ne reste pas, les morts ne seront jamais récompensés !!‖  On saura plus pourquoi Kanon-kun a risqué sa vie !!"
+# 125468 : 悔しい = rage, pas « je déteste » ; 気付いて = rendez-vous-en compte
+125468|"...Je supporte pas ça !!‖  C'est trop triste !‖  J'enrage !!‖  Comme ça...c'est comme si Kanon-kun était mort pour rien, non ?!!‖  L'honneur des morts ne vaut rien s'il n'est pas reconnu par les vivants !‖  Peu importe qui !‖  Rendez-vous-en compte !‖  Rendez-vous-en compte, je vous en supplie !!‖  Kanon-kun n'est pas le coupable !!‖  Aaaaaaaaaaaaaaah, partez pas, partez pas, tout le monde !!‖  Je vous en prie, que ça se termine pas comme ça... !‖  Partez pas, ...partez paaaaaaaaaaaaaaas !!!"
+# 125530 : typographie : espace avant ! ?
+125530|"Arrêtez...de traiter Kanon-kun...comme le coupaaaaaaaaable !!‖  Ouaaaaaaaaaaaaaaaaaaaaah... !!"
+# 125575 : 全然駄目だな = « ça va pas du tout » (cf. remarques MISSION et lots précédents)
+125575|"Ça va pas du tout."
+# 125592 : idem 駄目 / 全然駄目
+125592|"Ouais, ça va pas.‖  ...~ib~Ça va pas du tout~ib~."
+# 125607 : idem 全然駄目
+125607|"Comment ça, ...ça va pas du tout ?‖  Tu as une objection... ?"
+# 125614 : 拒否させてもらう = je refuse (écho du « je refuse » du duel) ; « je ne gobe pas » affadit
+125614|"Je suis d'accord qu'il faut rester sur nos gardes,‖ ...mais désolé, faire de Kanon-kun le coupable, ça, je refuse."
+# 125626 : ここで食いついて来るとは = tu relèves le défi maintenant
+125626|"...Oh ?‖  Alors tu relèves le défi, maintenant ?‖  Si Kanon n'était pas le coupable, et que ce n'était pas mon œuvre, comment expliques-tu la chambre close qu'est devenue la chambre de Jessica... ?"
+# 125633 : idem 全然駄目
+125633|"......Pour être honnête, je n'en ai pas la moindre idée sur ce point.‖  ...Sérieux, qu'est-ce qui m'a pris de dire que ça allait pas du tout ?"
+# 125637 : typographie : espace avant ! ?
+125637|"...Va bien falloir que j'assume mes paroles.‖  Ihihihihi... !
+# 125776 : 言えるもんなら言ってみろ = dis-le si t'en es capable (cohérent avec 122451)
+125776|"Répète-le !!‖  Dis-le si t'en es capable : `Kanon-kun avait un passe-partout sur lui' !!"
+# 125784 : typographie : espace avant ! ?
+125784|"............Tiens donc... !"
+# 125801 : 嘉音くんと別れる直前 = juste avant que Gohda se sépare de Kanon ; l'anglais change le sujet
+125801|"Tout à l'heure, Gohda-san m'a raconté ce qui s'était passé.‖  ...Comment Jessica est allée faire une descente dans la chambre d'honneur,‖ juste avant qu'il se sépare de Kanon-kun."
+# 125806 : 嘉音くん : -kun perdu
+125806|"......Gohda-san, vous avez bien fait de vous en souvenir.‖  Vous avez protégé l'honneur de Kanon-kun."
+# 125867 : どう証明する = comment prouves-tu que… ; l'anglais inverse la question
+125867|  Certes, Gohda n'a aucun souvenir que le passe-partout ait été rendu à Kanon.‖  Mais elle a pu le lui rendre pendant que Gohda ne regardait pas !‖  Comment prouves-tu que cela ne s'est absolument pas produit ?!‖  *ricane*ricane*ricane*  Si tu pouvais fouiller la poche du cadavre de Kanon, tu pourrais l'affirmer avec certitude, mais tu ne le peux pas !!‖  C'est impossible à prouver !!"
+# 125873 : 全然駄目 ; 実に簡単なことじゃねぇか = c'est pourtant tout simple
+125873|"Ça va pas du tout.‖  C'est pourtant tout simple, non ?"
+# 125889 : « c'est pour ça que » ajouté par l'anglais
+125889|"...Ce n'est pas possible... !‖  Alors tu dis que Kanon-kun n'avait pas de clé sur lui ?!"
+# 125907 : う、うむ = « B-Bien », pas « En effet »
+125907|"...B-Bien."
+# 125915 : typographie : espace avant ! ?
+125915|Tout le monde...retenait son souffle...... !
+# 125926 : prière intérieure : « je vous en prie » détonne
+125926|...Pitié.‖  Pourvu qu'il soit là...... !!
+# 125999 : 疑わしきはクロじゃねぇ、シロだ : équivalent français « le doute profite à l'accusé »
+125999|"......Mais la seule chose que je vous laisserai pas faire, c'est tirer des conclusions sans preuve !!‖  Le doute, ça rend personne coupable : il profite à l'accusé !!‖  Bien sûr, le monde est rempli de loups.‖  Je dis pas qu'il faut faire confiance à tout le monde sans réfléchir !"
+# 126061 : 乾いた拍手 = applaudissements secs
+126061|Clap clap clap...‖  ...La sorcière applaudissait d'un claquement sec.
+# 126098 : 大それたこと = l'audace, pas « scandaleux »
+126098|"Je t'ai eu, n'est-ce pas... ?‖  De plus, tu as eu l'audace de déclarer que tu ne soupçonnerais aucun des autres domestiques.‖  Eh bien, il me tarde de voir comment tu vas essayer de t'en sortir..."
+# 126134 : チェス盤を引っ繰り返す → retourner l'échiquier (choix fixé) ; 手の平から出ない = ne pas sortir de ta main
+126134|"...Je vais retourner l'échiquier d'entrée de jeu.‖  ...Si je commence par débattre de la porte et de la serrure, je sortirai sûrement jamais du creux de ta main."
+# 126182 : 謎の論点 = le nœud du mystère
+126182|"Ouais, je me doutais que tu dirais pas ça.‖  ...Il y a forcément un secret caché quelque part là-dedans.‖  ...Bon sang, où est le nœud du mystère ?‖  ......Ils l'ont fermée à clé sans passe-partout ?‖  Ou bien ils ont réussi à tuer ces deux-là pendant qu'ils étaient dans la chambre fermée à clé ?‖  Ou alors ils ont tué ces deux-là, puis se sont échappés d'une façon ou d'une autre ?"
+# 126205 : 礼拝堂の鍵 = la clé de la chapelle, pas la serrure
+126205|"Avec la clé de la chapelle, tu as complètement retourné la situation contre moi.‖  Quand j'ai l'avantage, inutile de me donner la peine d'utiliser le rouge si cela risque de me coûter.‖  C'est tout."
+# 126228 : typographie : espace avant ! ?
+126228|"...Bon sang.‖  J'ai l'impression que tu me mènes par le bout du nez, et ça me fout en rogne...‖  Tais-toi un peu, je réfléchis... !"
+# 126242 : typographie : espace avant ! ?
+126242|  J'en dirai plus.  #ff0000Aucune astuce ne pouvait avoir pour effet de fermer la porte à clé de l'extérieur sans utiliser de clé</i>.‖  *ricane*ricane*... !"
+# 126349 : 何が何だかわからない = je sais plus où j'en suis
+126349|......Je sais plus du tout où j'en suis...
+# 126355 : typographie : espace avant ! ?
+126355|"*ricane*ricane* !‖  Au départ, la seule condition de victoire de notre partie était de savoir si tu pouvais nier mon existence ou non.‖  ...Alors que cela seul te désavantageait déjà, tu as multiplié toi-même les conditions de victoire, rendant ta propre victoire plus difficile... !"
+# 126375 : 爽快に打ち破って見せたと思っている = que je croyais avoir démoli avec panache ; l'anglais restructure mal
+126375|Même le tour de la chambre close de la chapelle, que je croyais avoir démoli avec panache :‖ si la théorie que j'avais avancée, `quelqu'un a volé la clé dans le sac à main de Maria puis l'y a remise', est juste,‖  alors la question devient : qui a pu voler la clé dans son sac à main ?
+# 126432 : しゃあしゃあと = avec aplomb, effrontément
+126432|  Et malgré ça, tu as fait comme si tu ne t'en rendais même pas compte, ‖pour énoncer une telle théorie avec un pareil aplomb... !‖  *gloussement*gloussement*gloussement*"
+# 126454 : typographie : espace avant ! ?
+126454|"Autrement dit, cela revient à soupçonner l'un des 18... !!"
+# 126487 : 王手飛車取り = échec au roi et menace sur la tour (pas une simple fourchette)
+126487|"...Donc, ce que t'essaies de dire, c'est que j'ai deux options : ‖...accepter qu'une sorcière l'a ouverte par la magie, ou accepter que quelqu'un que je connais est le coupable.‖  Bon sang, échec au roi et à la tour en même temps, c'est ça ?!
+# 126498 : 死に損ないのクソババア = vieille bique qui n'en finit pas de mourir ; l'anglais affadit
+126498|"...*ricanement*‖  Alors, que vas-tu faire, Ushiromiya Battleeeeeeer ?‖  N'est-ce pas simple, en réalité... ?‖  Tu n'as qu'à faire un petit sacrifice de ce cuistot imbu de lui-même et de cette vieille bique qui n'en finit pas de mourir, non ?
+# 126514 : 駄目だ = non, ça va pas
+126514|  Si je soupçonne Gohda-san et Kumasawa-san, tout ira bien ?!‖  Non, ça va pas !
+# 126597 : typographie : espace avant ! ?
+126597|...merci infiniment... !"
+# 126604 : 紗音ちゃんも疑ってる = c'est Battler qui la soupçonne aussi
+126604|"...Pas besoin de me remercier.‖  Après tout, ...ça veut dire que je te soupçonne toi aussi, Shannon-chan."
+# 126650 : 一番戦っているようなつもりでいて = je croyais me battre le plus ; 真実 = la vérité
+126650|Moi qui croyais sans doute être celui qui se battait le plus, ...j'étais en fait le plus éloigné de la vérité.
+# 126724 : 大人数ではなく = pas nombreux ; « adultes » ajouté par l'anglais
+126724|À partir de là, on pouvait imaginer que les coupables n'étaient pas nombreux, ‖et qu'il ne serait pas capable de tuer d'un coup ce groupe nombreux réuni au salon.
+# 126729 : 紗音ちゃん dans la narration de Battler
+126729|En ce moment, dans ce salon, il y a George-aniki et moi.‖  Maria.‖  Tante Rosa.‖  Genji-san, Gohda-san, Shannon-chan, Kumasawa-san, ...et puis le docteur Nanjo, soit neuf personnes en tout.
+# 126773 : シェフの気まぐれ風 = cliché des menus « selon l'inspiration du chef »
+126773|Au début, Tante Rosa s'était montrée réticente et avait examiné chacune des assiettes qu'on apportait, mais elle n'avait rien trouvé à redire,‖ et c'est ainsi qu'était né le `Déjeuner assortiment de conserves selon l'inspiration du chef' de Gohda-san.
+# 126948 : 男が何人かで行けばいい = c'est Battler qui avait dit que quelques hommes suffiraient
+126948|...Quand on a décidé d'aller chercher Jessica, j'ai dit que quelques hommes suffiraient, ‖et Tante Rosa a parlé de l'`énigme des loups et des moutons', en disant qu'on devait tous y aller ensemble...
+# 127007 : 皆さん aux autres domestiques : « mesdames et messieurs » détonne
+127007|"Je suis désolé, tout le monde.‖  Allons-y tous ensemble."
+# 127211 : 夜なべをして、チクチク = veiller toute la nuit à l'ouvrage (image de couture, sarcasme)
+127211|"......Peut-être que l'invitée mystère, Beatrice-sama, a veillé toute la nuit pour tout faire à la petite aiguille."
+# 127243 : retourner l'échiquier (choix fixé)
+127243|"Je retourne l'échiquier.‖  ...C'est bizarre, Tante Rosa."
+# 127279 : 偽装 = mise en scène, pas « déguisement »
+127279|S'il existait une astuce permettant de fermer cette porte à clé sans passe-partout, ce serait une excellente mise en scène pour faire soupçonner les domestiques.
+# 127361 : typographie : espace avant ! ?
+127361|  Le passe-partout de Kanon-kun était dans la poche de Jessica-chan, enfermé dans une chambre close.‖  Une fois la porte fermée à clé, il aurait dû être impossible de le mettre dans sa poche depuis l'extérieur de la pièce, quelle que soit l'astuce utilisée... !"
+# 127426 : やり過ごす = attendre qu'on reparte sans le voir
+127426|  ...Elle cherchait Kanon-kun, qui aurait fermé la porte de l'intérieur et glissé la clé dans la poche de Jessica...‖avant de se cacher quelque part en attendant qu'on reparte sans l'avoir vu."
+# 127438 : 一丁上がり = « et hop, servi » (ton familier perdu)
+127438|...Ensuite, il n'avait plus qu'à s'éclipser une fois partis ceux qui avaient découvert le corps, et hop, un meurtre en chambre close servi sur un plateau...
+# 127477 : 疑いそうになった = tu as failli soupçonner ; « apparemment » ajouté
+127477|"Comme tu as failli soupçonner Kanon d'être le coupable, tu m'as fait répéter ceci pour écraser cette possibilité d'emblée.‖  Oui, oui, je comprends.‖  *ricanement*..."
+# 127521 : 魔女さまのお取り計らい : ironique → Madame la sorcière ; « diplomate » est un contresens
+127521|  Merci.‖  Grâce aux bons soins de Madame la sorcière, je peux affirmer sans tout fouiller que cette chambre n'a pas de porte dérobée."
+# 127663 : typographie : espace avant ! ?
+127663|"Shannon n'est pas le genre de personne à participer à un crime !!‖  Je ne peux pas laisser passer une remarque pareille, même venant de vous, Tante Rosa.‖  J'exige que vous retiriez ce que vous venez de dire... !"
+# 127676 : 血は争えない = « bon sang ne saurait mentir »
+127676|  C'est comme si vous partiez du principe que vous avez raison, tant qu'on n'arrive pas à vous contredire.‖  ...Bon sang ne saurait mentir, hein, Tante Rosa."
+# 127735 : 即答っすね = du tac au tac
+127735|"Du tac au tac, hein.‖  Comment ?"
+# 127750 : あろうことか = comble de tout (c'est sur lui qu'elle vise)
+127750|Tante Rosa a levé son fusil et, comble de tout, a pointé le canon sur moi.
+# 127760 : 銃口の中が覗けるくらいに長い時間 = assez longtemps pour voir jusqu'au fond du canon
+127760|...Mais pour moi, ça a duré assez longtemps pour que je voie jusqu'au fond du canon.

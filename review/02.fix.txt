@@ -1,0 +1,148 @@
+# 55020 : Gohda vouvoie tout le monde, y compris Kanon (さん + keigo en japonais)
+55020|"Battler-sama, permettez-moi de faire les présentations.‖Voici l'un des domestiques de la famille principale Ushiromiya.‖...Kanon-san, saluez notre invité."
+# 55069 : Gohda vouvoie Kanon (できませんか)
+55069|"Kanon-san,‖pourriez-vous peut-être les saluer un peu plus... ?"
+# 55100 : 寡黙 = taciturne, pas « timide »
+55100|"B-Bon, Kanon-kun est du genre silencieux, il fait pas la conversation pour rien.‖Il est peut-être pas très sociable, mais au fond, c'est quelqu'un de vraiment bien !‖Le prends pas mal... !
+# 55114 : c'est Battler qui ne s'était pas fait de mauvaise impression (l'anglais déplace le sujet)
+55114|Alors que je ne m'étais pas spécialement fait une mauvaise impression de lui, Jessica s'est empressée de prendre sa défense.
+# 55145 : 先に朱志香が教えてくれた = Jessica a répondu à sa place, pas « a foncé »
+55145|Il s'est tu, comme s'il se demandait s'il était obligé de répondre à cette question.‖...Mais là encore, Jessica a répondu à sa place.
+# 55197 : 気さくに = simplement, sans façons ; « sois cool » est un calque de l'anglais
+55197|"Hé hé, je suis content que t'aies à peu près notre âge !‖Appelle-moi Battler, tout simplement !‖Et moi, je t'appellerai Kanon !"
+# 55235 : Gohda vouvoie Kanon ; 愛想よく = aimable, souriant
+55235|"Kanon-san, ne pourriez-vous pas vous montrer un peu plus aimable ?‖Un visage souriant fait aussi partie du devoir d'un domestique."
+# 55310 : Gohda vouvoie Kanon
+55310|"Mais que faites-vous donc... ?  Allons, allons, ramassez vite tout ça... !"
+# 55509 : Gohda vouvoie Kanon (行ってください)
+55509|"Allons, cela suffit.‖Allez-y, maintenant."
+# 55536 : contresens (« vous n'auriez pas dû l'aider ») ; famille → domestiques : tu (STYLE)
+55536|"Tu es trop dur avec lui, Gohda-san.‖Au lieu de lui dire des méchancetés, tu aurais mieux fait de l'aider, non ?"
+# 55596 : こういうキャラだったんだな = Battler (re)découvre le personnage, pas une confirmation
+55596|Je vois, c'était donc ce genre de personnage, Kumasawa baa-chan.
+# 55602 : カラカラとした笑い = un rire franc, pas un sourire
+55602|L'atmosphère, tendue jusque-là, s'est éclaircie d'un coup grâce à son grand rire franc.
+# 55677 : contresens de l'anglais ; そっとせずにはいられない = on sent qu'il faut le laisser tranquille
+55677|Mais à voir son dos voûté, tête basse, on sentait qu'il valait mieux le laisser tranquille.
+# 55791 : 好評 = tout le monde préfère la maison d'hôtes ; « plus marrant » et « que tu connaissais » ajoutés par l'anglais
+55791|"Hé hé, on dirait que tout le monde préfère cet endroit à ce vieux manoir décrépit.‖J'aimerais bien avoir ma chambre ici !"
+# 55939 : ironie perdue : 可愛がられろよ (« fais-toi bien chouchouter ») et 我らが当主さま (« notre vénéré chef »)
+55939|"Arrête tes conneries.‖J'ai mal au ventre, et je suis pas d'humeur.‖Cette fois, c'est toi l'invité d'honneur,‖alors fais-toi bien chouchouter par Père, Aniki et les autres.‖......Au minimum, fais attention à ce que tu dis devant Père, compris ?‖Parce que les vannes, ça passe pas trop avec lui.‖......Jessica-chan, comment va l'humeur de notre vénéré chef de famille ces temps-ci ?"
+# 56099 : 筋は通す = il a des principes, il est juste ; pas « logique »
+56099|"Il a l'air effrayant, mais pas au point que tu doives te crisper comme ça.‖Rien de ce qu'il dit n'est vraiment déraisonnable.‖Il ne sait peut-être pas bien s'exprimer, mais c'est quelqu'un de droit, qui a des principes."
+# 56107 : 一族の鑑 = le modèle de la famille, pas le « chouchou »
+56107|"Mais George nii-san, t'es le modèle de toute la famille depuis toujours avec tes super notes, non ?‖Grand-père nous traite complètement différemment !
+# 56259 : 握り拳で天を突き = brandir le poing vers le ciel (geste joyeux)
+56259|Tante Rosa était juste derrière nous, mais Maria a quand même répondu avec entrain, en brandissant le poing vers le ciel.
+# 56292 : 筋なら = en principe on aurait dû les suivre ; l'anglais en fait une contrainte des parents
+56292|...En principe, on aurait dû les suivre pour aller saluer avec eux,‖mais si c'était ce qu'il voulait, mon père nous aurait juste dit de venir, point final.
+# 56428 : 成人してる = George est déjà majeur, pas « devient un adulte »
+56428|"...Pour les autres enfants, passe encore, mais George est majeur.  Ce ne serait pas mieux qu'il vienne avec nous ?"
+# 56437 : 仲間外れ = mettre George à l'écart de ses cousins
+56437|"Si on l'emmène, le pauvre George sera mis à l'écart des autres, ce serait dommage.‖Passer du temps avec ses cousins, c'est important aussi.‖Allez, à plus tard, tout le monde !"
+# 56593 : 兄貴にしちゃ嘘がヘタ = mensonge maladroit pour quelqu'un comme lui
+56593|"Menteur !‖Pour un gars comme toi, Aniki, c'est un mensonge bien maladroit.  Avoue !‖Maria, tu le chatouilles à droite, moi à gauche !"
+# 56692 : Jessica révèle ce que George a demandé (l'anglais en fait une question à George) ; 辞めた/入った使用人
+56692|"Haahahahaha, ce que George nii-san a demandé à Kumasawa-san ?‖Hmm ?‖Bah, tu vois le genre.‖Ça fait un an qu'il est pas venu chez la famille principale.‖S'il y a des domestiques qui sont partis ou arrivés entre-temps, il voudrait aller les saluer, apparemment."
+# 56785 : 出しゃばり = qui se met en avant, pas « fouineur »
+56785|"Elle est sûrement occupée à faire le ménage ou à préparer le déjeuner.‖T'inquiète, elle passera dire bonjour tôt ou tard.‖Hé, je parie que t'aurais préféré être accueilli par Shannon plutôt que par ce m'as-tu-vu de Gohda.‖Hé hé hé !"
+# 56841 : Natsuhi vouvoie sa belle-famille (STYLE)
+56841|"...Je vais beaucoup mieux ces derniers temps.‖Merci de votre sollicitude."
+# 56863 : Natsuhi vouvoie Rosa (STYLE)
+56863|"......Merci beaucoup.‖Je reçois toujours des cadeaux de votre part.‖...Est-ce du thé noir ?"
+# 56908 : Natsuhi vouvoie Eva (STYLE) ; 生まれつき = depuis toujours
+56908|"............‖.........Je vous prie de m'excuser.‖J'ai toujours été sujette aux migraines."
+# 56946 : そういうのだけは素直に聞きやがる = la blague : ce conseil-là, il l'écouterait sans broncher
+56946|"Dès que je dis quoi que ce soit, il se rebelle automatiquement.‖Alors je devrais dire quoi ?  Dire le contraire, qu'il peut faire l'imbécile ?‖Ça, par contre, il l'écouterait sans broncher.
+# 56955 : Rudolf parle poliment à Hideyoshi (じゃないですか / 教えてくださいよ) ; 子供操縦術 = l'art de piloter les gosses
+56955|Hideyoshi nii-san, chez vous, les examens de George se sont vraiment bien passés, non ?‖Allez, apprenez-moi votre secret pour piloter les gosses."
+# 56995 : 女には女の幸せもある = une femme a aussi son bonheur à elle, pas « doit trouver »
+56995|"Faut-il vraiment la forcer à devenir l'héritière ?‖Après tout, une femme a aussi droit à son bonheur à elle, un bonheur de femme.‖Les parents ne devraient pas imposer ce genre de choses à leurs enfants, tu ne crois pas ?"
+# 57053 : Rosa parle poliment à Kyrie (お詳しいですね / ありました)
+57053|"Vous vous y connaissez, Kyrie nee-san.‖Ça valait la peine de l'acheter."
+# 57110 : はばかることなく = sans se gêner, pas « aussitôt »
+57110|...En voyant sa tête, Eva se mit à glousser sans la moindre gêne.
+# 57126 : 痛みを伴う眼差し = un regard qui fait mal, pas « peiné »
+57126|Elle arriva en poussant une desserte chargée de tasses.‖Pour cette seule raison, Natsuhi lui lança un regard cinglant, et Shannon ne put s'empêcher de tressaillir sans savoir ce qu'elle avait fait de mal.
+# 57137 : お茶のご用意をさせていただきます = je vais vous servir le thé (keigo)
+57137|"......E-Excusez-moi.‖Je vais vous servir le thé."
+# 57246 : 台所を預かる = tenir la maison (intendance), pas la « cuisine »
+57246|En tant que maîtresse de maison chargée de l'intendance de la famille principale Ushiromiya, laisser cette maladresse s'étaler au grand jour, aujourd'hui entre tous les jours, n'était sûrement rien de moins qu'une humiliation totale.
+# 57444 : 苦しげ = rire forcé ; « ricana » est péjoratif
+57444|Tout le monde suivit le gros rire de Hideyoshi et rit à son tour, non sans se forcer.
+# 57469 : 小さく頷き返し = elle hocha la tête
+57469|...Shannon hocha légèrement la tête et battit précipitamment en retraite......
+# 57535 : 卑劣 = ignoble, méprisable
+57535|"Que Madame et Eva-sama aillent au diable.‖......Mais le plus ignoble, c'est ce type."
+# 57649 : 初老 = homme âgé ; l'anglais « middle-aged » est faux
+57649|Un homme âgé se tenait là.
+# 57940 : 同じ言葉を返してやる = « je te retourne le compliment »
+57940|"Je te retourne le compliment.‖T'as pas changé d'un poil, même après six ans.‖Ton corps est devenu gigantesque, mais t'es toujours un gamin à l'intérieur."
+# 58006 : いい話に摩り替えつつ約束を保持 = il garde la promesse sous couvert de joli discours
+58006|"Hé, en fais pas une jolie histoire pour garder ta promesse !‖Maria, cette promesse n'a jamais existé !‖Jamais !"
+# 58170 : keigo très formel de Shannon (勿体無いお言葉、恐悦に存じます)
+58170|"V-Vous me faites trop d'honneur, j'en suis profondément flattée..."
+# 58359 : トキより先に保護すべき = l'ibis nippon, espèce protégée ; blague supprimée par l'anglais
+58359|...Une fille comme ça, faudrait la classer espèce protégée avant même l'ibis nippon...
+# 58368 : Battler décrit le scénario attendu (je m'approche / tu me mets au tapis / « Kyaa, pervers ! »)
+58368|"...D-Dire qu'il existe encore des filles aussi dévouées à notre époque...‖Y a de quoi donner le vertige à un homme.‖......Mais non !‖NooOoon !!‖Je m'approche avec une tête de pervers !‖Tu me mets au tapis !!‖`Kyaa, espèce de pervers !'‖Sans ce scénario-là, le gag a pas de chute, alors gifle-moi !‖Je t'en prie !‖Frappe-moiii !!"
+# 58405 : ご承知おきくださいませ = veuillez en prendre note, pas « me comprendre »
+58405|"......O-Oui.‖À vos ordres.‖Désormais, c'est ce que je ferai.‖Je vous prie d'en prendre bonne note, Battler-sama..."
+# 58475 : le prénom de Kanon s'expliquerait aussi (ネーミングセンス), pas une ressemblance
+58475|...Si c'est le cas, ça expliquerait aussi le prénom de Kanon-kun, le gamin que j'ai croisé tout à l'heure dans la roseraie.
+# 58516 : 姉と慕ってくれます = il me considère comme sa grande sœur
+58516|"...Ce n'est pas vraiment mon petit frère...‖Mais il me considère comme sa grande sœur.‖...Il ne vous a pas causé d'ennuis, j'espère ?"
+# 58527 : 勿体無いやつ omis par l'anglais
+58527|"Haha !‖Il est égal à lui-même.‖S'il était un peu plus aimable... C'est dommage, ce gars."
+# 58593 : George tutoie Shannon (STYLE)
+58593|"Euh, tu as dit que le repas était prêt, c'est bien ça ?"
+# 58846 : 女房役 = il tenait presque le rôle d'une épouse (prépare la ligne suivante sur la grand-mère)
+58846|C'était en gros le bras droit de Grand-père, ou son garde-malade,‖...et on pourrait même dire qu'il jouait auprès de lui le rôle d'une épouse.
+# 59014 : « monsieur » ajouté par l'anglais (sir)
+59014|".........C'est exact.‖En avril de l'année avant-dernière, le Maître l'a fait accrocher là, après l'avoir commandé à un peintre."
+# 59025 : わざわざ描かせて = il s'est donné la peine ; « rien que pour lui » ajouté
+59025|"Grand-père a fait ça ?‖Il s'est donné la peine de le faire peindre, hein... ?"
+# 59154 : la forêt, comme la mer, isolait les cultures ; l'anglais déforme
+59154|De nos jours, la plupart des gens voient la forêt comme un endroit paisible,‖mais pour les hommes d'autrefois, avant que la lumière de la civilisation ne chasse la nuit, la forêt, tout comme la mer, isolait les cultures les unes des autres.‖C'était une mer sur la terre ferme.
+# 59179 : そう思った親の誰か = un parent quelconque
+59179|Un parent a dû se dire ça.‖...C'est peut-être Grand-mère qui l'a dit la première, ou peut-être Grand-père lui-même.
+# 59225 : 気もする = il me semblait, pas « j'étais sûr »
+59225|.........Quand Aniki en a parlé, j'ai fouillé ma mémoire, et il me semblait bien qu'on m'avait appris un nom comme celui-là quand j'étais tout petit.
+# 59272 : 頼まれても言わねぇ = même si on me le demandait
+59272|"......Je sais.‖Même si on me le demandait, je le dirais pas."
+# 59319 : 未開 = sauvage, inexploré, pas « sans loi »
+59319|Tout le reste, la partie sauvage...était le domaine de la sorcière, Beatrice.
+# 59681 : 食ったり食べたり食事したり = triple « manger », préparation de la vanne de 59697 ; l'anglais réécrit
+59681|"Oh, euh, ouais !‖À force de manger, de bouffer et de me nourrir, j'ai atteint cette taille sans m'en rendre compte."
+# 59922 : 締め切られた = pièce hermétiquement fermée ; « chambre close » réservé au mystère
+59922|Dans la pièce hermétiquement fermée, une épaisse poussière dansait dans l'air, lourd de relents chimiques qui exhalaient un mélange d'odeurs suspectes.
+# 59990 : 磔にしたぞ = passé (« je l'ai fait crucifier ») : allusion au Christ (« frappez et l'on vous ouvrira »)
+59990|Qui t'a dit que la porte s'ouvrirait pour peu que tu frappes ?!‖Cet imbécile-là, je l'ai fait crucifier !!‖Souhaites-tu subir le même sort ?!!"
+# 60024 : 残りは酒に漬ける = le reste (de l'absinthe/armoise) à macérer dans l'alcool, pas « leur lie »
+60024|"Ne m'importune pas !!‖Qui donc est ce `tout le monde' dont tu parles ?  Les fous qui veulent me traîner hors d'ici ?!!‖Alors tuez-les tous !‖Démembrez-les, faites de leurs corps du bois de chauffage et jetez-les dans l'âtre de la sorcière !!‖Posez une marmite dans cet âtre pour y faire bouillir l'absinthe !‖Forcez les imbéciles qui osent tenter de m'attirer hors d'ici à boire le bouillon de l'Apocalypse !‖Le reste, faites-le macérer dans l'alcool !‖Aah, où est Genji ?!‖Qu'on appelle Genji !!‖Qu'on me prépare mon absinthe démoniaque !‖Le murmure de la fée verte ne me parvient plus !!‖Aah, où est Genji ?!  Amenez-le iciiiiii !!!"
+# 60221 : 悪態を態度で示して = il affiche son agacement par son attitude ; « marmonnant » ajouté
+60221|Il regarda sa montre, affichant ostensiblement son agacement d'avoir perdu son temps à une tâche dont il connaissait l'issue d'avance.
+# 60290 : 常習性が強すぎる = trop addictif
+60290|"Évitez autant que possible de lui donner de l'alcool.‖......C'est bien trop addictif."
+# 60532 : ボトル = la bouteille (le verre vient à la ligne suivante)
+60532|Personne n'aurait seulement songé à boire ce sinistre liquide vert sombre contenu dans cette bouteille aux motifs complexes, à moins qu'on ne lui ait d'abord dit que c'était de l'alcool.
+# 60662 : お前が作る方が美味い = « le tien est meilleur » (simple, chaleureux)
+60662|"J'ai tenté d'imiter ta préparation, mais j'ai beau essayer, je n'arrive pas à en reproduire le goût.‖......Le tien est meilleur."
+# 60743 : うろうろ待つ禿鷹 = des vautours qui rôdent, pas « paresseusement »
+60743|".........Ma vie ne durera plus bien longtemps.‖......Mes fils ne sont que des vautours qui rôdent en attendant que mon héritage leur tombe entre les mains."
+# 60768 : 見るのも汚らわしい = la voir souille les yeux ; « obscénité » a une connotation sexuelle
+60768|"Ce benêt de Rudolf ne pense qu'à courir les femmes !!‖Rosa a porté l'enfant d'un homme venu de nulle part, dont nous ne savons rien !!‖Jessica est incapable et inculte !!‖George n'a rien de ce qu'il faut pour être un homme !‖Battler est un imbécile qui a jeté aux orties l'honneur de la famille Ushiromiya !!‖Et Maria, rien que la voir me souille les yeux !!"
+# 60784 : 私の生涯の全てなのだ = « tu es toute ma vie » ; l'anglais lit mal
+60784|"Si tu veux me haïr, alors hais-moi !‖Si tu veux t'enfuir, alors enfuis-toi !!‖Je ne te laisserai pas partir, je ne te laisserai pas partir laisserai pas partir laisserai pas partir !!‖Tu m'appartiens !!‖Tu dois toujours rester dans mes bras !‖Tu es toute ma vie !‖Tu dois rester dans ma cage pour l'éternité, à ne murmurer que pour moi !!‖Beatrice......‖Pourquoi...ne me souris-tu pas... ?‖OOOoooooh, OOOooOOOoooh... !!‖BeatriceeeEEEeeee !!‖OOOoooOOOOoohh......"
+# 60850 : 神秘を成就させる = accomplir le mystère (« faire advenir l'énigme » n'a pas de sens)
+60850|"Mais ceux qui possèdent véritablement la puissance magique peuvent saisir ce miracle et accomplir le mystère !!‖Et si cette puissance existe en moi,‖je saisirai ce miracle !  Je pourrai réaliser le vœu auquel j'ai consacré ma vie !!"
+# 61088 : 気遣ってあげないといけない = il faut prendre soin de lui (George reprend Battler)
+61088|"C'est parce que Grand-père a une volonté particulièrement forte.‖...Mais ça ne veut pas forcément dire que son corps arrivera à suivre.‖Depuis l'an dernier, on n'arrête pas de dire qu'il ne lui reste que trois mois.‖...Si le diagnostic initial était juste, Grand-père prolonge sa vie par la seule force de sa volonté.‖......Il faut qu'on prenne soin de lui."
+# 61173 : proverbe 鬼の居ぬ間に洗濯 ; l'équivalent français existe, avec l'ogre japonais
+61173|Quand l'ogre n'est pas là, les souris dansent, comme on dit.
+# 61270 : 大らかさはただものではない = sa bonhomie doit être hors du commun
+61270|...Vu le temps qu'il avait passé aux côtés de notre colérique de Grand-père, sa bonhomie devait être hors du commun.
+# 61314 : garder `Goldsmith' (lecture étrangère, comme Krauss)
+61314|Si seulement son nom s'écrivait Kinzo (金蔵), mais qu'il nous faisait l'appeler `Goldsmith' ou un truc du genre,
+# 61320 : 素敵ー！って絶叫 = je crierais « trop classe ! » ; « péter un câble » est un contresens
+61320|là, je hurlerais carrément `Trop classe !'.

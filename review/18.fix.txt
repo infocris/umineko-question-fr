@@ -1,0 +1,202 @@
+# 127812 : 釈然としない = pas convaincu, pas « mécontent »
+127812|Une expression peu convaincue est apparue sur le visage de George-aniki.
+# 127820 : 誰か + 濃厚に — l'un des domestiques, et l'indice est fort
+127820|Plusieurs indices laissaient fortement penser que l'un des domestiques était impliqué.
+# 127842 : そもそも…すぐ忘れちまう — habitude au présent ; ベアトリーチェさま ironique
+127842|...Et puis, j'oublie toujours cette 19e personne,  ‖ l'invitée, Beatrice-sama, arrivée hier en prétendant effrontément être la Sorcière dorée.
+# 127864 : 「証拠はおありなの？」 = réplique de méchante distinguée, 居直る = jouer l'effrontée
+127864|Comme ces méchantes de feuilletons qui, même démasquées,  ‖ jouent les effrontées en lançant `Auriez-vous des preuves ?'
+# 127873 : écho archaïque de la formule précédente (おありかの)
+127873|"*ricane*ricane*ricane*ricane*ricane*ricane*ricane* ‖   Des preuves, en aurais-tu donc ?"
+# 127879 : てめぇはしばらく黙ってろ — vise Beatrice, « un moment »
+127879|"La ferme, toi, boucle-la un moment..."
+# 127919 : 使われず余った材料 = ingrédients inutilisés (pas des restes) ; 賄い = repas du personnel
+127919|Gohda se servait des ingrédients du petit-déjeuner et du déjeuner restés inutilisés pour préparer une soupe pour le personnel.
+# 128066 : からからと笑う = grand rire franc, pas un gloussement
+128066|Kumasawa partit d'un grand rire, et Shannon et Gohda rirent avec elle.
+# 128069 : とてもリラックス — « vraiment », pas « un peu »
+128069|Il semblait que dans cet espace où seuls se trouvaient leurs collègues domestiques, ils pouvaient vraiment se détendre.
+# 128072 : ズルさ = petite roublardise, pas malhonnêteté
+128072|Shannon n'aimait pas les petites roublardises dont Gohda faisait parfois preuve, ‖  mais elle savait qu'il n'y avait rien de faux dans son sourire d'enfant quand il cuisinait,  ‖ ni dans son désir que les gens apprécient sa cuisine.
+# 128137 : Shannon parle poliment (じゃないですよね)
+128137|Ce n'était pas...
+# 128139 : idem
+128139|notre imagination, n'est-ce pas... ?"
+# 128312 : Nanjo dit 嘉音さん (l'anglais met -kun)
+128312|"Kanon-san, appuyez la main sur la plaie ! ‖   Je vous en prie, appuyez fort !
+# 128552 : « m'a » n'a pas de sens : bégaiement avant « à Mademoiselle et à moi »
+128552|...à...
+# 128578 : そんなことって = « une chose pareille », pas « ça voudrait dire »
+128578|"Rosa-sama... vous dites... ? ‖   Ooooooh, ...une chose pareille, une chose pareille..."
+# 128628 : よそに = tandis que ; 顔を見合わせる = échanger un regard
+128628|Tandis que Nanjo et Kumasawa, couverts de sang, s'acharnaient à arrêter l'hémorragie, Genji et Gohda échangèrent un regard...
+# 128652 : 手にかけられる = être tué, pas « agressé »
+128652|...Sa voix chargée de haine donnait l'impression qu'il voyait Jessica se faire tuer sous ses yeux.
+# 128848 : 意識を失って当然 = il aurait dû perdre connaissance
+128848|Avec une telle perte de sang, Kanon aurait dû perdre connaissance.
+# 128867 : 幸いなこと = une chance, pas « merveilleux »
+128867|...Non, mais...qu'il soit encore en vie, c'est en tout cas une chance...
+# 128874 : その傷の主の名を楼座だと語り — il nomme Rosa comme auteur de la blessure
+128874|...Il avait affirmé avec haine que l'auteur de cette blessure était Rosa, répétant encore et encore et encore ses malédictions et sa colère.
+# 129012 : 弄る = tripoter, pas « jouer avec »
+129012|"...A-Arrêtez, ...il ne faut pas toucher à la plaie..."
+# 129076 : あんた、一体… = « Vous... qu'êtes-vous donc ? », il parle de Kanon
+129076|...Q-Q-Q-Qu'êtes-vous donc......... ?"
+# 129112 : 険しい表情 = air sévère, grave
+129112|...Même en voyant Kanon couvert de sang frais, son air sévère ne se troubla pas.
+# 129124 : うん = « Oui » ; 確かめたい = vérifier
+129124|"Oui. ‖   Je suis allée à la chaufferie. ‖   Je cherchais quelque chose. ‖   ...Mais surtout, il y a une chose que je veux vérifier.
+# 129194 : 試す = mettre à l'épreuve, tester
+129194|"Pardon, je vais vérifier."
+# 129244 : カモシカ = chamois (pas chèvre sauvage)
+129244|Kanon bondit comme un chamois, ...fuyant ce que Shannon tenait.
+# 129253 : 血がこれからまさに噴出そうという刹那 — l'instant juste avant le jet de sang (le temps se fige, le sang jaillit en 129305)
+129253|Et les gorges de Nanjo et de Kumasawa...s'ouvrirent comme des bouches béantes, ...dans l'infime instant qui précède le jaillissement du sang.
+# 129320 : 伏せるように床に転げた — se jeter à plat ventre ; « position de défense » est un ajout de l'anglais
+129320|Car Genji avait de nouveau tiré Shannon, et tous deux s'étaient jetés à plat ventre sur le sol.
+# 129385 : デカブツ = gros balèze / mastodonte, pas « gros lard »
+129385|"L...âche-moi, espèce de mastodonte !!"
+# 129413 : 手刀 = main tranchante (coup du tranchant de la main)
+129413|Et quand il leva sa main tranchante, visant le dos de Gohda, il y eut un grand *tchac*.
+# 129457 : やめろ — impératif brutal à Genji : tutoiement
+129457|"Ar...rête... !!
+# 129458 : 近付けるな — idem
+129458|N'a-approche pas ça de moi... !!
+# 129472 : idem
+129472|Arrête, ar...rête !!
+# 129528 : « trois survivants » = ajout anglais, contredit la suite (Nanjo et Kumasawa sont aussi là, mourants)
+129528|Ces papillons se mirent à disparaître doucement, comme dans de l'eau...ou plutôt, dans l'air vide lui-même, ‖  ...et il ne resta plus qu'eux, assis par terre, couverts de sang.
+# 129639 : « ont été quoi ?! » maladroit ; JA : 南條先生と熊沢さんが？！
+129639|"Le docteur Nanjo et Kumasawa-san ?! ‖   Mais qu'est-ce que ça veut dire ?!"
+# 129685 : 私の目の前にいた = « ça » se trouvait devant moi
+129685|"Ça s'est bel et bien, euh, ...passé juste sous nos yeux ! ‖   ~ib~Ça~ib~ se trouvait juste devant moi !
+# 130113 : Maria parle d'elle à la 3e personne
+130113|"...Uu-. ‖   Maria veut regarder aussi !"
+# 130149 : あら — surprise douce et polie de Shannon
+130149|"......Oh..."
+# 130218 : 確かに = bel et bien, pas « forcément » ; お二人 poli
+130218|"...C-C'est impossible... ! ‖   Ils étaient bel et bien...là... !"
+# 130238 : 確かに鍵を掛けて = nous l'avons bel et bien fermée
+130238|"Je n'ai aucune idée de ce qui s'est passé, moi non plus !! ‖   En quittant cette pièce, nous l'avons bel et bien fermée à clé, ......!! ‖   Je ne comprends plus du tout ce qui se passe... !!"
+# 130242 : 気弱そうな苦々しい笑い = sourire contraint, sans assurance
+130242|Gohda-san affichait un sourire contraint et sans assurance qu'il n'aurait jamais laissé paraître en temps normal.
+# 130265 : 紗音を信じる — le prénom tient lieu de « toi » en japonais
+130265|"...Shannon... ‖   Je te crois, Shannon. ‖   Kanon-kun n'est pas le coupable. ‖   Ça doit être l'œuvre de quelqu'un qui lui ressemble beaucoup."
+# 130289 : あの時 = ce même jour, « à ce moment-là »
+130289|C'est vrai. ‖   À ce moment-là, c'est bien le docteur Nanjo qui avait fouillé les vêtements de Jessica et trouvé le passe-partout... !
+# 130370 : 魔女を信じた方がマシ = croire à la sorcière comme moindre mal
+130370|...Et de l'autre, il y a l'attaque par derrière, où elle essaie de me pousser à croire qu'il vaudrait encore mieux qu'une sorcière existe... ‖ en renforçant mes soupçons envers mes proches.
+# 130515 : 目的をお間違いなきよう = ne vous trompez pas d'objectif (l'anglais met « situation »)
+130515|Je vous prie humblement de veiller à ne pas vous tromper d'objectif.
+# 130566 : またかよ = « encore ?! », pas « encore toi » ; négation rétablie
+130566|"C'est quoi ce bordeeeeel... ? ‖   Alors qu'est-ce que ça veut dire... ? ‖   Tu te fous de moi, encore ?! ‖   Tu veux dire que je peux encore soupçonner que les domestiques qui ont des clés ?!"
+# 130572 : 言ってはおらぬ = je ne l'ai pas dit (passé), pas « je ne le dirai pas »
+130572|"Je ne l'ai pas dit en rouge, vois-tu... ?
+# 130577 : 否定してはおらぬ = je n'ai pas nié ; quelqu'un caché au moment où ils sont partis
+130577|Je n'ai pas nié la possibilité qu'au moment où ils ont fermé à clé et sont partis, quelqu'un se soit caché dans cette pièce, vois-tu... ? ‖   *ricane*ricane*ricane* !"
+# 130597 : 奥のキーボックス = au fond (pas au centre) — vérité rouge
+130597|Elles sont#ff0000 rangées dans la boîte à clés au fond de la chambre des domestiques</i>.
+# 130646 : 駄目だ ≠ « inutile »
+130646|Ça va pas, ça va pas, ça va pas du tout... !"
+# 130652 : 自慢の珍説をぜひ披露してみよ — « fais étalage de ta fameuse théorie farfelue »
+130652|"*ricane*ricane* ! ‖   Qu'est-il advenu de ton fameux coup où tu retournes l'échiquier... ? ‖   Allons, fais donc étalage de ta précieuse théorie farfelue."
+# 130720 : 抜け出したものだとばかり思っていた = j'étais persuadé qu'il s'était échappé
+130720|"J'étais persuadé que le coupable s'était échappé de la chambre close.
+# 130743 : そして今わかったこと = « Et voici ce que je viens de comprendre »
+130743|Et voici ce que je viens de comprendre.
+# 130763 : ベッドの下でも隠し棚でも何でもいい — énumération (l'anglais en fait « étagère sous le lit »)
+130763|Sous le lit, dans une étagère dérobée, peu importe.
+# 130806 : 拒否なら拒否と言いやがれ = si tu refuses, dis-le
+130806|"Je parie que ça t'a touchée là où ça fait mal !! ‖   Si tu refuses, dis-le, bon sang !! ‖   Et voilà le suivant !!
+# 130902 : お前が隠れていたんなら = si c'était TOI qui te cachais
+130902|"...C-Crétiiiiiine... ‖   Alors, ......c'est vraiment...une chambre close, hein......? ‖   E-Et juste quand j'avais enfin trouvé une idée. ‖   Si c'était toi qui te cachais, ...tout s'expliquait. ‖   Juste quand je croyais avoir percé ton tour à jour, ......bon saaang..."
+# 130926 : 駄目だ / 全然駄目だった ≠ « inutile »
+130926|Ça va pas ça va pas ça va pas ça va pas du tout !! ‖   Pendant une seconde, j'ai cru que je la tenais ! ‖   C'était complètement raté !!
+# 131020 : 悔し涙 = larmes de dépit, pas « amères »
+131020|"Qu'est-ce qui ne va pas, Ushiromiya Battleer ? ‖   N'étais-tu pas si sûr de ta capacité à nier les sorcières ? ‖   Pourquoi rampes-tu à terre en versant des larmes de dépit dans un endroit pareil ?"
+# 131086 : 何が魔法だ = « La magie, mon œil ! »
+131086|"La magie, mon œil !  Les sorcières, je les nierai coûte que coûte !! ‖   Je croirai jamais en toi !! ‖   Tu t'es servie du pouvoir de la magie...
+# 131142 : 確かに死んでた = bel et bien morte (pas « forcément »)
+131142|C'est faux !! ‖   Moi aussi, j'ai constaté que Jessica était morte ! ‖   Bien sûr, j'avais jamais examiné de cadavre avant, mais elle était bel et bien morte !
+# 131322 : と、言いますと = « C'est-à-dire... ? »
+131322|"Hein... ? ‖   ...C'est-à-dire... ?"
+# 131398 : 殺されたということにして = ils se font passer pour morts
+131398|"Le docteur Nanjo et Kumasawa-san ne sont pas morts, ils sont vivants ! ‖   Ils se font passer pour morts et se cachent quelque part dans ce manoir. ‖   Pour pouvoir nous attaquer !!"
+# 131412 : 誓ってそのようなことは致しません = nous ne ferions jamais une chose pareille
+131412|"...Rosa-sama !! ‖   Moi, Gohda...non, tous les domestiques de la famille Ushiromiya ! ‖   Nous jurons de ne jamais faire une chose pareille !!"
+# 131425 : la preuve = que les corps soient retrouvés (pas un ordre « trouvez-les »)
+131425|"Il y a bien un moyen pour que je croie à votre innocence, vous savez ? ‖   Que l'on retrouve les corps du docteur Nanjo et de Kumasawa-san !!"
+# 131438 : あんたも！ — elle désigne chacun : tutoiement brutal
+131438|"Toi !
+# 131441 : idem
+131441|Et toi !!
+# 131491 : それは暴言だ = vous allez trop loin ; 申告 = déclarer
+131491|"...T-Tante Rosa !! ‖   Vous allez trop loin !! ‖   Un meurtre a eu lieu dans cette pièce ! ‖   Et ensuite, le coupable a emporté les cadavres ! ‖   Ils ne font que rapporter honnêtement ce qu'ils ont vu !!"
+# 131610 : 犯人の手に掛けられ = tués par le coupable (pas « croiser »)
+131610|...Quand ils seront tombés sous les coups du coupable et que Tante Rosa les retrouvera à l'état de cadavres.
+# 131742 : これで満足なんだろ = « Vous êtes satisfaite, comme ça ?! » (l'anglais inverse)
+131742|...Il ne reste plus que les passe-partout que vous tenez. ‖   ...Vous êtes satisfaite, comme ça ?!!"
+# 131748 : réponse affirmative à la question corrigée
+131748|"Oui, je suis satisfaite. ‖   Même si je ne peux faire confiance à personne d'autre, je peux au moins me faire confiance à moi-même !"
+# 131907 : それでいいんだよ = « c'est bien comme ça » (pas « ça suffit ») ; “い”た lieu précis ; 魔女 singulier
+131907|"...C'est bien comme ça, Battler. ‖   ......Beatrice `était là'. ‖   ...T'avais tellement de mal à y croire que tu pouvais pas la voir. ‖   ......La sorcière `existe'. ‖   Elle `existe'. ‖   Et elle va bientôt `venir'."
+# 131909 : 真里亞と一緒に — 3e personne ; ずっと一緒にいよ
+131909|"......T'as cru en Beato, alors tu seras sûrement invité à la Terre dorée. ‖   ...Très bientôt. ‖   ...Ça va arriver très bientôt. ‖   Alors y a plus rien à craindre. ‖   ......Faut pas avoir peur, d'accord ? ‖   Reste toujours avec Maria, main dans la main, ...d'accord... ? ‖   On va réfléchir ensemble à l'énigme de l'épitaphe. ‖   On va réfléchir à l'énigme de Beato. ‖   ......Beato le dit depuis le début. ‖   Elle a jamais rien dit d'autre que `jouons à résoudre cette énigme'."
+# 131952 : Rosa vouvoie Genji dans toute la scène (131640) ; うみねこの鳴き声
+131952|"...Vous êtes vraiment quelqu'un d'admirable. ‖   Quand le typhon sera passé, ...si les cris des mouettes reviennent sur cette île, ‖  ......je me demande si nous pourrons de nouveau nous faire confiance."
+# 131966 : そうね = « Oui » ; うみねこのなく頃に → choix fixé
+131966|"Oui. ‖   ...Nous arriverons forcément à nous comprendre. ‖   ...Quand les mouettes pleurent."
+# 131988 : vouvoiement de Genji, cohérent
+131988|"Merci. ‖   ......Si vous êtes un loup,  ‖ quelle impudence dans vos paroles.
+# 131992 : idem
+131992|...Et si vous êtes un mouton, ‖  ......alors je suis désolée de vous avoir jeté dans la cage aux loups."
+# 132013 : うみねこのなく頃に → choix fixé
+132013|"...Quand les mouettes...pleurent."
+# 132025 : « chambre des domestiques » partout ailleurs
+132025|Il a quitté la chambre des domestiques.
+# 132057 : 頼みたい = je compte sur vous (pas « j'ai hâte ») ; vouvoiement de Gohda comme en 129708
+132057|"......Merci. ‖   Je compte sur vous pour le petit-déjeuner de demain.
+# 132062 : 昼前 = avant midi ; vouvoiement
+132062|...Le bateau arrivera sans doute demain avant midi. ‖   ...Merci pour tout jusqu'ici. ‖   Votre cuisine a été mon seul plaisir sur Rokkenjima."
+# 132103 : そういうことになってる = « c'est ce qui est censé être » — ironie (elle croit aux doubles)
+132103|"C'est vrai. ‖   ...C'est du moins ce qui est censé être le cas. ‖   ...Objectivement, je dirais que c'est en restant avec moi au salon que tu seras le plus en sécurité."
+# 132137 : 下らねぇ = débile, ridicule
+132137|"...C'est...pas que je soupçonne Shannon-chan ou les autres domestiques ‖ ...ou qui que ce soit... ‖   Je veux soupçonner personne... ‖   L'héritage ? ‖   L'or ? ‖   ...Tout ça, c'est débile... ‖   ...C'est impossible que des gens s'entretuent pour des trucs pareils..."
+# 132160 : Maria parle d'elle à la 3e personne
+132160|"...Tout va bien. ‖   Maria va protéger Battler. ‖   ...Avec Maria, même Beatrice pourra pas te toucher. ‖   Parce que Maria, même si elle est petite, c'est une sorcière."
+# 132199 : « chambre des domestiques »
+132199|George-aniki et Shannon-chan ont quitté ensemble la chambre des domestiques.
+# 132275 : そりゃあねぇぜ = « c'est pas juste », pas « vous le pensez pas »
+132275|"Ç-Ça, c'est pas juste... ? ‖   E-En posant ces clés, ...ils ne faisaient pas que s'en séparer...  ‖ ...Vous avez...réduit à néant tous leurs efforts, vous les avez souillés, piétinés,  ‖ ......et pour finir, vous leur avez fait rendre leurs clés...
+# 132361 : それでもいいんだよ充分なんだよ、ちょっとグラァって来ただろ = « ça me suffit : tu as vacillé » (l'anglais comprend « tu t'es bien défendu »)
+132361|"Oh, mais bien sûr, jamais tu n'abandonneras cette fierté de grand seigneur. ‖   Mais ça me va, ça me suffit amplement : tu as un peu vacillé, pas vrai ? ‖   L'espace d'un instant, tu t'es dit que lécher mes souliers ne serait peut-être pas si terrible, hein ? ‖   Et aussitôt, tu l'as nié et tu as eu honte, pas vraiiiiiii ?? ‖   Rien que contempler ta tête, c'est un pur délice !!"
+# 132458 : わかりました = « je comprends pourquoi Genji a réagi si calmement »
+132458|...Si vous lui aviez raconté ce que vous venez de me dire, vous auriez sans doute eu encore plus d'ennuis. ‖   ...Je comprends maintenant pourquoi Genji-san a réagi avec tant de sang-froid."
+# 132464 : 説明するだけの力 = capacité, pas « pouvoir »
+132464|"......Si seulement j'avais été capable de l'expliquer."
+# 132474 : 自問している始末 = ils en sont à se demander (l'anglais : « avaient renoncé à »)
+132474|Car même ceux qui l'avaient réellement vu en étaient réduits à se demander ce que c'était...
+# 132538 : その話はもうしなくても大丈夫 = tu n'as plus besoin d'en parler
+132538|"...Shannon,  ‖ tu n'as plus besoin d'en parler. ‖   ...Je ne t'en veux pas."
+# 132571 : 不謹慎 = déplacé, presque sacrilège (pas « indiscret »)
+132571|"Au début, je trouvais cela ridicule,  ‖ mais la critiquer semblait presque sacrilège,  ‖ ...alors en apparence, je me suis comporté comme si j'y croyais moi aussi. ‖   ...Mais se pourrait-il vraiment-"
+# 132577 : いた / “い”た = lieu précis (le manoir) → « être là »
+132577|"Elle était là. ‖   ...Beatrice-sama a toujours été dans ce manoir. ‖   ...Mais elle avait perdu ses pouvoirs...et ne pouvait pas apparaître devant nous. ‖   Elle a toujours `été là'. ‖   C'est juste que nous ne pouvions pas la `voir'."
+# 132594 : termes fixés (porte de service, chambre des domestiques) ; ここに = ici
+132594|......Tout ce que je peux dire, c'est qu'...à ce moment-là, nous étions cinq ici. ‖   ...Ensuite, j'ai cru que Kanon était revenu par la porte de service. ‖   Après cela, nous l'avons porté jusqu'à la chambre des domestiques,  ‖ ......quelque chose s'est produit, et désormais, le docteur Nanjo et Kumasawa ne nous reviendront jamais."
+# 132669 : ボンド = colle (pas scotch) ; ご利益 = vertus protectrices
+132669|"...Donc quand, comme on dit, la foudre a frappé le récif et l'a fait disparaître, il a dû sombrer au fond de l'océan... ‖    Enfin, je doute qu'en le repêchant et en recollant les morceaux à la colle, il retrouve ses vertus. ‖   Ha ha ha ha ha."
+# 132703 : 眉唾 = douteux ; « s'efforçait de garder l'esprit ouvert » est un ajout anglais
+132703|...On avait beau lui parler de sorcières et d'esprits maléfiques, il ne pouvait s'empêcher de trouver ça douteux.
+# 132716 : お守り (魔除け) = talisman, pas porte-bonheur
+132716|"Maintenant que j'y pense, ......même s'il est sûrement différent de celui du torii,  ‖ ...j'ai entendu dire que Madame conservait un miroir sacré comme talisman."
+# 132729 : 魔除け = protection contre le mal (pas « contre la magie »)
+132729|"Oui. ‖   Je crois qu'elle l'a reçu en souvenir de son grand-père ou quelque chose comme ça...et qu'il protégeait très efficacement contre le mal. ‖   Un miroir sacré de haute lignée, il me semble... ?"
+# 132754 : 魔女のベアトリーチェに対抗 = tenir tête à Beatrice la sorcière
+132754|"Si nous avions ce miroir sacré, ...pourrions-nous tenir tête à Beatrice, la sorcière ?"
+# 132777 : 神職にも通じている = a des liens avec le clergé shinto (pas « descend de »)
+132777|......J'ai entendu dire que la famille de Tante Natsuhi avait des liens avec le clergé shinto. ‖   Ce n'est peut-être pas un simple miroir."
+# 132814 : 大それたこと ; 魔除け = protection (pas porte-bonheur)
+132814|"Allons-y. ‖   ...Je ne vais pas avoir la prétention de dire qu'on va terrasser la sorcière. ‖   ...Mais je pense qu'un talisman pour nous protéger d'elle ne serait pas de trop."
+# 132828 : « chambre des domestiques »
+132828|"M-Mais je crois que la chambre de Madame est fermée à clé... ! ‖   Nous avons rendu les passe-partout à Rosa-sama, ‖  ...et même la boîte à clés de la chambre des domestiques est désormais sous clé..."

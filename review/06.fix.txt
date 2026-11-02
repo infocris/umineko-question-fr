@@ -1,0 +1,120 @@
+# 73746 : 腹の探りあい = se sonder mutuellement, pas « se poignarder dans le dos » (ajout de l'anglais)
+73746|La quitter signifiait donc retourner dans ce monde où elle devait sans cesse jauger les arrière-pensées des frère et sœurs de son mari.
+# 73752 : 金蔵と同じではないか = « faire comme Kinzo » (s'enfermer), pas « parler comme »
+73752|...N'était-ce pas exactement ce que faisait Kinzo ?
+# 73792 : 子どもの頃から大事にしている = chéri depuis l'enfance (encore aujourd'hui) ; 小物入れ = coffret à menus objets
+73792|Natsuhi ouvrit un tiroir de sa coiffeuse et en sortit un ancien coffret à bibelots qu'elle chérissait depuis l'enfance.
+# 73804 : ご利益がありそう = plus efficace (protection), pas « authentique »
+73804|À tout le moins, il semblait bien plus efficace que l'autre porte-bonheur, qui ressemblait à un porte-clés en forme de scorpion en plastique.
+# 73809 : il s'agit des miroirs en général (croyance ancienne), l'anglais en fait « ce miroir »
+73809|On croyait depuis la nuit des temps que les miroirs abritaient un étrange pouvoir.
+# 73810 : suite logique de 73809 (les miroirs, au pluriel)
+73810|Sans doute pensait-on qu'en renvoyant la lumière, ils renvoyaient aussi le malheur et la malveillance.
+# 73849 : 溜め息を漏らす = soupirer (par avance), pas « prendre une profonde inspiration »
+73849|...Natsuhi laissa échapper un soupir, comme pour devancer les ennuis dont elle allait entendre parler...
+# 73858 : 一応 = pour la forme, pas « avec hésitation »
+73858|Natsuhi lui rendit son salut, pour la forme.
+# 73933 : sens perdu en anglais — Gohda, d'ordinaire irréprochable, commet cette faute précisément ce matin-là
+73933|D'ordinaire, il s'acquittait de tout sans faute ; pourquoi commettre une telle bévue précisément le matin où la famille était en visite... ?
+# 73994 : のらりくらりで独り相撲 = l'autre se déroberait et elle se battrait seule
+73994|Natsuhi en avait une assez bonne idée, mais bien sûr, elle n'avait aucune preuve,‖si bien que même si elle s'en prenait au coupable, il se déroberait et elle se retrouverait à se débattre toute seule.
+# 74001 : 踵を鳴らし = claquement de talons (pas « crissement ») ; ordre de nettoyer soigneusement
+74001|Natsuhi ordonna qu'on nettoie soigneusement les traces et se dirigea vers le salon dans un claquement de talons.
+# 74035 : pique d'Eva (楽しみは食事くらいがせいぜい) rendue plus nettement
+74035|"Il faut dire que chez la famille principale, il n'y a guère que les repas pour se faire plaisir, n'est-ce pas ?‖*gloussement*gloussement*."
+# 74043 : 鍔迫り合い = croiser le fer (joute verbale), Natsuhi répond par l'agacement ; l'anglais invente un regard
+74043|Face à ce croisement de fer dès le petit matin, Natsuhi répondit par une mine excédée.
+# 74051 : 源次に近付き = s'approcha de Genji (pas « aperçut »)
+74051|Après s'être incliné pour s'excuser auprès de la famille d'avoir couru dans le manoir, il s'approcha de Genji et lui glissa quelque chose à voix basse.
+# 74146 : constat (était), pas conditionnel
+74146|...Oui, pour Natsuhi, cette hypothèse était tout à fait convaincante.
+# 74222 : 仲、よろしかったかしら = question ironique d'Eva ; « toujours » ajouté par l'anglais
+74222|"Oh, alors je te laisse faire.‖Même si je doute fort qu'il te rende ton salut.‖Natsuhi nee-san, tu t'entends si bien que ça avec Père ?"
+# 74245 : 憮然として = renfrognée, vexée, pas « découragée »
+74245|Natsuhi répondit d'un air renfrogné.
+# 74246 : だが = mais (« Car » était un faux lien logique)
+74246|Mais, connaissant le tempérament de Kinzo, elle n'avait absolument aucune confiance en sa capacité à le faire sortir.
+# 74250 : 高を括っている = Eva est certaine de l'échec ; « se moquait ouvertement » ajouté par l'anglais
+74250|...Eva elle-même était persuadée que Natsuhi ne parviendrait de toute façon pas à faire descendre Kinzo.
+# 74253 : 小さな握り拳を揮わせる = petits poings serrés qui tremblent
+74253|Devant l'exigence mesquine et déraisonnable d'Eva, Natsuhi serra ses petits poings, qui tremblaient.
+# 74323 : 踵を強く打ち鳴らしながら足早に = part vite en faisant claquer ses talons (pas « pivota »)
+74323|Sans répondre, Natsuhi quitta les lieux d'un pas rapide, en faisant claquer ses talons.
+# 74361 : どうしたものかと思案 = se demander quoi faire, pas « ce qui s'était passé »
+74361|...Pendant un moment, Maria dut se demander ce qu'elle allait faire.
+# 74602 : sens inversé par le conditionnel — il était assez de mauvaise humeur pour ignorer les coups
+74602|...Mais bien qu'éveillé, il avait ignoré tous ces coups frappés à la porte : c'était dire s'il était de méchante humeur.
+# 74614 : 我が友がそれに足ると思ったならば = si mon ami t'en a jugée digne ; ton archaïque de Kinzo
+74614|"Oh...‖Genji, vraiment ?‖.........Si mon ami t'en a jugée digne, je ne puis refuser de t'écouter.
+# 74639 : 下に降りて。= « Descendre ? » (reprise indignée), l'anglais en fait un ordre « Redescends »
+74639|"......Descendre ?‖Me joindre à leur débat sur la façon de dépecer mon héritage après ma mort ?‖Quelle sottise.
+# 74658 : そうですか résigné = « Je vois », pas « Vraiment ? »
+74658|"...Je vois...‖...Entendu...‖Je suis sûre que tout le monde en sera navré, mais je le leur dirai."
+# 74664 : 発作的な激昂 = accès de colère (« tempérament convulsif » maladroit)
+74664|S'inclinant en silence, elle s'apprêta à quitter la pièce avant que Kinzo ne soit pris d'un de ses accès de colère.
+# 74726 : どきりとする = son cœur fait un bond (émotion, pas choc)
+74726|Le cœur de Natsuhi fit un bond.
+# 74736 : 忘れよ / 戯言 — registre archaïque de Kinzo (« Oublie ça » trop familier)
+74736|"......Oublie cela.‖Ce ne sont que radotages de vieillard."
+# 74770 : 目元にこみ上げて = des larmes montent aux yeux ; « oublié depuis l'enfance »
+74770|Pourtant, Natsuhi ne put s'empêcher de sentir monter à ses yeux quelque chose de brûlant, qu'elle avait oublié depuis l'enfance...
+# 74811 : 汚らわしい議題 = sujets sordides (« obscènes » a une connotation sexuelle)
+74811|"Père a dit qu'il ne se joindrait pas à la conférence familiale.‖Il dit n'avoir aucun intérêt pour des sujets aussi sordides."
+# 74816 : とか何とか言っちゃって = moquerie d'Eva (« Tu peux toujours raconter ça »)
+74816|"...Tu peux toujours raconter ça.‖Si tu n'as pas réussi à persuader Père, dis-le, tout simplement."
+# 74837 : 理解するのがやっと = Eva comprend à peine ; 自信満々 = pleine assurance
+74837|Eva parvint tout juste à comprendre qu'on venait de se moquer d'elle et que, pour une raison qu'elle ignorait, Natsuhi avait soudain retrouvé toute son assurance.
+# 74862 : 別に結構よ = refus (« pas la peine »), contresens avec « Volontiers »
+74862|"......P-Pas la peine."
+# 74925 : 違いない = Maria est persuadée qu'on l'a exclue, pas « presque comme si »
+74925|Elle était indignée, l'estomac gargouillant, persuadée que sa mère et les autres l'avaient tenue à l'écart pour aller manger en cachette quelque chose de délicieux.
+# 74950 : Natsuhi très soutenue : « À voir ta tête » trop familier
+74950|"À ton air, je vois que tu ne les as toujours pas trouvés."
+# 75227 : 昨日 = hier (dans la journée, avant la pluie), pas « hier soir »
+75227|"......Hier, je suis passé ici avant qu'il ne commence à pleuvoir, et il n'y avait rien de dessiné à ce moment-là."
+# 75261 : それは確か = « si je me souviens bien », pas « forcément »
+75261|......C'était, si je me souviens bien...
+# 75479 : Maria parle d'elle à la 3e personne (真里亞は…), effacé par l'anglais
+75479|"Uu- !‖Maria veut la télé !‖Uuu--."
+# 75850 : 悪党 = crapule ; « fils de pute » (son of a bitch) est un ajout de l'anglais
+75850|Papaaaaaaaaaaaa !!‖J'ai toujours pensé que t'irais en enfer !‖Mais quand même, pas comme ça, hein ?‖T'étais pas une ordure au point de mériter de souffrir aussi atrocement !!‖Et Kyrie-san,
+# 76047 : 下唇を噛みながら = se mordant la lèvre, pas « lèvre frémissante »
+76047|...Il se mordait la lèvre inférieure, agité d'un léger tremblement...
+# 76248 : 恥ずかしいところを見られとうなかった = elle ne voulait pas être vue ainsi
+76248|".........George,‖...j'suis sûr que Shannon-chan...‖te dit merci...‖Elle voulait pas que tu la voies dans cet état-là.‖......J'suis sûr...
+# 76526 : 干してあった手ぬぐい = torchons mis à sécher
+76526|Genji prit plusieurs torchons qui séchaient dans la remise...‖lorsqu'Eva l'arrêta d'une voix aiguë.
+# 76603 : 普通に持って = Kanon l'a tenue à mains nues ; contresens anglais « l'a d'habitude »
+76603|"......Ça vaudra sûrement la peine de la remettre à la police comme pièce à conviction,‖mais Kanon-kun l'a tenue à mains nues, et il vient de s'en servir pour ouvrir la cabane.‖Elle aura sans doute les empreintes de Kanon dessus.‖Et puis, cette clé vient d'être remise à Genji-san, et il l'a prise à mains nues.‖...J'ai bien peur qu'elle ne serve pas à grand-chose comme preuve."
+# 76633 : もっとも = Hideyoshi a raison (la remarque est juste), pas « paraissait plausible mais »
+76633|Hideyoshi avait raison : à bien y réfléchir, c'était étrange.
+# 76772 : 怪訝な = perplexe, pas méfiant
+76772|Au début, Maria leur rendit leurs regards d'un air perplexe,‖mais quand elle comprit qu'ils ne cherchaient pas à lui reprocher quoi que ce soit, elle les ignora et se replongea dans son émission...
+# 76840 : かしこまりました — « Certainement » sonne faux en français
+76840|"Bien, Madame..."
+# 76853 : 何と逞しいことか = quel aplomb (admiration ironique), pas « manœuvre agressive »
+76853|Natsuhi resta sans voix devant tant d'aplomb dans une situation pareille.
+# 76868 : Natsuhi vouvoie Eva (STYLE.md) ; お好きになさるといい
+76868|"............‖...Faites comme bon vous semble."
+# 76970 : 拍子抜け = décontenancés un instant, « décevant » est déplacé
+76970|...Ceux qui avaient vu l'horrible scène de la remise restèrent un instant décontenancés.
+# 77071 : 肩を抱き = entourer les épaules (soutenir), pas « saisir »
+77071|Battler avait fait cette proposition d'une voix un peu plus ferme, tout en soutenant avec Kanon Jessica, pâle et tremblante, par les épaules.
+# 77247 : きょとんとした = ingénue, sans comprendre ; pas « calme absolu »
+77247|Elle avait posé la question d'un air parfaitement ingénu.
+# 77439 : 片翼の鷲を許された直属の使用人 = domestiques autorisés à porter l'Aigle ; l'anglais en fait le maître
+77439|Elle voulait sans doute savoir si les domestiques au service direct de Kinzo, eux qui avaient le droit de porter l'Aigle à une aile, connaissaient un endroit où il aurait pu aller.
+# 77504 : 焦燥感 = angoisse fébrile, pas « impatient »
+77504|...Un lourd silence, une angoisse fébrile.
+# 77537 : 今となっては = maintenant que Gohda est mort, impossible de l'imaginer
+77537|Quant à ce que Gohda-san comptait cuisiner avec ces ingrédients,‖...désormais, je ne pouvais même plus l'imaginer.
+# 77578 : narration de Battler (« Grand-père », pas « Kinzo ») ; reformulation
+77578|D'après mes tantes, en redescendant, elles avaient appelé Grand-père à chaque étage, sans parvenir à le trouver.
+# 77610 : 使用人たちを従え = Natsuhi emmène les domestiques ; l'anglais inverse
+77610|Tante Natsuhi a quitté le salon, suivie des domestiques, Genji-san, Kumasawa-san et Kanon-kun.
+# 77619 : 日曜日の午前中 = dimanche matin
+77619|"Restons tous ensemble, et pourquoi pas regarder un peu la télé en attendant.‖Même si j'doute qu'on trouve grand-chose de bien un dimanche matin."
+# 77643 : そういう気分になれず / 放心 = pas le cœur à ça, prostrés
+77643|Les autres n'avaient pas le cœur à ça, et chacun restait prostré, enfoncé dans son canapé...
+# 77673 : 少しは察しろよ = un peu de tact, pas « devine tout seul »
+77673|"Arrête, Battler.‖...Un peu de tact, quoi."

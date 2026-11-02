@@ -1,0 +1,124 @@
+# 53402 : 真里亞、偉い — Maria parle d'elle à la 3e personne
+53402|"......Uu- !‖  Maria est géniale !"
+# 55800 : 真里亞も持ちたい — 3e personne
+55800|"Uu- !‖  Maria aussi veut une chambre ici !‖  Maria en veut une !"
+# 56150 : 真里亞が持ったら — 3e personne
+56150|".........Uu- ?‖  Jessica onee-chan, c'est lourd ?‖  Si Maria aide à porter, ça deviendra plus léger ?"
+# 56234 : 真里亞もこっちがいい — 3e personne
+56234|"Uu- !‖  Maria aussi, elle préfère ici !‖  Plutôt ici qu'avec Maman !‖  Uu-uu- !"
+# 56320 : 真里亞も行く — 3e personne
+56320|"Uu- !‖  Maria aussi y va !"
+# 56494 : 真里亞にも聞いて — 3e personne
+56494|"Uu- !‖  Dis-le à Maria aussi !‖  Dis-le à Maria aussi !"
+# 56550 : 戦人と真里亞も聞きたい — sujet explicite
+56550|"Uu- !‖  Battler et Maria veulent savoir aussi !‖  Battler et Maria veulent savoir aussi !"
+# 56595 : 真里亞は右脇 — 3e personne
+56595|"Uu- !‖  Maria, son côté droit, Battler, son côté gauche !‖  Uu- !"
+# 56700 : 真里亞も挨拶する — 3e personne
+56700|"......Uu- ?‖  Dire bonjour, Maria aussi veut dire bonjour !"
+# 57948 : 真里亞もお子様 — 3e personne
+57948|"Uu- !‖  Maria aussi, c'est une gamine !‖  Maria aussi, c'est une gamine !"
+# 57984 : 真里亞、約束は守る — 3e personne (cohérence dans la réplique)
+57984|"Uu- ?‖  Promis, alors Maria le laissera les toucher !‖  Maria tient ses promesses !‖  Toujours les tenir, uu- !!"
+# 58056 : 真里亞は今年のが楽しい — 3e personne
+58056|"Mais Maria s'amuse plus cette année.‖  Uu-uu- !"
+# 58562 : 真里亞もよく言われる — 3e personne
+58562|"Uu- !‖  On dit ça tout le temps à Maria aussi !‖  On dit que Maria est pas sociable !‖  Comme Kanon !‖  Uu- !"
+# 59080 : 真里亞知ってる — 3e personne
+59080|"Uu- !‖  Maria sait.‖  C'est Beatrice !"
+# 62095 : 真里亞は海がいい — 3e personne
+62095|"Uu- !‖  Maria veut aller à la plage, la plage !!"
+# 63390 : 真里亞知ってる — 3e personne
+63390|"Uu- !‖  Maria sait !‖  C'est l'endroit où l'or est caché !"
+# 63410 : 真里亞聞いた — 3e personne
+63410|"Uu- !‖  Maria a entendu, Maria a entendu !‖  Plein, plein d'or !"
+# 63598 : 真里亞、体重２８ｋｇ — 3e personne
+63598|"Uu- ?‖  Maria, elle pèse 28 kilos."
+# 65637 : 真里亞は忘れっぽい — 3e personne
+65637|"Uu- !‖  Maria oublie plein de choses, alors elle note toujours tout !‖  C'est Maman qui l'a dit !"
+# 65682 : 真里亞、魚嫌い — 3e personne
+65682|"Uu-.‖  Maria aime pas le poissooon."
+# 65761 : 真里亞、お城退屈 — 3e personne
+65761|"Uu-.‖  Les châteaux, Maria trouve ça ennuyeux.‖  Les parcs d'attractions, c'est mieux.‖  Uu- !"
+# 66533 : 真里亞、ぽたっと来ない — 3e personne
+66533|"Uu- ?‖  Maria, elle a pas senti de goutte.‖  Y a que Maria qui l'a pas sentie.‖  Uu- !"
+# 66593 : 真里亞が拾う — 3e personne
+66593|"Uu- !!‖  C'est Maria qui les attrape !‖  Uu-uu-uu- !"
+# 66743 : 真里亞の薔薇 — 3e personne
+66743|"......La rose de Maria...‖  Le typhon va l'emporter.‖  ......Uu- !"
+# 66814 : 真里亞の薔薇 — 3e personne
+66814|"......Uu-.‖  La rose de Maria est ici.‖  Elle est ici... !"
+# 66826 : 真里亞の薔薇 — 3e personne
+66826|"Uu- !!‖  Elle est ici !‖  La rose de Maria est ici !!‖  Cherchez-la !
+# 66925 : 真里亞の薔薇 — 3e personne
+66925|"Cherche-la !‖  Maman, toi aussi, cherche la rose de Maria !‖  Uu-uu-uu- !!"
+# 67021 : 真里亞の薔薇 — 3e personne
+67021|"Uu-uu-uu- !!‖  Qui a arraché la rose de Maria, c'est qui ?!?!
+# 67068 : 真里亞の薔薇 — 3e personne
+67068|"Uu-uu- !!‖  Uu-uu-uu- !!‖  La rose de Maria !‖  La rose de Maria !!‖  Uu-uu-uu-uu-uu-uu-uu- !!!"
+# 67115 : 真里亞の薔薇 — 3e personne
+67115|"Uu-uu-uu- !!‖  Personne croit à la rose de Maria !!‖  Pourtant, elle était ici !!‖  Uu-uu- !!‖  Cherchez-la !!‖  Cheeerchez-laaa !!‖  Ici, elle était ici !!‖  Uu-uu-uu-uu- !!!"
+# 67135 : 真里亞の薔薇 — 3e personne
+67135|"Pourquoi ?!‖  Pourquoi la rose de Maria a disparu ?‖  Pourquoi, pourquoi ?!‖  Uu-uu-uu- !!!"
+# 67327 : 真里亞がひとりで探す — 3e personne
+67327|"Uu- !!!‖  Maria va la chercher !‖  Maria va la chercher toute seule !!‖  Même si Maman s'en fiche !‖  Uu-uu-uu-uu-uu- !!"
+# 68112 : suite de 68110 (真里亞の薔薇、) — 3e personne
+68112|...la rose de Maria......‖  ...Uu-......"
+# 68154 : 真里亞の薔薇 — 3e personne
+68154|"......Uu-.........‖  Elle est pas là.‖  ...La rose de Maria est pas là...
+# 68246 : 真里亞、傘なんか持ってない — 3e personne
+68246|"......Uu-.‖  Maria a pas apporté de parapluie.‖  Uu-."
+# 69492 : 真里亞が読む — 3e personne
+69492|"Uu- !!‖  Non, c'est Maria qui lit !‖  On a dit à Maria de la lire à tout le monde !!"
+# 69518 : 真里亞がみんなに読んで聞かせろ — 3e personne
+69518|"Uu- !‖  Beatrice me l'a donnée avec le parapluie.‖  Elle a dit que Maria devait la lire à tout le monde quand le repas serait fini !
+# 69519 : 真里亞は魔女のめ — 3e personne
+69519|  Maria est la <Mes-
+# 80320 : 真里亞にお守りをもらった — 3e personne
+80320|  Kihihihihihihihi !‖  Hé, je parie que maintenant, tu as envie d'y croire.‖  Crois-y.‖  Et remercie Maria de t'avoir donné ce porte-bonheur... !
+# 91254 : ベアトリーチェは真里亞はいいよって — 3e personne
+91254|  Kihihihihihihihihi, Kumasawa-san arrêtait pas de dire `pas question, pas question'.‖  Mais Beatrice a choisi.‖  ...Et quand elle l'a fait, Beatrice a dit que Maria, elle pouvait rester.‖  ......À ton avis, pourquoi ?"
+# 91259 : 真里亞の安全 (3e pers.) ; le 私 final reste « moi »
+91259|"C'est grâce au porte-bonheur au scorpion avec le cinquième cercle magique de Mars, celui que Battler a chargé de ses pensées en priant pour que Maria soit en sécurité.‖  À cause de ce pouvoir, Beatrice ne pouvait rien me faire, à moi et à moi seule."
+# 91263 : 生贄は真里亞じゃない３人 — 3e personne
+91263|"Alors elle a décidé que les sacrifices, ce serait les trois qui sont pas Maria.‖  Ensuite, Beatrice a parlé."
+# 91275 : 真里亞はずっとお歌を歌ってた — 3e personne
+91275|"Alors Maria a chanté tout le temps.‖  Encore et encore.‖  Alors elle a rien entendu, elle a rien su.‖  ...Et puis vous êtes tous arrivés.‖  Uu-."
+# 91287 : 真里亞を疑う？真里亞を殺してみる？ — 3e personne
+91287|"Kihhihihihihi !‖  Alors qui allez-vous soupçonner, cette fois ?‖  Vous allez soupçonner Maria ?‖  Vous allez essayer de tuer Maria ici même ?‖  Même si vous faites ça, Beatrice ne cessera pas d'`exister'.‖  Maintenant, le huitième crépuscule est passé, et Beatrice va ressusciter !!"
+# 91729 : 真里亞を導いて — 3e personne
+91729|  ...Avec ça, tout est terminé, Beatrice.‖  Félicitations, ...félicitations.‖  ...Alors guide Maria.  Guide-la jusqu'à la Terre dorée dont tu lui as parlé...‖...tout de suite... !!"
+# 282539 : 真里亞は最初から — 3e personne
+282539|"Uu- !‖  Maria a dit que c'était Beatrice depuis le début, elle l'a répété plein de fois.‖  Uu- !"
+# 282586 : 真里亞は…ずっと言ってる — 3e personne
+282586|"Comme Maria l'a toujours dit, Beatrice existe.‖  Tout a mal tourné parce que personne n'y a jamais cru.‖  Uu- !‖  Même l'amie sorcière de Maria dit que les miracles n'arrivent pas si on n'y croit pas.‖  Uu- !"
+# 282704 : 真里亞は嬉しい — 3e personne
+282704|"Uu-.‖  Tout le monde y croit.‖  Maria est trop contente.‖  Uu- !"
+# 282980 : 真里亞たちは…言っている — 3e personne
+282980|"...Battler, tu esquives la question et tu n'expliques rien du tout.‖  ...Maria et les autres, on dit : `Un humain n'aurait pas pu le faire.‖  Donc le coupable est quelque chose qui n'est pas humain.‖  Et ce quelque chose, c'est une sorcière.'‖  Et toi, tu continues à décider arbitrairement que les sorcières sont impossibles, alors que tu ne peux rien expliquer."
+# 62948 : あなた (Natsuhi → Krauss) = « mon ami », pas « chéri »
+62948|"M-Mon ami !‖  Combien de temps comptez-vous laisser passer ces propos ridicules ?!!"
+# 63141 : あなた (Natsuhi → Krauss) = « mon ami »
+63141|"M-Mon ami, vous ne comprenez donc pas ce qu'ils disent de vous ?!‖  Ces gens vont jusqu'à vous traiter de traître envers Père !!‖  Ils méprisent tous les efforts que nous faisons chaque jour pour rester dignes, pour protéger la gloire de la famille Ushiromiya et la recevoir un jour de Père.‖  Ils foulent tout cela aux pieds avec leurs divagations haineuses !!!‖  Et vous n'essayez même pas de riposter !  Pourquoi ?!‖  Je ne prends notre défense que parce que vous ne le faites pas, mais cela fait un moment que vous me laissez porter tout le fardeau !!‖  Et maintenant, vous me dites d'aller me rafraîchir les idées ?!‖  C'est toujours moi !!"
+# 63188 : Natsuhi → Kumasawa (下がりなさい) : tu, comme partout ailleurs
+63188|"Ce n'est rien... !‖  Laisse-moi tranquille... !!"
+# 73893 : Natsuhi → Genji : tu (cohérence avec 74295, 76480, 89111…)
+73893|"Fort bien.‖  ...Je compte sur toi pour qu'il n'y ait aucune bévue."
+# 73920 : Natsuhi → Genji : tu
+73920|"Qu'as-tu dit ?"
+# 73940 : Natsuhi → Genji : tu
+73940|"Enfin, je suppose qu'il ne s'est pas réveillé.‖  Quoi qu'il en soit, veille à ce que quelqu'un se dépêche de préparer le petit déjeuner ; peu m'importe qui.
+# 74284 : Natsuhi → Genji : tu
+74284|"Mais si l'on utilise cette clé, ne seras-tu pas blâmé, toi aussi... ?"
+# 55536 : Eva vouvoie Gohda ailleurs (53579) et tous les domestiques — bascule injustifiée
+55536|"Vous êtes trop dur avec lui, Gohda-san.‖  Au lieu de lui dire des méchancetés, vous auriez mieux fait de l'aider, non ?"
+# 77359 : Eva → Genji : bascule vous/tu dans la même réplique ; ほら
+77359|"Voyons, vous n'avez pas un de ces appareils de signalisation pour bateaux, qui envoient des signaux lumineux ?‖  Vous ne pourriez pas vous en servir pour contacter l'île voisine ?"
+# 77852 : そっとしてあげなさい = impératif adressé à Battler (tu)
+77852|"Battler-kun, ‖laisse-le tranquille."
+# 81686 : réplique entière adressée à Kanon ; vous/tu mélangés
+81686|"Tu en es bien sûr ?‖  Toi, Kanon-kun, qui as le droit de porter l'Aigle à une aile ?"
+# 82029 : お父様 dans la bouche d'Eva = « Père », même devant Jessica
+82029|  Mais Jessica-chan,‖ tu ne peux pas être sûre qu'elle n'avait aucune raison de mentir en disant que Père était dans la pièce.‖  Après tout, on voit ça de temps en temps dans les romans policiers.‖  Ce truc où on falsifie l'heure du décès pour se fabriquer un alibi."
+# 82360 : お父様 = « Père », même devant Battler
+82360|"......Hmm.  Alors, Battler-kun, tu veux dire que quelqu'un d'autre que Natsuhi nee-san a fait disparaître Père ?‖  Personne d'autre n'aurait pu le faire.‖  Mon ticket l'a prouvé, non ?‖  Après sa première visite dans ce bureau,‖ et jusqu'à la deuxième, quand nous y sommes allées ensemble, le bureau était une chambre close parfaite, et quand le sceau de cette chambre close a été brisé, il avait déjà disparu !‖  Si ça ne prouve pas qu'elle est la coupable, quel genre de truc aurait-on pu utiliser ?!"

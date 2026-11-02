@@ -1,0 +1,136 @@
+# 81637 : 当主代行 = chef de famille par intérim (Eva revendique le rôle que Natsuhi réclamera en 82129), pas « représentante »
+81637|"Vous en êtes sûr ?‖  Il n'y a pas une porte secrète ou quelque chose du genre ?‖  ...Puisque Père n'est pas là, je suis le membre de plus haut rang de la famille Ushiromiya.‖Je vous pose la question en tant que chef de famille par intérim des Ushiromiya.‖  Souvenez-vous-en en me répondant.‖  Y a-t-il un moyen d'entrer dans cette pièce ou d'en sortir autre que l'entrée principale ?‖  ...En tant que plus proche collaborateur de Père, vous devez forcément le savoir."
+# 81644 : 一抹の違和感 : vague impression que quelque chose cloche, pas « mal à l'aise » (l'anglais a mal compris)
+81644|...Je ne pouvais pas me défaire d'une vague impression que quelque chose clochait.
+# 81673 : JA : c'est Kinzo qui a fait rénover, Genji a supervisé les ouvriers — l'anglais attribue la rénovation à Genji
+81673|"George, tais-toi un instant.‖  ......Alors, qu'en dites-vous ?‖  Genji-san ?‖  Kanon-kun ?‖  Ou Kumasawa-san ?‖  Y a-t-il une porte secrète ?‖  Ou pas ?‖Genji-san, quand Père a fait rénover son bureau, c'est vous qui avez supervisé les ouvriers, forcément.‖  Je ne vous laisserai pas dire que vous ne savez pas."
+# 81749 : それが何だというのですか : « et alors ? » — le calque « quel rapport avec quoi que ce soit » ne se dit pas
+81749|"...Oui, je m'en souviens.‖Et qu'est-ce que cela prouve ?
+# 81832 : 外出した時 : quand Grand-père est sorti (et non « a ouvert la porte ») — détail de l'énigme
+81832|"A-Attendez une seconde, Tante Eva... !‖  Un ticket coincé dans la porte, ça se verrait tout de suite !‖Peut-être que Grand-père, en sortant, l'a remarqué, a trouvé ça amusant et l'a remis dans la porte...
+# 81868 : glossaire : shutter = rideau métallique ; 掻き毟った = griffé, 気持ちの悪い = répugnant
+81868|"...C'était désagréable à évoquer, alors je n'en ai jamais parlé,‖mais en me réveillant ce matin, j'ai découvert les traces d'une farce sur l'extérieur de ma porte, faite avec ce qui était probablement la même peinture rouge que celle des graffitis sur le rideau métallique.‖Il y avait des marques répugnantes, comme si quelqu'un avait griffé la porte avec acharnement...
+# 81900 : Hideyoshi s'adresse à tous (« à part Natsuhi nee-san »), pas à Natsuhi — l'anglais a déplacé l'adresse
+81900|À part Natsuhi nee-san, qui a vérifié que Père était dans sa chambre ?
+# 81945 : 険悪 = tendu, hostile, pas « sombre »
+81945|......J-Je ne comprends pas pourquoi l'atmosphère s'est à ce point envenimée.‖  Quelqu'un pourrait-il m'expliquer... ?"
+# 81959 : George dit 夏妃叔母さん : « Tante Natsuhi », l'anglais a perdu le titre
+81959|......vous êtes en train de dire que ce que dit Tante Natsuhi sur sa rencontre avec Grand-père ce matin...
+# 81968 : 嘘なんかつくもんかよ : « comme si elle allait mentir ! » — « tu parles qu'elle mentirait » dit l'inverse
+81968|C-Comme si elle allait mentir !  Maman est innocente !!‖  Pourquoi est-ce qu'elle mentirait ?!!"
+# 82095 : contresens anglais : 古典のトリックとちゃう = ce n'est PAS un vieux truc de roman, il marche parfaitement aujourd'hui
+82095|"...Mais pour un alibi, c'est largement suffisant !‖C'est pas un truc de vieux roman !‖C'est un truc qui marche parfaitement !‖  ...Natsuhi nee-san,‖ c'est pas qu'on veuille te soupçonner, hein ?‖  On veut juste que tu prouves ton innocence pour qu'on n'ait pas à te soupçonner."
+# 82129 : 何たる暴言 + その責務を代行する : « comment osez-vous » ; suppression du doublon « en son nom à sa place »
+82129|"J-Je ne vous laisserai pas dire une chose pareille impunément !!‖  Je ne vous laisserai pas en dire davantage !!‖  Je suis Ushiromiya Natsuhi !!‖  Même si je n'ai pas le droit de porter l'Aigle à une aile sur moi, il est assurément gravé dans mon cœur !!‖Comment osez-vous parler ainsi à l'épouse de Krauss, successeur du chef de famille, à celle qui assume ses devoirs en son absence ?!!!
+# 82310 : 駄目だ = « ça va pas » (note d'examen, cf. 65 points), pas « inutile » ; repris en 82316/82328/84611
+82310|...Ça va pas.  ~ib~Ça va pas du tout,~ib~‖ Tante Eva."
+# 82316 : suite de 駄目 ; Jessica nomme Battler (omis par l'anglais)
+82316|...Q-Qu'est-ce qui va pas, Battler... ?
+# 82328 : suite de 駄目 (« ça va pas du tout »)
+82328|...Pas du tout, dis-tu ?  Qu'est-ce qui ne va pas ?‖  Battler-kun,‖explique-moi.
+# 82351 : l'anglais omet その説以外に : « aucun autre moyen que votre théorie » — sans ça le raisonnement est faux
+82351|"C'est vrai que votre théorie est intéressante.‖Et si vous pouviez affirmer avec certitude que votre théorie était la seule façon dont Grand-père ait pu disparaître,‖ alors vous pourriez sans doute prouver que la dernière personne à l'avoir vu, Tante Natsuhi, était coupable."
+# 82396 : 荒唐無稽にも程がある : jugement sur la théorie, pas un ordre à Battler
+82396|"Qu-Qu'est-ce que tu racontes ?!‖  Pourquoi Père aurait-il besoin de s'échapper de la pièce d'une façon aussi bizarre ?!‖C'est d'une absurdité sans nom !
+# 82597 : 互いのアリバイを探り合う : éplucher les alibis les uns des autres, pas « chercher des alibis pour »
+82597|Quand on y pense, éplucher les alibis des uns et des autres et traquer le coupable n'a peut-être aucun sens.
+# 82615 : 上等をキメてくれやがった野郎 / のさばらす : le salaud qui a eu le culot… le laisser courir ; « ce cher salaud » sonnait faux
+82615|"......Je ne le nierai pas.‖Le salaud qui a eu le culot de nous faire un coup pareil, je veux pas le laisser courir, ne serait-ce qu'une journée.
+# 82637 : 言ってできるものではありませんが = plus facile à dire qu'à faire (l'anglais : « pas à moi de le dire »)
+82637|"......Sans doute.‖  C'est bien naturel...‖C'est plus facile à dire qu'à faire, mais essayons tous de nous détendre autant que possible...
+# 82737 : 監視をされていること : n'oublie pas que TU es surveillée (pique), pas « garder un œil sur toi-même »
+82737|...Et Nee-san, n'oublie pas que toi aussi, tu es surveillée.
+# 82809 : 殺伐とした空気 : atmosphère âpre, glaciale ; « féroce » est un calque de savage
+82809|Une atmosphère âpre et glaciale envahissait peu à peu le salon...
+# 82818 : うんざり = excédé, pas « je m'ennuyais » ; 掻き毟る = se gratter furieusement
+82818|Excédé, je me suis gratté furieusement la tête quand
+# 82860 : 溜め息 = soupir, pas inspiration
+82860|Maria, après avoir laissé échapper un unique petit soupir, a baissé la tête, ...puis l'a relevée.
+# 83018 : 子どもの使いではありません = idiome « ils connaissent leur métier », pas « ce ne sont pas des enfants »
+83018|...Mais ils connaissent leur métier.‖  On leur a demandé de déposer et de récupérer nos invités, ‖ils arriveront donc très probablement à la première heure demain matin, 
+# 83184 : contresens anglais : 唯一の親友であると自負している自分 = Nanjo lui-même, pas Genji
+83184|......Même Genji, qui jouissait plus que quiconque de la confiance de Kinzo...‖non, même lui, Nanjo, qui se flattait d'être le seul véritable ami de Kinzo,‖...n'étaient-ils pas, eux aussi, que des pièces disposées sur cet échiquier ?
+# 83234 : 冷や飯を食ってきた = tenue au second plan ; 天下が来た = son heure est venue
+83234|Elle a toujours été reléguée au second plan, alors maintenant que Nii-san est mort, elle se démène, ravie que son heure soit enfin venue.‖  ...Franchement, quelle impudence."
+# 83248 : だってぇ boudeur et câlin (cf. 83253), pas « voyons »
+83248|...Mais euh.‖  Si je ne l'avais pas dit à ce moment-là, il n'y aurait pas eu d'autre bonne occasion de le dire..."
+# 83325 : 如き + 許せなかった : mépris d'Eva, « elle ne pouvait tolérer », l'anglais en fait une interdiction neutre
+83325|...C'est pourquoi elle ne pouvait tolérer qu'il se soit épris d'une simple domestique comme Shannon.
+# 83338 : 嫌いだった (depuis l'enfance), 子どもの頃の感情 = sentiment d'enfant (affirmation), まだいい = « passe encore », 振り回した
+83338|...j'ai toujours détesté Krauss nii-san, depuis l'enfance.‖  Il était si imbu de lui-même, toujours à se pavaner.‖  Si fier de devenir un jour le chef de famille.‖  ...Alors je voulais prendre ma revanche.‖...Mais ce n'était qu'un sentiment d'enfant, tu comprends... ?‖Et pourtant, ce sentiment a fini par régir presque toute ma vie.‖Si ça s'était arrêté là, passe encore !‖...Mais à cause de ce sentiment, je vous ai entraînés là-dedans, George et toi.  Je vous ai menés par le bout du nez.
+# 83359 : 楽しい人生 dans une scène tendre : « belle vie » plutôt que « vie amusante »
+83359|"......Dans cette vie que j'ai menée avec toi, pas une seule chose n'a été gâchée.‖Ça a vraiment été une belle vie jusqu'à aujourd'hui.
+# 83492 : 勝たせてくれたのかな : doute (« je me demande »), pas certitude
+83492|"...C'est vrai.‖Il y a longtemps, il a joué contre moi, mais je me demande s'il ne m'a pas laissé gagner.
+# 83510 : へー = « tiens », pas un rire
+83510|Tiens, Maria-chan est une vraie enfant de la télé.
+# 83719 : phrase anglaise brouillée : sans la permission ET alors qu'ils pouvaient être dans la chambre
+83719|Déverrouiller la porte pour toute autre raison, à plus forte raison alors que les invités pouvaient être à l'intérieur, et qui plus est sans leur permission, était un acte indigne d'un domestique.
+# 84001 : glossaire : shutter = rideau métallique
+84001|Rien d'étonnant à cela...‖Car là, ......sur la porte, ...tout comme le cercle magique tracé sur le rideau métallique de la remise de la roseraie,‖ s'étalait une autre forme sinistre, dessinée avec une peinture semblable à du sang.
+# 84009 : glossaire : shutter = rideau métallique
+84009|......Pourtant, les étranges caractères qui remplissaient les vides, et qui n'appartenaient pas à l'alphabet, ‖étaient du même genre que ceux du cercle magique sur le rideau métallique...
+# 84200 : 悪趣味 = de mauvais goût
+84200|...C'était un objet de mauvais goût, orné d'un motif qui représentait peut-être quelque démon.
+# 84325 : 気の毒にもほどがあります : exclamation de pitié, pas un ordre à Kanon
+84325|"...Kanon, coupe la douche...‖C'est par trop pitoyable... !
+# 84556 : あんまりにも惨いじゃねぇか : exclamation, la question « c'est pas trop cruel ? » sonnait comme un doute
+84556|"C'est horrible...‖  .........C'est horrible...‖  ...Il a demandé en mariage la fille qu'il aimait, et il l'a perdue le lendemain.‖  ......Et le même jour, même sa mère et son père ont été tués...‖......C'est vraiment trop cruel, non... ?
+# 84611 : 駄目 = « ça va pas » (cf. 82310) ; 俺たち = nous ; 守勢一方 = on ne fait que subir
+84611|"Ouais...‖  Bon sang, ...je pleurerai plus...‖  Les larmes de regret, les larmes de tristesse, j'en verserai plus jamais...‖...Aah, ça va pas du tout.‖La sorcière nous a acculés.‖On fait que subir... !‖Et ça, ça va pas, ça va pas du tout !‖  Je vais faire pivoter l'échiquier... !!‖  Ce salaud s'imagine sûrement qu'on va trembler comme des moutons jusqu'à demain avant de tenter quoi que ce soit.‖  ...Mais devine quoi, je vais le faire pivoter !!‖  Ce salaud peut pas quitter cette île avant demain, lui non plus... !‖  C'est pas nous qui allons nous cacher en pissant dans notre froc, c'est lui !‖  Je vais te démasquer, tu vas voir.‖  D'ici demain,‖ ...non, au diable demain.  Ce soir."
+# 84636 : 有無を言わせない口調 = ton qui n'admet aucune réplique
+84636|Natsuhi l'annonça à tous d'un ton qui n'admettait aucune réplique.
+# 84707 : contresens anglais : ce sont les autres qui suivent sans courir, pas Kanon qui cherche ailleurs
+84707|...Sans courir, les autres les suivirent aussi pour trouver l'origine de l'odeur.
+# 84720 : 開けてもいいものか : hésitation de Natsuhi
+84720|"C'est vraiment...une puanteur à vous faire froncer le nez.‖...Mais pouvons-nous vraiment ouvrir une fenêtre pour aérer...
+# 84723 : 防犯上の都合 = raisons de sécurité, pas « autodéfense »
+84723|Natsuhi rechignait à ouvrir les fenêtres, pour des raisons de sécurité.
+# 84761 : glossaire : shutter = rideau métallique
+84761|"......On dirait bien.‖Dans le cas de la remise de la roseraie, le coupable a pu subtiliser la clé du rideau métallique dans la salle des domestiques,‖ ou peut-être avait-il un double.  ...J'imagine bien des façons dont il aurait pu s'y prendre.
+# 84770 : sens JA : une chaîne, à moins de la casser, on ne peut rien y faire de l'extérieur
+84770|Une chaîne, à moins de la casser, on peut rien y faire de l'extérieur.
+# 84821 : glossaire : shutter = rideau métallique
+84821|La première, c'était le rideau métallique.
+# 84855 : お手上げ = on séchait complètement, pas « abandonner »
+84855|...Cette fois, c'était l'impasse totale.
+# 84883 : 甘いか = « c'est un peu court », repris par Battler 甘いよな (84889)
+84883|"Pas bête...‖  Même si la chaîne empêche d'ouvrir assez grand pour laisser passer quelqu'un, on peut quand même entrouvrir un peu.‖  Le coupable aurait frappé à la porte pour qu'ils jettent un œil dehors... avant de les attaquer... ?‖Non, ...c'est un peu court, hein... ?
+# 84889 : 甘いよな répond à 84883
+84889|Ouais, un peu court.‖  ......Si le corps de Tante Eva avait été juste à côté de la porte, ça aurait peut-être été possible.
+# 84995 : このゲンコツ男 : Maria insulte Battler, l'anglais l'a perdu
+84995|Uu-, ...je vais le dire, je vais le dire, espèce de tapeur.‖  ......C'est le premier cercle magique de la lune."
+# 85005 : Psaume 107:16 en Louis Segond (verrous = かんぬき)
+85005|"Les mots viennent de l'Ancien Testament, Psaume 107, verset 16.‖...`Car il a brisé les portes d'airain, il a rompu les verrous de fer'.‖  ...Ce cercle magique a deux effets.‖  D'abord, il peut ouvrir une porte, peu importe la méthode qui a servi à la verrouiller."
+# 85171 : 湿気と臭気 : humide, pas chaud
+85171|...Ç'avait toujours été un endroit humide, à l'odeur désagréable.
+# 85400 : 空を掴む = saisir le vide, pas le ciel (l'anglais a mal lu 空)
+85400|Cette main, qui semblait vouloir saisir le vide maintenant que la hachette était tombée, s'abaissa peu à peu,‖ ...pour se poser sur sa poitrine.‖  Puis l'autre main fit de même.
+# 85458 : 克己 = victoire sur soi-même, pas sacrifice
+85458|C'était une danse magnifique, magnifique... une danse funèbre d'hommage, de raillerie et de mépris pour la victoire d'un jeune garçon sur lui-même.
+# 85460 : anglais brouillé : sa résistance consiste à refuser cette mort telle qu'on la lui donne
+85460|...Kanon s'était déjà préparé à sa propre mort,‖...mais il tenta un ultime acte de résistance : refuser au moins d'accepter cette mort telle qu'on la lui avait donnée.
+# 85492 : ひぃ : « Hiii » comme partout ailleurs pour Kumasawa (« Kyaaa » isolé)
+85492|"......Kanon-san ?!‖Hiiiiiiiiiiiiii !!!‖  À-À l'aiiiiiiiiide !!‖Hiiiiiiiiiii !
+# 85495 : 受け容れがたい = insoutenable, pas incompréhensible
+85495|Kumasawa hurla devant la scène insoutenable qui s'offrait à ses yeux.
+# 85547 : 奥の暗がり = le fond, pas le centre
+85547|...Natsuhi, le fusil brandi, fit face aux ténèbres du fond de la chaufferie et cria !
+# 85560 : 照らすぜ : Battler parle de lui (« j'éclaire »)
+85560|"Il nous faut de la lumière !‖Tante Natsuhi, j'éclaire !
+# 85618 : STYLE : Natsuhi tutoie les enfants
+85618|Attends, Battler-kun !!‖  C'est dangereux de rester seul en ce moment !!"
+# 85662 : STYLE : Natsuhi tutoie les enfants
+85662|"...Battler-kun !!‖Tu ne dois pas courir devant tout seul !!
+# 85720 : STYLE : Natsuhi tutoie les enfants
+85720|".........Tout va bien.‖...Toi, George-kun, Maria-chan et Jessica, je vous protégerai, quoi qu'il arrive.‖  ......En tant que mère, ...et en tant que représentante de la famille Ushiromiya... !"
+# 85715 : 豪放 = hardi, sans façons, pas « franc »
+85715|Natsuhi, qui avait toujours cru Battler d'un tempérament hardi et insouciant, fut un peu surprise de lui découvrir ce côté sensible,‖ ...et comprenant en même temps combien le cœur d'un jeune pouvait être facilement blessé, elle le prit dans ses bras.
+# 85726 : これまでもそうだったように = comme il l'avait toujours fait (l'anglais a mal compris)
+85726|Battler, après avoir sangloté un moment contre la poitrine de Natsuhi, ‖essuya ses larmes avec un sourire forcé, comme il l'avait toujours fait, pour montrer qu'il avait assez pleuré...
+# 85732 : correction de construction (« passe avant trouver »)
+85732|"Bref, redescendons pour l'instant.‖...Nous protéger passe avant la recherche du coupable.‖  Demain, le bateau arrivera.‖  Après ça, la police viendra, et tout devrait être tiré au clair.‖  ......Le coupable ne pourra jamais quitter cette île, il aura beau se débattre... !!"
+# 85735 : そうっすね : Battler acquiesce, familier mais poli
+85735|...Ouais, vous avez raison.‖  ...Quand la police viendra..."
+# 85739 : harmonisation avec 82708 (« Quand les mouettes pleurent ») au lieu de « goélands crieront »
+85739|Quand les mouettes pleureront, ...le crime sera résolu.

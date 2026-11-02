@@ -1,0 +1,200 @@
+# 132929 : はい！ — le « sir » est un ajout de l'anglais
+132929|"""Oui !"""
+# 132958 : 誇りある料理人 = un cuisinier fier de son métier, pas « réputé »
+132958|...En temps normal, un cuisinier aussi fier de son métier que lui n'aurait jamais voulu les utiliser à d'autres fins que celles prévues.
+# 133014 : お仕えする = servir, pas « obéir »
+133014|"...Allez, et servez George-sama.‖Prenez garde à ne commettre aucune maladresse.‖Gohda, je compte sur toi pour montrer l'exemple."
+# 133042 : もうこの歳です = je suis déjà vieux ; ご恩をお返しする = rendre les bienfaits reçus (pas « rembourser une dette »)
+133042|"Oui.‖......Je suis déjà bien âgé.‖Tous les jours de ma vie jusqu'à présent ont été consacrés à rendre au Maître les bienfaits que j'ai reçus de lui.
+# 133090 : 息を殺し続ける = continuer de retenir son souffle (« plus encore » ajouté par l'anglais)
+133090|Genji continuait de retenir son souffle.
+# 133188 : 疲れ果ててしまった俺は = c'est parce qu'il est épuisé qu'il se laisse faire, pas « même si »
+133188|Je ne savais plus où j'en étais, j'étais épuisé de corps et d'esprit, et je me suis laissé entraîner par Maria dans ses jeux, comme elle le réclamait.
+# 133304 : 実感できない ; « pour une raison quelconque » ajouté par l'anglais
+133304|Je n'arrivais pas à croire vraiment que résoudre l'énigme me sauverait.
+# 133317 : 提示してる = elle se contente de poser cette règle ; 狙って = viser/convoiter l'or
+133317|"...Vraiment ?‖C'est pas juste une règle qu'elle nous présente comme ça... ?‖Celui qui résoudra cette énigme...découvrira sans doute où se trouve l'or caché de Grand-père.‖...Elle le convoite sûrement, et-"
+# 133320 : 狙わないよ = elle ne le convoite pas
+133320|"Uu-.‖Elle le convoite pas."
+# 133333 : 自分のものを狙ったりなんかしない
+133333|"L'or a toujours appartenu à Beato.‖Elle va pas convoiter un truc qui est déjà à elle."
+# 133404 : 死を賭すから = parce qu'ils mettent leur vie en jeu
+133404|Les humains peuvent faire naître des miracles parce qu'ils mettent leur vie en jeu.‖Si un humain immortel existait, il n'aurait aucun moyen de faire naître un miracle.‖......C'est pareil pour nous, pour la vie, pour la sorcière et pour la cérémonie.‖Si on ne prend pas de risque, on ne peut réussir en rien."
+# 133470 : 煙に撒く = brouiller les pistes ; « en parlant par énigmes » est un contresens de l'anglais
+133470|Je me disais qu'en attirant notre attention sur l'épitaphe, elle cherchait sans doute à nous induire en erreur et à brouiller les pistes.
+# 133487 : チェス盤を引っ繰り返す → « retourner l'échiquier » (choix fixé)
+133487|...J'ai beau retourner l'échiquier et réfléchir du point de vue de mon adversaire, ...je comprends pas pourquoi elle capitulerait si cette énigme était résolue.
+# 133506 : 気の利いた予告状 = lettre d'avertissement pleine d'esprit (pas « attentionné ») ; 思わせぶりな = lourd de sous-entendus
+133506|Il n'y avait aucun besoin de lettres d'avertissement pleines d'esprit, de mises en scène de chambres closes lourdes de sous-entendus, ni de rien de tout ça.
+# 133517 : 何も理解することなどできない = ne rien comprendre du tout (pas « tout comprendre »)
+133517|Est-ce que je serai incapable de comprendre quoi que ce soit...tant que je continuerai à voir Beatrice comme une coupable humaine avide ?
+# 133555 : ぼんやりと = d'un air absent
+133555|J'ai regardé Tante Rosa d'un air absent.
+# 133560 : 眠ってはいない = elle ne dormait pas (pas « n'arrivait pas à dormir »)
+133560|Elle ne dormait pas, mais elle fixait depuis un bon moment, le regard vague, un point dans le vide.
+# 133580 : 対立しがちな兄弟の双方に同意を求められる = chaque camp cherchait à la rallier
+133580|...Mais elle avait beaucoup trop d'écart d'âge avec ses frères et sa sœur...‖et comme ils étaient souvent en conflit, chaque camp cherchait sans cesse à la rallier à son avis.‖À cause de ça, elle avait vécu beaucoup d'expériences psychologiquement dures dans sa jeunesse.
+# 133583 : 片方に与した = prendre le parti de l'un (l'anglais : « copied »)
+133583|Souvent, quand elle prenait le parti de l'un, un autre lui en faisait voir de toutes les couleurs.
+# 133629 : つまりそれは、真里亞のことなのだ = ce portrait, c'est Maria elle-même
+133629|...Autrement dit, ce qu'elle décrit là, c'est Maria elle-même.
+# 133710 : 親父によく言われた = il me le disait souvent ; 悪徳で荒稼ぎ = combines louches, pas « le vice »
+133710|"...Y a un truc que mon père me disait souvent.‖Il disait que rien n'est aussi effrayant que les contrats.‖...D'après lui, c'est normal que ceux qui signent sans les lire attentivement se fassent dépouiller jusqu'à l'os.‖...Il a dû s'en mettre plein les poches avec des combines louches."
+# 133716 : 被った = ils en ont été victimes
+133716|"......Devine donc.‖À la naissance, les gens ne savent rien de la fraude.‖...Ils en ont été victimes quelque part.‖Et c'est ainsi qu'ils l'ont apprise."
+# 133728 : 押し付けあわずにはいられぬ人の世の罪 = se rejeter les fardeaux ; どこの魔女に聞いたやら = question rhétorique
+133728|"Ah, le péché du monde des humains, qui ne peuvent s'empêcher de se rejeter leurs fardeaux les uns sur les autres.‖...Tiens, de quelle sorcière ai-je donc entendu cela ?
+# 133733 : 無慈悲 = impitoyable (repris par Battler juste après)
+133733|Enfin, peu importe.‖...Je ne suis pas aussi impitoyable que tu le crois, vois-tu ?‖*ricane*ricane*ricane* !"
+# 133739 : 何が無慈悲ではないだ = et tu oses dire que tu n'es pas impitoyable
+133739|"Menteuse !!‖T'as tué tellement de gens !!‖Et de façon tellement horrible, en plus !  Et t'oses dire que t'es pas impitoyable ?!!
+# 133765 : さっさと…続けろよ = dépêche-toi de continuer ; とやら = soi-disant
+133765|"Bon sang, arrête de radoter des trucs incompréhensibles.‖......Dépêche-toi de continuer ta soi-disant torture éternelle.‖Je suis prêt à tenir mille ans, ou même dix mille ans."
+# 133775 : 対戦ゲーム = jeux de combat (arcade), ton familier (ォ)
+133775|"Allons, ça arrive souvent dans les jeux de combat, non ?
+# 133778 : 乱入 = défier un joueur en pleine partie (arcade), pas « s'introduire sur son territoire » ; フルボッコ = réduire en bouillie
+133778|Parfois, on vient défier quelqu'un en pleine partie, mais il est si faible que c'en est décevant, alors on perd exprès pour faire durer le match jusqu'à la dernière manche,‖pour s'y mettre sérieusement à la fin et le réduire en bouillie, pas vrai ?"
+# 133790 : 輝かぬ = il ne brille pas, ne révèle pas son éclat (un vin vieilli ne « pétille » pas)
+133790|"C'est comme le vin.‖Si on ne le laisse pas bien vieillir, il ne révèle pas tout son éclat.
+# 133796 : それに耐えられるワイン = un vin capable de supporter le vieillissement ; 最高の美酒 = le vin le plus exquis
+133796|...Tu es un vin capable de supporter ce vieillissement.‖Je vais te faire vieillir avec soin.‖...Je ferai de toi le plus exquis des vins, pour agrémenter mes instants raffinés..."
+# 133832 : 辛い = dur à supporter, pas « atroce »
+133832|"......J'ai beau le voir encore et encore, ...c'est dur."
+# 133911 : 変わり果てていた = méconnaissables
+133911|...Maintenant qu'une demi-journée s'était écoulée, les corps de Natsuhi et des autres étaient devenus méconnaissables.
+# 133975 : 幻想的 = féerique, pas « illusion »
+133975|C'était la première fois que George en voyait, et le spectacle lui avait peut-être semblé féerique.
+# 134021 : 舞い降りる = fondre sur elle, pas « danser autour »
+134021|Aussitôt, les papillons dorés fondirent tous ensemble sur elle.
+# 134123 : なめるな crié aux papillons : vouvoiement poli incongru
+134123|"George-sama, vite !!‖Bon sang, vous m'aurez pas comme ça, ouooooooooooooooooh !!"
+# 134152 : 力任せじゃ駄目だ = forcer, ça va pas
+134152|Forcer, ça va pas, c'est une question d'angle ou de petit coup de main...
+# 134243 : ホスト = l'hôtesse ; ディナーで歓待 = accueillir AVEC un dîner, pas « avant »
+134243|"*ricane*ricane*ricane*ricane*, ha ha ha ha ha ha ha ha ha ha ha ha !!‖C'est bientôt l'heure du dîner, n'est-ce pas ?‖...C'est moi, désormais, l'hôtesse de ce manoir.‖Je me dois donc de vous accueillir avec un merveilleux dîner.‖...Et voyez, nous avons même `trois personnes', exactement comme il faut.‖...Ma foi, comme c'est vraiment, vraiment commode !!"
+# 134377 : 愉快愉快 = délicieux, réjouissant
+134377|"......*ricane*ricane*ricane*ricane*‖Délicieux, délicieux.‖Sinon, ce ne serait pas aussi amusant !"
+# 134610 : 整然と率いながら = menait en bon ordre
+134610|Tandis que la nouvelle maîtresse riait à gorge déployée et menait en bon ordre six des nouveaux domestiques,‖il les vit approcher, perçant les ténèbres à mesure qu'ils avançaient.
+# 135064 : 新しき主たち = les nouveaux maîtres (pluriel ; l'anglais met un singulier)
+135064|...pour accueillir les nouveaux maîtres de cette chambre.
+# 135067 : suite (それを認めた)
+135067|On aurait presque dit que la porte elle-même les avait acceptés.
+# 135127 : 解放の日に感謝せよ = rends grâce pour ce jour (pas « remercie-moi ») ; 未練はあるまい = tu n'as sûrement aucun regret
+135127|"......Shannon,‖la roulette vous a choisis, George et toi.‖Rends grâce pour ce jour de ta délivrance.‖Tu n'as sûrement aucun regret ?"
+# 135186 : 一手及ばなかった = il t'a manqué un coup (image du jeu)
+135186|"Il t'a manqué un coup, hélas.‖*ricane*ricane*ricane*ricane*ricane* !!
+# 135298 : Shannon dit あなた / です à Beatrice dans toute la scène → vouvoiement
+135298|"......Comment avez-vous pu...faire ça à Kanon-kun ?‖......Je ne parle pas de l'avoir tué.‖...Comment avez-vous pu...effacer sa dépouille...
+# 135367 : 楽しいですか — forme polie
+135367|"......Cela vous amuse ?"
+# 135419 : まだ心の整理がつかない = encore bouleversée
+135419|...D'un seul coup, il s'apprêtait à frapper Shannon, encore en plein désarroi, et...
+# 135429 : vouvoiement (cf. 135298)
+135429|"...Je ne vous pardonnerai pas.‖...Je ne vous pardonnerai jamais...d'avoir déshonoré les morts non pas une, ...mais deux fois."
+# 135441 : いい夢が見られる = faire de beaux rêves
+135441|Tu vas sûrement faire de beaux rêêêêêêêêêêêêêêves !!!"
+# 135595 : 準備も時間も足りない = ni la préparation ni le temps (pas « les outils »)
+135595|"Je vois, c'est donc ce miroir sacré qui te prête sa force...‖Mais il te manque la préparation et le temps pour en libérer le véritable pouvoir."
+# 135642 : あなた → vous
+135642|"......Je ne suis pas un meuble.‖...Et en cet instant, vous me faites vraiment pitié."
+# 135659 : あなたはとても哀れな人 → vous
+135659|"...Vous êtes quelqu'un de vraiment pitoyable.‖......Bien sûr que deux personnes qui s'aiment auront des regrets si on les sépare.
+# 135664 : vous
+135664|Mais elles n'éprouveront aucun des regrets que vous espérez."
+# 135687 : 見下しているつもりで = vous croyez les regarder de haut, mais vous leur êtes inférieure
+135687|"Vivre en aimant et en rampant dans la fange, c'est le propre des humains.‖Vous croyez les railler et les regarder de haut, mais vous leur êtes bien inférieure.
+# 135698 : どれほどの意味が？ = quelle importance (question rhétorique, l'anglais inverse le sens) ; vous
+135698|C'est maintenant que vous me faites pitié.‖...Pour deux êtres qui s'aiment, quelle importance ont l'union des corps ou la première nuit passée ensemble ?"
+# 135709 : あなた如き邪悪が口にする資格もない ; vous
+135709|"...Cela a un sens, bien sûr que oui.‖...Mais c'est complètement différent de ce que vous dites.‖C'est quelque chose de si sacré qu'un être aussi malfaisant que vous n'a même pas le droit d'en parler."
+# 135731 : vous
+135731|...Avec cela, nos vœux éternels ont été scellés !‖Vous aurez beau nous torturer avec votre magie maléfique et votre malveillance, vous ne pourrez pas souiller l'éternité !!"
+# 135748 : 綺麗事を詩人のように = beaux discours comme un poète ; 体を重ねてしか計れねェ = ne se mesure qu'au lit
+135748|Ne me débite pas tes beaux discours comme une poétesse !!‖L'amour n'est que désir charnel, ça ne se mesure qu'en couchant ensemble.‖Les hommes ne sont que des mouches et des asticots attirés par ton odeur de femelle, qui viennent grouiller autour de toi.‖Ne le comprends-tu toujours pas, à ton âââââââââââââââââââge ?"
+# 135753 : がっかり…全然駄目 = déçue… et ça ira plus du tout
+135753|"Tu désespéreras, la toute première fois que tu verras le sombre désir de ce binoclard derrière toi,‖tu seras déçue, choquée, abasourdie, hébétée, et plus rien n'ira du tout, Shannoooooooonnnnnnnnnnnnnnnnnnn !!
+# 135904 : 見えない円柱の壁 = paroi cylindrique invisible (pas « colonne de lumière »)
+135904|L'invisible paroi cylindrique dont Shannon était le centre...se couvrit d'un seul coup d'ondulations d'un rouge vif.
+# 135925 : 安っぽい・薄っぺら = la barrière est minable et mince comme ses beaux discours
+135925|C'est minable c'est mince comme du papier, exactement comme tes beaux discours, rien qu'une façade toute mince,
+# 135939 : 削られてる = ça se fait râper
+135939|regarde regarde regarde regarde regarde ça se fait râââââââââper craccrouchclacpaf que c'est mince que c'est pitoyable,
+# 135945 : 削る = râper (le parmesan)
+135945|Même un parmigiano-reggiano serait plus dur à râper que ta résistance toute miiiiiiiiiiiiiince
+# 136213 : 最後に = avant la fin
+136213|"Avant la fin, ...laissez-moi vous entendre dire `je t'aime'."
+# 136329 : 一応 = pour la forme
+136329|Il était allé, pour la forme, demander à Rosa et aux autres ce qu'ils comptaient faire pour le dîner,‖mais une voix l'avait rabroué en lui disant que leurs conserves suffiraient, et on ne lui avait même pas ouvert la porte.
+# 136361 : affirmatif en japonais (« sans doute » ajouté)
+136361|Sa ronde allait donc bien plus vite que d'habitude.
+# 136425 : Rosa dit 源次さん / あなた / ください à Genji dans toute la scène → vouvoiement
+136425|"Que voulez-vous ?‖Ne vous donnez pas la peine d'ouvrir la porte.‖Dites-le-nous de là."
+# 136461 : 真里亞と居れば — Maria parle d'elle à la 3e personne
+136461|"...Uu-.‖Tout va bien, Battler.‖Si tu restes avec Maria, tout ira bien, c'est sûr."
+# 136476 : 尻目にして = sans prêter attention à
+136476|Quand j'ai eu fini, sans prêter attention à Tante Rosa, qui pointait le canon du fusil par-dessus mon épaule, j'ai ouvert la porte.
+# 136498 : 確認していくわ = c'est elle qui vérifie (cf. 136504)
+136498|"Battler-kun, attends !‖Par précaution, je vais vérifier que tout est bien fermé dans cette pièce.‖Attends une seconde."
+# 136736 : まずい = ça craint (calque « c'est mauvais »)
+136736|Ça craint, ça craint, ça craint vraiment... !!
+# 136795 : c'est la porte qui n'est pas dans un état normal
+136795|En tout cas, la porte n'était pas dans un état normal, et sans même l'ouvrir, on pouvait imaginer ce qu'on allait trouver à l'intérieur.
+# 136821 : 開けて下さい ; vouvoiement de Genji (cf. 136425)
+136821|"...G-Genji-san, ouvrez-la, s'il vous plaît."
+# 136889 : 用心してね = fais attention ; phrase redondante
+136889|Tante Rosa m'a dit de faire attention, mais j'ai ouvert la porte sans prendre la moindre précaution.
+# 136898 : 俺たちの想像を裏切らない = conforme à ce qu'on avait imaginé
+136898|Et là, ......s'étalait sous nos yeux une scène qui correspondait en tout point à ce qu'on avait imaginé.
+# 136961 : 自分の胸が痛んだ = j'en avais mal moi-même (pas « n'importe qui »)
+136961|...Rien que de l'imaginer, j'en avais mal à la poitrine.
+# 137056 : 額 = le front
+137056|Il y avait un trou béant au front de Shannon-chan, et l'intérieur s'en écoulait lentement.
+# 137183 : 真里亞と居れば — 3e personne
+137183|"...Ça va aller, Battler.‖...Si t'es avec Maria, ça ira.‖......La sorcière est très capricieuse, et c'est un être terrifiant qui tue parfois les humains un peu pour s'amuser."
+# 137188 : 真里亞と一緒に居れば絶対に大丈夫 — 3e personne + 絶対
+137188|"...Mais si t'es avec Maria, ça ira, c'est sûr.‖Alors aie pas peur."
+# 137281 : 休んでください — vouvoiement de Genji
+137281|"Merci, Genji-san.‖Ça suffira.‖Reposez-vous, vous aussi, pour aujourd'hui."
+# 137304 : そうね…とても危険 = « très » dangereux
+137304|"...Oui.‖Je pense moi aussi que c'est très dangereux.
+# 137358 : 一つの誠実 = une seule preuve de sincérité
+137358|"...Je crois que la confiance ne se gagne jamais par cent excuses, mais par une seule preuve de sincérité.‖...Même si vous ne m'accordez pas votre confiance, je souhaite rester sincère jusqu'au bout."
+# 137373 : vouvoiement de Genji
+137373|"...C'est donc décidé.‖Si vous êtes vraiment innocent, la police le prouvera en arrivant demain.‖D'ici là, nous ne pouvons pas vous mettre hors de cause."
+# 137377 : 長年、右代宮家に仕えてくれたあなた… わかってください — vouvoiement, ton très respectueux
+137377|"......Vous qui servez la famille Ushiromiya depuis tant d'années, il m'est vraiment pénible de vous traiter ainsi.‖...Mais pour ce soir, je vous en prie, comprenez-moi.‖...Et demain, permettez-nous de nous réconcilier."
+# 137430 : それを尻目に勝手に = sans plus lui prêter attention, de mon propre chef
+137430|Je l'ai observée un moment depuis le couloir, je me suis dit que ça devait suffire, et sans plus lui prêter attention, je suis entré dans le salon.
+# 137519 : 楼座叔母さん (narration de Battler)
+137519|J'ai entendu Tante Rosa murmurer ça...
+# 137546 : 封筒 = l'enveloppe
+137546|J'ai ouvert l'enveloppe.
+# 137636 : 少しだけ目を閉じ = fermer les yeux un bref instant
+137636|Tante Rosa a fermé les yeux un bref instant, et après avoir réfléchi en silence, elle a dit à Maria de venir.
+# 137729 : 親でなかったとしたら = et s'ils n'étaient pas vraiment tes parents (Rosa insinue l'imposture)
+137729|"Et pourtant, ...un tel démon existe peut-être.‖Non, c'est mal formulé.‖...Et si Rudolf nii-san et Kyrie-san n'étaient pas vraiment tes parents ?"
+# 137735 : 何を言い出すかと思えば
+137735|"...Q-Quoooi ?!?!‖Qu'est-ce que vous allez chercher là !!
+# 137770 : 留弗夫兄さんの息子の戦人くん (omis par l'anglais)
+137770|"...Mais es-tu vraiment Battler-kun, le fils de Rudolf nii-san ?!"
+# 137825 : 施錠できた = verrouiller (l'anglais met « unlock »)
+137825|On a trouvé George-aniki et les autres morts, et la chambre de Tante Natsuhi était fermée à clé !‖C'est George-aniki qui avait la clé de cette chambre, non ?!‖Et maintenant, la seule personne qui a un passe-partout, c'est vous, Tante Rosa, pas vrai ?!‖Vous êtes pas la seule à avoir pu verrouiller cette chambre ?!?!"
+# 137837 : 俺たちの目を盗み = dans notre dos
+137837|Vous êtes en contact avec le vrai coupable,‖et dans notre dos, vous lui avez prêté en douce un des cinq passe-partout !!"
+# 137896 : 室内に閉じ込められていた = la clé était enfermée dans la pièce (pas « la pièce était scellée »)
+137896|La propre clé de Natsuhi était dans la poche de George, enfermée à l'intérieur de la pièce‖.
+# 138069 : 完全に頭に血の上った = complètement hors de nous (pas « commençait »)
+138069|Maria s'est jetée entre Tante Rosa et moi, qui étions complètement hors de nous.
+# 138075 : その途端、情けなくなった = aussitôt je me suis senti minable
+138075|...Aussitôt, je me suis senti minable.
+# 138118 : もうごめんだ = j'en ai assez (l'anglais traduit à tort par « I'm sorry »)
+138118|j'en ai assez, j'en ai assez de tous ces soupçons entre nous !!"
+# 138207 : 私の罪を謝らせて = demander pardon pour mon péché
+138207|te revoir une fois encooooooooooooooooore...‖Laisse-moi alors te jurer mon amour, laisse-moi te demander pardon pour mon péché, uuuoooooooooooohh...
+# 138311 : 捧げた = passé : il a consacré le reste de sa vie à l'expiation
+138311|"J'ai consacré tout le reste de ma vie à cette expiation... !!‖Pour te demander pardon, pour expier mes crimes,
+# 138395 : お前は…悩み = c'est Beatrice qui hésitait, pas Kinzo (contresens EN)
+138395|"......Oui, c'est cela.  Comme ceci.‖......J'avais avancé ma dame.‖...C'était un coup tout à fait spectaculaire.‖Peut-être était-il un peu trop violent pour toi.‖......Tu hésitais à sacrifier ta pièce ou non,
+# 138397 : suite — tu as hésité si longtemps
+138397|...tu as hésité si longtemps......"

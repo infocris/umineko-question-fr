@@ -182,3 +182,20 @@ Registres épisode 2 : Beatrice tutoie tout le monde (sauf ironie), parle de fa�
 archaïque et moqueuse ; Battler la tutoie. Ronove : vouvoiement exquis, « Pu ku ku ». Shannon
 vouvoie George, George la tutoie ; Kanon vouvoie Jessica, Jessica le tutoie. Kanon ↔ Shannon : tu
 (« Nee-san »). Rosa tutoie Maria ; Maria tutoie Rosa (« Mama »). Gohda vouvoie tout le monde.
+
+## Choix fixés lors de la relecture contre le japonais
+
+| Japonais / anglais | Français |
+|---|---|
+| チェス盤をひっくり返す / spin the chessboard around | retourner l'échiquier |
+| うみねこのなく頃に | Quand les mouettes pleurent |
+| 苦笑い / bitter smile | sourire gêné, contraint |
+| 駄目 / useless | ça va pas, raté, fichu |
+| 魔女さま (ironique) | Madame la sorcière |
+
+Tu/vous : en cas de doute, le niveau de politesse du japonais fait foi.
+| 人間とトリック / human tricks | des humains et des astuces |
+| *cackle* isolé / *cackle*cackle*… | *ricanement* / *ricane*ricane*… (même nombre de répétitions) |
+| ママは… (Rosa parlant d'elle) | « Maman » à la 3e personne (comme Maria → « Maria ») |
+| 母さん / 父さん (George, Jessica) | Maman / Papa |
+| 悪魔の証明 | la preuve du diable ; « 悪魔を証明した » = prouver l'existence du diable |

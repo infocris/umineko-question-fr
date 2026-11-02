@@ -1,0 +1,162 @@
+# 106831 : 高圧的 = hautain, condescendant, pas « oppressant »
+106831|Son expression s'assombrit légèrement devant cette réponse ouvertement hautaine.
+# 106909 : 用意させましょう : Natsuhi fera apporter le remède par les domestiques
+106909|"Oh, vraiment... ?‖J'ai justement un excellent remède contre les maux de tête.‖Je vais vous le faire apporter..."
+# 106968 : 妄執 = obsession, pas « délire »
+106968|"Est-ce de l'amour, de la folie, ou une obsession ?‖...Et pourtant, peut-être même ces choses-là peuvent-elles engendrer un pouvoir magique lorsqu'elles sont assez fortes.‖...Triste magicien que tu es."
+# 107002 : あやつめ… 己が身も保てぬ : il ne peut même pas se protéger lui-même sans cela
+107002|  ......Une protection contre la magie !‖...Ce bougre ne peut-il donc se protéger lui-même sans recourir à ce genre de chose... ?"
+# 107036 : 恋焦がれ… 生涯を投げ出した / 散り様 = sa chute, pas « l'échec » ; « gâché » trop péjoratif
+107036|"Cela me plaît, Kinzo.‖Laisse-moi savourer cette partie avec toi.‖...Laisse-moi savourer la chute, au terme du dernier pari...du vieux magicien qui s'est consumé d'amour pour moi et y a sacrifié sa vie entière... !!"
+# 107225 : 一応 = pour la forme (choix fixé)
+107225|Kanon s'efforça, pour la forme, de ne pas oublier la politesse due à une invitée.
+# 107351 : Kanon passe à お前 : il tutoie désormais Beatrice (politesse du japonais)
+107351|"............‖...Se pourrait-il...que tu..."
+# 107446 : 憎らしい = odieux, insupportable (pas « haineux ») ; 受け入れがたく
+107446|Et, sans trop savoir pourquoi, le ton odieux qu'employait cette sorcière pour lui annoncer la venue de ce jour de repos tant attendu lui était difficile à accepter.
+# 107486 : お前 : tutoiement ; 未練こそが = ce sont les regrets mêmes qui font son plaisir
+107486|"...Ce sont donc les regrets qui font ton plaisir ?"
+# 107494 : 苛烈な運命 = destin impitoyable, pas « étouffant » ; 練りこみ = incorporer dans la pâte
+107494|"Exactement !‖La plupart des sorcières qui vivent mille ans finissent par se lasser de la vie !‖Pour fuir l'ennui, j'incorpore fruits et brandy au destin des gens, et je les fais cuire comme des gâteaux.‖Je trouve si divertissant de regarder les humains danser au gré d'un destin impitoyable, au fond d'un four... !"
+# 107513 : 慈しみ溢れる存在でもある = la sorcière est AUSSI un être plein de bienveillance (l'anglais inverse le sujet)
+107513|...Pour de tels meubles, la sorcière, venue les délivrer de tout, était aussi un être plein de bienveillance...
+# 107536 : 苦々しく下唇を噛む : amertume, rien sur la douleur
+107536|Kanon se mordit amèrement la lèvre inférieure.
+# 107541 : 自分の甘さにわずかの苦々しさ : amertume face à sa propre faiblesse, pas « honte de sa naïveté »
+107541|...Il ressentit une pointe d'amertume face à sa propre faiblesse.‖Et pour oublier Jessica, il tourna ses pensées vers Shannon.
+# 107594 : お前を憎む : passage au tutoiement (contraste voulu avec あなたに感謝する)
+107594|"...Mais je te hais d'avoir rendu ce jour si difficile à accepter pour Shannon... !"
+# 107664 : 甘き恋の沼にて溺れる = se noyer dans le marais de l'amour ; 羨ましがる = envier
+107664|"......Inutile de le cacher...‖En voyant Shannon se noyer dans le doux marécage de l'amour, tu l'as enviée.‖...Tu meurs d'envie de connaître le goût de l'amour...‖*ricane*ricane* !!"
+# 107674 : Kanon tutoie Beatrice (お前) ; 成り果てたりしない
+107674|"...Arrête, ...arrête... !‖Tu cherches encore à me prendre dans tes filets... ?!‖Je ne m'abaisserai pas à devenir un jouet pour ton amusement... !"
+# 107718 : 卑劣な = ignoble, lâche ; « ordure » trop grossier pour Kanon
+107718|"......C-C'est ignoble......"
+# 107743 : なぶり殺し = tuer à petit feu, après l'avoir tourmentée
+107743|non, à qui elle avait elle-même appris le goût de l'amour, ...jusqu'à la tuer à petit feu.
+# 107796 : 片膝を付き = un genou à terre (l'anglais dit « both knees »)
+107796|...Kanon......choisit de mettre un genou à terre devant la sorcière...
+# 107894 : contresens EN : あんだけ態度デカそうにしてて = « tu faisais le malin », pas « paniquer »
+107894|"La tension ?‖Hé hé, tu faisais le fier comme pas permis, et t'étais tendu ?"
+# 107926 : 鯖になる : gag récurrent de Kumasawa sur le maquereau (le proverbe dit « vache », elle le détourne)
+107926|"Allons, allons.‖On dit que si on se couche juste après avoir mangé, on se transforme en maquereau.‖Ho ho ho... !"
+# 107933 : suite du gag du maquereau
+107933|"...Arrêtez de plaisanter.‖Gohda-san a dit qu'on aurait du steak de veau ce soir.‖Ça finirait en steak de maquereau."
+# 108052 : 聞き捨てならねー = je peux pas laisser passer ; 本格的に議論したい (pas de « conneries » en JA)
+108052|"Moi, je peux pas laisser passer ça.‖...On est toujours le personnage principal de sa propre vie.‖J'aimerais bien en débattre sérieusement avec Battler, de ce point-là !"
+# 108066 : 根性 = état d'esprit, pas « manque de cran » ; うぜー = agaçant
+108066|"......C'est juste cet état d'esprit...‖Tu vois, refuser de monter sur scène parce qu'on se dit qu'on sera jamais le personnage principal...‖...Je sais pas, ça m'agace prodigieusement..."
+# 108113 : 滅茶苦茶じゃねぇか = c'est n'importe quoi
+108113|"......Bon sang, tu crois vraiment que tu peux faire tout ce que tu veux.‖...C'est quoi ce bordel ?‖...C'est complètement n'importe quoi... !!"
+# 108120 : 滑稽 : Beatrice trouve la théorie risible, ce n'est pas elle qui s'« amuse »
+108120|"*ricane*ricane*ricane*ricane*... !‖Ta théorie des 18 ou 19 personnes, sur laquelle tu fondais ton refus de moi, m'a paru fort risible.‖J'ai juste essayé de changer ma façon de jouer, rien de plus."
+# 108125 : クイーンを先に指す = jouer la reine en premier
+108125|"...Ton principal argument pour me nier, c'est simplement que je n'étais pas disposée en tant que pièce sur l'échiquier.‖Il me suffit donc de jouer la reine en premier, comme ceci.‖...Ouvrir la voie à la reine dès le premier coup, n'est-ce pas l'une des ouvertures classiques aux échecs ?"
+# 108170 : 詰める = mettre échec et mat
+108170|"Je vais tenir bon, c'est certain.‖Je vais te mettre échec et mat, c'est certain !!‖Viens à moi de toutes tes forces.  Je veux pas que t'aies la moindre excuse."
+# 108174 : 駄目だぜ、全然駄目だぜ ≠ « inutile »
+108174|"...T'es même pas près de me faire accepter un truc comme une sorcière.‖...C'est ça, tout à l'heure, on aurait dit que le bonbon de Maria avait été réparé par magie,‖mais t'avais peut-être un autre bonbon identique caché dans ta poche... et tu les as échangés pendant ton petit numéro, pour faire croire que tu l'avais réparé par magie !‖Ouais, c'est ça, ça peut être que ça !  Raté, complètement raté... !"
+# 108326 : くどいわよ = tu insistes, pas « tu parles trop »
+108326|"Tu radotes.‖Je n'ai jamais vu une femme blonde comme ça entrer ou sortir de ce manoir !"
+# 108368 : 度肝を抜く = sidérer, pas « faire peur »
+108368|"...Ouais.‖Mieux vaut avoir un peu de temps pour se préparer...‖plutôt que de voir cette nana blonde débarquer d'un coup à table et nous en boucher un coin."
+# 108457 : 黄金の魔女さま dans la bouche de Kyrie = ironique
+108457|  ...Le plus urgent, c'est de découvrir ce que veut Madame la Sorcière dorée, n'est-ce pas ?"
+# 108541 : 皆さんがご執心の : ironie de Kyrie (« qui vous obsède tous »)
+108541|"...Pour aller droit à la conclusion,‖...on peut sans doute s'attendre à une énorme surprise,‖liée de près ou de loin à ce problème d'héritage qui vous obsède tous tant. ‖...Notre adversaire compte sans doute nous écraser par la seule force de ce choc.
+# 108607 : 嫌らしいセンス = goût du coup tordu
+108607|".........C'est vrai.‖...Faire venir en secret une femme mystérieuse le jour de la conférence familiale...‖...Ce genre de coup tordu, ça a un petit quelque chose de Nii-san."
+# 108629 : 母子手帳 = carnet de santé maternel, pas un document d'état civil
+108629|"...Elle pourrait même nous montrer une preuve qu'elle est de la famille.‖Si elle peut prouver que le sang de Père coule dans ses veines, avec un carnet de maternité par exemple, on pourra rien y faire."
+# 108677 : こんな時ばかり = SEULEMENT dans ces moments-là (ironie perdue) ; 夫婦 = avec leurs conjoints
+108677|Ce n'était qu'en de telles occasions que Rudolf et Eva, avec leurs conjoints, faisaient front commun en frère et sœur,‖refusant de se laisser rafler leur héritage par un étranger.
+# 108758 : 見下す = regarder de haut, pas « se moquer »
+108758|...Oui,‖ce sourire était celui d'un être non humain qui nous regardait de haut.
+# 108841 : うーじゃわからないでしょ = « avec des uu-, on comprend rien »
+108841|"...Avec des uu-, on ne comprend rien !‖C'est vrai ?!"
+# 108904 : 認めたくないという奇妙な感情 : refus d'admettre, rien qui « crie »
+108904|Bien que Rosa ait elle-même rencontré cette femme quelques heures plus tôt dans la roseraie,‖elle fut saisie d'un étrange refus d'admettre son existence...
+# 109030 : même tournure qu'en 108841
+109030|"Avec des uu-, on ne comprend rien !!‖Oui ou non ?!"
+# 109063 : espace avant ?
+109063| ...n'est-ce pas...... ?
+# 109266 : Rosa parle d'elle à la 3e personne (ママは…)
+109266|"C-Ce n'est pas ça.‖Je voulais juste regarder l'enveloppe une seconde.‖...Je tiendrai ma promesse.‖...Après tout, Maman te dit toujours de tenir tes promesses.‖...Bien sûr que Maman tient ses promesses..."
+# 109311 : 真里亞は… : Maria parle d'elle à la 3e personne
+109311|"Uu-.‖Maria est la disciple de Beatrice, alors Maria écoute bien ce que dit sa maîtresse."
+# 109339 : ママは約束を守るわ : 3e personne
+109339|"...Maman tiendra sa promesse.‖Alors dis à Beatrice de ne pas s'inquiéter, d'accord ?"
+# 109357 : 真里亞からは… : 3e personne
+109357|"Je sais pas.‖...Beatrice est très capricieuse, alors elle apparaît toujours d'un coup.‖Maria connaît pas de moyen de la faire venir.
+# 109363 : 真里亞のことを見てる / 真里亞が困っていると : 3e personne
+109363|  ...Mais tu sais, elle regarde toujours Maria.‖Alors si Maria a des ennuis, elle viendra la sauver après, c'est sûr.‖...C'est sûr qu'elle a...effacé sa forme...et qu'elle se cache tout près de Maria.‖......Kihihihihihihihihihihihihihihihihihihihihihi."
+# 109439 : もう６時 = déjà 18 h, pas « presque »
+109439|En regardant l'horloge, ils s'aperçurent qu'il était déjà 18 h.
+# 109527 : 僕らは… 仲良しで居続けたい : George parle de « nous », pas de Shannon seule
+109527|  Pendant le service, c'est une chose, mais quand on passe nos pauses ensemble comme maintenant, j'aimerais qu'on reste aussi proches qu'à l'époque."
+# 109583 : glissement EN : 幼いのに考え方が背伸びしてる = encore jeune, il veut paraître plus mûr qu'il n'est
+109583|"...Kanon-kun est encore jeune, mais je trouve qu'il cherche un peu à paraître plus mûr qu'il ne l'est dans sa façon de penser."
+# 109632 : 寿退社 = quitter son emploi pour se marier (l'anglais invente une « fête »)
+109632|  ...Alors, ça veut dire que Shannon va bientôt quitter son poste pour se marier ?"
+# 109647 : George retourne la question en taquinant (僕にもわからないね)
+109647|"Bonne question, hein ?‖Moi non plus, je ne sais pas, hein ?"
+# 109653 : 苦笑い = sourire contraint ; ハイハイご馳走様 = « n'en jetez plus »
+109653|Jessica ne put qu'esquisser un sourire contraint et lâcher : oui, oui, n'en jetez plus.
+# 109698 : 強い憧れ = aspiration, « envie » ambigu (jalousie)
+109698|...Pour Shannon, élevée dans un orphelinat, cette image d'une famille harmonieuse était sans doute un idéal auquel elle aspirait ardemment.
+# 109904 : 配膳 = servir, pas « dresser le couvert »
+109904|Bien sûr, Gohda-san aurait voulu servir le Maître de ses propres mains, lui qui avait mis tout son cœur et toute son âme dans sa cuisine.
+# 109921 : 失礼のない振る舞い = se tenir sans la moindre impolitesse (FR obscur)
+109921|Il avait cependant accumulé une solide expérience dans ses emplois précédents, et il était tout à fait convaincu de pouvoir se tenir devant Kinzo sans commettre la moindre impolitesse.
+# 109949 : narration de Kumasawa, ton pince-sans-rire (お強い方でございますから)
+109949|C'est qu'il a beaucoup d'amour-propre, voyez-vous.
+# 110010 : お鉢が回ってきては大変と = craignant que ce soit son tour
+110010|Craignant d'en prendre pour son grade à son tour, Kumasawa s'éclipsa à pas feutrés dans le couloir.
+# 110053 : 配膳 = servir
+110053|...Si le plus haut gradé, Genji, allait servir Kinzo dans sa chambre, c'était à Shannon qu'il revenait de servir Beatrice dans la sienne.
+# 110080 : contresens EN : 言わせておきなよ = « laisse-le dire »
+110080|"......Laisse-le dire.‖C'est le dernier des minables."
+# 110234 : espace avant ?
+110234|".........Comment...‖......Pourquoi, ...pourquoi maintenant...... ?"
+# 110345 : 僕は嫌だ = je refuse
+110345|"Moi, je refuse.‖...Avec toi, je veux rattraper toutes les souffrances qu'on a endurées.‖Je deviendrai pas un sacrifice.‖Nee-san et moi, on restera en vie.‖Et on atteindra la Terre dorée ensemble."
+# 110392 : 辿り着こう = atteignons ; « traînons-nous » vient de l'anglais « drag »
+110392|......atteignons la Terre dorée.‖Et alors,
+# 110432 : rythme et typographie de la tirade (絶対に…人間になってやる…こんな苦しみから…絶対に)
+110432|assez d'être un meuble... !‖...Coûte que coûte...
+# 110434 : suite
+110434|je deviendrai humain...‖...Cette souffrance...
+# 110436 : suite ; espace avant !
+110436|...j'y échapperai, coûte que coûte...... !"
+# 110461 : 痛々しい笑顔 = sourire douloureux ; 取り繕いご機嫌を取る = faire bonne figure
+110461|Les larmes que Jessica lui avait montrées ce jour-là...‖et le sourire douloureux de Jessica qui, depuis, s'efforçait de faire bonne figure pour lui être agréable...‖avaient lentement opéré une sorte de changement dans le cœur de Kanon, à son insu...
+# 110504 : 丁重に頼む = la traiter avec les plus grands égards
+110504|"J'ai confié le déjeuner à Kanon, mais c'est toi, qui viens juste après moi dans la hiérarchie, qui aurais dû le porter.‖......Beatrice-sama est l'invitée la plus honorée de cette maison.‖Il n'est pas d'invitée plus honorée qu'elle.‖...Considère-la comme un second Maître, et traite-la avec les plus grands égards."
+# 110532 : 感謝を？ それとも嘆きを？
+110532|De la gratitude ?‖Ou des lamentations ?
+# 110655 : 夕方前から = depuis avant le soir
+110655|Kinzo l'ayant harcelé avec insistance pour terminer leur interminable partie d'échecs, ils s'affrontaient depuis la fin de l'après-midi.
+# 110694 : 最善手 : Kinzo y répond juste après
+110694|"......J'ai faim, moi aussi.‖Et si nous suspendions la partie ici ?‖D'ailleurs, j'ai tant fait travailler ma tête sans pause que j'en ai déjà le vertige.‖...Au-delà, je ne garantis plus de jouer les meilleurs coups."
+# 110697 : そうでない一手は理解に苦しみ… : FR obscur
+110697|"...Voilà qui est fâcheux.‖.........Aux échecs, les deux joueurs doivent toujours jouer leurs meilleurs coups.‖...Un coup qui ne l'est pas devient incompréhensible et fausse un jeu fondé sur la lecture des pensées de l'adversaire.‖...Cela gâche considérablement notre plaisir."
+# 110736 : 親友 = ami cher
+110736|"Ha ha ha ha...‖Dire que vous, entre tous, avez pu oublier une chose pareille.‖...Les échecs...‖sont une façon de passer un moment agréable avec un ami cher."
+# 110951 : 恋路を助けた = aider en amour, pas « sauver »
+110951|"Allons donc.‖...Kanon a dû t'en parler.‖Si je t'ai aidée en amour, c'est uniquement par espièglerie.‖...Ce n'était rien d'autre qu'une graine que j'ai semée pour regarder ton amour se compliquer, se tordre et échouer."
+# 111115 : 楽しみ糧にしている = elle s'en nourrit
+111115|"J'ai enfin fini par vous comprendre.‖Vous aimez tourmenter, déstabiliser et tracasser les gens, et vous vous en nourrissez pour votre plaisir.
+# 111162 : 面白い。気に入った。殺してやる。 : « Ça me plaît » perdu en anglais
+111162|  Amusant.‖Ça me plaît.‖Je vais te tuer.‖Toi et ton amoureux... !"
+# 111191 : 悔しい = c'est rageant, pas « je n'en peux plus »
+111191|"C'est si rageant.‖......Pourquoi avez-vous pris forme humaine, pourquoi êtes-vous apparue devant nous, pourquoi parlez-vous avec des mots humains pour vous moquer de nous ?‖...Si vous n'étiez pas apparue devant nous, si vous n'aviez pas prédit l'avenir,
+# 111209 : 不愉快な思いをさせる = causer du déplaisir, pas « rendre malheureuse »
+111209|"...Nous sommes impuissants, alors nous ne pouvons lutter ni contre votre cérémonie ni contre le destin.‖...Mais je peux vous causer du déplaisir, dès maintenant."
+# 111256 : 他人行儀に = avec une politesse distante
+111256|Shannon s'inclina avec une politesse distante et lui tourna le dos.
+# 111260 : 性急 = impatient, pressé
+111260|...Car lorsque la sorcière l'interpella de nouveau, sa voix semblait un peu plus impatiente qu'auparavant.
+# 111294 : もう返事をしなかった = elle ne répondit plus
+111294|Shannon ne lui répondit plus.
+# 111310 : contresens EN : 最後まで篭絡されなかった嘉音 = Kanon, jamais pris dans ses filets
+111310|Elle avait fait plier Kanon, qui jusqu'alors ne s'était jamais laissé prendre dans ses filets.‖...Alors que Shannon, qui s'était si facilement laissé piéger auparavant, refusait cette fois de se soumettre.

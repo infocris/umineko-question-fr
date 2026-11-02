@@ -1,0 +1,164 @@
+# 77877 : どう死のうが知ったことじゃない = « je me fiche de comment il est mort », l'anglais en fait « ça n'a rien à voir avec moi »
+77877|"...Euh, bah, vous savez, plus l'amour est profond, plus la blessure est profonde, non ?‖Après tout, ce vieux salaud de père, je me fiche bien de la façon dont il est mort.‖...Je suis triste pour Kyrie-san, mais... bon, c'était pas vraiment ma mère."
+# 77889 : あのくらい泣けばＯＫ = « avoir pleuré autant, ça suffit », pas « je devais au moins » ; 育ての親 = Kyrie
+77889|"Bah, je me suis dit qu'en pleurant autant, j'étais quitte envers celle qui m'a élevé...‖Hé hé hé..."
+# 77927 : どこのどいつ = « qui diable » (pas « et où ») ; 腹の虫が治まらねぇ = je ne me calmerai pas tant que…, pas un regret au passé
+77927|......je dirais que je suis surtout furax.‖Qui c'est, le salaud qui a fait ça ?‖...Tant que je lui en aurai pas collé une en pleine figure, je pourrai pas me calmer."
+# 77970 : la lettre = envoyée par Père parce qu'il voulait se mêler de l'héritage (contresens anglais « compliquer le problème »)
+77970|"...Ah, celle-là ?‖......Eh bien, qui sait.‖Nous sommes tous tombés d'accord, entre frères et sœurs, pour dire que cette lettre étrange avait été envoyée par Père parce qu'il voulait se mêler de la question de l'héritage.‖......Quant à savoir si elle a un rapport avec l'affaire de ce matin, impossible de le dire à ce stade..."
+# 78087 : まだ理解は容易だった = « ça aurait encore été facile à comprendre » ; l'anglais dit l'inverse
+78087|...Si on avait retrouvé les corps jetés quelque part dans les buissons de la roseraie, ça aurait encore été facile à comprendre.
+# 78117 : 伯母さんも言えない — Eva parle d'elle-même comme « ta tante »
+78117|"Désolée, mais ta tante ne peut pas t'en dire plus.‖...Par contre, je peux te dire une chose."
+# 78165 : 静かになさいな = « pas si fort », pas « garde ça pour toi »
+78165|"Pas si fort, d'accord ?‖Ce ne serait pas correct de lancer de simples suppositions comme ça."
+# 78194 : 推理ごっこに興じられる安全圏にはいない = pas assez à l'abri pour s'amuser à jouer au détective
+78194|Bref, on était loin d'être assez à l'abri pour s'amuser à jouer au détective...
+# 78215 : 使用人 = « personne qu'on emploie » ; le jeu sur le mot doit passer en français
+78215|"C'est juste une intuition.‖...Un domestique, c'est par définition quelqu'un qu'on emploie.‖Quelqu'un qui sert de bras et de jambes à un autre, non ?"
+# 78250 : なぜか気に入らねぇ — « allez savoir pourquoi » perdu
+78250|que, je sais pas pourquoi, ça me plaît pas."
+# 78354 : 下手すると = « peut-être même », pas « au minimum »
+78354|...Donc, pour le coupable, peut-être même que 
+# 78370 : 犯人たち au pluriel (cohérent avec la théorie d'Eva)
+78370|Les coupables essaient de nous mettre quelque chose sous le nez.
+# 78435 : 煙に撒かれた = on s'est laissé embrouiller par l'histoire de la clé ; もっとも怪しい人物に浮上する
+78435|...Au départ, l'histoire de la clé du rideau métallique nous avait embrouillés, et on en était venus à soupçonner les domestiques,‖...mais si on regarde les choses sous l'angle du mobile, de qui gagne à ces meurtres,‖......Tante Eva devient la personne la plus suspecte.
+# 78479 : Hideyoshi apostrophe sa femme par son nom (よさんか絵羽)
+78479|"Si Oncle Hideyoshi vous entendait, il dirait `Arrête donc, Eva, c'est pas drôle du tout'..."
+# 78498 : 抜けさせてもらった = ils se sont éclipsés, personne ne les « a laissés partir »
+78498|"Comme tu le sais, la discussion entre frères et sœurs pour savoir comment découper et dévorer l'héritage s'est prolongée tard dans la nuit.‖Mais je ne sais pas jusqu'à quelle heure elle a duré.‖Mon mari et moi nous étions levés tôt ce matin-là.‖Nous tombions de sommeil, alors un peu après minuit, nous nous sommes éclipsés.‖Nous sommes alors retournés à la maison d'hôtes pour nous reposer."
+# 78601 : description du cercle brouillée par l'anglais : lettres autour du cercle ; inscriptions en haut/bas/gauche/droite de la croix et aux quatre coins
+78601|Et puis, comme ça, tout autour du cercle, y avait plein de drôles de lettres serrées, et y avait aussi quelque chose d'écrit en haut, en bas, à gauche et à droite de la croix, et dans ses quatre coins.‖Ça ressemblait pas à l'alphabet ni à rien de ce genre.‖C'était ce qu'on appelle des caractères anciens."
+# 78613 : 細かい文字はわからん = il ne se souvient pas du détail, pas « je ne comprends pas »
+78613|"Ah, oui, y avait bien un truc comme ça dessiné là... !‖Ouais, pas d'erreur possible sur la forme.‖Les petits caractères, j'pourrais pas dire, mais la disposition était presque la même."
+# 78638 : 犯人の素性を知っている = sait qui est le coupable
+78638|Elle n'allait pas jusqu'à dire que Grand-père était le coupable,‖mais elle semblait persuadée qu'il savait qui était le coupable.
+# 78649 : sens général « si on exhibe un crime, c'est pour le montrer aux survivants » (pas « pour qu'ils trouvent ça »)
+78649|C'est ça : si on exhibe un crime, c'est pour le mettre sous les yeux des survivants.
+# 78659 : George s'adresse à Maria → tu
+78659|"Cette forme t'évoque quelque chose... ?"
+# 78701 : ますますちんぷんかんぷん = « de moins en moins »
+78701|"...Donc, autrement dit, ce cercle magique aurait une signification religieuse... ?‖J'y comprends de moins en moins..."
+# 78713 : 形容できない = indescriptible, pas « incompréhensible »
+78713|Maria souriait, ...avec une expression inquiétante, impossible à décrire.
+# 78776 : Maria s'adresse à Hideyoshi et Nanjo (c'est Nanjo qui répond) ; cohérent avec 78822
+78776|"...Vous voyez ?‖Ça ressemblait un peu à ça, non ?"
+# 78857 : 聖書くらい、読んでなきゃ = sentence moqueuse, pas une question
+78857|"C'est tiré des Psaumes de l'Ancien Testament, les versets 16 et 17 du Psaume 116.‖...La Bible, faut au moins l'avoir lue.‖Kihihihihihihihi..."
+# 78886 : 意味深 = « ça en dit long », pas « profond »
+78886|...et obtenir la liberté... ?‖Ça en dit long..."
+# 78902 : idem 意味深
+78902|un destin inéluctable, ...hein ?‖...Ça aussi, ça en dit long."
+# 78914 : お気の毒だよ = « les pauvres » ; « pitoyable » = minable en français
+78914|"Le cercle magique n'a pas été dessiné pour eux.‖Ce sont les six qui étaient là pour le cercle magique.‖Les pauvres.
+# 78933 : 読めないかなぁ = vous n'arrivez pas à le lire (l'hébreu), pas « vous ne savez pas lire »
+78933|"C'est écrit sur la circonférence.‖Vous n'arrivez pas à le lire ?‖Psaumes, chapitre 116, versets 16 et 17.
+# 78946 : reprise du « ね » de Maria
+78946|"Comment ça, `vous voyez'...
+# 79072 : 俺に言わせりゃ = « si tu veux mon avis » ; 収支報告 = bilan ; 機嫌を悪くした女房 = sa femme, pas « les épouses »
+79072|Si tu veux mon avis, plutôt que les démons et les monstres,‖le bilan de l'année ou ma femme quand elle est de mauvais poil, c'est 100 millions de fois plus effrayant.
+# 79180 : 倉庫を見つけてくれなかったら = découvrir la remise (pas « ce qu'il y avait sur »)
+79180|Après tout, si on n'avait pas eu la gentillesse de découvrir la remise,‖tout le travail et les préparatifs qu'il a faits hier soir seraient partis en fumée, `pouf'.
+# 79199 : アピールしたい = montrer, exhiber ; « faire croire » suggère une tromperie
+79199|Le coupable voulait nous montrer avec quelle brutalité il les avait tués.
+# 79225 : « si quoi que ce soit d'occulte survient ici, on pense automatiquement à Grand-père » (l'anglais parle de chercher un passionné)
+79225|...S'il se passait quoi que ce soit d'occulte dans ce manoir, on soupçonnerait presque automatiquement Grand-père d'y être mêlé.
+# 79259 : 犯人の尻尾 = là où le coupable peut se trahir
+79259|J'avais bien l'impression que c'était par là que le coupable risquait de se trahir...
+# 79276 : てめぇ — Battler apostrophe directement la sorcière
+79276|Est-ce que c'est nous qui allons nous faire aspirer par ton petit jeu occulte en premier ?
+# 79277 : 俺がてめぇの化けの皮を剥いでやる — « moi », « ton masque »
+79277|Ou est-ce que c'est moi qui vais t'arracher ton masque d'abord ?
+# 79446 : Eva dit お父様 (son père), l'anglais met « Grandfather »
+79446|"Autrefois, Père était complètement accro aux westerns.‖Cette génération adorait ce genre de fusil."
+# 79475 : カッコつけて遊んでおられた = il prenait des poses (en cow-boy)
+79475|"Il l'adorait juste après avoir réussi à se le procurer.‖On aurait dit que le mécanisme qui éjectait les cartouches l'amusait plus que le tir, et il jouait les cow-boys avec dans la forêt de derrière.‖Ho ho ho ho..."
+# 79492 : 溜め息をつく = soupirer, pas « inspirer »
+79492|En disant cela, Natsuhi-san s'est affalée dans l'un des canapés et a poussé un profond soupir.
+# 79518 : Eva appelle Natsuhi 夏妃姉さん (ironie perdue en anglais)
+79518|"Rien de particulier.‖Je ne fais qu'approuver ton avis, Natsuhi nee-san, non ?"
+# 79620 : もくもくと食べた = mangèrent en silence sans s'arrêter (pas « dévorer »), plus-que-parfait incohérent
+79620|...Comme le petit-déjeuner avait suivi de près ce terrible incident, et que beaucoup n'avaient presque rien pu avaler,‖tout le monde mangea son déjeuner en silence, sans s'interrompre.
+# 79779 : コツリ = petit bruit sec, pas « sonore »
+79779|À cet instant, un petit bruit sec leur parvint du couloir.‖Tous deux se retournèrent, surpris.
+# 79917 : Kanon : 住まわれる魔女であらせられます — très honorifique, -sama supprimé par l'anglais
+79917|"......Non, ...ce n'est pas faux.‖C'est comme vous dites.‖Beatrice-sama est la sorcière qui réside dans la forêt de Rokkenjima."
+# 79924 : お側にお仕えした = l'a servi, pas « a œuvré »
+79924|"...Battler-sama,‖......je ne m'attends pas à ce que vous le croyiez tout de suite,‖...mais Beatrice-sama existe.‖...C'est une personne bien réelle, celle qui a accordé au Maître une immense quantité d'or et qui l'a servi à ses côtés pendant de longues années."
+# 79941 : 仕方なく = faute de mieux
+79941|Alors, faute de mieux, j'étais le seul à rire.‖...Douloureusement, amèrement.
+# 79946 : 断る = prévenir (Genji avait averti « vous pourriez mal le prendre »), pas « refuser d'en parler » ; 正気じゃあ気を悪くする
+79946|"...Je vois, Genji-san avait bien raison de prévenir.‖...C'est clair que quand on a toute sa tête, on le prend mal.‖.........Donc, vous êtes en train de dire qu'une personne du nom de Beatrice existe vraiment ?"
+# 80041 : sujet = Beatrice-sama (honorifique たたずまれる) qui s'attarde devant son portrait ; l'anglais en fait Kinzo
+80041|...Il paraît qu'elle regrette cette apparence et qu'elle vient souvent s'attarder devant le portrait...‖...Ho ho ho..."
+# 80074 : 冒涜 d'une personne — « profaner quelqu'un » ne se dit pas
+80074|"Beatrice-sama n'aime pas qu'on lui manque de respect.‖...Si vous doutez de son existence, un malheur vous arrivera sûrement."
+# 80109 : 強がった笑いが乾いていく — rire de façade qui se dessèche (pas « dessoûler »)
+80109|Mon rire de façade, censé montrer que je ne m'en faisais pas, se desséchait à vue d'œil.
+# 80110 : 目も乾いていく
+80110|...Leurs regards aussi se faisaient de plus en plus secs.
+# 80116 : 冒涜 idem ; 悪いことは申し上げません = c'est pour votre bien
+80116|"...Battler-san, ...je vous en supplie, cessez de manquer de respect à Beatrice-sama.‖C'est pour votre bien que je vous le dis..."
+# 80205 : 聞くだけ野暮 = inutile de demander, pas « impoli »
+80205|"...Maria, ça sert sûrement à rien de demander, mais je vais te reposer la question, d'accord... ?‖Qui t'a donné cette lettre hier ?"
+# 80223 : “い”る = être là (présence), Battler répond « où ça ? »
+80223|"......Battler,‖tu ne comprends toujours pas ?‖Beatrice-sama `est là'."
+# 80228 : idem “い”る
+80228|"Elle `est là', tu dis, ...mais où ça ?"
+# 80234 : idem — « existe ici » sonne faux
+80234|"Je te l'ai dit : Beatrice-sama `est là', ici."
+# 80264 : 硬い唾を飲み込み = déglutir péniblement
+80264|Déglutissant péniblement, j'ai lentement regardé derrière moi, par-dessus mon épaule.
+# 80277 : elle ne peut se montrer ET parler qu'à ceux qui ont la bonne longueur d'onde (pas de lien de cause)
+80277|"Beatrice est la puissante Sorcière dorée, qui vit depuis mille ans.‖......Mais elle ne peut se montrer et parler qu'aux humains qui ont la bonne longueur d'onde.
+# 80281 : だから…嫌いなんだよ = « c'est pour ça qu'elle déteste » ; « mépriser que » incorrect
+80281|...Et tu sais quoi ?‖C'est vraiment triste.‖...C'est pour ça qu'elle déteste vraiment que des gens comme toi, nés sans la moindre once de sens magique, nient son existence... !"
+# 80315 : “い”る + 今、そこに = présence
+80315|"Battler, pourquoi tu ne crois pas en Beatrice... ?‖Alors qu'elle `est là'.‖Là, maintenant, juste là, regarde.
+# 80336 : 最後のツメが綺麗に決まらなかった = le coup final a raté son effet
+80336|Leur petit jeu de sorcières avait été assez amusant jusque-là, mais malheureusement, le coup final avait l'air d'avoir raté son effet.
+# 80342 : 全然駄目だ = « ça marche pas du tout » (le tour est raté)
+80342|"Ha ha ha ha ha ha ha.‖...Alors ça marche pas du tout, Maria ?‖Si c'est ça, désolé, mais ça marche pas du tout."
+# 80348 : 不快そうなのがよくわかる = on voyait bien qu'elle était contrariée
+80348|Elle ne comprenait pas pourquoi je riais, et on voyait bien que ça lui déplaisait.
+# 80367 : お守りのお陰でもねぇ = ce n'est PAS grâce au porte-bonheur (l'anglais : « pas la seule raison ») ; ピンピンしてる
+80367|"...Donc si je suis sain et sauf en ce moment, c'est pas grâce au porte-bonheur, et alors que la malédiction de la sorcière aurait dû me tomber dessus, je pète la forme.‖...Désolé, mais je crois pas aux choses que je vois pas de mes propres yeux."
+# 80429 : 無理に信じる必要もない = pas besoin de te forcer à croire (pas « nous te forcer »)
+80429|...Tu n'auras plus du tout besoin de douter, ni de te forcer à y croire.‖...Elle va apparaître, très bientôt.‖Kihihihihihihihihihi... !"
+# 80549 : 没個性なのが許せなくなる omis par l'anglais
+80549|Mais en arrivant à l'âge de la croissance, quand le moi commence à naître, on ne supporte plus de n'avoir aucune personnalité propre.
+# 80607 : 年齢だけ無駄に食っても = accumuler les années pour rien, pas « gâcher sa vie »
+80607|"...Je vois.‖C'est une question de connaissances et d'expérience.‖...C'est vrai qu'on respecte pas quelqu'un juste parce qu'il a accumulé les années pour rien."
+# 80612 : 子どもから脱却したい時期 = sortir de l'enfance, pas « se distinguer des autres enfants »
+80612|"Par conséquent, à l'âge où ils ont envie de sortir de l'enfance, ils veulent aussi avoir une personnalité qui les distingue des autres.
+# 80630 : propos général (« on devenait un héros »), l'anglais en fait une vantardise de Jessica
+80630|"Tu sais, à l'école primaire, quand tu savais des trucs que personne d'autre dans la classe savait,‖ou que t'avais ou savais faire des trucs que personne d'autre avait, tu devenais un héros.‖Je parie que t'as connu ça aussi, Battler."
+# 80661 : 感謝できるようになった = devenir reconnaissant, pas « remercier »
+80661|Ce n'est que récemment que j'ai fini par être reconnaissant au prof de collège qui m'avait giflé après les cours.
+# 80667 : 跳び箱 = plinth ; そういう気持ちはあった ; 根性
+80667|"Mais bon, je voulais passer le plinth que personne d'autre arrivait à sauter,‖ou je sprintais à fond pendant la course de fond pour mettre un tour aux bons élèves.  C'est ce genre de trucs que j'avais en tête.‖...Comme j'étais nul en classe, j'avais au moins la rage de prendre ma revanche en sport.
+# 80692 : そういう手合いが必ずいた = il y avait toujours ce genre de filles (pas « j'y ai eu droit »)
+80692|Peu importe la classe, les filles adorent la voyance.‖Et y en avait toujours pour décider si leur sens spirituel était fort ou faible, parler de leur sensibilité, dire qu'elles voyaient l'invisible.  Ce genre de filles, y en avait partout, c'est clair."
+# 80732 : さっきも言った通り — c'est George qui l'a dit (80589)
+80732|"Comme je l'ai dit tout à l'heure, devenir adulte, c'est acquérir des connaissances et de l'expérience.‖Donc, pour y parvenir, les enfants doivent apprendre toutes sortes de choses et se libérer de l'enfance.
+# 80786 : キャラクターの使い分け、人格の多重化はごく当り前 — question sur la thèse de George
+80786|"......Autrement dit, jongler entre plusieurs personnages,‖...ou avoir plusieurs personnalités, c'est parfaitement banal, c'est ça que tu veux dire ?"
+# 80812 : 丸ごと受け容れてあげるのが親の包容力 — contresens anglais
+80812|Il est donc important de jouer le jeu dans une certaine mesure.‖...Cela dit, l'accepter tout entier, c'est ça, la tolérance d'un parent."
+# 80843 : 幼い自分とは違う自分を持ちたくて = autre chose que la petite fille qu'elle était
+80843|...Et comme elle voulait être autre chose que la petite fille qu'elle était, elle s'était donné une personnalité de sorcière, son idéal, et passait de l'une à l'autre.
+# 80860 : 憧れ、妄信する = admirait et en qui elle croyait aveuglément
+80860|...Mais au fond d'elle dormait une autre personnalité, celle de la sorcière idéale qu'elle admirait et en qui elle croyait aveuglément.
+# 80957 : 大きく息を漏らす = soupirer, pas « inspirer »
+80957|Jessica a poussé un grand soupir, comme admirative...
+# 81068 : 一番罪が軽いとは言え、地獄送りの要件 = même avec le péché le plus léger, ils sont bons pour l'enfer
+81068|Si je me souviens bien, selon la doctrine chrétienne,‖même si leur péché est le plus léger qui soit, les âmes non baptisées remplissent quand même les conditions pour aller en enfer.
+# 81278 : まだ途中 = pas terminée (pas « à la moitié »)
+81278|"Si on interprète la lettre de cette façon,‖...ces meurtres ne sont que Beatrice qui perçoit légitimement ses intérêts.‖...Si c'est le cas, ces crimes vont continuer.‖...Parce que la perception des intérêts n'est pas encore terminée."
+# 81409 : さておき = « peu importe qui » ; « sans parler de » = contresens
+81409|"Mais oui.‖Vu comme ça, même la lettre d'hier prend tout son sens.‖Ce mobile colle plutôt bien avec les faits... !‖Peu importe qui a donné la lettre à Maria-chan."
+# 81556 : そんな…まさか = « non… ce n'est pas possible », le français calquait un anglais bancal
+81556|"......Non...‖......Ce n'est pas possible... !"
+# 81562 : Eva dit お父様 (Père) ; c'est Kinzo qu'on menace, pas « nous »
+81562|"*gloussement*gloussement*‖Voilà qui est intéressant.‖...Donc Père serait séquestré quelque part,‖et on le menacerait de continuer à tuer les uns après les autres s'il ne dit pas où est l'or ?"

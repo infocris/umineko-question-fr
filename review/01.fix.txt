@@ -1,0 +1,126 @@
+# 49914 : « le raccourcir » sans antécédent ; le japonais : combien faut-il annoncer pour que vous renonciez
+49914|"Voyons voir...‖  Combien de temps faudrait-il vous annoncer pour que vous consentiez à mettre la bouteille de côté ?"
+
+# 49922 : グラスを煽る = vider son verre d'un trait (malgré l'avis du médecin), pas « faire tourner »
+49922|Puis, regardant Kinzo vider malgré tout son verre d'un trait, il prit la parole.
+
+# 49937 : le japonais dit que l'attaque n'ira pas jusqu'à acculer le roi (prédiction de mort), pas « presque mat »
+49937|"......Prenons l'exemple de la partie d'échecs que voici.‖  Votre offensive est redoutable, ...mais elle n'ira pas jusqu'à acculer mon roi."
+
+# 49987 : « Comme son nom l'indique » n'a pas de sens en français (jeu sur will) ; 遺言は意思を残すこと
+49987|"Non, pas du tout.‖  ......Un testament, c'est un moyen de laisser derrière soi ses dernières volontés.‖  C'est bien plus qu'un simple moyen de partager votre héritage."
+
+# 50017 : あとは野となれ山となれ = « Après moi, le déluge » (proverbe équivalent)
+50017|"Après moi, le déluge !‖  Je ne veux ni tombe, ni cercueil !!‖  Telles étaient les conditions du contrat que j'ai passé avec la sorcière !‖  À ma mort, tout sera perdu !‖  Cela fait partie de la promesse depuis le début, et c'est pourquoi rien ne restera.‖  Il n'y a rien que je puisse laisser derrière moi !!"
+
+# 50054 : 駄目だ = refus de la proposition de Nanjo, pas « c'est inutile »
+50054|"Non, non et non !!
+
+# 50252 : こりゃまだマシ = « ça passe encore » ; l'anglais invente une remarque sur la prononciation
+50252|Vous arrivez à le lire ?‖  La première partie, c'est mon nom de famille, `Ushiromiya'.‖  Jusque-là, ça passe encore.
+
+# 50317 : 焼け野原 = les ruines calcinées de l'après-guerre, point de départ de Hideyoshi ; l'anglais l'efface
+50317|  Moi, j'aurais jamais imaginé devenir le président d'entreprise que je suis aujourd'hui, maître de mon propre domaine...‖  Eh ouais, tout a commencé sans le sou, au milieu des ruines calcinées... !"
+
+# 50387 : bégaiement « T-T- » ne correspond pas à « Vous plaisantez »
+50387|  V-V-
+
+# 50513 : 俺もさすがにこの歳だ = « j'ai passé l'âge » ; « C'est compréhensible » ne veut rien dire ici
+50513|Faut dire que j'ai passé l'âge.
+
+# 50529 : 近所のお姉さん = une grande voisine, rapport réciproque ; l'anglais en fait une décision unilatérale
+50529|Plutôt qu'en famille, on se traite assez franchement, un peu comme une grande voisine du quartier.
+
+# 50555 : 何だよ親父 = « Quoi ? » agacé, pas « quoi de neuf »
+50555|"Quoi, qu'est-ce qu'y a, P'pa ?
+
+# 50639 : お父様 + excuses formelles : Rudolf exige un registre cérémonieux (d'où la réplique sur le club)
+50639|  Maintenant, dis `Père, veuillez me pardonner mon insolence'."
+
+# 50645 : 会員制のお店 = club privé (sous-entendu graveleux), « boîte réservée aux membres » le rate
+50645|"Plutôt crever !  Ce genre de trucs, va les faire dans un club privé !‖  Gyaah, lâche-moiiii !!"
+
+# 50742 : Rudolf parle à Hideyoshi en keigo ironique (ありがとうございます／申し訳ないです) → vouvoiement
+50742|  Hideyoshi nii-san, je tiens à vous remercier chaleureusement de l'avoir récupérée.‖  Si vous n'aviez pas été si généreux, elle serait encore en rayon, invendue.‖  Toute ma gratitude, et toutes mes excuses."
+
+# 50784 : 足癖の悪い = qui a le pied leste (qui donne des coups de pied), pas « marcher comme une bête de foire »
+50784|"...Pff, quelle plaie.‖  Toutes mes excuses pour cette sœur qui a le pied aussi leste."
+
+# 50810 : 性悪姉貴 = sœur mauvaise ; « sinistre sœur » calque une allitération anglaise
+50810|"Hé, aie un peu pitié du nouveau, et de toutes les souffrances qu'il devrait endurer.‖  Je suis surpris que George-kun ait aussi bien tourné, né de cette vipère de sœur.
+
+# 50815 : ボンクラ = bon à rien, pas « tête de mule » (têtu)
+50815|  Et quel gamin génial c'est.‖  Un jour, partage un peu de tout ça avec notre bon à rien de fils, tu veux bien ?"
+
+# 50866 : Kyrie parle poliment à Hideyoshi (ございます) → vouvoiement
+50866|"Merci beaucoup, Hideyoshi nii-san.‖  Je vous suis toujours redevable..."
+
+# 51009 : それらのいくつかがすでにある = tu as déjà certaines de ces qualités ; l'anglais exagère (« largement dépassé »)
+51009|"Comme moi ?‖  Oh, j'ai encore beaucoup de chemin à faire.‖  J'ai encore très peu d'expérience du monde réel, et je dois travailler à devenir plus sûr de moi et plus sociable.‖  ...Je crois que tu as déjà certaines de ces qualités, Battler-kun.‖  Je suis sûr que tu me surpasseras bien assez vite quand tu seras adulte."
+
+# 51017 : 帝王学 = formation de dirigeant ; « empereur des affaires » est un calque
+51017|Aniki est entré à l'université et, en même temps, est devenu apprenti dans l'entreprise d'Oncle Hideyoshi, menant de front ses études et sa formation de futur dirigeant.
+
+# 51053 : 威勢だけは一人前 = « pour les grands discours, je suis déjà un homme » (autodérision)
+51053|.........Enfin, pour ce qui est des grands mots, je suis déjà un homme.
+
+# 51184 : Rosa s'adresse aux adultes : « elle grandit quand même petit à petit, vous savez »
+51184|"Euh, ...tu mesurais combien la dernière fois qu'on t'a mesurée... ?‖  Elle grandit quand même petit à petit, vous savez.‖  Pas vrai ?"
+
+# 51435 : 初対面のデカい兄ちゃん = un grand type qu'elle rencontre pour la première fois ; « nouvel ami » affadit
+51435|Pour elle, je ne suis sûrement encore qu'un grand type qu'elle voit pour la première fois, mais on a tout le temps de refaire connaissance tranquillement.
+
+# 51482 : 祖父さまの趣味なんだろうか = simple supposition (« un goût de Grand-père ») ; « obsédé » est ajouté par l'anglais
+51482|C'est sans doute un caprice de Grand-père.
+
+# 51676 : ボンクラ = bon à rien (cohérence avec 50815)
+51676|"Aïe !  Kyrie !‖  Me pousse pas !‖  C'est ce bon à rien qui bouge pas !"
+
+# 51971 : ひでぇ言葉遣い = langage grossier, pas « façon de parler dingue »
+51971|...Dans mes souvenirs, elle ne ressemblait vraiment pas à ça, mais je me souviens bien de son <i>langage de charretier</i>.
+
+# 52139 : これはこれは = « eh bien, eh bien », exclamation ravie ; « Mais qu'est-ce que... » sonne inquiet
+52139|"Eh bien, eh bien... ooooh !‖  Battler-san, comme vous avez grandi... !"
+
+# 52217 : jeu de mots perdu — お迎え待ちの老いぼれ = vieille qui attend qu'on vienne la chercher (la mort) et vient « chercher » les invités
+52217|"Ho ho ho, Eva-sama, toujours aussi sévère.‖  J'avais quelques achats urgents à faire, et tant que j'y étais, je me suis dit que je viendrais tous vous accueillir.‖  Quoique, être accueilli par une vieille qui attend elle-même qu'on vienne la chercher pour le grand voyage, ce n'est guère de bon augure.‖  Ho ho ho... !"
+
+# 52348 : 呆れるくらいそっくり = « à un point désespérant » ; « étonnamment » perd l'ironie de Kyrie
+52348|"Qu'est-ce que tu racontes ?‖  Toi et Père, vous vous ressemblez à un point désespérant."
+
+# 52434 : プロペラ…４基 = quatre hélices, pas des hélices « à quatre pales »
+52434|"En tout cas, c'est la fierté du capitaine, une sorte de bateau rapide modifié.‖  Apparemment, il l'a pas mal gonflé.‖  Il se vantait d'avoir monté quatre hélices haute performance pour dépasser les 40 nœuds, un truc dans le genre.‖  Il en parle tout le temps, alors j'ai un peu appris son discours par cœur."
+
+# 52458 : ……まさか = appréhension (« quand même pas... ») ; l'anglais retourne le sens en « je me fais des idées »
+52458|...mais allez savoir pourquoi, j'ai eu un mauvais pressentiment...‖  ......Non, quand même pas.
+
+# 52703 : 絶賛放任中 = chez moi, c'est le laisser-faire total ; l'anglais en fait « je dois me débrouiller seul »
+52703|"Ha, je le savais.  T'es vraiment génial, Aniki...‖  Chez moi, en tout cas, c'est le laisser-faire total.‖  Personne me dit quoi faire !‖  Remarque, c'est pas comme si j'écoutais si on me le disait, hihihi !"
+
+# 52915 : 妬まれるのもお門違い = nous jalouser, c'est se tromper de cible ; l'anglais dit autre chose
+52915|Alors nous jalouser pour ça, c'est se tromper de cible.
+
+# 53015 : この夏 = cet été (le torii était là l'an dernier selon George) ; « l'été dernier » crée une incohérence
+53015|"Bon, c'est aussi ma théorie.‖  C'est cet été qu'il a disparu.‖  Mais on raconte-"
+
+# 53057 : 険しい表情 = expression grave, tendue ; « regard perçant » est un glissement de l'anglais
+53057|George-aniki a posé une main sur l'épaule de Maria pour la rassurer, mais l'expression grave de Maria ne s'est pas adoucie.
+
+# 53294 : Jessica parle à Hideyoshi (もっと言ってやってください, poli) → vouvoiement
+53294|"Ah ha ha, allez-y, ne vous arrêtez pas en si bon chemin.‖  Sérieux, grâce à Battler, ça prend une éternité !"
+
+# 53602 : Kyrie s'adresse à Gohda (お勤めじゃなかったですよね), qui répond « En effet » → vous
+53602|"Battler-kun, c'est la première fois que tu rencontres Gohda-san, non ?‖  Si je ne me trompe pas, vous ne travailliez pas encore ici il y a six ans, n'est-ce pas ?"
+
+# 53947 : Maria déforme 皮につくね (ワワに靴練り) ; « Pot-au-feu de poupées » ne ressemble plus à « Peau 'n boulettes »
+53947|"Pot 'n poulettes !‖  Foie 'n oignooons !!‖  Uu-uu-uu- !‖  Ahaha, ahaha !‖  Hahahaha !"
+
+# 54483 : 大丈夫よ楼座さん, registre familier → tu (cohérent avec 51109 où Kyrie tutoie Rosa)
+54483|"Ne t'inquiète pas, Rosa-san.‖  Quand une rose vous cause trop de soucis, mieux vaut toujours la couper à la racine."
+
+# 54581 : まさかな = « quand même pas » ; Maria imite Battler et fait rire George aux éclats (大層笑わせていた)
+54581|...Je me suis dit `quand même pas', mais en me retournant, j'ai vu Maria imiter chacun de mes gestes, ce qui faisait bien rire George-aniki.
+
+# 54646 : 仲間はずれ = sentiment d'exclusion (thème de Maria) ; l'anglais réduit à « lonely »
+54646|...Elle devait sûrement y voir une exclue, mise à l'écart des autres.
+

@@ -1,0 +1,170 @@
+# 85741 : うみねこ → « mouettes », comme ailleurs dans la traduction (89594, 89620 et majorité des lots)
+85741|Mais, ...sans trop savoir pourquoi, Battler ressentit une légère inquiétude, ...comme si les mouettes ne devaient plus jamais crier.
+# 85746 : idem mouettes ; はずなのに = « devraient… et pourtant », nuance d'inquiétude perdue
+85746|Quand le typhon sera passé, les mouettes joyeuses devraient pourtant revenir au port...
+# 85791 : 個性差だろう = simple variation d'un exemplaire à l'autre (Battler écarte la différence) ; l'anglais la constate seulement
+85791|Ce n'étaient sans doute que de petites variations d'un exemplaire à l'autre.
+# 85886 : STYLE : Natsuhi tutoie les enfants (cf. 88933 « ouvre » dans ce même lot)
+85886|"Battler-kun, ...regarde les pieds."
+# 86119 : tutoiement Natsuhi → Battler ; 戻りましょう = retournons auprès des autres
+86119|"Maria-chan, il ne faut plus fixer cela ainsi.‖Allons, toi aussi, Battler-kun.‖Je m'inquiète de l'état de Kanon, et nous ne devons pas rester dans un endroit pareil plus que nécessaire.‖Retournons auprès des autres."
+# 85964 : contresens de l'anglais : まんざらじゃない = « si Grand-père trouvait que ce n'était pas si mal d'être chef », pas « s'il n'avait pas détesté »
+85964|Si Grand-père trouvait que le rôle de chef de famille n'était pas si mal, alors ce sixième orteil était peut-être bien un doigt porte-bonheur.
+# 85966 : 神さまの使い = messagers des dieux, pas des dieux
+85966|...Maintenant que j'y pense, j'ai entendu parler d'un pays où l'on croit que les polydactyles sont des messagers des dieux, et où on les vénère...
+# 85973 : l'anglais omet ちゃんとした証 (une vraie preuve impossible à effacer)
+85973|...Mais j'imagine que dans le cas de Grand-père, il y avait une vraie preuve qu'un petit passage au gril ne suffisait pas à effacer...
+# 86015 : さぞやご無念でしょう = Natsuhi s'adresse à son beau-père : « comme vous devez être amer »
+86015|...quelle amertume vous devez ressentir..."
+# 86100 : 隠れ潜んでいて犯行に及んでいる = se cache et continue de tuer, pas « après avoir commis le crime »
+86100|Est-ce que le coupable aurait préparé un faux cadavre à l'avance pour simuler sa propre mort, ...et se cacherait maintenant quelque part pour continuer ses crimes... ?
+# 86164 : Maria parle d'elle à la 3e personne (真里亞は) ; l'anglais neutralise
+86164|"...Beatrice a fait une promesse.‖...Elle a dit qu'elle emmènerait Maria à la Terre dorée.
+# 86172 : 真里亞は楽しみ — 3e personne
+86172|"......Maria a hâte.‖Ce moment va arriver, très bientôt.‖...Kihihihihihihihihihihihihihihihihihi..."
+# 86313 : 看取った = être présente à sa mort, pas « s'occuper de lui »
+86313|...Elle avait peut-être veillé Kanon-kun jusqu'à son dernier souffle.
+# 86335 : 一緒だったら = « si elle avait été avec lui » ; le « if only » anglais ajoute un reproche
+86335|"Comment vous pouvez dire ça ?!‖Kanon-kun a repéré le coupable et il l'a affronté avec courage !!‖Si Kumasawa-san avait été avec lui, le coupable aurait peut-être hésité et choisi de s'enfuir !!"
+# 86339 : l'anglais omet 普段、細かい気遣いのできる (Jessica d'ordinaire si attentionnée)
+86339|Des paroles chargées d'émotion ont jailli de la bouche de Jessica, d'ordinaire si attentionnée ; jamais je n'aurais cru les entendre de sa part.
+# 86400 : 話しやがれぇええぇ — cri étiré perdu en français
+86400|  Qu'est-ce que tu sais, et qu'est-ce que tu caches ?!!‖Parle, bon sang de bon saaaaang !!!"
+# 86508 : 真里亞は何度も言う / 真里亞はそこに行く — 3e personne
+86508|"......Mais Maria va continuer à le dire.‖Parce que c'est vrai.‖...Beatrice `existe' !‖Kihihihihihihihihihihihihihihi... !‖La porte de la Terre dorée va bientôt s'ouvrir.‖Maria ira là-bas.‖Beatrice l'a promis !"
+# 86512 : 真里亞は早くそこへ行きたい — 3e personne ; 安心して = « rassurez-vous » (ironie), pas « calmez-vous »
+86512|"Dans ce monde-là, Maman est gentille, Papa est avec nous et il est gentil aussi.‖Maria veut y aller tout de suite.‖...Tout le monde a peur de Beatrice.‖Mais c'est normal.‖...Alors rassurez-vous.‖...C'est Beatrice elle-même qui l'a dit.
+# 86570 : Natsuhi se désigne comme 伯母さん (« ta tante ») ; pas de « même moi »
+86570|"......Maria-chan, ‖...tu dois comprendre qu'il y a des moments où il vaut mieux éviter les propos inconsidérés.‖Si tu continues à jeter de l'huile sur le feu, ta tante va se fâcher pour de bon."
+# 86581 : 肩をすくめ = rentrer la tête dans les épaules (se recroqueviller), pas hausser les épaules
+86581|...Maria avait l'habitude des réprimandes bruyantes de Tante Rosa, mais elle n'était apparemment pas immunisée contre le genre de réprimande silencieuse de Tante Natsuhi.‖...Elle a rentré la tête dans les épaules et s'est tue.
+# 86640 : 今からそれを考えた方が賢明 = y réfléchir dès maintenant (où se barricader)
+86640|"......Je suis d'accord...‖Tout le monde est déjà à la limite de ses forces, physiques et mentales, moi y compris.‖Il serait sage d'y réfléchir dès maintenant..."
+# 86673 : 考えて間違いない = certitude, pas « envisageable » ; shutter → rideau métallique ; 薔薇庭園倉庫 → remise de la roseraie
+86673|"......D'ailleurs, le coupable s'est peut-être rendu dans la salle des domestiques pour ouvrir le rideau métallique de la remise de la roseraie.‖On peut considérer sans risque de se tromper qu'il s'y est déjà procuré un passe-partout."
+# 86703 : 返り討ちにしてやる = « c'est toi qui vas y passer », pas « te battre à ton propre jeu »
+86703|"Donc en gros, ...peu importe où on s'enferme à clé, ça servirait à rien.‖...Très bien, on s'en fiche de fermer à clé !  Si tu veux venir, amène-toi, bon sang !‖C'est toi qui vas y passer !!"
+# 86710 : 一部屋に固まっている僕たち = nous, réunis dans une même pièce
+86710|"...L'ennemi ne nous attaquera pas de front.‖Je ne sais pas pour les six premiers, mais si on regarde ce qui est arrivé à mes parents et à Kanon-kun, ‖...et même à Grand-père, l'ennemi ne s'en est pris qu'à des gens isolés.‖Il n'a pas la force de s'attaquer ouvertement à nous tous, réunis dans une même pièce."
+# 86779 : 入りたくない = je veux pas y entrer (l'anglais exagère)
+86779|"J-Je suis contre !!‖J'ai pas envie d'entrer dans la pièce flippante de Grand-père !"
+# 86799 : 一度…貸した = prêtée tout à l'heure (le soir même), pas « un jour » ; 夏妃伯母さん
+86799|Puis il l'a montrée à côté de sa propre clé, celle qu'il avait prêtée tout à l'heure à Tante Natsuhi.
+# 86803 : 留守は必ず守るよう = veiller sur le bureau en son absence ; お預かり = garder, pas emprunter
+86803|"...Normalement, il aurait été convenable de laisser la clé du Maître pour la police, ‖...mais le Maître m'ayant ordonné de veiller sans faute sur le bureau en son absence, je me suis permis de la garder."
+# 86817 : あの怪しげな臭いの部屋 = la pièce à l'odeur étrange (l'anglais perd l'odeur, reprise plus loin)
+86817|"...Il semblerait.‖...Je n'ai même pas envie d'imaginer être enfermée toute la nuit dans cette pièce à l'odeur étrange, ‖mais il semble que nous devions admettre que sa pièce est plus sûre que n'importe quel autre endroit pour le moment."
+# 86859 : 開けゴマと唱えて — « Sésame, ouvre-toi » omis par l'anglais
+86859|Si c'est vraiment une sorcière, qu'elle nous montre donc comment elle ouvre la porte par magie en disant `Sésame, ouvre-toi', juste devant nous.‖...Mais c'est sans doute impossible.
+# 86886 : ご不浄 = des toilettes (cf. 86982)
+86886|"......Oui.‖Il y a un lit, un canapé et des couvertures ; ce n'est pas luxueux, mais ce sera largement suffisant pour passer la nuit.‖Il y a aussi un lavabo, des toilettes, un réfrigérateur et un bar."
+# 86944 : 連れ出された可能性があり = il est possible que Père en ait été enlevé (l'anglais l'affirme)
+86944|"Merci, docteur Nanjo.‖......Je pense que nous devrions nous installer dans le bureau de Père.‖...Certes, sa sécurité n'est pas absolue, puisqu'il est possible que Père en ait été enlevé.
+# 86949 : Natsuhi dit お父様 ; l'anglais met « Grandfather »
+86949|  ...Cependant, je ne peux pas écarter la possibilité que... ‖comme Battler-kun l'a supposé, Père ait quitté le bureau de son plein gré et ait été attaqué dehors."
+# 86959 : l'anglais omet la description du tour (se cacher sous le lit, sortir une fois le reçu disparu)
+86959|En plus, ce tour-là, se cacher sous le lit pour laisser passer tout le monde puis s'échapper une fois le reçu disparu, Grand-père n'aurait même pas pu l'utiliser s'il ne `savait pas que le reçu était coincé dans la porte'.
+# 86998 : 熱で焼け付いて = surchauffer (moteur), pas « avoir de la fièvre » ; 安っぽい頭 = cerveau de pacotille
+86998|......Mon cerveau de pacotille commence à surchauffer.
+# 87043 : contresens anglais : 相当の勉強が必要 = il faut énormément étudier, pas « étudier ton adversaire »
+87043|"Mais tu ne dois pas y croire aveuglément.‖La théorie des jeux est un sujet très profond et très complexe.‖La réflexion sur l'échiquier, c'est seulement mon interprétation, qui ne fait qu'effleurer la surface de la théorie des jeux.‖...Pour lire à fond dans le jeu de ton adversaire comme tu l'imagines, il faut énormément étudier.‖En plus, la théorie de l'échiquier a beau être pratique et commode, elle n'est pas parfaite.‖Elle a beaucoup de points faibles, malgré son côté pratique."
+# 87089 : 誤解、認識ミス = malentendus, erreurs de perception (thème central de la série)
+87089|  ...Dès l'instant où on essaie d'utiliser une théorie fondée sur les maths pour prédire les actes de quelqu'un, ‖il faut avoir conscience que cette théorie comporte des faiblesses et des limites intrinsèques.‖...En clair, la réflexion sur l'échiquier est extrêmement vulnérable au bruit et aux caprices, ainsi qu'aux malentendus et aux erreurs de perception."
+# 87182 : ねぎらいたい = réconforter ; 殺伐とした一日 = journée de carnage (« barbare » sonne faux)
+87182|Tous les efforts de Kumasawa-san pour nous réconforter avec un petit dîner, en cette journée de carnage, n'avaient malheureusement servi à rien...
+# 87262 : 魔除け = protection contre le mal (pas contre « la magie » : Maria parle des êtres maléfiques)
+87262|"......Le cinquième cercle magique de Mars est une puissante protection contre le mal.‖En plus, ce cercle magique a été construit avec beaucoup de soin, et il est plein de pouvoir.‖......Un cercle magique pareil, ça peut être très gênant pour les êtres magiques comme Beatrice."
+# 87311 : 魔除け, même correction
+87311|"O-Ouais, euh...‖Le porte-bonheur que je t'ai donné hier, c'est Maria qui me l'avait donné.‖On m'a dit qu'il protégeait du mal si on l'accrochait à la poignée de sa porte, ...et sur le moment, je me suis dit que ce serait peut-être mieux que tu l'aies..."
+# 87353 : 血の付いた指で掻き毟った = griffé avec des doigts ensanglantés (cf. 87370 « griffée »)
+87353|Natsuhi repensa à l'inquiétant gribouillage qu'elle avait vu le matin même à l'extérieur de sa porte, comme griffé par des doigts ensanglantés, ...et elle eut un hoquet de surprise.
+# 87369 : 魔除けのお守り
+87369|Mais le porte-bonheur contre le mal était accroché à l'intérieur.
+# 87413 : 固めきった = aménagé entièrement selon ses goûts, pas « fortifié »
+87413|Ce n'était qu'un passionné d'occultisme qui l'avait aménagé de fond en comble selon ses goûts.
+# 87421 : 閉口する = ne pas supporter, pas « rester abasourdi » ; 薬物 = produits
+87421|Malgré tout, l'odeur de ses produits louches et la puanteur sucrée qui semblait me faire fondre le cerveau étaient franchement insupportables...
+# 87441 : shutter → rideau métallique (STYLE)
+87441|......Le rideau métallique, le reçu, la chaîne.‖...Et maintenant, le verrou automatique.
+# 87797 : よく疑ってた = elle le soupçonnait souvent (pas « presque sûre »)
+87797|"Peut-être...‖Quand Grand-mère était vivante, il paraît qu'elle le soupçonnait souvent.‖Elle pensait qu'il la trompait.
+# 87873 : このような狂気に駆り立てるほどに = au point d'en être poussé à une telle folie ; l'anglais inverse
+87873|  ...Le Maître aimait Beatrice-sama du fond du cœur.‖...Au point d'en être poussé à une telle folie."
+# 87893 : 諦めきれぬ悲しみ = le chagrin de ne pas pouvoir y renoncer
+87893|La seule chose qui occupait l'esprit de Grand-père, c'était la perte d'une femme bien-aimée... ‖...et le chagrin de ne pas pouvoir y renoncer.
+# 88015 : contresens anglais : 無言を貫いた = Genji garde le silence jusqu'au bout (cf. 88039 « l'emporterait dans la tombe »)
+88015|...Genji-san a gardé le silence jusqu'au bout.
+# 88018 : …からだろう = parce qu'avouer serait une trahison ; il n'avoue rien
+88018|......Sans doute parce qu'avouer cela aurait été la pire des trahisons envers son seul et unique Maître, même si celui-ci était déjà mort.
+# 88118 : 信じたぜ = « j'y aurais cru » (hypothétique, pour Grand-père) ; l'anglais en fait une adhésion présente
+88118|"...Si seulement Grand-père était là, ‖je suis sûr qu'il serait heureux.‖Je suis sûr qu'il sauterait de joie maintenant que Beatrice est sur le point de revenir à la vie...‖...Dans ce cas, j'y aurais cru.‖...Si ça avait permis à Grand-père de finir ses jours en croyant que les recherches auxquelles il avait consacré la moitié de sa vie avaient ramené l'âme de la femme qu'il aimait, ...alors moi aussi, j'y aurais cru."
+# 88160 : 女の私から聞けば = en tant que femme ; 立つ瀬がない = ce serait faire peu de cas de Mère
+88160|"......En tant que femme, j'aimerais comprendre un peu les sentiments d'amour sincère de Père, ‖...mais ce serait faire bien peu de cas de Mère."
+# 88241 : 繰り返してた — passé (Kinzo est mort) ; l'anglais met un présent
+88241|"Pendant un moment, certains disaient même qu'il collectionnait des sacrifices humains pour sa magie noire...‖Et il faisait vraiment tout le temps des expériences et des cérémonies bizarres dans cette pièce, alors moi-même, j'y croyais à moitié..."
+# 88372 : shutter → rideau métallique (STYLE)
+88372|"Ah, ...aaahh, aucun doute.‖Six personnes sont mortes au début !‖Et même sur le rideau métallique où était dessiné le cercle magique...non, là où était écrit l'hébreu, ça parlait d'offrir des sacrifices... !!"
+# 88459 : ツキがなくてうんざり = en avoir marre de la malchance, pas « s'ennuyer » ; on/vous mélangés
+88459|Quand on n'a plus de chance et qu'on en a ras le bol, si on lance les dés et qu'on tombe sur trois six, on a envie d'y voir le présage d'un miracle.
+# 88462 : せいぜい二分の一 = ce n'est jamais qu'une chance sur deux (« au pire » est un contresens)
+88462|...Pour une sandale, ce n'est jamais qu'une chance sur deux.
+# 88466 : 奇跡だと思うに違いない = on y verra forcément un miracle (l'anglais affaiblit)
+88466|...Mais si on lance trois dés sans y penser et qu'ils tombent tous sur six, on se dira forcément que c'est un miracle.
+# 88472 : l'anglais omet 奇跡の出目が現れた時 (c'est quand le résultat miraculeux sort que la prière se matérialise)
+88472|"......La magie fonctionne de la même façon.‖...Il faut prier de tout son cœur pour un résultat extrêmement improbable.‖...Et quand ce résultat miraculeux finit par sortir, la ferveur de toutes ces prières accumulées acquiert un pouvoir magique et prend forme.
+# 88496 : accord : le porte-bonheur → « accroché »
+88496|......Si je n'avais pas reçu ce porte-bonheur de Jessica et que je ne l'avais pas accroché à ma poignée de porte, ‖...aurais-je été tuée, avec ces six-là ?!
+# 88551 : épitaphe de référence (STYLE) : « perce la tête et tue », comme 88548
+88551|Perce la tête et tue.
+# 88553 : « George-aniki » (STYLE : Aniki sans article, forme majoritaire)
+88553|...Les parents de George-aniki ont été tués avec ces `pics à glace du démon' plantés dans la tête.
+# 88618 : いいや = non ; « Ouais » dit le contraire
+88618|"Hmm, pas si sûr...‖......Après la mort de ces trois-là, on arrive au neuvième crépuscule.‖Regardez..."
+# 89002 : ベアトリーチェは真里亞たちじゃない — Maria à la 3e personne
+89002|"......Uu-.‖Beatrice, c'est pas Maria et les autres.‖...Beatrice `existe' !"
+# 89016 : 19e (STYLE)
+89016|"......C-C'est vrai.‖Il ne peut pas y avoir de 19e personne... !‖Les sorcières, ça n'existe pas !!‖Même quand Kanon-kun a été tué,
+# 89058 : 彼ら４人だけが = eux quatre seulement (le groupe, pas « l'un d'eux »)
+89058|Eux quatre seulement ont pu poser la lettre là, dans notre angle mort... !!
+# 89076 : 古いしがらみを知っていて隠している = une vieille histoire qu'il cacherait ; « dette envers lui » est inventé
+89076|  Vous êtes à ses côtés depuis de nombreuses années, et vous savez peut-être même quelque chose sur Beatrice.‖Ne nous cacheriez-vous pas quelque vieille histoire dont vous auriez connaissance ?!"
+# 89111 : Natsuhi dit お父様 (l'anglais « Grandfather ») ; 実行者 = exécutant
+89111|"......Genji, ‖tu étais le bras droit de Père.‖...Beatrice était-elle une illusion que tu lui faisais voir, et dont tu étais toi-même l'exécutant ?!"
+# 89122 : 私が鵜呑みにできると思いますか — Natsuhi parle d'elle, registre soutenu
+89122|"Crois-tu que je puisse avaler cela ?!!‖C'est forcément toi, le meneur !‖Kumasawa et le docteur Nanjo sont peut-être tes complices !!
+# 89144 : もう一度 = une fois encore, pas « pour la dernière fois »
+89144|"Maria-chan, ‖...à ce stade, on ne peut plus écarter quelqu'un des soupçons simplement parce qu'il est jeune.‖Alors, laisse-moi te poser une fois encore la question que tout le monde se pose depuis hier soir !
+# 89190 : 真里亞にはわかんない — 3e personne, langage enfantin
+89190|"...Maria comprend pas.‖...Vous voulez que le coupable soit qui ?‖Vous croyez en Beatrice seulement quand vous ne voulez pas soupçonner l'un des vôtres.‖Et quand vous cherchez à régler vos comptes parce que quelqu'un de proche a été tué, là seulement vous voulez croire en un Humain que vous pouvez frapper, et vous niez Beatrice."
+# 89209 : 真里亞を撃つ？ — 3e personne
+89209|"...Kihihihihihihihi.‖...Alors qu'allez-vous faire ?‖Tirer sur Maria ?‖Ça m'est égal.‖Très bientôt, la porte de la Terre dorée va s'ouvrir.‖Alors tous les morts ressusciteront.‖...En ce moment, la mort n'a rien d'effrayant.‖...Kihihihihihihihihihihihihihihihihihihihihihi !"
+# 89241 : « George-aniki »
+89241|"J-Je suis d'accord avec George-aniki...‖Tante Natsuhi, ‖reprenez-vous une seconde...‖En tout cas, ce serait mal de tirer, ihihi... !‖Dans ces moments-là, il paraît qu'il faut renverser la tête en arrière et dire trois fois `Reste cool'..."
+# 89257 : temps de la narration de Battler (passé composé)
+89257|Ces mots...ont été les ultimes paroles d'adieu...qui ont tout tranché.
+# 89262 : « George-aniki »
+89262|...La seule raison pour laquelle George-aniki et moi étions de ce côté-ci, c'est que, par pure coïncidence, on avait un alibi solide concernant la lettre.
+# 89340 : もっともだ = c'est tout à fait légitime (pas « on voyait bien »)
+89340|Ce que Kumasawa-san voulait dire était tout à fait légitime.
+# 89352 : もっとも疑わしい容疑者のひとり = l'une des plus suspectes (l'anglais : « by far the most ») ; 19e
+89352|...À moins de prouver l'existence d'un mécanisme quelconque...ou d'une 19e personne, Kumasawa-san était l'une des suspectes les plus probables.
+# 89363 : なおも愚図る = qui rechignait toujours ; « pour couronner le tout » est un contresens
+89363|Comme Kumasawa-san rechignait toujours, Maria s'est adressée à elle.
+# 89374 : 真里亞は客間でテレビを見る — 3e personne
+89374|  ...Alors tout ira bien, c'est sûr.‖...Maria va regarder la télé au salon.‖On la regardera ensemble.‖...C'est trop ennuyeux ici, sans télé.‖......Kihihihihihihihihihihihihihihihihihihi."
+# 89398 : 全員に…必ず謝罪します = Natsuhi promet de s'excuser auprès de tous ; l'anglais en fait « nous nous excuserons tous »
+89398|"...Oui.‖Je vous en prie, comprenez-moi, au moins pour cette nuit.‖Quand la police sera là, je vous présenterai à tous, sans faute, mes excuses pour la grossièreté de ce soir.
+# 89428 : 真里亞は許す — 3e personne ; Maria vouvoie Natsuhi
+89428|"Uu-.‖Maria vous pardonne.‖Uu- !"
+# 89514 : 魔除け = protège du mal
+89514|"......Ça protège du mal, hein ?‖...Porte-le."
+# 89591 : のだろうか = question (le doute est réfuté en 89598) ; l'anglais en fait une affirmation
+89591|Maintenant qu'on avait chassé tous les suspects, est-ce qu'il suffirait de rester barricadés ici jusqu'au matin pour que tout soit fini ?
+# 89653 : 膝を寄せ合えた = serrés les uns contre les autres ; 19e
+89653|...Si on avait accepté l'existence d'une 19e personne, de la sorcière, ‖...alors on serait peut-être encore tous serrés les uns contre les autres dans cette pièce, à se faire confiance.
+# 89676 : « George-aniki »
+89676|George-aniki regardait par un interstice des rideaux tirés de la fenêtre, ‖les yeux baissés sur la cour et le manoir qui l'entourait.
+# 89716 : 蔵書を漁っていた = fouiller les livres de Grand-père
+89716|Je fouillais dans les livres de Grand-père, ...en me disant que j'allais chercher la signification du cercle magique sur la deuxième feuille de la lettre.
+# 89728 : …と思ったに違いない = c'est ce que les autres devaient penser (omis par l'anglais)
+89728|...Ils devaient se dire que c'était incompréhensible et que, même une fois compris, ça ne contiendrait qu'un message qui les mettrait encore plus mal à l'aise.

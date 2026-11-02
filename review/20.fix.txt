@@ -1,0 +1,188 @@
+# 138724 : 第八の晩までを全て終えました = la cérémonie a été menée jusqu'au 8e crépuscule (elle n'est pas « achevée » : le 9e reste à venir)
+138724|"......La cérémonie de Beatrice a été menée à son terme jusqu'au huitième crépuscule.
+# 138959 : 目が眩みそうになった = j'ai failli être aveuglé (EN « slightly disoriented »)
+138959|À cet instant, ...j'ai failli être aveuglé par un éblouissant éclat doré......
+# 138963 : 何と = « chose incroyable » (exclamation), pas un adverbe « incroyablement »
+138963|C'était......chose incroyable...
+# 139109 : しばらく待て = « patiente un peu » ; contresens EN « I've been waiting »
+139109|  Patiente un peu.
+# 139119 : 妾ならもう数手は切り返せる = à ta place je pourrais encore riposter plusieurs coups (Kinzo n'a pas à abandonner)
+139119|  À ta place, je pourrais encore riposter pendant quelques coups.
+# 139308 : 良い良い (Beatrice) = « Bien, bien »
+139308|"Bien, bien, je répondrai à toutes tes questions.
+# 139354 : 魔女さま ironique ; 不思議でステキな大魔法 = grande magie mystérieuse et merveilleuse
+139354|  ...Essaie de me convaincre que t'es sans aucun doute Madame la sorcière, capable d'utiliser une grande magie mystérieuse et merveilleuse !!"
+# 139485 : 踵を鳴らしながら = en faisant claquer ses talons
+139485|Après une légère grimace, elle s'approcha de la table où les cadavres de ses frères et sœur gisaient toujours exposés, en faisant claquer ses talons...et tendit le bras vers un lingot d'or.
+# 139593 : それで良かったのだ = « c'était la bonne voie » (EN « Isn't that splendid »)
+139593|"......C'est cela.‖  C'était la bonne voie !‖  Peu m'importe, je sacrifie cette tour !‖  Toi, femme, tu es un roi qu'on ne peut atteindre sans être résolu à perdre tout ce que l'on possède.‖  Je vais te mettre aux abois, Beatriiiiice.‖  Hihahahahahahahahahaha !"
+# 139638 : 御歴々の魔女たち = les illustres sorcières
+139638|"Je te présenterai comme mon nouveau meuble...non, comme mon jouet.‖  Aux illustres sorcières ici rassemblées."
+# 139656 : 御召替えのドレス = robe pour se changer (pas « de soie »)
+139656|"...Beatrice-sama, votre robe pour vous changer."
+# 139765 : 上着の肩だけを外す = elle dégage seulement les épaules de sa veste
+139765|La sorcière se leva et dégagea seulement ses épaules de sa veste.
+# 139766 : すとんと後ろに落ちる = la veste glisse d'un coup derrière elle
+139766|...Aussitôt, la veste glissa et tomba d'un coup derrière elle.
+# 139851 : 後者のわけがない = ça ne pouvait absolument pas être… ; 本気で考えてしまう = j'en venais à me demander sérieusement
+139851|...Ça ne pouvait pas être la seconde option, et pourtant, dans ce monde bizarre, j'en venais sérieusement à me demander laquelle était la bonne...
+# 139861 : 普段の金蔵から想像もつかぬほど = une déférence inimaginable chez Kinzo (EN déplace le sens)
+139861|Tous semblaient être des hôtes de marque, et Kinzo les saluait avec une déférence qu'on n'aurait jamais imaginée chez lui.
+# 139905 : 口々に = de toutes parts, chacun la sienne (pas « d'une seule voix »)
+139905|Les nobles chèvres lui adressèrent de toutes parts des félicitations dans une langue depuis longtemps oubliée.
+# 139951 : いい趣味ね = « tu as bon goût » (ironique), pas « passe-temps »
+139951|"......Tu as vraiment bon goût."
+# 140026 : 食い千切り明かし = déchiqueter à belles dents toute la nuit
+140026|et nous déchiquetterons à belles dents toute la nuit pour notre plaisir !!‖  Regardez l'horloge, qui marque l'instant où l'heure qui s'achève et l'heure qui commence se fondent l'une dans l'autre, ...allons !!‖  Que commence le banquet de la sorcière !!!"
+# 140040 : 開こうぞ = « ouvrons » (volitif), pas un ordre aux autres
+140040|"Allons, ...l'heure est venue !!‖  Ouvrons la porte dorée...... !!!"
+# 140205 : 銀のアラザン = perles d'argent (EN « golden argent »)
+140205|Le son de ses râles d'agonie s'attardait avec douceur, ‖et nappé de chocolat fondu et décoré de perles d'argent, il ferait un merveilleux dessert !
+# 140300 : だらしない悲鳴 = cri pitoyable (EN « wild »)
+140300|Le meuble poussa un cri pitoyable et recula, toujours assis par terre.
+# 140554 : 大地を蹴り戻して瞬時に逆走 = d'un coup de pied au sol, elle fait aussitôt volte-face (EN confus)
+140554|L'espace d'un instant, Rosa eut honte d'avoir pensé abandonner sa fille et s'enfuir, et d'un coup de pied au sol, elle fit aussitôt volte-face.
+# 140618 : 突き出た腹 = ventre proéminent (EN « chest »)
+140618|et lui enfonça le genou dans son ventre proéminent !!
+# 140697 : un seul géant (巨漢の山羊頭, puis « le géant s'effondra ») ; l'anglais met un pluriel
+140697|Mais les poursuivants approchaient toujours !‖  On voyait une gigantesque tête de chèvre, lasse de se faire passer pour un humain, courir vers elles de l'autre côté des massifs de roses.
+# 140763 : suite — un seul géant
+140763|Les quatre balles atteignirent bel et bien la chèvre gigantesque en pleine poitrine, mais elle ne broncha même pas !!
+# 140769 : suite — un seul géant
+140769|Elle fonçait avec une fureur inouïe, comme si elle comptait écraser Rosa et Maria sous son corps massif !!
+# 140777 : 弾を入れて = recharge (plusieurs balles)
+140777|"Recharge !!‖  Vite !!"
+# 140798 : 異形の巨漢 = ce géant monstrueux (un seul)
+140798|Rosa saisit à deux mains la couverture contenant le lingot, ‖et s'élança elle-même en le traînant derrière elle !!‖  Sans la moindre once de peur face à ce géant monstrueux !!
+# 140910 : 繰り出される掌 = coup de paume qui enfonce le stylo
+140910|Puis, d'un coup de paume, elle frappa le stylo-plume toujours planté dans l'œil de la tête de chèvre pour l'enfoncer.
+# 140946 : 弾が入った = c'est chargé
+140946|"Mama, c'est chargé !!"
+# 140997 : 手放すのか = au présent : « je lâche » (EN met un passé)
+140997|Et pourtant, je lâche la main de ma fille, elle qui est mon avenir même... ?!
+# 141008 : わざわざ曲がりくねらせて距離感を出している = le chemin serpente exprès pour paraître long ; elle coupe tout droit
+141008|Mais Rosa savait.‖  Ce chemin à travers le bosquet ne serpentait que pour paraître plus long.‖  Elle coupa tout droit !
+# 141124 : 何千万円 = plusieurs dizaines de millions
+141124|J'avais l'or, qui aurait valu plusieurs dizaines de millions de yens.
+# 141213 : Maria dit « Mama » (ママと一緒がいい)
+141213|"Oui... !‖  ...Je veux rester avec Mama,
+# 141251 : Maria parle d'elle à la 3e personne ; 世界にママはひとり = il n'y a qu'une Mama au monde
+141251|"Dis, Mama.‖  ...Tu le savais ?‖  Au monde, y a qu'une seule Mama.‖  Y a pas de gentille Mama ou de méchante Mama.‖  ...Y a juste une seule Mama.‖  Alors Maria, tout ce qu'elle veut, c'est sa seule et unique Mama au monde.‖  Et Maria veut être ta seule et unique Maria."
+# 141263 : 真里亞には = « Pour Maria » (3e personne)
+141263|  ...Pour Maria,
+# 141289 : ただあなただけの手を引いていればよかった = il aurait suffi que je ne tienne que ta main (écho au fusil/or)
+141289|...idiote...‖  ......Je n'avais pas besoin d'or.‖  Il aurait suffi que je ne tienne que ta main...‖  ...J'ai été une...
+# 141336 : Maria à la 3e personne (真里亞は全部解いちゃった, 真里亞が出題してあげる)
+141336|  Et après, on jouera ensemble !‖  On jouera avec le `Jeu des loups et des moutons' !!‖  Mama en a résolu qu'une seule, mais Maria, elle les a toutes résolues.‖  Alors c'est Maria qui posera les devinettes !!"
+# 284619 : せっかく妾は魔女なのだから = puisque je suis une sorcière, autant en profiter ; 願いを求める = un vœu
+284619|"Seulement voilà...puisque je suis une sorcière, autant en profiter.‖  Il serait plus avisé, je pense, de demander un vœu que seule une sorcière peut exaucer."
+# 284681 : 満たされぬもの / 埋められぬ隙間 = ce qui ne se comble pas, un vide (pas des « fissures »)
+284681|"...Cependant, le monde des hommes est compliqué.‖  Je sais qu'il est des choses que l'on ne peut combler, même en entassant de l'or jusqu'au ciel.‖  Je sais qu'il est des vides que rien ne peut remplir.‖  Je ne prends pas cela à la légère, et c'est pourquoi voici un présent que seule une sorcière telle que moi peut offrir."
+# 284686 : suite — 隙間 = vide ; なるほど、これはいい = voilà qui est bien
+284686|"...Et si je comblais ce vide en toi ?‖  Oui, voilà qui est bien.  Une chose que moi seule peux t'offrir.‖  Tu devrais t'en réjouir."
+# 284691 : 口にせずとも良い = inutile de le dire (pas « de me remercier »)
+284691|"...Inutile de le formuler.‖  Je le vois tout de suite.‖  Le vide de ton cœur est écrit sur ton visage, *ricane*ricane* !"
+# 284702 : どこまで遡れば = jusqu'où remonter (dans le temps) ; contresens EN « recede »
+284702|"Jusqu'où faut-il remonter pour guérir les profondes blessures de ton cœur ?
+# 284779 : 取って付けたように = comme un prétexte trouvé après coup (pas « de force »)
+284779|J'étais toujours punie d'un coup, et c'est seulement après qu'on m'expliquait, comme un prétexte trouvé après coup, ce que la punition sanctionnait,‖ mais c'était toujours quelque chose dont je ne me souvenais pas.
+# 284890 : 子どもの頃には…理不尽なこともある = dans l'enfance (pas « entre enfants »)
+284890|Dans l'enfance, il y a toujours son lot d'injustices.
+# 284928 : 褒美であると言われても納得はできまい = tu ne saurais t'en satisfaire comme récompense
+284928|"Mais ainsi, tes `souvenirs des blessures infligées par tes aînés' ne subsisteraient pas,‖ et si l'on te disait que c'est là ta récompense, tu ne saurais t'en satisfaire."
+# 284956 : 痛みなくして癒しはない = pas de guérison sans douleur
+284956|Il n'y a donc pas de guérison sans douleur.
+# 284982 : 拍子抜け = décontenancée
+284982|...mais en même temps, elle se sentit un peu décontenancée.
+# 284995 : propos général (生涯…食い続けなくてはならぬ), pas une insulte adressée à Rosa
+284995|"La nourriture est la source de bien des plaisirs humains.‖  Toute sa vie durant, on doit continuer de s'empiffrer comme un porc."
+# 285010 : 周りには山羊頭の使用人たち = des serviteurs (nombre non précisé) ; EN invente « deux »
+285010|Quand la sorcière frappa dans ses mains, ‖des serviteurs à tête de chèvre surgirent soudain autour d'elle et entreprirent de préparer le repas.
+# 285042 : 貴腐ワインにあやかった = inspiré des vins de pourriture noble ; 染めた = teinté
+285042|"C'est un doux apéritif inspiré des vins allemands de pourriture noble.‖  Un cocktail de vin blanc teinté d'une goutte d'or écarlate."
+# 285090 : 何かに掛けられたベール = voile qui recouvrait l'objet
+285090|Quand la sorcière claqua des doigts, le voile rouge vif qui recouvrait un objet volumineux, installé à leur insu, fut retiré.
+# 285102 : 人型棺桶 + バルブ = cercueil de forme humaine muni de vannes (EN « bulb »)
+285102|un grand cercueil de forme humaine, sur lequel on aurait fixé plusieurs grosses vannes,
+# 285157 : バルブ = vannes
+285157|Trois serviteurs à tête de chèvre à la carrure musclée s'approchèrent du pressoir...et se mirent à serrer de toutes leurs forces les grosses vannes.
+# 285238 : 二口目はいらぬか = une deuxième gorgée ? (contresens EN)
+285238|"Tu n'en veux pas une deuxième gorgée ?‖  As-tu oublié ce jour où cet homme t'a frappée, et où tu as avalé le sang qui coulait dans ta bouche ?"
+# 285243 : 悔しき思い出 = souvenir amer, humiliant
+285243|"C'est cela, souviens-toi de ce goût.‖  Souviens-toi du goût des larmes que tu as versées jusqu'à n'en plus avoir.‖  Je suis convaincue que cet apéritif suffira à guérir ce souvenir si amer.‖  *ricane*ricane* !!"
+# 285274 : 単なるアペリティフである以上 = puisque ce n'était QUE l'apéritif (contresens EN)
+285274|...Puisque cette chose effroyable n'était qu'un simple apéritif,‖ Rosa ne pouvait que redouter la suite du banquet.
+# 285285 : 二枚舌 = langue fourchue (mensonge) ; elle voulait arracher la langue d'Eva, pas « mâcher la salade »
+285285|"Voici une salade de langue fourchue aux légumes de saison.‖  ...La salade tant attendue, faite de la langue d'Eva, cette langue que le jour de tes 9 ans tu as souhaité lui arracher un jour d'un coup de dents."
+# 285305 : 姉の二枚舌 = la langue fourchue de ta sœur ; とろける = fondre
+285305|"Quel goût a la langue fourchue de ta sœur ?‖  Elle doit être bien tendre et fondante, n'est-ce pas ?‖  *ricane*ricane* !"
+# 285309 : とろける = fondante
+285309|Elle serait sans doute bien douce, tendre et fondante en bouche.
+# 285315 : 嘘の顛末 = ce qu'il advenait ensuite de ces mensonges
+285315|...Et l'on pouvait dire que l'assaisonnement relevé d'une pointe de poivre traduisait bien ce qu'il advenait ensuite de ces mensonges.
+# 285344 : elle recrache en lambeaux, couverte de salive
+285344|Rosa recrachait en lambeaux, couverts de salive, les morceaux de salade de langue qu'on ne cessait de lui enfoncer dans la bouche.
+# 285392 : 調理した = cuisiné (EN « assembled »)
+285392|  Et réjouis-toi du dessert, *ricane*ricane* !!‖  Il n'y a pas que tes aînés, vois-tu ?‖  J'ai cuisiné à profusion tous ceux en qui tu as eu confiance et qui t'ont pourtant trahie.‖  Et si nous poursuivions ce banquet pour l'éternité, jusqu'à ce que ton cœur soit comblé ?
+# 285521 : 真里亞のこと、邪魔だった = Maria à la 3e personne
+285521|"......Mama...‖  ...Maria...c'était un fardeau pour toi... ?"
+# 285550 : 真里亞、食べられても平気 = 3e personne
+285550|trouves que Maria est un fardeau,‖ ...Maria, ça la dérange pas d'être mangée."
+# 285555 : 3e personne + passé (静かにできなかった, 台無しにした, 恥をかかせた) ; EN met un présent d'habitude
+285555|"......Après tout, Maria, elle t'a toujours fait des choses horribles.‖  Quand tu ramenais un homme, Maria arrivait pas à rester tranquille.‖  Quand tu passais la nuit dehors avec un homme, elle se sentait seule, elle faisait des bêtises et elle mettait la chambre sens dessus dessous.‖  Elle est partie te chercher toute seule, elle s'est perdue, la police a dû s'occuper d'elle et tu as eu honte.‖  Quand tu rentrais pas pendant des jours, elle pleurait, les voisins devaient la consoler et tu avais honte."
+# 285560 : 3e personne (こんな真里亞だから…真里亞はママのために)
+285560|"Parce que Maria est comme ça, elle est un fardeau pour Mama.‖  Pardon d'être née.‖  Alors Maria va devenir de délicieuses pommes au four pour Mama."
+# 285565 : 真里亞がいてよかった / 真里亞を食べて = 3e personne
+285565|"Et comme ça, peut-être que pour la première fois, Mama sera contente d'avoir eu Maria.‖  Peut-être qu'elle mangera Maria et qu'elle la trouvera délicieuse.
+# 285572 : 感涙に咽べ = pleure de gratitude (« étrangle-toi » calque bizarre)
+285572|  N'est-ce pas délicieuuuuuuuuuuuuuuuuux ?‖  Sanglote donc de gratitude, ta fille va jusqu'à te dire ça, pas vraiiiiiiiiiiiiiiiii ?‖  Des pommes au four et ta fille chérie, voilà le meilleur des desserts !‖  Tu as su élever de si délicieux ingrédients,
+# 285846 : そのつもりだったんだがな = c'était bien mon intention (pas « moi aussi »)
+285846|"C'était bien parti pour, ‖...mais à force d'écouter ta recette dégueulasse, j'ai commencé à avoir un petit creux."
+# 285888 : 屈するわけには断じて行かなかった = je n'avais absolument pas le droit de plier
+285888|"Désolé de vous avoir fait attendre, Tante Rosa.‖  J'avais oublié.‖  C'est un duel entre cette femme et moi.‖  J'avais absolument pas le droit de plier.‖  ...C'est grâce à vous qui avez tenu bon que j'ai retrouvé la volonté de me battre !!"
+# 285905 : 気に入った = ça me plaît (EN « how amusing »)
+285905|"Hé, hehahahahahahahahaha, quel panache, ça me plaît !‖  Je n'en attendais pas moins !!
+# 285917 : 上等だぜ = « ça me va », défi relevé (pas « pas de problème »)
+285917|"Ça me va très bien, je vais t'apprendre que moi, Ushiromiya Battler, je suis un homme qui sait se relever même après avoir rampé dans la boue !!
+# 285922 : 何度かは負けてる = plus d'une fois (pas « des tas »)
+285922|  J'ai jamais été invincible à la bagarre.‖  J'ai perdu plus d'une fois.
+# 285976 : 駄目 / 全然駄目 ≠ inutile
+285976|"Aaah, ça va pas, ‖ça va pas du tooooooooooooooooooooooooooooout !!!"
+# 287233 : 逆目に張る / 敗北に厚く張る = parier contre / miser gros sur ma défaite ; 傍観するつもりでいて = sous couvert de spectatrice
+287233|"Comptais-tu le cacher ?‖  Tu es bien effrontée, de venir de si loin sur le territoire d'autrui pour parier contre moi.‖  Tu prétends regarder ma partie en simple spectatrice, mais tu as sans doute misé gros sur ma défaite.‖  J'ai vu juste, n'est-ce pas... ?"
+# 287261 : ただのひとりの観戦者もなく = sans le moindre spectateur
+287261|  Néanmoins, il serait bien dommage que le duel entre moi et la grande Dame Bernkastel‖ se déroule sans le moindre spectateur."
+# 287324 : 馬鹿な子ねぇ = petite idiote (moqueur, pas « sale gamine »)
+287324|"Petite idiote.‖  Tu vois pas que tu m'as battue uniquement grâce à un peu de chance et à une question d'affinité ?‖  Depuis, tu prends la grosse tête, et maintenant tu vas même chercher des noises à Beatrice ?  Tu devrais pas apprendre à rester à ta place ?"
+# 287334 : 人のことを勝手にラムダって略さないで = elle parle d'elle-même
+287334|"Et puis, m'appelle pas `Lambda' comme ça, sans ma permission !"
+# 287427 : 煮え湯を飲まされてる = elle m'en a fait voir (pas « trahie »)
+287427|"Ouais, je compte sur toi, Dame Beatrice !‖  Moi aussi, elle m'en a fait voir de toutes les couleurs.‖  Tant qu'on l'aura pas réduite en miettes toutes les deux pour lui rendre la monnaie de sa pièce au double, je pourrai pas dormir tranquille !!"
+# 287437 : どういう勝敗になろうとも = quelle que soit l'issue (EN « what we fight over »)
+287437|"......Je compte sur toi, Lambda.‖  Et sur toi aussi, Beato.‖ ...Quelle que soit l'issue, ce sera une bataille très importante pour nous toutes."
+# 287615 : いいようにいたぶられている = tourmenté au bon plaisir d'une sorcière (EN « in a manner of speaking ») ; décrit l'interlocuteur
+287615|Enfermé dans le labyrinthe d'un destin cruel, livré au bon plaisir d'une sorcière qui te tourmente.
+# 287663 : 卑劣 = perfide, ignoble (pas seulement « injuste »)
+287663|C'est vrai, la partie de cette enfant est d'une perfidie sans nom.
+# 287666 : 卑劣かつ狡猾 = perfides et retors
+287666|On ne m'a laissée qu'entrevoir l'échiquier,‖ mais ses mécanismes perfides et retors sont si odieux...que j'imagine qu'ils surpassent de loin ceux de l'échiquier de Lambdadelta.
+# 287681 : 困ったことに = malheureusement (contresens EN « when we're in trouble »)
+287681|Malheureusement, pour nous qui essayons de percer le jeu de l'adversaire à partir de ses coups,‖ cela crée un bruit redoutable dans nos informations.
+# 287690 : 貴重な一手を損している = il a gaspillé un coup précieux
+287690|...Cependant, comme aux échecs, ‖un coup inutile peut certes brouiller les pistes de l'adversaire, mais c'est quand même un coup précieux gaspillé.
+# 287728 : 守りが肝心よ = c'est la défense qui compte (EN en fait une question)
+287728|Dans une bataille de sorcières, c'est la défense qui compte, tu sais ?
+# 287825 : いじけてどっか行っちゃった = partie bouder
+287825|"...Ah, te voilà.‖  Bern est partie bouder quelque part, on dirait ?‖  *gloussement*  Elle pourrait pas être plus nulle ?"
+# 287874 : そんなザマ = dans un état aussi lamentable (vulgarité ajoutée par l'anglais)
+287874|Et vu que toi, la pièce de Bern, t'es dans un état aussi lamentable, je suis d'excellente humeur !
+# 287907 : 勝率を…絶対に近付けてやる = rapprocher tes chances de la certitude (contresens EN « associate myself »)
+287907|Moi, la grande Dame Lambdadelta, la Sorcière de la Certitude et la plus puissante de l'univers,‖ je vais rapprocher un tout petit peu de la certitude tes chances de victoire désespérées.‖  Tu devrais me remercier.
+# 287925 : 甘い = indulgente, pas assez impitoyable
+287925|Pourquoi ?‖  Parce qu'elle est trop indulgente.
+# 287929 : わざと詰めない = elle ne porte pas exprès le coup final (mat)
+287929|Elle construit des positions où elle pourrait te mettre mat en quelques coups, mais elle ne conclut pas, exprès.
+# 287958 : 悪い遊びが過ぎる = elle pousse ses jeux cruels trop loin
+287958|Et elle pousse ses jeux cruels beaucoup trop loin.
+# 287963 : 余裕ぶった = prendre ses aises, jouer la désinvolture (EN « act tough »)
+287963|Pour une sorcière surpuissante comme moi, c'est incompréhensible qu'elle se permette de prendre ses aises comme ça.
