@@ -1,0 +1,117 @@
+{
+ "en/bmp/background/efe/oct_4_1986.png": {
+  "lines": [
+   "Premier jour",
+   "4 octobre 1986",
+   null
+  ],
+  "en": [
+   "The First Day",
+   "October 4,1986",
+   null
+  ],
+  "uniform": false
+ },
+ "en/bmp/background/efe/oct_5_1986.png": {
+  "lines": [
+   "Deuxième jour",
+   "5 octobre 1986",
+   null
+  ],
+  "en": [
+   "The Second Day",
+   "October 5,1986",
+   null
+  ],
+  "uniform": false
+ },
+ "en/bmp/background/efe/oct_1998.png": {
+  "lines": [
+   "Le monde, 12 ans plus tard",
+   "Octobre 1998",
+   null
+  ],
+  "en": [
+   "The World of 12 Years Later",
+   "October,1998",
+   null
+  ],
+  "uniform": false
+ },
+ "en/bmp/background/efe/enj_mirai01.png": {
+  "lines": [
+   "L'avenir d'Ange",
+   "Académie Sainte-Lucie",
+   "Après 1986"
+  ],
+  "en": [
+   "Ange's future",
+   "Saint Lucia Academy",
+   "After 1986"
+  ],
+  "uniform": false
+ },
+ "en/bmp/background/efe/ep2_text.png": {
+  "lines": [
+   "Quand les mouettes pleurèrent, nul ne survécut"
+  ],
+  "glow": true,
+  "en": [
+   "When the seagulls cried, there were no survivors"
+  ],
+  "uniform": false
+ },
+ "en/bmp/background/efe/unknown01.png": {
+  "lines": [
+   "Inconnu",
+   null
+  ],
+  "en": [
+   "Unknown",
+   null
+  ],
+  "uniform": false
+ },
+ "en/bmp/background/efe/text001.png": {
+  "region": [
+   370,
+   400,
+   1280,
+   560
+  ],
+  "align": "left",
+  "thr": 70,
+  "lines": [
+   "Cette histoire est de toute évidence fictive et fantastique.",
+   "Toute ressemblance avec des personnes, organisations,",
+   "lieux ou faits existants serait purement fortuite."
+  ],
+  "en": [
+   "This story is very obviously fictional and fantastic in nature.",
+   "Any resemblance to existing individuals, organizations,",
+   "locations, or incidents is entirely coincidental."
+  ],
+  "uniform": true
+ },
+ "en/bmp/background/efe/text1.png": {
+  "region": [
+   370,
+   400,
+   1280,
+   560
+  ],
+  "align": "left",
+  "thr": 70,
+  "lines": [
+   "Cette histoire est de toute évidence fictive et fantastique.",
+   "Toute ressemblance avec des personnes, organisations,",
+   "lieux ou faits existants serait purement fortuite."
+  ],
+  "en": [
+   "This story is very obviously fictional and fantastic in nature.",
+   "Any resemblance to existing individuals, organizations,",
+   "locations, or incidents is entirely coincidental."
+  ],
+  "uniform": true
+ }
+}

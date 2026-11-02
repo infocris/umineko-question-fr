@@ -1,0 +1,730 @@
+99481|"Où ça, où ça ?!
+99493|Où ça, où ça, il est où, le copain de Jessie ?!"
+99506|"Elle aime vraiment les petits jeunes !!"
+99526|"S-S-S-Salut !‖  T-T'es pas un peu en retard, wah ha ha ha ha ha !"
+99533|"...Je ne trouvais pas l'entrée.‖  Je vous prie d'excuser mon retard."
+99539|"A-Ah oui, euh, ...cette tenue te va super bien.‖  Wah ha ha ha ha ha ha... !!"
+99545|"...Shannon...a dit que des vêtements ordinaires n'iraient pas, ...alors nous sommes allés acheter ceci l'autre jour.‖  ...Est-ce que ça me va mal... ?"
+99551|"W-Wah ha ha ha ha ha ha ha ha ha ha ha ha, mais pas du tout !‖  Shannon, en rentrant, je te fais monter de deux échelooooooons !!"
+99557|"......On dirait qu'il n'y a que des filles ici.  C'est gênant."
+99563|"O-O-Ouais, hein ?!‖  A-Allez, on traîne pas ici, on va vers la scène, d'accord ?‖  Parce que c'est bientôt à moi !‖  Allez allez allez !!"
+99567|Jessica semblait tout aussi mal à l'aise.
+99568|Être la cible de tous ces regards curieux avait l'air de lui être pénible.
+99571|...En voyant l'état de Jessica, Kanon se dit qu'il l'avait peut-être mise dans l'embarras en venant.
+99577|"...J'ai l'impression de déranger.‖  Est-ce que je vous gêne ?"
+99583|"J-J-Je t'ai dit que non, pas du tout !!"
+99593|"...Dites-le-moi à n'importe quel moment si je commence à vous gêner..."
+99595|((Kyaa, c'est pas vrai, il dit `boku' en parlant de lui !!!!))
+99611|"Ahiiiiiiiii, t-t-tu pourrais jamais me gêner, Kanon-kun !!"
+99613|(((Kyaaaaaa, elle appelle son copain avec `kun' !!!)))
+99629|"...Que souhaitez-vous que je fasse, Mademoiselle ?"
+99631|((((C'est pas vraiiiii, elle se fait appeler Mademoiselle, comme par un majordome <i>oh mon dieu oh mon dieu</i> !!))))
+99652|"Noooooooooon, tu peux pas m'appeler Mademoiselle aujourd'huiiiiiiiii !!"
+99662|".........A-Ah bon ?‖  À vos ordres, Jessica-sama."
+99664|(((((Kyaaaaa, elle l'a dressé à lui dire `sama' !!)))))
+99681|"D-D-D-Désolée, Kanon-kun, tu pourrais fermer les yeux juste trois petites secondes... ?"
+99683|((((((Hiiyaaaaaaa, un bisou, c'est un bisou, elle va l'embrasser !!))))))
+99698|"...À-À vos ordres."
+99719|*bang*,
+99727|*boum* !
+99735|*paf*paf*,
+99745|*vlan*,
+99753|*crac* !!
+99768|...Lorsque Kanon rouvrit les yeux, une horrible tragédie s'était produite dans la pièce.
+99772|Tout le monde avait été projeté contre les murs, bras et jambes en croix.
+99773|Jessica avait glissé son poing américain dans sa poche avant que Kanon ne rouvre les yeux.
+99779|"B-Bref, allons vers la scène.‖  On passe bientôt, alors assieds-toi et attends un peu.
+99784|Parce qu'on doit se préparer !‖  Va tout droit jusqu'au bout, tu verras une scène provisoire, tu peux pas te tromper.  Attends là-bas, s'il te plaît !"
+99790|Elle poussa Kanon dans le dos, car il semblait avoir du mal à bouger de lui-même, et le mit dehors.
+99793|Bien que déconcerté par l'attitude de Jessica et par cette panique qu'il ne lui avait jamais vue, Kanon suivit ses instructions et partit dans la direction indiquée.
+99801|Après l'avoir regardé partir avec un sourire crispé, Jessica claqua la porte et hurla à pleins poumons.
+99807|"Et voilà, vous avez vu, hein ?‖  Vous l'avez vu, vous êtes contentes maintenant ?!
+99813|Wah ha ha ha ha ha ha ha ha, bien fait pour vous !!!"
+99819|"...Grrrrr, j'ai perdu le pari."‖  "J'étais sûre que Jessie avait pas de copain."‖  "T'es sûre que c'était son copain ?  Je parie qu'elle maltraite juste un de ses domestiques, non ?"‖  "Ouaaaah, le copain de Jessie est trop gééénial... !"
+99827|"F-F-Fermez-la !!‖  Allez, on se prépare !!"
+99836|Quand Jessica ressortit son poing américain de sa poche, toutes retournèrent énergiquement à leurs tâches.
+99853|".........Haah."
+99857|Kanon suivit le couloir que Jessica lui avait indiqué... et tomba sur une scène provisoire installée là où auraient dû se trouver les distributeurs automatiques.
+99861|Elle était sans doute louée à l'heure par un groupe ou un club quelconque.
+99862|Ceux qui chantaient n'étaient que des groupes d'élèves, mais le public était pourtant incroyablement survolté.
+99867|Détestant ce vacarme, il s'adossa seul à un mur, dans la pénombre.
+99871|...Alors c'est ça, ce qu'on appelle un lycée.
+99872|C'est vraiment bruyant.‖  ...Voilà ce que pensait Kanon.
+99876|Puis il repensa à Jessica, tout à l'heure, et à ce comportement qu'il ne lui avait jamais vu.
+99877|...À vrai dire, elle était dans un tel état d'exaltation qu'on aurait pu la croire ivre.
+99881|Pour lui, rester posé et réfléchi en toutes circonstances était la plus haute des vertus.
+99882|En ce sens, Kanon avait beaucoup de mal à s'habituer à l'ambiance d'une fête culturelle de lycée.
+99886|...Il avait le devoir de rapporter au Maître tout ce qu'il voyait et entendait.
+99887|...Il lui faudrait donc aussi rapporter la manière dont Jessica s'était laissée aller tout à l'heure.
+99892|...Cela ne convenait pas, à tout le moins, à la fille de la famille principale Ushiromiya.
+99895|Le Maître, Krauss-sama,‖  ...et surtout Natsuhi-sama seront probablement en colère.
+99899|Si je veux faire mon rapport de manière à protéger Mademoiselle, devrais-je en rejeter la faute sur de mauvaises fréquentations... ?
+99905|"......C'était quoi, tout ça ?‖  ...C'est stupide."
+99909|Kanon repensa à la façon dont Jessica s'était comportée et soupira de nouveau.
+99912|Il comprenait un peu mieux, à présent, les migraines de Natsuhi.
+99915|...D'ailleurs, Natsuhi-sama, en tant que présidente de l'association des parents d'élèves, devait se rendre à une réunion informelle après avoir assisté à la cérémonie au gymnase.
+99917|Elle avait dit qu'elle ne pourrait pas voir le spectacle de Mademoiselle, non ?‖  ...C'est sans doute mieux ainsi.
+99923|"......La foule, c'est vraiment désagréable.‖  ...Qu'est-ce qui se passe, au juste ?"
+99928|Plusieurs lycéennes n'arrêtent pas de me lancer des coups d'œil.
+99929|On dirait qu'elles chuchotent toutes la même chose que les camarades de Mademoiselle, et c'est franchement désagréable.
+99932|D'ailleurs, Shannon ne m'avait-elle pas prévenu ?
+99935|...Si tu te promènes seul dans une fête de lycée,‖  fais attention, parce que plein de gens bizarres viendront te parler.
+99940|"E-Excuse-moi, tu es tout seul ?"
+99944|Comme prévu, un groupe de filles que je n'avais jamais vues s'est mis à m'adresser la parole.
+99945|Leurs regards me donnaient des frissons dans le dos.
+99948|...Ne m'avait-elle pas appris une formule magique pour les faire fuir dans ce genre de situation ?‖  ...Euuuh.
+99958|"...Désolé.‖  Je suis avec quelqu'un."
+99960|"Ah, euh, ah bon... ?!‖  D-Désolée !"
+99961|Ah, ça a marché.‖  Effet immédiat...
+99964|Bon, elles sont parties, mais ça n'a pas vraiment réduit le nombre de gens qui me dévisagent.
+99980|"Non, c'est lui, c'est lui, le copain de Jessie ?!!"
+99982|"Sans blague ?!
+99984|C'est lui ?!"
+99986|"J'y crois pas, j'étais sûre qu'il était bidon !"
+99988|"Il est trop mi-gnon, non ?  Alors il est plus jeune ?!
+99990|Veinarde, Jessie !!"
+100004|".........Haah."
+100006|...Plus jamais je ne remettrai les pieds dans un endroit pareil.
+100009|Kanon soupira pour la énième fois de la journée.
+100019|À cet instant, l'éclairage changea, et le public debout se mit à pousser des acclamations.
+100022|Il regarda autour de lui et s'aperçut qu'une foule nombreuse s'était soudain formée.‖  Et, contrairement à tout à l'heure, c'étaient surtout des garçons.
+100026|Avec tout ce monde, il ne voyait même plus la scène.
+100027|Heureusement, il y avait un casier à bière renversé tout près, alors il essaya de s'en servir comme marchepied.
+100030|Il s'aperçut alors qu'un nouveau groupe était monté sur scène.
+100037|Leur leader, c'est Mademoiselle.
+100038|Elle a enfilé une tenue de scène, et elle tient même une guitare.
+100039|...J'ignorais qu'elle savait en jouer.
+100043|Ceci dit, peut-être qu'elle sait en jouer.
+100044|Je l'ai déjà vue s'entraîner à la guitare imaginaire.
+100048|Natsuhi-sama n'approuverait aucun passe-temps en dehors des études.
+100049|Peut-être qu'elle s'entraînait en secret depuis toujours.
+100053|...D'ailleurs, elle rentre très tard du lycée, ces derniers temps, non ?
+100054|...Peut-être qu'elle s'entraîne au lycée, loin du regard inquisiteur de Natsuhi-sama.
+100058|C'est vraiment mieux que Natsuhi-sama ne soit pas venue.
+100059|...Si Mademoiselle se faisait gronder par Natsuhi-sama après avoir consacré tant d'heures à s'entraîner, elle serait sûrement abattue...
+100064|!s0
+100087|"Tout le monde, merciiiiiiiiiii d'être venus aujourd'hui !!"
+100091|J'entendais la voix puissante de Jessica-sama à travers les haut-parleurs.
+100098|...Jessie-sama ?‖  C'est peut-être son surnom au lycée.
+100099|Les élèves dans le public ne cessaient de scander ce nom.
+100100|...Ce surnom vulgaire me froisse un peu.  Il ne convient pas à Mademoiselle.
+100103|Jessica-sama était au comble de l'exaltation tandis qu'ils continuaient de crier `Jessie-sama'.
+100108|...Tous ceux qui étaient là devaient être des fans.
+100109|Sa présence au micro s'en nourrissait et les électrisait encore davantage.
+100110|...On se serait presque cru dans une émission musicale à la télé.
+100113|.........Au début, il avait trouvé tout cela ridicule, mais ce sentiment s'était changé en admiration.‖  C'était incroyable, à sa manière.
+100120|Kanon n'écoutait jamais de musique de son plein gré, mais il avait souvent entendu celle qu'aimait la famille Ushiromiya.
+100121|...Comme c'était presque toujours du classique, Kanon avait naturellement pris goût à ce genre de musique.
+100125|...Aussi, pour Kanon, la chanson de Jessica était...comment dire...‖  ...Extrêmement haute en couleur.
+100126|Quoi qu'il en soit, si Natsuhi-sama l'entendait, elle s'évanouirait sans doute.
+100142|Mais tout le monde avait l'air de s'amuser énormément.
+100145|Certains fans inconditionnels, qui avaient même apporté des bâtons lumineux,‖  chantaient en chœur et dansaient comme des fous, tous avec les mêmes gestes, comme si c'était répété à l'avance.
+100148|Sur scène, Jessica-sama chantait elle aussi avec ferveur, ruisselante de sueur.
+100153|......Il n'y trouvait pas un seul élément digne d'une fille de la famille Ushiromiya,
+100155|...mais ça avait l'air tellement amusant.
+100160|"""Jessie-samaaaaaaaa !!
+100165|Jessiiiiie, Jessiiiiiiiiiiie !!!"""
+100190|"Aujourd'hui encore, derrière moi, un bruit de pas !
+100192|Oyashiro-sama me suit à la trace !
+100194|Malédictions, disparitions,
+100196|sacrifices, tortures,
+100198|Onikakushi, ça fait un bon goûter ?!
+100212|Dis pas Marisaaaaaaaaaaaaa !!!"
+100235|...Je ne dois pas me laisser entraîner, mais...
+100236|...En tout cas, Mademoiselle déborde de vie et a l'air de s'amuser comme jamais.
+100241|En regardant Mademoiselle s'amuser, je me suis fait une réflexion.
+100244|Serait-ce là la vraie nature d'Ushiromiya Jessica ?
+100247|...Ne suis-je pas le mieux placé pour savoir... que durant sa vie sur Rokkenjima, elle n'a jamais eu d'autre choix que d'étouffer sa personnalité ?
+100250|Alors le temps qu'elle passe...non pas en tant que Mademoiselle, l'héritière de la famille Ushiromiya,‖  mais en tant que simple fille nommée Jessica, à vivre pleinement, doit compter énormément pour elle.
+100253|...J'ai travaillé auprès de Mademoiselle, je l'ai vue au fil de toutes les saisons, et je croyais tout savoir d'elle.
+100255|...Mais tout cela se limitait à une seule facette d'elle, la Mademoiselle de Rokkenjima.
+100261|...Nous sommes des meubles.
+100262|Nous servons sur Rokkenjima et finissons nos vies sur Rokkenjima.
+100265|...Alors j'en suis venu à considérer Rokkenjima comme notre monde tout entier.‖  Comme si, à la manière de la théorie de Ptolémée,‖  l'océan se déversait au bord du monde dans un abîme.
+100268|Mais quand je regarde Mademoiselle ainsi, je vois à quel point cette vision est horriblement étriquée.
+100274|...Je n'arrive toujours pas à partager l'excitation de la foule.
+100275|...Mais j'ai l'impression d'apercevoir quelque chose qu'on `ne peut pas voir' sur Rokkenjima.
+100278|......Je ne sais pas si c'est la chose invisible dont parlait Shannon...
+100281|...Mais l'océan ne me paraît toujours pas bleu...
+100318|"La fête culturelle du lycée de Jessica, ce n'était pas aujourd'hui ?‖  ...Comment va le proviseur ?"
+100324|"...Il semblait en bonne santé.‖  D'ailleurs, le député Takamiya était là aussi.‖  Il vous transmet ses salutations."
+100330|"Hmm, toujours aussi occupé ?"
+100336|"Il en avait l'air.‖  Lui aussi déborde d'énergie.‖  Ah, et je crois que le président Emoto a également fait une apparition."
+100343|Naturellement, la fête culturelle de Jessica s'invita dans la conversation du dîner.
+100347|Les événements scolaires se transformaient souvent en réceptions mondaines pour les notables du coin.
+100348|Il en allait de même pour la famille Ushiromiya, véritable célébrité de la région.
+100351|Natsuhi se remémorait le nom de chaque personnalité croisée lors de cette réception, l'une après l'autre, et en donnait des nouvelles à Krauss.
+100357|...Jessica, que cette discussion n'intéressait guère, aspirait bruyamment sa soupe de potiron sans aucune manière.
+100364|"...Mademoiselle,‖  peut-être devriez-vous surveiller davantage vos manières."
+100371|".........Ouais, ouais, désolée."
+100379|"Jessica,‖  combien de fois devrai-je te dire de surveiller ton langage ?"
+100386|"...Oui, Mère."
+100390|répondit Jessica, découragée.
+100391|Voyant cela, Krauss sourit légèrement et interrompit sa conversation avec Natsuhi.
+100399|"Comment s'est passée cette fête, Jessica ?"
+100407|"Hein ?‖  Ah,
+100409|...ben, c'était pas mal !"
+100417|"Je t'ai regardée.‖  Tu as fait de l'excellent travail."
+100423|"Hein, ...hein ?!
+100429|...A-Ah ha ha ha ha, b-bon ben !"
+100432|Le visage de Jessica devint écarlate.
+100436|...Elle n'aurait sans doute jamais imaginé que Natsuhi viendrait réellement la voir sur scène.
+100437|Elle ressentait un mélange de joie et de gêne.
+100441|En vérité, elle n'avait pas vraiment voulu que sa mère la voie, car elle ne tenait pas à s'entendre dire que sa musique ne convenait pas à la famille Ushiromiya.
+100442|...Mais entendre un parent dire qu'elle avait bien fait, après l'avoir regardée donner le meilleur d'elle-même, ne la rendait certainement pas malheureuse...
+100449|"Jessica s'est montrée à la fois posée et digne.‖  Une conduite à la hauteur de la représentante des élèves."
+100459|"...Ah,
+100461|......euh,
+100463|...ouais."
+100474|Le sourire qui illuminait son visage une seconde plus tôt s'effrita comme du sable.
+100475|...Jessica comprit aussitôt que sa mère parlait de tout autre chose.
+100480|Jessica était aussi la présidente du conseil des élèves.
+100484|...Elle n'avait aucune envie de se charger d'une chose aussi pénible, mais ses parents avaient insisté, alors elle avait accepté à contrecœur.
+100485|Malheureusement, elle était populaire au lycée, et elle avait remporté l'élection haut la main.
+100488|Natsuhi la félicitait donc pour la cérémonie d'ouverture organisée par le conseil des élèves au début de la fête culturelle.
+100492|En réalité, elle s'en était acquittée sans grande conviction.
+100493|Ensuite, elle avait aussitôt rejoint ses amies et passé tout le reste du temps à répéter sur scène...
+100498|"Cette expérience, se tenir au-dessus des autres et porter des responsabilités, te sera sûrement utile à l'avenir.‖  Je suis certain qu'elle aidera Jessica à mûrir en tant que membre de la famille Ushiromiya."
+100502|"Mais tu t'es un peu précipitée pendant ton discours.‖  Le fond était correct, mais ton débit trop rapide en a atténué la portée.‖  Tu gagnerais à prendre l'habitude de marquer une pause de temps à autre."
+100507|"............Ouais."
+100521|Une fois le repas terminé, Jessica n'eut pas envie de regagner directement sa chambre.
+100524|Sa chambre n'était au fond que l'endroit où ses parents lui ordonnaient de se tenir.
+100527|Alors peut-être que pour Jessica, plutôt que de retourner dans sa chambre,‖  se trouver quelque part dans ce grand manoir, là où personne ne la savait, était une maigre forme de résistance...
+100537|Jessica avait l'impression d'étouffer rien qu'à l'intérieur du manoir, alors elle sortit dans la roseraie.
+100543|".........‖  ...Bah, même si elle était venue, elle aurait sûrement trouvé à redire, que c'était pas digne d'une héritière de la famille Ushiromiya.‖  ...Alors c'est mieux comme ça, non ?‖  Ah ha ha ha ha ha ha."
+100547|Jessica se moqua de sa propre bouderie.
+100550|...Elle se moqua des paroles qu'elle avait bien pu espérer entendre.
+100555|...C'était idiot de ma part.
+100556|Au fond, je me suis comportée comme une gamine capricieuse.
+100557|Je suis un peu exaspérée par moi-même, et ça me donne envie de rire.
+100563|"...Mademoiselle."
+100572|"Wah, ...Kanon-kun.‖  M-Me fais pas peur comme ça, ha ha ha... !
+100577|*toux*toux* !"
+100581|Au moment où elle allait se forcer à rire, Kanon lui avait adressé la parole sans prévenir, et elle s'étrangla.
+100588|"Qu'est-ce qu'il y a ?‖  T'as quelque chose à me dire... ?"
+100597|".........
+100599|Euh."
+100612|"...Oui ?"
+100617|Le visage de Jessica reprit l'expression qu'elle avait toujours face à Kanon.
+100618|La Jessica apathique de l'instant d'avant avait disparu.
+100621|S'il n'avait encore connu Jessica que comme la future héritière de la famille Ushiromiya, comme c'était le cas jusqu'à hier,‖  ...il aurait peut-être cru à tort qu'elle avait retrouvé sa bonne humeur.
+100624|...Mais ce n'était pas le cas.
+100627|Il connaissait maintenant une part d'elle qu'il n'aurait pas pu `voir' jusqu'à hier,‖  et il comprenait donc que Jessica ne pouvait pas réellement ressentir ce qu'elle laissait paraître.
+100635|"Ah, ...pour la fête culturelle d'aujourd'hui...
+100637|...Bon, merci d'être venu avec moi pour que je puisse frimer.‖  Tu m'as sauvé la mise."
+100641|"...Cette chanson.‖  ...Vous étiez vraiment douée."
+100650|"Quoi ?!
+100651|...Ah,
+100653|......ah ha ha ha ha ha ha ?!
+100655|S-Sérieux ?  Tu me mets mal à l'aise..."
+100659|Bien qu'elle ait entendu les mots qu'elle désirait le plus entendre,‖  Jessica se montra timide et ne parvint pas à les accepter franchement.
+100666|"...Je ne sais pas chanter.‖  Et je ne sais jouer d'aucun instrument, à part l'harmonica et la flûte à bec, que j'ai appris à l'école primaire.‖  ...Alors j'ai simplement supposé qu'il en allait de même pour vous, Mademoiselle."
+100670|...Jusque-là, Kanon n'avait jamais eu l'impression de sous-estimer Jessica de la sorte.
+100674|Mais tous ceux qu'il avait vus jouer d'instruments un tant soit peu particuliers se trouvaient de l'autre côté du tube cathodique de la télévision.
+100675|...Il avait au moins eu l'impression que ce serait impossible pour Jessica.
+100681|"...Je suis un meuble.‖  ...Alors je ne voyais pas la nécessité de chanter ou de jouer d'un instrument."
+100687|Mais...
+100689|maintenant, je n'en suis plus sûr.
+100696|"...Sérieux, Kanon-kun,‖  arrête avec ton histoire de `je suis un meuble'...‖  C'est genre l'attitude qu'on attend de vous, les domestiques, c'est ça... ?‖  Les domestiques sont censés être comme des meubles vivants.‖  ...Genji-san le dit souvent."
+100702|"Ce n'est pas qu'une question d'attitude...‖  ...Parce que nous sommes vraiment...des meubles."
+100708|"Je sais que les enfants de la Maison Fukuin... reçoivent l'aide de Grand-père de plein de façons,‖  et je me doute que vous lui en êtes reconnaissants.
+100713|...Mais c'est un peu cruel que tu doives te traiter de meuble juste pour ça.‖  On est tous des êtres humains, non ?"
+100719|"............"
+100732|"Kanon-kun, quand tu m'as vue chanter, ...t'as pensé quoi ?"
+100734|"...Vous aviez l'air de beaucoup vous amuser."
+100736|"Je crois pas que ce soit vrai."
+100738|"...Pardon ?"
+100747|"T'as pas juste pensé que ça avait l'air amusant.‖  ...T'étais jaloux, pas vrai ?"
+100749|".........
+100751|Ce n'est pas..."
+100758|Kanon lui-même n'avait sans doute pas remarqué cette émotion.
+100759|...Très probablement, Kanon avait vu quelque chose qu'il n'avait jamais vu, l'avait découvert pour la première fois, ...et en avait été envieux.
+100762|Et pour se leurrer lui-même et chasser cette émotion, il s'était traité de meuble encore et encore...
+100769|"Je sais que je suis l'héritière de la famille Ushiromiya ou je sais pas quoi,‖  ...et, bon, je suis sûre que j'aurai plein de trucs pénibles à faire à partir de maintenant.‖  Pour ça, je peux rien faire d'autre que me résigner, vu que je suis née sous une mauvaise étoile."
+100774|"...Sans doute que, tout comme toi, t'as dû vivre à la Maison Fukuin, moi non plus, j'ai pas le choix.‖  J'ai pas pu choisir l'étoile sous laquelle je suis née."
+100780|"......C'est peut-être vrai."
+100786|"Mais il y a un point sur lequel toi et moi, on est complètement différents.‖  ...Tu sais lequel ?"
+100791|Je suis un meuble, et Mademoiselle ne l'est pas.‖  ...Il allait le dire, mais s'arrêta.
+100797|"...Je ne sais pas."
+100803|"Toi, Kanon-kun, t'as décidé que ton destin déterminait tout ce que tu es, et t'as abandonné.‖  Mais moi, je peux pas accepter ce genre de destin, alors je fais de mon mieux.
+100808|...Alors, même s'il y a toujours la `moi' rigide et acculée qui doit rester la fille de la famille Ushiromiya,‖  je me suis créé une autre `moi', qui peut faire ce qu'elle aime à fond."
+100815|"......Une autre...vous."
+100823|"Ouais.‖  ...Kanon-kun, on t'a appris à dire `parce que je suis un meuble'.‖  ...Je suis sûre que t'as traversé plein de moments durs rien qu'à cause de ça.‖  ...Je trouve que c'est...
+100825|...vraiment triste pour toi.‖  ......Mais l'idée que toute ta vie soit décidée uniquement par ça... je trouve ça triste."
+100829|".................."
+100833|"Tu sais, on peut toujours se créer un autre `soi' à l'intérieur, un soi qu'on peut vraiment finir par aimer.‖  Je parle pas de fuir la réalité, hein ?‖  ...Quand je suis cette autre moi, j'ai vraiment l'impression de vivre une vie géniale.‖  Alors peu importe à quel point le quotidien devient étouffant et ennuyeux, je peux toujours continuer à vivre sans suffoquer."
+100845|"...Se créer...
+100847|un autre soi en soi-même...
+100849|qu'on peut vraiment finir par aimer..."
+100859|Me créer un autre moi, un qui ne serait pas un meuble...
+100863|Grâce à sa relation avec George-sama, Shannon a-t-elle donné naissance à un autre soi, qui n'est pas un meuble ?
+100864|...Et cette autre Shannon...voit-elle quelque chose qu'un meuble ne peut pas `voir' ?
+100870|"C'est ça.‖  ......Bon, je sais rien de ta vie privée, Kanon-kun.‖  Mais... je peux à peu près deviner.‖  Ta vie privée... elle existe sans doute pas du tout.‖  J'ai raison... ?"
+100874|Kanon ne put répondre, mais c'était une réponse suffisante.
+100877|Il n'avait aucune notion de vie privée.
+100881|Ainsi, Kanon serait toujours Kanon.
+100882|Ainsi, un meuble serait toujours un meuble.
+100889|"...Kanon-kun, Kanon, c'est pas ton vrai nom, hein ?"
+100893|À la Maison Fukuin, ceux qui en sortaient recevaient une nouvelle famille et une nouvelle vie, et donc aussi un nouveau nom.
+100896|...Dans son cas, c'était `Kanon'.
+100903|"......Certes, ...ce nom n'est peut-être que provisoire."
+100907|Auparavant, il s'était toujours considéré comme Kanon, et personne d'autre.
+100912|...Mais il se souvenait.
+100913|...Il avait bel et bien existé un autre lui, qui n'était pas Kanon.
+100914|Mais c'était loin, très loin, au-delà de la brume lointaine de l'oubli...
+100922|"Alors même pour toi, ça devrait être possible d'avoir des moments où t'es Kanon-kun, et d'autres où tu l'es pas.‖  ...Peut-être que quand tu joues le domestique, ce Kanon-kun se traite de meuble et bride strictement sa propre volonté."
+100927|"...Mais quand t'es pas Kanon-kun, je pense que t'as le droit de vivre beaucoup, beaucoup plus librement."
+100931|Ces mots n'étaient certainement pas de simples paroles en l'air.
+100935|Jessica avait elle aussi été ainsi, autrefois.
+100936|Elle avait maudit le fait d'être née dans un milieu différent de celui de toutes ses amies du lycée.
+100939|Elle seule vivait dans un milieu terriblement étriqué, contrainte d'apprendre toutes sortes de choses,‖  et on lui dictait même avec qui elle avait le droit de jouer ou non.
+100941|...C'était peut-être triste, mais elle avait abandonné, résignée à l'idée d'être née sous une telle étoile.
+100944|Mais un jour, Jessica avait cessé d'abandonner et de capituler.
+100947|Les usages et la pression de la famille Ushiromiya n'avaient aucune importance.
+100950|Elle s'était créé en elle une vraie `Jessica', capable de faire ce qu'elle voulait vraiment faire.
+100956|"Tu sais, au lycée, on m'appelle Jessie.‖  Quand je suis Jessie, je vis honnêtement et à fond.‖  Et grâce à ça, je peux aussi faire de mon mieux quand je suis Jessica."
+100961|"...Ce serait si grave que ça...‖  si toi aussi, t'avais des moments où t'es Kanon, et d'autres où t'es...euh,‖  ...ton vrai nom ?‖  ...Quand t'es pas Kanon, ...tu pourrais pas essayer de devenir un autre toi, que tu pourrais aimer ?"
+100967|"............Un moment où...je ne suis pas Kanon."
+100972|Il avait autrefois considéré son vrai nom comme totalement dénué de sens.
+100973|C'est pourquoi il avait cru que `Kanon' résumait tout ce qu'il était.
+100976|Et voilà que Jessica lui disait de créer quelque chose de nouveau, un autre lui qui ne serait pas Kanon.
+100982|"...Kanon-kun,‖  si ça te dérange pas, dis-moi.‖  ...C'est quoi...ton vrai nom ?"
+100988|"..............."
+100994|Il resta silencieux un long moment.
+101000|Peut-être le vrai nom de Kanon lui était-il monté jusqu'au bout de la langue.
+101001|...Après avoir longtemps hésité à le prononcer,‖  ...il finit
+101003|...par le ravaler.
+101013|"...Je l'ai oublié.‖  ...Mon nom n'a plus d'importance."
+101015|Ces mots recelaient un léger refus.
+101021|"Quel qu'ait été mon vrai nom,‖  ...la seule vérité désormais, c'est qu'ici, je suis Kanon.‖  Le passé n'a rien à voir avec tout ça.‖  ...Le matériau dont est fait un meuble, tronc d'arbre ou autre, n'a au fond aucune importance."
+101028|"...Je t'ai dit d'arrêter avec ça !‖  T'es pas un meuble, t'es un être humain, pas vrai ?!"
+101035|"Je ne suis pas un être humain !"
+101040|Kanon exprima clairement son refus.
+101041|...Avec une colère qu'il ne montrait jamais d'ordinaire.
+101044|Jessica ne trouva rien à répondre et resta muette...
+101053|"...Vous êtes un être humain, Mademoiselle.‖  Alors vous êtes libre de vivre comme bon vous semble,‖  et tous les avenirs vous sont ouverts.‖  C'est presque comme si vous aviez des ailes et pouviez danser dans le ciel comme un oiseau.
+101059|Mais moi, je ne suis pas ainsi.‖  Même si j'avais l'air d'un oiseau, je ne serais rien de plus qu'un canard domestique.‖  ...Il a des ailes, mais il ne peut pas voler."
+101069|"Et malgré cela, me parler de ce rêve dans le ciel...
+101071|...C'est tout simplement...
+101073|trop cruel... !"
+101086|"...Des meubles, des canards !!‖  C'est quoi, ce délire ?!!
+101091|......Non.  ......"
+101095|Jessica s'était laissée emporter malgré elle par le ton véhément de Kanon, mais elle comprit qu'elle ne devait pas riposter et ravala ses paroles.
+101101|"......Je sais rien de toi.‖  Je connais même pas ton passé, ni les épreuves que t'as traversées.‖  ...Alors j'arrive même pas à imaginer pourquoi t'as commencé à te traiter de meuble."
+101106|"...Mais sache une chose.‖  T'es ni un meuble ni un canard.‖  T'es un véritable être humain."
+101113|"..............."
+101119|"Si tu veux dire que Kanon-kun est un meuble quand il travaille comme domestique, d'accord.‖  ...Mais... dans ce cas,‖  ...tu crois pas que tu pourrais te créer un soi pour les moments où t'es pas un meuble, où t'es un être humain ?"
+101125|"...Seul un être humain comme vous, Mademoiselle, peut caresser cette possibilité.‖  ...Je ne suis pas ainsi.‖  Je n'ai ni avenir, ni possibilités, ...ni aucun rêve qu'il me soit permis de voir.
+101136|......Alors, Mademoiselle,
+101137|je vous en prie, ne dites...
+101139|plus...
+101141|...de choses aussi cruelles..."
+101153|"Pourquoi...‖  Pourquoi...tu dis des trucs pareils... ?"
+101160|"Parce qu'il semble que vous me preniez à tort pour un être humain, comme vous, Mademoiselle.‖  Nous sommes des êtres de nature différente.‖  Je voulais simplement que ce soit clair."
+101165|"...Shannon m'en a parlé.‖  Il paraît que Mademoiselle m'apprécie."
+101172|"Hein, ...quoi ?!‖  Ah, ......non, wah ha ha..."
+101178|"...Je ressemble presque trait pour trait à un être humain.‖  Alors, ......comme Shannon, je pourrais sans doute me persuader que j'en suis un... et faire semblant d'aimer, pour un temps."
+101183|"...Mais alors, je me mentirais sûrement à moi-même.‖  Non, je vous mentirais à vous aussi, Mademoiselle.‖  Shannon et George-sama finiront forcément par se séparer.‖  ...Même si Shannon se doute sans doute que ce jour viendra, ...elle se prête à une chose aussi stupide..."
+101189|"...C-C'est pas stupide du tout !!
+101194|D'accord, George nii-san est quelqu'un de formidable, et il doit être à la hauteur des attentes de ses parents.‖  ...Je suis sûre que quand il sera question de mariage, Tante Eva va s'en mêler de toutes les façons possibles, et, euh, je pense que leur avenir s'annonce plein d'embûches, d'accord ?!‖  ...Mais tu sais quoi ?  George nii-san est pas du genre à se laisser abattre par ces conneries !‖  Shannon est pas Juliette, et il la rendra heureuse, j'en suis sûre !!"
+101200|"Les êtres humains ne peuvent pas avoir d'histoire d'amour avec un meuble.‖  ...Ce que j'essaie de dire... c'est que même si vous pouvez aimer un meuble, moi, je ne peux pas vous aimer, Mademoiselle."
+101206|"............Nn-"
+101210|Ces paroles de Kanon... écrasèrent tous les sentiments doux-amers que Jessica avait éprouvés ce jour-là.
+101213|Jamais son cœur n'aurait pu prévoir qu'elle serait repoussée aussi sèchement...
+101216|En un instant, elle perdit la volonté qui l'avait poussée à essayer de dénouer quelque chose d'obstiné dans le cœur de Kanon,‖  ...et, sans même s'en rendre compte, elle resta plantée là, sous le choc...
+101222|"...Mademoiselle, si je me suis mépris par vanité sur vos sentiments à mon égard, je vous prie de me pardonner."
+101228|"...N-Non.‖  Bon, ...je vais pas le nier."
+101236|"...Merci beaucoup."
+101242|"Hein... ?"
+101248|"Merci beaucoup...
+101250|de me considérer comme un être humain.‖  Ce sentiment à lui seul me rend vraiment heureux.‖  ...Tout ce qui irait au-delà serait trop cruel pour moi, alors..."
+101259|"Non, j-j'en ai assez dit.‖  ...Euh,
+101261|......désolée pour tout ça."
+101264|Jessica se gratta vigoureusement la tête et parla en s'efforçant de prendre une voix enjouée.
+101275|"...Je me suis un peu...
+101277|...emballée toute seule...
+101279|et je t'ai embêté.
+101282|...Je suis vraiment désolée.‖  Désolée... de t'avoir causé autant d'ennuis pendant ton précieux jour de congé."
+101289|"Non.‖  ...Moi aussi, j'étais... heureux de vous voir vous amuser."
+101295|"Alors... on va en rester là pour ce soir.‖  ...Si je retourne pas dans ma chambre éteindre la lumière, Maman va encore me passer un savon.‖  ...Ha ha ha."
+101301|"C'est sans doute préférable.‖  ...Je vous souhaite une bonne nuit, Mademoiselle."
+101309|"...Ouais.‖  ......Bonne nuit......"
+101322|Kanon regarda Jessica s'éloigner d'un pas lourd en lui tournant le dos, l'air abattu.
+101323|Mais soudain, elle se mit à courir à toutes jambes et disparut en direction du manoir...
+101326|En regardant son dos s'éloigner, ...l'espace d'un instant,‖  Kanon fut tourmenté par le sentiment d'avoir commis une terrible erreur.
+101331|...Mais il n'avait commis aucune erreur.
+101334|...Il avait été obligé de la repousser maintenant, pour son bien à elle, tant que la douleur était encore la plus faible possible.
+101340|"......Bravo, faire pleurer une femme de la sorte.
+101345|*ricane*ricane*‖  Je ne m'attendais pas à ce que tu la repousses aussi fermement.‖  ...Si tu avais donné une réponse normale, un nouveau couple d'amoureux serait né grâce à ma magie."
+101353|"Depuis combien de temps êtes-vous là... ?‖  ......Quelle personne horrible."
+101358|Quand il se retourna, la sorcière se tenait soudain là.
+101359|...Elle semblait y être depuis le début, à les observer tous les deux comme si elle assistait à une pièce de théâtre.
+101365|"Je te pardonnerai tes insultes pour cette fois, par égard pour ce petit spectacle divertissant.‖  ...Même après mille ans, il n'existe pas de spectacle plus intéressant que les déboires entre garçons et filles.‖  Pour moi, c'est un plaisir meilleur que l'opium, et qui rend plus dépendant encore.‖  ...Hmm ?"
+101372|Kanon sortit de sa poche la broche en forme de papillon.
+101373|C'était la manifestation de la grande magie que la sorcière lui avait accordée.
+101386|Sans hésiter, Kanon la jeta violemment par terre et l'écrasa du pied.
+101393|"...Oh ?‖  Que signifie ceci ?  Tu sais pourtant que c'est moi qui te l'ai donnée."
+101399|"Je viens de comprendre.‖  ...Ce que vous faites n'a rien de l'élégance d'un Cupidon.‖  Vous n'êtes qu'un démon qui prend plaisir à montrer l'amour à ceux qui ne pourront jamais être ensemble, pour mieux les tromper."
+101405|"......Hmph.‖  ...Libre à toi de le penser.‖  La plupart des humains à qui je prête mon pouvoir disent la même chose."
+101414|"Ne faites pas l'innocente !!‖  Vous n'avez pas prêté votre pouvoir à Shannon par pitié pour elle.‖  ...Vous avez trouvé une faille dans le cœur de Shannon, alors qu'il brûlait d'amour, et vous lui avez fait briser le miroir qui vous scellait.‖  Et en plus,
+101416|...vous avez deviné comment tout cela finirait, et maintenant vous vous jouez d'elle !‖  Est-ce que je me trompe ?!"
+101422|"Hé hé hé hé hé, *ricanement* !‖  Les meubles ont une existence tout à fait pitoyable.‖  Ainsi, tu n'as ni rêves, ni avenir, ni même d'amour ?‖  Bien, bien, rien ne vaut le fait de connaître sa place.‖  *ricane*ricane* !"
+101429|"......Nngg..."
+101436|"Comme tu l'as remarqué, un amour timide habitait le cœur de Jessica.‖  Tu sembles croire que tu l'as tué dans l'œuf."
+101441|"...Mais le savais-tu ?‖  Les arbres poussent des branches plus épaisses quand on les éclaircit et qu'on les taille.‖  ...Une fille qui aime un meuble, hein ?‖  Amusant, vraiment amusant !‖  Shannon et George finiront eux aussi dans une impasse avec leur amour impossible, et mûriront en ces gros fruits que j'adore."
+101447|"Cependant, à mon grand regret, tout semble si bien se passer pour ces deux-là que ce n'en est plus guère divertissant.‖  Mais en contrepartie, il semble que vous deux allez m'amuser sans fin, *ricane*ricane* !"
+101451|La sorcière riait.
+101452|Bien qu'elle ait su que les deux ne pourraient jamais être ensemble, elle leur avait prêté sa magie pour les réunir.
+101455|Pourtant, ils ne pouvaient échapper au destin qui les empêchait à jamais d'être véritablement unis.
+101458|...La sorcière le savait.
+101461|Même s'ils étaient unis, Shannon et George, Kanon et Jessica finiraient par se séparer.‖  Ils erreraient dans un désert sans fin, dans cet enfer de l'amour, tourmentés par une soif éternelle... !
+101467|"Quoi, tu croyais que je te prêterais mon pouvoir sans rien demander en échange ?‖  J'aide volontiers un couple d'amoureux.‖  Et en échange, je me délecte du destin cruel qu'ils finiront par connaître.‖  Je n'ai jamais rien vu de plus divertissant, pas en mille ans... !"
+101472|"Regarde donc Kinzo.‖  Vois ce qu'il est devenu : un vieillard pitoyable qui a goûté à l'amour avant d'être chassé du paradis !‖  Regarde comme il vit, tel un mort incapable de mourir tout à fait.‖  *ricane*ricane* !!"
+101478|"Vous êtes vraiment une sorcière.‖  Disparaissez !  Hors de ma vue, démon... !!"
+101485|"...Oh, je disparaîtrais bien sans que tu me le demandes.‖  Mon pouvoir n'est toujours pas revenu.‖  Rester visible m'épuise encore.
+101490|...J'en ai trop fait en vous prêtant mon pouvoir, à vous autres amoureux.‖  ...Dans mon état actuel, il ne me sera pas facile de maintenir ce pouvoir sans cette broche pour catalyseur."
+101495|Kanon écrasa encore davantage du pied la broche piétinée.
+101496|Il la sentit se briser sous sa semelle.
+101499|Puis elle s'évapora comme de l'eau...‖  et se changea en papillons dorés étincelants, qui s'échappèrent en voletant de sous le pied de Kanon...
+101504|"Maintenir cette forme m'est fort pénible, à moi aussi.‖  Je vais me cacher quelque temps, comme tu le désires.‖  Mon pouvoir magique remontera aussi sûrement que la lune et les marées.‖  ...Et le moment venu, l'heure propice à ma résurrection sonnera."
+101508|"...J'ignore totalement si ce sera demain, l'an prochain, ou même dans cent ou mille ans.‖  Mais tant qu'il y aura des gens pour me divertir, je reprendrai sûrement des forces et ressusciterai.‖  ...Je vais disparaître pour un temps, ...jusqu'à ce que ce moment vienne."
+101513|"La marque sur ta paume a déjà disparu,‖  alors si tu le souhaites, demain matin, tu pourras laisser mon existence s'évanouir comme une illusion ou un rêve.‖  ...Après tout, rien ne m'attriste davantage que d'être oubliée."
+101518|"Cependant, je ressusciterai à coup sûr.‖  Sois sur tes gardes, afin de ne pas regretter la venue de ce jour quand il arrivera.‖  Je ferai assurément mon second avènement et régnerai sur toute chose en véritable maîtresse de cette île.‖  ...Ce sera le moment où la porte de la Terre dorée s'ouvrira de nouveau.‖  ...Les morts avides me réveilleront à coup sûr... !"
+101524|"...Vous parlez trop !!‖  Disparaissez, maintenant, Sorcière dorée... !!"
+101532|La sorcière se changea en une nuée de papillons dorés et se dispersa, ne laissant derrière elle qu'un rire méprisant.
+101533|...Tout alentour scintillait comme une tempête de neige dorée dans une boule à neige.
+101536|Ce fut une vision fantastique et éphémère, qui s'évanouit en un battement de cœur...
+101542|On ne voyait plus la sorcière.
+101544|...Pourtant, Kanon avait l'impression d'entendre encore ce rire strident et déplaisant...
+101556|...Aah, que c'est amusant, vraiment amusant.
+101557|Pourquoi le monde des humains est-il encore si amusant après toutes ces années d'absence ?!
+101560|Devenez fous d'amour.‖  Devenez fous d'or.
+101563|Ceux que ni l'un ni l'autre ne rend fous ne sont pas humains !
+101567|Je vois, voilà pourquoi le mot `meuble' convient si bien, *ricane*ricane* !
+101572|Les meubles sont créés pour servir les humains.
+101573|Et moi, je traite cruellement les humains comme des jouets pour tromper mille ans d'ennui.
+101574|Quelle impasse à trois vraiment amusante, puisque je ne peux pas contrôler les meubles !
+101580|Kinzo, espèce d'idiot, quelle machination vraiment divertissante tu as ourdie !
+101581|Meubles, pauvres idiots, essayez donc un peu de m'abattre... !
+101585|Ce soir, deux graines d'amour ont été semées.
+101586|...Avec celle déjà semée, ça fait trois !
+101602|"Beatrice...‖  Pourquoi...m'as-tu laissé seul en ce monde de douleur... ?‖  ...Je te hais.‖  Je te haïrai pour l'éternité, toi qui ne daignes même pas répondre alors que je me languis tant de toi... !"
+101610|"Maître, boire davantage nuira à votre santé.‖  ...Le docteur Nanjo vous en a averti lui aussi, n'est-ce pas ?"
+101617|"Tais-toi, Genji !!
+101620|Tu ne comprends pas, tu ne comprends pas mon affliction et mon chagrin !‖  Et moi qui croyais qu'au moins toi, mon plus vieil ami, comprendrais ma douleur !!‖  Pourquoi ne peux-tu comprendre ?!
+101627|Ooooooh, Beatriiiiiice,
+101629|pourquoi m'as-tu laissé tout seuuuuuul... ?!!"
+101636|".................."
+101655|"Aaaaaaaarrrgh !‖  Hic, hic... !‖  Ça veut dire quoi, ces conneries de meuble ?!‖  J'y comprends rien... !‖  Aaaaaahhhh !!"
+101668|"...Oooh, pauvre Jessica-sama.‖  ...Les cris que j'entends venir de votre chambre m'apprennent bien la situation, mais je n'y peux rien.‖  ...Tout cela n'est qu'une tragédie : deux êtres trop jeunes, devenus trop proches, alors que leurs naissances les placent si loin l'un de l'autre.‖  ...Je ne peux rien faire d'autre que comprendre ce que ressent Mademoiselle, étouffer le bruit de mes pas et m'éloigner en silence..."
+101705|"...Euh,
+101707|...qu-
+101709|que...‖  voulez-vous dire par là,
+101711|George-san... ?"
+101724|"Exactement ce que j'ai dit.‖  ...Je n'ai pas encore bâti mon château.‖  Une fois que j'y serai parvenu, je pourrai enfin me considérer comme un adulte.‖  ...À ce moment-là, je veux t'épouser."
+101734|"...C-
+101736|C'est que, euh,
+101738|...enfin..."
+101744|"Mais...‖  mon cœur ne peut plus attendre.‖  ...Alors je veux t'offrir une bague de fiançailles."
+101759|"D-De fiançailles,
+101761|...dites-vous...‖  Mais, euh,
+101763|......je...
+101765|...suis.........
+101767|...un meuble......"
+101779|"Ah oui, c'est vrai.‖  Eh bien, un meuble doit obéir à ce qu'on lui dit, non ?
+101784|...En ce moment même, je fais faire une bague digne de toi.‖  Je pense qu'elle sera prête à temps pour que je l'apporte à la prochaine conférence familiale.‖  Je te la donnerai à ce moment-là, alors s'il te plaît, je veux que tu me donnes ta réponse."
+101789|"...Si tu acceptes,‖  j'annoncerai nos fiançailles sur-le-champ, devant toute la famille, Grand-père compris."
+101795|"...G-George-san......"
+101802|"Je suis sûr que certains n'approuveront pas notre relation.‖  ...Mais inutile de te soucier de leur visage.‖  ...Car tu n'as qu'à n'avoir d'yeux que pour moi."
+101807|"Je te rendrai heureuse, c'est certain.‖  C'est la seule chose que je peux te promettre avec certitude."
+101833|J'ai tellement hâte de voir comment ça va mûrir !
+101836|Les papillons dorés ne fondent pas sur le jus des fruits trop mûrs et pourrissants.
+101839|J'ai hâte que vienne le jour de la récolte !‖  L'heure du banquet n'est-elle pas encore venue ?!‖  *ricane*ricane*ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha... !!
+101876|Ils avaient pris leur petit déjeuner dans un café de la gare.
+101879|...Par hasard, l'intérieur du café était décoré aux couleurs d'Halloween, puisqu'on était en octobre.
+101882|Maria en avait semblé terriblement ravie.
+101885|Pendant un bon moment, elle avait parlé fort dans le train de son envie de faire une fête d'Halloween, sans se soucier d'attirer l'attention des autres.
+101888|Halloween est populaire en Europe et en Amérique, mais les Japonais ne la connaissent pas très bien.
+101891|La galerie commerçante était joliment décorée de citrouilles orange,‖  mais aucune trace de défilés d'enfants déguisés réclamant des bonbons en disant `trick or treat'.
+101898|"Uu- !‖  Je veux une fête d'Halloween !‖  Je veux pas mettre ces vêtements, je veux ressembler à une sorcière !‖  Uu-uu- !"
+101906|"La conférence familiale, ce n'est pas pour jouer.‖  On va voir Grand-père, alors il faut que tu sois bien habillée."
+101910|Le train n'était pas complètement plein, mais il y avait beaucoup de monde, et presque tous les sièges étaient occupés.
+101911|Au milieu des passagers, Maria faisait un caprice, tapant des pieds sur la banquette sous le regard noir de Rosa.
+101914|Rosa lui avait demandé à plusieurs reprises de baisser la voix, mais Maria n'avait pas obéi le moins du monde.
+101920|...Une fois que Maria était dans cet état, on avait beau essayer de lui expliquer la situation ou de la calmer, elle n'écoutait rien.
+101924|Avant, Rosa avait l'habitude de gâter Maria et de lui céder dans ces moments-là.
+101925|Mais... c'était sans doute une erreur.
+101928|Maria s'était sûrement mis en tête qu'à force de faire un caprice, sa mère finirait par abandonner et ferait ce qu'elle voulait.
+101931|Rosa avait pris conscience de cette erreur grâce à un livre d'éducation, et depuis,‖  elle avait endurci la part de son cœur qui voulait gâter sa fille adorée...
+101934|La compréhension mutuelle entre elle et Maria s'était peu à peu affaiblie, et elle se décourageait de plus en plus souvent face à sa propre impuissance...
+101942|"Halloween, Halloween !!‖  Si tu me donnes pas de bonbons, je te fais une farce, uu-uu-uu- !!"
+101957|"Je n'ai pas de bonbons à te donner !‖  On vient de prendre le petit déjeuner !"
+101963|"Si tu me donnes pas de bonbons, je te fais une farce !‖  Si tu me donnes pas de bonbons, je te fais une farce !‖  Uu-uu-uu- !!"
+101981|Une vieille dame corpulente, assise non loin de Maria qui tapait des pieds, tira un bonbon de son sac à main et le lui tendit.
+101988|"Uu- !  J'ai eu un bonbon, j'ai eu un bonbon !
+101992|Regarde, regarde, Mama,
+101996|Mama !
+101999|<Happy Halloween> !"
+102006|"Maria, enfin, tu ne dois pas accepter de bonbons des inconnus, tu le sais bien ?!‖  Rends-le !!"
+102012|"Oh, ne vous en faites pas, ho ho ho.‖  Elle est si pleine d'entrain, cette demoiselle.‖  Quel âge a-t-elle ?"
+102015|Les mots de la vieille dame étaient peut-être dénués de toute malice.‖  ...Pourtant, Rosa sembla trouver cette remarque extrêmement humiliante.
+102025|"Maria, je ne t'ai pas toujours dit de ne pas accepter de bonbons des inconnus ?!!"
+102033|"Uu- !
+102036|Uu- !!‖  Elle me l'a donné !!
+102040|Uu-
+102044|uu- !!
+102047|Non, il est à moi !!"
+102056|"Lâche ça !‖  Combien de fois faudra-t-il que je te dise d'obéir à Mama ?!!"
+102065|"Il est à moi !!‖  À moiiiiii !!
+102066|Uu- !!
+102074|Uuu--uuu-- !!"
+102099|"Je ne t'ai pas toujours dit de ne pas faire uu-uu- ?!!"
+102101|"Uu-uu-uu-uu-uu-uu-uu-uu- !!!"
+102106|Par réflexe, Rosa gifla violemment Maria.
+102107|...En un éclair, Maria se mit à pleurer bruyamment.
+102112|Rosa arracha aussitôt le bonbon de la main de Maria et le rendit de force à la vieille dame assise à côté, interloquée.
+102122|"...Je vous en prie, ne donnez pas de bonbons à ma fille comme ça !"
+102124|".........J-Je suis vraiment désolée."
+102127|Le souffle court, Rosa tendit de nouveau le bonbon à la vieille dame.
+102130|...Après avoir cherché ses mots, toute décontenancée, pendant quelques instants,‖  la vieille dame comprit peut-être que son geste avait pu causer du tort à cette mère et à sa fille,‖  et elle reprit le bonbon en s'excusant...
+102141|C'est alors seulement que Rosa prit conscience de ce qui l'entourait...
+102145|Les vêtements de sa fille étaient tout dérangés, elle pleurait et criait, le nez qui coulait,‖  et de nombreux passagers les observaient, interloqués.
+102146|...À part le bruit du train en marche, le wagon était plongé dans un silence total.
+102150|Heureusement, ce pitoyable silence ne dura pas longtemps.
+102151|...Mais il fut suivi d'une atmosphère plus pénible encore, quand tout le monde se mit à chuchoter.
+102156|Maria criait, pleurait, donnait des coups de pied et tapait des pieds comme d'habitude, sans prêter attention aux gens assis autour d'elle.
+102159|...Sous le coup de l'impulsion, Rosa voulut la gifler de nouveau,‖  mais elle remarqua les regards froids des passagers... et ne put s'y résoudre.
+102165|Quand le train s'arrêta, Rosa tira Maria de force par le bras et descendit, traînant presque sa fille derrière elle.
+102171|Maria ne cessait pas de pleurer.
+102176|Rosa l'emmena au bout du quai et la gifla de nouveau.
+102179|Au moment où elle reçut le coup, Maria cessa de pleurer un instant, mais bientôt, elle se mit à crier et à pleurer de plus belle.
+102182|Submergée par l'émotion, Rosa empoigna Maria par la nuque et la traîna en lui tirant les cheveux.
+102188|"Uu- !!‖  Uu-uu-uu- !!‖  Uu- !!‖  Mama, ça fait mal, Mama, ça fait mal !!‖  Uu-uu-uu- !!"
+102195|"Je ne t'ai pas dit de te taire ?!!
+102202|Tes uu-uu- !‖  Je t'ai dit d'arrêter !!
+102208|C'est pour ça que tu n'arrives pas à te faire d'amis en classe, pas vrai ?!‖  Ressaisis-toi !!‖  Pourquoi est-ce que tu as encore une tête de maternelle ?!!
+102214|Pourquoi est-ce que tu ne peux pas obéir à Mama ?!!‖  Pourquoi ?!!‖  Pourquoi ?!!!"
+102227|Sur ces mots durs, Rosa gifla Maria encore et encore.
+102228|Plus Maria pleurait et criait, plus Rosa la frappait.
+102229|Et plus Maria était frappée, plus elle pleurait et criait avec violence...
+102233|"Mama, ça fait mal... !‖  Mama, ça fait mal... !‖  Mama, au secours, Mama, au secours... !‖  Uu-uu-uu-uu- !!"
+102238|"Pourquoi tu n'arrives pas à arrêter tes uu-uu- ?!!
+102243|C'est exactement pour ça que tu n'as pas d'amis !!‖  C'est pour ça que le voyage d'affaires de Papa ne finit jamais !!‖  C'est pour ça que moi-"
+102254|"Euh, ...pardon, ...Madame, tout va bien... ?"
+102261|"Vous... désirez quelque chose... ?!"
+102266|Celui qui l'avait interpellée timidement était un employé de la gare.
+102267|Rosa le foudroya d'un regard qui disait `ne vous mêlez pas des affaires d'une mère et de sa fille, vous qui êtes un étranger'.
+102271|Bien sûr, l'employé n'avait sûrement pas eu envie de s'en mêler, lui non plus.
+102272|Mais Rosa criait sur le quai depuis bien plus longtemps qu'elle ne l'imaginait.
+102275|...Ses remontrances emportées avaient poussé les passagers sur le quai à demander à l'employé d'intervenir.
+102281|Rosa lui lança sèchement de ne plus s'en soucier, puisqu'elles prendraient le prochain train.
+102282|...Et alors, enfin... ou plutôt, pour la deuxième fois, ...elle remarqua les passagers du quai qui la fixaient de loin.
+102288|...Rosa transpirait légèrement, et une brise glaça sa sueur, la mettant au supplice.
+102291|Maria pleurait toujours, en se protégeant la tête.
+102292|...Bien sûr, si les coups continuaient, elle continuerait sans doute à pleurer indéfiniment.
+102305|"............
+102307|......J'ai...
+102309|......encore recommencé..."
+102321|Tandis que la terrible chaleur dans sa tête retombait,‖  ...Rosa sut qu'elle avait de nouveau livré son âme au mal.
+102328|"Mama, Mama !‖  Mama, reviens... !‖  Uu- !‖  Uu-uu-uu-uu- !!"
+102331|Rosa tomba à genoux et serra dans ses bras Maria, dont le visage était tout trempé de larmes et de morve.
+102337|"......Maria, ...pardon.  ...Je suis tellement désolée..."
+102346|"Mama, ...Mama...‖  Bon retour, bon retour..."
+102351|Enfin, ...Maria comprit que sa mère était redevenue sa mère.
+102352|Elle s'agrippa à elle et pleura, le visage enfoui contre sa poitrine.
+102362|"...Pardonne à ta méchante Mama...‖  Pardonne à ta méchante Mama...‖  ......Je suis tellement... désolée... !‖  Je t'en prie, ne déteste pas ta Mama..."
+102364|"Uu-...‖  Je vais très bien...‖  Je déteste pas Mama.‖  ...Mama était juste encore possédée par la méchante sorcière.‖  ...Mais t'es revenue, alors je vais très bien."
+102366|"Oui, ...c'est ça...‖  ...Mama était juste... encore possédée par la méchante sorcière...‖  ...Pardon, ...pardon..."
+102370|Longtemps, toutes deux restèrent enlacées, à demander et à échanger des mots de pardon.
+102374|Au bout d'un moment, elles se calmèrent et se détachèrent l'une de l'autre au même instant.
+102377|Le visage de Maria et celui de Rosa... étaient tous deux écarlates d'avoir pleuré toutes les larmes de leur corps.
+102383|"...Tu veux faire une fête d'Halloween, Maria ?"
+102388|"Oui.‖  ...Je voulais montrer ces chamallows citrouilles à George onii-chan et à Jessica onee-chan..."
+102395|C'était une friandise vendue près de la caisse, dans le café où elles avaient pris le petit déjeuner.
+102398|...Une confiserie raffinée : un gros chamallow orange en forme de citrouille d'Halloween, piqué au bout d'un bâtonnet.
+102402|Maria en avait voulu un et l'avait réclamé à Rosa avec insistance.
+102403|...Rosa avait refusé, en disant qu'il était hors de question d'acheter des bonbons juste après le petit déjeuner.
+102411|"...Alors, Maria,‖  ...je ne sais pas si on en vend dans cette ville, mais on va descendre et essayer d'en trouver, d'accord ?"
+102417|"...O-Oui !‖  Je t'aime, Mama, je t'aime tellement...‖  Merci..."
+102423|"Moi aussi, je t'aime, Maria..."
+102428|À vrai dire, elles n'avaient pas de temps à perdre à traîner dans une gare d'escale.
+102429|Si elles rataient l'avion, elles prendraient une demi-journée de retard sur le programme.
+102433|Elle aurait dû partir de chez elle avec davantage de marge, mais elle avait fini par partir en retard après avoir choisi les vêtements de Maria.
+102434|...C'est pourquoi Rosa était un peu sur les nerfs depuis le matin.
+102439|Elle regarda l'horloge.‖  ...Elles devaient prendre le prochain train immédiatement.
+102442|Mais sa fille lui tenait fermement la main pour aller acheter la friandise avec sa mère, et cette main était chaude.
+102446|...Pour la Rosa qu'elle était à présent, il était plus important de renouer les liens avec Maria.
+102447|...Pour elle, Maria n'était pas seulement une fille adorée,  ...elle était tout ce que Rosa possédait.
+102453|Heureusement, on voyait un grand supermarché juste en face de la gare.
+102454|...Elles ne trouveraient peut-être pas exactement la même friandise, mais Maria serait sans doute contente d'une autre du même genre.
+102457|Et puis, Rosa ne pouvait pas se présenter avec le visage gonflé d'avoir pleuré.‖  Il lui fallait refaire son maquillage.
+102465|"On ne trouvera peut-être pas un chamallow exactement comme celui-là, ...mais j'espère qu'on trouvera quelque chose d'approchant.‖  ...On en achètera et on fera la surprise à tous tes cousins ensemble."
+102471|"Oui.‖  ...Du moment qu'on l'achète ensemble, n'importe quel bonbon me va."
+102481|Elles franchirent les tourniquets de la gare de cette ville inconnue.
+102482|Maria traversa le passage piéton avec sa mère en gloussant toute seule, comme si elle se promenait dans un parc d'attractions.
+102485|Leurs deux visages étaient encore écarlates,‖  ...mais la mère et la fille échangeaient des sourires chaleureux, sans la moindre retenue...
+102506|"......Mon ami,‖  que faites-vous dans un endroit pareil ?"
+102512|"Oh, c'est toi.‖  ......Ce n'est rien.‖  Je trouve simplement que c'est un endroit agréable pour réfléchir."
+102518|"...Tous nos préparatifs pour aujourd'hui sont terminés.‖  Pourquoi ne pas prendre un thé et nous détendre en attendant ?"
+102524|"......Pardonne-moi.‖  Je te laisse toujours t'occuper de ces affaires pénibles."
+102530|"...Je vous en prie,‖  reposez-vous davantage sur moi.‖  ...Je suis votre épouse."
+102536|"...Bien entendu, je te suis reconnaissant de toujours me venir en aide.‖  ...C'est justement grâce à cela que je peux me consacrer à mon travail."
+102542|"Je comprends.‖  ...Je comprends, pour votre travail.‖  Et pour la question de l'héritage de Père, n'est-ce pas ?"
+102548|"......Cela ne te concerne pas.‖  Ce n'est rien d'autre qu'une pêche à la viande avariée entre frères et sœurs cupides."
+102555|"...Tout ira bien, mon ami.‖  ...Tout se passera bien.‖  Vos affaires ont toujours fini par s'arranger."
+102561|"............"
+102564|Natsuhi se blottit doucement contre l'épaule de Krauss.
+102567|Elle félicitait Krauss pour son dur labeur, ...mais Natsuhi savait mieux que quiconque que ses affaires ne marchaient pas bien.
+102572|...Le projet de Krauss était une sorte de balançoire à bascule sur laquelle oscillent de grosses sommes d'argent.
+102575|Les gros investissements peuvent rapporter des gains colossaux,‖  mais, comme les grandes balançoires à bascule, ils ont tendance à beaucoup osciller tout en bougeant très lentement, au lieu de donner des résultats immédiats.
+102578|Parfois, il est possible d'investir davantage, pour que la bascule penche plus vite du côté que l'on souhaite.
+102579|...Bien sûr, on ne le ferait que si l'on était sûr de pouvoir récupérer toute sa mise dans un avenir pas trop lointain.
+102583|...Pourtant, les balançoires que choisissait Krauss ne tournaient jamais comme il l'aurait voulu.
+102584|...Sa clairvoyance n'était pas en défaut, ...mais l'époque avançait avec lenteur.‖  Elle ne parvenait jamais à le rattraper.
+102589|Imaginez, par exemple, une véritable balançoire à bascule, installée dans un parc.
+102592|C'est un jeu très prisé, alors il y a toujours quelqu'un dessus,‖  et il faut attendre longtemps son tour.
+102595|...Disons qu'un jour, vous en repériez une complètement inoccupée, et que vous vous précipitiez pour vous l'approprier le premier et l'avoir pour vous tout seul.
+102599|Pourtant, ...à moins que quelqu'un ne monte de l'autre côté, impossible d'y jouer.
+102600|Et si beaucoup de temps passait... sans que personne ne vienne à l'autre bout ?
+102603|Les balançoires sont prisées, alors si l'on attend assez longtemps, un partenaire finira sûrement par se présenter.
+102608|...Mais Krauss remarqua quelque chose.
+102612|Le temps se gâte.
+102613|Alors personne ne sort jouer.
+102618|Mais les balançoires sont prisées, alors quelqu'un finira sûrement par venir.
+102619|...S'il quittait sa place à cause du mauvais temps, on la lui prendrait à coup sûr,‖  et une fois de plus, il finirait par regarder de loin, avec envie, quelqu'un d'autre s'amuser sur la balançoire...
+102623|D'un côté de la balançoire, il continuait d'attendre patiemment, tout seul...
+102624|Tel était le projet de Krauss... et sa situation actuelle.
+102631|".........Si seulement j'avais eu un peu plus de courage... et la confiance nécessaire pour croire en ma propre clairvoyance,‖  ...je n'aurais jamais... échoué."
+102637|"...Oui, c'est vrai.‖  Votre clairvoyance ne se trompe jamais.‖  ...Vous êtes le seul à avoir hérité de l'ingéniosité de Père.‖  Vous avez hérité d'un don inné qu'aucun de vos frères et sœurs n'a reçu."
+102643|"...Mais je n'ai jamais pu y croire !‖  J'ai toujours abandonné mes propres projets comme un lâche.‖  ...Pourquoi ne puis-je pas croire en moi ?!‖  Qui croirait en un homme incapable de croire en lui-même ?‖  Personne ne croit en moi !!"
+102650|"...Je suis toujours assis à la place où doivent s'asseoir les perdants...
+102664|...et mon père, ma mère,
+102677|...mes frères et sœurs se moquent tous de moi...‖  Combien de temps me faudra-t-il pour être libéré de ce complexe... ?‖  Combien de temps encore... ?"
+102683|...Natsuhi était la seule à savoir.
+102686|Elle seule connaissait l'angoisse de Krauss.‖  Fils aîné de la famille Ushiromiya, bientôt contraint de porter une immense responsabilité,‖  il ne pouvait ouvrir son cœur meurtri à personne, et on le comparait sans cesse aux grandes entreprises de son père...
+102693|"...J'ai pris mes dispositions pour toutes les autres affaires, afin que vous puissiez consacrer toute votre attention à la conférence familiale.‖  ...Oui, il a été pourvu à tout le reste."
+102703|"......Merci.‖  ...Y aura-t-il...‖  ...le moindre problème avec Père ?"
+102705|"Aucun.‖  ...Genji et le docteur Nanjo sont de notre côté.‖  ...Je ne laisserai jamais ces frères et sœurs cupides approcher Père."
+102729|"Allô, ici Gohda.
+102734|...Oui, comptez sur moi !‖  J'ai hâte de mettre mon talent au service du grand événement de l'année."
+102740|En cuisine, des ingrédients de toutes les couleurs étaient rassemblés, et les préparatifs commençaient sans tarder.
+102743|Bien qu'on fût encore le matin, les ingrédients du dîner mijotaient déjà dans les casseroles.
+102746|D'ordinaire, il devait s'occuper de diverses tâches, mais le jour de la conférence familiale, il pouvait se consacrer entièrement à la cuisine.
+102749|Pour Gohda, qui était cuisinier de métier, c'était sûrement la plus grande fête de toute l'année.
+102756|"Oui, au dîner, ce sera steak de veau... !‖  Un morceau de viande magnifique attend déjà ce soir avec impatience dans le réfrigérateur.‖  Je vous en prie, réjouissez-vous d'avance du dîner."
+102760|Il était rare que Gohda soit d'aussi bonne humeur envers ses collègues domestiques.
+102763|Gohda se vantait d'être le chef personnel de la famille Ushiromiya, et se savoir jugé digne de faire montre de son excellente cuisine lors de la conférence familiale était pour lui le plus grand des honneurs.
+102770|"...Entendu.‖  Je vous laisse tout entre les mains.‖  ...Par ailleurs, Kumasawa est-elle là ?"
+102776|"Kumasawa-san ?‖  Je l'ai croisée tout à l'heure, mais elle n'est pas ici.‖  Elle est peut-être allée préparer la maison d'hôtes."
+102785|"...Elle tire encore au flanc ?‖  ...Non, c'est sans importance.‖  Poursuivez votre travail, je vous prie."
+102788|"Oui, laissez tout à Gohda... !"
+102797|Genji raccrocha le téléphone avec un léger soupir.
+102800|Genji soupira de nouveau en pensant à Kumasawa, qui se cachait sans doute encore alors qu'il y avait tant à faire,‖  et à ce m'as-tu-vu de Gohda, qui n'avait envie de s'activer que les jours où il pouvait se mettre en valeur.
+102812|"Excusez-moi.‖  Toutes les chambres de la maison d'hôtes sont prêtes."
+102818|"...Mademoiselle nous a demandé de préparer une chambre pour quatre, afin que les enfants puissent passer la nuit ensemble, ...que devons-nous faire ?"
+102825|"...J'ai entendu dire que Battler-sama viendra pour la première fois depuis six ans.‖  Mademoiselle souhaite sans doute veiller tard dans la nuit avec ses trois cousins.‖  ...Faites les préparatifs.‖  Inutile d'en informer Madame."
+102832|"Je vois.‖  Bien."
+102840|"...Donc, ce soir, nous aurons le service de nuit, suivi immédiatement du service du matin.‖  On dirait que ces deux jours vont être éprouvants."
+102847|"À ce propos, la météo annonce qu'un typhon va frapper la région...‖  Est-ce que tout ira bien ?"
+102854|"...À moins que le typhon ne s'écarte beaucoup de sa trajectoire, il risque de perturber le retour en bateau des membres de la famille.‖  La conférence familiale pourrait se prolonger jusqu'à lundi ou mardi.‖  ...Notre tâche sera peut-être longue et éprouvante, mais je vous demande instamment de veiller à ne commettre aucune maladresse."
+102859|"......Shannon, reste calme et ne panique pas.‖  Kanon, veille à accueillir nos invités de manière aimable."
+102867|"...O-Oui,‖  je ferai attention."
+102874|"...Je ferai attention."
+102882|"Aujourd'hui, nous devons nous conduire comme il sied face à un invité de la plus haute importance.‖  ...Veillez à ne commettre aucune maladresse."
+102889|"...Nous comprenons.‖  ...Tous les invités qui viennent ici sont importants."
+102894|"Kanon,‖  au sens le plus vrai du terme,‖  nous recevrons aujourd'hui ~ib~un invité de la plus haute importance~ib~.
+102901|"...Oui, monsieur."
+102910|"......Shannon, quelque chose ne va pas ?‖  ...Tu sembles inquiète.  As-tu quelque engagement à cette heure-ci ?"
+102917|"Hein ?‖  N-Non, ce n'est rien.‖  Je vous prie de m'excuser..."
+102925|"Nee-san,‖  des invités importants arrivent aujourd'hui.‖  ...Laisse ta vie privée de côté."
+102932|"J-Je ne vois pas de quelle vie privée tu parles..."
+102938|Rougissant légèrement, Shannon détourna son regard de l'horloge.
+102941|...L'avion qui transportait la famille devait arriver à Niijima d'un moment à l'autre, non ?
+102944|...Elle avait essayé de cacher que ses retrouvailles tant attendues avec George faisaient battre son cœur à tout rompre,‖  mais Kanon, à côté d'elle, semblait lire en elle comme dans un livre ouvert.
+102972|"...Shannon, je t'en prie, ne dis rien et accepte ceci... !"
+102976|...Enfermé dans une cabine des toilettes, George répétait encore et encore la même scène, sortant de sa poche un petit écrin de velours comme un pistolero du désert dégainant à toute vitesse.
+102982|"Non, ce n'est pas ça...‖  Shannon aime les hommes plus sûrs d'eux.‖  I-Il faut que je mette plus de puissance là-dedans... !"
+102987|"Shannon, passe ceci à ton annulaire.
+102992|...C-C'est un ordre, d'accord... ?"
+102999|"Aah, si je ne précise pas bien que c'est la main gauche, elle risque de le mettre à la main droite !‖  N-Non, Shannon n'est pas ignorante à ce point,‖  aaah, mais si je ne lui laisse pas un peu de place pour exprimer son libre arbitre, ce serait un peu, enfin,
+103001|uuuuuu, nnnnuuuuuuu, muuuuuuuaaaaaaaaahhhh... !!"
+103009|Alors qu'il marmonnait, les bras croisés, quelqu'un frappa à la porte.
+103010|George revint brusquement à la réalité.
+103018|"Hé, George-kun.‖  Ça va ?‖  T'as mal au ventre ou quoi ?"
+103022|"Ah, ah ha ha ha ha, bonjour, Oncle Rudolf... !‖  Ça va, tout va bien !‖  Ne vous inquiétez pas, ah ha ha ha ha ha... !"
+103028|"Vraiment... ?‖  Tant mieux, alors.‖  Mais tu sais, tu forces beaucoup trop.‖  Tu vas te faire péter le cul."
+103036|Rudolf se lava les mains et sortit en riant de bon cœur.
+103037|...George, comprenant qu'on n'avait pas entendu le passage le plus embarrassant, se détendit, extrêmement soulagé...
+103045|"Kyrie, Rosa n'est pas encore là ?"
+103051|"Pas encore.‖  Elle est vraiment en retard."
+103057|"Heureusement que la météo retarde notre vol.‖  Si tout s'était passé comme prévu, elle aurait raté l'avion.‖  Elle comptait faire quoi, dans ce cas ?"
+103063|"...Rosa-san est une adulte, maintenant.‖  Elle se débrouillera.‖  Peu importe leur âge, les grands frères traitent toujours leurs petites sœurs comme des enfants."
+103070|"Évidemment, P'pa, lui, reste toujours un gamin, peu importe son âge."
+103076|"Qu'est-ce que tu dis ?  Si je suis un gamin, alors toi, t'es un bébé.‖  Allez, Battler-chan, hop là !"
+103083|"Arrête, ça chatouille, wah ha ha, arrêêête !"
+103089|"Vous ressemblez plus à deux copains garnements qu'à un père et son fils.‖  ...Tenez, la voilà."
+103097|"Ohoooooooooh !!!‖  Mais c'est Rosa-san !‖  Maria-chan, ça fait longtemps !!"
+103102|"Ça fait longtemps !‖  Uu- !"
+103109|"Maria !‖  On ne dit pas plutôt `Je suis contente de vous revoir' ?‖  Salue Hideyoshi-san correctement."
+103114|"Uu-.‖  Je suis... contente de vous revoir..."
+103120|"Voilà !‖  Bien dit !‖  Que dirais-tu d'un bonbon pour te récompenser ?!‖  ...Oh, hein ?‖  Où est-ce que je l'ai mis..."
+103127|"Rosa-san, je suis contente de vous revoir.‖  Toi aussi, Maria-chan, je suis contente de te revoir."
+103133|"Ça fait trop longtemps, Kyrie nee-san, Hideyoshi nii-san.‖  ...Et... mon Dieu, Battler-kun ?!‖  Comme tu as grandi... !"
+103139|"Ah, arrête, ha ha ha...‖  C'est gênant de l'entendre de la bouche de tous ceux que je croise... !"
+103145|"Hé, Rosa.‖  T'es en retard.‖  Si l'avion avait été à l'heure, t'aurais eu juste le temps..."
+103150|"Désolée.‖  On a eu un souci avec notre correspondance.‖  Alors, on attend encore à cause de la météo ?"
+103156|"Oh, ne te plains pas.‖  Je préfère de loin trente minutes d'avion à six heures à me faire secouer sur un bateau.‖  Même si on nous fait attendre une heure ici, ça reste bien plus rapide au total."
+103163|"C'est Maria... ?‖  Qu'est-ce qu'elle a grandi...‖  Elle est en pleine croissance..."
+103169|"Tu ne l'as pas vue depuis six ans, non ?‖  Évidemment qu'elle a changé.‖  Les femmes sont des créatures qui peuvent renaître en un seul jour lorsqu'elles changent d'état d'esprit."
+103176|"...Uu- ?"
+103179|Remarquant parmi les membres de la famille un grand gaillard qu'elle ne reconnaissait pas, Maria se cacha derrière Rosa et fusilla Battler du regard.
+103187|"Allez, Battler, dis-lui bonjour.‖  La dernière fois que tu l'as vue, elle avait à peine trois ans, alors c'est presque une première rencontre."
+103193|"Ouais, évidemment qu'elle se souvient pas de ce qui s'est passé quand elle avait trois ans !‖  Salut Maria, ça fait longtemps.‖  Qu'est-ce que t'as grandi !"
+103203|"Maria,‖  c'est Battler onii-chan.‖  Le fils de Rudolf nii-san.‖  ...Tu comprends ?"
+103210|"............Le fils du frère, c'est...‖  Le frère, c'est le fils...‖  ............??‖  ......Uuuu--- !!"
+103215|Elle était visiblement sur ses gardes.
+103216|Après tout, il n'y avait rien d'étonnant à ce qu'elle ait peur, si un grand gaillard comme Battler se mettait soudain à lui parler familièrement.
+103220|Battler le remarqua lui aussi et réfléchit à différentes façons de l'approcher.
+103221|C'est alors qu'il aperçut la friandise qu'elle tenait à la main.
+103226|C'était la friandise en forme de citrouille d'Halloween que Rosa lui avait achetée.
+103234|"Je vois, on est en octobre, alors c'est pour Halloween.‖  Ihihi, si tu me donnes pas de bonbons, je te fais une farce, c'est ça ?!"
+103238|D'ordinaire, essayer de chiper une friandise à un petit enfant le fait pleurer et hurler.
+103243|Les adultes semblaient sceptiques face à la tactique de Battler, mais Maria eut l'air étonnamment ravie, et un large sourire fendit son visage.
+103250|"Halloween, Halloween !!‖  Tu vois, Mama, Battler aussi connaît Halloween !  Tu vois, tu vois ?!!"
+103257|"Enfin, appelle-le Battler onii-chan !‖  Désolée, Battler-kun."
+103264|"Non, non, t'en fais pas.‖  Qu'elle m'appelle Battler.‖  Parce que moi, je vais l'appeler Maria.
+103269|Regarde, Maria, c'est Halloween !‖  Si tu me donnes pas de bonbons, je te fais une farce !!"
+103276|"Si tu me donnes pas de bonbons, je te fais une farce !!‖  Kyah ha ha ha, *gloussement* !!"
+103281|De son sac, Maria sortit une friandise en forme de citrouille semblable à celle qu'elle tenait à la main et la tendit à Battler.
+103282|Quand Battler l'accepta, cela parut suffire à sceller leur amitié.
+103285|Les adultes s'émerveillèrent de la facilité avec laquelle les enfants savent s'entendre.
+103288|Maria avait fait un caprice parce qu'elle voulait une fête d'Halloween,‖  alors Battler, qui connaissait le trick or treat, avait dû lui apparaître comme un allié.
+103292|Sa méfiance de tout à l'heure avait complètement disparu.
+103293|À présent, elle était toute joyeuse, comme s'ils étaient amis depuis des décennies.
+103299|"C'est vrai, Halloween, c'est un truc plutôt confidentiel au Japon.‖  On voit toujours des gens défiler déguisés aux infos de l'étranger, mais ici, j'en ai jamais vu."
+103305|"Moi aussi, je voulais me déguiser.‖  Je voulais dire `trick or treat' avec tous les cousins déguisés..."
+103311|"Je vois, je vois.  La prochaine fois, on le fera ensemble !‖  En quoi tu voudrais te déguiser ?"
+103318|"En sorcière !!‖  En Beatrice !"
+103346|"Oh, Mademoiselle, que faites-vous dans un endroit pareil ?‖  Madame vous cherchait."
+103353|"Je suis ici parce que je veux pas qu'on me trouve.‖  ...De toute façon, je suis sûre qu'elle veut juste me sermonner, genre `ta tenue est-elle convenable ?' et `surveille ton langage'."
+103359|"Ho ho ho...‖  Sans aucun doute."
+103365|"...Tu sais,‖  quand le jour de la conférence familiale arrive, je me mets toujours à penser à cette sorcière, je sais pas pourquoi."
+103371|"Oh...‖  Et pourquoi donc... ?"
+103378|"La conférence familiale, c'est le jour où tous ceux qui sont liés à Grand-père se réunissent.‖  ...Il paraît que cette fois, même Battler va venir, après six ans.‖  ...Et si, comme ça,‖  un `parent' qui s'est pas montré depuis plusieurs dizaines d'années débarquait tout à coup ?  C'est à ça que je pense toujours."
+103385|"......Ho ho.‖  Un tel parent pourrait-il exister... ?"
+103387|"Je parle de Beatrice-sama.‖  ...Personne sait d'où elle vient.‖  Ce serait pas une ancienne maîtresse de Grand-père ?‖  ...Et si un de ses descendants débarquait tout à coup pour nous dire de rendre l'or qu'on nous a donné, ou un truc du genre ?"
+103391|"Ho ho ho ho...‖  Krauss-sama et les autres discuteront sans doute cette année encore de la question de l'héritage du Maître.‖  ...À force de s'échauffer en parlant de l'or de la sorcière, il n'y aurait rien d'étonnant à ce que la sorcière elle-même se montre, n'est-ce pas ?"
+103398|"Kumasawa-san,‖  ...je sais que t'arrêtes pas de démissionner et de te faire réembaucher, mais t'es ici depuis aussi longtemps que Genji-san, non ?‖  ...T'en sais plus... sur Beatrice, pas vrai ?"
+103404|"......Qui sait ?
+103409|Ho ho ho...‖  J'ai beau essayer de me souvenir, la vieille femme que je suis n'arrive même pas à se rappeler ce qu'elle a mangé ce matin..."
+103415|"Kumasawa-san, tu t'esquives toujours avec ces excuses, mais tu sais quelque chose, hein ?‖  Des fois, t'as l'air un peu sournoise, comme si tu savais un truc et que tu riais dans notre dos."
+103420|"Ho ho ho, ...que vous êtes dure.‖  ...Je n'ai aucun secret.‖  ...Tout ce que je peux dire, c'est que Beatrice-sama est la Sorcière dorée...‖  et qu'elle est l'autre maîtresse, celle qui règne sur les nuits de cette île."
+103426|"Bon, là, tu fais que répéter ce que dit Grand-père.‖  Ça doit être pénible de jouer le jeu de ses conneries, même si t'es payée pour."
+103432|"...Pourtant, je peux vous dire ceci."
+103438|"...Quoi ?"
+103447|"...Dans les temps anciens, on craignait Rokkenjima et on l'appelait `Azukishima' (l'île du Haricot rouge).‖  On dit que `Azuki' est une déformation de `Akujiki', et qu'en réalité on l'appelait `Akujikishima' (l'île de l'Appétit maléfique).  Voilà ce que racontent les pêcheurs."
+103454|"J'en ai déjà entendu parler.‖  Il paraît qu'il y a plein de récifs et d'épaves dans le coin, alors les pêcheurs avaient peur et s'en tenaient éloignés dès qu'ils pouvaient, c'est ça ?"
+103456|"...Des esprits malfaisants se sont établis sur Akujikishima et ont dévoré les âmes des gens depuis les temps anciens.‖  ...Bien des gens ont perdu la vie à cause de cette île."
+103467|"Et puis ce moine, le shugenja itinérant ou je sais pas quoi, a construit ce sanctuaire, apaisé les âmes et les a fait reposer là, c'est ça ?‖  ...Ça a l'air un peu dingue, quand même."
+103469|"Et ce sanctuaire d'apaisement des âmes a été détruit cet été par un sinistre éclair violet qui a déchiré les ténèbres de la nuit..."
+103481|"Kumasawa-san, t'aimes vraiment ces histoires.‖  D'accord, ce serait assez flippant qu'un éclair détruise un sanctuaire.‖  Mais bon, il était tout délabré dès le départ.‖  Il a peut-être juste été emporté par une grosse vague.‖  Ha ha ha ha ha."

@@ -1,0 +1,808 @@
+114666|"Oui...‖  ......En fait, à la chapelle......‖  ......"
+114672|Genji... murmura quelque chose à l'oreille de Rosa.
+114675|Un instant, Rosa sembla ne pas comprendre ce qu'on venait de lui dire.‖  Il fallut le lui répéter plusieurs fois pour qu'elle saisisse qu'apparemment, quelque chose d'étrange s'était produit.
+114679|Rosa referma sa porte un instant, se changea en hâte, puis suivit Genji en direction du manoir...
+114706|La chapelle mérite quelques explications.
+114707|Elle ne se trouvait pas dans le manoir, mais dans un bosquet derrière celui-ci, à quelques pas de marche.
+114710|Elle avait été bâtie en même temps que le manoir, ‖si bien que, malgré ses murs maintes fois restaurés qui lui donnaient de l'extérieur un air neuf, c'était un édifice très ancien.
+114714|Rosa courut sous la pluie aux côtés de Genji.
+114715|Comme la veille au soir, la pluie tombait à verse.
+114728|Enfin, la chapelle apparut au-delà d'un mince rideau d'arbres...
+114730|Vue de l'extérieur, elle semblait un lieu d'une beauté éblouissante, où un jeune couple d'amoureux aurait pu rêver de se marier.
+114733|Pourtant, Kinzo la considérait apparemment comme un lieu des plus sacrés, ‖et Rosa et ses frères et sœur avaient reçu l'ordre strict de ne pas s'en approcher sans nécessité.
+114736|Même adultes, ils ne pouvaient s'approcher de la chapelle, quelle qu'en soit la raison, sans éprouver un sentiment de culpabilité...‖et aussi de peur, comme si leur Père allait se mettre en colère et les gifler...
+114749|On distinguait les silhouettes des domestiques devant l'entrée de la chapelle.‖  Gohda, Shannon et Kanon.
+114750|...Autrement dit, tous les domestiques du service du matin s'étaient rassemblés.
+114754|Un peu plus tôt, Genji avait parlé à Rosa et lui avait expliqué la situation.
+114755|Mais... sans le voir de ses propres yeux, elle n'avait vraiment pas pu comprendre...
+114758|Il en allait sans doute de même pour tous les domestiques rassemblés ici.
+114762|...~ib~Sans le voir de leurs propres yeux~ib~, ils n'auraient pas pu comprendre ce qui se passait.
+114770|Sur la porte d'entrée de la chapelle...‖il y avait quelque chose de très grand, ...tracé avec une peinture sinistre et filandreuse qui faisait penser à du sang...‖  ...Une sorte de sinistre cercle magique.
+114785|"...Qu-
+114787|Qu'est-ce que...
+114789|...c'est que ça... ?‖  Quand est-ce que ça a été dessiné ?!"
+114799|Les domestiques échangèrent un regard.
+114800|Gohda fut le premier à prendre la parole.
+114808|"...J-Je vous demande pardon.‖  Nous n'entrons pas dans ce bâtiment d'ordinaire, nous ignorons donc quand cela a été fait."
+114814|"Alors, qui l'a découvert en premier ?!"
+114820|"C-C'est moi.‖  ...Quand je suis allée dans la salle à manger pour débarrasser le service à thé, ...j'ai trouvé une note où était écrit `chapelle'..."
+114823|Shannon tendit la note d'une main tremblante.
+114829|"...De qui est cette écriture ?‖  Ce n'est ni celle de Nii-san ni celle de Nee-san.‖  ...Et ensuite, tu es venue ici et tu as trouvé ça, c'est ça ?"
+114834|"Oui..."
+114841|"...Rosa-sama, ......regardez ceci."
+114851|"Quoi ?‖  <......Happy Halloween...for...>
+114854|  ...Quoi ?!"
+114860|Kanon désigna une unique ligne d'anglais écrite sous le sinistre cercle magique.
+114863|Avant qu'on la lui montre, elle l'avait prise pour un simple élément du cercle magique.
+114866|Là, les mots suivants étaient écrits en anglais : 
+114872|<Happy HALLOWEEN for MARIA.>
+114877|Joyeux Halloween...‖  Pour Maria...
+114880|Ce sinistre cercle magique...‖était pour Maria.
+114883|<Happy Halloween.>
+114893|La veille, une seule personne avait dit <Happy Halloween> à Maria...
+114894|La formule concordait.
+114897|...C'était la Sorcière dorée, Beatrice... !
+114909|"Et M-Maria, alors ?!‖  Elle est censée dormir avec ses cousins, non ?‖  Vous avez vérifié ?!"
+114915|"...Je vous demande pardon.‖  Nous venons seulement de remarquer que le nom de Maria-sama était inscrit ici.‖  ...Nous n'avons pas encore vérifié.‖  Vite-"
+114923|"Mais qu'est-ce que vous faites ?!!‖  Je vais voir comment va Maria et je reviens !‖  Prévenez aussi Krauss nii-san et les autres.‖  Ensuite, suivez leurs instructions !"
+114929|...Après avoir dit cela, Rosa remarqua enfin que quelque chose clochait.
+114932|Dans cette conférence familiale, son rang à elle était le plus bas des quatre frères et sœurs.
+114935|...Pourquoi l'avait-on appelée, elle seule, dans une situation aussi anormale, et pas les autres ?
+114937|...Même si le nom de Maria était apparu.
+114944|"Ce ne serait pas... hein ?‖  ...Quoi ?!"
+114954|"...O-Oui.‖  Nous avons tenté de joindre Krauss-sama, 
+114956|...mais nous ne l'avons pas trouvé..."
+114963|"Et Madame n'était pas dans sa chambre.‖  ...À voir l'état des draps, elle n'a peut-être pas du tout regagné son lit cette nuit."
+114969|Rosa sentit quelque chose de sinistre lui remonter lentement le long du dos...
+114980|"......V-Vous avez regardé à l'intérieur de la chapelle ?"
+114982|"Non, pas encore.‖  Nous avons essayé, mais..."
+114987|"...En réalité, la serrure de la chapelle est particulière, le passe-partout ne fonctionne pas.‖  Une seule clé peut l'ouvrir, ...mais cette clé a disparu de l'boîte à clés."
+114994|Elle n'avait aucune envie de s'approcher de la porte au sinistre cercle magique si elle pouvait l'éviter.
+114998|Rosa rassembla son courage, s'avança, puis essaya de pousser et de tirer la poignée.
+114999|...Elle ne sentit que la résistance d'une serrure solide.
+115005|"Nous avons cherché s'il y avait une fenêtre par laquelle entrer, mais...‖  Je crois qu'il faudrait briser l'une des fenêtres pour voir à l'intérieur...‖  Qu'en pensez-vous ?"
+115011|"...Il est hors de question que je vous autorise à faire une chose pareille.‖  C'est la précieuse chapelle de Père.‖  ........."
+115020|À cet instant, les événements de la veille tourbillonnèrent au fond de l'esprit de Rosa...
+115028|...Mais oui, 
+115030|...quand j'ai rencontré cette sorcière dans la roseraie, 
+115032|...est-ce qu'elle n'a pas remis une enveloppe à Maria ?
+115044|Oui, aucun doute, elle la lui a bien remise.
+115047|Quand Maria a voulu l'ouvrir, la sorcière lui a dit de ne pas le faire tout de suite, puis elle a dit, j'en suis sûre : ‖"~ib~Le moment de l'ouvrir viendra bientôt~ib~"...
+115052|Rosa en était certaine.
+115053|...Il ne pouvait y avoir aucune erreur.
+115054|...L'enveloppe que Maria avait reçue était......
+115087|Revenue en courant à la maison d'hôtes, Rosa s'approcha de la chambre des cousins à pas feutrés, ‖ouvrit doucement la porte et jeta un coup d'œil à l'intérieur...
+115094|De l'intérieur lui parvenaient les ronflements vigoureux propres à la jeunesse.
+115095|Il y avait quatre enfants.‖  Et Maria était là.‖  ...Profondément endormie.
+115102|Après avoir poussé un soupir de soulagement, elle entra dans la chambre à pas silencieux.
+115103|...Elle cherchait le sac à main de Maria, posé sur le canapé.
+115107|Maria aimait toujours avoir ses trésors avec elle.
+115108|...Elle imitait sans doute sa mère, qui avait toujours son maquillage sur elle.
+115111|Bien sûr, ce n'était qu'une imitation, si bien que tout ce qu'il contenait n'était que bric-à-brac.
+115116|Dans le cas de Maria, il était rempli de petits objets occultes et sinistres, de carnets décrivant ce genre de choses, et ainsi de suite.
+115119|...Rosa n'avait jamais aimé voir sa fille se promener avec des choses pareilles, si peu dignes d'une petite fille.
+115122|Mais tenter de forcer Maria à arrêter avait provoqué une grosse dispute, alors elle avait décidé de laisser faire.
+115129|".........La voilà.‖  ......C'est elle......"
+115133|Une enveloppe à l'occidentale, frappée du blason de l'aigle doré...
+115136|En la sortant du sac, elle se rendit compte qu'elle contenait un objet lourd, vaguement cylindrique.
+115141|...Elle le devinait à sa forme et à son poids.
+115142|...Il n'y avait aucun doute.
+115143|C'était... une clé.
+115149|Après s'être retournée pour vérifier que Maria dormait toujours à poings fermés, ‖Rosa déchira l'enveloppe, et son contenu tomba dans sa paume.
+115157|...C'était une clé ancienne, au motif complexe...
+115160|Rosa serra la clé dans sa main et sortit en courant.
+115166|...Battler sembla remarquer ce bruit, mais après avoir grommelé et s'être retourné dans son sommeil, il se remit à ronfler...
+115180|"...Genji-san,‖ ...cette clé... serait-ce la clé de la chapelle ?"
+115187|"Où avez-vous...‖  ...Oui, c'est bien la clé de la chapelle."
+115194|Rosa s'approcha de nouveau du sinistre cercle magique... et introduisit la clé dans la serrure.
+115198|...Elle rencontra une forte résistance.
+115199|Après avoir résisté un court instant, ...la serrure céda avec un bruit sourd.
+115202|Puis, dans un grincement à vous écorcher les oreilles, ...la porte commença à s'ouvrir, lentement, très lentement......
+115211|"......Il y a quelqu'un... ?!"
+115216|Sa voix résonna dans l'immense salle.
+115217|...Bien entendu, il n'y eut aucune réponse.
+115226|La chapelle avait un haut plafond, et l'air y était froid.
+115229|...Et même par ce jour pluvieux et inquiétant, il s'en dégageait, on ne sait pourquoi, une impression de sacré...
+115232|Les domestiques suivirent Rosa d'un pas craintif.
+115242|"...Rosa-sama, regardez là-bas."
+115244|Kanon le remarqua aussitôt et tendit le doigt.
+115249|...Là-bas... se trouvait l'autel.
+115252|À l'endroit où un pasteur aurait d'ordinaire prêché l'amour de Dieu, il y avait une table qui n'aurait pas dû s'y trouver.
+115258|Au premier abord, on aurait dit une table de salle à manger.
+115259|...De fait, on y avait disposé de magnifiques assiettes et des couverts, comme pour un anniversaire d'enfant ou quelque chose du genre.
+115265|En y regardant de plus près, les alentours étaient décorés de citrouilles et de rubans noirs et orange.
+115266|C'étaient sans doute... des décorations d'Halloween.
+115272|Et des gens étaient attablés.
+115273|Trois de chaque côté, face à face, assis sur des chaises.
+115277|On les reconnaissait au premier coup d'œil.
+115278|Krauss et sa femme, Eva et son mari, Rudolf et sa femme.
+115281|Mais pour en être sûr, il fallait tout de même s'approcher davantage et vérifier.
+115287|...Car ils ressemblaient presque à des poupées.
+115290|Rosa et les autres avaient ouvert la porte, étaient entrés tous ensemble dans un bruit de pas nombreux, et avaient demandé s'il y avait quelqu'un.
+115294|...Et pourtant, il n'y avait eu aucune réaction.
+115295|...Même à supposer qu'on les ignore, on se serait attendu à une réaction quelconque.
+115298|...Et il n'y avait même pas eu cela.
+115301|Alors, au début, on aurait cru que quelqu'un avait installé là des poupées ressemblant à s'y méprendre à ces personnes...
+115306|...À présent, ce n'était plus seulement Rosa.
+115307|...Shannon et Kanon, et même Gohda.
+115308|...Tous luttaient désespérément contre le sentiment sinistre qui leur étreignait le cœur.
+115321|"...Nii-san... ?‖  ......Nee-san...... ?"
+115323|Tout en marchant vers l'autel, elle les appela de nouveau, mais il n'y eut toujours aucune réaction.
+115329|...Oui, ...à présent, Rosa en était sûre.
+115332|...Elle était sûre que ce n'étaient pas des poupées, ‖~ib~mais bien eux en personne~ib~... !
+115338|"......C'est......"
+115342|"........."
+115349|Ils arrivèrent assez près pour distinguer clairement ce qui se trouvait sur la table.
+115352|On aurait toujours dit un adorable banquet, évoquant un anniversaire d'enfant.
+115358|Des assiettes chargées de friandises, de jolies carafes remplies de boissons.
+115359|Toutes sortes d'ornements en forme de citrouille...
+115362|...Tout était décoré dans le style d'Halloween, ‖...et même si ce n'était sans doute pas le moment d'y penser, Maria aurait certainement été ravie de voir tout cela.
+115367|Voilà à quoi ressemblait la table devant laquelle ils étaient assis, comme endormis...
+115370|C'était une scène inquiétante, ...comme si une petite fête d'Halloween bien joyeuse avait été figée dans le temps...
+115377|"...Ils sont tous...‖...en train de dormir... ?‖  ...... ?"
+115383|En s'approchant encore, ...elle s'aperçut que des friandises étaient éparpillées partout sur le sol.
+115386|Bonbons, biscuits, sodas et chocolats, ...tous dans des emballages aux motifs très féeriques...
+115402|Tout cela était éparpillé sur un tapis couvert de confiture de mûres et de canneberges...
+115420|"...Wa, uwaaaaaaaaaaaaaaaaaaaaa ?!"
+115435|Rosa et les autres... finirent par comprendre la situation...
+115439|C'était... une fête d'Halloween.
+115440|Un banquet pour ceux qui ne sont pas de ce monde... !
+115450|Krauss, Natsuhi, Eva, Hideyoshi, Rudolf et Kyrie étaient assis sur leurs chaises, comme endormis, ...mais tous morts.
+115453|Comment savoir qu'ils étaient morts et pas simplement endormis ?
+115467|C'était parce que...
+115469|on les avait...
+115471|f-
+115473|fendus...
+115475|...ouverts en deux, verticalement...
+115477|...de la poitrine jusqu'au ventre...... !
+115497|"...K-Krauss-sama...... !!
+115507|  Hiiiiiiiiiiiiiiiii... !"
+115514|"......... Comme c'est... cruel..."
+115520|Tous les six s'étaient attablés à une fête d'Halloween, ...avant qu'on leur ouvre le ventre, ce qui les avait tués.
+115523|Alors, la confiture qui couvrait le sol... devait être ce qui avait débordé de leur ventre une fois qu'ils s'étaient complètement gavés, non... ?
+115529|...Non !!
+115531|Le contenu de leur ventre avait été répandu partout sur le sol !!‖  Et ce n'était pas tout.
+115534|De leur ventre, ...c'était presque comme si... presque comme si...‖comme si ça s'était déversé... !!‖  C-Comme si des friandises en avaient débordé !!
+115596|Bonbons et biscuits, sodas et chocolats...
+115598|s'étaient déversés, maculés de sang, et s'étaient éparpillés sur le sol !!
+115600|Que s'était-il donc passé pour en arriver là ?!
+115605|C'est presque comme si leur ventre avait été bourré de sucreries à en éclater...
+115607|et que tout s'était déversé quand leur ventre s'était fendu !!
+115623|Rosa se souvint d'un certain repas traumatisant, une dinde qu'on lui avait servie pour son propre anniversaire.
+115627|Quand on l'avait ouverte au couteau, ...il en était sorti l'un de ses plats préférés.‖  ...Mais comme on ne lui avait pas dit ce qu'il y avait dedans, l'omurice au ketchup d'un rouge profond, si profond, s'était déversée comme des asticots sanglants...‖palpitante, 
+115633|dégoulinante, 
+115639|visqueuse, 
+115644|pulpeuse, 
+115649|spongieuse !!
+115661|"Uweeeeeeeeeeeeeeeeeeeee !!
+115666|  Iiiiiiiaaaaaaaaaaaaaaaaaaaaaa !!"
+115677|Le traumatisme de son enfance ressurgit.
+115678|Rosa sentit un monstre se déchaîner dans son estomac tandis que l'acide commençait à remonter.
+115679|...Incapable de se retenir, elle vomit tout sur le sol.
+115686|Son estomac vide ne contenait que des sucs gastriques.
+115689|La scène devant elle n'avait désormais plus rien d'une joyeuse fête d'Halloween... !
+115693|Les trois couples trônaient là, le ventre arraché à la verticale, 
+115697|arraché dans un gyuiiiiiiigubaaa.
+115701|On y avait fourré tant de friandises, 
+115706|pulpeuses, 
+115710|spongieuses.
+115716|Sang, entrailles et sucreries débordaient sur le sol, ‖...ensanglantés, 
+115721|collants, 
+115726|collants, 
+115732|baveux, 
+115737|pulpeux, 
+115742|de douces friandises qui vous collaient aux doigts, 
+115748|gluantes, 
+115753|gluantes, ‖aaah, mais souillées d'entrailles, 
+115758|baveuses, 
+115762|pulpeuses !‖  Qu'est-ce que je viens de piétiner, qui ne ressemblait ni à un bonbon, ni à un biscuit, ni à un soda, ni à un chocolat ?!
+115768|Aaaaaaaaaaaaaah, j'ai peur, sur quoi j'ai marché, je n'ose même pas regarder sous mon pied !!
+115769|Aaaaaawaaaakiiiyaaaaaaaaaaaaaaaaaaaaaaa !!!
+115772|...Quelle... quelle horrible fête d'Halloween... !!!
+115778|De loin, elle avait paru vraiment belle, féerique et joyeuse.
+115779|Mais de près, elle était atroce, répugnante, et pourtant, d'une certaine façon, toujours belle... !!
+115787|"Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh !!"
+115800|Les pensées affolées de Rosa tentaient tant bien que mal de s'échapper de sa gorge en une grande clameur qui n'était ni un cri ni un rugissement...
+115813|"......Krauss-sama......"
+115820|"...C'est... horrible... vraiment horrible......"
+115830|"...A-Appelez une ambulance, 
+115832|...appelez la police...... !"
+115841|"...O-Oui, c'est ça, la police...‖  La police, la police la police la police la police !!"
+115852|Si un mot aussi ancré dans la réalité n'était pas sorti de la bouche de Gohda, Rosa et les autres seraient sans doute encore prisonniers de cette fête cauchemardesque.
+115855|...Mais ce n'était pas parce qu'ils pensaient que la police pourrait faire quoi que ce soit.
+115858|S'ils ne continuaient pas à crier le mot police, ...ils avaient l'impression qu'une autre place risquait d'être dressée à ce festin de démons, et qu'on la leur attribuerait... !!
+115862|Ils avaient l'impression que leur propre poitrine enflait désagréablement de l'intérieur !!‖  Ça grondait, 
+115869|ça bouillonnait, 
+115874|...et c'était sûrement parce que des bonbons allaient déborder de leur ventre !!
+115877|Rosa, de nouveau torturée par la nausée, vomit ses sucs gastriques sur le sol.‖  Puis elle chercha.‖  Elle chercha s'il y avait des bonbons dedans !!
+115884|"...Haah, ......haah, ...haah... !!‖  Iiiih, ...haah...‖  ...B-Bref !!‖  *toux*, *toux* !!"
+115887|Rosa toussa de nouveau violemment, crachant de force l'acide qui lui brûlait la gorge.
+115891|Elle se rendit compte qu'à présent, tout son corps était couvert d'une sueur répugnante...
+115898|"G-Genji-san, Shannon-chan, contactez Père et demandez-lui ses instructions.‖  Gohda-san, allez avec Kanon-kun appeler la police.‖  ...Ensuite, faites venir le docteur Nanjo ici..."
+115905|Pourquoi même faire venir le docteur Nanjo ?
+115906|Il est un peu tard pour des soins médicaux... !
+115913|Les domestiques acceptèrent leurs ordres et se précipitèrent dehors.
+115916|Après les avoir regardés partir, ......Rosa contempla de nouveau ses frères et sœur, avec qui elle avait partagé les bons et les mauvais moments, ainsi que leurs conjoints.‖  Bien qu'il ne pût exister de scène plus tragique, ...elle était, on ne sait pourquoi, tentée de qualifier de belles ces morts féeriques......
+115946|"...Ils sont pas là.‖  Ils sont passés où ?"
+115952|"La salle des domestiques et la cuisine sont vides toutes les deux.‖  ...Mais qu'est-ce qui a bien pu se passer ?"
+115959|"Uu-uu-uu- !!‖  Mama !!‖  Elle est où, Mama ?!!‖  Ma lettre !‖  La lettre que Beato m'a donnée !‖  Rends-la !‖  Rends-laaaa !!‖  Ouaaaouh !!"
+115965|"C'est déroutant.‖  ...Battler-kun, tu es sûr que c'était Tante Rosa ?"
+115973|"...Bah, j'étais moi-même à moitié endormi, alors j'en suis pas trop sûr, ‖mais j'ai l'impression qu'au petit matin, Tante Rosa est entrée et a fouillé dans le sac à main de Maria."
+115979|"...Je me suis dit qu'il devait y avoir un tube de dentifrice ou un truc du genre là-dedans."
+115987|"Pourquoi il y aurait un tube de dentifrice dans le sac à main de Maria ?‖  On dirait que t'étais un peu plus qu'à moitié endormi."
+115995|Battler se souvenait vaguement que Rosa était entrée dans la chambre des cousins.
+115996|De plus, Maria, réveillée avant les autres, s'était mise à tout saccager en criant que quelqu'un avait ouvert l'enveloppe qu'elle gardait précieusement.
+115999|...En recoupant les deux, ils en avaient déduit que c'était sans doute Rosa qui était venue ouvrir l'enveloppe.
+116007|"...Une lettre de la Sorcière dorée...‖  Je me demande ce qu'il y avait dedans."
+116014|"Je ne sais pas.‖  ...Mais cette enveloppe était réservée à l'usage personnel de Grand-père, et elle portait le blason de la famille Ushiromiya.‖  ......Quoi qu'elle ait contenu, ça devait avoir un rapport avec la conférence familiale."
+116019|Elle n'avait laissé personne y toucher, mais la veille, Maria avait abondamment exhibé cette enveloppe devant Battler et les autres.
+116020|...Ils s'en souvenaient donc très bien.
+116027|"Uu-uu-uu- !!‖  Mama, rends-la !‖  Mama, rends-la !!‖  Uu-uu-uu- !‖  Ouaouuuuuuuuuuuuuu !!"
+116036|"...Bah, si t'as raison, ce serait un truc plutôt important...‖  ...Pourquoi cette puissante sorcière donnerait un truc aussi important à Maria ?‖  ...J'pige pas."
+116039|De temps à autre, l'air frais du matin était entièrement balayé par le fracas du tonnerre.
+116043|...C'était bien naturel.‖  Depuis leur réveil, ils n'avaient croisé personne d'autre.
+116044|Ils avaient l'impression d'être les seuls à rester, comme si le manoir était devenu une coquille vide.
+116052|"...Hééééé !‖  Y a quelqu'un ?!‖  Répondez !"
+116056|Jessica lança un appel dans le couloir, et une réponse finit par lui parvenir.‖  Elle venait du hall d'entrée.
+116064|"Je vous entends.‖  ...Il s'est passé quelque chose ?"
+116071|"C'est le docteur Nanjo.‖  ...Dieu merci.‖  On dirait que tout le monde n'a pas disparu de cette île à part nous, finalement."
+116079|"Docteur Nanjo, bonjour.
+116085|  ...Euh, désolée, mais vous savez où sont passés nos parents... ?"
+116091|"Ma foi.‖  ...Je viens tout juste de me lever et d'arriver, voyez-vous.‖  Je ne peux pas en être certain, mais voyons..."
+116095|C'était bien naturel.‖  Nanjo était un invité, tout comme eux.‖  Il venait d'arriver pour passer le temps au salon en attendant le petit-déjeuner.
+116101|"Uu-uu-uu- !!‖  Docteur Nanjo, Mama l'a prise, Mama a pris ma lettre !!‖  Rends-la, rends-la, uu-uu-uu- !!!"
+116104|Maria enfouit son visage dans le ventre rebondi de Nanjo, en sanglotant et en pleurant.
+116110|...Nanjo ne pouvait que rester désemparé devant un tel vacarme de si bon matin.
+116118|"......Ah.‖  Quelqu'un arrive en courant.‖  Jessica !‖  Y a quelqu'un qui vient !"
+116125|Au bout du couloir, ils sentirent des gens courir précipitamment.
+116131|Ils virent Gohda et Kanon venir vers eux.
+116135|...En temps normal, il aurait été inconvenant pour un domestique de courir à l'intérieur du manoir.
+116136|Et pourtant, Battler et les autres ne songèrent même pas à s'en étonner à cet instant.
+116139|Les sanglots de Maria étaient devenus si ingérables qu'ils voulaient demander à quelqu'un, n'importe qui, où se trouvait Rosa.
+116142|Mais les deux domestiques semblaient avoir des préoccupations plus importantes que Jessica, qui leur faisait signe.
+116149|Gohda se rua dans la salle des domestiques, et Kanon, remarquant la présence de Nanjo, s'inclina et s'approcha vivement du docteur avant de lui murmurer quelque chose à l'oreille.
+116159|"......Que dites-vous ?‖  Rosa-san ?"
+116165|"Oui.‖  Je vais vous conduire, veuillez m'accompagner."
+116171|"Entendu..."
+116177|"Par ici."
+116181|Sans en dire davantage, Kanon remarqua enfin Jessica et s'inclina devant elle.
+116184|...Mais il n'était pas calme.
+116190|Il repartit en courant par le couloir d'où il était venu, suivi de Nanjo.
+116193|À voir leur précipitation, Battler et les autres comprirent qu'il s'était bel et bien passé quelque chose de grave.
+116196|Par la porte de la salle des domestiques, restée grande ouverte, ils aperçurent Gohda.
+116199|...Il tenait le combiné et martelait violemment le crochet.
+116202|Ils comprirent alors qu'il essayait d'appeler un hôpital ou la police.‖  Quoi qu'il en soit, il essayait de joindre quelqu'un parce qu'une grave urgence était survenue.
+116209|"Allons voir... !"
+116216|"Oui... !"
+116222|"Mama, rends-la !!‖  Rends-moi ma lettre !!‖  ~ib~C'est une invitation pour la Terre dorée~ib~‖ !!"
+116230|Ils ne savaient pas quoi, mais il se passait quelque chose.
+116231|Battler et les autres se lancèrent à la poursuite de Kanon et Nanjo...
+116236|Aaah, ...et c'est là qu'on a compris.
+116237|Kanon-kun avait appelé le docteur Nanjo, mais pas nous.
+116238|...On n'aurait donc pas dû les suivre.
+116241|Je me demande si Alice a regretté son excès de curiosité quand elle a poursuivi ce lapin qui tenait une montre...
+116269|"Non, il ne faut pas entrer !!‖  Il ne faut pas regarder !!‖  Jessica-chan !‖  Non !!"
+116288|"Iiiik, 
+116290|......n-
+116292|noooooooooooooooooooooooooooooooooon !!!"
+116309|"Mère, Père !!‖  Qu'est-ce... qu'est-ce qui s'est passé !!‖  Uuuuuuuuuuuuuuuuuuuuuuu !!"
+116317|"...C'est quoi ce bordel...‖  ...Ça dépasse de loin le mauvais goût...‖  C'est pas assez de prendre la vie des gens... ?
+116318|  ...C'est quoi ce bordel ?!!
+116324|  Se donner la peine, une fois qu'ils sont morts, de les asseoir sur des chaises, de leur ouvrir le ventre et de leur arracher les entrailles ?!!‖  Se donner la peine de leur bourrer le ventre de sucreries ?!!‖  Pourquoi... pourquoi bordel faire un truc aussi tordu ?!!‖  Merde, merde !‖  Bravo, espèce d'enfoiré, vraiment génial, vraiment génial !!‖  Gyyaaaaaaaaggghh !!"
+116337|"......Il vaudrait mieux que vous sortiez tous... !‖  Ils ne voudraient certainement pas que vous les voyiez ainsi..."
+116341|Nanjo dit aux enfants de sortir, mais personne ne l'écouta.
+116350|"Rosa-san, dites-le-leur, je vous prie.‖  S'ils continuent à regarder une chose pareille, ...ça ne leur fera que du mal... !"
+116354|"........."
+116360|Rosa regretta sa propre imprudence.
+116361|...Elle aurait dû se douter que les enfants finiraient par venir ici.
+116362|...Elle aurait dû vite tout fermer à clé au lieu de rester plantée là, hébétée.
+116375|Les enfants étaient donc venus.
+116376|Ils avaient vu... !
+116379|À cet instant même, une vision s'imprimait sûrement au fer rouge dans leurs yeux...‖bien plus grotesque que le repas traumatisant auquel Rosa avait assisté dans son enfance...
+116384|Tout en serrant contre elle Maria, qui semblait trop choquée pour manifester la moindre émotion devant cette scène atroce, ‖Rosa pleura pour eux et pour leurs parents.
+116387|Les quatre voix qui gémissaient et pleuraient, leur tristesse, ...continuèrent de résonner dans un lieu qui aurait dû connaître l'amour de Dieu...
+116401|"Espèce d'ordure !!‖  Encore ?!  Encore un de ces meurtres ?!!‖  Et cette fois, t'as tout mis en scène, en les tuant comme si c'était une grosse blague !!"
+116408|"*ricane*ricane*ricane*ricane*‖  J'espérais plutôt que tu me remercierais, au lieu de hurler de chagrin."
+116415|"Te remercier ?!!‖  T'as dit que je devrais te remercier, vieille garce ?!‖  Merde, si t'as un problème d'oreilles, je vais te les couper toutes les deux pour que t'entendes mieux !!‖  Pourquoi je devrais voir cette façon démente de tuer et dire `Oh, merci infiniment, Beatrice-sama' ?!  Je vais te défoncer le crâne !!!"
+116430|"Lors de la partie précédente, ‖tu t'es lamenté de ne pas pouvoir voir le visage de tes parents après leur mort, n'est-ce pas ?‖  Alors cette fois, je les ai laissés.‖  Je n'y ai pas touché !!
+116433|  ~ib~Regarde bien, car sans le moindre doute, ton père et les autres ont été tués~ib~‖ !!"
+116439|"V... raiment, quel joli cadeau, j'suis putain de content !!
+116444|  J'avais juré de te défoncer la tronche après t'avoir étranglée, mais je retire ça.  Je vais plutôt t'arracher les tripes !!!"
+116451|"Ne cède pas à l'émotion, n'arrête pas de réfléchir.‖  Ma partie a déjà commencé, n'est-ce pas ?‖  *ricane*ricane*ricane*‖  Cette fois, j'ai décidé de te laisser des cadavres bien propres et bien nets."
+116456|"Sais-tu pourquoi ?‖  Quand tu as nié mon existence lors de la partie précédente, tu as suivi ce raisonnement..."
+116459|"~ib~`Leurs visages ont été écrasés, donc l'identité des cadavres ne peut être confirmée.'~ib~
+116462|~ib~`Par conséquent, on ne peut écarter la possibilité que de faux cadavres aient été préparés pour créer un alibi.'~ib~
+116466|~ib~`Tant que cette possibilité n'est pas réfutée, on peut encore bâtir une théorie avec un coupable humain'~ib~ !!"
+116475|"Qu'est-ce que t'as diiiiiit... ?!!"
+116482|"*ricane*ricane*ricane*kikikikikikikikikikikikikikikikikikikiki !!‖  Alors, Battler, peux-tu vraiment laisser l'examen des cadavres à Nanjo ?‖  N'est-ce pas un classique des romans policiers que le médecin qui pratique ce genre d'examen soit un complice ?"
+116487|"Alors ne lui laisse pas l'examen.  Fais-le toi-même.‖  Assure-toi absolument que, sans le moindre doute, les six cadavres sont bien les six personnes qu'ils sont censés être, qu'ils sont vraiment, vraiment morts, et qu'ils ne font pas semblant !!"
+116492|"Si tu veux confirmer que ton Père et ta Mère ont été tués en se faisant ouvrir le ventre et arracher les entrailles, ‖tu ferais bien de plonger la main dans leur ventre et de tâter un peu !!
+116498|  Kuhahahahahahahahahahahahahahahahahahahaha, ki-hahahahahahahahahahahahahahaha !!"
+116516|"Je pleurerai pas !!!
+116523|  Merde, merde, ...je pleurerai pas... !!"
+116525|Battler hurla soudain.
+116527|Ses larmes coulaient encore, mais comme pour se reprocher d'être une mauviette, il se gifla violemment plusieurs fois des deux mains.
+116531|Malgré cela, ses larmes refusaient de s'arrêter.
+116532|...Pourtant, il sentait un brasier ardent dans ses deux yeux.
+116539|"Celui qui a fait ce boulot, je vais lui faire payer sa dette jusqu'au bout !!‖  Alors c'est pas le moment de pleurer, faut réfléchir à ce qu'on va faire !!‖  Aaaah, ça sert à rien, tout ça sert à rien !!‖  Si t'as le temps de pleurer, alors réfléchis !‖  C'est pas le moment de te laisser aller à pleurer !!"
+116545|Plutôt qu'une véritable colère, c'était peut-être une colère de diversion, pour effacer sa tristesse.
+116548|...Pourtant, elle redonna un peu de courage à George et Jessica, que la tristesse avait anéantis.
+116560|"...C'est vrai.‖  ...Même si on pleure, 
+116562|...ça ne changera rien à la réalité...
+116564|de ce qui s'est passé."
+116571|"Merde, ...merde merde merde, ...merde merde merde !!‖  Alors qu'est-ce qu'on doit faire ?!‖  Qu'est-ce que je dois faire... pour Maman et Papa ?!!"
+116581|"...Rosa-sama...‖  Je suis de retour..."
+116587|"Gohda-san, alors, la police ?‖  Qu'est-ce qu'ils ont dit de faire ?‖  Ils ont dit quand ils pensaient pouvoir arriver ?"
+116594|"...À ce sujet, ...il semble que les téléphones soient en panne...‖  J'ai aussi essayé la radio de secours, mais... euh, c'est peut-être le temps, mais elle ne fonctionne pas non plus..."
+116600|"Qu'est-ce que vous dites... ?!‖  Alors, on ne peut pas contacter la police ?!"
+116608|"C'est elle !‖  Elle a trafiqué la ligne de téléphone pour qu'on puisse pas joindre les flics !!"
+116613|En apprenant que les téléphones étaient en panne, Jessica décida aussitôt que c'était l'œuvre de cette mystérieuse invitée.
+116614|Ses yeux, rougis à force de pleurer, s'empourprèrent plus encore sous l'effet de la rage.
+116620|"...Bah, pas besoin d'en parler, hein ?!‖  J'ai tout compris, c'est ça, j'ai pigé !‖  Qui a tué Papa et Maman ?!"
+116632|"C'est elle, évidemment !!‖  Ça peut être que cette sorcière ou je sais pas quoi qui est arrivée hier !!!‖  Je vais l'attraper par le col !!‖  Merde merde merdeeeeeeeeeee !!"
+116640|"Jessica-chan... !‖  Attends !‖  Gohda-san, Kanon-kun, allez-y !"
+116647|"O-Oui, Madame... !"
+116655|"Mademoiselle, attendez... !"
+116663|Masquant sa tristesse incontrôlable sous la colère, Jessica s'élança dehors, déchirée par l'émotion.
+116667|...À y réfléchir hâtivement, la mystérieuse invitée arrivée la veille, Beatrice, était peut-être suspecte.
+116668|Pourtant, à cet instant, rien ne prouvait qu'elle était la coupable.
+116671|...Pour l'heure, ce n'est qu'une invitée parmi d'autres, ni plus ni moins.
+116675|Rosa, prenant une décision d'adulte, se vit donc contrainte d'arrêter Jessica dans son élan irréfléchi.
+116676|Gohda et Kanon le comprirent aussitôt et se lancèrent à sa poursuite.
+116685|"...L'invitée que personne n'a invitée, Beatrice, serait la coupable... ?"
+116691|"Je comprends ce que ressent Jessica.‖  ...J'aimerais bien penser pareil.‖  Peu importe qui, je veux que quelqu'un soit le coupable pour pouvoir lui coller mon poing dans la figure !!
+116696|  ...Mais avant ça, il faut qu'on comprenne clairement ce qui se passe.‖  ...C'est qui, cette Beatrice ?
+116701|  J'ai même pas vu son visage !!"
+116708|"...Kihihihihihihihihihihihihihihihi.‖  Si c'est son visage que tu cherches, il orne le grand portrait du manoir.‖  Tu t'en souviens toujours pas, après l'avoir regardé si longtemps ?‖  Kihihihihihi."
+116713|"...Allons, Maria.‖  ...Qu'est-ce qu'il y a de drôle dans une situation pareille ?!"
+116719|"Beatrice est une sorcière.‖  Et la cérémonie qui ouvrira la porte de la Terre dorée a enfin commencé.‖  Ces six personnes sont des sacrifices.‖  ...Kihihihihihihihihihihihihihihihihi !‖  Venez, commençons le banquet de la sorcière.‖  Ce soir, c'est Halloween, alors les sorcières vont se réunir pour faire la fête.‖  Ki-hihihihihihihihihihihihihihihihihihihihihihihihihi !!"
+116726|"Maria, je ne t'ai pas toujours dit de ne pas rire avec cette voix sinistre ?!"
+116739|Le claquement sec de la gifle que Rosa assena sur la joue de Maria résonna sous le haut plafond de la chapelle...
+116751|Depuis qu'il s'est mis à pleuvoir hier...
+116752|Non, ...depuis que l'île a été engloutie par le typhon, j'ai l'impression que quelque chose... cloche.
+116755|Il faisait grand soleil quand je suis arrivé à Rokkenjima, mais comme je m'étais levé tôt et que j'avais sommeil, j'ai fait une sieste.
+116762|...Quand je me suis réveillé, il avait déjà commencé à pleuvoir.
+116765|Et depuis ce moment-là...
+116768|Tout à coup, une mystérieuse visiteuse se faisant appeler la Sorcière dorée Beatrice est arrivée, et j'ai eu l'impression de m'enfoncer petit à petit dans un monde bizarre.
+116771|Mais qu'est-ce qui a bien pu se passer pendant ma sieste ?‖  Je suis censé croire que cette île a été enfermée dans un autre monde, où le bon sens ne s'applique plus... ?!
+116777|C'est qui, cette Beatrice ?
+116779|Est-ce qu'une inconnue essaie de se mêler du problème de l'héritage, celui qui mettait nos parents dans tous leurs états au dîner hier soir ?
+116782|...Ou est-ce que la coupable est cette sorcière de la Légende de l'or, comme l'a dit Maria ?!
+116786|Même en mettant de côté le tempérament de Jessica, vu les circonstances, on peut sans doute dire que cette visiteuse est la plus suspecte.
+116787|Mais il ne faut pas se faire un avis sur cette seule base.‖  Aaah, ça sert à rien, ça sert à rien, tout ça sert à rien... !!
+116795|Je me suis de nouveau giflé des deux mains, pour refroidir mon cerveau avant qu'il ne surchauffe.
+116796|Même si c'était peut-être peine perdue...
+116804|"...C'est...... une des enveloppes de Grand-père."
+116808|Sur un plateau chargé de sucreries qui ornait la table, George-aniki a trouvé une enveloppe à l'occidentale frappée en feuille d'or du blason de la famille Ushiromiya.
+116811|Et elle n'avait pas été ouverte.
+116819|"Ça veut dire... qu'elle nous est sans doute destinée, non ?‖  Si P'pa et les autres l'avaient lue, elle serait ouverte."
+116826|"...On dirait que ton raisonnement est juste.‖  ...C'est écrit juste ici.‖  Quelqu'un a écrit `à ceux qui restent'."
+116833|"C'est... une lettre laissée par le coupable... ?!‖  Q-Qu'est-ce qu'il y a dedans... ?"
+116840|"Aniki, ouvre-la... !"
+116848|Après avoir hoché la tête en silence, George-aniki a brisé le sceau.
+116849|...Une lettre pliée en est sortie.
+116855|"......Je vais la lire.
+116859|  ......Bienvenue à Rokkenjima, membres de la famille Ushiromiya.‖  Je suis Beatrice, l'alchimiste de cette famille, employée par Kinzo-sama en personne..."
+116872|Cette lettre était vraiment une blague.
+116875|Cette Beatrice, qui se disait alchimiste de la famille, annonçait qu'elle venait récupérer l'or qu'elle avait prêté à Grand-père, avec les intérêts.
+116878|Et ces intérêts... c'était tout ce que Grand-père avait créé.
+116883|Comme cette tragédie s'étalait sous nos yeux pendant qu'on lisait ce paragraphe à voix haute, il était clair qu'il ne parlait pas seulement de la fortune que Grand-père avait bâtie.
+116887|...C'était à prendre au pied de la lettre.
+116888|Tout ce que Grand-père avait créé...‖  ...Autrement dit, ...tous les descendants de Grand-père étaient compris dans les intérêts !
+116896|"Espèce d'ordure !!
+116901|  C'est quoi ce contrat tordu !‖  Des vies comme intérêts pour de l'or, c'est ça ?!‖  C'est presque un pacte avec le diable, non ?!‖  Tu crois que ça te donne plus l'air d'une sorcière ?!‖  Ha, me fais pas rire !!"
+116909|"...Clause particulière.‖  ......Toutefois, si quelqu'un parvient à découvrir l'or caché de ce contrat, Beatrice devra renoncer à ces droits pour toujours."
+116912|"......Hmm...‖  ...Kinzo-sama a déjà exposé publiquement l'emplacement de l'or caché dans l'épitaphe sous mon portrait..."
+116919|"...Autrement dit, c'est à peu près ça.‖  Si ces meurtres, c'est elle qui récupère ses intérêts, ‖alors elle nous dit d'essayer de trouver l'or qu'elle a donné à Grand-père si on veut qu'elle arrête...‖  Et elle dit aussi que le secret qui mène à l'or est caché dans l'épitaphe du portrait."
+116926|"Donc, en gros, ...c'est une lettre de défi de la sorcière ?‖  Elle nous dit d'essayer de résoudre l'énigme qui mène à l'or caché, si on en est capables ?!‖  Et si on n'y arrive pas, elle continuera à récupérer ses intérêts comme prévu ?"
+116932|"Je vais te buter à coups de poing, amène-toi !!!"
+116946|"...B-Battler-kun !‖  Regarde, ...regarde !!!"
+116953|La table était couverte de sucreries,‖ ...alors même si ces trucs étaient bien en évidence, on avait cru que c'étaient des sucreries, eux aussi.
+116956|...Enfin, allez, on en voit souvent, non ?
+116965|...Vous savez, ces boîtes de chocolats en forme de lingots d'or... !
+116972|"...C-C'est pas une boîte de bonbons...‖  C'est du vrai... !‖  C'est un vrai lingot d'or... !!"
+116977|"...Il porte le blason de l'Aigle à une aile...‖  ...J'ai entendu Mère en parler tout à l'heure.‖  ...C'est un lingot de la Légende de l'or de Grand-père... !!"
+116981|Des lingots d'or de dix bons kilos... trois en tout... étaient empilés au beau milieu de la table !‖  Là où on aurait posé le gâteau, si ç'avait été une fête d'anniversaire.
+116984|...Autrement dit, c'était sans aucun doute le gâteau d'anniversaire de la fête qu'on appelle la conférence familiale !
+116991|"Si ce sont vraiment des lingots de pureté 999,9...
+116997|...nng, *glups*.‖  Ç-Ça vaut dans les 60 millions de yens !"
+117004|"Crétiiiiiiiiiiiiiiin !!!
+117011|  C'est bien trop peu !!!‖  On a tué nos parents, et tout ce que t'as, c'est ce tas d'or de 60 millions de yens à peine ?!
+117015|  Te fous pas de nous, merdeeeeeeeeeeeeeeeee !!!"
+117025|"...Kihihihihihihihihihihihihihihihi.‖  ...Alors, ça a commencé, Beatrice.‖  ...De toute façon, personne peut résoudre cette énigme.‖  Alors Beato va gagner, c'est sûr."
+117030|"...Vite, ouvre la porte de la Terre dorée.‖  Et emmène-moi avec toi.‖  ...Kihihihihihihihihihihihihihi !"
+117056|"Mademoiselle, je vous en prie, calmez-vous... !"
+117063|"Nous ne savons toujours pas qui est le coupable !‖  Et Beatrice-sama est une invitée importante et honorée du Maître... !"
+117071|"Et alors ?!!‖  Si on l'attrape par le col, elle va forcément avouer !!‖  Si j'arrive juste à la regarder dans les yeux, je saurai.‖  Je verrai clair dans son jeu !!‖  Une sorcière ?!  Beatrice ?!!  Mon œil !‖  Je vais la démasquer !!"
+117079|Jessica ne s'arrêta pas un instant.
+117080|Gohda et Kanon la poursuivaient en faisant de leur mieux pour la convaincre de s'arrêter, mais Jessica ne leur prêta jamais l'oreille.
+117087|Enfin, la chambre d'honneur de la sorcière apparut.
+117088|Cette chambre d'honneur restait toujours fermée et ne servait jamais.
+117092|...Quel que soit l'invité, Kinzo ne le laissait pas y entrer.
+117093|...Et pourtant, les domestiques devaient toujours la nettoyer, pour qu'elle puisse servir à tout moment.
+117098|Si bien que les domestiques avaient fini par l'appeler la chambre d'honneur de la sorcière, en référence à leur second maître, invisible.
+117102|Jessica le savait, elle aussi.
+117103|Et elle ne pouvait pardonner l'arrogance de celle qui se prétendait sorcière en logeant dans cette chambre.
+117110|...La Sorcière dorée n'était qu'un conte de fées.
+117111|Allons, une sorcière ?!‖  Pour Jessica, elle n'était rien de plus, rien de moins, que la meurtrière qui avait sauvagement tué ses parents !
+117114|L'interroger, écouter ses excuses pitoyables, la faire bafouiller de douleur, haleter d'angoisse.
+117118|...Elle a beau jouer les sorcières, je vais lui apprendre qu'elle n'est qu'une Humaine puante et en sueur !!
+117121|Hurlant de toutes ses forces, Jessica frappa la porte de la chambre d'honneur.
+117131|Ce n'était certainement pas un simple coup frappé à la porte.
+117133|...Ce bruit, c'était le marteau de sa colère qui cognait, comme si elle était décidée à enfoncer la porte si on ne lui ouvrait pas.
+117139|"Ouvre, Beatrice !!‖  Sors de là !!‖  Tu m'entends, hein ?!‖  Ouvre !!!"
+117143|Pas de réponse.
+117146|...Jessica saisit la poignée sans la moindre retenue, mais sentit la résistance de la serrure.
+117147|Elle se retourna vers les deux domestiques et prit la parole.
+117156|"Le passe-partout peut ouvrir ça, hein ?!‖  Servez-vous-en !!"
+117162|"Mademoiselle... !‖  Ce serait terriblement impoli... !!"
+117166|Si troublé qu'il fût, Gohda tentait encore tant bien que mal d'apaiser la colère de Jessica.
+117172|...Après être resté un moment tête basse, en silence, Kanon tira un passe-partout de la poche de sa veste.
+117179|"Kanon-san... !‖  Vous êtes sûr ?!"
+117185|"...Oui, je sais parfaitement que ce serait impoli si elle se trouvait là.‖  ......Quoi qu'il en soit,‖ ...si Beatrice n'a rien à voir avec cette affaire, il lui suffira de nous donner une explication satisfaisante."
+117191|"...C-C'est ça, exactement !!‖  Passe-moi ça !"
+117198|Jessica arracha le passe-partout des mains de Kanon et l'enfonça violemment dans la serrure.
+117199|...Aussitôt, il y eut un petit bruit, et elle sentit la serrure se déverrouiller.
+117204|Puis, sans demander la permission, elle ouvrit la porte à la volée.
+117217|"Beatrice !!‖  T'es où ?!‖  Sors de là !!"
+117221|Jessica entra sans façon dans la chambre.
+117222|...La sorcière n'était nulle part en vue.
+117229|"...Cette garce !!‖  Elle est pas là !!‖  Elle est passée où, bordel ?!"
+117236|"......O-Oui, il semble qu'elle ne soit pas là..."
+117243|Pensant qu'elle se cachait peut-être quelque part dans la chambre, Jessica regarda derrière les rideaux et sous le lit, mais ne trouva personne.
+117246|Pourtant, il y avait clairement des traces indiquant que le lit avait servi...‖et, même si ce n'était qu'une vague impression, l'atmosphère de la chambre semblait un peu plus douce.
+117250|Ce n'était pas l'atmosphère rigide d'un lieu habituellement dépourvu de présence humaine, comme la chapelle.
+117251|On sentait nettement que quelqu'un avait passé la nuit dans cette chambre.
+117253|Mais elle restait invisible.
+117260|En réalité, ni Jessica ni Gohda n'avaient rencontré Beatrice.
+117262|...Ceux qui l'avaient rencontrée leur avaient seulement dit qu'elle était le portrait craché du personnage du tableau.
+117265|...Ils doutaient donc de ce à quoi ressemblait vraiment son visage.
+117270|...Pourtant, Kanon, lui seul, l'avait rencontrée.
+117272|Il savait quel genre d'être était cette sorcière, ...quel genre de personnalité elle avait.
+117275|Il savait donc que faire irruption ici pour la chercher... ne mènerait certainement à rien.
+117279|...Elle doit être quelque part en train de nous regarder nous débattre amèrement en vain, en ricanant.
+117280|...C'est ce genre de personne.
+117284|C'est parce qu'il voyait les choses ainsi que Kanon fut le premier à le trouver.
+117285|...Les deux autres étaient concentrés sur la recherche d'une silhouette humaine, et ne le remarquèrent pas.
+117290|Près d'une carafe d'eau sur la table de chevet, il y avait une unique feuille de papier à lettres.
+117291|Un court message y était écrit, et à côté se trouvait un stylo-plume, qui avait sans doute servi à l'écrire...
+117295|Kanon avait déjà fini par comprendre la sorcière.
+117296|Après avoir découvert les cadavres, ils étaient entrés ici en trombe, submergés par la rage, pour ne trouver personne, ‖ alors forcément, la sorcière allait se moquer d'eux.
+117300|...On ne peut pas se moquer de quelqu'un à moins qu'il sache qu'on se moque de lui.
+117301|...Autrement dit, ...c'est forcément ça... !
+117308|"...Mademoiselle, ‖......il y a quelque chose d'écrit ici."
+117315|"Quelque chose d'écrit ?  Quoi ?!"
+117318|Jessica se précipita et lui arracha violemment la feuille des mains.
+117324|...Elle ne cherchait sans doute pas à être brutale.
+117325|...Elle n'arrivait tout simplement pas à maîtriser sa force à cet instant.
+117334|"......C'est quoi, ça... ?!‖  T-Te fous pas de ma gueule !!!"
+117336|Dès qu'elle eut lu le message, Jessica entra dans une rage folle, froissa la feuille et la jeta.
+117349|Puis elle empoigna un lampadaire près du lit et le fit tournoyer violemment, frappant sans pitié les murs et les meubles.
+117352|...Les ampoules volèrent toutes en éclats d'un coup, et les fragments s'éparpillèrent dans la pièce.
+117361|"Mademoiselle, je vous en prie, calmez-vous... !‖  Vous allez vous blesser !!"
+117368|"Lâchez-moi !!‖  Merde, merde !
+117377|  Sors de là, Beatrice !!‖  Comment t'as pu faire ça à Maman et Papa ?!!‖  Tu crois que tu me fais peur ?!!
+117383|  Je vais te tuer, je vais te tuer !!‖  Je vais te massacrer, alors montre-toi !!!‖  Je vous ai dit de me lâcher, merdeeeeeeeeeeeeeeeeeeee !!"
+117399|Voici ce qui était écrit sur la feuille...
+117412|`Tu croyais vraiment que je serais assez sénile pour rester assise là à attendre que tu débarques ?‖  Tu manques bien trop d'élégance pour cette nuit intellectuelle.
+117416|J'ose à peine imaginer à quoi ressemblaient les parents qui ont élevé une telle idiote.
+117417|Ah, c'est vrai, je les ai vus, et ils avaient l'air aussi idiots que toi.
+117421|À présent, ils ont le ventre bien rempli, au pays des sucreries !'
+117427|...C'était bien le genre de choses qu'écrirait cette sorcière...
+117430|...Cela signifiait qu'elle avait prévu que l'un des enfants ayant perdu ses parents viendrait ici en courant.
+117433|...Si elle se cache quelque part dans cette chambre, elle doit être en train de se tordre de rire...
+117436|La sorcière était ce genre de personne.
+117439|...Elle ricanait du malheur des gens, s'en servant pour tromper l'ennui de mille ans... !
+117448|"Donnez-moi ça... !‖  Je vous dis que vous allez vous blesser... !
+117454|  ......Nnnnng, ...nnnnggg !!"
+117460|"Je vous ai dit de me lâcher !!‖  Merdeeeeee, merdeeeeeee !!
+117467|  ...Aïe !"
+117472|Gohda arracha le lampadaire que Jessica tenait.
+117473|...Après tout, si elle continuait à le faire tournoyer, elle risquait de le fracasser contre quelque chose et de se blesser gravement.
+117477|...Aux yeux de Gohda, Jessica semblait sans doute folle de rage, se consumant dans les flammes de la colère.
+117480|...Mais Kanon voyait les choses autrement.
+117486|C'étaient sans doute... des larmes de tristesse, cachées par la rage...
+117490|Alors...
+117491|Quand on lui arracha le lampadaire, ‖quand elle se mit à pleurer par terre, griffant le tapis comme si elle rampait...
+117493|...Gohda fut surpris, mais pas Kanon.
+117496|...Bien sûr.‖  En se déchaînant de rage, elle avait perdu sa façon de pleurer.
+117504|"Uuuuuuuuuuuuuu, ouaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa !!‖  Papa, ...Maman, ...uwaaaaaaaaaaaaaaaaaaaaaaaaaauuuuuuuuu !!"
+117509|...Pour une fille de la famille principale Ushiromiya, ...elle offrait un spectacle bien pitoyable.
+117510|...Elle griffait le tapis de ses ongles, et même ses pieds le raclaient.
+117514|Jessica pleura très, très fort.
+117515|...Car si elle ne le faisait pas, sa rage recommencerait à monter et l'engloutirait.
+117518|Mais, encore et encore, ce message humiliant lui revenait en mémoire...
+117521|...J'ose à peine imaginer à quoi ressemblaient les parents qui ont élevé une telle idiote.
+117533|"Je t'interdis de les traiter d'idiots !!‖  Papa et Maman étaient intelligents tous les deux !!‖  Pas comme moi, ils étaient vraiment intelligents !!‖  Je t'interdis de les traiter d'idiots !‖  Retire ça, 
+117545|retire ça !!"
+117558|Ah, c'est vrai, je les ai vus, et ils avaient l'air aussi idiots que toi.
+117559|À présent, ils ont le ventre bien rempli, au pays des sucreries !!
+117567|"Aaaaaaaggghhh, merdeeeeeee !!
+117572|  Je vais la tuer, je vais la tuer, je vais lui ouvrir le ventre, on verra si ça lui plaît !!‖  Uuuuaaaaaaaaaaaa, ouaaaaaaaaaaaaaa... !!!‖  Hic, *toux*toux*, *toux*toux*toux* !!!"
+117577|À force de pleurer et de hurler, Jessica déclencha une crise d'asthme...
+117578|Les domestiques qui veillaient sur elle accoururent en hâte pour lui frotter le dos, mais cela ne fit que provoquer la fureur de Jessica...
+117588|"*toux*toux* !!‖  Qu'est-ce que vous foutez ?!!‖  Si vous avez le temps de faire ça, cherchez cette ordure !!‖  Trouvez-la et ramenez-la ici !!
+117593|  Si vous y allez pas, j'irai moi-même !!‖  Et je la tuerai de mes propres mains, je lui ouvrirai le ventre !!
+117598|  *toux*toux*toux*toux* !!‖  *toux*, *toux* !!‖  Me touchez pas !!!‖  Merde, merde, *toux*toux* !!
+117603|  *toux*toux* !!"
+117606|Jessica se releva en titubant et, tandis que sa crise d'asthme se poursuivait, sortit dans le couloir...
+117614|"Mademoiselle, votre médicament, vite... !‖  Je vais appeler le docteur Nanjo !"
+117621|"......Gohda-san,‖ ......voulez-vous bien... me laisser m'en charger ?"
+117626|Kanon l'avait remarqué.
+117627|......Gohda, qui avait bien des années de plus qu'elle, ...ne pouvait sans doute pas percevoir les larmes dans le cœur de Jessica.
+117630|...C'était à Kanon, qui l'avait remarqué, de la soutenir.
+117636|"K-Kanon-san,‖ ......vous êtes sûr... ?"
+117642|"......Je crois que Mademoiselle a besoin de temps pour pleurer en ce moment.‖  ......Après avoir vu ses parents tués de cette manière..."
+117647|"............‖...Vous avez raison."
+117651|Gohda comprit lui aussi.
+117655|...Et il savait que Jessica et Kanon partageaient une relation un peu floue.
+117656|Il comprit donc tout... et s'en remit à Kanon.
+117662|"......Très bien.‖  ...Je retourne auprès de Rosa-sama.‖  ...Je vous en prie, occupez-vous de Mademoiselle."
+117668|"Oui.‖  ...Comptez sur moi."
+117673|La voix de Kanon était frêle, ...mais il hocha fermement la tête.
+117674|Après l'avoir regardé dans les yeux, Gohda hocha fermement la tête à son tour.
+117681|...Gohda était un vétéran fort de nombreuses années d'expérience.
+117682|Il avait vu énormément de gens dans sa vie.
+117685|...Il connaissait donc l'éclat vigoureux qu'on trouve dans le regard de ceux qui savent se maîtriser.
+117689|Il l'avait sûrement vu dans les yeux de Kanon.
+117690|...Alors, il s'en remettrait à Kanon.
+117692|...À bien y penser, c'était peut-être la première fois que Gohda faisait confiance à Kanon et comptait sur lui pour une tâche...
+117697|Jessica, toujours en proie à sa crise d'asthme, ...semblait se diriger vers sa chambre, bien qu'elle ne cessât de s'appuyer contre le mur.
+117699|...Kanon la suivit sans un mot.
+117702|Si elle avait demandé de l'aide, il se serait précipité pour la soutenir.
+117704|...Mais tant que Jessica ne la demandait pas, il choisit de se cacher, veillant sur elle d'une distance où il pourrait lui porter secours à tout moment.
+117707|...Quand les gens sentent leur cœur sur le point d'exploser de tristesse et veulent quelqu'un à leurs côtés, ‖on peut parier que dix milliards d'entre eux voudraient se retourner et trouver quelqu'un à l'endroit où se tenait à présent Kanon,‖ veillant sur Jessica par-derrière...
+117713|Puis, enfin, elle s'effondra devant la porte de sa chambre.
+117717|...La crise d'asthme lui avait volé toutes ses forces.
+117718|Et le manque d'oxygène avait embrumé ses pensées, l'empêchant même de se relever.
+117722|...Mais à cet instant, Jessica ne pensait pas vouloir qu'on lui tende la main.
+117723|Elle n'avait toujours pas réussi à surmonter les flammes de la colère.
+117726|...Même si quelqu'un lui avait tendu la main avec de bonnes intentions, Jessica aurait eu envie de la lui arracher sur-le-champ.
+117730|...Elle savait combien ce serait injuste.
+117731|...Elle ne demanderait donc certainement pas d'aide tant qu'elle n'aurait pas surmonté la colère ardente qui brûlait en elle.
+117737|Jessica avait sans doute perdu jusqu'à la force d'appeler à l'aide.
+117741|...Mais Kanon l'entendit.
+117742|...Il l'entendit, sans aucun doute.
+117745|...Kanon entendit sans aucun doute cet appel à l'aide muet, commun à tous les malheureux endeuillés de par le monde, ‖...ce cri sans fin que personne ne semble jamais entendre.
+117751|Kanon s'agenouilla doucement à côté de Jessica et lui offrit son épaule sans un mot.
+117756|...Bien que Jessica continuât de tousser douloureusement, elle l'accepta, 
+117758|......déverrouilla la porte de sa chambre et entra...
+117766|"......Par ici.‖  ......Je vais préparer votre médicament tout de suite."
+117772|".........*toux*toux*toux*... !
+117777|  ......*tou-, ......*toux*toux*toux*... !!"
+117783|Jessica disait souvent que, lorsque son asthme devenait assez grave, elle avait si mal qu'elle avait l'impression qu'elle allait vomir tout son estomac.
+117787|Son visage était pâle, et son regard vacillait.
+117788|Et pourtant, la toux continuait...
+117791|...Malgré tout, ...sa tristesse était sans doute plus forte encore...
+117796|Après l'avoir fait asseoir sur le lit, Kanon prit un bronchodilatateur dans un joli petit panier posé sur une table de chevet voisine et le lui tendit.
+117800|...Il arrivait à Jessica d'oublier de prendre son médicament avec elle.
+117801|Chaque fois que cela semblait être le cas, Kanon s'en apercevait et emportait discrètement l'inhalateur de la trousse de secours de la salle des domestiques, mais il ne l'avait pas fait aujourd'hui.
+117804|...Il se fit des reproches, comme s'il se demandait comment il pouvait se prétendre meuble après avoir oublié de l'emporter un jour pareil.
+117807|......Puis il se souvint du jour où il avait employé ce mot et, d'une certaine façon, trahi les sentiments de Jessica.‖  ...Cela lui serra le cœur, mais il jugea indélicat de penser à une chose pareille, vu ce que Jessica ressentait à présent,‖ et il l'enferma au plus profond de son cœur...
+117813|"......Haah, ......haah...‖............haah..."
+117816|En inhalant son médicament, Jessica vit sa respiration affolée s'apaiser peu à peu, ...et elle put enfin retrouver son calme.
+117819|......Mais elle avait perdu trop de forces et de volonté pour se lever du lit.
+117830|".........Ça va,‖ ...Mademoiselle ?"
+117838|"......Ça...
+117840|...va...
+117852|......Je suis complètement à l'ouest à cause de Maman et Papa, 
+117854|......mais...
+117856|quand j'aurai encore un peu pleuré...
+117858|...ça ira......"
+117871|"........."
+117877|Kanon regretta son mauvais choix de mots.
+117883|...Lui avait-il vraiment demandé `Ça va' ?
+117884|...Ignorait-il donc à ce point la douleur qu'elle avait au cœur ?
+117885|......Voilà ce qui faisait de lui un meuble.
+117886|Voilà pourquoi il ne pouvait devenir humain...
+117896|".........Je serai dans le couloir.‖  ...Si vous avez besoin de quoi que ce soit, appelez-moi immédiatement."
+117901|Kanon comprenait qu'elle avait encore besoin d'un peu de temps pour pleurer seule.
+117902|Il lui dit de l'appeler à tout moment, s'inclina et voulut quitter la chambre.
+117908|"...Ah, ........."
+117916|"...Vous avez besoin de quelque chose ?"
+117920|Jessica avait parlé comme si elle voulait qu'il reste, alors Kanon s'était arrêté.
+117924|......Si elle me le demande, je ferai tout ce que je peux pour l'aider.
+117925|...En ce moment, je deviendrais même une canne ou une chaise si cela pouvait apaiser la douleur de son cœur.
+117929|......Si, en faisant cela, ...je pouvais racheter la douleur que j'ai infligée à son cœur ce jour-là...
+117935|"............"
+117940|...Un moment, Jessica regarda Kanon droit dans les yeux.
+117941|...Comme si la raison pour laquelle elle l'avait retenu était impossible à exprimer avec des mots.
+117948|"............"
+117954|"........."
+117961|Pendant un moment, aucun des deux ne parla.
+117962|......Ce fut Jessica qui rompit le silence.
+117963|...D'une petite voix.
+117969|"......Pardon.‖  ......C'est rien.‖  ......Tu peux dire à Tante Rosa que je veux être seule un moment... ?"
+117975|"Je ne vous laisserai pas... seule."
+117981|"............Hein... ?"
+117987|"Je ne vous laisserai pas... seule.
+117994|  ............Alors, je serai dans le couloir.‖  ...Appelez-moi...
+117996|à n'importe quel moment."
+118000|L'espace d'un instant, on aurait dit qu'une sorte d'espoir passait dans les yeux de Jessica.
+118003|...Mais il était bien faible... et disparut comme la première neige à la surface d'une rivière.
+118009|"...Merci.‖  .........Laisse-moi pleurer seule... juste un peu..."
+118015|"......Oui.‖  ......Je vous prie de m'excuser."
+118019|Kanon s'inclina de nouveau et referma la porte...
+118026|......Il avait cru que ses paroles lui donneraient un peu de courage.
+118027|......Mais à présent, il avait l'impression qu'elles l'avaient au contraire blessée, il ne savait pourquoi.
+118034|...Pourquoi ?‖  ......Il ne le savait pas.
+118035|...Sûrement parce que...
+118037|......il était un meuble.
+118046|Voilà pourquoi... il ne parvenait toujours pas à saisir la tristesse humaine.
+118054|Tout en s'interrogeant sans relâche, Kanon s'avança dans le couloir.
+118055|......Il avait l'impression que la fenêtre au bout du couloir l'appelait froidement.
+118062|"............‖...Au fond, ......je ne suis rien de plus qu'un meuble, c'est ça... ?"
+118064|Dehors, il pleuvait toujours à verse... un monde sombre et gris.
+118067|...Même par des jours pareils, Shannon verrait sûrement l'océan et saurait qu'il est bleu.
+118070|...Mais à mes yeux, même s'il faisait beau, je ne verrais que du gris...
+118075|Tant que je ne pourrai pas comprendre le bleu de l'océan, 
+118077|...je ne serai qu'un meuble qui imite une personne......
+118084|".........Tu ne comprends vraiment rien au cœur des femmes, hein ?
+118088|  ...Dans ces moments-là, tu devrais rester à ses côtés en silence.‖  ...*ricane*ricane*  C'est pour ça que tu es un meuble."
+118094|"......V-Vous..."
+118099|Il n'aurait dû y avoir aucune trace de présence humaine dans ce couloir.
+118100|C'était un couloir désert, empli d'un air glacial.
+118102|......Mais ces paroles moqueuses s'approchèrent de Kanon par-derrière.
+118109|Quand il se retourna, ...il vit cette sorcière.
+118110|Cette sorcière qui ne s'était pas montrée quand Jessica l'avait cherchée avec une rage frôlant la folie, et qui avait laissé cette lettre méprisante pour se jouer d'elle... !
+118116|"Il y a trois façons de blesser une femme.‖  ...Je vais te les apprendre.‖  La première, c'est de la blesser avec une lame.‖  La deuxième, c'est de la blesser au cœur.
+118121|  ...La dernière est la plus difficile, et la plus efficace pour la blesser.‖  Et pourtant, elle peut la blesser sans même que tu t'en rendes compte.‖  Tu vois ce que je veux dire... ?"
+118125|"...C-Comment le saurais-je... ?  Je ne veux même pas le savoir !!"
+118132|"C'est de trahir ses attentes.
+118137|  ...Aucun être vivant n'est plus rêveur qu'une femme !‖  Elles s'inventent des rêves toutes seules et finissent par se blesser elles-mêmes.‖  ...Un homme distant comme toi est celui qui blesse le plus les femmes !‖  Tu ne pouvais pas comprendre.‖  Tu n'as aucune idée de la profondeur de la blessure que tu as infligée à Jessica."
+118142|"...Après tout, tu es un meuble !‖  *ricane*ricane*ricane*ricane*ricane* !"
+118149|"J-Je n'ai aucune intention d'entrer dans vos absurdités !‖  ...Vous êtes apparue uniquement pour vous moquer de moi ?!!"
+118156|"Ne te monte pas la tête, meuble.‖  Tu ne vaux même pas qu'on se moque de toi !
+118161|  *ricane*ricane* !‖  Cela dit, même si tu ne vaux pas mon temps à toi seul, si vous êtes réunis tous les deux, c'est tout ce qu'il me faut.‖  ...Le plaisir de rire du destin des jeunes couples ne me lasse jamais."
+118172|"Qu'est-ce que vous dites... ?‖  ......V-
+118174|Vous ne voulez pas dire...
+118176|...que Mademoiselle va être..."
+118193|"Il me faut `deux êtres proches' pour les sacrifices du deuxième crépuscule.‖  ...Vous deux, vous tombez vraiment à pic... !!"
+118203|"......A-Attendez... !‖  Ne vous méprenez pas... !‖  Mademoiselle et moi......
+118205|nous n'avons pas ce genre de relation... !‖  Nous ne pouvons pas être les sacrifices du deuxième crépuscule !"
+118211|"*ricane*ricane*ricane*ricane*hahahahahahahahahahahahahahahaha !!‖  C'est pour ça que tu as blessé Jessica.‖  C'est pour ça que tu ne peux pas devenir humain... !!"
+118216|"Alors il n'y a aucun problème.  Si tu refuses d'admettre que tu as des sentiments pour Jessica, je peux l'accepter.
+118221|  ...Mais ~ib~elle~ib~, je la tuerai !!"
+118227|"Pourquoi ?!"
+118234|"Imbécile !!‖  N'est-ce pas évident ?!!
+118243|  ~ib~Ce sera amusant de la tuer et de voir ton visage se tordre de douleur, pourquoi d'autre~ib~‖ ?!!"
+118246|"Selon les règles de la cérémonie, 13 personnes seront sacrifiées selon mon bon plaisir.‖  Mais aucune règle ne dit que je ne peux pas en tuer davantage."
+118251|"...Si ça m'amuse, je peux tuer autant de gens que je veux !!‖  Alors je le ferai !!
+118253|  ~ib~Fais-moi rire de toutes mes forces~ib~‖, Kanonnnnnnnn le meuuuuuuuuuuble !!"
+118262|À cet instant, Kanon entendit distinctement Jessica crier.
+118266|Quand il cligna des yeux et regarda le couloir, la sorcière qui s'y trouvait si nonchalamment une seconde plus tôt... avait disparu.
+118269|...À cet instant, il se tenait simplement là, tout seul dans le couloir, sans rien faire.
+118272|...Et la personne qu'il voulait protéger appelait à l'aide... au loin, dans cette direction.
+118279|Ce qu'il devait faire était évident.
+118280|Ce n'était pas logique.‖  C'était un réflexe électrique.
+118281|Sans la moindre trace d'hésitation ni de distraction.
+118285|...Il y avait une personne qu'il voulait protéger, et elle appelait à l'aide.
+118286|......Et, à cet instant, il voulait sincèrement que la personne à ses côtés, ce soit lui.
+118296|Quand il se rua dans la chambre de Jessica, la scène qui s'offrit à ses yeux était bizarre.
+118299|La chambre était devenue un monde féerique où dansait un blizzard de particules dorées, comme si l'on avait répandu de la feuille d'or dans une boule à neige.
+118304|......Non, ce n'est pas ça.
+118305|J'ai déjà vu ce spectacle.
+118306|Ce n'est pas de la feuille d'or.
+118309|...Ce sont d'innombrables papillons dorés, les serviteurs de Beatrice !!
+118319|Jessica était entourée d'innombrables papillons et agitait les mains, s'efforçant désespérément de les chasser.
+118325|"Mademoiselle !!!"
+118333|"K-Kanon-kun, 
+118335|...à-à l'aide... ‖...*toux*toux*toux*toux* !!"
+118339|Kanon se précipita vers Jessica et dispersa violemment le nuage de papillons.
+118342|...Les papillons, écœurants malgré leur beauté, entouraient le visage de Jessica et tentaient de s'introduire dans sa bouche et son nez.
+118350|Jessica suffoquait violemment.
+118353|...Comme si les papillons déclenchaient sa crise d'asthme pour se moquer d'elle.
+118362|Mais quand Kanon accourut vers elle, les papillons cessèrent leur attaque et se mirent à danser une ronde élégante autour du couple.
+118368|"......Kanon-kun, ...Kanon-kun......"
+118377|"...Tout va bien.‖  ......Tant qu'il me restera un souffle de vie, 
+118379|...je ne laisserai personne vous toucher.
+118383|  ......Montrez-vous, Beatrice !!‖  Vous êtes satisfaite, maintenant ?!!"
+118387|Montant la garde devant Jessica, qui se servait de son inhalateur et semblait souffrir, Kanon cria dans le vide.
+118394|...Et à ces mots, le vide lui répondit bel et bien par un rire satisfait.
+118412|...Puis, elle se montra.
+118413|Ce n'était pas pour répondre à l'exigence de Kanon.
+118416|C'était de toute évidence parce qu'apparaître et ricaner leur infligerait une humiliation plus grande encore, et qu'en plus, c'était plus amusant !
+118422|"*ricane*ricane*ricane*  Ahahahaha !!‖  Tout s'emboîte parfaitement dans l'intrigue, à présent.‖  Vous voilà comme la carpe sur la planche à découper.
+118427|  Non, puisque vous êtes deux, je devrais plutôt dire le canard qui apporte lui-même ses poireaux, non ?‖  Hahahahahahahahahahahahahahaha !!"
+118439|"...T-Toi, 
+118441|...B-Beatrice... !!"
+118447|"Je vous en prie, reculez.
+118453|  ...Je vous protégerai, Mademoiselle... !"
+118464|"Quand la princesse et le chevalier se retrouvent, il est inévitable que la sorcière apparaisse.‖  ...Oui, et si tu me montrais de quoi est capable le meuble de Kinzo ?"
+118471|Elle claqua des doigts dans un bruit perçant.
+118484|Aussitôt, un blizzard de papillons dorés se leva, et ils se mirent à former un petit monticule en tourbillonnant en cercle.
+118487|...C'était tout à fait comme le tourbillon d'un vent glacial d'hiver qui amoncelle les feuilles mortes.
+118502|De ce monticule d'or, une main surgit... et ~ib~cela~ib~ apparut, ...comme si un habitant du monde d'en bas rampait hors de terre.
+118507|"...Q-Qu'est-ce que c'est... ?‖  Qu'est-ce que c'est que ce truc, bordel... ?!"
+118512|Jessica ne pouvait comprendre ce qu'elle voyait à cet instant, et sa bouche ne cessait de s'ouvrir et de se refermer...
+118513|C'était la morsure de la sagesse, qu'on voit chez ceux qui tentent de comprendre l'incompréhensible.
+118524|Cette chose qui rampait... était sans doute un serviteur au service de la sorcière.
+118525|Elle semblait porter un uniforme digne de quelqu'un qui sert.
+118529|...Mais son visage était... anormal.‖  Il avait l'air... étrange...
+118530|...Il était couvert de poils d'un noir de jais, ...exhalait une haleine putride, et ses yeux brillaient de la même étrange lueur souterraine que la lave.
+118533|...Et, ......pour symboliser sa nature non humaine, ...il avait deux cornes...‖  C'était la silhouette d'un serviteur à tête de chèvre au service de la sorcière...
+118542|"............ !!!"
+118545|À présent, Jessica ne savait plus du tout quoi dire.
+118548|...Tout ce qui se passait devant elle échappait au bon sens, et elle ne pouvait rien faire d'autre qu'ouvrir et fermer la bouche.
+118554|...Jessica ne s'en était pas rendu compte.
+118555|...Elle ne s'était pas rendu compte que cette île avait déjà été coupée des règles de notre monde.
+118559|Mais il y avait des choses que même elle pouvait comprendre...
+118560|...Ce serviteur-chèvre servait la sorcière... et en voulait à sa vie.
+118564|Et apparemment, la sorcière lui en avait déjà donné l'ordre.
+118565|Elle regardait Kanon d'un regard plein d'attente.
+118568|...Elle le fixait d'un regard plein d'attente, et donc plein de défi, comme pour lui demander comment il comptait protéger cette jeune fille !
+118574|Bien que le serviteur ait eu l'air particulièrement bestial en se relevant à quatre pattes, ‖on voyait à son maintien qu'il possédait largement assez de grâce pour être digne de servir la Sorcière dorée.
+118577|...Et l'on sentait qu'il débordait de la joie d'un meuble désireux de répondre aux attentes de sa maîtresse.
+118584|"......Eh bien, et si tu me montrais ?‖  Voyons le pouvoir du meuble de Kinzo !
+118589|  Cette fois, ne te fais pas d'idées, d'accord ?‖  ...N'oublie pas que tu es un meuble, compris ?‖  Si tu t'obstines à jouer les humains même maintenant, ta mort seule ne suffira pas à régler l'affaire.‖  Hihihihihihihihihihihihihihihi !"
+118596|Le serviteur-chèvre fit ce qui ressemblait à une révérence silencieuse et respectueuse.
+118597|Était-elle adressée à sa maîtresse, ...ou offerte à Kanon, son adversaire ?
+118603|Puis, dans la main du serviteur, ...apparut une lame d'une malveillance perverse...
+118625|"......Q-
+118627|Qu'est-ce que...
+118629|...c'est que ça...... ?"
+118640|Depuis un moment déjà, Jessica était incapable de comprendre ce qui se passait sous ses yeux.
+118644|...Tout ce qu'elle comprenait... c'était que cette lueur devant elle existait dans le but de mettre fin à sa vie.
+118645|Et pour l'heure, cela suffisait.
+118648|Kanon parla doucement à Jessica, qui se cachait derrière son dos.
+118654|"...Mademoiselle,‖ ...restez contre le mur, je vous prie.‖  ...Ne vous en écartez jamais."
+118660|"Quoi... ?!"
+118667|"...*ricane*ricane*ricane* !‖  Il est bien normal que la jeune fille se cache sagement derrière le dos du grand chevalier.‖  J'espère que tu savoures le plaisir d'avoir la vie protégée par un homme.
+118672|  ...Allez !‖  Kanon, voyons un peu ta lame !!"
+118695|"............"
+118706|"...Magnifique.
+118712|  ...Quand il s'agit d'engendrer des meubles, du moins, Kinzo m'arrive peut-être bien jusqu'aux chevilles."
+118718|"...Une chose pareille... ne peut même pas servir à tailler les roses."
+118722|".........K-Kanon-kun, ‖.........qu'est-ce que......"
+118725|"......Je ne voulais pas... vous montrer ça."
+118732|"Alors, tu l'as sortie.‖  ......Qu'est-ce que ça fait d'exposer ta nature sous-humaine devant la fille qui t'est chère ?"
+118738|".........Taisez-vous."
+118744|"...Hmph.‖  ...Alors, tu vas jouer les impassibles, alors que tu brûles de colère en réalité ?‖  ...Oui, on dit bien que les flammes les plus chaudes brûlent d'un bleu froid.‖  C'est ce que tu es, à présent ?"
+118751|"Je n'ai pas le pouvoir de vous tuer.‖  ...Vous êtes la lune.‖  Je ne pourrais jamais briser la lune en lui lançant une pierre.‖  ...Mais pour vous manifester, vous devez refléter votre image à la surface de l'eau."
+118755|Si on lance une pierre à la surface de l'eau, on peut troubler un moment le reflet de la lune.
+118756|...Mais cela ne veut pas dire que la lune a été brisée.
+118761|"Alors.
+118771|  ...Jusqu'à ce que ma vie s'achève, 
+118773|...je continuerai de frapper votre reflet... !"
+118782|"Ça me plaît, Kanon !!‖  En garde, meuble !!"
+119050|"......Oh.‖  .........Quelle belle courbe."
+119055|Les paroles admiratives de la sorcière rompirent le silence et, l'espace d'un instant, rompirent la paralysie de Jessica.
+119069|"............
+119071|Est
+119073|-ce que je...
+119075|rêve...... ?"
+119092|"......Viens,‖ meuble de la sorcière.‖  ......Je vais te renvoyer à coups de lame dans l'enfer d'où tu viens."
+119099|"............"
+119255|Un filet rouge était resté sur la joue de Kanon.
+119256|...En le voyant, la sorcière eut un large sourire...
+119260|"*ricane*ricane*ricane*ricane*ricane*‖  ...Libre à toi de marmonner des excuses, comme quoi tes réflexes ne sont pas encore tout à fait revenus."
+119279|"............"
+119286|"...K-Kanon-kun, ......tiens bon... !"
+119292|"......Tout va bien.‖  ......Je... ne mourrai pas encore."
+119506|La courbe tracée par la lame du serviteur-chèvre... décrivit un grand arc dans le vide.
+119509|...Kanon... n'y était pas.
+119512|...Il était derrière lui.
+119525|"......Retourne attendre le retour de ta maîtresse.‖  ...Meurs."
+119611|Si ce combat de courbes étincelantes était une partie d'échecs...
+119612|...Alors Kanon surgissant par-derrière, c'était échec.
+119616|Et presser, et presser, et presser, et presser.
+119617|En sept coups, faire échec et mat... !
+119622|...Peut-être le serviteur-chèvre n'avait-il même pas reçu la faculté d'agoniser.
+119625|...Tandis que ses genoux cédaient et qu'il s'effondrait, il éclata en une nuée de papillons dorés...
+119634|Si bien qu'on n'entendit pas le bruit de sa chute.
+119635|Même ceux incapables de comprendre ce combat... se seraient sûrement rendu compte que Kanon avait été magnifique.
+119642|"...Hmph.‖  Il n'a donc pas pu vaincre une pièce faite à la main.‖  ...On dirait que tu n'es pas si pitoyable que ça."
+119649|"À vous, maintenant, ......Beatriiiiiiiiiiiiiiice !!"
+119670|À l'instant où la lame de Kanon trancha en diagonale la silhouette de la sorcière comme un couteau dans du beurre, elle se changea en or et éclata.
+119672|...Elle se dispersa en plusieurs milliers de papillons dorés et, l'espace d'un instant, la chambre s'emplit de la couleur du crépuscule.
+119676|...C'était exactement ce que Kanon lui-même avait dit.
+119677|Trancher Beatrice revenait à trancher la surface de l'eau où se reflétait la lune.
+119687|...La silhouette de la sorcière, l'air tout à fait ordinaire, comme si elle avait été là depuis le début, ...se tenait juste derrière Kanon.
+119703|"Hahahahahahaha... !!‖  Tu m'as offert un spectacle fort divertissant.‖  Par égard pour cela, j'avais songé à te laisser filer, mais ton insolence de tout à l'heure m'a fait changer d'avis..."
+119714|"Ne mentez pas !‖  Je ne vous laisserai pas tuer Mademoiselle !!‖  ...Même si c'est impossible, ...je ne vous laisserai pas la tuer tant que je serai en vie !"
+119720|"Tu n'es même pas capable de ça.
+119723|  Ne parle pas, meuble.‖  Tais-toi, meuble.‖  Reste à ta place, meuble !!"
+119732|"...K-Kanon-kun n'est pas un meuble... !"
+119738|"...Oh.‖  ...Et qu'est-ce qui te fait penser ça ?"
+119744|"J'ai pas besoin de raison.‖  ...Kanon-kun, c'est Kanon-kun.
+119749|  Non, son vrai nom est différent, ...mais c'est pas un nom qui fait de lui un meuble !‖  Kanon-kun a sa propre façon de vivre.‖  C'est quelque chose de noble, et c'est à lui seul d'en décider."

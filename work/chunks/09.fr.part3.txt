@@ -1,0 +1,190 @@
+35397|...Et pour l'instant, rien ne garantit absolument que les huit personnes restantes seront en sécurité...
+35406|"...Quoi qu'il en soit, ce n'est pas le moment de nous quereller.‖  ...Maintenant que nous sommes certains que le coupable peut entrer et sortir du manoir à sa guise et frapper n'importe où,‖ nous devons consacrer toute notre attention à survivre jusqu'à demain."
+35411|"...Je suis tout à fait d'accord avec Tante Natsuhi.‖  ...On pourra chercher qui est le coupable tranquillement cette nuit.‖  Pour l'instant, on ferait mieux de trouver un endroit où se barricader."
+35415|En disant ça, j'ai montré l'horloge à tout le monde.
+35420|Il était déjà 20 h.
+35422|...Depuis le petit matin, on encaissait choc après choc, et on était épuisés, physiquement comme moralement.
+35424|...Il reste encore un long, très long moment avant demain.
+35426|Il fallait qu'on trouve un endroit où se barricader, pour reposer nos corps et trouver ne serait-ce qu'un tout petit peu de répit...
+35431|"......Je suis d'accord...‖  Tout le monde est déjà à la limite de ses forces, physiques et mentales, moi y compris.‖  Je crois qu'il serait sage d'en tenir compte pour la suite..."
+35436|"C'est ça.‖  ......Il y a de fortes chances que l'ennemi ait l'équivalent d'un passe-partout."
+35442|"...Est-ce que Shannon, Kanon-kun et Gohda-san avaient des passe-partout ?"
+35447|"......Oui.‖  Ils étaient censés les avoir sur eux pendant le service."
+35452|"...On voulait pas toucher à la scène, alors on n'a pas regardé d'aussi près.‖  On peut pas exclure que quelqu'un leur ait volé une clé."
+35459|"......D'ailleurs, nous savons que le coupable s'est peut-être rendu à un moment ou à un autre dans la salle des domestiques pour ouvrir le volet de la remise du jardin.‖  Il est envisageable qu'il y ait obtenu un passe-partout plus tôt."
+35464|Il y avait beaucoup de domestiques au service de la famille Ushiromiya.
+35465|C'est pour ça qu'il existait plusieurs passe-partout.
+35469|De plus, chaque fois qu'un employé commençait ou finissait son service, les clés passaient d'un domestique à l'autre,‖ et il fallait bien reconnaître que par le passé, ça avait sans doute parfois été un peu négligé.
+35475|"Même s'il a emprunté un trousseau de clés dans les poches d'un des domestiques assassinés,‖ il y a un endroit sûr que même ces clés peuvent pas ouvrir... ?"
+35480|"......De par la nature de notre travail, on nous a confié les clés de toutes les pièces...‖  Toutes celles du manoir et de la maison d'hôtes..."
+35485|"Donc en gros, ...peu importe où on s'enferme à clé, ça servirait à rien.‖  ...Très bien, on s'en fiche de fermer à clé !  Si tu veux venir, amène-toi, bon sang !‖  Je vais te battre à ton propre jeu !!"
+35491|"...L'ennemi ne nous attaquera pas de front.‖  Je ne sais pas pour les six premiers, mais si on regarde ce qui est arrivé à mes parents et à Kanon-kun,‖ ...et même à Grand-père, l'ennemi ne s'en est pris qu'à des gens isolés.‖  Il n'a pas la force de tous nous attaquer ouvertement dans une pièce sûre."
+35495|"C'est ça.‖  C'est exactement ce que dit Aniki.
+35500|  ...Et le fusil de Tante Natsuhi pourrait peut-être servir de dissuasion pour l'empêcher d'attaquer."
+35506|"......J'espère qu'il en est ainsi, mais..."
+35512|"..............."
+35516|"Maria, je sais que tu veux dire quelque chose, mais garde-le pour toi et tais-toi un moment."
+35520|"...Uu-."
+35522|Maria voulait sans doute dire que les sorcières n'avaient pas peur des choses comme les fusils.
+35525|Mais si elle le disait à voix haute, l'ambiance allait vite devenir tendue.‖  Je l'avais deviné et j'avais décidé de couper court...
+35531|"......Si vous me permettez,‖ je connais un seul endroit où l'on ne peut entrer, même avec les trousseaux des domestiques."
+35536|"Lequel ?"
+35540|"...Il s'agit
+35544|du bureau du Maître."
+35550|"J-Je suis contre !!‖  J'ai même pas envie d'imaginer entrer dans la pièce flippante de Grand-père !"
+35555|"Combien de clés permettent d'accéder à cette pièce ?"
+35560|"...Il y en a deux.‖  J'en ai toujours une sur moi.‖  L'autre était détenue par le Maître lui-même, mais à l'instant, j'ai trouvé ceci sur le cadavre de la chaufferie..."
+35566|Genji-san a sorti un mouchoir de sa poche et l'a déplié pour nous montrer la clé du bureau, brûlée et noircie.
+35567|Puis il l'a montrée à côté de sa propre clé, celle qu'il avait prêtée un jour à Natsuhi.
+35570|"...Normalement, il aurait été convenable de laisser la clé du Maître pour la police, ‖...mais en raison des ordres du Maître de garantir la sécurité du bureau, je l'ai empruntée pour le moment."
+35576|"......Je vois...‖  Ce qui signifie que le bureau de Kinzo-san est le seul endroit où nous pouvons être en sécurité..."
+35582|"...Il semblerait.‖  ...Je n'ai même pas envie d'imaginer être enfermée toute la nuit dans cette pièce étrange,‖ mais il semble que nous devions admettre que sa pièce est plus sûre que n'importe quel autre endroit pour le moment."
+35588|"......Grand-père s'était enfermé dans cette pièce `sûre', et pourtant le coupable l'en a fait sortir et l'a tué.‖  ...On peut pas être certains qu'elle soit vraiment sûre."
+35593|"D'après ta théorie, Grand-père a astucieusement contourné le piège du reçu et quitté la pièce de son plein gré.‖  ...Si c'est le cas, cette pièce serait peut-être un bon endroit où se barricader, finalement..."
+35598|"...T'es trop optimiste, Aniki."
+35602|Pourtant, ...en même temps, je trouvais qu'il soulevait un point plutôt intéressant.
+35605|Après tout, ça nous donnait une occasion d'interroger l'ennemi, la sorcière en personne, sur la façon dont la porte scellée avait été ouverte.
+35611|Si on suppose que le coupable a utilisé une technique pour enlever Grand-père de son bureau...
+35612|Il devrait nous refaire le même tour s'il voulait nous attaquer dans le bureau.
+35615|...Et ça nous donnerait une chance d'obliger le coupable à prouver comment il s'y est pris, sous nos yeux.
+35620|Si c'est vraiment une sorcière, on va la forcer à utiliser son petit tour de magie pour ouvrir la porte juste devant nous.‖  ...Mais c'est sans doute impossible.
+35624|Si on retourne l'échiquier, il est évident que le coupable agit de façon à nous faire croire que c'est une sorcière.
+35626|...Si c'est vraiment une sorcière, elle n'a qu'à apparaître devant nous et nous éblouir avec un festival de magie haut en couleur.
+35629|...Puisqu'elle évite de le faire, tout ça doit être l'œuvre d'une fausse sorcière qui veut nous faire croire qu'elle est réelle.
+35632|...Par conséquent, ~ib~un coupable qui a utilisé une autre technique que la magie pour venir à bout de la chambre close ne pourrait pas ouvrir la porte sous nos yeux~ib~.
+35640|"...La pièce de Grand-père est assez grande pour y caser huit personnes ?"
+35645|"......Oui.‖  Il y a un lit, un canapé et des couvertures ; ce n'est pas luxueux, mais ce sera largement suffisant pour passer la nuit.‖  Il y a aussi un lavabo, une salle de bains, un réfrigérateur et un bar."
+35650|"Wouah.‖  C'est incroyable.‖  ...Mais c'est pas bizarre ?‖  Vous voulez dire qu'il s'est construit une autre maison dans sa maison ?‖  C'est plutôt exigu, comme dernière demeure, pour quelqu'un comme notre grand-père, qui s'est acheté une île entière et a réalisé tous ses rêves."
+35656|".........‖C'est exact.‖  ...À partir d'un certain moment, Père n'a sans doute plus pu se sentir en paix nulle part ailleurs, même à l'intérieur du manoir."
+35661|"......On s'est toujours moqués de lui parce qu'il s'enfermait là-dedans, et cette fois, c'est nous qui allons nous y enfermer.‖  ...Ha !"
+35664|Jessica a craché ces mots.
+35669|"Jessica-chan, ...on dirait que tu préférerais partir à la recherche du coupable plutôt que de rester enfermée quelque part."
+35673|"...Bien sûr, je pense pas qu'on arrivera à le trouver si on se met juste à chercher de notre côté.‖  ...Au final, on peut rien faire d'autre qu'attendre.‖  Al
+35678|ors peu importe où on attend, non ?!‖  Je vais pas fuir ni me cacher.‖  Pourquoi on se poserait pas tranquillement au salon, à regarder la télé ou autre chose, en attendant que cette Beatrice-sama se montre ?!"
+35684|"...Si elle ne se montre pas, c'est parfait.‖  Ce n'est pas à nous de démasquer le coupable."
+35689|"Bien dit...‖  Nous ne devrions pas prendre de risques inutiles avant l'arrivée de la police."
+35692|"Merci, docteur Nanjo.‖  ......Je pense que nous devrions nous installer dans le bureau de Père.‖  ...Certes, rien ne prouve qu'il soit sûr, puisque Père en a été enlevé.
+35697|  ...Cependant, je ne peux pas écarter la possibilité que...‖comme Battler-kun l'a supposé, Grand-père ait quitté le bureau de son plein gré et ait été attaqué dehors."
+35702|...Tout à l'heure, j'avais proposé cette théorie bizarre en guise de solution de fortune.
+35704|Mais comme l'avait dit Tante Eva, même si ce tour était possible,‖ j'étais incapable d'expliquer quel mobile aurait poussé Grand-père à sortir en douce de son propre bureau d'une façon aussi compliquée.
+35706|En plus, Grand-père n'aurait même pas pu utiliser ce tour s'il ne `savait pas que le reçu était coincé dans la porte'.
+35713|Tante Eva n'avait pas relevé ce dernier point, ‖...mais l'absurdité de cette théorie saute aux yeux.
+35716|Alors, est-ce que ça veut dire que la porte scellée formait une chambre close, comme le soutenait Tante Eva ?
+35717|Est-ce que c'est un fait indéniable que Tante Natsuhi était la coupable... ?
+35720|......Si Tante Eva était là, elle le clamerait sans doute ouvertement et balaierait ma théorie bizarre.
+35727|...Mais bref.
+35729|Je devais admettre qu'une pièce avec à la fois un lit et des toilettes, où pouvaient s'enfermer les huit personnes, ‖...et avec seulement deux clés, toutes deux réunies ici, ...devait être l'endroit le plus sûr du manoir en ce moment...
+35732|Au moins, je me disais que ce serait mieux que de rester enfermés au salon en espérant qu'il n'arrive rien.
+35735|Mais attends, ...est-ce qu'on a été en sécurité justement parce qu'on était enfermés au salon ?
+35736|Et si quitter cette pièce pour aller dans un endroit inexploré était en fait plus dangereux... ?
+35742|...Aah, ça sert à rien, ça sert à rien, tout ça sert à rien...
+35745|......Ma pauvre tête fragile va finir par avoir de la fièvre.
+35746|...Si je continue à retourner l'échiquier, le vrai et le faux vont échanger leurs places encore et encore, et je ne pourrai plus croire en rien...
+35748|Quand j'ai l'impression que le coupable fait partie des 18, j'ai envie de croire en Beatrice,‖ et dès que je commence à croire en Beatrice, j'ai envie de trouver le coupable parmi les 18.
+35750|...Si ça continue de tourner indéfiniment, au bout du compte, mes réflexions n'auront pas avancé d'un pas depuis le point de départ...
+35754|...Ça remonte à combien de temps, déjà, le jour où Kyrie-san m'a appris la réflexion sur l'échiquier... ?
+35756|Ce principe qui consiste à examiner la situation en la retournant pour réfléchir du point de vue de l'ennemi...‖  Je crois me souvenir que ça m'avait tellement intéressé à l'époque que je m'en servais pour guider toutes mes réflexions.
+35760|...Au fait, à l'époque, Kyrie-san était une collègue de mon père.
+35761|...Jamais je n'aurais imaginé qu'elle entrerait un jour dans notre famille...
+35768|...Kyrie-san ne m'avait pas...
+35769|dit quelque chose, une fois ?
+35772|J'ai l'impression qu'elle avait dit que cette réflexion sur l'échiquier était une façon de voir les choses parmi d'autres, mais qu'elle n'était certainement pas toute-puissante,‖ et qu'il valait mieux ne pas trop s'y fier...
+35779|"La réflexion sur l'échiquier...‖c'est ma propre interprétation de ce qu'on appelle la théorie des jeux, que j'ai découverte dans un livre il y a longtemps.‖  C'est un sujet passionnant, tu devrais t'y attaquer toi-même quand tu entreras à la fac, Battler-kun."
+35781|"J'ai vraiment envie d'essayer !‖  Si je pouvais étudier et perfectionner ma réflexion sur l'échiquier, ce serait marrant de pouvoir lire dans le jeu de n'importe quel adversaire, non ?"
+35785|"Mais tu ne dois pas y croire aveuglément.‖  La théorie des jeux est un sujet très profond et très complexe.‖  La réflexion sur l'échiquier, c'est seulement mon interprétation, qui ne fait qu'effleurer la surface de la théorie des jeux.‖  ...Pour lire à fond dans le jeu de ton adversaire comme tu l'imagines, il faut étudier ton adversaire.‖  En plus, la théorie de l'échiquier a beau être pratique et commode, elle n'est pas parfaite.‖  Elle a beaucoup de points faibles, malgré son côté pratique."
+35787|"...Des points faibles ?"
+35791|"Oui.‖  ...La réflexion sur l'échiquier repose sur la théorie des jeux.‖  Quand on étudie la théorie des jeux à fond, ça se ramène aux mathématiques.‖  Tu sais quel est le point faible des mathématiques ?‖  ......C'est le bruit."
+35795|En maths, quand on écrit 1+1=2,‖ ce calcul donnera toujours 1+1=2, même dans des milliards d'années, ...ni plus, ni moins.
+35798|Parce qu'il n'y a absolument aucun bruit qui s'y mêle.
+35800|Mais par exemple,‖ ...contrairement aux maths, la langue japonaise contient du bruit.
+35804|Les kanji en sont un bon exemple.
+35805|Les kanji anciens et les kanji modernes sont légèrement différents,‖ ce qui représente l'introduction d'un bruit créé par les changements d'une époque à l'autre.
+35809|L'histoire, ce n'est pas pareil ?
+35810|...Il y a des dizaines de politiques qui semblent stupides à l'époque moderne, mais qui avaient un sens à un moment donné du passé.
+35815|Comme les règles des échecs sont fixes, quand deux experts discutent d'une position donnée,‖ il est possible qu'ils arrivent aux mêmes conclusions, qu'ils viennent de cent ans dans le passé ou de cent ans dans le futur.
+35818|...Mais si les règles des échecs avaient énormément changé avec le temps,‖ il est possible que l'analyse de cette même position ait changé elle aussi.
+35823|"C'est ça.‖  Les événements du monde des humains sont normalement pleins de bruit.‖  Les émotions humaines ne sont-elles pas ainsi ?‖  Même si la même chose se produit plusieurs fois, rien ne garantit que les humains agiront toujours de façon prévisible.
+35827|  ...Dès l'instant où on essaie d'utiliser une théorie fondée sur les maths pour prédire les actes de quelqu'un,‖ il faut avoir conscience que cette théorie comporte des faiblesses et des limites intrinsèques.‖  ...En clair, la réflexion sur l'échiquier est extrêmement vulnérable au bruit et aux caprices, ainsi qu'aux erreurs ou aux connaissances incorrectes."
+35833|...C'est vrai.
+35834|...Kyrie-san avait bien dit ça...
+35838|Les échecs ont toujours été un jeu où les deux camps jouent selon les mêmes règles et se battent avec les mêmes conditions de victoire.‖  C'est pour ça que chaque camp peut prédire les coups de l'autre.
+35841|......On peut lire dans le jeu de l'adversaire parce qu'on peut toujours supposer qu'il jouera les meilleurs coups qu'il trouvera.
+35846|...Mais si l'adversaire est capricieux ou un peu fatigué...‖et qu'il joue un coup qu'on peut difficilement qualifier de `meilleur' ?
+35849|Ou alors, ...si ce jeu a en fait une règle spéciale,‖ un élément inconnu que seul l'ennemi connaît et peut utiliser ?
+35856|Et même, si l'adversaire a en fait un autre but que la victoire ?
+35859|Penser du point de vue de l'ennemi.
+35860|C'est la base de la réflexion sur l'échiquier.
+35863|...Ce qui veut dire que si on se trompe sur l'ennemi, ‖...la réponse qu'on tire de ce raisonnement ne sera qu'une absurdité totale, inutile...
+35866|Jusqu'ici, je me suis servi de la théorie de l'échiquier pour deviner plusieurs vagues informations sur le coupable caché derrière cette affaire, du moins je crois.
+35870|Pourtant, je ne sais rien du coupable.
+35871|...Est-ce que je ne fais que m'amuser dans un labyrinthe de réflexions ?
+35875|......Si Kyrie-san était là, dans un moment pareil, ‖...elle remarquerait sûrement quelque chose, avec sa capacité de réflexion bien, bien plus aiguisée...
+35883|...Jusqu'au tout dernier moment, Jessica a refusé d'aller s'installer dans le bureau de Grand-père.
+35884|Mais au bout du compte, Tante Natsuhi a insisté, et on a décidé d'y aller.
+35886|Tout le monde était désormais complètement enveloppé de paranoïa.
+35888|...Kumasawa-san avait préparé le dîner à un moment, mais pendant qu'on découvrait la mort des parents de George-aniki, la cuisine et le salon étaient restés vides.
+35891|Quelqu'un a suggéré que la nourriture avait pu être empoisonnée pendant notre absence.
+35894|...À cause de ça, on n'a même pas pu toucher au repas que Kumasawa-san s'était donné la peine de nous préparer.
+35900|......On ignorait toujours de quelle manière les six premiers avaient été tués, mais ça pouvait très bien être du poison.
+35903|...Effectivement, ça permettrait même à une seule personne de commettre le meurtre de six adultes bien bâtis.
+35906|...De plus, cette idée permettait d'imaginer facilement qu'il n'y avait qu'un seul coupable, un coupable qui aurait peur du fusil de Tante Natsuhi, ‖et c'était très bon pour notre stabilité émotionnelle.
+35911|Mais la fatigue et la faim étaient encore plus dures qu'on ne l'avait imaginé.
+35914|...Alors, Kumasawa-san a fait une proposition, et on est tous allés ensemble à la cuisine.‖  Là, on a rassemblé des conserves et d'autres choses difficiles à empoisonner, pour les emporter avec nous.
+35919|Tous les efforts de Kumasawa-san pour nous récompenser d'un petit dîner en cette journée barbare n'avaient malheureusement servi à rien...
+35922|La nourriture empilée sur la desserte avait l'air un peu triste.
+35932|On a tous commencé à monter l'escalier.
+35933|Tante Natsuhi, en tête, scrutait les ténèbres avec méfiance, de ses deux yeux et du canon de son fusil.
+35938|Une fois qu'on s'est traînés jusqu'au deuxième étage, exactement comme Tante Natsuhi nous en avait prévenus, ‖...il y avait un mélange d'odeur chimique et d'arôme douceâtre écœurant, une puanteur suspendue dans l'air qui avait l'air de nous ronger le crâne.
+35943|"...Je vois, ce genre de puanteur, ça te filerait sûrement la migraine si tu restais enfermé avec toute une nuit.‖  ...Je sais que c'est un peu tard, mais je suis avec Jessica.  Je vote contre l'idée d'aller dans le bureau de Grand-père."
+35947|On aurait dit que la puanteur s'échappait de cette porte magnifique.
+35950|...C'était la porte du bureau interdit, censée repousser quiconque voudrait y entrer...
+35952|Pendant que Genji-san déverrouillait la porte, Maria fixait la porte et la poignée avec un grand intérêt.
+35956|"......Uu-.‖  ...Porte incroyable."
+35961|"Elle a l'air vieille, austère, et du genre à pas apprécier les blagues.  Une porte parfaite pour le bureau de Grand-père."
+35964|"...Le pouvoir qui repousse les menaces spirituelles est fort, ici.‖  ......Beatrice pourrait sans doute pas ouvrir cette porte."
+35968|"Ah oui... ?‖  Qu'est-ce que tu veux dire ?"
+35972|Maria a montré la poignée du doigt.
+35975|...Un blason au scorpion...‖non, un motif comme un cercle magique disposé autour d'un scorpion, y était gravé.
+35983|...Ce motif...  Mais oui.
+35984|C'est exactement comme les porte-bonheur en porte-clés que Maria nous a donnés hier, à Jessica et à moi... ?
+35991|"......Le cinquième cercle magique de Mars est une puissante protection contre la magie.‖  En plus, ce cercle magique a été construit avec beaucoup de soin, et il est plein de pouvoir.‖  ......Un cercle magique pareil, ça peut être très gênant pour les êtres magiques comme Beatrice."
+35996|"Voilà qui est rassurant.‖  Tu veux dire que dans cette pièce, on peut échapper même aux griffes de Beatrice ?‖  Elle est drôlement fiable, notre petite sorcière."
+36002|"...Alors comment Beatrice a-t-elle fait sortir Grand-père... ?"
+36007|"......Comme Battler l'a deviné.‖  ...Beatrice peut pas entrer.‖  Mais elle a la magie et des familiers.‖  Avec eux, elle a peut-être pu pousser Grand-père à quitter le bureau de lui-même."
+36014|"Ah, j'ai lu ça dans des mangas.‖  J'ai vu plein de scènes où les vampires avaient peur des croix, alors ils pouvaient pas s'approcher,‖ mais leurs familiers, eux, s'en fichaient, alors ils les envoyaient attaquer."
+36018|"Les porte-bonheur au scorpion que je vous ai donnés hier avaient aussi le cinquième cercle magique de Mars.‖  Le pouvoir qui les habite était faible, mais ça devrait suffire à vous protéger jusqu'à ce qu'on quitte l'île.
+36022|  .........Mais on dirait que t'as perdu le tien, hein ?‖  Kihihihihihihihihihihihi..."
+36028|"......Des porte-bonheur au scorpion ?"
+36033|"O-Ouais, euh...‖  Le porte-bonheur que je t'ai donné hier, c'est Maria qui me l'avait donné.‖  On m'a dit qu'il repoussait la magie si on l'accrochait à la poignée de sa porte, ...et sur le moment, je me suis dit que ce serait peut-être mieux que tu l'aies..."
+36038|"...Vraiment ?‖  ...Je trouvais étrange que tu aies une chose pareille sur toi."
+36044|"......Tante Natsuhi a mis ça...‖à sa poignée de porte ?"
+36049|"Oui.‖  ...Hier soir, après en avoir entendu parler par Jessica, je l'ai accroché à la poignée, à l'intérieur de ma porte."
+36054|"Alors Tante Natsuhi, vous avez vraiment de la chance.‖  ......Si vous avez fait ça, Beatrice pouvait sans doute même pas vous toucher du bout du doigt hier.
+36059|  ...Je crois que Beatrice a dû être vraiment énervée.‖  ...Kihihihihihihihihihihihi..."
+36064|...Beatrice, énervée... ?
+36065|Pas même toucher du bout du doigt... ?
+36070|Natsuhi repensa à l'inquiétant gribouillage qu'elle avait vu le matin même, comme si quelqu'un avait lacéré l'extérieur de sa porte de ses mains trempées de sang, ...et elle eut un hoquet de surprise.
+36076|Se pourrait-il...
+36077|...que cette sorcière qui se faisait appeler Beatrice...
+36078|...ait tenté d'entrer par la porte de la chambre de Natsuhi elle-même... ?
+36082|Mais le porte-bonheur qui repousse la magie était accroché à l'intérieur.
+36083|...Alors elle n'avait pas pu forcer la porte.‖  Alors elle avait été énervée.‖  ...Alors, elle l'avait griffée... ?
+36092|"Arrête, parle pas de ça...‖  Les sorcières, ça existe pas.‖  Le coupable, lui, existe.‖  Et c'est un humain comme nous.‖  ...S'il faut une preuve, pourquoi on la découperait pas en morceaux pour voir si son sang est rouge ?
+36097|  ...Bon sang, ......bon sang...‖  ...Comment t'as pu... faire ça à Kanon-kun......"
+36104|*clic*‖  Genji déverrouilla la porte.
+36107|Huit personnes entrèrent dans le bureau de Kinzo...
+36120|Le bureau de Grand-père.‖  ...J'en avais entendu parler avant, alors je n'ai pas été si choqué que ça.
+36124|Il n'avait rien fait de plus que le fortifier de fond en comble avec ses passe-temps occultes.
+36127|...Si Grand-père avait eu pour passe-temps de courir après les idoles de la chanson, ces murs seraient peut-être couverts de posters d'idoles.
+36130|Même si je n'y comprenais rien, je me rendais bien compte que cette pièce était un concentré de tous ses passe-temps.
+36132|Malgré tout, je ne pouvais pas m'empêcher de rester abasourdi par l'odeur de ses médicaments louches et par la puanteur sucrée qui semblait me faire fondre le crâne...
+36145|Quand la porte s'est refermée, elle a fait automatiquement *clonk*.
+36146|...Je vois, c'est le verrou automatique qui s'enclenche chaque fois que la porte se ferme...
+36149|Et il n'y avait que deux clés capables d'ouvrir cette porte de l'extérieur, toutes deux dans cette pièce.‖  ...Autrement dit, c'était devenu une `chambre close'.
+36152|......Le volet, le reçu, la chaîne.‖  ...Et maintenant, le verrou automatique.
+36153|...Cette quatrième porte avait la serrure la plus impressionnante de toutes, et c'était sans aucun doute une chambre close.
+36159|Pour être absolument sûrs que la pièce était sûre, on a vérifié partout s'il y avait des entrées ou des sorties.
+36163|La fenêtre était bien verrouillée.
+36164|Ça aurait dû suffire, mais par précaution, on a essayé de frapper sur tous les murs.
+36169|...Après tout, on avait parlé de l'existence d'une porte dérobée dans cette pièce.
+36170|...Mais on n'a rien trouvé de suspect.

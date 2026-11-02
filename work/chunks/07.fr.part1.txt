@@ -1,0 +1,190 @@
+27901|"......Hier soir, j'ai discuté avec Kyrie-san pour savoir si Beatrice existait vraiment, ‖et Kyrie-san a dit elle aussi que Beatrice était sans doute l'un de nous 18."
+27903|"N'est-ce pas évident ?‖  Il n'y a personne d'autre que nous sur cette île, non ?‖  Alors forcément, l'un d'entre nous se fait passer pour Beatrice."
+27906|"Il n'y a personne d'autre que nous sur cette île,
+27907|vous croyez... ?"
+27909|"Évidemment, voyons.‖  Tu insinues qu'il pourrait y avoir quelqu'un d'autre que nous ici ?‖  Il n'y a personne sur cette île à part nous.‖  Nous ne sommes que 18.‖  Donc celui qui se fait passer pour Beatrice est forcément l'un de ces 18."
+27914|Kyrie-san avait nié l'existence d'une 19ᵉ personne en `retournant l'échiquier'.
+27917|Même si Tante Eva n'était pas passée par un raisonnement aussi compliqué, elle arrivait au moins à la même conclusion.
+27920|...Seulement, si c'est le cas, notre situation commence à prendre une très sale tournure...
+27922|À l'époque de la lettre de Beatrice, on pouvait encore faire passer toute l'affaire pour une blague montée par quelqu'un.
+27925|...Mais si on part du principe qu'il n'y a pas de 19ᵉ personne, on ne peut plus fermer les yeux là-dessus.
+27928|......Autrement dit...
+27935|"S'il n'y a pas de 19ᵉ personne, ‖...alors le coupable qui a tué mon père et les autres fait lui aussi partie des 18, c'est ça ?‖  ......Autrement dit, celui qui les a tués se trouve en ce moment même dans ce manoir... !"
+27939|".................."
+27941|Tante Eva a souri d'un air entendu.
+27944|...Comme si, pour elle, cette conclusion aurait dû sauter aux yeux depuis le tout début.
+27948|"Le coupable a transporté les corps de ces six personnes jusque dans la remise.‖  Mais même ça, c'est un sacré exploit, tu ne trouves pas ?‖  Ce rideau de fer est toujours fermé à clé, n'est-ce pas ?
+27952|  Autrement dit, pour transporter les corps dans la remise, le coupable devait déverrouiller le rideau.‖  ...Tu comprends ?"
+27956|"...Il est possible que le rideau soit resté ouvert par erreur ce jour-là ?"
+27960|"Les domestiques disent qu'il est toujours fermé à clé.‖  Autrement dit, à moins d'avoir pris les clés dans la salle des domestiques, le coupable n'avait aucun moyen d'ouvrir la remise."
+27965|"Je me demande si la clé de la salle des domestiques était la seule..."
+27969|"Genji-san a dit que oui.‖  Ce qui signifie que le coupable savait où était rangée cette unique clé, et qu'il l'a prise.
+27973|  Tout à l'heure, j'ai regardé Kanon-kun remettre la clé dans la salle des domestiques.‖  Le mur était couvert de clés, et je ne pense pas qu'un profane saurait où elles se trouvent ni à quoi elles servent.‖  Le coupable a miraculeusement réussi à trouver la clé de la remise au milieu de tout ça."
+27977|"De plus, alors que la clé ne portait aucune étiquette, il savait que c'était celle de la remise derrière la roseraie.‖  ...Ce qui veut dire qu'il savait aussi où se trouvait la remise.‖  ......Je vais être encore plus claire.‖  Le coupable connaissait bien l'intérieur de la salle des domestiques."
+27982|Son raisonnement était parfaitement simple et clair.
+27985|...Si on avait retrouvé les corps jetés quelque part dans les buissons de la roseraie, il n'y aurait pas eu grand-chose à en tirer.
+27988|Mais s'il n'y avait qu'une seule clé de la remise dans la salle des domestiques,‖ et qu'elle était rangée parmi un tel tas de clés, un profane n'aurait pas pu les distinguer.
+27992|Ça voulait dire que le coupable était quelqu'un qui entrait souvent dans la salle des domestiques et qui connaissait l'emplacement des clés.
+27995|...Les membres de la famille n'entraient normalement pas dans la salle des domestiques.
+27996|...Ce qui voulait dire que.........
+28004|"......Ce qui veut dire que...
+28005|...l'un des domestiques est...
+28006|...le coupable......"
+28007|"Désolée, mais même moi, je ne peux pas t'en dire plus.‖  ...Par contre, je vais te dire une chose."
+28008|"...Laquelle ?"
+28014|"Il est raisonnable de penser que le coupable... non, les coupables... sont plusieurs et plutôt bien armés.‖  Il le faut bien, tu ne crois pas ?‖  Ils ont dû attaquer les quatre de la salle à manger et les tuer, traîner six corps en tout jusqu'à la remise au-delà de la roseraie, et s'occuper de ce maquillage répugnant et des graffitis sur le rideau de fer.‖  ......Un coupable seul n'aurait jamais pu faire tout ça, n'est-ce pas ?"
+28016|C'était logique.‖  Une seule personne aurait sans doute pu y arriver avec assez de temps, mais il lui aurait fallu une éternité.
+28019|On pouvait sans doute supposer sans risque qu'un bon nombre de personnes étaient impliquées.
+28033|"......Pfiou.‖  Donc ce que vous voulez dire...
+28034|...
+28035|c'est que tous les domestiques sont peut-être de mèche."
+28043|"Garde ça pour toi, d'accord ?‖  Ce ne serait pas correct de crier sur les toits de simples suppositions.
+28047|  ...Et si c'est vraiment le cas, qu'est-ce que tu feras ensuite ?‖  Ils pourraient bien ne pas nous laisser sortir d'ici vivants.‖  C'est un adversaire qui a tué Nii-san et les trois autres sans la moindre difficulté.
+28051|  Pour l'instant, les seuls sur qui je peux compter pour se battre à mes côtés, ce sont les trois de ma famille et peut-être toi, ce qui fait quatre personnes en tout, non ?‖  On n'est pas mieux lotis qu'eux hier soir.‖  ...Bref, les coupables n'auraient aucun mal à nous massacrer jusqu'au dernier."
+28055|J'avais joué au détective avec Tante Eva pour tenter de démasquer celui qui avait tué mon père et les autres avant l'arrivée de la police.
+28058|...Si seulement j'arrivais à percer habilement l'identité du coupable et à lui mettre la preuve sous le nez.
+28059|......J'étais persuadé que, comme dans un de ces films policiers, le coupable abandonnerait alors et se rendrait.
+28062|Mais un coupable ne se rend que s'il n'a aucun moyen de riposter.
+28066|Les coupables derrière le crime commis sur cette île étaient loin d'être sans défense... ‖et pourraient même massacrer toutes les personnes qui restaient ici.
+28069|...Et en plus de ça, cette île était comme une gigantesque pièce close, coupée du monde extérieur par le typhon,‖ alors ils avaient une journée entière, jusqu'à demain, pour tuer, comploter et brouiller les pistes...
+28071|Bref, l'atmosphère n'avait rien d'assez sûr pour qu'on aille bien loin en jouant au détective...
+28074|Au contraire, on en était au stade où on devait trembler de peur à l'idée que jouer au détective puisse déplaire aux coupables... ‖et les pousser à commettre un nouveau massacre...
+28080|"...Enfin, ce n'est qu'une possibilité, d'accord ?‖  ...Mais je n'arrive pas encore à faire confiance aux domestiques.‖  Et ça ne veut pas dire que je ne soupçonne qu'eux.‖  Tu ne crois pas qu'il pourrait y avoir un cerveau derrière tout ça ?"
+28085|"Un cerveau ?‖  Hmm, ...pourquoi vous dites ça ?"
+28089|"C'est juste une intuition.‖  ...Réfléchis à ce que veut dire le mot domestique.‖  Quelqu'un qui sert de bras et de jambes à quelqu'un d'autre, non ?
+28093|  Ce sont des membres de la famille Ushiromiya qui ont été tués.‖  Alors forcément, quelqu'un d'impliqué doit avoir quelque chose à y gagner."
+28096|Ça aussi, c'était simple et clair...
+28099|La famille Ushiromiya était en pleine discussion sur la façon de répartir l'héritage à la mort de Grand-père.
+28102|Si cette affaire suivait le schéma classique de n'importe quel roman policier,‖ le crime avait forcément été commis par quelqu'un lié à la famille Ushiromiya et impliqué dans la question de l'héritage...
+28105|Tante Eva avait sans doute lu elle-même quelques livres de ce genre.
+28108|...Son raisonnement reposait peut-être sur quelques présupposés aveugles, mais c'était une conclusion classique à laquelle n'importe qui aurait pu arriver.
+28110|Je pense que la plupart des gens finiraient par soupçonner les domestiques, même en suivant un raisonnement différent pour y arriver.
+28113|Surtout avec cette histoire de clé du rideau de fer.‖  Ça rendait très facile de soupçonner l'implication d'un des domestiques...
+28119|"‖............Et c'est justement pour ça...
+28120|que ça me plaît pas."
+28129|"Comment ça, ça ne te plaît pas ?"
+28133|"Nan, je parlais tout seul.‖  Ihihi !"
+28136|J'ai essayé d'esquiver sa question en plaisantant, mais je n'arrivais pas à chasser le malaise qui montait en moi.
+28142|...Après tout, sa conclusion était si facile à atteindre.
+28144|~ib~Une conclusion à laquelle n'importe qui pouvait arriver~ib~‖.
+28147|...Et ça, ça ne me satisfaisait pas du tout.
+28150|...Si j'essayais de `retourner l'échiquier' comme me l'avait appris Kyrie-san,‖ ...c'était justement pour ça qu'un domestique ne pouvait pas être le coupable.
+28159|Si les domestiques étaient vraiment les coupables, ils n'auraient pas caché les corps dans un endroit qui les désignait.
+28160|Pourquoi diable utiliseraient-ils la remise de la roseraie alors que c'étaient eux qui avaient la garde de la clé qui l'ouvrait ?
+28162|La police remonterait sans doute immédiatement jusqu'à ceux qui avaient la clé.
+28166|D'autres faits pourraient même éclater au grand jour par la même occasion.
+28167|...Plus on considère les domestiques comme les coupables, moins ils avaient de raison de transporter les corps dans la remise.
+28171|...Mais s'ils savaient qu'on penserait ça, et qu'ils avaient mis les cadavres dans la remise justement pour cette raison ?
+28172|Non, c'est complètement impossible.
+28179|Quand la police viendra examiner la scène du crime, elle pourra sans doute découvrir plein de choses.
+28180|Les coupables auront beau avoir commis ce meurtre avec le plus grand soin, on trouvera forcément des traces.
+28183|Autrement dit, ils avaient tout à perdre et rien à gagner.
+28188|Si on réfléchit de cette façon et qu'on regarde ce jeu de meurtre du côté du coupable,‖ on voit mal pourquoi il voudrait attirer l'attention sur les cadavres.
+28191|Une fois les cadavres découverts, quelqu'un pourrait prévenir la police, ou les personnes restantes pourraient se méfier davantage, ou encore les survivants pourraient se mettre à chercher le coupable.‖  Rien de tout ça ne lui faciliterait la vie.
+28196|...C'est exactement comme les paroles de la mère du héros dans un roman que j'ai lu récemment, `Higurashi No Naku Koro Ni'.
+28199|Toute histoire a besoin d'un début, d'un milieu et d'une fin.‖  Éliminer ce `début' est indispensable au crime parfait.
+28201|...En ce moment, on ne sait pas où se trouve Grand-père.
+28204|On ne sait pas s'il est déjà devenu une victime ou s'il fait partie des coupables, ‖......mais cette confusion doit forcément arranger le meurtrier.
+28210|Le coupable n'a absolument rien à gagner à nous montrer les corps de façon aussi flagrante et à nous faire tous comprendre qu'il y a eu meurtre.
+28212|En fait, c'est le moment idéal pour `retourner l'échiquier'.
+28214|Autrement dit, nous montrer les cadavres de manière aussi spectaculaire doit être en soi le but du coupable.
+28217|...Donc, au minimum, pour le coupable,
+28218|~ib~l'apparition de six cadavres à cet endroit signifiait ~ib~
+28220|~ib~plus que les morts elles-mêmes~ib~‖.
+28224|Autrement dit, le coupable voulait exposer ce meurtre.
+28225|À qui ?
+28229|...À nous.
+28230|C'est un message.
+28231|Le coupable essaie de nous mettre quelque chose sous le nez.
+28234|...Je ne sais pas ce que c'est.
+28237|Pour l'instant, ce massacre vulgaire ne m'inspire rien d'autre qu'une malveillance dirigée contre nous tous.
+28242|...Une malveillance envers...
+28243|nous tous,
+28244|...vraiment ?
+28261|Chacun des survivants a un lien avec l'une des six victimes.
+28264|La mort d'Oncle Krauss a infligé à Jessica le chagrin de perdre un membre de sa famille.
+28267|Les morts de mon père et de Kyrie-san m'ont apporté du chagrin, ‖tandis que la mort de Tante Rosa a apporté du chagrin à Maria.
+28270|......La mort de Gohda-san a sans doute choqué ses collègues domestiques,‖ et celle de Shannon-chan a plongé dans le chagrin à la fois George-aniki, qui l'avait demandée en mariage, et Kanon-kun, qui l'aimait comme une grande sœur.
+28272|......Tous ceux qui se trouvent maintenant sur cette île ont reçu une part égale de tristesse.
+28275|Tante Eva était persuadée que les domestiques étaient de mèche,‖ ...mais alors, comment expliquer les morts de Gohda-san et de Shannon-chan ?
+28279|...En tout cas, selon ce raisonnement, ‖~ib~le chagrin causé par les six morts a frappé ~ib~
+28281|~ib~tout le monde sauf Tante Eva et Oncle Hideyoshi~ib~‖.
+28284|Même Tante Eva, qui avait dirigé les soupçons vers les domestiques en se comportant comme si elle-même était au-dessus de tout soupçon,‖ ne pouvait pas être écartée de la liste des suspects.
+28287|...Au départ, elle avait pu affirmer que les domestiques étaient suspects en se focalisant sur la clé du rideau de fer,‖ ...mais si on regarde les choses sous l'angle du mobile et de qui y gagnerait, ‖......le nom de Tante Eva arrive en tête de liste.
+28297|"...Je sais à quoi tu penses, Battler-kun."
+28305|"Hein ?‖  Ihihi, oh non,
+28306|n'allez raconter à personne, s'il vous plaît...
+28307|que j'ai la tête pleine de trucs obscènes."
+28311|"C'est moi qui vais gagner le plus avec ces meurtres.‖  ...Puisque je vais être soupçonnée de toute façon, autant le dire ouvertement."
+28314|J'ai essayé d'esquiver la question en plaisantant, mais apparemment, ça n'a pas marché.
+28318|"L'héritage sera divisé en autant de parts qu'il y a de frères et sœurs.‖  Mais à l'heure qu'il est, je suis la seule des quatre encore en vie.‖  Tous les biens de la famille Ushiromiya vont me revenir.‖  ...Hé hé hé hé hé."
+28321|"Si Oncle Hideyoshi vous entendait, il dirait `Arrête un peu, c'est pas drôle'..."
+28325|"Pardon.‖  Je faisais l'idiote, puisque je serai soupçonnée de toute façon, j'aurai beau essayer d'arrondir les angles.
+28329|  ...C'est pour ça qu'à mon avis, ces meurtres ont peut-être été conçus pour faire peser les soupçons sur moi.‖  ...Malheureusement, mon alibi pour hier soir est fragile."
+28333|"Vous pourriez m'en dire un peu plus sur hier soir ?"
+28337|"Comme tu le sais, la discussion entre frères et sœurs pour savoir comment découper et dévorer l'héritage s'est prolongée tard dans la nuit.‖  Mais je ne sais pas jusqu'à quelle heure elle a duré.‖  Mon mari et moi nous étions levés tôt ce matin-là.‖  Nous tombions de sommeil, et un peu après minuit, ils nous ont laissés partir.‖  Nous sommes alors retournés à la maison d'hôtes pour nous reposer."
+28342|"...Quelqu'un d'autre qu'Oncle Hideyoshi peut le prouver ?‖  Non, attendez, c'est pas que je vous soupçonne, hein ?‖  Hihihi !"
+28346|"Oh, tu en es sûr ?‖  *gloussement*‖  Je ne sais pas si ça compte comme une preuve, mais quand nous sommes rentrés à la maison d'hôtes, Genji-san nous a accueillis et nous a demandé si nous avions besoin d'une serviette.
+28350|  Je pense que ça devrait suffire à prouver que nous sommes rentrés à la maison d'hôtes un peu après minuit.‖  ...Cela dit, si ma théorie est juste, les domestiques seraient tous de mèche, et ça ne ferait pas vraiment un alibi."
+28354|"Hé, c'est pas faux.‖  Ça veut dire que je suis en train de jouer au détective avec la vraie coupable, hein ?‖  Ihihi !"
+28358|"Cependant, laisse-moi dire une chose pour mon honneur : si je convoitais l'héritage, je ne commettrais jamais une série de meurtres aussi bizarre.
+28362|  Après tout, si je voulais juste leur faire perdre leurs droits sur l'héritage, la façon dont ils meurent m'importerait peu.‖  Il serait bien plus malin de ma part de faire passer leur mort pour un accident.‖  Surtout si tu supposes que j'ai mis au point un plan minutieux impliquant même les domestiques."
+28367|"C'est pas faux...‖  Si on tue quelqu'un pour son propre intérêt, il faut surtout pas que ça ait l'air d'un meurtre."
+28371|"Exactement.‖  C'est pour ça que j'ai le moral à zéro.‖  ...La police va sans doute me traiter comme le cerveau de l'affaire et fouiller dans tous les sens.‖  Pas drôle du tout..."
+28373|Tante Eva a haussé les épaules avec un sourire amer.
+28376|Il était tout aussi facile de soupçonner Tante Eva que de soupçonner les domestiques.
+28381|Alors si on `retourne l'échiquier',‖ ...est-ce que ça rend impossible qu'elle soit la coupable, aussi suspecte soit-elle... ?
+28384|Mais si ce genre de raisonnement marche à tous les coups, alors le mobile ne pourra jamais nous aider en rien.
+28387|Non, ça ne peut pas être ça...
+28388|Connaître le mobile doit forcément nous donner de précieux indices pour trouver le coupable.
+28391|...C'est pour ça que les meurtriers de toutes les époques maquillent leurs crimes de façon compliquée, pour empêcher habilement qu'on découvre leur mobile...
+28395|......J'y comprends rien.‖  ...J'y comprends vraiment rien...
+28396|Chaque fois que je retourne l'échiquier, tout bascule de l'endroit à l'envers et de l'envers à l'endroit...
+28400|...Est-ce que mes réflexions me rapprochent de la vérité ?
+28401|...Ou est-ce qu'elles......
+28410|Tante Eva ne voulait pas en dire plus, alors j'ai croisé les bras et je me suis dirigé vers la fenêtre pour me rafraîchir un peu les idées.
+28414|En parcourant le salon du regard, j'ai vu George-aniki et les autres rassemblés en train de discuter.
+28415|...On aurait dit qu'ils parlaient du cercle magique peint sur le rideau de fer.
+28420|En se remémorant la scène, Oncle Hideyoshi s'est mis à dessiner la forme dans la marge du cahier de Maria.
+28423|...Je vois, comme Maria n'avait que Grand-père pour la surpasser en connaissances occultes, elle comprendrait peut-être ce que ça signifiait.
+28428|"Hmmm, je crois que ça ressemblait à peu près à ça !‖  Y avait un symbole qui ressemblait à une variante de croix.
+28432|  Et puis, tout autour du cercle, sur le pourtour, y avait ces drôles de lettres serrées sur les quatre côtés de la croix, et dans les quatre coins, y avait quelque chose d'écrit.‖  Ça ressemblait pas à l'alphabet ni à rien de ce genre.‖  C'était ce qu'on appelle des caractères anciens."
+28437|"...Et puis, vers le haut de la circonférence, il y avait un petit symbole.‖  ...Cinq petits cercles disposés en forme de +, reliés par des lignes droites..."
+28442|"Ah, oui, y avait bien un truc comme ça dessiné là... !‖  Ouais, pas d'erreur possible sur la forme.‖  Je comprends pas les petits caractères, mais la disposition était presque la même."
+28446|Tout le monde fixait la forme, alors je l'ai fixée moi aussi.
+28451|...D'après ce que j'avais entendu, ça avait été peint sur le rideau de fer de la remise avec une matière qui ressemblait à du sang.
+28454|...Je vois, c'est vrai que ça fout les jetons.
+28459|"...Y a bien que Grand-père pour avoir envie de dessiner un truc aussi bizarre.‖  ...Sérieux, où est-ce qu'il est passé ?!‖  J'ai envie de l'attraper et de lui demander ce que ce truc est censé vouloir dire, bon sang !!"
+28461|La voix de Jessica trahissait l'impatience et la colère.
+28464|Elle n'allait pas jusqu'à dire que Grand-père était le coupable, ‖mais elle semblait persuadée qu'il savait quelque chose sur ce qui se cachait derrière le coupable.
+28468|......Évidemment, si on cherchait un lien entre la famille Ushiromiya et l'occulte, dix personnes sur dix penseraient à Grand-père.
+28471|......De plus, pour quelqu'un qui ne connaissait rien à l'occulte, ce symbole étrange n'aurait aucune signification.
+28473|Ce qui voulait dire que, ......‖c'était peut-être... quelque chose adressé à Grand-père...
+28475|C'est ça, et si le crime avait été montré aux survivants, c'était pour qu'ils trouvent ça.
+28478|...Dans ce cas, où avait bien pu disparaître Grand-père, le destinataire principal de ce message... ?
+28484|"Cette forme vous évoque quelque chose... ?"
+28489|"..................‖...Uu-."
+28490|Maria regardait la forme d'un air sérieux.
+28492|...Peut-être qu'elle s'enthousiasmait parce que c'était son domaine de prédilection.
+28495|...Pourtant, elle avait l'air de quelqu'un de totalement détaché des événements, ‖...comme si ce truc n'avait pas été dessiné sur le rideau qui renfermait le cadavre de sa mère...
+28500|"...Ma première impression, c'est que le motif ressemblait à une croix allemande..."
+28506|"Aah...‖  C'est vrai que ça a ce genre de motif.‖  Ça voudrait dire que ça a un rapport avec l'Allemagne ?"
+28511|"La croix allemande était à l'origine l'emblème d'un ordre religieux de chevaliers, censé protéger les pèlerins en route vers les lieux saints..."
+28518|"...Donc, autrement dit, ce cercle magique aurait une signification religieuse... ?‖  Ça commence à ressembler à du charabia..."
+28520|En les regardant tous, prêt à me lancer dans la discussion, ...j'ai eu un choc.
+28526|Maria souriait, ...avec une expression inquiétante et incompréhensible.
+28528|...C'était presque comme si elle se moquait de l'ignorance de tout le monde.‖  ...C'était une expression que je n'aurais jamais imaginé voir sur le visage de Maria...
+28531|Et,
+28532|...elle a ri.
+28535|Ce rire inquiétant et discordant...
+28536|je ne voulais pas croire que c'était possible, alors même que je l'avais sous les yeux.
+28545|"Kihihihihihihihihihihihihihihihihi.‖  Vous êtes même pas près de la vérité.‖ Kihhihihihihihihihihihihihihihihihihihihihihihihihi...‖  Ça se voit pas, rien qu'en regardant ?‖  Kihhihihihihihihihihi."
+28547|Pendant que tout le monde était mort de peur, Maria continuait à ricaner joyeusement toute seule...
+28550|Au bout d'un moment, ce rire s'est interrompu, brusquement et sans prévenir.
+28551|Mais son expression semblait toujours appartenir à quelqu'un de complètement différent de Maria.
+28555|"C'est le septième cercle magique du Soleil.‖  ...Les caractères sont écrits en hébreu.‖  Donne-moi ça."
+28560|"Ah, ...d'accord."
+28564|Maria a arraché le matériel d'écriture des mains de Hideyoshi, abasourdi.
+28566|Puis elle s'est mise à dessiner un autre cercle magique dans un bruissement, juste à côté de celui que Hideyoshi avait tracé...
+28571|"...Tu vois ?‖  Ça ressemblait un peu à ça, non ?"
+28576|"O-Oui...‖  C'était..."

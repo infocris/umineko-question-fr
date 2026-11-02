@@ -1,0 +1,186 @@
+{
+ "en/bmp/background/efe/text002.png": {
+  "region": [
+   60,
+   650,
+   760,
+   900
+  ],
+  "align": "left",
+  "shadow": true,
+  "thr": 80,
+  "en": [
+   "■New Function: TIPS MODE",
+   "In the middle of the game, at any time, a right click",
+   "with the mouse will open up the TIPS MODE.",
+   "Here, besides the save and load functions, you can",
+   "view character profiles and more. Additional informa-",
+   "tion will be added as you progress through the story.",
+   "Probably a good idea to take a peek here every once",
+   "in a while."
+  ],
+  "lines": [
+   "■Nouvelle fonction : MODE INFOS",
+   "À tout moment pendant la partie, un clic droit",
+   "de la souris ouvre le MODE INFOS.",
+   "En plus de la sauvegarde et du chargement, vous",
+   "pouvez y consulter les fiches des personnages, entre",
+   "autres. De nouvelles informations s'ajoutent au fil",
+   "de l'histoire. Mieux vaut y jeter un œil de temps",
+   "en temps."
+  ],
+  "white": true
+ },
+ "en/bmp/background/efe/text003.png": {
+  "blocks": [
+   {
+    "region": [
+     60,
+     650,
+     760,
+     900
+    ],
+    "align": "left",
+    "shadow": true,
+    "thr": 80,
+    "en": [
+     "■New Function: TIPS MODE",
+     "In the middle of the game, at any time, a right click",
+     "with the mouse will open up the TIPS MODE.",
+     "Here, besides the save and load functions, you can",
+     "view character profiles and more. Additional informa-",
+     "tion will be added as you progress through the story.",
+     "Probably a good idea to take a peek here every once",
+     "in a while."
+    ],
+    "lines": [
+     "■Nouvelle fonction : MODE INFOS",
+     "À tout moment pendant la partie, un clic droit",
+     "de la souris ouvre le MODE INFOS.",
+     "En plus de la sauvegarde et du chargement, vous",
+     "pouvez y consulter les fiches des personnages, entre",
+     "autres. De nouvelles informations s'ajoutent au fil",
+     "de l'histoire. Mieux vaut y jeter un œil de temps",
+     "en temps."
+    ],
+    "white": true
+   },
+   {
+    "region": [
+     800,
+     840,
+     1200,
+     880
+    ],
+    "align": "center",
+    "thr": 80,
+    "color": [
+     255,
+     0,
+     0
+    ],
+    "en": [
+     "■Left click to start the game"
+    ],
+    "lines": [
+     "■Clic gauche pour commencer la partie"
+    ]
+   }
+  ]
+ },
+ "en/bmp/background/efe/text004.png": {
+  "region": [
+   680,
+   650,
+   1280,
+   830
+  ],
+  "align": "left",
+  "shadow": true,
+  "thr": 80,
+  "en": [
+   "■Addition of New Features",
+   "The Golden Witch has prepared a gift",
+   "for you in commemoration of your stay.",
+   "You can find these new features on the",
+   "title screen."
+  ],
+  "lines": [
+   "■Ajout de nouvelles fonctions",
+   "La Sorcière dorée vous a préparé un cadeau",
+   "en souvenir de votre séjour.",
+   "Vous trouverez ces nouveautés sur",
+   "l'écran titre."
+  ],
+  "white": true
+ },
+ "en/bmp/background/efe/text005.png": {
+  "region": [
+   660,
+   650,
+   1280,
+   830
+  ],
+  "align": "left",
+  "shadow": true,
+  "thr": 80,
+  "en": [
+   "■Addition of New Elements",
+   "??? has been added. You can find this new",
+   "feature on the title screen."
+  ],
+  "lines": [
+   "■Ajout de nouveaux éléments",
+   "??? a été ajouté. Vous trouverez cette",
+   "nouveauté sur l'écran titre."
+  ],
+  "white": true
+ },
+ "en/bmp/background/efe/text006.png": {
+  "region": [
+   740,
+   650,
+   1240,
+   895
+  ],
+  "align": "left",
+  "shadow": true,
+  "thr": 80,
+  "en": [
+   "■Addition of a New Game Board",
+   "The next episode's lock has been",
+   "removed.",
+   "■Addition of New Features",
+   "You can find these new features on the",
+   "title screen."
+  ],
+  "lines": [
+   "■Ajout d'un nouvel échiquier",
+   "Le verrou de l'épisode suivant a été",
+   "retiré.",
+   "■Ajout de nouvelles fonctions",
+   "Vous trouverez ces nouveautés sur",
+   "l'écran titre."
+  ],
+  "white": true,
+  "min_h": 10
+ },
+ "en/bmp/background/efe/text007.png": {
+  "region": [
+   300,
+   760,
+   1280,
+   900
+  ],
+  "align": "right",
+  "thr": 80,
+  "en": [
+   "■By right clicking→「System」→「Tips 」→「The Portrait Epitaph」,",
+   "you can check the text of the epitaph at any time."
+  ],
+  "lines": [
+   "■Clic droit → « Système » → « Infos » → « L'épitaphe du portrait » :",
+   "vous pouvez relire le texte de l'épitaphe à tout moment."
+  ]
+ }
+}

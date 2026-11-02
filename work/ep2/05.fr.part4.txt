@@ -1,0 +1,168 @@
+110094|"Hmph.‖  ...Nee-san, t'es vraiment trop gentille."
+110103|"...Plus important, ‖......l'invitée de la chambre d'honneur......
+110105|c'est vraiment Beatrice-sama, comme on le dit ?"
+110112|"...Oui.‖  ......Je l'ai vue quand on m'a envoyé lui servir le déjeuner.‖  ...Aucun doute possible, c'est elle."
+110118|"V-Vraiment ?‖  Elle allait bien ?"
+110124|"..............."
+110129|Kanon se rappela que Shannon et lui n'avaient pas la même image de Beatrice.
+110130|Pour Shannon, Beatrice était un cupidon, qui lui avait accordé sa magie pour nouer sa relation avec George.
+110133|À en juger par l'expression qui se peignait sur son visage, ‖...elle semblait avoir hâte d'annoncer à Beatrice les progrès de sa relation avec George.
+110140|...Mais Kanon, lui, savait déjà.
+110141|Cette sorcière était venue ici avec un but terrifiant en tête.
+110145|...La sorcière nébuleuse qu'eux seuls avaient pu voir autrefois...avait à présent si bien ressuscité qu'elle pouvait entrer ouvertement par la grande porte...‖et même se faire apporter son dîner.
+110155|...Une fois, alors qu'elle avait disparu sous les yeux de Kanon...
+110156|La sorcière avait dit quelque chose à propos de son pouvoir encore faible.
+110159|......Alors, si cette sorcière apparaissait maintenant aussi ouvertement, cela voulait-il dire qu'elle avait enfin retrouvé son pouvoir d'antan ?
+110165|Et elle avait dit autre chose aussi.
+110166|......Elle avait bel et bien dit qu'elle avait semé les graines de l'amour...tout en sachant pertinemment qu'elles échoueraient.
+110173|Et elle en avait dit plus encore.
+110174|......Elle avait bel et bien dit que le jour était enfin venu...où la porte de la Terre dorée s'ouvrirait.
+110184|"......Shannon,‖ ...elle compte organiser une cérémonie étrange avec le Maître, ...et tu peux être sûre que ce sera quelque chose de trop horrible pour être imaginé.‖  ...Et personne ne pourra résister."
+110190|"De quoi tu parles... ?"
+110196|"Elle est venue ici.
+110199|  ...Elle est venue à la demande du Maître, pour que la porte de la Terre dorée s'ouvre, et pour que tout retourne à la Terre dorée.
+110202|  Elle me l'a dit, c'est certain !"
+110208|".................."
+110212|Autrefois, ‖...on leur avait expliqué à tous les deux, en tant que meubles au service de Kinzo, ce que signifiait l'ouverture de la porte de la Terre dorée.
+110215|Shannon comprit donc tout, sans avoir à poser une seule question.
+110218|......Et à cause de cela...elle sentit un profond désespoir.
+110221|...Le cœur de Kanon se déchira en voyant ce visage tordu par le chagrin...
+110234|".........Comment...‖  ......Pourquoi, ...pourquoi maintenant......?"
+110241|"...Je te l'avais pas dit ?‖  Nous ~ib~sommes~ib~ des meubles !‖  ...Parce que tu t'es comportée comme une humaine, à cause de l'amour, ......t'es incapable d'accepter docilement le jour où notre service prend fin... !"
+110246|"............Autrefois, je souhaitais que ce jour arrive.‖  ......Mais il ne venait jamais, année après année...‖  ...Je ne savais pas combien de temps nous serions forcés d'endurer la souffrance d'être des meubles...‖  ......Alors je me suis dit...‖  ...Je me suis dit que ce jour de repos ne viendrait jamais, de toute l'éternité."
+110252|"......Je pensais la même chose !‖  Mais je croyais qu'il viendrait forcément un jour !‖  Alors j'ai jamais oublié que je suis un meuble !‖  Mais toi, Nee-san, tu l'as oublié !"
+110258|".........C'est...ma faute, n'est-ce pas...‖  ......C'est moi qui..."
+110264|"Ouais, c'est ta faute, Nee-san.‖  ...Si seulement t'avais pas connu l'amour, ‖...on serait tous les deux heureux que ce jour soit enfin arrivé !‖  T'as accumulé trop de regrets inutiles !‖  Alors que tu savais que tu devrais quitter ce monde un jour !!"
+110274|".........La cérémonie...va commencer ce soir... ?"
+110276|"...Oui.‖  .........Et elle a dit autre chose.‖  ...Ce soir, George-sama va sûrement t'offrir une bague de fiançailles, Nee-san."
+110278|"....................."
+110284|C'était un fait.
+110285|...George avait, paraît-il, une bague de fiançailles cachée dans sa poche aujourd'hui.
+110286|...Et il la lui remettrait sûrement ce soir.
+110294|"...Elle vous a réunis tous les deux en prévoyant de vous utiliser comme sacrifices du deuxième crépuscule.
+110299|  ...Tu piges ?‖  Elle t'a tentée et elle s'est servie de toi !"
+110305|".........Je vois.‖  ...Je n'y avais jamais pensé."
+110311|"Mais elle me l'a dit.‖  ...Elle a promis que si tu n'acceptes pas la bague de fiançailles ce soir, tu ne seras pas choisie comme sacrifice, Nee-san.‖  .........Je crois que nos chances de pouvoir aller ensemble à la Terre dorée sont très minces."
+110313|"Il y aura 13 sacrifices.‖  Seuls cinq resteront en vie.‖  ...Les chances qu'on fasse partie de ce groupe sont infimes.‖  ...Mais si tu acceptes simplement son offre, ces chances vont augmenter !‖  Je veux tenter ce pari !"
+110316|"Notre salut est dans la Terre dorée.‖  On va atteindre cet endroit et devenir humains.‖  Et ensuite, je veux vivre une vie d'humain, avec toi, Nee-san... !‖  Si on fait ça, on pourra peut-être trouver...
+110319|...le véritable amour !"
+110323|"............‖...Autrefois, nous rêvions de pouvoir aller à la Terre dorée.‖  ......Si nous y allons, n'importe quel vœu sera exaucé.‖  ......Nous serons sauvés de cette souffrance.‖  ......C'est ce que nous croyions."
+110330|Pourtant, dans cette cérémonie, seules quelques personnes, choisies par le destin et le hasard, seraient invitées à la Terre dorée.
+110331|...Toutes les autres perdraient la vie en sacrifice au cours de la cérémonie.
+110334|Mais autrefois, Shannon et Kanon avaient pensé que, qu'ils atteignent la Terre dorée ou qu'ils soient sacrifiés,‖ ils seraient de toute façon délivrés de leurs devoirs de meubles.
+110337|...Autrement dit, cette cérémonie apporterait forcément la délivrance à des meubles comme eux, quoi qu'il arrive.
+110345|"Ça me plaît pas.‖  ...Avec toi, je veux rattraper toutes les souffrances qu'on a endurées.‖  Je deviendrai pas un sacrifice.‖  Nee-san et moi, on restera en vie.‖  Et on atteindra la Terre dorée ensemble."
+110350|"......Alors je te laisserai pas devenir le sacrifice du deuxième crépuscule !‖  Je t'en prie, Nee-san !‖  N'accepte pas la bague de cet homme !‖  Si tu ne l'acceptes pas, elle a promis de ne pas te choisir comme sacrifice !!"
+110357|".........Je...ne peux pas faire ça.‖  ...La bague de ce soir est très spéciale.‖  ...Mon cœur ne me laissera pas la refuser."
+110363|"Nee-san... !‖  Les sacrifices de la cérémonie sont décidés selon les caprices de la sorcière !‖  Et cette sorcière a promis de t'épargner, toi seule, Nee-san !!‖  Toi au moins, tu pourras aller à la Terre dorée, c'est certain !"
+110369|"...Seulement moi ?‖  Et toi, Kanon-kun ?"
+110375|"Le jeu de la sorcière...ça me suffit.‖  ...Je glisserai entre ses griffes.‖  ......Je ne suis pas sans pouvoir.‖  Je saisirai fermement cette faible chance..."
+110381|".................."
+110390|"Après tout, nos vies sont éphémères, non ?‖  ...Pour commencer nos vraies vies,
+110392|......traînons-nous jusqu'à la Terre dorée.‖  Et alors,
+110394|...nous deviendrons humains."
+110404|"......Et quand ce sera fait, ‖...peut-être que je pourrai...
+110406|...vivre une histoire d'amour, comme toi, Nee-san.‖  Peut-être que je n'aurai plus à...
+110408|...faire pleurer quelqu'un juste parce que je suis un meuble..."
+110428|"......Kanon-kun........."
+110430|"J'en ai...
+110432|assez d'être un meuble... !‖  ...Je vais forcément...
+110434|devenir humain...‖  ...Je vais échapper à cette souffrance...
+110436|...quoi qu'il en coûte......!"
+110446|"....................."
+110450|Il y avait des larmes dans les yeux de Kanon...
+110454|À présent, Kanon s'en était rendu compte.
+110455|...Shannon n'était pas la seule à avoir connu le goût de l'amour et à en souffrir.
+110458|Lui aussi.
+110461|Les larmes que Jessica lui avait montrées ce jour-là...‖et le visage pitoyable de Jessica qui, depuis, s'efforçait d'arranger les choses et de rester joyeuse...‖avaient lentement opéré une sorte de changement dans le cœur de Kanon, à son insu...
+110474|"......Shannon !‖  Cela fait un moment que je t'appelle."
+110480|Shannon sursauta en entendant soudain la voix de Genji.
+110481|Apparemment, il l'avait appelée plusieurs fois.
+110482|Elle répondit précipitamment.
+110488|...Quand elle se retourna, Kanon avait disparu.
+110489|...Il ne tenait sans doute pas à montrer ses larmes à qui que ce soit...
+110497|"O-Oui.‖  Pardonnez mon étourderie..."
+110504|"J'ai confié le déjeuner à Kanon, mais c'est toi, qui viens juste après moi dans la hiérarchie, qui aurais dû le porter.‖  ......Beatrice-sama est l'invitée la plus honorée de cette maison.‖  Il n'est pas d'invitée plus honorée qu'elle.‖  ...Considère-la comme un second Maître, et sois polie."
+110512|"...Veillez tout particulièrement à ne commettre aucune bévue, compris ?‖  Il m'est fort pénible de confier cela à quelqu'un d'aussi inexpérimenté que vous, mais nous n'y pouvons rien, ce sont les règles de la maison.‖  ...Acquittez-vous de votre tâche avec le plus grand soin."
+110516|Gohda avait officiellement donné son accord, mais il fusillait Shannon d'un regard qui lui faisait comprendre qu'il ne pardonnerait aucune erreur.
+110519|Même Shannon trouvait que Gohda n'avait qu'à y aller lui-même s'il y tenait tant,‖ ...mais elle considérait cela comme l'une de ses responsabilités, en tant que personne autorisée à porter l'Aigle doré, et dut se résigner.
+110526|...Et puis...
+110527|...je voulais voir Beatrice.
+110528|De quoi vais-je parler ?‖  Que vais-je lui demander ?‖  ...Je ne sais pas.
+110532|Sera-ce une rencontre de gratitude ?‖  Ou une rencontre de chagrin ?
+110533|Ou bien, ...quoi ?‖  ...Je ne sais pas.
+110536|Shannon empila le repas de la sorcière sur la desserte et quitta lentement la cuisine...
+110550|Celui qui frappait, c'était Krauss.
+110554|"Père,‖ c'est aujourd'hui notre conférence familiale annuelle.‖  Mes frères et sœurs ne sont-ils pas venus jusqu'ici rien que pour vous apercevoir ?"
+110561|"Aaah, silence !!‖  Je t'ai dit que je ne sortirai pas !‖  Tu es là aussi, n'est-ce pas, Genji ?!!‖  Pourquoi ne m'as-tu pas fait apporter mon repas comme je te l'ai ordonné ?!!"
+110570|Kinzo hurla à travers la porte.
+110571|...Genji attendait derrière Krauss.
+110578|"...Votre repas a été préparé pour pouvoir être apporté au bureau.‖  ...Cependant, Krauss-sama a exprimé le souhait que vous dîniez en bas ce soir..."
+110589|"Père,‖ je ne vous demande pas de le faire tous les jours.‖  Rien que pour ce soir, ne voulez-vous pas vous joindre à votre famille ?"
+110591|"Qui appelles-tu famille ?!!
+110597|  Depuis quand considères-tu comme ta famille des vautours qui tournoient en attendant la charogne ?!‖  Appellerais-tu aussi famille des asticots grouillants et pourrissants ?!!"
+110611|"...............‖...Allons bon."
+110614|Krauss haussa les épaules devant cette réponse, qu'il attendait à moitié.
+110618|"Genji, apporte mon repas ici comme on te l'a dit !!‖  Pourquoi n'écoutes-tu pas ce que je dis ?!!‖  Pourquoi ?!‖  POURQUOI ?!!"
+110624|"...Genji-san,‖ je m'en remets à vos bons soins.‖  ...Ma voix n'atteint plus cet homme."
+110628|Krauss secoua légèrement la tête, puis tourna aussitôt le dos à la porte du bureau.
+110634|...Il n'était venu frapper que pour sauver la face devant ses frères et sœurs, sachant parfaitement que c'était inutile.
+110638|Après avoir regardé Krauss disparaître dans l'escalier, Genji s'adressa de nouveau à la porte.
+110645|"...Maître,‖ nous avons terminé les préparatifs pour que votre repas soit apporté ici.‖  ......Devons-nous en apporter également pour le docteur Nanjo ?"
+110654|On apercevait Nanjo dans le bureau.
+110655|Kinzo l'ayant harcelé avec insistance pour terminer leur interminable partie d'échecs, ils s'affrontaient depuis le début de la soirée.
+110659|En tant que médecin, Nanjo avait annoncé que les jours de Kinzo étaient comptés.
+110660|...Il ne pouvait donc pas refuser si Kinzo exigeait de terminer cette partie tant qu'il était encore en vie.
+110667|Kinzo réfléchissait profondément à son coup, plus concentré que d'habitude.
+110668|...C'était au tour de Kinzo depuis un bon moment, et Nanjo, las d'attendre, avait sorti au hasard un livre de magie auquel il ne comprenait rien et le feuilletait.
+110675|"......Kinzo-san,‖ vous ne trouverez pas de bon coup simplement en restant assis devant l'échiquier, les bras croisés.‖  Nous ferions peut-être mieux de faire une pause pour nous rafraîchir les idées..."
+110681|"Silence.‖  ...Hmmm.‖  ...Cela devrait suffire à consolider ma défense.‖  Le fou et le cavalier parviendront-ils à percer cette brèche... ?‖  ......Hmmmmm..."
+110689|Aujourd'hui, Kinzo se concentrait sur le maintien d'une solide défense.
+110690|...D'ordinaire, la devise de Kinzo était que la meilleure défense, c'est l'attaque.‖  Mais aujourd'hui, c'était tout l'inverse.
+110694|"......J'ai faim, moi aussi.‖  Et si nous suspendions la partie ici ?‖  D'ailleurs, j'ai tant fait travailler ma tête sans pause que j'en ai déjà le vertige.‖  ...À ce rythme, je ne pourrai peut-être pas jouer de mon mieux."
+110697|"...Voilà qui ne va pas.‖  .........Aux échecs, les deux joueurs doivent toujours jouer leurs meilleurs coups.‖  ...Tout autre coup n'est qu'une nuisance à considérer, qui gâche une partie dont l'essence est de prévoir les pensées de l'adversaire.‖  ...Cela réduit considérablement notre plaisir."
+110706|Kinzo soupira profondément et détourna enfin les yeux de l'échiquier.
+110707|Les échecs ne sont pas les échecs sans adversaire.
+110708|...Si cet adversaire est fatigué et veut suspendre la partie, on n'y peut rien...
+110714|"Certes, le but des échecs est que les deux joueurs fassent les meilleurs coups possibles et visent la victoire.‖  ...C'est un jeu intellectuel où il est essentiel de lire dans le jeu de l'adversaire."
+110719|"...Mais Kinzo-san, auriez-vous oublié qu'il existe un autre but que la victoire ?"
+110729|"......Quoi ?‖  Quel autre but pourrait-il bien y avoir ?"
+110736|"Ha ha ha ha...‖  Dire que vous, entre tous, avez pu oublier une chose pareille.‖  ...Les échecs...‖sont une façon de passer le temps agréablement avec un ami."
+110742|"Nng.‖  ...Vous m'avez eu.‖  Je crois bien vous avoir dit ces mots exacts, il y a longtemps.‖  ......Oui, vous m'avez eu."
+110747|Kinzo, qui avait presque toujours les sourcils froncés, détendit pour une fois son visage et rit.
+110748|...Nanjo eut l'impression de retrouver un ami cher qu'il n'avait pas vu depuis des lustres.
+110754|"Voilà ce qu'il en est.‖  Maintenant que j'ai réussi à vous rendre la pareille, qu'en dites-vous ?‖  Descendrez-vous dîner avec moi ?‖  Pourquoi ne pas discuter du milieu de partie de Kasparov autour d'un café ?"
+110763|"............‖...Proposition séduisante, mais je crains de devoir décliner.‖  ...Je ne peux plus quitter cette pièce.‖  ...Après tout, la cérémonie a déjà commencé."
+110765|"......Vraiment ?‖  Eh bien, mon estomac gargouille.‖  ...Je vais descendre.‖  Quand vous en aurez envie-"
+110772|"Nanjo,‖ ......merci."
+110774|"...Oh, et de quoi me remerciez-vous donc ?"
+110781|"...Nous n'avons pas terminé notre partie.‖  ...Pourtant, il semble que j'aie, d'une certaine façon, atteint ce second but des échecs que j'avais oublié.‖  Et ce but ne semble pas moins important que de faire échec et mat."
+110783|"Ça ne vous ressemble pas.‖  Pourquoi tant de sentimentalisme ?"
+110791|"...Vous l'avez dit vous-même, n'est-ce pas ?‖  Mes jours en ce monde sont comptés.
+110796|  ...Maintenant, allez.‖  Et ne revenez plus dans cette pièce.‖  ...Poursuivons cette partie à la Terre dorée."
+110803|"............‖...Je veux bien, mais il faudra recommencer depuis le début.‖  La perte de cette tour a été un coup dur.
+110808|  ...Eh bien, à plus tard."
+110814|"Oui, à plus tard.‖  ......Peut-être à la Terre dorée, ou au Purgatoire.‖  Ou peut-être dans l'autre monde."
+110820|".................."
+110828|Nanjo n'en dit pas davantage.
+110829|Et, d'un geste rendu fluide par l'habitude, il appuya sur le bouton de la table qui débloquait la serrure automatique.
+110830|Puis, après avoir regardé une dernière fois le dos de Kinzo, il quitta le bureau.
+110846|Au même moment, la voix de Genji retentit dans le couloir.
+110854|"...Si vous êtes prêt, Maître,‖ je vais à présent vous apporter votre dîner."
+110856|"C'est peut-être mon dernier dîner.‖  Je dois le savourer.‖  ...Je te prie, prépare-le."
+110858|"À vos ordres.‖  ......Et vos préparatifs sont-ils également terminés, Maître ?"
+110864|"...En effet.‖  Durant tout le temps qui a précédé ce jour, cette pièce a été soigneusement enveloppée d'une multitude de barrières.‖  ......Même si sa roulette me désigne, je la repousserai à coup sûr.‖  ...Je resterai en vie, et je serai assurément l'un de ceux qui atteindront la Terre dorée... !‖  ...Je repousserai la visite des faucheurs qui cherchent à m'entraîner au Royaume des Morts..."
+110886|"......Excusez-moi.‖  ...Je viens vous servir votre repas."
+110889|Shannon entra dans la chambre d'honneur, tête baissée, en poussant la desserte.
+110892|La jeune femme près de la fenêtre, qui contemplait l'obscurité censément vide, était bel et bien cette sorcière.
+110903|"Ainsi, c'est Shannon cette fois.‖  Cela faisait longtemps.‖  ......Oh.‖  Ton visage est loin d'être aussi pâle qu'autrefois.‖  Je vois que tu n'es pas comme Kanon.‖  C'est à peine si je te reconnais."
+110909|"......Merci beaucoup."
+110917|Shannon prépara solennellement le dîner.
+110921|...Il y avait en fait plusieurs choses qu'elle voulait demander à la sorcière.
+110922|...Mais tout se bousculait dans sa tête, et elle ne savait pas par où commencer.
+110926|Son cœur aussi était en désordre, et elle ne comprenait même pas ses propres émotions.
+110927|...Aussi ne pouvait-elle qu'accomplir sa tâche sans passion, alors que tout restait flou.
+110931|Pourtant, la sorcière vit ce qu'il y avait dans son cœur.
+110932|On ne peut rien cacher à une sorcière...
+110939|".........Je ne m'excuserai pas.‖  Je suis une sorcière, après tout."
+110945|"...Vous excuser...de quoi ?"

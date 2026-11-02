@@ -1,0 +1,264 @@
+{
+ "en/bgm_mode/all_btn.png": {
+  "en": "All Tunes",
+  "fr": "Tout",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/all_w.png": {
+  "en": "All Tunes",
+  "fr": "Tout",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/demo_btn.png": {
+  "en": "Demo Mode",
+  "fr": "Mode démo",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/demo_w.png": {
+  "en": "Demo Mode",
+  "fr": "Mode démo",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/ensou_btn.png": {
+  "en": "Play",
+  "fr": "Jouer",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/ensou_w.png": {
+  "en": "Play",
+  "fr": "Jouer",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/ko_skip_btn.png": {
+  "en": "Skip Scary Tunes",
+  "fr": "Sans les effrayants",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/ko_skip_w.png": {
+  "en": "Skip Scary Tunes",
+  "fr": "Sans les effrayants",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/kowai_btn.png": {
+  "en": "Play Scary Tunes Only",
+  "fr": "Effrayants seuls",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/kowai_w.png": {
+  "en": "Play Scary Tunes Only",
+  "fr": "Effrayants seuls",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/kurikaesi_btn.png": {
+  "en": "Repeat",
+  "fr": "Répéter",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/kurikaesi_w.png": {
+  "en": "Repeat",
+  "fr": "Répéter",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/min_btn.png": {
+  "en": "1 Min Mode",
+  "fr": "Mode 1 min",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/min_w.png": {
+  "en": "1 Min Mode",
+  "fr": "Mode 1 min",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/modoru_btn.png": {
+  "en": "Exit",
+  "fr": "Quitter",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/modoru_w.png": {
+  "en": "Exit",
+  "fr": "Quitter",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/rnd_btn.png": {
+  "en": "Shuffle",
+  "fr": "Aléatoire",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/rnd_w.png": {
+  "en": "Shuffle",
+  "fr": "Aléatoire",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/stop_btn.png": {
+  "en": "Stop",
+  "fr": "Arrêt",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/stop_w.png": {
+  "en": "Stop",
+  "fr": "Arrêt",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/next_btn.png": {
+  "en": "Next Page >>",
+  "fr": "Page suivante >>",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/next_w.png": {
+  "en": "Next Page >>",
+  "fr": "Page suivante >>",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/back_btn.png": {
+  "en": "<< Previous Page",
+  "fr": "<< Page précédente",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/r_1.png": {
+  "en": "Repeat a Tune",
+  "fr": "Répéter un titre",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/r_1_w.png": {
+  "en": "Repeat a Tune",
+  "fr": "Répéter un titre",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bgm_mode/r_a.png": {
+  "en": "Repeat All Tunes",
+  "fr": "Répéter tout",
+  "mode": "alpha",
+  "frames": 2
+ },
+ "en/bgm_mode/r_a_w.png": {
+  "en": "Repeat All Tunes",
+  "fr": "Répéter tout",
+  "mode": "alpha",
+  "frames": 1
+ },
+ "en/bmp/r_click/tips_btn/tips1_1.png": {
+  "en": "The Portrait Epitaph",
+  "fr": "L'épitaphe du portrait"
+ },
+ "en/bmp/r_click/tips_btn/tips1_2.png": {
+  "en": "The Witch's Letter",
+  "fr": "La lettre de la sorcière"
+ },
+ "en/bmp/r_click/tips_btn/tips1_3.png": {
+  "en": "The Witch's Letter II",
+  "fr": "La lettre de la sorcière II"
+ },
+ "en/bmp/r_click/tips_btn/tips1_4.png": {
+  "en": "The Witch's Letter III",
+  "fr": "La lettre de la sorcière III"
+ },
+ "en/bmp/r_click/tips_btn/tips1_5.png": {
+  "en": "The Witch's Game Record",
+  "fr": "Les parties de la sorcière"
+ },
+ "en/bmp/r_click/tips_btn/tips2_1.png": {
+  "en": "The Portrait Epitaph",
+  "fr": "L'épitaphe du portrait"
+ },
+ "en/bmp/r_click/tips_btn/tips2_2.png": {
+  "en": "The Witch's Letter",
+  "fr": "La lettre de la sorcière"
+ },
+ "en/bmp/r_click/tips_btn/tips2_3.png": {
+  "en": "The Witch's Letter II",
+  "fr": "La lettre de la sorcière II"
+ },
+ "en/bmp/r_click/tips_btn/tips2_4.png": {
+  "en": "The Witch's Letter III",
+  "fr": "La lettre de la sorcière III"
+ },
+ "en/bmp/r_click/tips_btn/tips2_5.png": {
+  "en": "The Witch's Letter IV",
+  "fr": "La lettre de la sorcière IV"
+ },
+ "en/bmp/r_click/tips_btn/tips2_6.png": {
+  "en": "The Witch's Game Record",
+  "fr": "Les parties de la sorcière"
+ },
+ "en/bmp/r_click/tips_btn/tips3_1.png": {
+  "en": "The Portrait Epitaph",
+  "fr": "L'épitaphe du portrait"
+ },
+ "en/bmp/r_click/tips_btn/tips3_2.png": {
+  "en": "The Witch's Letter",
+  "fr": "La lettre de la sorcière"
+ },
+ "en/bmp/r_click/tips_btn/tips3_3.png": {
+  "en": "The Witch's Game Record",
+  "fr": "Les parties de la sorcière"
+ },
+ "en/bmp/r_click/tips_btn/tips1_6.png": {
+  "en": "Winchester M1894\nSawed off",
+  "fr": "Winchester M1894\nà canon scié"
+ },
+ "en/bmp/r_click/tips_btn/tips1_7.png": {
+  "en": "The Seven Stakes\nof Purgatory",
+  "fr": "Les Sept Pieux\ndu Purgatoire"
+ },
+ "en/bmp/r_click/tips_btn/tips2_7.png": {
+  "en": "Golden Butterfly Brooch",
+  "fr": "La broche au papillon d'or"
+ },
+ "en/bmp/r_click/tips_btn/tips3_4.png": {
+  "en": "The Chiester Sisters\nImperial Guard Corps",
+  "fr": "La garde impériale\ndes sœurs Chiester"
+ },
+ "en/bmp/r_click/tips_btn/tips3_5.png": {
+  "en": "The Chiester Golden Bows",
+  "fr": "Les arcs dorés Chiester"
+ },
+ "en/bmp/r_click/tips_btn/tips3_6.png": {
+  "en": "Regarding the\nSucession of Witches",
+  "fr": "À propos de la\nsuccession des sorcières"
+ },
+ "en/bmp/r_click/tips_btn/tips4_2.png": {
+  "en": "Magical Compendiums",
+  "fr": "Les compendiums magiques"
+ },
+ "en/bmp/r_click/tips_btn/tips4_4.png": {
+  "en": "Beatrice's Titles",
+  "fr": "Les titres de Beatrice"
+ },
+ "en/bmp/r_click/tips_btn/tips4_5.png": {
+  "en": "Regarding Witches",
+  "fr": "À propos des sorcières"
+ },
+ "en/bmp/r_click/tips_btn/tips4_6.png": {
+  "en": "Regarding Voyagers",
+  "fr": "À propos des voyageurs"
+ },
+ "en/bmp/r_click/tips_btn/tips4_7.png": {
+  "en": "Regarding Creators",
+  "fr": "À propos des créateurs"
+ }
+}

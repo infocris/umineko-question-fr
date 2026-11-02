@@ -1,0 +1,818 @@
+{
+ "en/bmp/background/efe/oct_4_1986.png": {
+  "lines": [
+   "Premier jour",
+   "4 octobre 1986",
+   null
+  ],
+  "en": [
+   "The First Day",
+   "October 4th, 1986",
+   null
+  ],
+  "uniform": false,
+  "region": [
+   560,
+   420,
+   1360,
+   700
+  ]
+ },
+ "en/bmp/background/efe/oct_5_1986.png": {
+  "lines": [
+   "Deuxième jour",
+   "5 octobre 1986",
+   null
+  ],
+  "en": [
+   "The Second Day",
+   "October 5th, 1986",
+   null
+  ],
+  "uniform": false,
+  "region": [
+   560,
+   420,
+   1360,
+   700
+  ]
+ },
+ "en/bmp/background/efe/oct_1998.png": {
+  "lines": [
+   "Le monde, 12 ans plus tard",
+   "Octobre 1998",
+   null
+  ],
+  "en": [
+   "The world 12 years later",
+   "October, 1998",
+   null
+  ],
+  "uniform": false,
+  "region": [
+   560,
+   420,
+   1360,
+   700
+  ]
+ },
+ "en/bmp/background/efe/enj_mirai01.png": {
+  "lines": [
+   "L'avenir d'Ange",
+   "Académie Sainte-Lucie",
+   "Après 1986"
+  ],
+  "en": [
+   "Ange's future",
+   "Saint Lucia Academy",
+   "After 1986"
+  ],
+  "uniform": false,
+  "region": [
+   560,
+   420,
+   1360,
+   700
+  ]
+ },
+ "en/bmp/background/efe/ep2_text.png": {
+  "lines": [
+   "Quand les mouettes pleurèrent, nul ne survécut"
+  ],
+  "glow": true,
+  "en": [
+   "When the seagulls cried, there were no survivors"
+  ],
+  "uniform": false,
+  "region": [
+   300,
+   495,
+   1620,
+   585
+  ]
+ },
+ "en/bmp/background/efe/unknown01.png": {
+  "lines": [
+   "Inconnu",
+   null
+  ],
+  "en": [
+   "Unknown",
+   null
+  ],
+  "uniform": false,
+  "region": [
+   500,
+   480,
+   1420,
+   630
+  ]
+ },
+ "en/bmp/background/efe/text001.png": {
+  "align": "left",
+  "lines": [
+   "Cette histoire est de toute évidence fictive et fantastique.",
+   "Toute ressemblance avec des personnes, organisations,",
+   "lieux ou faits existants serait purement fortuite."
+  ],
+  "en": [
+   "This story is very obviously fictional and fantastic in nature.",
+   "Any resemblance to existing individuals, organizations,",
+   "locations, or incidents is entirely coincidental."
+  ],
+  "uniform": true,
+  "region": [
+   560,
+   440,
+   1720,
+   650
+  ],
+  "thr": 60,
+  "white": true,
+  "shadow": true
+ },
+ "en/bmp/background/efe/text1.png": {
+  "align": "left",
+  "lines": [
+   "Cette histoire est de toute évidence fictive et fantastique.",
+   "Toute ressemblance avec des personnes, organisations,",
+   "lieux ou faits existants serait purement fortuite."
+  ],
+  "en": [
+   "This story is very obviously fictional and fantastic in nature.",
+   "Any resemblance to existing individuals, organizations,",
+   "locations, or incidents is entirely coincidental."
+  ],
+  "uniform": true,
+  "region": [
+   560,
+   440,
+   1720,
+   650
+  ],
+  "thr": 60,
+  "white": true,
+  "shadow": true
+ },
+ "en/bmp/background/efe/text002.png": {
+  "align": "left",
+  "shadow": true,
+  "en": [
+   "■New Function: TIPS MODE",
+   "In the middle of the game, at any time, a right click",
+   "with the mouse will open up the TIPS MODE.",
+   "Here, besides the save and load functions, you can",
+   "view character profiles and more. Additional informa-",
+   "tion will be added as you progress through the story.",
+   "Probably a good idea to take a peek here every once",
+   "in a while."
+  ],
+  "lines": [
+   "■Nouvelle fonction : MODE INFOS",
+   "À tout moment pendant la partie, un clic droit",
+   "de la souris ouvre le MODE INFOS.",
+   "En plus de la sauvegarde et du chargement, vous",
+   "pouvez y consulter les fiches des personnages, entre",
+   "autres. De nouvelles informations s'ajoutent au fil",
+   "de l'histoire. Mieux vaut y jeter un œil de temps",
+   "en temps."
+  ],
+  "white": true,
+  "region": [
+   130,
+   730,
+   900,
+   1030
+  ]
+ },
+ "en/bmp/background/efe/text003.png": {
+  "blocks": [
+   {
+    "align": "left",
+    "shadow": true,
+    "en": [
+     "■New Function: TIPS MODE",
+     "In the middle of the game, at any time, a right click",
+     "with the mouse will open up the TIPS MODE.",
+     "Here, besides the save and load functions, you can",
+     "view character profiles and more. Additional informa-",
+     "tion will be added as you progress through the story.",
+     "Probably a good idea to take a peek here every once",
+     "in a while."
+    ],
+    "lines": [
+     "■Nouvelle fonction : MODE INFOS",
+     "À tout moment pendant la partie, un clic droit",
+     "de la souris ouvre le MODE INFOS.",
+     "En plus de la sauvegarde et du chargement, vous",
+     "pouvez y consulter les fiches des personnages, entre",
+     "autres. De nouvelles informations s'ajoutent au fil",
+     "de l'histoire. Mieux vaut y jeter un œil de temps",
+     "en temps."
+    ],
+    "white": true,
+    "region": [
+     130,
+     730,
+     900,
+     1030
+    ]
+   },
+   {
+    "align": "center",
+    "color": [
+     255,
+     0,
+     0
+    ],
+    "en": [
+     "■Left click to start the game"
+    ],
+    "lines": [
+     "■Clic gauche pour commencer la partie"
+    ],
+    "region": [
+     1360,
+     935,
+     1860,
+     1000
+    ],
+    "erase_iter": 8
+   }
+  ]
+ },
+ "en/bmp/background/efe/text004.png": {
+  "align": "left",
+  "shadow": true,
+  "en": [
+   "■Addition of New Features",
+   "The Golden Witch has prepared a gift",
+   "for you in commemoration of your stay.",
+   "You can find these new features on the",
+   "title screen."
+  ],
+  "lines": [
+   "■Ajout de nouvelles fonctions",
+   "La Sorcière dorée vous a préparé un cadeau",
+   "en souvenir de votre séjour.",
+   "Vous trouverez ces nouveautés sur",
+   "l'écran titre."
+  ],
+  "white": true,
+  "region": [
+   1130,
+   680,
+   1780,
+   930
+  ]
+ },
+ "en/bmp/background/efe/text005.png": {
+  "align": "left",
+  "shadow": true,
+  "en": [
+   "■Addition of New Elements",
+   "??? has been added. You can find this new",
+   "feature on the title screen."
+  ],
+  "lines": [
+   "■Ajout de nouveaux éléments",
+   "??? a été ajouté. Vous trouverez cette",
+   "nouveauté sur l'écran titre."
+  ],
+  "white": true,
+  "region": [
+   1130,
+   750,
+   1810,
+   905
+  ]
+ },
+ "en/bmp/background/efe/text006.png": {
+  "align": "left",
+  "shadow": true,
+  "en": [
+   "■Addition of a New Game Board",
+   "The next episode's lock has been",
+   "removed.",
+   "■Addition of New Features",
+   "You can find these new features on the",
+   "title screen."
+  ],
+  "lines": [
+   "■Ajout d'un nouvel échiquier",
+   "Le verrou de l'épisode suivant a été",
+   "retiré.",
+   "■Ajout de nouvelles fonctions",
+   "Vous trouverez ces nouveautés sur",
+   "l'écran titre."
+  ],
+  "white": true,
+  "region": [
+   1130,
+   650,
+   1800,
+   1000
+  ],
+  "min_h": 10
+ },
+ "en/bmp/background/efe/text007.png": {
+  "align": "right",
+  "en": [
+   "■By right clicking→「System」→「Tips 」→「The Portrait Epitaph」,",
+   "you can check the text of the epitaph at any time."
+  ],
+  "lines": [
+   "■Clic droit → « Système » → « Infos » → « L'épitaphe du portrait » :",
+   "vous pouvez relire le texte de l'épitaphe à tout moment."
+  ],
+  "region": [
+   760,
+   825,
+   1650,
+   895
+  ]
+ },
+ "en/bmp/background/efe/text010.png": {
+  "align": "left",
+  "lines": [
+   "Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.",
+   "Toi qui cherches la Terre dorée, descends son cours en quête de la clé.",
+   "En la descendant, tu verras un village.",
+   "Dans ce village, cherche le rivage dont les deux te parleront.",
+   "Là dort la clé de la Terre dorée.",
+   "Celui qui obtiendra la clé devra alors se rendre à la Terre dorée en suivant ces règles.",
+   "Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.",
+   "Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.",
+   "Au troisième crépuscule, ceux qui restent loueront mon noble nom.",
+   "Au quatrième crépuscule, perce la tête et tue.",
+   "Au cinquième crépuscule, perce la poitrine et tue.",
+   "Au sixième crépuscule, perce le ventre et tue.",
+   "Au septième crépuscule, perce le genou et tue.",
+   "Au huitième crépuscule, perce la jambe et tue.",
+   "Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.",
+   "Au dixième crépuscule, au terme du voyage, tu atteindras le pouvoir des trésors",
+   "de la Terre dorée, une fois et pour la dernière fois.",
+   "La sorcière louera le sage et lui accordera quatre trésors.",
+   "L'un sera tout l'or de la Terre dorée.",
+   "L'un sera la résurrection de toutes les âmes défuntes.",
+   "L'un sera la résurrection de l'amour perdu.",
+   "L'un sera d'endormir la sorcière pour l'éternité.",
+   "Dors en paix, ma sorcière bien-aimée, Beatrice."
+  ],
+  "en": [
+   "Behold the sweetfish river running through my beloved hometown.",
+   "You who seek the Golden Land, follow its path downstream in search of the key.",
+   "As you travel down it, you will see a village.",
+   "In that village, look for the shore the two will tell you of.",
+   "There sleeps the key to the Golden Land.",
+   "The one who obtains the key must then travel to the Golden Land in accordance with these rules.",
+   "On the first twilight, offer the six chosen by the key as sacrifices.",
+   "On the second twilight, those who remain shall tear apart the two who are close.",
+   "On the third twilight, those who remain shall praise my noble name.",
+   "On the fourth twilight, gouge the head and kill.",
+   "On the fifth twilight, gouge the chest and kill.",
+   "On the sixth twilight, gouge the stomach and kill.",
+   "On the seventh twilight, gouge the knee and kill.",
+   "On the eighth twilight, gouge the leg and kill.",
+   "On the ninth twilight, the witch shall revive, and none shall be left alive.",
+   "On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's",
+   "treasures once and for the last time.",
+   "The witch shall praise the wise and bestow four treasures.",
+   "One shall be all the gold from the Golden Land.",
+   "One shall be the resurrection of all the dead souls.",
+   "One shall be the resurrection of the love that was lost.",
+   "One shall be to put the witch to sleep for all time.",
+   "Sleep peacefully, my beloved witch, Beatrice."
+  ],
+  "color": [
+   255,
+   0,
+   0
+  ],
+  "region": [
+   395,
+   45,
+   1600,
+   1035
+  ],
+  "thr": 60
+ },
+ "en/bmp/background/efe/text010a.png": {
+  "align": "left",
+  "lines": [
+   "Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.",
+   "Toi qui cherches la Terre dorée, descends son cours en quête de la clé.",
+   "En la descendant, tu verras un village.",
+   "Dans ce village, cherche le rivage dont les deux te parleront.",
+   "Là dort la clé de la Terre dorée.",
+   "Celui qui obtiendra la clé devra alors se rendre à la Terre dorée en suivant ces règles.",
+   "Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.",
+   "Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.",
+   "Au troisième crépuscule, ceux qui restent loueront mon noble nom.",
+   "Au quatrième crépuscule, perce la tête et tue.",
+   "Au cinquième crépuscule, perce la poitrine et tue.",
+   "Au sixième crépuscule, perce le ventre et tue.",
+   "Au septième crépuscule, perce le genou et tue.",
+   "Au huitième crépuscule, perce la jambe et tue.",
+   "Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.",
+   "Au dixième crépuscule, au terme du voyage, tu atteindras le pouvoir des trésors",
+   "de la Terre dorée, une fois et pour la dernière fois.",
+   "La sorcière louera le sage et lui accordera quatre trésors.",
+   "L'un sera tout l'or de la Terre dorée.",
+   "L'un sera la résurrection de toutes les âmes défuntes.",
+   "L'un sera la résurrection de l'amour perdu.",
+   "L'un sera d'endormir la sorcière pour l'éternité.",
+   "Dors en paix, ma sorcière bien-aimée, Beatrice."
+  ],
+  "en": [
+   "Behold the sweetfish river running through my beloved hometown.",
+   "You who seek the Golden Land, follow its path downstream in search of the key.",
+   "As you travel down it, you will see a village.",
+   "In that village, look for the shore the two will tell you of.",
+   "There sleeps the key to the Golden Land.",
+   "The one who obtains the key must then travel to the Golden Land in accordance with these rules.",
+   "On the first twilight, offer the six chosen by the key as sacrifices.",
+   "On the second twilight, those who remain shall tear apart the two who are close.",
+   "On the third twilight, those who remain shall praise my noble name.",
+   "On the fourth twilight, gouge the head and kill.",
+   "On the fifth twilight, gouge the chest and kill.",
+   "On the sixth twilight, gouge the stomach and kill.",
+   "On the seventh twilight, gouge the knee and kill.",
+   "On the eighth twilight, gouge the leg and kill.",
+   "On the ninth twilight, the witch shall revive, and none shall be left alive.",
+   "On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's",
+   "treasures once and for the last time.",
+   "The witch shall praise the wise and bestow four treasures.",
+   "One shall be all the gold from the Golden Land.",
+   "One shall be the resurrection of all the dead souls.",
+   "One shall be the resurrection of the love that was lost.",
+   "One shall be to put the witch to sleep for all time.",
+   "Sleep peacefully, my beloved witch, Beatrice."
+  ],
+  "color": [
+   255,
+   0,
+   0
+  ],
+  "region": [
+   395,
+   45,
+   1600,
+   1035
+  ],
+  "thr": 60
+ },
+ "en/bmp/background/efe/text010b.png": {
+  "align": "left",
+  "lines": [
+   "Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.",
+   "Toi qui cherches la Terre dorée, descends son cours en quête de la clé.",
+   "En la descendant, tu verras un village.",
+   "Dans ce village, cherche le rivage dont les deux te parleront.",
+   "Là dort la clé de la Terre dorée.",
+   "Celui qui obtiendra la clé devra alors se rendre à la Terre dorée en suivant ces règles.",
+   "Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.",
+   "Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.",
+   "Au troisième crépuscule, ceux qui restent loueront mon noble nom.",
+   "Au quatrième crépuscule, perce la tête et tue.",
+   "Au cinquième crépuscule, perce la poitrine et tue.",
+   "Au sixième crépuscule, perce le ventre et tue.",
+   "Au septième crépuscule, perce le genou et tue.",
+   "Au huitième crépuscule, perce la jambe et tue.",
+   "Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.",
+   "Au dixième crépuscule, au terme du voyage, tu atteindras le pouvoir des trésors",
+   "de la Terre dorée, une fois et pour la dernière fois.",
+   "La sorcière louera le sage et lui accordera quatre trésors.",
+   "L'un sera tout l'or de la Terre dorée.",
+   "L'un sera la résurrection de toutes les âmes défuntes.",
+   "L'un sera la résurrection de l'amour perdu.",
+   "L'un sera d'endormir la sorcière pour l'éternité.",
+   "Dors en paix, ma sorcière bien-aimée, Beatrice."
+  ],
+  "en": [
+   "Behold the sweetfish river running through my beloved hometown.",
+   "You who seek the Golden Land, follow its path downstream in search of the key.",
+   "As you travel down it, you will see a village.",
+   "In that village, look for the shore the two will tell you of.",
+   "There sleeps the key to the Golden Land.",
+   "The one who obtains the key must then travel to the Golden Land in accordance with these rules.",
+   "On the first twilight, offer the six chosen by the key as sacrifices.",
+   "On the second twilight, those who remain shall tear apart the two who are close.",
+   "On the third twilight, those who remain shall praise my noble name.",
+   "On the fourth twilight, gouge the head and kill.",
+   "On the fifth twilight, gouge the chest and kill.",
+   "On the sixth twilight, gouge the stomach and kill.",
+   "On the seventh twilight, gouge the knee and kill.",
+   "On the eighth twilight, gouge the leg and kill.",
+   "On the ninth twilight, the witch shall revive, and none shall be left alive.",
+   "On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's",
+   "treasures once and for the last time.",
+   "The witch shall praise the wise and bestow four treasures.",
+   "One shall be all the gold from the Golden Land.",
+   "One shall be the resurrection of all the dead souls.",
+   "One shall be the resurrection of the love that was lost.",
+   "One shall be to put the witch to sleep for all time.",
+   "Sleep peacefully, my beloved witch, Beatrice."
+  ],
+  "color": [
+   255,
+   0,
+   0
+  ],
+  "region": [
+   395,
+   45,
+   1600,
+   1035
+  ],
+  "thr": 60
+ },
+ "en/bmp/background/efe/text010c.png": {
+  "align": "left",
+  "lines": [
+   "Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.",
+   "Toi qui cherches la Terre dorée, descends son cours en quête de la clé.",
+   "En la descendant, tu verras un village.",
+   "Dans ce village, cherche le rivage dont les deux te parleront.",
+   "Là dort la clé de la Terre dorée.",
+   "Celui qui obtiendra la clé devra alors se rendre à la Terre dorée en suivant ces règles.",
+   "Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.",
+   "Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.",
+   "Au troisième crépuscule, ceux qui restent loueront mon noble nom.",
+   "Au quatrième crépuscule, perce la tête et tue.",
+   "Au cinquième crépuscule, perce la poitrine et tue.",
+   "Au sixième crépuscule, perce le ventre et tue.",
+   "Au septième crépuscule, perce le genou et tue.",
+   "Au huitième crépuscule, perce la jambe et tue.",
+   "Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.",
+   "Au dixième crépuscule, au terme du voyage, tu atteindras le pouvoir des trésors",
+   "de la Terre dorée, une fois et pour la dernière fois.",
+   "La sorcière louera le sage et lui accordera quatre trésors.",
+   "L'un sera tout l'or de la Terre dorée.",
+   "L'un sera la résurrection de toutes les âmes défuntes.",
+   "L'un sera la résurrection de l'amour perdu.",
+   "L'un sera d'endormir la sorcière pour l'éternité.",
+   "Dors en paix, ma sorcière bien-aimée, Beatrice."
+  ],
+  "en": [
+   "Behold the sweetfish river running through my beloved hometown.",
+   "You who seek the Golden Land, follow its path downstream in search of the key.",
+   "As you travel down it, you will see a village.",
+   "In that village, look for the shore the two will tell you of.",
+   "There sleeps the key to the Golden Land.",
+   "The one who obtains the key must then travel to the Golden Land in accordance with these rules.",
+   "On the first twilight, offer the six chosen by the key as sacrifices.",
+   "On the second twilight, those who remain shall tear apart the two who are close.",
+   "On the third twilight, those who remain shall praise my noble name.",
+   "On the fourth twilight, gouge the head and kill.",
+   "On the fifth twilight, gouge the chest and kill.",
+   "On the sixth twilight, gouge the stomach and kill.",
+   "On the seventh twilight, gouge the knee and kill.",
+   "On the eighth twilight, gouge the leg and kill.",
+   "On the ninth twilight, the witch shall revive, and none shall be left alive.",
+   "On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's",
+   "treasures once and for the last time.",
+   "The witch shall praise the wise and bestow four treasures.",
+   "One shall be all the gold from the Golden Land.",
+   "One shall be the resurrection of all the dead souls.",
+   "One shall be the resurrection of the love that was lost.",
+   "One shall be to put the witch to sleep for all time.",
+   "Sleep peacefully, my beloved witch, Beatrice."
+  ],
+  "color": [
+   255,
+   0,
+   0
+  ],
+  "region": [
+   395,
+   45,
+   1600,
+   1035
+  ],
+  "thr": 60
+ },
+ "en/bmp/background/efe/text011.png": {
+  "align": "left",
+  "lines": [
+   "Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.",
+   "Toi qui cherches la Terre dorée, descends son cours en quête de la clé.",
+   "En la descendant, tu verras un village.",
+   "Dans ce village, cherche le rivage dont les deux te parleront.",
+   "Là dort la clé de la Terre dorée."
+  ],
+  "en": [
+   "Behold the sweetfish river running through my beloved hometown.",
+   "You who seek the Golden Land, follow its path downstream in search of the key.",
+   "As you travel down it, you will see a village.",
+   "In that village, look for the shore the two will tell you of.",
+   "There sleeps the key to the Golden Land."
+  ],
+  "color": [
+   255,
+   0,
+   0
+  ],
+  "region": [
+   420,
+   420,
+   1540,
+   670
+  ],
+  "thr": 60
+ },
+ "en/bmp/background/efe/text012.png": {
+  "align": "left",
+  "lines": [
+   "Celui qui obtiendra la clé devra alors se rendre à la Terre dorée en suivant ces règles.",
+   "Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.",
+   "Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.",
+   "Au troisième crépuscule, ceux qui restent loueront mon noble nom.",
+   "Au quatrième crépuscule, perce la tête et tue.",
+   "Au cinquième crépuscule, perce la poitrine et tue.",
+   "Au sixième crépuscule, perce le ventre et tue.",
+   "Au septième crépuscule, perce le genou et tue.",
+   "Au huitième crépuscule, perce la jambe et tue.",
+   "Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.",
+   "Au dixième crépuscule, au terme du voyage, tu atteindras le pouvoir des trésors",
+   "de la Terre dorée, une fois et pour la dernière fois."
+  ],
+  "en": [
+   "The one who obtains the key must then travel to the Golden Land in accordance with these rules.",
+   "On the first twilight, offer the six chosen by the key as sacrifices.",
+   "On the second twilight, those who remain shall tear apart the two who are close.",
+   "On the third twilight, those who remain shall praise my noble name.",
+   "On the fourth twilight, gouge the head and kill.",
+   "On the fifth twilight, gouge the chest and kill.",
+   "On the sixth twilight, gouge the stomach and kill.",
+   "On the seventh twilight, gouge the knee and kill.",
+   "On the eighth twilight, gouge the leg and kill.",
+   "On the ninth twilight, the witch shall revive, and none shall be left alive.",
+   "On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's",
+   "treasures once and for the last time."
+  ],
+  "color": [
+   255,
+   0,
+   0
+  ],
+  "region": [
+   300,
+   280,
+   1620,
+   775
+  ],
+  "thr": 60
+ },
+ "en/bmp/background/efe/op0101.png": {
+  "region": [
+   940,
+   505,
+   1710,
+   580
+  ],
+  "align": "center",
+  "shadow": true,
+  "white": true,
+  "thr": 60,
+  "en": [
+   "Legend of the golden witch"
+  ],
+  "lines": [
+   "La Légende de la Sorcière dorée"
+  ]
+ },
+ "en/bmp/title/manual.png": {
+  "blocks": [
+   {
+    "align": "left",
+    "stroke": true,
+    "uniform": false,
+    "en": [
+     "Controls",
+     "Text Speed:",
+     "1: slow",
+     "2: normal",
+     "3: fast",
+     "0: toggle slow/normal/fast",
+     "Miscellaneous:",
+     "M: toggle volume on / muted",
+     "F: toggle full screen / windowed mode",
+     "A: toggle automode (if enabled for game)",
+     "S: toggle fast forward",
+     "CTRL: super-fast forward while held down",
+     "ESC/right-click: display in-game menu"
+    ],
+    "lines": [
+     "Commandes",
+     "Vitesse du texte :",
+     "1 : lente",
+     "2 : normale",
+     "3 : rapide",
+     "0 : alterner lente/normale/rapide",
+     "Divers :",
+     "M : activer / couper le son",
+     "F : plein écran / fenêtre",
+     "A : lecture automatique (si disponible)",
+     "S : avance rapide",
+     "CTRL : avance très rapide (maintenir)",
+     "Échap/clic droit : menu du jeu"
+    ],
+    "outline": true,
+    "color": [
+     255,
+     255,
+     255
+    ],
+    "region": [
+     360,
+     205,
+     900,
+     845
+    ],
+    "gap": 1,
+    "min_h": 10,
+    "rows": [
+     [
+      212,
+      264
+     ],
+     [
+      322,
+      364
+     ],
+     [
+      370,
+      399
+     ],
+     [
+      403,
+      432
+     ],
+     [
+      437,
+      465
+     ],
+     [
+      469,
+      502
+     ],
+     [
+      554,
+      590
+     ],
+     [
+      602,
+      633
+     ],
+     [
+      633,
+      666
+     ],
+     [
+      666,
+      700
+     ],
+     [
+      700,
+      732
+     ],
+     [
+      732,
+      765
+     ],
+     [
+      765,
+      801
+     ]
+    ],
+    "scale": 0.78,
+    "erase_iter": 8
+   },
+   {
+    "align": "left",
+    "stroke": true,
+    "color": [
+     255,
+     0,
+     0
+    ],
+    "en": [
+     "Left-click to go back to main menu."
+    ],
+    "lines": [
+     "Clic gauche pour revenir au menu principal."
+    ],
+    "outline": true,
+    "region": [
+     360,
+     845,
+     1050,
+     900
+    ],
+    "scale": 0.78,
+    "erase_iter": 8
+   }
+  ]
+ }
+}

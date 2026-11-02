@@ -1,0 +1,760 @@
+21974|"J-Je vois.‖  C'est comme ça, alors......"
+21978|"Je vais rester aux côtés de ce gamin gâté.‖  ......D'habitude, il adore fanfaronner, mais ce soir, cette discussion enflammée l'a complètement épuisé.‖  Il a sûrement besoin de quelqu'un sur qui s'appuyer en ce moment.‖  Et répondre à ce besoin, c'est le rôle de sa partenaire."
+21982|"Haah.‖  C'est passionné, tout ça.‖  Alors je vous laisse mon vieux salaud de père."
+21986|"Oui, compte sur moi."
+21990|J'ai interpellé Kyrie-san alors qu'elle s'éloignait.
+21995|"......Hm ?‖  Qu'y a-t-il ?"
+21999|"Euh, je voulais vous remercier.‖  Grâce à vous, j'ai bien retrouvé le moral."
+22003|"Tant mieux.‖  La communication, c'est important."
+22007|Après m'avoir répondu d'un clin d'œil, Kyrie-san est partie rejoindre mon père...
+22019|Natsuhi se trouvait dans un couloir faiblement éclairé.
+22021|De temps à autre, le tonnerre grondait, mais son expression n'en était nullement troublée.
+22023|......Elle paraissait complètement épuisée.
+22027|La discussion qui venait d'avoir lieu entre les membres de la famille dans la salle à manger se rejouait sans cesse dans l'esprit de Natsuhi...
+22033|Beatrice avait proclamé qu'en plus de l'or, tout l'héritage et tous les biens de la famille Ushiromiya reviendraient à celui qui résoudrait l'énigme.
+22036|...Autrement dit, elle comptait saper la garantie absolue qu'avait Krauss, en tant que frère aîné, de succéder au chef de famille.
+22037|À l'origine, les autres frères et sœurs n'avaient pas la moindre chance d'hériter de la place de chef de famille.
+22041|Pour eux, cette `proposition' de Beatrice était des plus désirables.
+22042|Il était évident qu'ils l'accepteraient.
+22045|...Nul besoin de jouer maladroitement les détectives.  Natsuhi savait que cette prétendue dix-neuvième personne, Beatrice, ne pouvait pas exister.
+22047|Naturellement, Beatrice n'était qu'un personnage fictif servant à transmettre un message que Kinzo avait lui-même écrit.
+22050|Pour preuve, Kinzo était resté obstinément neutre quant à l'authenticité de cette lettre.
+22053|......Il ignorait purement et simplement ces affirmations insensées qu'il n'aurait pas dû pouvoir ignorer : qu'il avait renoncé à la bague du chef de famille.
+22056|............En somme, Kinzo avait admis sans un mot que la lettre contenait son propre message.
+22060|Selon toute vraisemblance, l'un des domestiques avait remis la lettre à Maria.
+22062|Kinzo avait sans doute ourdi un plan élaboré : on préparerait la robe du portrait,‖ ......puis quelqu'un, probablement Shannon, la revêtirait pour remettre la lettre et le parapluie.
+22065|Ainsi, il pouvait faire croire que la sorcière du portrait existait réellement.
+22067|...Non, à vrai dire, cela seul prouvait que Kinzo était derrière tout cela.
+22069|Dans ce cas, ......cela revenait pour Kinzo à s'immiscer dans la discussion privée de ses enfants.
+22072|Puis Kinzo, en annonçant qu'il donnerait tout à celui qui résoudrait l'énigme, pouvait affaiblir l'écrasant avantage de Krauss.
+22077|.........À présent, c'était certain.
+22079|Kinzo avait espionné la discussion des frères et sœurs dans le salon, plus tôt dans la journée.
+22082|Il savait donc comment Krauss avait repoussé l'assaut des trois autres,‖ et pour rééquilibrer la balance de cette bataille, il avait envoyé cette lettre étrange, qui profitait aux rivaux de Krauss.
+22085|Il cherchait à imposer cette théorie insensée pour que Rosa, dont la position parmi les frères et sœurs était faible en raison de son âge, se range aux côtés d'Eva et de Rudolf.‖  Ainsi, à trois contre un, ils pourraient une fois de plus écraser Krauss et faire accepter de force leurs théories ridicules.
+22088|...Et ce faisant, il leur donnait le pouvoir de rouvrir un conflit qui avait presque été tranché.‖  Ils s'étaient désormais mis à presser Krauss, encore et encore, de leur verser une grosse somme d'argent...
+22090|En échange de la promesse que tous les frères et sœurs garantiraient la position de Krauss comme successeur, on remettait sur le tapis cette histoire d'avances, pourtant rejetée une première fois.
+22094|Bien sûr, même sans cette histoire d'or caché, la fortune de la famille Ushiromiya était colossale.
+22098|Cette fortune à elle seule était amplement suffisante.
+22099|Même si l'or caché restait enfoui à jamais avec la mort de Kinzo, il y aurait largement de quoi se satisfaire.
+22101|Ainsi, même s'ils ne s'intéressaient pas tant que ça à l'or lui-même, ‖Kinzo était parvenu à instiller une peur durable : si, par extraordinaire, quelqu'un trouvait l'or, cette personne obtiendrait la place de chef de famille.
+22103|Et ce genre de talon d'Achille finirait forcément par être exploité par quelqu'un, tôt ou tard.
+22106|La seule personne affligée de cette faiblesse fatale était le successeur, Krauss.
+22108|......Les autres frères et sœurs avaient découvert...‖non, Kinzo leur avait révélé une chose que seul Krauss pouvait perdre, et ils en avaient tiré parti sans vergogne.
+22113|...Natsuhi, en tant que seule alliée de Krauss dans sa pénible position et en tant qu'épouse, voulait se battre à ses côtés.
+22116|Elle ne cessait de tenter de lui expliquer que l'existence même de l'or était une farce et qu'il n'avait nul besoin de transiger.
+22120|Krauss l'avait toujours dit à Natsuhi.
+22121|Il l'avait dit à tous ses frères et sœurs.
+22122|Il répétait sans cesse, encore et toujours, que l'or caché n'était qu'une illusion créée par Kinzo.
+22125|C'est pourquoi Natsuhi y avait cru, en tant qu'épouse, et avait soutenu son mari sur ce fondement.
+22130|Pourtant, les paroles de Natsuhi n'atteignaient pas Krauss.
+22132|...Alors même que Natsuhi s'était battue avec acharnement et lui avait prêté toutes ses forces, il continuait de lutter seul et cherchait à transiger avec les trois autres...
+22135|Natsuhi se demanda, triste et sans force, pourquoi elle ne pouvait lui être d'aucune utilité, puis la colère commença à la gagner.
+22141|Cela s'était produit lorsque tout le monde avait décidé de faire une courte pause pour se calmer les esprits.
+22142|Natsuhi s'était emportée contre Krauss.
+22144|Furieuse, elle lui avait demandé pourquoi elle ne pouvait lui être d'aucune utilité.
+22147|......Il lui avait alors dit qu'il voulait lui parler de quelque chose...et l'avait invitée dans une pièce où elle n'avait normalement pas le droit d'entrer.
+22150|Cette pièce était fermée par un lourd cadenas, et sa seule vue lui avait inspiré un sentiment de malaise...
+22167|"Vous n'avez pas à vous soucier de ce que disent ces trois-là, ni même de cette personne suspecte qui se fait appeler Beatrice !!‖  Après tout, l'or n'est qu'une ruse inventée par Père.‖  Il est impossible que l'on trouve une chose pareille !!‖  Votre position de successeur est un fait établi.‖  Que craignez-vous donc ?!"
+22173|Krauss retira le cadenas de la porte.
+22174|Puis il fit signe à Natsuhi d'entrer.
+22178|"Entrez."
+22182|"...Qu-Qu'est-ce que cela ?"
+22186|"Il y a une chose que je veux vous montrer.‖  ......Je ne vous l'ai jamais montrée auparavant."
+22194|Natsuhi ouvrit timidement la porte, l'air méfiant...
+22195|Il faisait noir comme dans un four.
+22197|Elle chercha un interrupteur pour allumer, mais comme c'était la première fois qu'elle entrait dans cette pièce, elle ignorait où il se trouvait.
+22199|Krauss entra derrière elle en la poussant à l'intérieur, et lorsqu'il referma la porte avant d'allumer, tous deux furent engloutis par les ténèbres.
+22205|Seul le bruit de Krauss verrouillant la porte résonna dans l'obscurité.
+22209|"Qu-Que faites-vous... ?‖  L-La lumière..."
+22210|"Je l'allume.‖  Attendez."
+22215|Comme il l'avait dit, Krauss appuya sur un interrupteur mural, et une lumière vacillante s'alluma, éclairant la pièce.
+22221|"...............Qu-
+22222|Qu'est-ce que c'est......?"
+22224|Natsuhi en eut le souffle coupé.
+22226|La pièce n'avait aucune fenêtre et, au premier coup d'œil, elle semblait vide.
+22229|Au milieu de la pièce se trouvait une petite table ronde, et la lumière n'éclairait que cette table, comme si elle tenait le premier rôle d'une pièce de théâtre.
+22233|Sur la table, on avait étendu une nappe rouge au motif recherché, couverte de poussière,‖ ......et sur cette nappe, on avait déposé `quelque chose' de la taille de l'avant-bras d'un homme adulte.
+22236|......Ce quelque chose coupa le souffle à Natsuhi.
+22246|"C'est un lingot d'or d'une pureté incroyable.‖  Sans lui, personne n'aurait cru à la légende de l'or."
+22248|C'était un lingot d'or massif.
+22251|Même dans la faible lumière, il brillait d'un éclat noble et majestueux...
+22257|"Ce n'est pas un lingot conventionnel.‖  Je ne sais même pas s'il a été coulé au Japon ou à l'étranger."
+22261|Fabriquer les lingots d'or massif les plus purs exigeait un grand savoir-faire.
+22262|Et pour attester de cette pureté, il était d'usage de frapper sur l'or le nom de la fonderie d'origine et celui de la banque qui le garantissait.
+22265|...Or ce lingot ne portait aucun poinçon de ce genre.‖  .........Cette mystérieuse barre d'or provenait d'une fonderie inconnue.
+22270|"Regardez ici.‖  ............Il n'y a rien à craindre.‖  Ce n'est qu'une barre d'or."
+22271|Natsuhi, obéissant à Krauss, s'approcha timidement du lingot...
+22277|"Juste là."
+22278|Krauss désigna la surface du lingot.
+22279|...Natsuhi concentra son regard sur cet endroit...
+22284|"...............!!"
+22287|Là, finement gravé, se trouvait le blason de l'Aigle à une aile !‖  Natsuhi en eut de nouveau le souffle coupé.
+22289|"Exactement.‖  C'est le lingot légendaire que Père dit avoir reçu de la sorcière, celui que le président de Marusoo a vu de ses yeux et qu'on l'a autorisé à choisir au hasard pour l'emporter,‖ celui qui a gagné la confiance des hommes de l'ombre du monde des affaires.‖  J'ai dû employer tous les moyens possibles pour le trouver.‖  ......Je l'ai trouvé avant les autres."
+22292|"...Comment......‖  ...Alors, 
+22293|...la légende de l'or de Père est......"
+22297|"Elle est vraie.‖  ...L'or qu'Ushiromiya Kinzo a reçu de Beatrice existe bel et bien."
+22298|"Impossible......!‖  ...A-Alors, il existe vraiment......"
+22303|Natsuhi était sous le choc...
+22307|Krauss avait toujours affirmé que l'or de Kinzo n'était qu'une invention.
+22308|Alors elle l'avait cru, en tant qu'épouse.
+22311|Mais la réalité était tout autre.
+22312|Puisqu'il en détenait une preuve formelle, il était plus convaincu que n'importe lequel de ses frères et sœurs que la légende de l'or était vraie.
+22315|C'est pour cette raison que Krauss redoutait profondément que quelqu'un d'autre que lui ne trouve l'or qu'il n'avait pas su trouver, et ne lui coûte tout.
+22318|......Mais pour Natsuhi, cette vérité suffisait amplement à lui fendre le cœur.
+22319|Elle pensait qu'en tant qu'épouse de Krauss, elle devait être sa plus proche confidente, et c'est pour cela qu'elle l'avait soutenu sans compter.
+22322|...Et pourtant, il lui avait caché cela jusqu'à aujourd'hui.‖  ......Pourquoi ?
+22332|"...Ai-
+22333|Ai-je été...
+22334|si indigne de votre confiance... ?"
+22335|"......Telle n'a jamais été mon intention.‖  Il n'y avait simplement aucune raison de vous le dire."
+22336|"...E-
+22337|Est-ce là tout ce que...
+22338|...ce qu'une épouse représente pour vous......?!"
+22346|"Calmez-vous...‖  Vous emporter pour un rien est l'un de vos mauvais penchants."
+22351|"C'est vous qui me mettez dans cet état, n'est-ce pas ?!!!‖  Je vous soutiens en tant qu'épouse depuis que je suis entrée dans cette famille par le mariage... !‖  Pour vous, j'ai renoncé à la famille dont je suis issue, 
+22352|et je vous ai offert mon cœur et mon corps pour vous servir... !!‖  Et en retour, 
+22353|...voilà ce que je reçois...... ?!‖  Comment avez-vous pu...
+22354|  ......Comment avez-vous pu...... ?!!"
+22357|Krauss grimaça, l'air agacé...
+22358|Son expression disait clairement combien il détestait ce trait chez Natsuhi, même s'il ne le formulait pas à voix haute...
+22363|"...Il semble que...‖je ne vous serai plus d'aucune utilité......"
+22367|"Hmmm, cela ne fait rien.‖  ......Je peux régler seul les problèmes avec mes frères et sœurs.‖  Je n'ai pas besoin de votre aide."
+22371|"Vous avez tort !!‖  C'est un problème de la famille Ushiromiya !‖  Il est vrai que je n'ai pas le droit de porter le blason de la famille sur moi !‖  Mais je n'en suis pas moins votre épouse !!
+22375|  Malgré cela, ...vous prétendez que je suis incapable de vous aider... ?!‖  C'est bien cela... ?!!!"
+22379|"......Je tiens tout particulièrement à ne pas vous y mêler.‖  Cela ne ferait sans doute qu'aggraver vos maux de tête.‖  Reposez-vous pour aujourd'hui.‖  Les problèmes des frères et sœurs se règlent entre frères et sœurs.‖  Cela ne vous concerne pas.‖  Ce sera tout."
+22397|Un mal de tête sourd tourmentait Natsuhi...
+22399|Quel que soit le remède qu'elle prenait, quels que soient les parfums qu'elle faisait brûler, rien n'y faisait.
+22402|...En réalité, errer seule dans les couloirs sombres en écoutant le bruit de la pluie semblait un meilleur remède...
+22409|......Je suis peut-être Natsuhi, 
+22410|...mais je n'ai jamais été Ushiromiya Natsuhi.
+22415|On m'a méprisée, traitée comme un ventre d'emprunt...et insultée quand je n'ai même pas su remplir ce rôle...
+22416|  Malgré cela, j'ai essayé de m'acquitter dignement de mes devoirs d'épouse, 
+22417|...mais à présent, même mon mari me rejette.
+22420|J'ai fait de mon mieux pour élever ma fille, comme si c'était la dernière tâche qui me restait...
+22421|...Mais ma colère et ma tristesse n'ont trouvé aucun exutoire, et elles m'ont poussée, malgré moi, à abîmer cette relation aussi...
+22425|Parce que j'ai été excessivement sévère dans l'éducation de Jessica, elle me déteste profondément.
+22426|Elle me méprise parce que je ne m'intéresse qu'à ses notes.
+22431|......Il n'y a plus...
+22432|...rien que je puisse faire pour la famille Ushiromiya......
+22436|Non, 
+22437|...ça ne va pas.
+22439|Malgré tout, je dois aider mon mari et repousser les manigances de son frère et de ses sœurs cupides.
+22442|Le chef de famille n'en a plus pour longtemps.
+22443|Tôt ou tard, Krauss lui succédera.
+22445|Et la prochaine héritière sera Jessica.
+22447|......À strictement parler, c'est l'homme qui entrera dans la famille en épousant Jessica qui deviendra le prochain chef de famille, mais cela revient au même.
+22450|...Je dois faire de Jessica une héritière remarquable, que tous jugeront digne de reprendre la famille Ushiromiya.
+22453|Dans les jours à venir, cette cupide Ushiromiya Eva complotera sûrement pour trouver quelque faute à la famille principale,‖ et si tout se passe comme elle l'entend, Jessica sera écartée de la succession, et George sera placé à sa place.
+22457|......C'est regrettable, mais George est un homme, et qui plus est, il a mûri en tant que personne.
+22458|...Comparé à Jessica, en pleine crise d'adolescence et dont les notes sont légèrement en dessous de la moyenne, on voit au premier coup d'œil lequel des deux est le plus apte à succéder au chef de famille.
+22462|Alors, pour assurer la position de Jessica, je dois faire d'elle une personne remarquable.
+22463|Ensuite, ......je veux lui trouver un mari remarquable, digne de la personne remarquable qu'elle sera devenue.
+22466|......Un homme merveilleux qui acceptera vraiment Jessica...et restera à ses côtés dans toutes les joies et les peines de la vie.
+22470|Natsuhi cherchait-elle.........à confier à sa fille l'accomplissement d'un désir qui lui était propre ?
+22473|Natsuhi repensa à l'époque où elle n'avait eu d'autre choix que d'entrer par le mariage dans la famille Ushiromiya, à cause de ce destin inéluctable...
+22475|Elle avait tenté de l'effacer de sa mémoire.
+22478|......Elle l'avait oublié délibérément...et s'était consacrée avec ardeur à la vie qu'on lui avait donnée en tant qu'Ushiromiya Natsuhi...
+22480|Et ce faisant, elle s'était bâti une nouvelle vie.
+22484|......Mais...à l'instant, 
+22485|...elle avait eu l'impression que tout cela venait d'être rejeté avec désinvolture.
+22490|"............‖Comment dois-je penser pour vivre ma vie ?
+22491|  ......Je ne sais pas."
+22493|Natsuhi appuya sa tête, impuissante, contre la vitre de la fenêtre...
+22496|La vitre, rafraîchie par les gouttes de pluie qui la battaient, lui parut étrangement apaisante.  Bien qu'elle fût censée n'avoir aucune émotion, ...à cet instant, elle semblait la seule chose capable de comprendre Natsuhi...
+22499|À ce moment-là, même si quelqu'un était apparu, Natsuhi n'avait aucune intention d'y prêter attention.
+22503|......Pourtant, elle y prêta attention.
+22504|......Car c'était sa fille bien-aimée.
+22514|"......Oh-
+22515|Oh, c'est toi, Maman.‖  Qu'est-ce que tu fiches dans un endroit pareil ?‖  J'ai cru que t'étais un fantôme..."
+22517|Comme toujours, son langage était brusque et pas du tout digne d'une fille.
+22522|...Instinctivement, des paroles de réprimande montèrent à la gorge de Natsuhi.
+22523|......Mais elles perdirent leur force et ne franchirent pas ses lèvres.
+22529|".........Jessica,‖ pardonne-moi, mais j'ai un terrible mal de tête.‖  Laisse-moi tranquille, je te prie."
+22534|"......D'accord......"
+22535|C'était la première fois que Jessica voyait sa mère dans un tel état de faiblesse, et elle en était passablement déconcertée.
+22538|Jusqu'à présent, elle n'avait éprouvé que du mépris pour tous les parents, y compris sa mère.
+22542|...Mais maintenant, ces sentiments avaient été entièrement balayés.
+22543|......Le visage complètement épuisé de sa mère les avait tous effacés.
+22547|À leur place, les mots de George lui revinrent à l'esprit.
+22550|Nos parents font de leur mieux, à leur manière.
+22553|...Et parce que leurs familles comptent sur eux, ils ne peuvent pas se permettre de garder des rapports agréables...et ont la lourde responsabilité de se battre.
+22555|......Peut-être que sa mère était restée plantée dans ce couloir faiblement éclairé...parce que personne n'avait cherché à comprendre cette part d'elle...
+22558|Jessica détestait sa mère.
+22559|...Alors elle n'avait aucune intention de lui parler gentiment simplement parce qu'elle avait l'air un peu fragile...
+22562|Alors, lorsqu'elle tenta malgré tout de parler gentiment à sa mère, elle dut serrer les poings et aller chercher les mots au plus profond de son cœur.
+22568|"...O-On dirait que t'as vraiment du pain sur la planche avec cette histoire de réunion..."
+22572|".........Cela ne te regarde pas.‖  Va ailleurs, je te prie."
+22576|"......T'as très mal à la tête ?‖  J-Je vais te chercher un médicament... ?"
+22580|"......Ne te donne pas cette peine.‖  ...Je t'en prie, laisse-moi seule."
+22583|Natsuhi n'était pas froide.
+22584|...Elle voulait simplement que sa fille s'éloigne, pour ne pas avoir à se heurter à son propre mauvais caractère.
+22586|......Mais Jessica n'avait aucune chance de s'en rendre compte.
+22590|"...............D-D'accord."
+22591|Jessica baissa la tête, l'air triste.
+22594|...En voyant cette expression, Natsuhi reconnut la gentillesse que Jessica essayait de rassembler.
+22597|Elle secoua légèrement la tête pour chasser ses propres sentiments malveillants...
+22601|"Alors je......m'en vais.‖  ...Je serai avec les autres cousins, comme ça je gênerai pas les adultes.‖  .........À plus tard..."
+22605|".........Attends."
+22607|Elle retint Jessica, qui s'apprêtait à partir, l'air esseulée.
+22611|"......Quoi... ?"
+22615|"......Merci de ta prévenance.‖  ......Ce n'est pas bien de ma part d'aller dormir en te laissant seule."
+22619|"D-Dis pas des trucs comme ça, ça porte malheur..."
+22623|"...Je t'ai inquiétée,‖ mais je vais mieux maintenant.‖  ......Je vais y aller."
+22626|Si je laisse ma fille me voir aussi faible plus longtemps, je ne ferai que l'inquiéter davantage.
+22627|...Sur cette pensée, Natsuhi laissa Jessica avec des mots de gratitude et s'apprêta à partir.
+22633|......Cette fois, ce fut Jessica qui interpella sa mère, de dos.
+22634|Natsuhi s'arrêta et se retourna, lui demandant ce qu'elle lui voulait.
+22637|Mais Jessica elle-même ne savait pas pourquoi elle avait retenu sa mère,‖ ...et pendant un moment, elle eut un sourire gêné, marmonnant pour elle-même, hésitant sur ce qu'elle allait dire.
+22639|Elle farfouillait dans sa poche quand sa main toucha quelque chose, qu'elle sortit.
+22643|"Euh, dis, Maman !‖  J'ai, euh, reçu un porte-bonheur aujourd'hui.‖  C'était quoi déjà, un porte-bonheur contre la magie ?
+22648|  Euh, hum, ......je crois bien que...faut l'accrocher à la poignée de sa porte, je crois.‖  Ahahaha, ...j'ai oublié...‖  Ça sert à rien que je le garde, ‖...alors je te le donne."
+22650|C'était le porte-bonheur en forme de scorpion que Maria lui avait donné sur la plage.
+22653|Bien que Maria lui eût expliqué ses divers effets, Jessica avait eu un trou de mémoire, et c'est tout juste si elle avait pu en dire autant.
+22656|Jessica, pensant que sa mère ne l'accepterait sans doute pas de toute façon, retira aussitôt la main qu'elle avait tendue, serrant le porte-bonheur.
+22659|......Aussi, quand Natsuhi revint pour le prendre, elle fut extrêmement surprise...
+22664|"............Qu'est-ce que c'est ?‖  Une sorte de jouet de fête foraine... ?"
+22668|"B-Ben c'est...je crois que c'est un truc dans le genre...‖  C'est sûr, on s'attend pas vraiment à ce qu'un porte-bonheur qui ressemble à un jouet serve à quelque chose......"
+22670|Mais sa mère prit le porte-bonheur dans la main qui le serrait.
+22674|"Merci.‖  J'en prendrai bien soin.‖  ............Prochainement, en échange, que dirais-tu que je te donne un porte-bonheur qui m'était précieux quand j'étais enfant ?"
+22678|"...C-C'est pas pour ça que je te l'ai donné.
+22683|  ......Mais, bon, 
+22684|......si tu y tiens vraiment..."
+22688|"Alors je vais me reposer.‖  Mon mal de tête est terrible.‖  .........Tâche de ne pas veiller trop tard."
+22693|"Ouais..."
+22698|Natsuhi glissa le porte-bonheur dans sa poche et se détourna.
+22699|......Puis elle disparut dans le couloir obscur...
+22715|"...On dirait que le temps va rester comme ça toute la journée de demain, finalement."
+22720|"Bon sang, du coup, le beau temps de tout à l'heure, on dirait un mensonge."
+22722|George-aniki et moi, on tuait le temps devant la télé du salon.
+22728|C'est à ce moment-là que Jessica est revenue.
+22729|Son visage était toujours inexpressif, mais elle avait l'air un peu plus calme que la dernière fois qu'on l'avait vue.
+22734|"......Maria est toujours devant le portrait ?"
+22739|"Non.‖  Elle vient de revenir, elle dort sur le canapé, là-bas.‖  Il commence à être sacrément tard pour elle, faut dire."
+22745|En regardant l'horloge, j'ai vu qu'il était un peu plus de 22 h.
+22746|...Même si on comptait passer une nuit blanche, il était temps de regagner notre chambre.
+22752|"Bon, ma mère nous a quand même fait préparer une chambre dans le manoir.‖  ...On fait quoi ?"
+22758|"Je préférerais retourner à la maison d'hôtes.‖  ......Vu l'état de nos parents, je pense qu'il vaut mieux qu'on ne reste pas au manoir."
+22764|"D'accord avec toi.‖  J'ai l'impression qu'ils nous disent, à nous les gamins, de nous mêler de nos affaires et de pas les déranger.‖  Soyons des petits garçons et des petites filles bien sages et faisons ça."
+22770|Alors qu'on parlait de ça, Tante Rosa est entrée dans le salon.
+22771|Elle regardait partout, agitée, sans doute à la recherche de Maria.
+22776|"Tante Rosa, si vous cherchez Maria, elle est là-bas sur le canapé."
+22780|"Merci.‖  Oh là, elle dort à poings fermés.‖  ......Il faut la mettre au lit."
+22786|"Si vous voulez, je peux la porter jusqu'à un lit."
+22790|"Merci, ce serait merveilleux.‖  ......Vous retournez tous à la maison d'hôtes ?‖  Ou bien vous restez dans la chambre que Natsuhi nee-san vous a fait préparer ici ?"
+22796|"On en parlait justement.‖  On venait de décider d'aller à la maison d'hôtes."
+22800|"Je vois.‖  Alors, est-ce que je peux vous demander d'emmener Maria avec vous ?‖  ...Je serais bien plus rassurée si elle restait avec vous, ses cousins."
+22803|Derrière ces mots, elle semblait cacher le regret que les adultes, elle comprise, aient profondément blessé Maria...
+22809|"Comptez sur nous, Tante Rosa.‖  Après tout, on a avec nous un expert pour consoler Maria !"
+22814|"C-C'est de moi que tu parles ?
+22819|  Je n'y arriverais pas tout seul.‖  Il nous faudra tout le monde."
+22826|"C'est vrai, ça.‖  Battler, c'est pas toi qui t'entendais à merveille avec Maria quand vous faisiez les fous tout à l'heure ?"
+22829|Pendant qu'on disait ça, Tante Rosa a souri, l'air sincèrement heureuse.
+22834|"Merci à tous.‖  ......On dirait que notre réunion va durer jusque très tard.‖  Alors, même si je suis désolée de vous imposer ça, je compte sur vous tous pour prendre soin de Maria."
+22839|"Hé, Maria, tu dors à poings fermés... ?‖  On retourne à la maison d'hôtes."
+22841|Maria a marmonné quelque chose d'incompréhensible, s'est retournée et s'est rendormie.
+22843|......Elle avait l'air de dormir profondément.
+22849|"Elle est vraiment K.-O.‖  Ça m'embêterait de la réveiller."
+22854|"Bon, je vais la porter."
+22862|Le corps de Maria était bien plus léger qu'il n'en avait l'air.
+22863|Je l'ai soulevée et je l'ai installée sur le dos de George-aniki.
+22866|Il pleuvait fort dehors, et Aniki ne pouvait pas tenir un parapluie et porter Maria en même temps.
+22867|Apparemment, Tante Rosa allait nous accompagner jusqu'à la maison d'hôtes pour nous aider.
+22870|Mais quand elle a entendu Oncle Krauss l'appeler, elle n'a pas eu d'autre choix que de faire demi-tour.
+22875|"......Ça, c'est embêtant.‖  Il faut que j'y retourne."
+22883|".........Vous retournez tous à la maison d'hôtes ?"
+22885|Après qu'on a quitté le hall pour aller vers l'entrée, la porte de la salle des domestiques s'est ouverte et Shannon-chan en est sortie.
+22890|"Il fait déjà très sombre, permettez-moi de vous guider."
+22894|"Ce serait parfait, Shannon-chan.‖  George-kun va porter Maria jusque là-bas.‖  Tu pourrais lui tenir un parapluie ?"
+22898|"Oui, bien sûr."
+22901|Shannon-chan a apporté un parapluie pour chacun de nous et une lampe torche pour nous éclairer le chemin.
+22916|Quand on a ouvert la porte d'entrée, l'averse était vraiment terrible.
+22917|On n'allait visiblement pas avoir le loisir de faire une agréable promenade pour profiter de la roseraie de nuit...
+22922|"Aniki, elle est trop lourde ?‖  Tu veux que je la porte ?"
+22927|"Ça va.‖  Porter Maria-chan, c'est quand même dans mes cordes."
+22933|"......Je vous suis sincèrement reconnaissante.‖  Prenez bien soin de Maria, s'il vous plaît."
+22939|"Ouais, pas de souci.‖  Alors, bonne nuit, Tante Rosa."
+22944|"Je vais donc les accompagner là-bas, puis je reviendrai ici."
+22949|"Oui, s'il te plaît..."
+22950|Tante Rosa nous a regardés partir.
+22954|"......Maria,‖ ......pardon pour tout..."
+22957|Le murmure de Rosa ne parvint ni à l'intéressée, ni à aucun des enfants, et se perdit dans le bruit de la pluie......
+22981|Après avoir traversé la roseraie sous la pluie, on est arrivés à la maison d'hôtes.
+22986|"Ahh, si seulement je m'étais porté volontaire pour porter Maria !‖  J'aurais eu l'occasion de sentir les énormes nichons de Shannon-chan se frotter contre mon bras !"
+22991|"C-C-C-Ce n'est pas pour ça que je l'ai fait, c'est un malentendu... !"
+22996|"J-Je me disais que si je ne marchais pas comme ça, George-sama allait se faire tremper........."
+23003|"Allez, arrêtez de jacasser et rentrez !"
+23005|Pressés par Jessica, on a replié nos parapluies et on est entrés dans la maison d'hôtes.
+23016|"Quelqu'un a-t-il mouillé ses vêtements ?‖  Je peux vous apporter des serviettes si vous le souhaitez..."
+23021|"T'as pas besoin de t'inquiéter autant pour nous.‖  Merci, Shannon-chan."
+23026|"Ah, c'est vrai.‖  On avait prévu de jouer aux cartes ou quelque chose comme ça.‖  Ça te dirait de te joindre à nous un moment ?"
+23032|"Hein ?‖  C'est qui qui est de garde de nuit, dans le planning d'aujourd'hui ?"
+23038|"Je crois que nous avions un planning spécial pendant la conférence familiale.‖  Et puis, je crois qu'il y a eu quelques modifications, je vais donc aller vérifier......"
+23045|"Attends, si tu dois retourner jusqu'au manoir pour le savoir, te force pas."
+23050|"Oh, ce n'est pas la peine.‖  Je peux me renseigner à la salle des domestiques de la maison d'hôtes.‖  ...Veuillez m'excuser un petit instant."
+23054|Shannon-chan s'est rapidement inclinée et est entrée dans la salle des domestiques de la maison d'hôtes.
+23059|Nous autres, on est allés dans la chambre des cousins et on a décidé de mettre Maria au lit pour le moment.
+23062|Maria dormait très profondément, et rien ne laissait penser qu'elle allait ouvrir les yeux...
+23064|En attendant, on allait sortir quelques sodas du frigo de la chambre et les boire en jouant aux cartes ou un truc du genre...
+23080|"......Oh,‖ Kanon-kun ?‖  Et vous êtes là aussi, Genji-sama.‖  ...Qu'en est-il du service de nuit de ce soir... ?"
+23085|"............Krauss-sama a donné un ordre.‖  Il a apporté des changements considérables au planning."
+23091|"......En effet.‖  Gohda-san est désormais de service de nuit au manoir.‖  Shannon et Kanon sont de service de nuit à la maison d'hôtes.‖  Kumasawa-san et moi avons reçu l'ordre de dormir à la maison d'hôtes...‖  À l'instant, un coup de téléphone nous a appris qu'une fois arrivée, tu devais toi aussi rester ici pour le reste de la nuit."
+23097|"Hein... ?‖  C-C'est effectivement un changement considérable...‖  Les services de la maison d'hôtes et du manoir ont été complètement inversés, n'est-ce pas... ?"
+23102|À l'origine, Shannon et Kanon devaient assurer le service de nuit au manoir, tandis que le service de nuit à la maison d'hôtes, où logeait toute la famille, avait été confié à Gohda, qui avait une grande expérience de l'accueil des invités.
+23106|Kumasawa aurait dû dormir à la maison d'hôtes, et Genji au manoir.
+23107|Cependant, il semblait que Krauss avait soudain ordonné de modifier le planning.
+23110|......Les services de la maison d'hôtes et du manoir avaient tous été inversés, et Genji passait la nuit à la maison d'hôtes.
+23116|"............C'est sans doute à cause de la lettre de Beatrice-sama."
+23121|"...Pourquoi sans doute ?"
+23126|"...Après l'apparition d'une lettre aussi mystérieuse, il était tout naturel que Krauss-sama soupçonne l'un d'entre nous.‖  .........Nous servons directement le Maître, alors Krauss-sama a fait de son mieux pour nous tenir éloignés de la conférence familiale."
+23131|Genji, Shannon et Kanon avaient tous le droit de porter le blason de la famille Ushiromiya, l'`Aigle à une aile', en tant que domestiques au service direct de Kinzo.
+23135|Bien sûr, puisqu'ils travaillaient pour la famille Ushiromiya, ils devaient obéir aux ordres de chacun, mais leur seul patron était Kinzo.
+23136|Comme seul Kinzo détenait le droit de les employer, même Krauss ne pouvait pas les congédier de son propre chef.
+23139|De ce fait, Krauss et les autres voyaient souvent ces domestiques comme les sbires de Kinzo et les tenaient à l'écart.
+23142|Et de fait, Kinzo laissait rarement quiconque d'autre qu'eux entrer dans son bureau.
+23143|Ce soudain changement de service était probablement l'expression manifeste de la méfiance que cela avait engendrée.
+23146|Vu le temps qu'il restait à vivre à Kinzo, ce serait assurément la dernière conférence familiale avant que la question de l'héritage ne se pose.
+23148|Et par-dessus le marché, cette mystérieuse lettre prétendument signée Beatrice était tombée du ciel.
+23151|Krauss tenait assurément à tenir les fidèles de Kinzo à l'écart d'une discussion aussi délicate et importante...
+23156|"......Si vous voulez bien m'excuser, je vais me reposer.‖  ...S'il se passe quoi que ce soit, appelez-moi immédiatement.
+23159| Notre invité de ce soir est ‖~ib~un cas particulier~ib~‖, après tout."
+23168|""Oui, bien sûr, Genji-sama.""
+23172|Genji leur rendit leur signe de tête, passa derrière un paravent, ôta sa veste et commença lentement à se détendre après une journée de tension...
+23178|".........Ceux qui viennent de rentrer, c'étaient les enfants... ?"
+23182|"Oui.‖  Les autres membres de la famille tiennent une conférence au manoir.‖  On aurait dit qu'elle allait s'éterniser..."
+23186|"......Alors on est tranquilles.‖  Il est déjà tard, et avec ce temps...‖  Le reste de la famille passera sans doute la nuit dans ses chambres au manoir."
+23191|"Oui, sans doute...‖  Je ne le dis que parce que Genji-sama n'est pas là, 
+23192|mais je suis un peu contente d'avoir été envoyée à la maison d'hôtes......enfin, je crois..."
+23196|"Oh... ?‖  Pourquoi donc ?‖  Parce que tu peux te tenir loin de Madame et d'Eva-sama, ces tyrans ?‖  ...Ou bien tu as une autre raison ?"
+23201|"...C-Ce n'est pas comme si j'avais...
+23202|...u-une autre raison... !"
+23206|".........Je vois.‖  Alors faisons de notre mieux ensemble pour ce service de nuit.‖  Je compte sur toi, Nee-san."
+23210|"Ah, ......euh.........‖  À l'instant, on m'a demandé d'aller dans la chambre des enfants pour jouer avec eux..."
+23214|Shannon baissa la tête d'un air contrit, ...regardant Kanon avec hésitation.
+23215|Kanon ne chercha pas à croiser son regard et répondit sèchement en soupirant.
+23216|Visiblement, il n'avait pas l'intention de céder aux caprices de sa `sœur'.
+23220|"............C'est non.‖  Tu as été affectée au service de nuit.‖  ...De plus, des meubles comme nous n'ont pas à répondre à une invitation à jouer.‖  ...Tu comprends, n'est-ce pas ?"
+23225|"O-Oui, je comprends.‖  .........Nnnn."
+23226|Les épaules de Shannon s'affaissèrent légèrement.
+23229|...Elle s'attendait déjà à ce que Kanon, à cheval sur le règlement, dise quelque chose de ce genre, mais elle semblait tout de même un peu découragée.
+23232|Tout en feuilletant un registre, Kanon parla sans se tourner vers Shannon.
+23236|"............Ça veut dire que les enfants vont t'attendre.‖  Il faudra que tu t'excuses et que tu leur dises que tu es de service de nuit et que tu ne pourras pas rester avec eux.‖  ......Vas-y, et reviens."
+23240|"Hein, .........ah, oui !‖  Je vais m'excuser et je reviens..."
+23242|Shannon se leva précipitamment avant que son frère ne change d'avis et, après une rapide révérence, quitta en coup de vent la salle des domestiques......
+23248|En la regardant partir, Kanon prit une grande inspiration...
+23249|La voix de Genji s'éleva de derrière le paravent.
+23253|"......Kanon,‖ ......je serai là, tu peux y aller toi aussi."
+23256|"Genji-sama, ‖......seule Shannon a été appelée.‖  Ce n'est pas comme si l'on m'avait invité..."
+23259|"C'est seulement parce que tu n'étais pas là à ce moment-là.‖  Si tu l'avais été, tu aurais été invité toi aussi.‖  ......Il est bon de jouer comme un enfant de temps en temps."
+23261|".........‖...Non, je n'ai pas besoin de cela.‖  ...Les enfants des humains ont peut-être besoin de jouer,‖ ...mais nous, nous sommes...des meubles."
+23264|"...............Vraiment ?"
+23270|"......Nee-san aussi est...
+23271|un meuble.‖  ...Même si elle fait semblant d'être une personne, 
+23272|...elle n'en souffrira que davantage plus tard.‖  ...Je le comprends, alors j'essaie simplement de ne pas trop m'attacher aux gens, c'est tout."
+23274|Genji n'ajouta rien.
+23277|......Au bout d'un moment, il se leva, prépara du chocolat en poudre avec une bouilloire d'eau chaude et en servit aussi à Kanon.
+23290|"Sans déconner ?!?!‖  J'en avais aucune idée... !!"
+23295|"Crétin, tu parles trop fort !‖  Tu vas réveiller Maria !"
+23297|Battler était si surpris qu'il avait crié bruyamment et éparpillé ses cartes partout.
+23299|Sa voix fit se retourner Maria une fois, mais elle retomba vite dans un profond sommeil...
+23302|Jessica lui donna un coup de coude, et il baissa la voix.
+23307|"N'empêche, sérieux, ...maintenant que tu le dis, y avait vraiment ce genre d'ambiance entre eux, hein... ?‖  ......Haah, je comprends mieux, alors George-aniki est..."
+23313|George n'était visible nulle part dans la pièce.
+23314|Un peu plus tôt, quand Shannon était entrée dans la chambre, George avait soudain déclaré qu'il avait oublié quelque chose au manoir et qu'il devait retourner le chercher.
+23317|Shannon avait dit qu'elle allait le guider, comme elle l'avait fait sur le chemin de la maison d'hôtes, et ils étaient partis ensemble.
+23322|"......Bah, en fait, y a des signes depuis un moment déjà.‖  Tu vois, des questions sur ses passe-temps, ce qu'elle aime.‖  J'ai toujours trouvé que c'était un peu trop pour un simple intérêt passager, ...et regarde où on en est !"
+23326|"Maintenant que j'y pense, j'ai l'impression que George-aniki a toujours été hyper gentil avec Shannon-chan......‖  Je comprends mieux..."
+23352|"D'après la météo, ce sera au pire cette nuit.‖  Et il semblerait que ça dure toute la journée de demain, même si ça devrait s'arranger un peu."
+23358|"...Vraiment ?‖  Alors, le bateau n'arrivera peut-être pas avant après-demain......‖  ...J'espère que cela ne gênera pas votre travail lundi..."
+23363|"Ha ha ha, je savais déjà que le typhon allait arriver.‖  Par précaution, je me suis arrangé pour n'avoir rien de prévu lundi, donc ça va.‖  ...Ça ne se voit peut-être pas, mais je suis vraiment du genre à planifier mon emploi du temps à l'avance."
+23367|George bomba le torse, l'air fier.
+23370|Comparé à l'air posé qu'il affichait toujours en tant qu'aîné des cousins, George ressemblait à présent, de façon amusante, à un petit garçon.
+23373|Shannon pouffa devant ce contraste soudain.
+23379|"Rien d'étonnant à ce que vous soyez si prévoyant, vous qui ferez un jour prospérer votre entreprise."
+23384|"...Eh bien, faire prospérer une entreprise est un travail vraiment difficile.‖  L'argent n'est pas la seule chose qui compte.‖  C'est ce que j'ai bien appris auprès de mon père.‖  Faire prospérer une entreprise, c'est comme posséder un château et commander ses vassaux."
+23389|"Mon père adore lire des livres sur les grands chefs de guerre de l'époque Sengoku, une passion sans doute influencée par le fait qu'il porte le même prénom que Toyotomi Hideyoshi.‖  Une bonne partie de sa philosophie de gestion vient de ce qu'il en raconte.‖  ...Tu savais ?‖  Takeda Shingen, qui était redouté comme le chef de la cavalerie la plus puissante de l'époque Sengoku, avait au départ des troupes complètement désorganisées...et il n'avait pas l'autorité nécessaire pour bien les employer."
+23395|"C'est vrai ?‖  C'est un peu inattendu."
+23399|"Pour unifier ses troupes, Shingen a fait preuve de grandes qualités de chef de bien des manières.‖  Par exemple, quand un soldat s'illustrait au combat, il l'honorait aussitôt d'une décoration.‖  Normalement, ce genre de chose était remis à après la guerre, et on les décernait toutes d'un coup."
+23403|"Il a poursuivi cette pratique avec assiduité sur le champ de bataille,‖ et le fait de montrer immédiatement sa reconnaissance pour les exploits militaires de ses troupes les motivait considérablement.‖  Aussi, chaque fois que l'un de ses hommes tombait malade, il était le premier à accourir pour le soigner, et ainsi de suite.‖  ...Takeda Shingen n'était pas seulement l'homme qui commandait la cavalerie la plus puissante de l'époque Sengoku.‖  C'était celui qui prenait le plus soin de ses troupes de toute cette ère."
+23407|"......Et c'est parce qu'il était comme ça que toutes ses troupes le suivaient."
+23411|En vérité, Shannon avait déjà entendu cette histoire il y a plusieurs années.
+23412|...Mais chaque fois qu'une discussion sur son père menait à ce genre de sujet, George s'illuminait toujours et semblait s'amuser énormément.
+23415|Alors Shannon se contentait de sourire sans l'interrompre, l'invitant à poursuivre.
+23419|"Bien sûr, dans un monde capitaliste, l'argent détermine à la fois ta puissance et la hauteur de tes fortifications.‖  Mais on ne peut pas bâtir un château ni gagner une guerre tout seul.‖  Ce genre de choses ne s'accomplit qu'avec le soutien de nombreux subordonnés, en leur empruntant leur force.
+23424|  ......Depuis que j'ai compris ça, quand je regarde le dos de mon père, je mesure à quel point je suis immature.‖  Je vois clairement combien de rivaux il a dû surmonter avant de bâtir tout ce qu'il possède aujourd'hui."
+23428|"George-sama, vous admirez vraiment votre père...‖  Je vous envie."
+23432|"A-Ah, pardon, ...ce n'est pas ce que je voulais dire."
+23437|"J-Je suis désolée, ...ce n'est pas non plus ce que je voulais dire......"
+23438|Tous deux baissèrent les yeux sur leurs pieds, gênés.
+23443|Shannon n'avait pas de parents.
+23444|Elle avait été élevée dans un orphelinat appartenant à Kinzo, la maison Fukuin (福音).
+23449|Sous la direction de Kinzo, son directeur honoraire, l'orphelinat offrait aux pensionnaires les plus méritants la possibilité de faire leurs premières armes comme domestiques.
+23450|Si leurs efforts recevaient l'approbation de Kinzo, ils pouvaient quitter l'orphelinat et travailler comme domestiques pour la famille Ushiromiya.
+23453|...C'était considéré comme le plus grand des honneurs pour ceux qui vivaient à l'orphelinat.
+23455|Les domestiques issus de la maison Fukuin prenaient tous, durant leur service, un nom comportant le caractère `on' (音).
+23465|`Shannon' (紗音) n'était donc pas son vrai nom.
+23466|Il en allait de même pour `Kanon' (嘉音).
+23470|Tous les membres de la maison Fukuin étaient orphelins.
+23471|Du moins, tous avaient été séparés de leurs parents dans des circonstances particulières.
+23475|......C'est pourquoi on avait appris aux orphelins à se considérer les uns les autres comme leur seule famille.
+23476|Voilà pourquoi il semblait si naturel à tous les deux que Kanon appelle Shannon sa sœur.
+23480|Et si Shannon comme Kanon travaillaient au manoir ce jour-là, ‖il y avait plusieurs autres domestiques portant le caractère `音' dans leur nom, comme Manon (眞音) et Lenon (恋音), qui travaillaient souvent par roulement.
+23483|...Cependant, peu de domestiques restaient longtemps au service de la famille Ushiromiya.
+23484|Il était d'usage qu'ils démissionnent au bout de trois ans.
+23487|On pouvait donc sans doute dire que Shannon, qui travaillait là depuis dix ans, faisait figure d'exception notable.
+23489|Travailler comme domestique pour la famille Ushiromiya était un lourd fardeau, mais la paie n'était pas mauvaise du tout.
+23492|Trois années complètes de travail rapportaient plus que ce qu'il fallait pour s'insérer dans la société.
+23495|C'est pourquoi, même en sachant à quel point servir la famille Ushiromiya était une tâche éprouvante, les orphelins espéraient tout de même être acceptés.
+23501|Peut-être que si Shannon avait réussi à travailler dix ans...ce n'était pas parce qu'elle avait plus de volonté que les autres domestiques.
+23504|Peut-être était-elle restée coincée là dix ans parce qu'elle n'avait pas le courage de dire qu'elle voulait partir.
+23507|Kinzo ne pouvait même pas se fier à ses propres parents par le sang, et ces `excellents' domestiques envoyés par la maison Fukuin étaient les seuls sur qui il pouvait compter.
+23510|C'est pourquoi Kinzo les autorisait parfois à porter le blason de la famille, en tant que domestiques placés sous son autorité directe, et les faisait travailler à ses côtés...
+23516|"......Euh, ......dis, ça fait bientôt dix ans que tu travailles ici, c'est ça ?‖  Tu dois avoir mis beaucoup d'argent de côté, depuis le temps."
+23520|"Je me le demande...‖  Ce n'est pas comme s'il y avait quelque chose de particulier que j'aimerais acheter...‖  Après tout, quelques millions de yens ne suffisent pas à vivre le reste de sa vie..."
+23524|"Alors, si tu as travaillé tout ce temps, ce n'était pas pour atteindre une certaine somme ?"
+23528|".........O-Oui, c'est cela.‖  ......Je n'ai nulle part où aller en dehors de ce manoir.‖  ......Et je m'entends bien avec Mademoiselle et les autres jeunes domestiques...‖  ...Madame me gronde parfois, ......mais m'occuper des roses et faire le ménage du manoir, c'est amusant..."
+23533|"Mais ta vie ne peut pas se résumer à ça, Shannon-chan...
+23534|non, Sayo(紗代)-chan."
+23539|"......Euh..."
+23540|Shannon baissa les yeux en entendant son vrai nom...
+23541|Elle comprenait ce que George essayait de lui dire, et se tut.
+23544|"Il y a une chose que j'ai apprise en continuant d'étudier, même après être devenu adulte et membre à part entière de la société.‖  ......La vie d'un être humain n'est ni aussi monotone ni aussi courte qu'on le croyait quand on était enfants."
+23546|Tous les écoliers ont certaines peurs dont ils n'arrivent pas à se défaire.
+23549|......Ils se demandent s'ils passeront le reste de leur vie comme ces cours somnolents au bout d'une journée d'école monotone et ennuyeuse,‖ à traîner dans une paresse insouciante sans que rien d'intéressant n'arrive, jusqu'à ce que tout soit fini...
+23551|Mais la vie n'est ainsi que pour les élèves mineurs.
+23554|Comparé à la vie d'un être humain, le temps passé sur les bancs de l'école n'est qu'un clin d'œil, une période pendant laquelle on brise la coquille de son immaturité.
+23557|L'intérieur de la coquille est peut-être un monde étouffant, brûlant et ennuyeux,‖ mais le monde au-delà de cette coquille est vaste et rempli de possibilités infinies.
+23561|"Jusqu'ici, ta vie est restée enfermée dans la coquille qui s'appelle Shannon.‖  Je crois que tu t'imagines à tort que ta vie va continuer comme ça pour toujours."
+23565|"C'est......‖  ..............."
+23567|Shannon ne put nier ces paroles.
+23570|...Elle avait été incapable de nourrir le moindre doute clair sur sa façon de vivre,‖ et comme elle n'avait jamais eu ni espoir ni but pour se changer, elle avait continué paresseusement à vivre comme elle l'avait toujours fait.
+23572|...Et si on lui avait demandé si cette vie la satisfaisait,‖ ...elle n'aurait pas pu acquiescer......
+23575|Peut-être avait-elle délibérément détourné les yeux de la vérité.
+23578|...Sans les remontrances de George, elle aurait continué à faire semblant de ne pas voir sa vraie vie lui filer entre les doigts, peu à peu, à l'abandon...
+23583|"......George-sama,‖ ............est-ce...
+23584|mal de continuer à vivre...ainsi ?"
+23588|"Oui, ça l'est.
+23592|  Ah, et au fait, tu n'aurais pas enfreint une de nos règles, à l'instant ?"
+23594|George répondit aussitôt d'un ton sévère, puis afficha un sourire espiègle.
+23600|Shannon savait déjà ce qu'on lui reprochait, ...et elle baissa de nouveau la tête, visiblement gênée.
+23604|"Tu n'avais pas promis de ne pas dire `sama' quand on est tous les deux... ?"
+23608|"......J-Je ne pouvais pas m'y plier en tant que promesse.‖  ...Mais s'il s'agissait d'un ordre, je serais obligée d'obéir...‖  Parce que je suis......un meuble."
+23612|"Alors c'est un ordre."
+23618|"Euh, 
+23619|...............oui.‖  ...Bien, 
+23620|...George-san."
+23622|Shannon, la tête baissée et le visage rouge, prononça de nouveau le nom de George, en le faisant suivre cette fois de `san'...
+23627|"Oui, c'est très bien, Sayo-chan."
+23628|George sourit à Shannon...non, à Sayo...pour saluer son petit acte de bravoure.
+23635|Ce court échange suffisait à montrer combien leur relation devait remonter loin...
+23638|Longtemps, tous deux parlèrent comme si la tempête qui faisait rage autour d'eux ne les effleurait même pas.‖  Ils évoquèrent les nombreux souvenirs qu'ils avaient construits au fil de leur relation, et que personne d'autre ne connaissait.
+23641|De temps à autre, un éclair tentait de les interrompre, mais il ne pouvait souiller ni les roses ni le temps qu'ils passaient à rougir l'un devant l'autre...
+23652|"............A-Ah, c'est vrai.‖  ...Il y a quelque chose que je voulais te montrer."
+23656|"......Qu-Qu'est-ce que ça pourrait être ?"
+23659|George, qui avait parlé jusque-là avec aisance, se mit soudain à bafouiller.
+23660|En le regardant, Shannon sembla deviner quelque chose.
+23663|George fouilla timidement dans sa poche.
+23664|Quelque chose resta accroché au fond de sa poche et, tout comme George qui bafouillait, il fallut un petit moment pour l'en sortir.
+23671|C'était une toute petite boîte.‖  Une petite boîte recouverte de velours bleu profond.
+23672|...Cette forme si particulière suffisait à dire à quiconque ce qui reposait à l'intérieur.
+23679|Shannon s'était quelque peu préparée, persuadée d'avance que c'était ce qu'il avait en tête.
+23680|Mais malgré tout, quand elle la vit pour de vrai, elle ne put s'empêcher de rougir une fois de plus...
+23683|George ouvrit la petite boîte, en sortit quelque chose, ...et le tendit à Shannon.
+23687|"Je veux que tu prennes ceci."
+23691|"...J-Je, euh, ne pourrais pas accepter quelque chose d'aussi précieux... !"
+23695|"...Tu ne peux pas l'accepter... ?"
+23703|"N-Non, 
+23704|euh, 
+23705|...je suis...
+23706|indigne...
+23707|d-d'une telle chose......"
+23715|"Sayo,‖ ce n'est pas une demande.
+23719|  ...C'est un ordre.‖  Prends cette bague.‖  ...D'accord ?"
+23724|"Ah, ......u...‖  S-Si c'est un ordre, 
+23725|......je ne peux pas désobéir..."
+23729|"Oui, c'est ça.‖  ...C'est bien."
+23733|Shannon, ne voulant pas montrer son visage écarlate, accepta timidement la bague de la main de George, le regard toujours rivé au sol...
+23736|Cette bague n'était pas un simple accessoire.
+23739|C'était un objet noble, destiné depuis les temps anciens à être offert à une femme spéciale en des circonstances spéciales.
+23740|...C'est pourquoi, si George pouvait lui ordonner de la prendre, il ne pouvait rien lui ordonner au-delà.
+23743|Ce qui viendrait ensuite ne dépendrait pas d'un ordre, mais de la propre volonté de Shannon...non, de Sayo.
+23748|"Alors, à partir de maintenant, je ne te donne plus d'ordre.‖  .........Sayo,‖ je veux que tu me donnes ta réponse d'ici demain, sans employer de mots.
+23752|  ............Tu comprends ?"
+23757|"...Euh, .........c-comment dois-je......"
+23761|"Je ne te donnerai plus d'ordre, donc ce n'en est pas un, 
+23765|......mais une bague, ça se porte au doigt, après tout.‖  ......Si elle te plaît, tu n'as qu'à la mettre au doigt de ton choix."
+23768|Shannon avait seulement fait semblant de ne pas savoir.
+23769|Elle avait déjà compris ce qu'il voulait qu'elle fasse.
+23772|...Mais elle se tenait à un immense carrefour de sa vie...
+23777|"......Regarde comme il est tard.‖  On va s'arrêter là pour aujourd'hui."
+23778|George se détourna de Shannon, d'un air un tout petit peu brusque.
+23782|"Je pourrais sans doute t'ordonner de la porter à la main gauche.‖  Tu es peut-être assez timide et docile pour obéir réellement à un ordre pareil.‖  ......Mais je veux qu'au moins cette dernière étape...vienne de ta propre volonté, Sayo.‖  ...Tu comprends ?"
+23787|"......O-
+23788|Oui."
+23792|"Alors, ...c'est mon ordre.‖  .........Je veux que tu y réfléchisses bien cette nuit et que tu me montres ta réponse demain."
+23797|"..............."
+23798|Shannon acquiesça.
+23801|...Ce jour était l'aboutissement des nombreux jours qu'ils avaient passés ensemble.
+23802|...Ce moment n'était certainement pas une surprise pour Shannon...
+23806|".........On devrait bientôt rentrer à la maison d'hôtes.‖  Si on tarde encore, on va inquiéter tout le monde."
+23814|"......Oh, 
+23815|......euh...
+23816|  ...Je suis désolée, je... !‖  Euh, je viens de me rappeler que j'avais quelque chose à faire au manoir, alors, 
+23817|...euh, 
+23818|......je dois retourner au manoir..."
+23824|"À une heure pareille ?‖  .........C'est vrai, ça ?"
+23825|George dévisagea Shannon en riant d'un air espiègle.
+23826|Il avait clairement percé à jour le mensonge de Shannon.
+23828|...Cependant, en voyant ce qu'elle ressentait, ‖il pouvait à peu près comprendre qu'elle soit si gênée qu'elle ait envie d'être seule.
+23831|Aussi, parce que George avait saisi le sens du mensonge de Shannon, il l'accepta.
+23861|Shannon entra dans le hall d'entrée du manoir d'un pas chancelant.
+23863|Un mélange d'exaltation et d'incertitude lui procurait un sentiment difficile à décrire.  Il enflait dans sa poitrine au point qu'elle avait l'impression d'être sur le point d'éclater.
+23866|Après s'être arrêtée un instant devant la salle des domestiques pour prendre une grande inspiration et apaiser son cœur, elle ouvrit la porte.
+23871|À l'intérieur, Gohda, qui avait reçu l'ordre d'assurer le service de nuit au manoir ce soir, était absorbé par un vieux magazine de mots croisés tout usé.
+23874|Il leva un instant les yeux pour voir si un membre de la famille était venu, mais quand il vit que c'était une collègue, il retourna à ses mots croisés comme si de rien n'était.
+23879|"......Euh,
+23880| ...Genji-sama m'a dit de venir vous aider."
+23884|"Ah, vraiment... ?‖  Voilà qui me soulage.‖  J'allais justement vérifier que le manoir était bien fermé à clé, mais je n'étais pas tranquille à l'idée de laisser cette pièce sans personne.‖  Après tout, la réunion de Krauss-sama et des autres a l'air partie pour durer un bon moment.‖  Ils pourraient demander du thé à tout instant."
+23888|"C'est vrai...‖  Alors, comment faisons-nous... ?  Dois-je surveiller-"
+23892|"Dans ce cas, pardonnez-moi, Shannon-san, mais je vous demanderai de faire la ronde du manoir.‖  Je reste ici, à attendre les ordres de la famille."
+23896|"...O-Oui..."
+23898|...Shannon était légèrement écœurée.
+23901|Alors qu'elle était venue ici pour aider, par pure gentillesse, on lui imposait sans façon le travail de la personne effectivement de service.
+23907|Qui plus est, après lui avoir imposé cette tâche sans lui demander son avis, Gohda retourna à son magazine et se replongea dans ses mots croisés.
+23913|Shannon inclina la tête en signe de respect de pure forme envers son aîné, puis quitta la pièce pour faire la ronde du manoir.
+23916|Grâce à son léger agacement, elle parvint à réprimer la sensation de flotter qu'elle éprouvait jusqu'à présent.
+23920|Et de toute façon, elle ne pouvait pas se laisser voir ainsi par Genji ou Kanon.
+23921|Elle voulait un peu de temps pour elle jusqu'à ce que son cœur se calme, alors faire la ronde n'était peut-être pas si mal...
+23926|Elle commença à entendre les voix tumultueuses de la discussion familiale qui provenaient de la salle à manger.
+23928|Quelqu'un parlait très longuement, pour se faire interrompre par quelqu'un d'autre.‖  Cette deuxième personne se mettait à son tour à parler très longuement, jusqu'à ce qu'une autre encore l'interrompe.
+23933|Et cela se répétait sans fin.
+23934|C'était comme si leur mécontentement suintait à travers leurs voix.
+23937|On lui avait dit d'aller à la maison d'hôtes, ce serait donc fâcheux que Krauss la découvre.
+23938|Sur cette pensée, Shannon passa en hâte devant la salle à manger.
+23940|Puis elle suivit un itinéraire établi à travers le manoir plongé dans l'obscurité, vérifiant que toutes les serrures étaient bien fermées.
+23945|Elle avança dans le couloir, vérifiant chaque fenêtre.
+23947|Il n'y avait personne sur Rokkenjima en dehors des gens liés à la famille, si bien que fermer à clé ne servait pas à grand-chose.
+23950|Personne n'avait l'habitude de fermer à clé chez la famille principale Ushiromiya, du moins pas jusqu'à ce que Natsuhi les réprimande pour leur négligence.
+23954|Les ferrures des fenêtres étaient glacées, et à mesure qu'elle les vérifiait une à une, la chaleur dans son cœur semblait se refroidir.
+23956|"..................?"
+23968|C'est alors qu'elle crut voir quelque chose scintiller à l'autre bout du couloir.
+23972|......Scintiller ?
+23973|Comment quelque chose pourrait-il scintiller dans l'obscurité du couloir... ?
+23978|Elle se dit qu'elle avait dû l'imaginer, mais retint tout de même son souffle.‖  Agrippant un rideau, elle scruta craintivement le couloir......
+23980|Mais en dehors des coups de tonnerre qui illuminaient de temps à autre le couloir, elle ne put plus apercevoir le moindre scintillement.
+23983|...Ce devait être son imagination, finalement.
+23984|Peut-être que son cœur était si agité qu'elle avait vu quelque chose qui n'existait même pas.
+23987|Shannon reprit la vérification des fenêtres...
+23988|Cependant, un souvenir troublant ressurgit au fond de son esprit.
+23992|...C'était cette histoire de fantôme...qui se transmettait parmi les domestiques au service de la famille principale Ushiromiya.
+23995|Le manoir avait deux Maîtres différents, celui du Jour et celui de la Nuit.‖  ...Beatrice, la Maîtresse de la nuit, volait parfois à travers le manoir sous la forme de papillons scintillants.‖  Voilà ce que disait l'histoire.
+23999|...Maintenant que j'y pense, Kanon-kun n'avait-il pas dit un jour l'avoir vu de ses propres yeux...... ?
+24000|Il avait boudé quand je lui avais dit qu'il avait dû l'imaginer, et que j'avais refusé de le croire...
+24004|......Se pourrait-il...que ce soit vrai... ?
+24006|Le grondement du tonnerre ne donna aucune réponse...
+24125|Genji resserra son nœud papillon et regarda dehors par l'entrebâillement des rideaux.
+24127|La pluie avait peut-être un tout petit peu faibli depuis la veille au soir.
+24129|...Mais les épais nuages de pluie ne semblaient pas près de laisser filtrer la moindre trace du soleil matinal.
+24132|La matinée était sombre et loin d'être rafraîchissante.
+24137|".........On dirait que cela va durer toute la journée, finalement."
+24142|"Désolé de vous avoir fait attendre, Genji-sama."
+24145|Kanon termina de vérifier sa tenue et sortit du cabinet de toilette.
+24147|En temps normal, il était rare que quiconque doive enchaîner directement un service de nuit avec un service du petit matin.
+24149|Ils suivaient un planning spécial pour les deux jours de la conférence familiale.
+24153|Cependant, à moins que le typhon ne passe aujourd'hui, le séjour de la famille sur l'île durerait jusqu'à demain.
+24154|Kanon jugea préférable de se préparer à ce que ce planning spécial dure un jour de plus.
+24165|Tous deux quittèrent la maison d'hôtes en ouvrant leurs parapluies.
+24166|La roseraie avait été dévastée par le vent et la pluie de la nuit précédente.
+24168|Alors qu'ils avaient passé plusieurs jours à l'embellir pour accueillir les invités, une seule nuit de tempête avait suffi à la ruiner.
+24171|Kanon soupira.
+24177|Tous deux se dirigèrent vers le manoir.
+24178|Ils devaient retrouver Gohda pour préparer le petit déjeuner.
+24181|Gohda était si perfectionniste qu'il était sans doute déjà levé, et sans doute déjà en train de préparer un petit déjeuner aussi raffiné et élégant qu'une pièce de cristallerie.
+24188|Ils atteignirent l'auvent de l'entrée du manoir et replièrent leurs parapluies.
+24189|Genji sortit de sa poche un trousseau de plusieurs clés et déverrouilla la porte d'entrée.
+24195|Le manoir de la famille Ushiromiya était la seule construction de Rokkenjima, aussi n'avait-on pas, autrefois, l'habitude de fermer à clé.
+24196|Cependant, Natsuhi avait ordonné que le manoir soit fermé à clé de minuit au petit matin.
+24204|Depuis lors, déverrouiller la porte au petit matin faisait partie du service du matin des domestiques.
+24207|Cette tâche avait été confiée à Genji et Kanon, afin que Gohda puisse commencer à préparer le petit déjeuner dès son réveil.
+24209|Le silence régnait sur le manoir, donnant l'impression que le manoir lui-même dormait encore.
+24213|".........Bien, commençons les tâches du matin."
+24217|"Oui, monsieur."
+24222|Tous deux se séparèrent et entreprirent d'ouvrir les rideaux dans tout le manoir.
+24225|...Si les rideaux restaient fermés, le manoir demeurerait enveloppé d'une faible obscurité, comme s'il était encore prisonnier de la nuit précédente.
+24230|Suivant une procédure bien rodée, Kanon fit le tour du manoir, ouvrant les rideaux d'une fenêtre après l'autre sans jamais avoir à revenir sur ses pas.
+24233|Même par ce temps épouvantable, tirer les rideaux donnait un tout petit peu l'impression que c'était le matin.
+24238|Ce faisant, il passa devant la cuisine.
+24241|...Bien qu'il n'eût encore rien senti, son estomac se mit à réclamer un peu de la fameuse cuisine de Gohda.
+24247|".........Bonjour.
+24251|  ...............?"
+24253|Il tenta de saluer Gohda, qui aurait dû être en train de préparer le petit déjeuner, mais Gohda n'était nulle part.
+24258|La cuisine était plongée dans la pénombre ; non seulement les rideaux n'étaient pas ouverts, mais la hotte ne tournait même pas.
+24259|Il y faisait encore froid, sans la moindre trace d'un feu allumé, et bien entendu, aucun signe non plus de préparation du petit déjeuner.
+24261|...Même si c'eût été impardonnable, peut-être Gohda ne s'était-il pas réveillé.
+24264|Même les domestiques ne sont que des êtres humains.
+24265|Il leur arrive de faire la grasse matinée et d'arriver en retard.
+24268|...Dans les rares cas où cela se produit, le code du domestique veut qu'on dissimule ce spectacle disgracieux avant que quiconque ne le remarque, qu'on le couvre en douceur, ‖et qu'on s'assure que la famille ne se rende même jamais compte que quelque chose a cloché.
+24272|Kanon décrocha le combiné du téléphone fixé au mur et composa le numéro de la ligne intérieure du dortoir des domestiques.
+24275|"..................?"
+24277|......Il n'entendait pas la tonalité caractéristique.
+24279|Kanon essaya de raccrocher et de décrocher à nouveau, mais il n'entendait toujours pas la tonalité habituelle.
+24282|Il tenta de recomposer le numéro, sans effet apparent.
+24286|......La foudre de la nuit dernière avait-elle endommagé un appareil, coupant la ligne intérieure ?
+24288|Les équipements de ce manoir étaient tous vétustes.
+24290|Kanon savait parfaitement que la moindre chose aurait pu provoquer une panne.
+24293|Il renonça à réveiller Gohda par téléphone et se précipita vers le dortoir des domestiques.
+24307|...Depuis combien de temps ai-je cessé de dormir pour fixer paresseusement le plafond ?
+24308|......Ce vague sentiment d'éveil faisait partie des matins habituels de Natsuhi.
+24311|Elle avait toujours le sommeil léger, et ne pouvait pas dormir du tout sans médicament.
+24312|...Pour Natsuhi, le sommeil n'avait assurément rien d'heureux.
+24314|En regardant dehors, elle vit qu'il pleuvait toujours à verse.
+24316|Si elle n'avait pas perçu une infime lueur, elle aurait pu croire à tort qu'on était encore la nuit précédente.
+24318|...Elle était elle-même l'une des hôtes, elle ne devait donc pas se lever plus tard que ses invités.
+24321|S'exhortant à se lever, elle redressa son corps, qui ne s'était pas encore tout à fait remis de la lassitude de la veille.
+24326|Personne ne la tourmenterait tant qu'elle resterait dans cette chambre.
+24327|Et son mal de tête ne s'aggraverait pas ici.
+24329|......Cette chambre était le seul endroit où elle pouvait trouver la paix.
+24332|La quitter signifiait donc retourner dans le monde où les frère et sœurs de son mari ne cessaient de chercher à se poignarder dans le dos.
+24334|...Dans ce cas, ne vaudrait-il pas mieux rester enfermée dans cette chambre pour toujours... ?
+24337|Cette idée ridicule arracha un sourire amer à Natsuhi.
+24338|...Elle commençait à parler comme Kinzo.
+24342|...Bien qu'elle se plaignît souvent que Kinzo reste enfermé dans sa chambre en refusant de s'occuper des autres, la vérité, c'est qu'elle rêvait de faire de même.
+24345|......Natsuhi secoua légèrement la tête, et sa rêverie céda la place au réveil de son habituel mal de tête.
+24353|Quand elle tendit la main vers la poignée pour quitter la chambre, celle-ci toucha le porte-bonheur en forme de scorpion qu'elle y avait accroché avant d'aller se coucher la veille.
+24356|...C'était le porte-bonheur de Maria, que Natsuhi avait reçu de Jessica.
+24360|Jessica n'avait-elle pas dit qu'il avait le pouvoir de repousser la magie, en lui conseillant de l'accrocher à la poignée de sa porte ?
+24363|...Peut-être était-ce grâce à ce porte-bonheur que cette chambre, au moins, avait été protégée de la malveillance des frère et sœurs de son mari.
+24365|......À cette pensée, son humeur commença à s'égayer un peu.
+24368|"............Est-ce Jessica que je dois remercier...pour ce peu de sommeil paisible que j'ai pu trouver..."
+24371|Puis Natsuhi se souvint.
+24372|C'est vrai, hier soir, j'ai promis à Jessica de lui donner l'un de mes porte-bonheur en échange de celui-ci, n'est-ce pas ?
+24376|Natsuhi ouvrit un tiroir de sa coiffeuse et en sortit un ancien coffret à bijoux qu'elle chérissait quand elle était enfant.
+24378|À l'intérieur se trouvaient de nombreux petits objets que Natsuhi jugeait précieux à l'époque.
+24382|Parmi eux, elle sortit une petite bourse rouge.
+24383|...À l'intérieur se trouvait un petit miroir rond d'environ 10 cm de diamètre.
+24385|Il paraissait très ancien, mais le motif au dos du miroir était très ouvragé, et il donnait l'impression d'un objet ayant une valeur historique.
+24388|À tout le moins, il semblait bien plus authentique que l'autre porte-bonheur, qui ressemblait à un porte-clés en forme de scorpion en plastique.
+24390|On lui avait dit que c'était un miroir sacré servant à repousser les mauvais esprits, et sa Grand-mère le lui avait tout spécialement offert lors du partage des souvenirs de son Grand-père.
+24393|On croyait depuis longtemps qu'un étrange pouvoir résidait dans ce miroir.
+24394|Peut-être pensait-on qu'il pouvait réfléchir le malheur et la malveillance de la même façon qu'il réfléchissait la lumière.
+24399|Natsuhi remit le miroir dans sa bourse.
+24400|...Ce serait sans doute un objet digne d'être remis à Jessica.
+24408|Au moment où elle le glissait dans sa poche, quelqu'un frappa soudain à la porte, et le bruit résonna dans toute la chambre.
+24413|".........Oui ?"
+24414|"Bonjour, Madame, c'est Genji.‖  Veuillez m'excuser de vous réveiller de si bonne heure."
+24415|"...J'arrive.‖  Qu'y a-t-il ?"
+24419|Jamais un domestique n'était venu la trouver d'aussi bon matin, ni venu la réveiller en personne.
+24421|...Peut-être s'était-il produit quelque chose de fâcheux.
+24424|Peut-être avait-on commis une erreur fatale en préparant le petit déjeuner, quelque chose qui ferait honte à la maisonnée devant les invités.
+24427|...Natsuhi prit une profonde inspiration, se préparant aux ennuis dont elle allait entendre parler...
+24435|Quand elle ouvrit la porte, Genji la salua de nouveau en s'inclinant profondément.
+24436|Natsuhi lui répondit avec hésitation.
+24440|".........Bonjour.‖  S'est-il passé quelque chose ?"
+24444|"Veuillez m'excuser.‖  .........Il semblerait que les téléphones soient tombés en panne à cause de la foudre de cette nuit.‖  ...La ligne intérieure ne fonctionne pas, aussi pardonnez-moi d'être venu vous voir directement."
+24448|"La ligne intérieure ne fonctionne pas ?‖  Voilà qui est fâcheux.‖  Pourra-t-on la réparer ?"
+24452|"......Je crains que nous ne sachions pas où se situe la panne.‖  Plus tard, je souhaiterais faire venir un spécialiste pour la réparer."
+24456|"Cela signifie-t-il que nous ne pourrons pas la faire réparer avant que le typhon soit passé ?‖  ...Elle restera donc en panne pendant tout le séjour de nos invités.‖  ...Cela gênera-t-il nos efforts pour nous occuper d'eux ?"
+24460|"............Nous ferons tout notre possible pour qu'il n'y ait aucun problème."
+24464|"Fort bien.‖  ...Je compte sur vous pour qu'il n'y ait aucune bévue."
+24467|Natsuhi poussa un léger soupir de soulagement.
+24469|Elle s'était préparée au pire,‖ mais une panne de téléphone n'était pas le genre d'ennui qu'elle redoutait.
+24472|...Cela dit, même cela suffirait sans doute à déclencher les sarcasmes d'Eva.
+24474|Natsuhi secoua légèrement la tête.
+24479|"Les préparatifs du petit déjeuner se déroulent-ils bien ?"
+24483|"......À ce sujet, ...nous n'avons pas réussi à trouver Gohda.‖  Les préparatifs du petit déjeuner n'ont pas encore été faits..."
+24487|"Qu'avez-vous dit ?"
+24489|Natsuhi était indignée.
+24492|Pour elle, c'était un problème bien plus grave que la panne de téléphone.
+24495|Et pourtant, c'était justement cette information-là qu'on avait gardée pour la fin.
+24499|Pourquoi tout se passait-il bien la plupart du temps, pour en arriver là précisément quand la famille était en visite... ?
+24500|Natsuhi porta la main à son front en secouant la tête.
+24505|"Enfin, je suppose qu'il ne s'est pas réveillé.‖  Quoi qu'il en soit, veillez à ce que quelqu'un se dépêche de préparer le petit déjeuner ; peu m'importe qui.
+24510|  ...............Qu-"
+24515|Natsuhi sortit dans le couloir et se retourna un instant pour fermer la porte de sa chambre.
+24516|La `chose' sinistre qu'elle y vit la réduisit complètement au silence.
+24523|...C'était un spectacle déplaisant, comme si quelqu'un avait trempé ses doigts dans un liquide d'un rouge noirâtre et griffé la porte autour de la poignée.
+24526|C'était sans doute une sorte de farce odieuse...‖montée par quelqu'un qui voulait faire croire qu'on avait tenté de forcer la porte avec des mains ensanglantées.
+24536|"...Qu-
+24537|Qu'est-ce que c'est que cette farce......?‖  C'est odieux... !"
+24541|".........Je viens moi aussi de le remarquer en venant vous appeler.‖  Je nettoierai cela plus tard."
+24545|"...P-Peut-être...
+24546|est-ce une plaisanterie vulgaire de l'un des invités.‖  ...Répugnant, vraiment répugnant... !"
+24548|Qui diable pouvait faire une farce aussi puérile et répugnante ?!
+24550|Natsuhi en avait une assez bonne idée, mais bien sûr, elle n'avait aucune preuve,‖ si bien que si elle insistait, on croirait simplement qu'elle faisait une histoire pour rien.
+24553|En fait, il vaudrait sûrement mieux faire comme si elle ne s'était même pas aperçue qu'on lui avait joué un tel tour.
+24557|Natsuhi donna l'ordre de nettoyer et se dirigea vers le salon dans un crissement de talons.
+24574|Quand Natsuhi et Genji arrivèrent au salon, Eva et Hideyoshi s'y trouvaient déjà.
+24580|".........Bonjour à tous."
+24584|"B'jour, Natsuhi-san.‖  J'ai entendu dire que Gohda-san allait nous faire le p'tit déj', lui aussi.‖  J'ai l'estomac tout excité depuis que j'suis levé.‖  Wah ha ha ha."
+24588|"Après tout, on dirait qu'il n'y a que la nourriture qu'on puisse attendre avec plaisir chez la famille principale.‖  *gloussement*gloussement*."
+24592|".........Je suis ravie de constater que vous aussi êtes de si bonne humeur de si bon matin, Eva-san."
+24594|L'air las, Natsuhi soutint le regard d'Eva, farouchement combatif malgré l'heure matinale.
+24599|C'est alors que Kanon entra au petit trot.
+24602|Après s'être incliné pour s'excuser auprès de la famille d'avoir couru dans le manoir, il aperçut Genji et lui glissa quelque chose à voix basse.
+24607|"......Kanon, ‖tu n'as toujours pas trouvé Gohda ?"
+24612|".........Veuillez m'excuser, Madame.‖  J'ai fouillé tout l'intérieur du manoir et de la maison d'hôtes, 
+24613|...mais je ne l'ai toujours pas trouvé..."
+24617|"Où diable est-il passé ?‖  ......Quoi qu'il en soit, le petit déjeuner passe avant la recherche de Gohda pour l'instant.‖  Occupe-t'en immédiatement."
+24621|".........Oui."
+24627|Kanon jeta un coup d'œil à Genji.
+24628|...Il semblait avoir autre chose à rapporter, mais ne savait pas si c'était à lui de le dire.
+24634|...Genji acquiesça et décida de faire lui-même le rapport.
+24639|"............Madame,‖ il n'y a pas que Gohda.‖  ...Votre mari aussi est introuvable."
+24643|"Mon mari ?"
+24647|"Oui.‖  Avant même de venir vous voir, je suis allé dans sa chambre pour le prévenir que le petit déjeuner n'était pas en préparation, mais je ne l'y ai pas trouvé.‖  De plus, il n'est pas le seul à manquer.‖  ......Rudolf-sama, son épouse et Rosa-sama sont introuvables."
+24651|"Pas dans la maison d'hôtes ?‖  Ni dans le manoir ?"
+24656|".........Non.‖  Ils n'étaient pas non plus dans leurs chambres de la maison d'hôtes."
+24660|En apprenant que seul Gohda manquait, elle avait supposé qu'il ne s'était pas réveillé ou qu'il traînait quelque part.‖  Cependant, maintenant qu'elle savait que plusieurs membres de la famille étaient également introuvables, elle commença à envisager les choses de façon un peu plus optimiste.
+24662|La conférence familiale de la veille s'était-elle poursuivie toute la nuit, jusqu'à maintenant ?
+24665|Si c'était le cas, ils avaient peut-être voulu se rafraîchir les idées après être restés enfermés dans une pièce étouffante,‖ et étaient partis se promener chacun de leur côté sous la pluie.
+24668|...Cette histoire de `se rafraîchir les idées' ressemblait tout à fait à ce que dirait Krauss.
+24669|Gohda avait sans doute été appelé pour les accompagner et les assister d'une façon ou d'une autre.
+24673|Gohda n'était pas homme à perdre la notion du temps.
+24674|Il devait bien comprendre que les préparatifs du petit déjeuner seraient retardés s'il ne revenait pas.
+24678|Cependant, peut-être que la conférence familiale s'était poursuivie jusqu'à cet instant même...
+24679|dans une atmosphère qui rendait difficile pour quiconque de s'éclipser.
+24682|...Oui, cette hypothèse serait tout à fait convaincante pour Natsuhi.
+24684|Elle se souvint de l'illusion qu'elle avait eue ce matin, comme si la nuit précédente ne s'était jamais achevée.‖  ...En comprenant que ce sentiment n'était pas qu'une illusion, elle poussa de nouveau un profond soupir de lassitude.
+24687|Après tout, ce banquet d'immondes vautours tournoyant autour des biens de Kinzo se poursuivait encore.
+24692|"......Peut-être discutent-ils encore de l'héritage quelque part dans le jardin, ou peut-être sur la plage.‖  ...Quoi qu'il en soit, si nous ne faisons pas revenir Gohda, nous ne pourrons jamais commencer à préparer le petit déjeuner."
+24696|"Qu'est-ce que vous dites ?‖  ...Nii-san et les autres sont encore en train de discuter... ?!"
+24699|Elle avait voulu le dire à voix basse, mais Hideyoshi l'entendit et parvint à saisir la situation.
+24705|"Nii-san et Rudolf sont vraiment coriaces.‖  Pour Rosa, c'est peut-être la jeunesse ?‖  ......Un peu après minuit, on était tous les deux si fatigués qu'on est allés se coucher,‖ mais je me souviens bien que Nii-san et les autres discutaient encore âprement à ce moment-là.‖  ......Les hommes sont vraiment pénibles quand ils s'échauffent."
+24707|Natsuhi renifla avec dédain, le visage toujours impassible.
+24712|"Kanon, cherche dehors.‖  Si tu trouves Gohda, dis-lui de revenir immédiatement pour préparer le petit déjeuner."
+24716|"......Bien."
+24721|"Natsuhi nee-san, on n'est pas sûrs qu'ils soient dehors, si ?‖  Ils pourraient aussi être dans le bureau de Père, non ?"
+24726|"...Je vois, c'est bien possible.‖  J'sais pas quelle tournure a pris leur conversation,‖ mais il est bien possible qu'ils soient passés dans le bureau de Père et qu'ils l'aient mis dans la discussion."
+24731|"......J'imagine mal Père les laisser de bon gré apporter un sujet aussi détestable dans son bureau."
+24737|"Tu crois vraiment ?‖  Bon, eh bien, on n'y peut rien.‖  Je suis désolée, Genji-san, Kanon-kun, mais pourriez-vous chercher dehors ?‖  Ce ne serait pas si étrange que Nii-san propose d'aller faire un tour dehors pour se rafraîchir les idées.‖  Même par ce temps.‖  Moi, j'irai au bureau de Père.‖  Qui sait, ils y sont peut-être bien, après tout."
+24741|"............Eva-san, je ne saurais demander à une invitée comme vous de se donner tant de peine.‖  J'irai.‖  J'en profiterai pour lui souhaiter le bonjour."
+24745|"Oh, alors je te laisse faire.‖  Même si je doute fort qu'il te rende ton salut.‖  Natsuhi nee-san, tu as toujours été en si bons termes avec Père ?"
+24749|".........J'ignore si l'on peut appeler cela ainsi, ‖mais je suis certaine d'avoir gagné sa confiance en tant qu'épouse du successeur de la famille Ushiromiya."
+24753|"Alors il te répondra au moins, j'en suis sûre, non ?‖  J'aimerais au moins prendre le petit déjeuner avec Père.‖  Tu crois que tu pourrais le convaincre de descendre se joindre à nous ?‖  ......Il a l'air de nous mépriser profondément, nous autres, mais je suis sûre qu'il t'écoutera, s'il te fait autant confiance."
+24757|"...Après avoir parlé avec tant d'assurance, si tu n'arrives pas à convaincre Père et que tu redescends seule, ‖je doute que tu puisses encore prétendre avoir gagné sa confiance.‖  *gloussement*gloussement*gloussement* !"
+24761|"............Je n'en suis pas sûre, mais je vais essayer."
+24764|Natsuhi répondit d'un air découragé.
+24765|Car, connaissant le tempérament de Kinzo, elle n'avait absolument aucune confiance en sa capacité à le faire sortir.
+24769|...Eva se moquait ouvertement d'elle, certaine que Natsuhi ne parviendrait pas à faire descendre Kinzo.
+24770|Mais malgré tout, Natsuhi perdrait la face si elle renonçait, en déclarant que c'était impossible et en laissant Eva y aller à sa place...
+24772|L'exigence mesquine et déraisonnable d'Eva fit légèrement serrer les poings à Natsuhi.
+24775|...S'en apercevant, Genji lui glissa doucement quelques mots par-dessus l'épaule.
+24781|"......Madame,‖ veuillez prendre ceci, je vous prie."
+24785|"Et ceci, c'est... ?"
+24789|Genji tendit à Natsuhi une clé dorée étincelante, au motif ouvragé.
+24790|C'était la clé du bureau de Kinzo.
+24794|Le bureau était équipé d'une serrure automatique et ne pouvait être ouvert tant que Kinzo en interdisait l'entrée.
+24795|Cependant, comme Genji jouissait tout particulièrement de la confiance de Kinzo, il était autorisé à porter une clé de cette porte...
+24799|"Mais si l'on utilise cette clé, ne serez-vous pas blâmé, vous aussi... ?"
+24802|"......Quand le Maître dort profondément, il ne suffit pas de frapper à la porte.
+24806|  ...Et il serait plus difficile de persuader le Maître de quitter sa chambre si vous deviez lui parler à travers la porte.‖  Je vous en prie, servez-vous de ceci..."
+24808|"......Genji..."
+24813|Jusqu'à présent, Natsuhi avait considéré Genji comme un domestique froid qui ne ferait rien pour elle, puisqu'il était au service direct de Kinzo.
+24815|Mais il semblait qu'elle allait devoir revoir son jugement sur lui...
+24818|Elle voulait lui exprimer sa gratitude, mais Genji lui avait déjà tourné le dos et s'éloignait dans le couloir avec Kanon.
+24821|...Mais tandis que Natsuhi les regardait partir, les paroles qu'on lui adressa dans son dos étaient narquoises.
+24826|"Bon, eh bien, tu ramènes Père avec toi, d'accord ?‖  Après tout, c'est la précieuse épouse de son fils qui le lui demande.  Je suis sûre qu'il t'écoutera.‖  *gloussement*gloussement*gloussement*‖  Nous, on est des invités, alors on va se détendre ici tranquillement."
+24830|"Arrête, Eva, tu vas trop loin.‖  Désolé, Natsuhi nee-san, mais on compte sur vous pour vous occuper de Père..."
+24832|Sans répondre, Natsuhi pivota vivement sur ses talons et quitta rapidement les lieux.
+24850|Après toute l'agitation de la veille, personne n'allait se lever tôt, c'était couru d'avance.
+24852|George-aniki, Jessica et moi, on ronflait bruyamment sur les lits de la chambre des cousins.
+24855|Mais Maria, qui s'était couchée directement sans participer, était parfaitement réveillée.

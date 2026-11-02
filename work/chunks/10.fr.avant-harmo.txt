@@ -1,0 +1,757 @@
+36930|Tout le monde s'est rassemblé autour.
+36931|Et la même expression d'effroi s'est peinte sur tous nos visages... !
+36933|C'est ça.‖  C'est écrit noir sur blanc dans l'épitaphe.
+36937|`Au premier crépuscule, offre en sacrifice les six élus de la clé.'
+36943|"Ah, ...aaahh, aucun doute.‖  Six personnes sont mortes au début !‖  Et même sur le volet où était dessiné le cercle magique...non, là où était écrit l'hébreu, ça parlait d'offrir des sacrifices... !!"
+36947|"...Uu-.‖  ...Je le dis depuis le début."
+36952|C'est ça, Maria l'avait dit dès le départ !
+36953|Juste après qu'on a découvert les six corps, quand Maria regardait la télé au salon, elle l'a dit !
+36957|`......Uu-.‖  Le coupable n'est pas humain.'
+36960|`~ib~C'est juste les sacrifices choisis par la clé.~ib~‖'
+36967|"Ça n'a rien à voir avec la cachette de l'or !!‖  C'est le mode d'emploi d'une cérémonie de résurrection, de la magie noire ou un truc du genre !‖  Après tout, cette épitaphe exige un tas de `morts' !"
+36972|"...C-C'est vrai.‖  Rien qu'en la lisant en diagonale, ça fait 6+2+5,‖ ...13 personnes qui doivent mourir... !"
+36978|"...Combien de personnes y a-t-il d'habitude sur cette île ?!"
+36983|"...Ç-Ça dépend des roulements des domestiques, mais il y a Père, mon mari, Jessica et moi.‖  Plus deux ou trois domestiques.‖  ...Hier et aujourd'hui, ils étaient cinq, mais d'ordinaire, ils ne sont pas aussi nombreux."
+36988|"Ce qui veut dire que d'habitude,‖ ...il n'y aurait pas assez de sacrifices pour accomplir cette `cérémonie'.
+36993|  ...Non, attendez.‖  ...Il y a cette rumeur comme quoi Grand-père recrutait des domestiques dans un orphelinat pour s'en servir comme sacrifices dans une cérémonie flippante..."
+36999|"Alors ça veut dire quoi ?!‖  Il a augmenté le nombre de domestiques pour augmenter le nombre de sacrifices...et il a attendu la conférence familiale annuelle, quand encore plus de monde se réunit... ?‖  ...C'est pas le seul moment de l'année où cette cérémonie pouvait avoir lieu ?!"
+37001|Quand Jessica a hurlé ça, Maria a éclaté de son rire sinistre, l'air vraiment ravie.
+37007|"......Kihihihihihihihihihihihihihihi.‖  ...Vous n'avez jamais entendu parler des gens qui font des paris pour mettre leur destin à l'épreuve ?"
+37012|Comme lancer une sandale en disant que si elle retombe à l'endroit, il fera beau demain.
+37013|...Ou dire que demain sera une bonne journée si une pièce tombe sur face.
+37016|...Il existe plein de petites superstitions de ce genre.
+37019|Parfois, quand la chance vous fuit et qu'on s'ennuie, si on lance les dés et qu'on obtient trois six, on a envie d'y voir le présage d'un miracle.
+37022|...Quand on lance une sandale, on a au pire une chance sur deux.
+37023|Même si elle retombe à l'endroit, ça ne vaut pas grand-chose.
+37026|...Mais si on lance trois dés sans y penser et qu'ils tombent tous sur six, on peut se dire que c'est un petit miracle.
+37031|"......La magie fonctionne de la même façon.‖  ...Il faut prier de tout son cœur pour un résultat extrêmement improbable.‖  ...Alors, les sentiments de toutes ces prières accumulées acquièrent un pouvoir magique et prennent forme.
+37036|  ......La magie que Grand-père essayait d'accomplir était sûrement comme ça.‖  La clé tirait les sacrifices au sort, au hasard.‖  Alors, pour réduire le risque d'être choisi lui-même, il a choisi le jour où il y avait le plus de monde sur l'île pour accomplir la cérémonie..."
+37041|"Ridicule !!‖  Tu prétends que toute cette situation a été provoquée par une simple cérémonie de je ne sais quelle magie extravagante ?!"
+37043|Natsuhi a hurlé.
+37046|...Elle ne pouvait étouffer la peur que seule une amulette au scorpion l'ait gardée saine et sauve.
+37053|......Si je n'avais pas reçu cette amulette de Jessica et que je ne l'avais pas accrochée à ma poignée de porte,‖ ...aurais-je été tuée, avec ces six-là ?!
+37056|Et le plus étrange...c'est que même si j'avais accroché l'amulette à l'intérieur de ma porte, ils n'ont pas pu franchir cette porte.
+37058|...Le coupable a remarqué l'amulette depuis l'extérieur de la porte et a renoncé à l'ouvrir.
+37062|...Un humain n'aurait pas pu s'en apercevoir.
+37063|Une amulette censée arrêter une chose qui n'était pas humaine...avait fait exactement cela... !!‖  Impossible, impossible, impossible !!!
+37072|"Mais Natsuhi-san,‖ l'épitaphe continue bel et bien de correspondre, même après ça..."
+37077|"A-Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches...‖  ...Se pourrait-il qu'il s'agisse d'Eva-sama et d'Hideyoshi-sama... ?"
+37083|"......Aussi douloureux que ce soit, ...nous devons en arriver à cette conclusion.‖  ...Et après les avoir tués, le coupable a laissé là-bas les mots du `troisième crépuscule' dans une lettre."
+37088|"C-C'est ça...‖  Après avoir accompli le deuxième crépuscule, ils ont laissé le troisième crépuscule sur place.‖  ...Le troisième crépuscule, c'était...exactement ce que Tante Natsuhi vient de lire... !!"
+37093|`Au troisième crépuscule, ceux qui restent loueront mon noble nom.'
+37096|Aaaaaaaaaahhh, ...si on le lit comme ça, ça continue encore et encore, hein ?
+37100|`Au quatrième crépuscule, transperce la tête et tue.'
+37103|Transperce la tête et tue.
+37105|...Les parents d'Aniki George ont été tués avec ces `pics à glace du démon' plantés dans la tête.
+37109|...Mais s'ils étaient le deuxième crépuscule, 
+37110|...quelqu'un d'autre a dû avoir la tête transpercée...
+37117|"...C'est Grand-père...‖  Il a été brûlé dans l'incinérateur, et on était tellement obnubilés par ça qu'on n'a rien remarqué,‖ ...mais son front...
+37118|non, sa tête avait été transpercée."
+37123|"Grand-père était...la victime du quatrième crépuscule ?‖  A-Alors, Kanon-kun était... !"
+37129|"...`Au cinquième crépuscule, transperce la poitrine et tue'.‖  ...On croyait que Kanon-kun était tombé par hasard sur le coupable, ......mais c'est faux.‖  Dès le départ, le coupable comptait attirer quelqu'un à l'écart pour lui planter quelque chose dans la poitrine..."
+37135|"......Si le coupable a suivi l'épitaphe jusqu'ici, ‖...cela veut-il dire que trois personnes doivent encore mourir... ?!"
+37141|`Au sixième crépuscule, transperce le ventre et tue.'
+37142|`Au septième crépuscule, transperce le genou et tue.'
+37143|`Au huitième crépuscule, transperce la jambe et tue.'
+37151|"......O-Oui, 
+37152|...on pourrait le lire ainsi...‖...hiiiiiii..."
+37157|"Ouais, je me le demande...‖  ......Après la mort de ces trois-là, on arrive au neuvième crépuscule.‖  Regardez..."
+37163|`Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.'
+37169|"On va...tous se faire tuer par Beatrice..."
+37174|"......Je pige pas.‖  Ça voudrait pas dire que tout le monde meurt, peu importe le nombre de personnes ?‖  ...Qu'est-ce que Grand-père cherchait ?‖  Ça veut pas dire que la cérémonie le tuerait lui aussi, quoi qu'il arrive... ?!"
+37180|"......Ce n'est pas grave s'il ne reste personne en vie.‖  ...Au dixième crépuscule, on arrive enfin au Pays doré."
+37183|`Au dixième crépuscule, au terme du voyage, tu accéderas au pouvoir des trésors du Pays doré, une première et dernière fois.'
+37184|`La sorcière louera le sage et lui accordera quatre trésors.'
+37189|"...Grand-père n'avait pas peur de mourir.‖  ......Regardez le deuxième et le troisième des quatre trésors."
+37195|"......`L'un sera la résurrection de toutes les âmes défuntes. ‖  L'un sera la résurrection de l'amour perdu'.‖  ...Alors Grand-père croyait qu'il finirait par ressusciter, même s'il mourait au milieu de cette cérémonie... ?"
+37200|"N'importe quoi !‖  C'est complètement dingue !!‖  Quand on meurt, c'est fini, non ?!‖  Les morts ne reviennent pas à la vie.‖  C'est pas un miracle après lequel l'humanité court depuis des milliers d'années sans jamais y arriver ?!‖  Alors c'est ça que ça veut dire ?‖  Un truc du genre, on pourra les retrouver dans l'au-delà, où ils seront ressuscités ?!"
+37205|"...Si ce que tu dis est vrai, ...ça voudrait dire que...‖Grand-père, à qui il ne restait plus longtemps à vivre et que l'amour a rendu fou, est en train de se suicider...‖non, ...de commettre un gigantesque suicide collectif forcé... ?!"
+37211|".................."
+37216|"...Genji,‖ ...une chose pareille est-elle possible... ?!"
+37221|"......Je l'ignore.‖  ...Le Maître est un homme qui possède parfois la sagesse de voir mille ans dans l'avenir.‖  Cependant, il arrive que cela n'apparaisse que comme de la folie aux yeux de gens du commun tels que moi..."
+37227|"Bon, on doit prendre ça pour un `oui' ?!‖  Qu'est-ce que vous en dites, Kumasawa-san ?!"
+37232|"J-Je ne sais rien du tout... !‖  C'est vrai, je ne sais rien...‖  Vous croyez que je serais sur cette île aujourd'hui si j'avais su ?‖  J'aurais fait semblant d'être malade ou n'importe quoi pour prendre ma journée, c'est vrai !!"
+37238|"Et vous, docteur Nanjo, qu'en pensez-vous ?  Vous êtes l'ami de Grand-père depuis tant d'années..."
+37242|"......J-Je pense comme Genji-san.‖  ...Kinzo-san était un homme qui dépassait de loin le commun des mortels.‖  J'ai même parfois ressenti chez lui une sorte de puissance inhumaine.
+37247|  ......Même moi......j'ignore ce que Kinzo-san avait en tête en écrivant cette épitaphe... !"
+37253|"...Tout ce que nous pouvons dire...c'est que même si Père a écrit ce scénario, c'est quelqu'un d'autre qui l'exécute."
+37258|"C'est ça.‖  ......À tout le moins, il y a un autre coupable qui s'en est pris à Grand-père et à Kanon-kun.‖  Et en plus, cette personne continue de commettre ses crimes exactement comme le dit l'épitaphe... !"
+37263|"...La lettre du début, à laquelle on n'a pas vraiment réfléchi...‖  Qu'est-ce qui y était écrit, déjà ?"
+37268|On a repensé à la lecture de la lettre, la veille au soir...
+37272|Beatrice y avait proclamé quelque chose.
+37273|Elle avait proclamé que, selon son contrat avec Kinzo, elle percevrait tous les biens de la famille Ushiromiya au titre des intérêts.
+37275|Mais elle avait aussi révélé une clause spéciale.
+37278|Si quelqu'un découvrait l'emplacement de l'or caché par Grand-père, ce droit serait perdu.
+37282|Quand la lettre a été lue, Grand-père était encore en vie.
+37283|...Mais à ce moment-là, elle avait déjà été scellée à la cire avec la bague du chef de famille.
+37285|...Ce qui voulait dire que Grand-père avait remis la bague à Beatrice de son vivant.
+37290|...Si on prend les choses au pied de la lettre,‖ on devrait peut-être supposer que Beatrice exécute cet étrange contrat, Grand-père lui garantissant ce droit.
+37293|...Autrement dit, ça revenait à dire que Grand-père connaissait et approuvait le contenu de cette lettre.
+37295|Autrement dit, c'est en gros un message conjoint de Beatrice et de Grand-père...‖qui nous dit que Beatrice commencera à percevoir les intérêts si on ne résout pas l'énigme.
+37298|...Autrement dit, Grand-père et Beatrice exigeaient qu'on essaie de résoudre l'énigme de l'épitaphe.‖  Et si on n'y arrivait pas, ils disaient que le massacre serait accompli selon l'épitaphe.
+37303|Qu'est-ce que ça veut dire ?
+37304|Qu'est-ce qu'ils veulent ?!
+37305|J'en ai pas la moindre idée !
+37310|"............
+37315|......Regardez, encore une lettre de Beatrice."
+37320|"...Hein ?‖  Qu'est-ce que t'as dit ?"
+37327|Maria montrait du doigt le dessus de la table, où traînaient encore les conserves que tout le monde venait de manger.
+37330|Il y avait bel et bien une enveloppe occidentale de Beatrice posée là, ...mais et alors... ?
+37336|"...Mais qu'est-ce que ?!"
+37344|Tante Natsuhi a poussé un cri hystérique, le regard allant de sa propre main à la table.
+37347|...Parce que l'enveloppe qu'elle venait d'ouvrir était toujours serrée dans sa main.
+37350|...Alors pourquoi y a-t-il encore une enveloppe sur la table... ?!
+37357|"...M-Mais c'est quoi ce bordel ?!?!‖  Qu'est-ce qui se passe, Maria ?!!‖  D'où elle sort, cette enveloppe ?!"
+37367|"...À l'instant, j'ai regardé et elle était posée là.‖  Uu-."
+37373|"...J-Je ne sais rien, rien du tout !!"
+37382|"C'est pas drôle, on n'est que huit ici !!‖  Impossible qu'une neuvième personne se soit faufilée !!‖  On n'a pas eu le temps pendant les quelques secondes où on s'est rassemblés devant le portrait, hein ?!"
+37426|"Reculez, tous autant que vous êtes !!!‖  Dos au mur !!"
+37428|Tante Natsuhi pointait le fusil sur Genji et les autres, en leur hurlant dessus... !
+37432|Genji-san était pris de court, l'air de ne pas avoir la moindre idée de ce qui se passait...
+37433|Bien sûr, je ressentais la même chose, ...mais avec quelques instants de retard, je suis arrivé à la même conclusion que Tante Natsuhi.
+37435|Il y a quelques secondes à peine, il n'y avait aucune lettre de ce genre sur la table... !‖  Et personne n'est entré dans cette pièce !‖  Ça veut dire que l'un de nous l'a posée là pendant les quelques secondes où tout le monde regardait ailleurs, absorbé par le portrait... !!
+37440|"Battler-kun, ouvre cette enveloppe et lis ce qu'elle contient !"
+37444|"D-D'accord !!"
+37447|Je l'ai ramassée.‖  ...Elle était encore scellée à la cire.
+37448|Sans même toucher à son contenu, j'ai compris que c'était une enveloppe encore jamais ouverte, une enveloppe inconnue !
+37451|Sans m'embarrasser d'un coupe-papier, je l'ai déchirée et j'en ai sorti la lettre.
+37458|Voici ce qu'elle disait.
+37460|`Appréciez-vous l'énigme de l'épitaphe de Kinzo-sama ?‖  Comme vous le savez sans doute tous, il vous reste très peu de temps.‖  Je vous prie d'abandonner tout espoir naïf de vous échapper une fois la tempête passée.‖  Ce jeu ne peut s'achever que par ma victoire ou par la vôtre.‖  Quand le temps sera écoulé, je l'emporterai par défaut.‖  Il n'y aura pas de match nul.‖  Veillez à ne pas vous méprendre sur votre situation actuelle.'
+37470|"Voilà ce qu'elle dit..."
+37474|"......On ne sait pas qui a posé cette lettre là.‖  Cependant, j'ai pu réduire la liste des suspects.
+37479|  C'est vous !!"
+37485|"...M-Madame...‖  C'est...trop horrible..."
+37488|"Juste avant de m'approcher du portrait, j'ai posé une conserve ici.‖  À ce moment-là, il n'y avait absolument rien d'aussi étrange que cette lettre !!"
+37492|"Et à ce moment-là, Jessica, George-kun et Battler-kun étaient déjà devant le portrait !!‖  Et ils n'ont pas quitté leur place devant le portrait jusqu'à ce que la lettre apparaisse !‖  Donc la personne qui a posé cette lettre est l'un de vous quatre !!!‖  Beatrice est ici !!!"
+37497|"......Uu-.‖  On n'est pas Beatrice.‖  ...Beatrice `existe' !"
+37501|"Silence !!!‖  Je ne sais pas si je dois soupçonner l'un de vous ou vous tous.‖  ...Mais sans le moindre doute, au moins l'un d'entre vous est le coupable !!!"
+37508|"......C-C'est vrai.‖  Il ne peut pas y avoir de dix-neuvième personne... !‖  Les sorcières, ça n'existe pas !!‖  Même quand Kanon-kun a été tué, 
+37509|...ouais, ça s'expliquerait si c'était Kumasawa-san qui l'avait fait !!
+37514|  En vérité, Kumasawa-san est entrée dans la chaufferie avec Kanon-kun et l'a tué !‖  Et ensuite, elle a menti en disant qu'il était déjà à terre quand elle est arrivée !!"
+37520|"V-Vous faites erreur, Mademoiselle... !!‖  Pourquoi est-ce que je ferais une chose pareille... ?!!"
+37525|"...Je n'ai pas la moindre idée de la façon dont mes parents ont été tués dans cette pièce close.‖  Mais quand ils ont été tués, tout le monde avait un alibi, sauf les domestiques.
+37530|  ...Les seuls à ne pas en avoir, c'étaient les domestiques...‖  Mais...est-ce que ça veut vraiment dire qu'on a le droit de les soupçonner... ?!"
+37535|"...O-Ouais, ...maintenant que tu le dis, ils n'ont d'alibi pour aucune des affaires...‖  ......Nng !!"
+37540|Est-ce qu'on devait vraiment juger aussi vite ?!
+37541|Mais cette fois...dans cette pièce, à cet endroit, à cet instant...dans ce minuscule fragment d'espace et de temps, c'est évident.
+37545|Seul l'un d'eux quatre a pu poser la lettre là, dans notre angle mort... !!
+37546|On ne peut pas dire qui l'a posée, mais il est évident que c'est l'un des quatre... !!
+37552|"...N-Natsuhi-san,‖ je vous en prie, calmez-vous...‖  Il s'est passé tant de choses aujourd'hui !‖  Je comprends à quel point vous êtes à bout de nerfs en ce moment... !"
+37556|"Docteur Nanjo, il m'en coûte vraiment de vous soupçonner... !‖  Cependant, vous êtes le médecin personnel de Père et son ami le plus proche !
+37561|  Vous êtes à ses côtés depuis de nombreuses années, et vous savez peut-être même quelque chose sur Beatrice.‖  Ne cacheriez-vous pas une sorte de vieille dette envers lui ?!"
+37566|"Bien sûr que non... !!‖  Calmez-vous... !"
+37569|C'était pitoyable de voir le docteur Nanjo clamer désespérément son innocence.
+37570|C'était sans doute la réaction normale de n'importe qui se sachant soupçonné.
+37577|Kumasawa, c'était pareil.
+37578|Depuis que Jessica avait exprimé ses soupçons sur le meurtre de Kanon par Kumasawa, cette dernière était complètement affolée.
+37584|C'est pour ça que le calme imperturbable de Genji paraissait si audacieux.
+37585|Tante Natsuhi a braqué le canon du fusil.
+37593|"......Genji,‖ tu étais le bras droit de Grand-père.‖  ...Beatrice était-elle une illusion que tu faisais voir à Père, en jouant toi-même le rôle ?!"
+37598|"......Si, en me soupçonnant, vous me reconnaissez comme le plus fidèle domestique du Maître,‖ ...alors j'en tire un grand honneur, quelles que soient les circonstances.‖  ......Cependant, ce n'est pas moi qui ai posé la lettre là."
+37602|"Tu crois qu'on va se contenter de ça ?!!‖  Tu dois être le meneur !‖  Kumasawa et le docteur Nanjo sont peut-être tes complices !!
+37606|  ......Et Maria-chan aussi."
+37612|Non contente de soupçonner les adultes, Tante Natsuhi a impitoyablement braqué le fusil sur Maria aussi.
+37613|Mais Maria a fait comme si de rien n'était.
+37616|......Ou peut-être qu'elle pensait qu'il ne lui arriverait rien même si on lui tirait dessus.
+37622|"Maria-chan,‖ ...à ce stade, on ne peut plus écarter quelqu'un des soupçons simplement parce qu'il est jeune.‖  Alors, pour la dernière fois, laisse-moi te poser la question que tout le monde se pose depuis hier soir !
+37626|  ...Hier, qui était la Beatrice qui t'a remis cette lettre ?!!"
+37630|".........Uu-."
+37638|"...Maria, esquive pas la question !!‖  Dis-le clairement !‖  Qui t'a donné cette lettre ?!!"
+37642|"...Kihihihihihi.‖  Combien de fois faudra-t-il que je vous le dise ?‖  C'est Beatrice.‖  La Sorcière dorée millénaire.
+37646|  ......Si vous voulez savoir à quoi elle ressemble, vous n'avez qu'à vous retourner.‖  ...Regardez, elle est juste là.‖  Beatrice.‖ ...Kihhihihihihihihihihihihihihihihihihihihihihihihihi !"
+37651|"T-Te fous pas de nous, Mariaaaaaaaaa !!!"
+37658|"Ça suffit, Jessica !‖  Toi aussi, Maria.‖  Vous comprenez pas la situation ?!‖  Qu'est-ce que tu espères gagner en disant des trucs pareils ?!‖  Arrêtez de vous monter la tête pour rien !"
+37662|"...Je ne comprends pas.‖  ...Vous voulez que le coupable soit qui ?‖  Vous croyez en Beatrice seulement quand vous ne voulez pas soupçonner l'un des vôtres.‖  Et quand vous cherchez à régler vos comptes parce que quelqu'un de proche a été tué, là seulement vous voulez croire en un Humain que vous pouvez frapper, et vous niez Beatrice."
+37668|"......C'est pour ça que vous ne pouvez pas la `voir'.‖  ...Beatrice `existe'.‖  C'est vous qui ne pouvez pas la voir !"
+37675|"Silence !!!‖  Je ne veux pas te désigner comme coupable, mais il ne fait plus aucun doute que tu prends plaisir à envenimer la situation et que tu prêtes main-forte à l'ennemi !!"
+37679|"...Kihihihihihihihi.‖  ...Alors qu'allez-vous faire ?‖  Me tirer dessus ?‖  Ça m'est égal.‖  Très bientôt, la porte du Pays doré va s'ouvrir.‖  Alors tous les morts ressusciteront.‖  ...En ce moment, la mort n'a rien d'effrayant.‖  ...Kihihihihihihihihihihihihihihihihihihihihihi !"
+37685|"M-Maman, elle est vraiment louche !!‖  On peut pas la garder avec nous !!"
+37689|"Mais Tante Natsuhi, je vous en prie, calmez-vous... !‖  Il n'y a aucune raison de tirer sur Maria !‖  Gardez votre sang-froid... !‖  La lettre était faite pour nous provoquer, mais il n'y a rien à craindre !‖  Même le coupable a peur de ce qui va se passer demain.‖  Il a peur de la police !‖  En ce moment, cette île échappe à la loi, mais c'est uniquement parce qu'elle est isolée par ce typhon !‖  Une fois le typhon passé, la loi reprendra ses droits !‖  Alors il ne faut pas tirer... !!"
+37694|"...Comment tu peux rester aussi calme, George nii-san ?!!‖  L'un de ces quatre est le coupable !‖  Non, peut-être qu'ils sont complices tous les quatre !‖  Comment tu peux rester aussi calme alors que l'un d'eux est peut-être le coupable qui a tué tes parents ?!!"
+37698|"Moi aussi, j'ai envie de trouver le coupable et de le tuer... !‖  Mais ce ne serait que de la barbarie.‖  Je laisse à la loi le soin de juger les crimes !‖  Alors, aussi suspects soient-ils, tu ne dois pas appuyer sur cette détente !!"
+37706|"J-Je suis d'accord avec Aniki George...‖  Tante Natsuhi,‖ reprenez-vous une seconde...‖  En tout cas, ce serait mal de tirer, ihihi... !‖  Dans ces moments-là, il paraît qu'il faut renverser la tête en arrière et dire trois fois `Reste cool'..."
+37711|"......Que les choses soient claires.‖  Les sorcières n'existent pas !‖  Ni sur Rokkenjima, ni dans le manoir Ushiromiya !"
+37716|"Je le déclare en tant qu'Ushiromiya Natsuhi, représentante de la famille Ushiromiya !!‖  Il n'y a pas de sorcière ici !‖  Je n'accepterai pas Beatrice !!‖  Quoi que vous maniganciez, je ne vous laisserai pas toucher à un seul cheveu de ma fille ni des autres !!!‖  C'est mon devoir de mère et de représentante de la famille !!"
+37720|Ces mots...furent les ultimes paroles d'adieu...qui ont tout tranché.
+37723|...Pour protéger sa fille, Tante Natsuhi considérerait toute personne suspecte comme une ennemie.
+37725|...La seule raison pour laquelle Aniki George et moi étions de ce côté-ci, c'est que, par pure coïncidence, on avait un alibi solide concernant la lettre.
+37728|Si je ne m'étais pas approché du portrait,‖ ...moi aussi, je me retrouverais à l'autre bout de ce canon de fusil, traité comme un criminel...
+37737|...Mais même si une partie de moi pensait ça, ‖...une autre partie se disait qu'en chassant toutes les personnes suspectes de cette pièce, notre sécurité serait enfin garantie...
+37740|Genji-san, Kumasawa-san et le docteur Nanjo...‖  Ils étaient tous du côté de Grand-père.
+37741|On pouvait peut-être dire qu'à partir du moment où Maria s'était mise à croire aveuglément en Beatrice, elle aussi était du côté de Grand-père.‖  ...C'est ça, ils sont tous suspects.
+37744|Mais est-ce que c'est vraiment bien... ?!
+37747|Si on jette dehors tous les suspects d'une façon aussi arbitraire, aura-t-on encore le droit de défier l'arbitraire de la sorcière... ?!
+37760|Tante Natsuhi ne leur a pas dit de partir avec ses propres mots.
+37761|...Mais par une pression muette, elle les a poussés à le dire eux-mêmes.
+37764|...Parce que si le docteur Nanjo ne prononçait pas ces mots, ce silence glacial durerait sûrement éternellement.
+37769|"......Calmez-vous, Natsuhi-san.‖  ......Malgré tout, je comprends bien ce que vous ressentez.‖  Moi-même, j'ai l'impression d'avoir l'esprit dérangé après tous ces étranges incidents à répétition...‖  Alors je comprends bien pourquoi vous voulez nous soupçonner..."
+37774|".........Si vous n'avez vraiment rien à voir avec tout ça, ...alors ma conduite en ce moment dépasse l'impolitesse.‖  ......Cependant, ...je vous en prie, comprenez-moi, juste cette fois."
+37783|"......Très bien.‖  ...Quittons la pièce.‖  ......Qu'en dites-vous, Genji-san ?‖  ...Si nous retournions au salon pour reprendre notre partie d'échecs ?"
+37789|".........Si tel est votre souhait, ...volontiers."
+37794|"......J-Je ne veux pas... !‖  Après tout, ça veut dire qu'on va devoir quitter cette pièce en sachant que le loup est parmi nous, n'est-ce pas... ?!‖  Je ne veux pas, Madame, pardonnez-moi.  Hiiiiiiiiiii...... !"
+37797|On voyait bien ce que Kumasawa-san essayait de dire.
+37798|Si elle était innocente, alors on l'expulsait en terrain dangereux en compagnie du coupable.
+37801|...Dans la situation actuelle, la pousser à quitter cette pièce avec les suspects revenait presque exactement à la laisser se faire tuer...
+37804|Cependant, Kumasawa-san était vraiment suspecte, rien que parce qu'elle avait été la première à découvrir le meurtre de Kanon-kun.
+37806|...À ce moment-là, tout le monde sauf Kumasawa-san avait un alibi.
+37809|...À moins de prouver l'existence d'un mécanisme quelconque...ou l'existence d'une dix-neuvième personne, Kumasawa-san était de loin la suspecte la plus probable.
+37813|Je ne voulais pas y croire.
+37815|Cependant, Tante Natsuhi et nous autres étions dans une situation si difficile qu'on ne pouvait pas s'empêcher de la soupçonner, nous aussi...
+37818|Alors on n'a rien dit pour empêcher Tante Natsuhi de les chasser de la pièce de manière tyrannique.‖  ...On l'avait empêchée de tirer, mais on acceptait passivement de chasser les autres de la pièce... !
+37820|Pour couronner le tout, Maria s'est adressée à Kumasawa-san, qui se tourmentait.
+37825|"......Tout ira bien.‖  ...Beatrice est gentille avec ceux qui la respectent.‖  ...Toi, tu crois que Beatrice `existe'.
+37830|  ...Alors tout ira bien, c'est sûr.‖  ...Je vais regarder la télé au salon.‖  On la regardera ensemble.‖  ...C'est trop ennuyeux ici, sans télé.‖  ......Kihihihihihihihihihihihihihihihihihihi."
+37832|On aurait dit que Kumasawa trouvait le rire espiègle de Maria terrifiant...
+37836|Cependant, les trois autres avaient accepté de quitter la pièce.
+37837|Kumasawa n'a pas pu aller à contre-courant et a dû accepter, en pleurant...
+37847|"...Eh bien, Natsuhi-san.‖  Ce sera tout pour ce soir.‖  ...Revoyons-nous demain."
+37851|"...Oui.‖  Je vous en prie, comprenez-moi, au moins pour cette nuit.‖  Quand la police viendra, nous vous présenterons tous nos excuses pour notre grossièreté, j'en suis sûre.
+37856|  ...Vous pouvez jouer aux échecs, mais faites-le dans un endroit sûr si possible.‖  ...Genji, je te les confie."
+37861|"......Entendu."
+37867|"...H-Ho ho ho...‖  On n'y peut rien, n'est-ce pas...‖  On dit toujours que les ours les plus redoutables sont ceux qui ont leurs petits."
+37872|"...Genji, Kumasawa, toutes mes excuses.‖  ...Revoyons-nous demain.‖  ......Toi aussi, Maria-chan.‖  ...Pardonne à ta tante d'être si froide."
+37877|"Uu-.‖  Je vous pardonne.‖  Uu- !"
+37884|"Madame, les clés de cette pièce.‖  ...Je vous les remets toutes les deux."
+37887|Genji-san a sorti deux clés dorées de sa poche et les a tendues à Tante Natsuhi...
+37891|"...Et je vous remets également mon trousseau de clés de l'intérieur du manoir."
+37895|Il a sorti un trousseau d'une dizaine de clés de formes diverses et l'a remis.
+37898|......Pour les domestiques, ces clés étaient sûrement la preuve de leur rang.
+37899|Se voir confier ces clés voulait dire qu'on avait leur confiance, qu'on comptait sur eux.
+37902|...Être forcés de les rendre, ...ça voulait dire qu'ils avaient perdu cette confiance.
+37904|...Vu sous cet angle, ...pour Genji-san, qui avait travaillé ici pendant de longues années, il ne pouvait y avoir plus grande honte.
+37906|...Pourtant, Genji-san gardait son expression impassible habituelle.
+37910|"...Genji,‖  ...j'avais prévu, après la disparition de Père, de te récompenser pour tes nombreuses années de dur labeur et de te laisser prendre ta retraite.
+37915|  ......Te traiter ainsi...‖...me fait honte du fond du cœur......"
+37920|"J'ai déjà reçu les faveurs du Maître.‖  ...Tout ce que j'ai fait jusqu'à aujourd'hui, je l'ai fait pour m'en acquitter.‖  ......Je vous en prie, ne vous en faites pas pour cela."
+37929|"...Eh bien, ...allons-y, tout le monde ?‖  ...Bonne nuit à tous."
+37935|"Uu-.‖ Bonne nuit.‖  Bonne nuit à toi aussi, Battler !  Uu- !"
+37939|"...Ah, ...Maria.‖  Attends une seconde."
+37942|Rongé par la culpabilité, j'ai rappelé Maria.
+37947|...J'ai fouillé dans ma poche...et j'en ai sorti ce porte-clés au scorpion.
+37952|"......Ça repousse la magie, hein ?‖  ...Porte-le."
+37956|"Uu-... ?‖  Tu disais pas que tu l'avais perdu... ?"
+37960|"...Sur le moment, j'étais énervé et j'ai juste raconté que je l'avais perdu.‖  ...Jamais je perdrais la précieuse amulette que tu m'as donnée."
+37964|"............"
+37967|Maria a pris l'amulette en silence.
+37968|...Après ça, je n'ai rien pu dire de plus...
+37974|"......Eh bien, bonne nuit à tous..."
+37978|On les a regardés partir, les traits complètement épuisés, ...sans même être capables de répondre.
+37989|...Jusqu'à ce que la porte se referme et qu'on entende le verrou automatique, on n'a pas pu respirer...
+37993|Alors seulement, on a enfin pu reprendre notre souffle.
+37995|...Ensuite, j'ai remarqué que la lettre de Beatrice, que j'avais serrée tout ce temps et qui était trempée de ma sueur, comportait en fait deux feuilles.
+37998|...Les feuilles étaient étroitement collées l'une à l'autre, alors j'avais cru à tort qu'il n'y en avait qu'une.
+38002|Il n'y avait aucun caractère sur la deuxième feuille.
+38005|...Ce qui y était dessiné, c'était un cercle magique, tracé à l'encre rouge comme du sang.
+38008|......Tout comme chacun des cercles magiques jusque-là avait été différent, celui-ci était un cercle magique que je n'avais jamais vu.
+38010|À l'intérieur du cercle, un grand triangle et un petit triangle s'emboîtaient en un motif simple.
+38012|Mais comme les précédents, il y avait une inscription en hébreu, et il semblait évident qu'elle avait une signification.
+38015|Je voulais savoir laquelle, ...mais on venait de chasser de la pièce Maria, la seule personne capable de comprendre le sens des cercles magiques...
+38019|......J'ai considéré ce cercle magique comme le deuxième message de Beatrice.
+38021|...Qu'est-ce que ce cercle magique veut dire ?‖  .........Bon sang... !
+38023|Après avoir chassé tous les suspects, on n'avait plus qu'à rester barricadés ici jusqu'au matin, et tout serait sans doute terminé.
+38026|...Une fois le typhon passé, quand les mouettes chanteront, tout sera-t-il résolu ?
+38030|Mais la lettre, apparue à l'improviste dans le bureau, nous a forcés à renoncer à cette naïveté.
+38031|...Elle avait bien fait comprendre que si le temps s'écoulait, ce serait la victoire de la sorcière.
+38034|Quand le temps sera écoulé, la sorcière compte-t-elle passer à l'offensive ?
+38035|...Cette fois, compte-t-elle déployer un terrible pouvoir magique, peut-être celui qui aurait permis de tuer six adultes d'un coup ?
+38038|...Attends, d'ailleurs, quand est-ce que le temps est censé être écoulé ?‖  ...Je sais...rien...
+38044|".........Avec ça, ...nous devrions enfin être en sécurité.‖  ...Enfin.‖  ......Forcément..."
+38046|Même en disant ça, Tante Natsuhi ne pouvait pas lâcher ce fusil.‖  ...La tension de son visage ne se relâchait pas.
+38049|Bien sûr, aucun de nous n'avait envie de pousser un soupir de soulagement.
+38050|.........Du moins, pas avant d'entendre à nouveau le cri des mouettes......
+38071|Après les avoir chassés, ...personne ne voulait rien dire.
+38073|...Tous les suspects avaient été chassés.
+38075|Même en sachant qu'il y avait peut-être des innocents parmi eux, on l'avait fait quand même.
+38078|...On les avait chassés de ce paradis...‖où l'on n'a pas besoin de se soupçonner les uns les autres.
+38080|Mais le motif pour lequel on les avait chassés, c'était la suspicion d'une personne envers une autre, le pire des crimes pour un être humain.
+38083|...Si on avait accepté l'existence d'une dix-neuvième personne, de la sorcière,‖ ...alors on serait peut-être encore tous en train de se parler face à face, en se faisant confiance.
+38089|À cet instant,‖ on avait tous accepté de chasser les suspects.
+38090|...Mais était-ce la bonne chose à faire ?
+38093|...Pendant ce silence interminable, on ne pouvait rien faire d'autre que se laisser ronger en silence par ce péché...
+38098|Tante Natsuhi faisait face à la porte, sans lâcher son fusil un seul instant, enfoncée au fond du canapé.
+38101|...Elle passerait sans doute la nuit à fixer la porte sans fermer l'œil.
+38106|Aniki George regardait par un interstice des rideaux tirés de la fenêtre,‖ les yeux baissés sur la cour et le manoir qui l'entourait.
+38109|...Je ne savais pas s'il guettait une ombre suspecte qui apparaîtrait par la fenêtre...‖ou s'il s'interrogeait sur quelque chose.
+38114|Jessica était assise de travers sur le canapé à côté de Tante Natsuhi...le visage éteint.
+38117|...Et de temps en temps, comme si elle venait de se souvenir de quelque chose, elle sortait l'inhalateur qu'elle avait utilisé pendant sa crise d'asthme et le portait à sa bouche.
+38122|...Je viens de l'apprendre par Aniki, 
+38123|...mais apparemment, Jessica aimait bien Kanon-kun.
+38125|C'était apparemment si vague qu'elle-même ne s'en était pas rendu compte.
+38128|...Vous savez.‖  C'est le genre de chose que les autres repèrent avant que la personne concernée s'en rende compte.
+38132|...Ce qui veut dire...
+38133|qu'elle a peut-être découvert ses sentiments au moment où la personne qu'elle aimait est morte.
+38135|......Ça a dû être tellement horrible, tellement triste.
+38137|Maintenant que j'y pense, ...c'est Kanon-kun qui lui avait tendu cet inhalateur.‖  ...Elle s'en souvenait peut-être.
+38142|Je fouinais dans le bureau de Grand-père, ...en me disant que j'allais chercher la signification du cercle magique sur la deuxième feuille de la lettre.
+38144|Même si on était enfermés ici en position défensive, ma nature rebelle me donnait envie de trouver une clé, un moyen de résister.
+38148|...Après tout, on a tout le temps d'ici demain matin.
+38149|Qui pourrait me reprocher la façon dont j'utilise ce temps ?
+38151|Personne d'autre ne montrait autant d'intérêt pour ce cercle magique.
+38154|...Sa signification était inconnue, et une fois qu'on l'aurait comprise, on y trouverait forcément un message qui nous causerait une angoisse inutile.
+38156|...Je ressentais la même chose.
+38159|...Cependant, je ne pouvais pas l'ignorer, alors je tuais le temps en faisant mine de faire des recherches...
+38167|"......Tu es vraiment motivé.‖  ...Tu as trouvé quelque chose qui pourrait servir d'indice... ?"
+38172|"...Que dalle.‖  Déjà, le plus dur, c'est de trouver un livre écrit en japonais.‖  ...Grand-père savait lire combien de langues, au juste ?‖  Il est incroyable."
+38176|"Tu n'es pas fatigué, Battler-kun ?‖  ...Tu devrais te reposer pendant que quelqu'un d'autre veille.
+38181|  Tante Natsuhi a dit qu'elle resterait éveillée toute la nuit pour nous, mais son corps ne pourra jamais tenir.‖  On devrait dormir à tour de rôle."
+38185|"Alors dors en premier, Aniki.‖  ......Je vais continuer à chercher jusqu'à ce que j'aie sommeil."
+38189|"...Tu veux dire...ce cercle magique de tout à l'heure ?"
+38193|"...Ouais.‖  On a tout le temps à tuer.‖  Je me suis dit que ce serait intéressant de découvrir quel genre de message Beatrice-sama y a mis."
+38199|"......Laisse tomber.‖  À trafiquer des trucs pareils, tu vas finir possédé par un truc bizarre."
+38205|"T'inquiète.‖  J'ai été certifié par Maria.‖  ...Elle a dit que j'avais aucun don spirituel.‖  Ihihi... !"
+38214|"......Est-ce qu'on a été...
+38215|...trop cruels...
+38216|...avec Maria ?"
+38219|"......Jessica,‖ ...tu ne dois pas penser ça maintenant."
+38224|"...Mais Maman,‖ si Maria n'y est pour rien, et qu'il y a un coupable à part elle, 
+38225|...alors c'est évidemment une proie facile pour l'assassin.‖  ...Si elle se fait tuer à cause de ça, 
+38226|......alors on l'aura...juste laissée mourir..."
+38231|Un silence pesant est retombé une fois de plus.
+38233|...On aurait dit que Jessica regrettait de s'être laissé emporter par ses émotions et de s'en être prise à Maria.
+38237|...Elle a toujours été comme ça.
+38238|...Toujours à jouer les dures pour le regretter ensuite.
+38243|"...Je comprends ce que tu ressens, mais Maria était en contact étroit avec le coupable,‖ et elle était peut-être de son côté, à répéter ce genre de choses pour semer encore plus la confusion.‖  ......Je suis soulagée que nous les ayons chassés."
+38248|"...C'est plutôt dur, Tante Natsuhi.‖  ...C'était peut-être juste les bêtises d'une gamine de neuf ans, non ?"
+38251|Venant de moi, ça ne devait pas être très convaincant...
+38252|Moi-même, j'avais trouvé Maria flippante à plusieurs reprises, au point de douter de sa vraie nature.
+38255|...Et quand Maria a été chassée de cette pièce, je ne pouvais pas nier avoir ressenti un certain soulagement...
+38260|".........Si c'est le cas,‖ alors demain, nous nous excuserons pour ce que nous avons fait.‖  ...J'assumerai l'entière responsabilité de les avoir chassés de cette pièce.‖  ...Ce n'est pas quelque chose dont vous devez vous soucier."
+38262|Je sentais une détermination tragique dans les paroles de Tante Natsuhi.
+38264|...Pour protéger sa propre fille, elle avait résolument chassé les suspects.
+38267|...Et si, en conséquence, elle devait voir mourir ceux qui avaient eu le malheur d'être soupçonnés, tant pis.‖  ...Elle était prête à en assumer l'entière responsabilité.
+38272|"...Pourquoi est-ce que Maria n'arrête pas de dire des trucs pareils ?‖  Elle court à sa propre perte..."
+38277|"......Je pense que si Maria-chan adore autant les sorcières et la magie...‖...c'est peut-être à cause de Tante Rosa."
+38281|"Tante Rosa ?‖  Qu'est-ce qu'elle vient faire là-dedans ?"
+38286|"...Tu ne t'en étais pas rendu compte, toi aussi, Battler-kun ?‖  ...Le vrai père de Maria-chan est parti on ne sait où il y a longtemps.‖  ...Même si Tante Rosa essayait de brouiller les pistes en disant qu'il était en voyage d'affaires à l'étranger."
+38292|"......Parler de la famille de Rosa-san est devenu une sorte de tabou chez les Ushiromiya."
+38296|"Je pense que Tante Rosa a songé à se remarier.‖  ...Mais je crois aussi que Maria-chan est peut-être devenue un boulet pour elle, et que ça a rendu les choses très difficiles.
+38301|  ......Après tout, il lui arrivait parfois...‖de s'emporter et de frapper Maria-chan."
+38306|"......Là-dessus, je suis d'accord avec toi.‖  ...On aurait dit que Tante Rosa faisait de gros efforts pour aimer Maria.
+38312|  ...Ce qui veut dire...
+38313|qu'elle ne l'aimait pas vraiment.‖  ......Elle voyait peut-être Maria comme un obstacle à son remariage..."
+38320|"...Je pense que ce rejet affectif de la part de sa mère a dû laisser de profondes cicatrices dans son jeune cœur.‖  ...Alors, elle a découvert ce passe-temps occulte quelque part et s'y est plongée pour combler les trous de son cœur.
+38325|  ...Tu savais ?‖  Pour Maria-chan, l'image de la sorcière n'a rien de négatif.‖  ...Tu te souviens hier, à la plage, quand elle nous a montré son cahier... ?"
+38329|"...Ouais.‖  ...Il était rempli de gribouillages qui avaient l'air joyeux."
+38333|Hier, quand on était à la plage, à douter de la sorcière...
+38334|...Maria s'était emballée et s'était mise à nous expliquer ce qu'étaient les sorcières.
+38336|Et pas une seule page ne montrait une sorcière laide.
+38339|C'étaient toutes des sorcières aux couleurs vives, belles et mignonnes, qui avaient l'air de bien s'amuser.
+38342|Elles n'avaient absolument rien de sinistre, comme un garçon aurait pu l'imaginer.‖  ...C'étaient des êtres parés de belles robes, capables d'exaucer les rêves de n'importe qui grâce à leur magie mystérieuse et qui rendaient tout le monde heureux.
+38347|...Maria souffrait de ne pas être aimée par sa mère.
+38350|...Avait-elle cherché le secours des sorcières, en tant qu'êtres capables de lui apporter le bonheur et de la sauver ?
+38354|Un jour, une sorcière viendrait et, grâce à sa merveilleuse magie, apporterait le bonheur à Maria.
+38355|...Même si elle y croyait, en grandissant, elle a dû affronter la réalité tandis que ses rêves éphémères étaient taillés en pièces un à un.
+38358|...Si quelque chose se prétendant la sorcière de Rokkenjima apparaissait devant une fille comme ça,‖ en lui murmurant qu'elle l'emmènerait au Pays doré, où Maria pourrait être heureuse...
+38369|"...............
+38370|...Je...
+38371|  ...Maintenant qu'on en est là, je veux vous avouer ce que j'ai sur le cœur.‖  ...Avoir jeté dehors Maria-chan...
+38372|non, ......Genji-san et les autres aussi, 
+38373|...c'était sans doute...une erreur, je pense..."
+38379|"......Ce n'était pas...
+38380|...agréable..."
+38382|Comme c'était Jessica qui leur avait fait face et leur avait jeté ces mots de rejet à la figure,‖ ...sa conscience devait la tourmenter énormément en ce moment.
+38389|"Alors, comment expliquez-vous cette lettre ?‖  Personne n'aurait pu la poser là, à part les quatre personnes qui se tenaient derrière nous.‖  Je m'en suis assurée de mes propres yeux.
+38394|  ...Si ces quatre-là sont innocents, comment cette lettre a-t-elle pu être posée dans une pièce close avec huit personnes à l'intérieur ?"
+38398|"......C'est vrai...‖  ...Dit comme ça, ces quatre-là ont vraiment l'air suspects.
+38402|  ......Mais, ‖...~ib~tout ça, c'est inutile.~ib~‖  Aah, ~ib~tout ça, c'est inutile~ib~‖..."
+38410|"Inutile ?  ...Qu'est-ce qui l'est ?"
+38416|"Ouais.‖  ......Ça vaut peut-être plus rien maintenant, mais laisse-moi encore retourner l'échiquier.‖  ...Autrement dit, si l'un de ces quatre-là était vraiment le coupable, c'est pas bizarre ?"
+38421|"...............C'est vrai...‖  ...Poser cette lettre bien en vue sur la table, c'était pas comme avouer que l'un d'eux était le coupable ?"
+38426|"...T'as raison, c'est bizarre.‖  ...S'ils voulaient le faire, ils l'auraient plutôt glissée sous la porte, par exemple, pour faire croire que quelqu'un l'avait passée de l'extérieur !‖  Évidemment, ils devaient bien savoir qu'on les soupçonnerait s'ils ne faisaient pas croire que le coupable était hors de la pièce !"
+38429|"Ouais, c'est exactement ça.‖  ...Si le coupable était l'un de ces quatre-là, poser cette lettre en plein milieu de la table aurait été à la fois risqué et absurde."
+38434|"......Mais, en laissant de côté le tour de passe-passe utilisé pour la poser là,‖ si on suppose que le coupable est quelqu'un d'autre que ces quatre-là, ...autrement dit, quelqu'un qui était hors de la pièce,‖ alors il avait beaucoup à gagner avec cette lettre..."
+38439|"......Ça suffit, Battler-kun.‖  ...Il est inutile de discuter de ces choses-là maintenant."
+38441|Natsuhi-san a vite deviné où je voulais en venir.
+38444|...Non, peut-être qu'elle y avait pensé bien avant moi...et qu'elle avait simplement tenu sa langue...
+38448|"...Si le coupable est hors de la pièce, ...alors il serait complètement coincé à la seconde où on s'enfermerait dans une pièce close comme celle-ci.‖  ...C'est ça.‖  C'est la même chose que ma théorie sur la disparition de Grand-père de cette pièce, non ?"
+38452|"...Cette théorie, c'était que Grand-père avait quitté la pièce de lui-même.‖  ...Si le coupable a usé d'une ruse pour l'attirer dehors, et que Grand-père est sorti de lui-même, alors..."
+38459|Maintenant que j'y pense, ...quand on a trouvé le cercle magique du scorpion sur la poignée de la porte du bureau, Maria l'avait dit elle-même.
+38464|...Beatrice ne pouvait pas franchir cette porte.
+38467|Mais elle pouvait pousser quelqu'un à sortir de lui-même.
+38476|"...Ce qui voudrait dire...
+38477|...qu'on est complètement tombés dans le piège du coupable...‖et qu'on a envoyé dehors de nouveaux sacrifices potentiels."
+38482|"......Genji et les autres ne sont pas idiots.‖  Pour se protéger, ils devraient trouver l'endroit le plus sûr après cette pièce.‖  Ils sauront forcément s'y cacher."
+38484|Tante Natsuhi n'avait pas répondu à la question.
+38487|...Tante Natsuhi elle-même avait compris que si le coupable ne faisait pas partie de notre groupe à ce moment-là, cette lettre prenait tout son sens en tant que piège.
+38489|Cependant, ça ne valait pas le risque de rappeler les gens qu'elle avait jetés dehors.
+38493|...Pour Tante Natsuhi, en ce moment, son plus grand et unique devoir était de protéger les enfants......
+38494|Selon elle, pour y parvenir, quelques sacrifices étaient inévitables...
+38499|"......Dites, Tante Natsuhi.‖  Je peux dire un truc un peu dur ?
+38504|  ...À ce moment-là, ...et si, par coïncidence, Jessica s'était trouvée elle aussi derrière vous ?‖  ......Vous l'auriez chassée de la pièce, elle aussi ?"
+38509|".................."
+38513|"C'est vrai qu'il s'est passé plein de choses atroces.‖  ...Mais en tant que mère, vous avez pensé que vous deviez protéger votre fille quoi qu'il arrive.‖  À cause de ce devoir, vous les avez chassés, tout en sachant qu'un jour, on vous en tiendrait pour responsable.
+38518|  ......C'est pas que je vous le reproche.‖  Mais, euh,‖ ......je me disais juste que Jessica avait une sacrée mère."
+38523|"...C'est vrai.‖  ...Vous faites face à ces incidents depuis ce matin, et vous nous guidez tous depuis le début, sans perdre votre sang-froid.
+38528|  ...Si vous aviez perdu pied vous aussi, nous serions sans doute déjà entre les griffes du coupable.‖  ...Alors je pense que nous vous devons tous des remerciements."
+38532|"............Merci."
+38537|".........‖...Alors, ce que vous essayez de dire tous les deux...
+38541|...c'est que vous voulez qu'elle soit aussi la mère de Maria... ?"
+38547|".................."
+38553|"......Moi...
+38554|j'ai toujours vu Maria comme une vraie petite sœur et je l'adorais.‖  ......Et pourtant, 
+38555|...il s'est passé des choses, on s'est un peu affolés, ‖...et je lui ai dit plein de méchancetés, je l'ai blessée...‖  ......Maman, 
+38558|...s'il te plaît.‖  ......Restons ensemble avec Maria...
+38559|...non, avec tout le monde...‖  ......Il n'y avait pas de...
+38563|coupable parmi nous...‖  Le coupable dans cette affaire, c'est...
+38564|...la sorcière, Beatrice, d'accord... ?‖  Alors, ...arrêtons de nous soupçonner les uns les autres..."
+38568|Tante Natsuhi a fermé les yeux un court instant.
+38571|...Endurait-elle à nouveau sa migraine lancinante, ...ou bien pensait-elle à quelque chose...
+38576|".........‖Tu es...‖...ma fille chérie, ...celle que j'ai enfin eue, douze longues années après avoir épousé mon mari.‖  Pour te protéger, je deviendrais le pire des démons."
+38578|C'était des mots plutôt forts, pour finir...
+38581|Elle savait très bien que ses paroles étaient une vision idéalisée de ce que devait être une mère, ‖mais même ainsi, elle était fermement résolue à protéger sa fille, quitte à devenir un démon.
+38584|......Mais c'était sa mauvaise conscience qui la tourmentait.
+38586|......Cette journée a été tellement longue.
+38588|...Il s'est passé tant de choses en un seul jour, ...et on a été acculés si complètement...
+38591|...Je me demande si on a le droit d'accueillir demain dans l'état où on est...
+38595|.........L-Le voilà.
+38598|"...Je l'ai trouvé.‖  ...C'est ce cercle magique."
+38600|Dans le livre que je feuilletais, j'avais trouvé le même cercle magique que celui dessiné sur la deuxième feuille de la lettre.
+38603|Aniki George s'est penché pour le regarder lui aussi.
+38607|Le nom de ce cercle magique était...le troisième cercle magique de Mars.
+38609|L'hébreu inscrit dessus venait du Psaume 77, verset 13, de l'Ancien Testament.
+38612|`Quel dieu est aussi grand que notre Dieu ?'
+38615|La signification du cercle magique était...‖...`la discorde'.
+38618|...Attiser les divisions internes pour pousser l'ennemi à causer sa propre perte.
+38627|"......Attends une seconde...‖  Sérieux... ?"
+38630|Pouvait-il y avoir façon plus juste de décrire notre situation et notre état d'esprit actuels ?
+38632|On n'a pas pu faire autrement que rester muets de stupeur.
+38638|"...Alors, ...cette lettre était un piège... ?!‖  Comment ils ont pu la poser ici ?!‖  Il n'y avait personne dans cette pièce à part nous huit, hein ?!"
+38643|"E-En tout cas, laissons de côté pour l'instant la façon dont elle est arrivée ici.‖  ...Le coupable ne visait qu'une seule chose !‖  Il voulait semer la graine du doute dans cette pièce imprenable et se servir de nous pour jeter dehors les agneaux du sacrifice... !!"
+38649|"Dans ce cas, ...ce qu'il vise...ce sont les gens qui sont sortis de la pièce... !!"
+38655|"M-Maman, ...qu'est-ce qu'on fait ?!!‖  Ces quatre-là sont en danger... !"
+38658|"..............."
+38660|Il n'était pas étonnant que Tante Natsuhi garde un silence pénible.
+38662|...Même si tout ça était un piège du coupable, même si les quatre qu'on avait chassés de la pièce étaient en danger,‖ ça n'avait rien à voir avec la sécurité des quatre personnes qui se trouvaient ici.
+38665|Et il n'y avait aucun moyen de prouver l'innocence des quatre qu'on avait chassés.
+38667|...Si on est prêts à les laisser mourir, alors on ne doit quitter cette pièce sous aucun prétexte.‖  ...C'est comme ça...qu'on est le plus en sécurité !!
+38673|À ce moment-là, soudain, la sonnerie stridente d'un téléphone a retenti dans la pièce.
+38675|C'était le vieux poste téléphonique posé sur la table du bureau de Grand-père.
+38679|...Il avait sonné juste après qu'on avait commencé à parler de la lettre comme d'un piège.
+38680|C'était naturel qu'on y voie un SOS de ceux qu'on avait chassés.
+38683|Mais alors, Tante Natsuhi a parlé.
+38691|"......P-Pourquoi un appel ?!‖  Les téléphones devraient être en panne et inutilisables... !!"
+38696|"Peu importe... !‖  Si c'est Maria qui appelle à l'aide... !"
+38702|"Si le problème des téléphones était l'œuvre du coupable dès le départ,‖ ...alors cet appel est...
+38703|...sans doute..."
+38707|Avec cette seule phrase, la sonnerie du téléphone, qui avait d'abord résonné comme un appel au secours, ...s'est mise à ressembler à un appât macabre tendu par un inconnu... !
+38710|Tante Natsuhi hésitait à décrocher le combiné.
+38716|"D-Décrochons, Tante Natsuhi... !‖  Les téléphones ont peut-être été réparés, pour une raison ou une autre...‖  Ça pourrait quand même être un appel urgent de Maria-chan et des autres... !"
+38721|"C'est vrai... !‖  Et si c'est vraiment un appel du coupable, qu'il vienne !‖  Pourquoi pas écouter ce qu'il a à dire... ?!‖  C'est juste un coup de fil.‖  Peu importe ce qu'il raconte dans le combiné, ça va pas vous faire de mal... !!"
+38728|"...Si vous ne décrochez pas, 
+38729|...alors c'est moi qui le ferai... !"
+38736|"...J-Je vais répondre.‖  ...Allô ?"
+38739|J'ai tendu la main pour prendre le combiné, mais Tante Natsuhi l'a saisi avant moi.
+38741|...On retenait tous notre souffle, en essayant de deviner qui était à l'autre bout du fil...
+38743|Mais pendant un moment, Tante Natsuhi n'a fait que répéter `allô'.
+38746|......Un appel silencieux... ?
+38747|Jamais Maria et les autres ne feraient un truc aussi flippant.
+38755|...Ce qui veut dire...
+38756|  Est-ce que cet appel...
+38757|...pourrait.........
+38758|vraiment être... ?
+38763|Natsuhi a cessé de répéter `allô' et a tendu l'oreille.
+38766|......Parce qu'elle avait cru entendre quelque chose au loin, à l'autre bout du combiné.
+38769|.........Qu'est-ce que c'était... ?
+38771|"...Hein ?‖  ...Est-ce que quelqu'un...
+38776|......chante... ?"
+38785|"Comment ça, ...chante ?"
+38792|"......Je ne sais pas.‖  Faiblement, à l'autre bout du fil, ...j'entends quelqu'un chanter...‖  Qu'est-ce que ça...peut bien être..."
+38796|"D-Donnez-moi ça une seconde...
+38801|  Allô ?!‖  .................. ?!"
+38806|J'ai à moitié arraché le combiné des mains de Tante Natsuhi, stupéfaite, et je l'ai plaqué contre mon oreille.
+38808|.........Au début, je n'ai rien entendu.
+38811|...Mais, ...comme on m'avait prévenu, je l'ai remarqué.
+38815|......Ça semblait loin du combiné, plutôt que quelqu'un qui parlait à voix basse, ‖......et on aurait dit une fille en train de chanter une chanson.
+38819|...Cette voix ressemblait bien à celle de Maria, ...mais ça rendait la situation encore plus inexplicable.
+38821|À tout le moins, celui qui avait passé l'appel n'était pas Maria.
+38823|Après tout, Maria chantait une chanson loin du combiné.
+38827|......Dans ce cas, celui qui avait passé l'appel devait être Genji-san, Kumasawa-san ou le docteur Nanjo.
+38829|......Et pourtant, ils ne disaient rien.‖  ...Pourquoi... ?‖  Pour quelle raison... ?‖  .........La personne qui avait passé cet appel...‖  Qui était-ce... ?!?!
+38837|"Hé !!‖  Allô ?!!‖  Qui est là ?  Répondez !!‖  C'est Maria qui chante ?!‖  Répondez-moi !!"
+38842|"Q-Qu'est-ce qui se passe ?!‖  Qu'est-ce que c'est ?!"
+38848|"J'en sais rien... !‖  Tout ce que je peux dire...
+38849|c'est que c'est sûrement un piège, ...et que Maria est en danger..."
+38852|Tante Natsuhi a repris le combiné, mais après avoir crié dedans plusieurs fois encore, elle a compris qu'elle n'arriverait à rien et a raccroché.
+38855|Ensuite, elle a composé un numéro en vitesse.‖  ...Puis elle a claqué la langue.
+38857|C'est vrai, si les téléphones marchent, on devrait pouvoir joindre la police.
+38859|...Mais à en juger par la réaction de Tante Natsuhi, la ligne extérieure ne passait toujours pas.
+38865|"...A-Allons-y !‖  Même si on sait que c'est peut-être un piège, on doit y aller !"
+38870|"Ouais, carrément !!‖  Jessica, Tante Natsuhi, restez ici !"
+38872|Quand Aniki et moi avons voulu nous précipiter dehors, Tante Natsuhi nous a arrêtés.
+38878|"Halte.‖  ......Je ne peux pas vous laisser y aller seuls.‖  Je viens aussi.‖  Jessica, attends ici."
+38883|"Quoi, alors je serais la seule laissée de côté ?!‖  Bien essayé, mais je viens aussi... !!"
+38889|"Ouais, c'est peut-être mieux comme ça.‖  ...Si le but de cet appel était de nous diviser encore plus, ce serait pas une bonne idée de laisser quelqu'un garder cette pièce."
+38894|"On n'a pas le temps de discuter.‖  Allons-y tous !"
+38898|Tante Natsuhi a brandi le fusil bien haut et a pris la tête.
+38900|Je ne pouvais pas y aller sans arme.
+38904|J'ai trouvé un chandelier à trois branches et je l'ai tenu prêt.
+38905|Même si les pointes destinées à recevoir les bougies étaient courtes, ça ressemblait presque à un trident.
+38916|Puis, tous les quatre, on a quitté le bureau.
+38918|On a quitté le bureau, qui aurait dû être l'endroit le plus sûr du manoir.
+38920|Ce faisant, on s'était laissé attirer dehors, alors qu'on s'était barricadés dans une pièce close et sûre.‖  ...Peut-être qu'on était...‖...en train de faire exactement ce que Grand-père avait fait quand il avait disparu de cette pièce...
+38926|"Maria !!‖  T'es où ?!‖  Réponds !!"
+38929|J'ai tendu l'oreille, mais je n'ai rien entendu...
+38931|Le manoir était immense, et comme le typhon livrait son dernier baroud avant de s'éloigner, le bruit de la pluie était encore plus assourdissant qu'avant.
+38937|"...Maria-chan a dit qu'elle voulait regarder la télé au salon, non ?!‖  Essayons d'aller en bas !"
+38942|"......C'est juste.‖  Essayons là-bas.‖  ...Restez tous attentifs à ce qui vous entoure !"
+38947|"Ouais !!"
+38951|Avec Tante Natsuhi au centre, le fusil prêt et le doigt sur la détente,‖ on avançait en groupe, dos à dos, en surveillant les alentours dans toutes les directions...
+38953|C'était exactement comme si la magie de ce cercle magique destiné à semer la discorde avait fonctionné.‖  ...On s'était séparés, et en plus, on avait été attirés en terrain dangereux.
+38956|...Autrement dit, même maintenant, on faisait exactement ce que le coupable voulait.‖  ...C'était un monde à part, où il n'aurait pas été étonnant que n'importe quoi se produise soudain...
+38961|Tante Natsuhi pointait nerveusement le canon du fusil vers chaque recoin sombre et chaque ombre.
+38962|On aurait dit que ce geste venait de la peur plutôt que de la prudence...
+38965|Pourtant, le fusil qu'elle tenait en main aurait dû être un atout que le coupable craignait...
+38970|"...Tu sais, j'y ai réfléchi.‖  Planter un de ces `pics à glace' dans la poitrine de quelqu'un, comme pour Kanon-kun, ce ne serait pas impossible.‖  ...Mais fendre le crâne et les planter dans le front, comme pour mes parents, ce ne serait pas si facile."
+38975|"Tu crois que le coupable avait une force de bête pareille... ?!"
+38981|"...Il avait sans doute une sorte d'arme, un appareil capable de tirer ou d'enfoncer ces `pics à glace'.‖  Le manche était trop court pour qu'on les enfonce aussi profondément à la seule force humaine."
+38986|"...Quoi qu'il en soit, il dispose d'assez de force pour transpercer un crâne.‖  ...J'ai entendu dire que la blessure de Kanon atteignait les poumons.
+38991|  ...Si jamais vous voyez votre adversaire, n'avancez pas.‖  Ne vous éloignez pas de mon dos."
+38996|À quel point l'arme capable de tirer ces sinistres pics à glace était-elle sinistre et terrifiante ?
+38998|...Et pouvais-je faire quoi que ce soit pour la contrer avec juste ce chandelier en main ?
+39000|Lors du premier meurtre, le coupable avait sans doute attaqué d'un coup nos quatre parents pendant qu'ils discutaient du problème de l'héritage dans la salle à manger.‖  ...Et on était quatre ici maintenant.
+39004|...Apparemment, je n'étais pas le seul à y penser.
+39005|...Aniki George,‖ Jessica,‖ ...et, bien sûr, Tante Natsuhi, ‖...tendaient leurs sens à l'extrême, dans un état de tension maximal et terrible, avançant lentement, un pas, puis un autre...
+39009|......Aaah, qu'est-ce qu'on a fait ?
+39012|...À cause des graines du doute semées par cette seule lettre, on avait jeté Maria et les autres au beau milieu de ce monde terrifiant...
+39016|On a enfin atteint le rez-de-chaussée.‖  ......Le salon était juste de l'autre côté du hall.
+39023|En tendant l'oreille, ......on l'entendait faiblement.‖  ...La voix sinistre de Maria qui chantait.
+39026|Elle ne chantait pas naturellement, comme si elle était de bonne humeur.
+39027|......Elle chantait mécaniquement, comme à une cérémonie de remise de diplômes, parce qu'on le lui avait ordonné.
+39029|...La chanson qu'elle chantait n'était qu'une banale chanson populaire, que tout le monde a sans doute chantée à l'école un jour ou l'autre.
+39032|...Mais pourquoi ça, en pleine nuit, toute seule, de tout son cœur, encore et encore, pourquoi... ?!
+39036|Juste après avoir quitté le bureau, on avait appelé à grands cris pour demander à Maria où elle était.
+39039|...Mais cette fois, personne ne disait le moindre mot.
+39042|...On retenait notre souffle et le bruit de nos pas, et, intensément concentrés sur les alentours au point d'avoir les nerfs à vif, ...on avançait...
+39047|La porte du salon était fermée.
+39048|Mais on entendait la voix de Maria qui chantait à travers...
+39050|Tante Natsuhi a posé la main sur la poignée de la porte...‖quand Aniki George l'a arrêtée.
+39057|"...Je vais ouvrir la porte...‖  Tante Natsuhi, Battler-kun, tenez vos armes prêtes."
+39063|"......Entendu.‖  ...Sois prudent."
+39069|"Ils vont peut-être attaquer dès qu'on ouvrira...‖  George nii-san, fais attention à toi... !"
+39075|"...D'accord...‖  ......Alors...j'ouvre...‖  ......Hein ?!"
+39077|Il a essayé d'ouvrir, mais a tout de suite senti la résistance ferme de la serrure.
+39080|Tante Natsuhi a sorti le trousseau de clés de sa poche et l'a donné à George.
+39083|...Il y avait une dizaine de clés, et aucun de nous n'avait la moindre idée de laquelle était laquelle.
+39084|À cause de ça, George a dû tâtonner bruyamment et essayer plusieurs clés.
+39087|...Comme on avait étouffé nos pas pour préparer une attaque surprise sur la pièce, ça semblait presque fatal...
+39090|Pendant tout ce temps, on entendait la voix de Maria dans le salon, qui chantait la même chanson encore et encore.
+39091|...Comme une cassette folle et détraquée...
+39094|On était restés dans cette pièce presque sans interruption depuis le matin.
+39095|...Toutes les choses terrifiantes s'étaient produites hors de cette pièce.
+39097|...Ça nous avait laissé l'impression que seule cette pièce était sûre.
+39100|......Cette impression sans fondement s'effondrait rapidement...
+39105|"......Nng, ......c'est ouvert."
+39112|"...Merci.‖  George-kun, Jessica, mettez-vous derrière moi."
+39117|"...Tante Natsuhi,‖ on entre en même temps et on se sépare dans des directions différentes.‖  Si on reste plantés là après avoir ouvert la porte, ces pics à glace risquent de nous traverser en plein milieu... !"
+39121|"D'accord.‖  ......Prêt... ?"
+39126|"Ihihi... !‖  J'aimerais vraiment pouvoir dire `non'... !"
+39128|Je me suis préparé.
+39130|...S'ils lancent des pics à glace, je les dégommerai avec ce chandelier !!
+39135|"...Allez !!!"
+39145|Tante Natsuhi et moi avons enfoncé la porte avant de bondir dans le salon,‖ en nous séparant vite à gauche et à droite et en cherchant dans le salon quelqu'un qui pourrait nous attendre.
+39153|Mais ce sur quoi nos yeux se sont posés......‖...était un spectacle incroyablement...
+39154|...étrange...
+39159|Le salon......était maculé de sang.
+39161|Cet endroit, où on avait passé presque toute la journée,‖ où on s'était serrés les uns contre les autres pour se protéger d'une malveillance inconnue,‖ ...avait été maculé de sang frais, était devenu un océan de sang... !!
+39167|Sur le sol gisaient Genji-san, Kumasawa-san et le docteur Nanjo, le corps entièrement teint de rouge vif par le sang...
+39178|......Mais on ne pouvait les identifier qu'à leurs vêtements.
+39180|...Parce que...aaah, c'est vrai, c'est comme ça que toute cette tragédie avait commencé... !!!
+39186|Leurs visages...‖  Tout comme nos parents écrabouillés dans la remise, ...on ne pouvait plus dire où s'arrêtaient leurs yeux et où commençait leur nez !!‖  Comme s'ils avaient grossièrement plongé la figure dans des tourtes à la tomate, tout écrabouillés, ...uuwaaaaaaAAAAAAaaaaaaAAAAaahhh !!
+39192|Et ce n'était pas tout.‖  Leurs corps portaient d'autres blessures.‖  ...C'étaient ces `pics à glace du démon' !‖  Il y en avait...dans le ventre de Genji-san, dans la cuisse du docteur Nanjo...non, dans son genou ?‖  C'est ça, évidemment que c'est son genou... !‖  Dans l'épitaphe, au sixième crépuscule, c'était le ventre !  Et au septième crépuscule, on transperçait le genou !‖  Alors en en voyant un planté près du mollet de Kumasawa baa-chan, je n'ai pas pu m'empêcher de rire comme un maso, `Ahh, c'est ça'... !!
+39199|Au sixième crépuscule, transperce le ventre et tue.
+39200|Au septième crépuscule, transperce le genou et tue.
+39201|Au huitième crépuscule, transperce la jambe et tue.
+39205|Aaaaaah, ...maintenant, même le huitième crépuscule est passé.‖  Et le suivant, le neuvième crépuscule, ...c'était quoi déjà... ?
+39210|Maria......était là.
+39213|......Elle faisait face au mur, au fond de la pièce, ...immobile, toute seule.
+39214|Elle tournait le dos à cette scène horrible, debout contre le mur, chantant sa chanson encore et encore...
+39216|Il n'y avait rien d'autre dans la pièce.
+39218|...Juste les cadavres des trois personnes sauvagement tuées, ...et le combiné du téléphone, toujours décroché, prouvant que l'appel venait de cette pièce.
+39221|......Juste ça, et Maria, qui tournait le dos à la scène et continuait de chanter face au mur......
+39224|...On ne pouvait même pas crier devant cette scène...grotesque.
+39225|...On ne pouvait que regarder, sous le choc, bouche bée...
+39230|"......M-Maria......... ?"
+39235|Jessica l'a appelée.
+39238|...Mais Maria n'a eu aucune réaction.
+39240|......Toute seule, elle continuait de chanter, encore et encore...
+39242|On était venus ici pour essayer de sauver Maria d'un danger imminent.
+39244|...Alors, maintenant qu'on l'avait trouvée, on aurait dû courir vers Maria et la serrer dans nos bras, fous de joie qu'elle soit saine et sauve.‖  ...Et pourtant, aucun de nous n'en était capable... !
+39247|Tout le monde le pensait.  Mais personne ne pouvait le dire.‖  Après tout, parce que...parce que...c'est ça, même si c'est dingue......non, impossible...... !!
+39253|"...M-Maria !!‖  Arrête de chanter !!‖  Tu m'écoutes ?!!"
+39255|À un moment donné, ...Tante Natsuhi et moi avions braqué nos armes sur le dos de Maria.
+39259|...J'ai crié sur Maria d'une voix violente.
+39260|...Mais aucune réaction.‖  Elle continuait juste de chanter... !!
+39262|Le chandelier toujours prêt, j'ai couru vers elle et, avec force...non, avec violence, je lui ai abattu la main sur l'épaule.‖  Puis j'ai tiré sur son épaule pour la forcer à se retourner !
+39267|"...Uuwah.‖  ......Uu-."
+39272|Le petit corps de Maria a été brusquement tiré en arrière et elle est tombée.
+39274|...Et, comme mécontente qu'on ait interrompu sa chanson, ...Maria m'a regardé en face avec son expression habituelle.
+39277|Même dans cette situation macabre, ~ib~elle était exactement comme d'habitude !!~ib~
+39284|"Maria, c'est quoi tout ça ?!‖  Q-Qui a fait ça ?!"
+39289|"......Uu-.‖  Beatrice."
+39294|"A-Arrête tes conneries !!!"
+39296|J'ai lancé contre le mur le chandelier que je tenais.
+39299|La violence de ce bruit insensé aurait dû frapper Maria en plein cœur.
+39300|...Mais l'expression de Maria n'a pas changé d'un pouce !
+39306|"Arrête, Battler-kun !‖  Maria-chan, ...cette fois, tu as dû voir le visage du coupable qui a tué ces trois personnes.‖  Le coupable, c'était...la même Beatrice que celle qui t'a donné la lettre ?!"
+39310|"...Uu-.‖  Beatrice."
+39315|"Bon, dans ce cas, c'est certain.‖  Il y a une dix-neuvième personne, Beatrice existe bel et bien !!
+39320|  Alors, Maria, tu veux bien au moins me dire ça ?‖  Comment est-ce qu'elle a tué ces trois personnes ?‖  Avec quoi elle les a tués d'une façon aussi atroce ?!"
+39325|"...Je sais pas."
+39330|"Comment ça, tu sais pas ?!‖  Ça s'est passé dans cette pièce !!‖  Tu vas me dire que t'étais tellement absorbée par ta chanson que t'as rien remarqué ?!"
+39335|"Calme-toi, Battler-kun !!‖  ...M-Maria-chan,‖ parle-moi.‖  ...D'accord ?"
+39338|Aniki George, comme toujours, s'est accroupi à côté de Maria pour être à hauteur de ses yeux et lui a parlé très gentiment...
+39344|"...Maria-chan, ...pourquoi est-ce que tu chantais face au mur... ?"
+39349|"......Uu-.‖  ...Beatrice a dit de faire face au mur et de chanter longtemps sans m'arrêter.‖  Uu-."
+39354|"Alors, Beatrice est venue ici ?!‖  Genji-san et les autres étaient encore en vie à ce moment-là ?!"
+39358|"...Uu-.‖  Tout le monde est entré au salon ensemble et s'est assis.‖  ...Genji-san a bien fermé la porte à clé."
+39364|"Elle était fermée à clé quand on est arrivés...‖  Mais alors, comment Beatrice est-elle entrée dans le salon ?!!"
+39369|"Uu-.‖  Beatrice est une sorcière, alors les serrures, ça compte pas.‖  Elle s'est changée en papillons et elle est entrée par la fente de la porte."
+39376|"Hein ?!‖  Tu blagues tranquillement dans un moment pareil ?!!!‖  Tu parles que c'est arrivé !‖  Qu'est-ce que tu racontes ?!"
+39381|"Kihhihihihihihihihihihihihihihihihihihi !!‖  Tu peux pas le croire ?‖  C'est pour ça que je voulais pas le dire.‖  Peu importe comment je le dis, tu le croiras pas.‖  Mais Beatrice est une sorcière.‖  Elle peut tout faire avec sa magie miraculeuse.‖  C'est pour ça que Beatrice se fiche qu'une porte soit fermée à clé ou pas.‖  Kihihihihihihihihihihihihi... !"
+39386|"E-Et ensuite ?!  Après l'apparition de Beatrice, qu'est-il arrivé à tout le monde ?!"
+39391|"...Beatrice nous a parlé.‖  Elle a dit que le bureau de Grand-père était protégé par une force puissante, et qu'elle pouvait pas y entrer quoi qu'elle fasse.‖  Alors elle nous a dit qu'elle allait choisir trois sacrifices parmi les quatre personnes du salon.‖  ...Tout le monde a dit `pas question'.
+39395|  Kihihihihihihihihi, Kumasawa-san arrêtait pas de dire `pas question, pas question'.‖  Mais Beatrice a choisi.‖  ...Et quand elle l'a fait, Beatrice a dit que moi, il m'arriverait rien.‖  ......À ton avis, pourquoi ?"
+39400|"C'est grâce à l'amulette au scorpion avec le cinquième cercle magique de Mars, celle avec laquelle Battler a prié pour que je sois en sécurité, celle où il a mis ses sentiments.‖  À cause de ce pouvoir, Beatrice ne pouvait rien me faire, à moi et à moi seule."
+39404|"Alors elle a décidé de prendre les trois autres comme sacrifices.‖  Ensuite, Beatrice a parlé."
+39409|`Allons, fais face au mur et chante-moi une chanson.‖  ...Tu vas chanter des tas et des tas de chansons, alors quoi qu'il arrive, quoi que tu entendes, tu n'entendras pas tu n'entendras pas tu ne sauras pas.‖  Allons, chante-moi plein de chansons joyeuses.'
+39414|"Alors j'ai chanté tout le temps.‖  Encore et encore.‖  Alors j'ai rien entendu, j'ai rien su.‖  ...Et puis vous êtes tous arrivés.‖  Uu-."
+39419|"Tu veux qu'on croie ça ?!‖  Tu nous prends pour des idiots ?!!!"
+39424|"Kihhihihihihi !‖  Alors qui allez-vous soupçonner, cette fois ?‖  Vous allez me soupçonner, moi ?‖  Tu vas essayer de me tuer ici même ?‖  Même si tu fais ça, Beatrice ne cessera pas d'`exister'.‖  Maintenant, le huitième crépuscule est passé, et Beatrice va ressusciter !!"
+39428|"Tu te fiches de moi ?!  J'en ai assez de ce genre de discours !!‖  Comme si les sorcières pouvaient exister, comme si j'allais me laisser avoir !!!
+39432|  Je l'accepterai pas !  Beatrice n'`existe' pas !!‖  Je l'accepterai jamais !!‖  Alors je la laisserai pas exister, je la laisserai pas ressusciter !!‖  La légende restera une légende pour toujours.‖  J'admettrai jamais un truc pareiiiiiil !!!"
+39437|"Arrête, Battler... !!‖  C'est pas comme si Maria les avait tués ou laissés mourir !!‖  B-Beatrice est venue, et Maria a dû obéir, elle pouvait pas résister... !!"
+39445|"......Hein ?!‖  ...T-Tante Natsuhi ?‖  E-Elle n'est pas là... !"
+39450|"Hein ?  Quoi ?!"
+39455|"M-Maman ?  Où est-ce qu'elle est passée... ?!"
+39461|".........À l'instant, elle est partie toute seule, en lisant une lettre."
+39464|Une lettre ?!‖  Ç-Ça se tient, le coupable doit être tout excité maintenant qu'on a atteint le huitième crépuscule.
+39465|Il a peut-être laissé une lettre pour pouvoir fanfaronner encore plus.
+39467|On était tellement occupés à interroger Maria qu'on avait oublié de chercher une lettre... !
+39471|Mais même aussi bien armée qu'elle l'était, pourquoi avait-elle quitté la pièce toute seule dans ce manoir dangereux après l'avoir lue ?!
+39474|Jessica a essayé de la suivre et a tiré sur la poignée de la porte, mais elle résistait bizarrement et refusait de s'ouvrir... !
+39479|"Maman, Maman !!
+39484|  Qu'est-ce qui se passe ?!!‖  Ouvre, ...ouvre... !!!"
+39496|Rien de plus naturel.‖  ...Natsuhi avait ramassé le chandelier que Battler avait lancé contre le mur et qui était tombé par terre.
+39500|......Puis elle l'avait habilement coincé entre les poignées de la porte à deux battants, comme un verrou, pour la maintenir fermée.
+39501|...Le motif ouvragé du chandelier le fit s'accrocher solidement, et il scellait véritablement la porte.
+39506|Le cri tragique d'une fille appelant sa mère...
+39507|Parvint-il aux oreilles de Natsuhi, ou non... ?
+39525|La silhouette de Natsuhi se tenait...
+39526|...seule dans le hall d'entrée.
+39529|C'était l'endroit que décorait le portrait de Beatrice.
+39533|Natsuhi jeta à terre la dernière lettre de Beatrice, celle qu'elle avait lue dans le salon, ‖...reprit son fusil en main et, d'une voix claire et sonore, cria dans l'immense espace qu'était le hall d'entrée.
+39539|"...Je suis Ushiromiya Natsuhi, représentante de la famille Ushiromiya !!!‖  Montrez-vous, 
+39540|...Sorcière dorée, Beatrice !!!"
+39545|Le hall d'entrée était faiblement éclairé.
+39546|Hormis une faible lumière qui éclairait le centre de la pièce, tout était englouti par des ténèbres d'un noir de jais.
+39557|...Dans ces ténèbres, 
+39558|......des papillons scintillant d'or grouillaient, étincelaient, 
+39559|...et ricanaient.
+39561|Natsuhi déglutit une fois encore, profondément, et pointa le froid canon du fusil sur les papillons d'or......
+39563|"......Ainsi, vous avez enfin...‖...daigné vous montrer.‖  .........Je n'arrive toujours pas à croire...
+39565|...qu'une chose comme vous existe vraiment...‖  ...Mais cela n'a aucune importance."
+39568|"...Moi qui porte le titre de représentante de la famille Ushiromiya...
+39569|et vous qui prétendez succéder à la tête de la famille Ushiromiya...sommes ici en ce moment même.‖  ...À ce stade, que vous soyez une sorcière ou non n'est qu'un détail !"
+39574|"......Allons, 
+39575|...réglons cela.‖  ...Laquelle de nous deux succédera véritablement à la famille Ushiromiya ?‖  ...Moi, Ushiromiya Natsuhi, ‖......ou vous, 
+39576|...Beatrice ?!!‖  Permettez-moi d'accepter respectueusement votre défi en duel... !!"
+39603|Les papillons d'or formèrent lentement une silhouette humaine, qui s'avança dans la faible lumière...
+39608|Natsuhi tint son fusil prêt...
+39609|...et la fusilla du regard.
+39614|La sorcière leva son bâton doré au-dessus de sa tête...
+39615|...et rit.
+39620|Le doigt de Natsuhi...
+39621|pressa lentement la détente......
+39628|"Et...c'est paaaaaaaaaaaaaaaaarti !!!"
+39636|Battler se jeta de toutes ses forces contre la porte et la percuta, écrasant le chandelier qui la bloquait et parvenant à y ouvrir un large interstice.
+39638|Il continua de donner des coups de pied dans le chandelier à travers cet interstice, et la porte finit par céder.
+39651|À ce moment-là, ils l'entendirent.‖  ...Ils entendirent distinctement le claquement sec d'un coup de feu retentir une fois... !
+39659|"Maman !!‖  Mamaaaaaaaaaaaaaaaan !!!"
+39666|"Jessica-chan, il ne faut pas partir en courant toute seule... !!"
+39671|"C'était un coup de feu, à l'instant ?!‖  Tante Natsuhi a tiré ?!!"
+39674|Sur qui ?‖  Sur le coupable !!!
+39681|Le bruit venait du hall d'entrée.
+39682|Et le hall d'entrée...ressemblait à une scène de théâtre.
+39684|Comme l'héroïne d'une tragédie, à terre et baignée de lumière,‖ ......parée de la beauté de ce silence,‖ ...Tante Natsuhi gisait sur le dos, effondrée sur le sol...
+39688|À moitié folle, Jessica a couru vers Tante Natsuhi.
+39693|...Sur le front de Tante Natsuhi, 
+39694|...c'était presque comme si on y avait posé un éclat étincelant de rubis sang-de-pigeon.
+39708|...Et...
+39709|de là, un filet...
+39710|de maquillage de sang...
+39711|passait près de son œil...
+39712|et commençait à parcourir son visage......
+39714|Une légère odeur de poudre s'échappait du canon du fusil que Tante Natsuhi serrait encore.
+39723|......Hein ?‖  Alors, 
+39724|...alors, 
+39725|......elle...
+39726|...s'est tiré...
+39727|une balle dans le front... ?!
+39728|  Pourquoi ?!
+39732|"Maman, Maman, Maman !!!‖  Gyyyaaaaaaahhhhh !!!"
+39739|"...J-Je comprends rien !!‖  Pourquoi Tante Natsuhi s'est enfuie toute seule, 
+39740|...et pourquoi elle s'est tiré une balle dans le front ?!"
+39745|"...Maria-chan, Tante Natsuhi a quitté la pièce après avoir lu une lettre, c'est bien ça ?!‖  Il n'y a pas de lettre ici !‖  Bon sang, qu'est-ce que Tante Natsuhi a lu, et pourquoi a-t-elle été attirée ici ?!"
+39752|"J'en sais rien, j'en sais rien, on s'en fiche de ça... ?!!‖  C'est quoi ce délire, pourquoi elle s'est tuée ?!‖  Pourquoi...elle m'a laissée toute seule ?!‖  Aaaaaaaaaahhhhhhh... !!"
+39761|Jessica s'accrochait au cadavre de sa mère, pleurant à chaudes larmes...
+39764|Dévoré par une colère dont je ne savais que faire, j'ai arraché le fusil des mains de Tante Natsuhi.‖  J'ai pivoté sur moi-même, pointant le canon du fusil dans les ténèbres tout autour, comme le faisceau d'un phare, pour essayer de trouver le coupable.
+39766|Aniki George, même dans cette situation, essayait de comprendre quelque chose à tête reposée, mais c'était peut-être un effort vain.
+39771|......Et seule Maria restait complètement indifférente.
+39774|...Alors tout ça, c'est censé être une sorte de destin tracé d'avance ?
+39775|Non, ce n'est pas ça.
+39777|Tout ça, c'est...le prélude d'un monde merveilleux.
+39780|La porte du Pays doré va enfin...‖s'ouvrir.
+39784|"...Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie, ‖...et au dixième crépuscule, au terme du voyage, tu accéderas au pouvoir des trésors du Pays doré, une première et dernière fois.
+39790|  ...Avec ça, tout est terminé, Beatrice.‖  Félicitations, ...félicitations.‖  ...Alors guide-moi.‖  Guide-moi jusqu'au Pays doré dont tu m'as parlé...‖...tout de suite... !!"
+39792|Là-bas, tous les morts ressusciteront, et même l'amour perdu sera retrouvé.
+39796|......Alors, aux yeux de Maria, c'est exactement comme si toutes les tragédies d'aujourd'hui n'avaient pas eu lieu.
+39797|Comme si tout le temps qu'elle avait passé privée d'amour n'avait jamais existé.
+39803|"Arrête !!‖  Qu'est-ce qu'il y a de si drôle ?  Qu'est-ce qu'il y a à fêter ?!!‖  Il y avait 18 personnes sur cette île !‖  14 sont mortes !‖  Il ne reste plus que nous quatre !!
+39808|  Moi, je vais pas mourir, c'est sûr !‖  Jusqu'à la fin de la nuit...non, jusqu'à ce que le typhon passe et que les mouettes se rassemblent à nouveau au port, je vais pas mourir, c'est sûr !!‖  Je resterai en vie, je resterai en vie quoi qu'il arrive !!"
+39812|"......Kihihihihihi.‖  Laisse tomber, Battler.‖  ...Les fusils ne servent à rien contre les sorcières.‖  Survivre et tout ça, ça n'a plus d'importance...parce que c'est fini.
+39815|  ~ib~Le voyage est déjà terminé~ib~.
+39818|  ......Tiens, regarde l'horloge."
+39822|...Hein ?‖  L'horloge ?
+39824|En entendant ces mots, j'ai regardé ma montre.
+39826|Les deux aiguilles se touchaient presque, tout en haut.
+39829|...Il sera bientôt minuit.‖  ...Autrement dit, 24 h 00.
+39832|Quand on y pense, 24 h 00, c'est une heure bizarre, non ?
+39833|...On peut l'appeler 24 h 00, et on peut aussi l'appeler 0 h 00.
+39837|C'est l'heure où culmine la journée précédente, ...et en même temps, c'est l'heure zéro, quand commence le jour suivant.
+39840|"......Beatrice !!"
+39842|Maria s'est soudain écriée joyeusement et a couru vers les ténèbres.
+39845|C'était presque comme si Beatrice se trouvait quelque part dans ces ténèbres et que Maria courait vers elle.
+39849|Tandis que Jessica serrait le cadavre de sa mère dans ses bras,‖ tandis qu'Aniki George restait planté là, désemparé,‖ je regardais dans le canon du fusil,‖ ...scrutant les ténèbres...
+39853|L'espace devant le portrait de Beatrice se trouvait dans cette direction.
+39857|Et...ce vers quoi Maria courait, c'était...
+39858|...le sujet...
+39859|du portrait.
+39864|Vous vous foutez de moi, 
+39865|...c'est...tout simplement impossible...
+39868|...Comme si j'allais me faire avoir par un truc pareil, 
+39869|...les sorcières n'`existent' pas, je ne l'accepterai pas... !
+39872|Une chose comme toi ne devrait pas `exister', 
+39873|parce que c'est un monde d'humains !  Tu crois que je pourrais accepter quelque chose qui n'est pas humain ?!  Je ne l'accepterai jamais !!
+39879|Quand j'ai tiré d'un coup sec sur le levier du fusil, la douille a été éjectée, est tombée par terre, et une nouvelle cartouche a été chargée.
+39881|Puis j'ai mis la sorcière en joue...
+39884|Maria s'est retournée.
+39885|......Toujours accrochée à la Sorcière dorée, elle s'est retournée.
+39888|"...Je t'avais pas dit que ça servait à rien ?‖  ......De simples balles de plomb ne servent à rien contre Beatrice.
+39892|  ...Les humains sont vraiment bêtes, hein ?‖  ...Kihihihihihihihihihihihihihihihihihi."
+39897|"J'accepterai pas l'existence des sorcières !!‖  Qui es-tu ?!!‖  Essaie seulement de faire un pas, essaie seulement de bouger un doigt !!‖  Je te fais sauter la cervelle !!!"
+39905|"Kihihihihihihihihihihihihihihihihihihihihi, 
+39906|*gloussement*gloussement*gloussement*gloussement*gloussement*, 
+39907|"*ricanement*ricanement*ricanement*, *ricanement*ricanement*, 
+39908|ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah !!""
+39918|Tandis que la sorcière...non, les sorcières riaient, ...même la grande horloge du hall s'est jointe à leurs rires...
+39921|Elle nous annonçait sans doute qu'il était 24 h 00.
+39923|C'était à la fois un son qui nous annonçait qu'on avait atteint le point culminant de cette journée, ‖et un son qui nous apprenait que tout était retourné au néant.
+39926|~ib~La règle selon laquelle la sorcière gagnerait quand le temps serait écoulé avait déjà été révélée.~ib~
+39930|"......Battler,‖ ...George nii-chan et Jessica.‖  ......Le voyage est terminé, et la sorcière est...ressuscitée, vous voyez ?"
+39933|Et ~ib~nul ne restera en vie~ib~.
+39942|La sorcière louera le sage et lui accordera quatre trésors.
+39948|L'un sera tout l'or du Pays doré.
+39949|L'un sera la résurrection de toutes les âmes défuntes.
+39950|L'un sera la résurrection de l'amour perdu.
+39951|L'un sera d'endormir la sorcière pour l'éternité.
+39959|Sorcière que j'aime, Beatrice, dors en paix...

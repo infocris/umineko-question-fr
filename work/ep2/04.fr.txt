@@ -1,0 +1,687 @@
+103487|"Les esprits maléfiques d'Akujikishima se sont éveillés de leur sommeil et ont invoqué Beatrice-sama.‖  ......Si jamais Beatrice-sama venait à rendre visite à la conférence familiale..."
+103493|"Si elle venait... ?"
+103498|Kumasawa se tut un instant.
+103499|...Jessica la pressait de continuer, si bien que ce silence parut étrange, inquiétant.
+103502|Quand Kumasawa s'aperçut que son silence avait bel et bien effrayé Jessica, elle eut un large sourire.
+103510|"Ma foi, je me demande bien ce qui arriverait.‖  Ho ho ho ho ho..."
+103530|"Ouah, ça a l'air génial."
+103534|"Bien sûr.‖  Tu ne serais pas plus efficace au travail... si tu t'accordais de temps en temps l'occasion d'enrichir ton cœur en profitant de la belle vie... ?"
+103542|"Ouais.‖  On peut pas vivre correctement si on n'a pas le portefeuille et le cœur bien remplis, pas vrai ?‖  D'accord, je garde ce jour-là libre.‖  Vas-y, fais les réservations."
+103544|"Entendu.‖  Pas question que tu te défiles."
+103546|"Ouais, je compte sur toi.‖  Je t'aime, Kyrie."
+103559|Après avoir embrassé le combiné, Rudolf raccrocha.
+103562|...Devant son bureau se tenaient plusieurs cadres aux manches retroussées, qui attendaient avec impatience la fin de cet appel.
+103571|"Désolé de vous avoir fait attendre.‖  On a des nouvelles des États-Unis ?"
+103573|"Oui.‖  Vous avez un appel de Dale Watanabe, l'avocat.‖  Je vous le transfère."
+103582|"...Dans l'ensemble, ça se présente comment ?"
+103584|"Eh bien, euh..., ...il semble qu'il y ait un point fâcheux.‖  La partie adverse n'aurait aucune intention de renoncer au procès."
+103594|"...On dirait qu'on ne les roulera pas si facilement.‖  Ha ha...‖  Transférez-le-moi, s'il vous plaît."
+103596|"Entendu.‖  Je m'en occupe tout de suite."
+103597|Le cadre ordonna que la ligne extérieure soit transférée au secrétariat.‖  Aussitôt, le téléphone devant Rudolf sonna.
+103607|"Salut.‖  <Hello, hello> !‖  Désolé pour l'attente, Ushiromiya à l'appareil.‖  Merci, merci.‖  Comment ça se passe de votre côté ?"
+103609|"<Hello, President Ushiromiya>.‖  Passons les politesses et entrons dans le vif du sujet.‖  J'ai une bonne et une mauvaise nouvelle, laquelle voulez-vous en premier ?"
+103613|"...Autant commencer par la mauvaise.‖  J'ai horreur de me battre quand il n'y a pas de dessert à la fin."
+103617|"Très bien.
+103620|  La mauvaise nouvelle, c'est que la partie adverse se prépare à engager des poursuites.‖  Il y a quelques jours à peine, un procès similaire s'est conclu en faveur du plaignant.‖  Les défendeurs avançaient à peu près les mêmes arguments que ceux que nous comptions utiliser, et ils ont été rejetés sur toute la ligne.‖  Je suis navré de vous le dire, mais si nous allons au tribunal en l'état, il est extrêmement probable que chacune de nos prétentions soit rejetée."
+103626|"...Donc ce procès-là a fini en fiasco total, finalement.‖  ...Et moi qui croyais que leur position était encore plus solide que la nôtre.‖  Ça fait mal.‖  Bon, et la bonne nouvelle ?"
+103630|"J'ai réussi à contacter les dirigeants de la partie adverse.‖  Je leur ai expliqué notre situation, je leur ai dit que nous n'avions aucune intention de ternir l'image de leur marque, et j'ai réussi à obtenir une certaine compréhension.‖  Ils nous enverront leurs conditions dans les prochains jours, et si elles sont remplies, ils promettent de retirer leur plainte.‖  C'est la proposition du numéro deux de leur conseil d'administration."
+103634|"Votre impression ?"
+103638|"Pour être franc, je m'attends à des conditions extrêmement sévères.‖  Selon nous, changer le nom de la société et celui de la marque sera inévitable.‖  Je pense que nous pourrons gagner un peu de marge en jouant sur le montant de l'indemnité transactionnelle, en publiant des excuses publiques dans un grand journal, ‖et en menant tout cela à bien dans un délai raisonnable."
+103642|"Ils se compliquent bien la vie, alors qu'ils pourraient simplement nous dire de faire faillite."
+103646|"Ils viennent tout juste de changer de président, et leurs bases ne sont pas encore totalement consolidées.‖  Si nous résistons jusqu'au bout, ils craignent que les forces opposées au président actuel n'hésitent pas à prêter main-forte à leurs ennemis.‖  C'est pourquoi leurs pontes veulent, eux aussi, régler cette affaire au plus vite.‖  Nous aurions donc encore une marge suffisante pour leur faire adoucir leurs conditions, si cela permet un règlement rapide."
+103655|"Dans tous les cas, on parle toujours d'une somme délirante ?"
+103657|"Il faut vous y préparer.‖  Même ainsi, ce serait bien moins cher que de payer des dommages et intérêts punitifs."
+103661|"Merci infiniment, maître.‖  Contactez-moi s'il y a du nouveau.‖  On vous paie une fortune, alors pas de bavardages inutiles.‖  Ha ha ha ha.‖  <Thank you, thank you, goodbye.>"
+103668|Rudolf raccrocha.
+103671|Les cadres assis dans les fauteuils de réception semblaient avoir deviné la teneur de cette conversation.
+103681|"...Vous avez entendu ?‖  Pour faire simple,‖ ils nous pardonneront si on arrive à aligner assez d'argent.‖  Maintenant, il ne nous reste plus qu'à marchander le montant."
+103683|"Mais, monsieur le Président,‖ la somme que M. Watanabe a laissé entendre pour la transaction est bien trop élevée.‖  Nous n'avons pas une telle marge... !"
+103693|"Si on avait su que ça arriverait, on ne se serait jamais diversifiés..."
+103695|"D'après nos calculs, nous pouvions échapper à la crise de trésorerie si nous tenions trois ans.‖  ...Et voilà qu'on nous poignarde à un moment pareil...  Comment peut-on avoir aussi peu de chance... ?!"
+103700|"On s'est vautrés sur le `pas' du `saut, pas, bond', faut croire.‖  Y a de quoi pleurer."
+103704|"Nous n'avons pas d'autre choix que de puiser auprès de notre banque principale."
+103713|"Les banques, c'est pas une solution.‖  Elles ne misent que sur les gagnants.‖  ...L'économie va mieux, mais on ne peut pas montrer de faiblesse aux banques."
+103715|"...Monsieur le Président,‖ avons-nous accès à des fonds qui n'apparaissent pas dans les comptes ?‖  Des fonds dont nous ignorerions l'existence ?"
+103728|"Arrêtez.‖  J'ai l'air d'être ce genre d'homme ?‖  Le contenu de mon portefeuille, vous le connaissez par cœur, d'accord ?‖  Les livres de comptes, là-bas, montrent tout ce que possède la société."
+103730|"Dans ce cas, ...il faut lever des fonds.‖  Il nous faut au plus vite un bailleur capable de nous apporter plusieurs millions."
+103731|"...Monsieur le Président,‖ ne pourriez-vous pas arranger quelque chose grâce à l'une de vos relations personnelles... ?!"
+103739|"Monsieur le Président !‖  Monsieur le Président... !"
+103748|"...Aaaah, du calme, bande d'abrutis.‖  ...Laissez-moi m'occuper de trouver l'argent.‖  Vous, contentez-vous de faire tourner la boîte sans faire trop de bruit.‖  Nos accusateurs disent qu'ils nous ficheront la paix si on leur montre l'argent.‖  On a déjà de solides filières en Asie.‖  Ça va sûrement tanguer, mais on pourra maintenir nos contrats actuels.‖  En gros, si on arrive juste à réunir l'argent, tous nos problèmes seront réglés."
+103753|"Vous allez voir.  Je vais arranger tout ça.‖  Je ne vous laisserai pas tomber.‖  Il est temps de reprendre espoir.‖  Une fois tout ça derrière nous, je vous récompenserai tous avec une pyramide de champagne.‖  Je vous le promets.‖  Alors fermez-la et suivez-moi.‖  C'est compris ?!!"
+103767|L'avion fut soudain secoué, sans doute par des turbulences.
+103771|Rudolf fut tiré brusquement de son sommeil.
+103772|Il s'était levé tôt ce matin-là et avait fini par s'assoupir en se reposant dans son siège.
+103780|"...Ça va ?‖  Tu es sûr de ne pas avoir encore sommeil ?‖  Tu as l'air d'être vraiment débordé par le travail, ces derniers temps."
+103786|"Être débordé par le travail, y a pas de quoi s'en plaindre, pas vrai ?‖  Le jour où j'aurai plus rien à faire, on se retrouvera vite à la rue."
+103793|"Bien vu.‖  Maintenant que même Battler-kun est revenu, ce ne serait plus seulement nous deux qui devrions aller mendier."
+103800|"...Ouais.‖  Notre famille est de nouveau réunie pour la première fois en six ans.‖  ...Alors le chef de famille doit donner le meilleur de lui-même si on veut passer un peu de temps ensemble..."
+103805|En regardant par le hublot, il vit que l'avion avait déjà considérablement perdu de l'altitude.
+103806|Les bateaux de pêche, qui ne ressemblaient tout à l'heure qu'à des grains noirs, devenaient nettement reconnaissables.
+103812|"......Si je pouvais me prosterner devant Père et toucher 10 millions de yens à chaque coup de poing qu'il me donne, je le ferais une douzaine de fois...‖  Ou alors il pourrait aussi bien crever, tout simplement.‖  ......J'ai toujours dépendu de son soutien financier, et maintenant c'est son héritage que je convoite.‖  .........Je file tout droit en enfer.‖  ...Je peux difficilement me plaindre si Père ne veut pas voir l'homme que je suis devenu..."
+103836|"...Se pourrait-il que, cette fois encore, vous ne comptiez pas faire votre apparition à la conférence familiale ?"
+103841|Nanjo regarda le visage de Kinzo en soupirant.
+103842|...Les yeux de Kinzo restaient rivés sur un étrange grimoire.
+103849|"Je n'ai aucune intention de me joindre aux débats de ces vautours.‖  Qu'ils discutent entre eux de la façon dont ils suceront la moelle de mes os.‖  ...Quelle engeance méprisable."
+103855|".........‖...Allons, allons.‖  Quel tracas..."
+103859|Nanjo secoua légèrement la tête.
+103863|...Pour lui, enfants et petits-enfants étaient des êtres charmants.
+103864|Il croyait que les regarder grandir était la seule façon de vraiment savourer la vieillesse.
+103867|Aussi les paroles de Kinzo attristaient-elles profondément Nanjo.
+103872|"Quand viendra le moment pour moi de quitter cette pièce, je me montrerai.‖  ...Tout comme elle ne se montre pas encore."
+103879|Quand Kinzo leva le visage, son regard se porta sur le portrait de la sorcière, respectueusement exposé au mur...
+103886|"............"
+103893|L'esprit de Kinzo ne s'attarda pas un instant sur le fait que c'était aujourd'hui la conférence familiale, où se réuniraient tous ses chers parents.
+103894|...Il n'était empli que du visage de la sorcière de la peinture à l'huile, qui ne souriait jamais, sinon à l'intérieur du portrait...
+103897|Tout le monde savait qu'interrompre Kinzo quand il parlait de Beatrice déchaînait sa colère...
+103905|"Aujourd'hui, je vais...célébrer une certaine cérémonie."
+103911|"Oh ?‖  ...Et de quoi s'agit-il ?"
+103917|"...C'est peut-être plus un pari qu'une cérémonie.‖  ...Après tout, une magie sans risque ne saurait jamais abriter de miracle."
+103925|Nanjo avait déjà entendu Kinzo dire cela bien des fois.
+103926|On aurait même pu parler d'une expression fétiche de Kinzo.
+103929|...Kinzo croyait apparemment que la magie et les miracles pouvaient advenir si l'on jouait son propre destin en prenant un certain risque, et que l'on triomphait...
+103936|"Je me demande quel genre de pari vous allez faire,‖ vous l'homme que l'on surnommait autrefois le Joueur doré...et qui est aujourd'hui si vieux qu'il pourrait s'éteindre à tout moment...‖  Voilà qui mérite assurément d'être vu..."
+103944|"Hmph, ‖...je vois.‖  Ainsi, le rituel secret que j'ai mis au point au prix de longues recherches...ne semble être qu'un simple pari aux yeux d'un profane en magie tel que vous.‖  Fort bien."
+103949|".........Si j'ai foi dans les miracles et que je gagne, ‖vous verrez clairement en ce jour que toutes mes recherches ont bel et bien porté leurs fruits, même si elles ne semblaient guère être que le produit de mon excentricité.‖  Si c'est vous qui gagnez, ‖......tout s'achèvera exactement comme vous l'avez déjà vu, comme rien de plus que l'excentricité d'un vieillard qui pourrait quitter ce monde à tout moment."
+103955|"Oh...‖  Quel genre de pari pouvez-vous donc envisager... ?‖  En tant qu'ami, ce pari...ou cette cérémonie, comme vous l'appelez...
+103959|  ...je ne puis que prier de tout cœur pour que vous la remportiez."
+103965|"Oui, ...je vous remercie."
+103971|"...À ce propos, Kinzo-san,‖ avez-vous entendu dire qu'un invité tant attendu serait présent à la conférence familiale cette année ?"
+103979|"Quoi... ?"
+103981|Pour une fois, Kinzo réagit aux paroles de Nanjo et se retourna.
+103987|"Eh oui, Battler-kun, de la famille de Rudolf-san.‖  Il paraît qu'il revient après six ans d'absence.‖  Je suis sûr qu'il est devenu un splendide jeune homme."
+103993|".........Ah, Battler ?‖  ...Je ne qualifierais pas de `tant attendu' un invité qui a simplement manqué à l'appel six ans durant."
+103998|En entendant le nom de Battler, Kinzo prit un air déçu et maussade, puis tourna de nouveau le dos.
+104006|"J'imagine que ces six années sont passées en un éclair pour vous, plongé comme vous l'êtes dans vos recherches dans cette pièce..."
+104015|"Hmph.‖  ...Cependant, il se pourrait bien que nous recevions la visite...
+104017|......d'un invité véritablement tant attendu.‖  ...Tout dépend du résultat de la roulette.‖  ...La roulette a déjà commencé à tourner.‖  Sera-ce rouge, ou noir ?"
+104022|"......Ce soir, régalons-nous en voyant quel miracle la roulette nous montrera.‖  ...Les gains sont considérables.‖  Et je n'ai pas l'intention de perdre...‖  ...Beatrice, ...accepte ma mise......"
+104028|À ce moment, le téléphone sur la table sonna.
+104031|Ce son strident sembla irriter Kinzo, qui décrocha le combiné pour préserver autant que possible le silence.
+104044|"...Qu'y a-t-il ?‖  Je suis occupé."
+104046|"Ici Genji.‖  Tout le monde est arrivé."
+104048|"Et alors ?‖  Sers-leur donc du thé ou je ne sais quoi."
+104050|"...Bien.‖  Je m'en occupe."
+104057|Kinzo raccrocha brutalement.
+104060|Voyant cela, Nanjo soupira une fois de plus et porta son attention au-dehors, par la fenêtre.
+104066|Tel qu'il est maintenant, je doute que Kinzo prête attention à quelque invité que ce soit.
+104067|...Un invité pourrait-il seulement faire sortir Kinzo `quand viendra le moment', comme il l'a dit ?
+104070|Kinzo avait une seule personne en tête, mais c'était là une invitée qui ne viendrait certainement pas...
+104076|Nanjo fixa la sorcière du portrait à l'expression impassible, sans pouvoir décider si elle souriait ou si elle était triste, puis leva les yeux vers le ciel couleur de plomb...
+104107|Alors, toutes les pièces sont-elles en place... ?
+104108|Et si on les disposait à nouveau pour commencer une nouvelle partie ?
+104115|"Des objections de ton côté... ?"
+104124|"...Non, aucune."
+104127|La sorcière le regardait d'un air de défi tout en fumant élégamment sa pipe.
+104130|Et Battler ?
+104131|Il se contenta de hausser grossièrement les épaules, comme si ce qu'elle faisait lui était égal.
+104135|Il ne croisa pas son regard.‖  Mais cela ne voulait pas dire qu'il ne comptait pas la défier.
+104136|...Cela montrait sa ferme résolution à ne jamais se laisser prendre aux ruses de cette garce.
+104139|C'était l'expression de sa détermination à se battre.
+104145|"Ne me dis pas que tu te lances là-dedans sans aucun plan... ?"
+104151|"Je sais même pas comment tu vas jouer ton premier coup, alors j'ai pas de plan ni rien.‖  ...Vas-y, joue en premier."
+104157|"Hmph...  Naturellement, c'est ce que je ferai.‖  Comment vais-je percer tes défenses ?‖  En combien de coups te mettrai-je échec et mat ?
+104162|  ...C'est là que tu me verras sous mon meilleur jour."
+104170|"......Peu importe les coups que tu me balances, je ne croirai pas en toi !‖  ...Tant que je tiens bon sur ce point, je ne perdrai pas.‖  Et ça veut dire...‖que cette partie est faite de telle façon que tu ne peux pas gagner..."
+104177|"Peut-être as-tu raison.‖  Cependant,‖ c'est moi qui décide combien de fois nous jouerons cette partie.‖  Nous la recommencerons encore et encore, jusqu'à ce que je gagne et que tu reconnaisses ta défaite, vois-tu... ?"
+104182|"Autrement dit, c'est une torture.‖  Une torture éternelle qui continuera jusqu'à ce que tu te rendes à moi... !‖  Elle se poursuivra sans fin, jusqu'à ce que tu reconnaisses mon existence et celle des sorcières !"
+104190|"...Alors je jouerai à ton jeu sans fin, autant de fois qu'il faudra, jusqu'à ce que tu perdes patience.‖  J'ai jamais perdu une épreuve d'entêtement."
+104196|"Oh, une certaine sorcière t'aurait-elle soufflé cette idée... ?‖  *ricane*ricane*  Fort bien... !"
+104202|"J'en ai marre de t'écouter radoter.‖  ...Allez, qu'on commence !"
+104208|"Alors commençons !‖  Je connais déjà tous tes coups.‖  Une défense ne vaut pas grand-chose quand on connaît le plan qui la sous-tend !‖  Ne crois pas pouvoir me tenir tête avec les mêmes coups !!"
+104214|"...Beatrice,‖ j'ai juste une chose à dire avant qu'on commence."
+104220|"Laquelle... ?"
+104238|"Vas-y, dis tout ce que tu veux.
+104239|  Mais te croire ou non...
+104241|c'est
+104243|à moi
+104245|d'en décider... !
+104256|  Peu importe à quel point ta magie est impressionnante,‖ mon âme ne pliera pas devant toi !‖  Tu crois que c'est une torture pour moi ?‖  Tu te trompes !!"
+104263|"Alors qu'est-ce que ce serait d'autre... ?!"
+104281|"C'est une torture pour toi !!
+104291|  Un jour, tu te rendras et tu abandonneras !‖  D'ici là, tu seras torturée encore et encore !"
+104299|"Comme c'est amusant, quelle métaphore divertissante !!‖  Une torture où nous nous tourmentons l'un l'autre...oui, vraiment amusant !
+104302|  Allons, commençons-nous cette torture ?!!‖  Ushiromiya Battleeeeer ?!!!"
+104328|Chaque année, les parents qui venaient à Rokkenjima laissaient échapper un soupir d'admiration devant la roseraie qui les accueillait en premier...
+104330|Ils s'y arrêtaient pour bavarder de la beauté des roses et de leur belle floraison cette année-là.
+104337|Au milieu de tout cela se trouvait une unique rose mal en point, et Maria fut accablée de tristesse en voyant son état.
+104344|Mais George eut la présence d'esprit, ‖en disant que tout irait bien s'ils prenaient soin de cette pauvre fleur, de la marquer d'un papier de bonbon, ce qui rendit aussitôt sa bonne humeur à Maria.
+104351|Puis Battler, avec qui elle s'entendait bien depuis le matin, se mit à parler d'Halloween.‖  C'était un sujet si cher à Maria qu'elle se remit à jouer avec entrain.
+104357|Pour Maria, ces bonbons en guimauve en forme de citrouille d'Halloween, achetés par sa mère, étaient sans doute le plus grand des trésors.
+104360|...Elles semblaient en avoir acheté plusieurs, et elle réclamait un `trick or treat' à chaque personne qu'elle croisait, mais c'était elle qui leur donnait des bonbons, au lieu de l'inverse.
+104369|"Je me demande pourquoi Maria aime autant Halloween.‖  J'ai toujours cru que c'était une fête plutôt méconnue des Japonais."
+104376|"Bah, c'est une fête pour les gosses où ils peuvent défiler déguisés, non ?‖  C'est marrant de jouer avec une tenue différente de d'habitude."
+104383|"Hmm, ...je crois qu'il y a une raison un peu plus profonde.‖  Après tout, c'est Maria-chan la `sorcière'."
+104390|"Maintenant que j'y pense, à l'aéroport, Maria disait pas que si elle devait se déguiser, ce serait en sorcière ?‖  Elle aime les sorcières ?"
+104398|"...Oui, elle les adore.‖  À tel point que ça en devient un problème."
+104403|"Allez, c'est pas si grave.‖  À cet âge-là, c'est normal que les gamins adorent ce genre de trucs fantastiques."
+104409|"Si c'était juste l'héroïne d'un dessin animé à la télé, ce serait mignon, au moins...‖  ...*soupir*"
+104413|À en juger par son air, Rosa, en tant que mère, ne voyait pas d'un très bon œil l'amour de sa fille pour les sorcières.
+104416|Les cousins, à part Battler, semblaient s'en rendre compte, et ils haussèrent les épaules avec un sourire crispé.
+104423|"Hmmmm ?‖  Donc d'après toi, comme elle aime les sorcières, elle aime aussi Halloween ?
+104429|  Si on sait pas, on n'a qu'à lui demander.‖  Hé, Maria.‖  Quel rapport entre Halloween et les sorcières ?"
+104434|Quand Battler posa la question, George et Jessica laissèrent échapper un `ah' étouffé.
+104435|...Comme s'ils essayaient de l'arrêter, mais trop tard.
+104440|Maria n'attendait peut-être que cette question.
+104445|Après un bref sourire radieux, son expression se fit un peu mauvaise, comme pour dire : "T'y connais vraiment rien, hein ?"
+104448|C'était le visage d'un passionné agacé qu'un profane dise une bêtise sur son sujet favori.
+104460|"Uu-.‖  ...Pour les Celtes, la force changeante du soleil au fil de l'année représentait...‖sa naissance, sa croissance, sa vieillesse et sa mort, puis sa résurrection."
+104467|"Je vois.‖  Au printemps, le soleil tiède et faible commence à grandir et à chauffer,‖ puis il s'affaiblit petit à petit et s'use.  C'est assez logique de voir ça comme le soleil qui vit toute une vie."
+104474|"Oui.‖  Alors ils pensaient qu'à la fin octobre, le soleil mourait, reposait au pays des morts, puis ressuscitait au solstice d'hiver.‖  Et le nom qu'ils donnaient au dernier jour de leur année, quand le soleil terminait sa vie d'un an et mourait...c'était Samhain, et ils faisaient une fête ce jour-là."
+104482|"C'est une idée intéressante, de penser que le soleil ressuscite le jour du solstice d'hiver, quand les journées recommencent à rallonger.‖  Ça montre bien à quel point les anciens considéraient le soleil comme sacré."
+104489|"...Je vois.‖  Et quel rapport avec les sorcières ?"
+104497|On aurait dit que ma façon désinvolte de la presser avait un peu exaspéré Maria.
+104498|Elle m'a fusillé du regard, avec des yeux qui me disaient de me taire pendant qu'elle expliquait.
+104501|...Maria avait l'air de s'amuser comme une folle en parlant, alors j'ai décidé de ne pas l'interrompre...
+104507|"Entre octobre et novembre, la vie et la mort sont plus proches que jamais.‖  ...Les Celtes croyaient qu'à ce moment-là, le monde des vivants se rapprochait du monde des morts et des êtres de l'autre monde,‖ et que beaucoup de ceux qui vivaient dans l'autre monde venaient rendre visite.
+104512|  ...C'était comme la fête des morts, l'O-Bon, au Japon.‖  Kihi hi hi hi."
+104519|À l'époque, les gens croyaient que les âmes qui revenaient dans le monde physique entraient dans les maisons ou possédaient les gens pour faire le mal.
+104522|Alors, pour s'en préserver, ils accomplissaient des rituels.
+104525|L'un d'eux consistait à imiter des monstres effrayants pour faire fuir les âmes, ce qui était apparemment un moyen d'éviter d'être possédé.
+104533|"C'est cette partie-là qui est devenue une fête, puis un défilé de déguisements.‖  ...T'en sais vraiment des choses, Maria !"
+104540|"...C'est bien vrai, ça.‖  Même moi, je savais pas qu'Halloween avait une telle histoire."
+104547|"Mais d'où il sort, tout ce truc du `trick or treat' ?"
+104551|Ses connaissances étaient si vastes que les adultes s'étaient soudain mis à écouter, eux aussi.‖  Maria, qu'on traitait d'ordinaire toujours comme la petite dernière, bomba fièrement le torse.
+104554|Disant que ce n'était qu'une conversation d'enfants, Rosa proposa aux adultes d'aller devant déposer leurs bagages à la maison d'hôtes,‖ mais personne n'accepta de l'accompagner, et elle poussa un lourd soupir.
+104561|"Uu-.‖  Le `trick or treat', c'est juste pour s'amuser.‖  Ça n'a rien à voir avec ce qui était au départ une cérémonie celte.‖  Ça a été inventé plus tard, quand les coutumes chrétiennes se sont mélangées.‖  ...Mais je trouve que c'est bien qu'Halloween soit comme ça."
+104565|D'après Maria, les âmes des morts n'étaient pas les seules à venir du monde non humain.‖  Il y avait aussi des esprits intimement liés à la vie quotidienne des gens.
+104568|Les humains pouvaient recevoir les faveurs de ces esprits, et ainsi obtenir de magnifiques bénédictions,‖ ainsi qu'une année de bonnes récoltes.
+104575|"Donc en gros, Halloween, c'était aussi un peu une fête des moissons ?"
+104582|"Je vois.‖  ...Maintenant que tu le dis, octobre est un tournant à plein d'égards, y compris pour les saisons.‖  Un peu l'inverse d'avril au Japon.‖  ...Ouais, c'est peut-être un bon moment pour marquer le coup."
+104589|"Uu- !‖  Et aussi, les sorcières tiennent à ce moment-là une assemblée de sorcières, qu'on appelle le Sabbat.‖  Les sorcières remercient les esprits qui accordent la prospérité, et elles les récompensent."
+104596|"Les déguisements d'Halloween imitent les invités qui viennent de l'autre côté.‖  ...Autrement dit, on pourrait dire que distribuer des bonbons est une façon de remercier pour la récolte de l'année."
+104603|"Uu- !‖  C'est comme dit George onii-chan !"
+104610|"Donc Halloween, c'est le moment où ces deux mondes se mélangent ?‖  Autrement dit, c'est la meilleure occasion pour les sorcières de frayer avec les invités de l'autre monde.‖  C'est ça que tu veux dire ?"
+104617|"Uu- !!‖  C'est comme dit Battler !"
+104624|"Et tu sais quoi ?‖  Tu sais quoi ?!‖  Octobre, c'est quand le pouvoir des sorcières et des démons est le plus fort et le plus florissant !‖  Kihi hi hi hi hi hi hi, je suis sûre que Beatrice va venir !"
+104629|"Et puis on mangera des bonbons à la guimauve ensemble, et elle m'emmènera avec elle dans la Terre dorée !‖  On chantera des chansons magiques ensemble, on apprendra des formules magiques ensemble, on apprendra à dessiner des cercles magiques ensemble !‖  Et puis on apprendra les secrets des runes, et je deviendrai une grande sorcière très, très vite !"
+104642|"Eh bien, comme c'est merveilleux.‖  Rien de tel pour les enfants que d'avoir des rêves.
+104648|  Au fait, Rosa,‖ quel âge Maria aura-t-elle déjà cette année... ?"
+104655|"M-Maria,‖ ...ça suffit maintenant !"
+104663|"Ne t'en fais pas, Rosa-san.‖  C'est un rêve que toutes les filles font à un moment ou à un autre."
+104669|"M-Merci beaucoup.‖  ...Mais Maria a déjà passé cet âge-là.
+104675|  ...Hé, je te dis d'arrêter !"
+104679|Rosa gronda Maria, cherchant à la faire taire avant que ses joyeux discours sur la magie noire ne lui attirent les ricanements de la famille.
+104687|"Oh... ?‖  Ça a l'air drôlement précis et impressionnant.
+104692|  ...Au fait, c'était qui déjà, Beatrice ?‖  ...Hmm, je suis sûr d'avoir déjà entendu ce nom quelque part..."
+104697|Battler était parti pendant six ans...et avait complètement oublié la Légende de la sorcière de Rokkenjima.
+104700|Mais quand il déclara ne pas connaître le nom de Beatrice, la bonne humeur de Maria s'assombrit en un instant.
+104705|En voyant cela, Battler se souvint aussitôt que c'était le nom de la sorcière de cette île, mais le mal était fait.
+104708|...Jusqu'à ce que son humeur s'améliore, Maria enchaîna sans fin les récits mystérieux et fabuleux au sujet de la Sorcière dorée...
+104719|"Ça suffit, Maria.
+104725|  Merci, Battler-kun, de l'avoir laissée bavarder avec toi.‖  ...Kanon-kun, tu n'as pas du travail ?‖  Retire-toi, s'il te plaît.‖  Gohda-san, on dirait que tout le monde veut déposer ses bagages pour le moment.‖  Désolée, mais pourrais-tu conduire tout le monde à la maison d'hôtes ?"
+104735|"Certainement.‖  ...Eh bien, mesdames et messieurs, permettez-moi de vous guider."
+104743|"...Alors, si vous voulez bien m'excuser."
+104749|Gohda guida la famille, qui se dirigea vers la maison d'hôtes.
+104753|Pressés de déposer leurs bagages et de souffler un peu, ils ne remarquèrent pas que Rosa et Maria ne les suivaient pas.
+104766|Après les avoir regardés partir vers la maison d'hôtes, Rosa changea soudain de visage.
+104769|Elle lâcha la main qui n'avait cessé d'agripper Maria.
+104772|...Une marque d'un rouge vif apparaissait à cet endroit, montrant clairement avec quelle force excessive elle avait serré le bras frêle de Maria.
+104780|Cette main s'abattit ensuite sur la tête de Maria, pinça son oreille gauche et la tira vers le haut...
+104787|"Alors que je te dis tout le temps de ne pas parler de sorcières...‖  ...Je ne t'ai pas toujours dit que c'était notre promesse à toutes les deux... ?"
+104790|"Mama, aïe...Mama, aïe...aïe aïe aïe......"
+104801|"Tu adores vraiment déblatérer sur Halloween à longueur de temps, hein... ?‖  Une fête pour les sorcières... ?‖  On s'en fiche, des Celtes, de la magie noire, de toutes ces idioties... !‖  Tu as neuf ans, neuf...‖  À cause de la scène que tu m'as faite dans le train, je me suis donné la peine de m'arrêter pour t'acheter ces répugnants bonbons-monstres à la guimauve qui ont l'air couverts de peinture fluo...‖  Je me suis embêtée à les acheter, même si ça nous a mises en retard.‖  Tu vas me faire honte combien de fois encore avant d'être satisfaite... ?!"
+104806|Tout en jurant, Rosa tordit l'oreille de Maria vers le haut, presque comme si elle allait l'arracher...
+104807|Une expression d'angoisse se répandit sur le visage de Maria, qui se dressait désespérément sur la pointe des pieds pour atténuer la douleur de son oreille...
+104814|Rosa arracha soudain le bonbon que tenait Maria.
+104829|Elle le jeta par terre et le piétina encore et encore.
+104832|Pour Maria, c'était censé être la preuve d'un souvenir...d'un bref moment où sa mère lui avait acheté quelque chose d'amusant...
+104836|Mais à présent, cette même mère l'écrasait au sol, juste sous ses yeux.
+104837|...Ce fut comme si l'on avait imprimé un fer rouge dans les yeux de Maria, y laissant une marque qui ne s'effacerait jamais...
+104845|"C'est quoi, ce bonbon répugnant,
+104853|répugnant, répugnant... !!
+104869|  C'est parce que tu es comme ça, c'est uniquement parce que tu es comme ça !!
+104875|  Répugnant, répugnant, répugnant !!!"
+104888|Tout en parlant, elle frappa encore et encore la tête de Maria du plat de la main.‖  ...Elle ne frappait pas le visage de Maria.‖  Parce que les rougeurs se seraient vues.
+104891|Maria ferma les yeux de toutes ses forces, supportant patiemment la violence de sa mère...‖  ...Non, ce n'était pas tout à fait ça.
+104897|"...Reviens, Mama...  Reviens, Mama...‖  Sauve-moi, sauve-moi, Mama...‖  Bats la méchante sorcière..."
+104900|Elle continuait de supporter les coups de Rosa en murmurant ces mots encore et encore...
+104912|"Est-ce que je ne t'ai pas...
+104917|dit...
+104923|d'arrêter...
+104929|de parler...
+104934|de sorcières ?!!
+104939|  Espèce de,
+104944|de, de... !!!"
+104948|Rosa, épuisée d'avoir frappé sa fille, haletait si fort que ses épaules en tremblaient.
+104951|...Maria joignait les mains, tenant bon, espérant que `sa mère' reviendrait vite...
+104961|"...Mama, Mama...‖  Reviens vite...‖  Sauve-moi, Mama...‖  Bats la méchante sorcière..."
+104967|"T-Très bien, reste plantée là pour toujours !!‖  Reste là à marmonner sur les sorcières et Halloween pour toujours !!"
+104974|Après avoir lancé ces mots à Maria, Rosa partit en direction de la maison d'hôtes, l'abandonnant là.
+104980|...Maria, oubliant même qu'elle avait le droit de pleurer,‖ ne quittait pas des yeux le bonbon-citrouille piétiné au point d'en être méconnaissable...
+104999|"Ah, Rosa.‖  Où étais-tu passée ?"
+105006|"Désolée.‖  Les roses étaient si belles que je..."
+105013|"Rosa, dépose vite tes bagages et viens avec nous.‖  On va aller saluer Aniki."
+105021|"Hmm ?‖  Et Maria-chan ?‖  Elle est encore près des parterres de fleurs ?"
+105028|"...Oui.‖  Apparemment, elle a trouvé une rose qui lui plaît et elle a insisté pour s'en occuper, sans vouloir rien entendre.‖  J'ai décidé de la laisser faire ce qu'elle veut pendant un moment."
+105035|"......On oublie parfois que les filles ont leur propre petit monde.‖  De temps en temps, il faut savoir le respecter, non ?"
+105041|"...C'est vrai.‖  ...Merci de t'en soucier, Kyrie nee-san."
+105048|"...Gohda-san,‖ où est notre chambre ?"
+105056|"Je vais vous guider, par ici.‖  Permettez-moi de porter vos bagages."
+105065|"Ça ira.  Je peux les porter moi-même, merci."
+105083|Rosa entra dans sa chambre, guidée par Gohda.
+105090|Puis elle referma la porte avec une certaine violence et jeta ses bagages sur le lit.
+105098|"...............‖........."
+105104|Elle se mit à genoux devant le lit, ...et y enfouit son visage.
+105105|Pendant un moment, Rosa fit mine de déchirer les draps de ses ongles, sanglotant sans relâche...
+105117|"......Maria-sama,‖ ...vous allez bien ?"
+105121|Kanon surgit de derrière un fourré, après avoir regardé Rosa s'éloigner.
+105127|"...Kihi, ...kihi hi hi hi hi hi hi hi... ‖...Je vais bien.‖  ...Kihi hi hi hi."
+105131|Maria eut un rire inquiétant, mais pour Kanon, qui avait tout vu, elle semblait endurer du mieux qu'elle pouvait...
+105137|"C'est une personne horrible.‖  Je n'arrive pas à croire que ce soit une mère..."
+105143|"...On n'y peut rien.‖  On ne peut pas s'attendre à mieux de ce qui entre dans un récipient de ce niveau.‖  ...Je vais très bien.‖  Kihi hi hi hi hi hi hi hi hi......"
+105149|Kanon se mit à genoux et ramassa le bonbon piétiné.
+105155|...Rien que de le regarder, c'était pitoyable.
+105158|Il pensa l'épousseter pour le lui rendre, mais vraiment, dans cet état, c'était impossible.
+105169|Alors qu'il se demandait que faire, il croisa le regard de Maria.
+105170|...Non, ce n'était pas tout à fait ça.
+105171|Maria regardait le bonbon que Kanon avait ramassé.
+105174|...En cet instant, le cœur de Maria était sûrement dans le même état que ce bonbon réduit en bouillie...
+105177|Kanon s'en rendait compte, mais ne savait pas ce qu'il devait faire...
+105187|"...C'est vrai...‖  ...Je vais l'échanger contre celui que j'ai reçu tout à l'heure."
+105189|Kanon se souvint qu'il avait dans sa poche un bonbon semblable, reçu de Maria.
+105194|Maria tendit la main.
+105200|...Kanon crut qu'elle voulait le prendre et lui tendit le bonbon, mais Maria ne chercha pas à le saisir.
+105203|...Alors, Kanon comprit.
+105206|...Elle disait : `Rends-le-moi'.
+105212|...Si pitoyable et piétiné qu'il fût, ce bonbon était celui de Maria.
+105213|...C'était sa mère qui le lui avait acheté.
+105217|Si pitoyable fût-il, il fallait que ce soit ce bonbon-là, et aucun autre...
+105218|Si seulement il avait été assez intact pour qu'il suffise de l'épousseter...
+105221|...Kanon baissa la tête.
+105230|"......L'épousseter, c'est tout ce que je peux faire.‖  ......Je suis désolé."
+105232|Kanon tendit le bonbon pitoyable que Maria voulait.‖  Elle le prit et dit :
+105238|"...Merci.‖  Un Humain ne peut rien faire d'autre que l'épousseter, mais une sorcière pourrait lui rendre son état d'origine.
+105243|  Ce serait facile pour Beatrice.‖  Kihi hi hi hi hi."
+105255|"......Maria-sama,
+105257|...vous connaissez Beatrice...
+105259|-sama ?"
+105268|À part Battler, personne de la famille Ushiromiya ne pouvait ignorer le nom de Beatrice.
+105272|...Mais à l'instant, Maria s'était vantée de Beatrice auprès de Battler.
+105273|Elle en avait parlé presque comme si elle la rencontrait régulièrement.
+105277|Kanon sentit une vive douleur au creux de sa main gauche, serrée en poing.
+105278|...Autrefois, une sorcière nommée Beatrice était apparue pour les tenter, Shannon et lui.
+105281|Il avait toujours essayé de n'y voir qu'un mauvais rêve.‖  ...Mais Shannon affirmait que c'était bel et bien une vraie sorcière.
+105287|Et puis, cet été...
+105290|...Le sanctuaire de la divinité shinto locale avait été frappé par la foudre, et avait disparu sans laisser de trace en l'espace d'une seule nuit.
+105295|...Il savait que Shannon avait brisé ce miroir.
+105298|...Et il se souvenait qu'en partant, la sorcière avait dit qu'elle finirait par ressusciter.
+105304|Et voilà que maintenant, ......cette fillette qui croyait dur comme fer en Beatrice...parlait comme si elle l'avait rencontrée en personne.
+105308|...Kanon ne put réprimer un vague pressentiment qui montait dans son cœur.
+105315|Un moment, Maria resta silencieuse, comme si elle pouvait lire dans le cœur de Kanon.
+105316|...Presque comme si elle attendait qu'un souvenir de Beatrice ressuscite.
+105319|Puis elle parla, comme s'il s'agissait d'un fait.
+105325|"Kihi hi hi hi...‖  Tu sais, je suis amie avec Beatrice.‖  Je vais même la voir aujourd'hui pour jouer.‖  Kihi hi hi hi hi hi hi hi..."
+105332|"Vous allez...jouer ?"
+105338|"...Ouais.‖  Bien sûr qu'on va jouer.‖  On va étudier la magie ensemble.‖  Kihi hi hi hi hi hi hi..."
+105344|...Le visage de cette sorcière, que Kanon avait tenté de faire passer pour un mauvais rêve,‖ ...commença lentement à s'insinuer au fond de son esprit...
+105360|"Père dit qu'il est extrêmement occupé par ses recherches.‖  Malheureusement, il semble qu'il ne pourra pas descendre."
+105368|"...Allons bon.‖  On a calé cette conférence dans nos agendas et on est venus jusqu'à Rokkenjima en plein automne, alors qu'on est débordés.‖  P'pa pourrait au moins faire un effort pour être un peu plus sociable."
+105375|"Oui, vraiment.‖  ...Docteur Nanjo,‖ est-ce vraiment ses recherches et son humeur qui posent problème ?‖  Il n'est pas déjà cloué au lit, incapable de se lever, n'est-ce pas ?"
+105382|"...Eh bien, ...qui sait.‖  Je ne puis pas dire grand-chose..."
+105387|Nanjo jeta un coup d'œil à Natsuhi.
+105388|Il semblait estimer qu'il ne lui revenait pas de parler sans avoir d'abord obtenu l'approbation de Natsuhi.
+105395|"L'état de santé de Père est meilleur que jamais.‖  Il serait extrêmement grossier de le dire `cloué au lit'... !"
+105403|"Mais il ne lui reste que trois mois à vivre, non ?‖  Normalement, on s'attendrait à ce qu'il soit tout décharné, incapable de quitter son lit, non ?‖  N'est-ce pas, docteur Nanjo ?"
+105411|"......Pour un patient ordinaire, ce serait sans doute le cas.‖  Mais Kinzo-san a une volonté hors du commun.‖  ...Peut-être que cette volonté a fait fuir jusqu'à la Faucheuse..."
+105419|"Eh bien, s'il est si énergique, alors je suppose qu'on n'a pas trop de souci à se faire dans l'immédiat, non ?"
+105426|"...N'empêche, s'il a autant de cran, j'aimerais qu'il vienne au moins nous saluer.‖  ...Tout l'intérêt de cette conférence familiale, c'est pas de venir voir la tête de P'pa ?‖  Je sais même plus pourquoi on est venus, du coup."
+105433|"Ne dis pas ça.‖  S'il était là, tu passerais ton temps à te plaindre de ne pas pouvoir te détendre.
+105439|  Ne devrions-nous pas plutôt nous réjouir que nous soyons tous réunis entre frères et sœurs cette année, pour passer un moment rien qu'entre nous ?"
+105446|"On n'a pas pu le voir non plus à la conférence familiale de l'an dernier, je te signale.
+105452|  Tu ne peux pas comprendre que ses propres enfants aient envie de le voir après deux ans ?"
+105458|"...Si vous avez quelque chose à lui dire en guise de salutation, je le lui transmettrai.
+105464|  Ou alors, Eva-san,‖  ...y aurait-il quelque chose dont vous souhaiteriez discuter avec Père, au-delà de simples salutations... ?"
+105471|"......Nngg.‖  ...Voyons, qu'est-ce que tu racontes ?  Franchement."
+105477|"Laisse tomber, Eva.
+105483|  Natsuhi-san, pardonnez-nous.‖  Eva s'inquiète simplement de l'état de son père, en tant que fille.‖  Essayez de comprendre ce qu'elle ressent, je vous en prie."
+105489|"En effet.‖  Regarde comme tu t'es vite mise à respecter Père, maintenant que tu sais combien de temps il lui reste à vivre.‖  ...Oui, je crois bien comprendre pourquoi tu tiens tant à le voir.
+105494|  ...Hmph."
+105502|"......Qu'est-ce que tu insinues ?"
+105508|"Arrête, Aneki.‖  Et si on priait plutôt pour que son humeur s'améliore d'ici le dîner ?
+105512|  ...De toute façon, on vient à peine d'arriver.‖  Pour le moment, on n'est là que pour une petite visite de courtoisie.‖  Et on pourrait même tenir la conférence familiale sans P'pa.
+105518|  ...En fait, il y a deux ou trois choses qu'on ne devrait pas lui soumettre avant d'avoir trouvé un avis commun, entre frères et sœurs.‖  Pas vrai, Hideyoshi nii-san ?"
+105524|"Ouaip !‖  C'est exactement comme dit Rudolf-kun.
+105530|  ...C'est le seul moment de l'année où on peut tous se voir en personne.‖  Faut prendre ce précieux moment au sérieux et parler franchement entre nous."
+105534|Alors même que le thé n'était pas encore arrivé, ...ils étaient bien décidés.
+105542|"Mais avant cela, peut-être pourrions-nous prendre le temps de savourer tranquillement un peu de thé noir,‖ entourés du magnifique mobilier du salon..."
+105548|Les paroles de Kyrie semblaient contenir une subtile réprimande adressée à toutes les personnes présentes.
+105551|Tous comprirent, et tandis qu'ils s'éclaircissaient la gorge et rajustaient leur cravate, l'atmosphère de la pièce redevint normale pour un temps.
+105565|"...Excusez-moi.‖  J'apporte le thé."
+105573|"Hé, Shannon-chan.‖  Tu deviens de plus en plus jolie, toi !"
+105577|Shannon entra dans le salon en poussant la desserte.
+105584|Tout le monde décida de se détendre et de savourer un peu de thé noir pour le moment...
+105587|Un merveilleux arôme commença à se répandre dans la pièce.
+105596|À voir la scène, la tension qui régnait avant l'arrivée de Shannon semblait n'avoir jamais existé.
+105597|...Bien sûr, Shannon, qui servait le thé, ne s'en aperçut sans doute même pas.
+105601|...Kyrie sembla rire discrètement de la façon dont tout le monde se comportait soudain en `adulte'.
+105606|Rudolf n'aimait pas que Kyrie prenne l'initiative de parler lors de la conférence familiale.
+105609|...C'était sa vaine fierté masculine.
+105612|Il ne voulait sans doute pas passer pour un homme faible qui suivait les conseils de sa femme.
+105615|Elle le comprenait, et faisait de son mieux pour s'abstenir de dire plus que nécessaire.
+105620|Aussi s'écarta-t-elle du cercle des frères et sœurs, qui ne faisaient qu'en apparence semblant de profiter d'un moment entre eux, et but tranquillement son thé près de la fenêtre.
+105626|"Tiens, Rosa-san.‖  Je croyais que vous profitiez d'un moment entre frères et sœurs..."
+105634|"...Tu plaisantes."
+105641|"Pardon, ne le prends pas mal.‖  C'est juste que mon mari m'exaspère un peu."
+105647|Apparemment, Rosa n'avait pas réussi à suivre cette amabilité `de façade'.
+105651|...Ils étaient venus ici pour se livrer une bataille sanglante et sordide, chacun cherchant à s'emparer d'une part de l'héritage.
+105652|Elle n'aimait sans doute pas les voir soudain jouer les meilleurs amis du monde.
+105655|...Ou peut-être était-elle encore trop immature pour cela.
+105665|"...On dirait que le vent s'est mis à souffler fort dehors.‖  ...Les plantes sont toutes secouées."
+105672|"Le typhon doit déjà être assez proche.‖  ...Je me demande s'il va pleuvoir beaucoup ce soir."
+105682|"......Maria-chan a vraiment beaucoup grandi depuis l'an dernier."
+105689|"......Tu trouves... ?‖  Elle ne sait même pas encore plier ses propres vêtements."
+105696|"Si, c'est vrai.‖  C'est parce qu'elle a une mère si affectueuse.‖  Elle deviendra une fille au cœur riche."
+105706|Rosa se tut.
+105707|......Peut-être ne savait-elle pas trop ce que Kyrie entendait par là...
+105714|"...Je suis...‖une mère ratée.‖  ......Les enfants ne choisissent pas leurs parents.‖  Pauvre petite..."
+105720|"Est-ce que ça ne vaut pas dans les deux sens ?‖  ...Un parent ne peut pas non plus choisir quel enfant il aura."
+105726|"..............."
+105730|Rosa se mordit la lèvre inférieure...
+105736|"Il ne s'agit pas de désigner un coupable.‖  Ne suffit-il pas de prendre ton temps et de veiller sur elle pendant qu'elle grandit, en ayant conscience que vous allez vivre ensemble ?"
+105742|"Tu passes tous tes jours avec Maria-chan, alors tu ne remarques sans doute pas les petits changements.‖  Mais nous autres, qui ne l'avons pas vue depuis un an, voyons clairement combien elle a grandi..."
+105749|"...Si tu le penses vraiment, merci beaucoup."
+105759|"Alors, si vous voulez bien m'excuser.‖  Si vous désirez quoi que ce soit, n'hésitez pas à m'appeler à tout moment."
+105765|Shannon s'inclina poliment et quitta la pièce.
+105772|Tandis que Hideyoshi et Rudolf, qui avaient un faible pour les femmes, la regardaient partir,
+105780|...l'atmosphère de la pièce commença à redevenir ce qu'elle était juste avant la venue de Shannon.
+105788|"......Si Père ne peut pas descendre...eh bien, il nous reste tout de même certaines choses dont nous pouvons discuter.‖  N'est-ce pas, Rudolf ?"
+105795|"Ouais, c'est sûr.‖  ...On n'est pas venus jusqu'ici juste pour boire du thé poussiéreux, pas vrai ?"
+105803|"...Très bien.‖  Quelle est donc cette affaire dont vous êtes visiblement si impatients de discuter ?"
+105812|"......Eh bien.‖  Ils sont vraiment déterminés, ces gens-là.‖  Ils n'ont pas traîné pour s'y mettre."
+105819|"Il faut que je m'y joigne aussi.‖  ...Si je ne m'affirme pas, ils vont vite oublier qu'il y a quatre frères et sœurs."
+105826|"...On dirait que tu n'as pas la vie facile non plus.‖  ...J'ai peut-être été trop dure.‖  Pardonne-moi."
+105833|"Non, ça ne me dérange pas.‖  ...C'est plutôt à moi de m'excuser.‖  En tant que mères de filles toutes les deux, on devrait parler plus souvent.‖  À chaque fois qu'on se voit, on finit par parler de choses louches..."
+105840|"...C'est l'atmosphère de ce manoir qui veut ça.‖  Dès qu'on respire cet air, tout le monde devient tendu.‖  ...Rien qu'une fois, j'aimerais prendre longuement le thé avec toi, en dehors d'une conférence familiale.‖  Il y a un merveilleux salon de thé à Ginza que j'adore.‖  Laisse-moi t'y inviter un de ces jours."
+105844|"Merci, Kyrie-san.‖  Ce serait formidable..."
+105854|"Oh, non.‖  Le ciel s'est assombri bien vite.‖  On croirait presque que les gens de cette pièce ont fait empirer le temps.‖  ...Il tonne déjà.
+105860|  Oh ?‖  C'était une goutte, là... ?"
+105866|"...Hein ?"
+105870|Il y avait bel et bien de petites éclaboussures de pluie sur la vitre de la fenêtre du salon.
+105872|...Le temps semblait s'être dégradé plus vite que prévu.
+105878|...À cet instant, un éclair silencieux frappa l'esprit de Rosa, et elle se souvint que son enfant chérie était dehors, dans la roseraie.
+105885|Une fille normale chercherait à rentrer si le temps se gâtait.‖  ...Mais Maria était différente.‖  Il lui arrivait de s'entêter et de refuser de bouger, même s'il tombait du ciel de la pluie ou des hallebardes.‖  ...C'est vrai, je...‖...j'ai dit à cette enfant...~ib~de rester plantée là pour toujours~ib~, non... ?
+105894|"...O-Oh non... !‖  Maria... !!"
+105900|Tout le monde se retourna vers Rosa quand elle laissa échapper un petit cri.
+105907|"...Quoi ?  Qu'y a-t-il ?"
+105913|"D-Désolée, je sors une seconde.
+105919|  Je reviens tout de suite !"
+105928|"...Qu'est-ce que... non mais sérieux, qu'est-ce qui lui prend... ?"
+105934|"Ne t'en fais pas, elle va vite revenir.
+105940|  ...Plus important, ne devrions-nous pas commencer ?‖  ...Le sujet principal."
+105947|"C'est vrai.‖  On peut continuer à parler de ça sans Rosa.‖  Reprenons notre discussion."
+105955|"............"
+105971|Rosa se précipita du hall d'entrée vers la roseraie.
+105978|Quand elle ouvrit la porte, le vent qui la frappa était trop fort pour qu'on parle d'une simple brise...et lui apprit que le typhon approchait plus vite qu'elle ne l'avait cru.
+105984|Comme l'avait dit Kyrie, le vent charriait de fines gouttelettes de pluie.‖  On entendait aussi un sourd grondement de tonnerre.
+105985|...Il pouvait se mettre à pleuvoir à tout moment.
+105992|Rosa se dirigea vers la roseraie.
+105993|Elle se dirigea vers l'endroit où elle avait grondé Maria un peu plus tôt.
+105996|...C'était presque l'heure du déjeuner.
+105999|On avait dit aux enfants de venir au manoir vers l'heure du déjeuner,‖ si bien qu'ils devaient être dans la maison d'hôtes, à attendre qu'on les appelle.
+106002|...Même si Maria ne les rejoignait pas, ils penseraient sûrement que je l'avais emmenée au manoir avec moi...et ne s'inquiéteraient pas beaucoup.
+106005|...Après tout, elle était avec sa mère, il n'y avait donc aucune raison de s'inquiéter.
+106008|J'étais là, et j'ai abandonné ma fille au mauvais temps qui empirait... !
+106016|"Mariaaa !!‖  Tu es là ?!!‖  Si tu es là, réponds-moi !!"
+106021|"......Uu-."
+106025|J'avais raison.
+106028|Elle était toujours là, plantée sans bouger, ...exactement comme avant, à l'endroit où je l'avais grondée.
+106032|Dans sa main...elle tenait le bonbon que j'avais acheté, que je lui avais donné, puis que j'avais piétiné et écrasé.
+106033|Le serrant dans sa main, elle restait là tandis que les rafales lui fouettaient les cheveux, la tourmentant...
+106043|"Pardon, pardon, je suis désolée !!‖  Pardon, Maria... !!‖  Pardonne à Mama... !"
+106052|"...Uu-.‖  Mama, bon retour...‖  ...J'ai attendu longtemps que tu reviennes.‖  ...La méchante sorcière m'a pincée, mais j'ai tenu bon, j'ai attendu que Mama revienne sans pleurer..."
+106058|"...Maria... !‖  ...Pardonne à ta Mama, ...pardonne à ta Mama..."
+106064|"T'as rien fait de mal...‖  T'étais juste encore possédée par une méchante sorcière...
+106069|  Alors ça va.‖  Je t'aime bien, Mama.‖  Je t'aime fort..."
+106079|"Aaaaaaaaaaaaaahh !!‖  Pardon, pardon...‖  ...Pardonne à ta Mama, je t'en prie...
+106081|...d'avoir perdu contre la méchante sorcière......"
+106086|Rosa enfouit son visage contre la petite poitrine de Maria, pleurant et implorant son pardon.
+106087|...Et une fois de plus, ces larmes coulèrent, pour la énième fois.
+106090|Si seulement un soleil éclatant avait brillé sur elles deux,‖ tous leurs tourments se seraient évaporés, et elles auraient peut-être eu le sentiment de pouvoir repartir de zéro.
+106094|...Mais ce qui les entourait toutes deux, c'était le temps qui se gâtait.
+106095|Hélas, il n'y avait que des vents furieux et, de temps à autre, le tonnerre.
+106101|Le bruit de Maria qui reniflait ramena Rosa à la raison.
+106102|...Si Maria restait trop longtemps exposée au vent, elle risquait d'attraper froid.
+106108|"...Bon, Maria,‖ c'est bientôt l'heure du déjeuner.‖  Et si tu revenais au manoir avec moi ?"
+106114|"Uu-.‖  Veux pas."
+106121|"P-Pourquoi pas... ?"
+106124|Rosa pensait avoir déjà obtenu le pardon de Maria, aussi n'avait-elle pas imaginé que Maria refuserait.
+106127|Mais l'expression de Maria n'était pas celle d'une enfant qui tient tête à sa mère.‖  ...Rosa ne comprenait donc pas pourquoi Maria voulait rester plantée là, pour rien, alors que le temps empirait encore.
+106130|Maria répondit à cette question...
+106137|"C'est Beatrice.‖  Elle va bientôt arriver.‖  Alors j'attends."
+106143|"......Maria..."
+106147|Rosa chercha ses mots un instant, puis se tut.
+106151|...Après tout, elles venaient tout juste de se réconcilier.
+106152|Elle choisit soigneusement ses mots, cherchant à convaincre Maria de l'accompagner au manoir sans nier la sorcière de but en blanc.
+106164|"...Beatrice...
+106166|va venir ?"
+106172|"Uu- !"
+106178|"Vraiment... ?‖  Alors au lieu d'attendre ici, si on l'attendait au manoir ?‖  Si tu restes trop longtemps dans ce vent, tu vas attraper froid..."
+106184|"Elle va venir !‖  Beatrice va venir !!
+106189|  Et quand elle sera là, je lui donnerai un bonbon.‖  Je ferai `trick or treat' !‖  Je lui donnerai un bonbon-citrouille à la guimauve et je lui dirai <Happy Halloween> !!‖  Uu- !!"
+106193|Maria sortit encore une friandise de son sac à main, en gémissant des uu-uu-.
+106195|Rosa, déconcertée, ne savait plus quoi faire...tandis que Maria recommençait à faire des difficultés...
+106204|À ce moment-là, un violent coup de tonnerre retentit soudain.
+106210|C'était sans doute un signe.
+106212|...Le signe que cette île avait été isolée par la tempête, coupée du sens commun et de la réalité.
+106215|Dès lors, à partir de cet instant, le sens commun cesserait sans doute de s'appliquer.
+106219|Le vent souffla plus fort encore, et au milieu de ce tourbillon de pétales de roses éparpillés, ‖...une silhouette apparut, si bien que Rosa ne put croire que cette scène appartenait à la réalité.
+106222|...C'était sans doute...non, à coup sûr...fantastique.
+106225|Car cette ombre humaine, c'était......
+106243|"Beatrice !!"
+106245|Maria se précipita vers l'ombre.
+106249|...D'ordinaire, Rosa aurait grondé sa fille de se précipiter ainsi vers une inconnue qu'elle n'avait jamais vue.
+106250|...Mais Rosa oublia de le faire, incapable de rien d'autre que de rester là, stupéfaite.
+106256|"...Cela faisait bien longtemps.‖  Tu te portes bien ?"
+106262|"Uu- !‖  Je me porte bien !‖  Les sorcières attrapent pas froid !‖  Uu- !!"
+106271|"*ricane*ricane* !‖  En effet, une sorcière peut user de malédictions pour faire attraper froid aux gens, ...mais quelle sottise ce serait d'en attraper un elle-même !‖  Désormais, prends bien garde à ne pas attraper toi-même une chose aussi triviale qu'un rhume."
+106273|Ce disant, elle caressa la tête de Maria avec un sourire espiègle...
+106276|Rosa n'aurait pas pu connaître le nom de la femme qui choyait Maria avec tant de plaisir.‖  ...Mais Maria l'avait crié dès que la femme était apparue.
+106279|Aussi, bien que Rosa ne l'eût jamais rencontrée, bien que la femme ne se fût toujours pas présentée, Rosa connaissait son nom.
+106282|......Or ce nom avait une signification toute particulière à Rokkenjima et dans la famille Ushiromiya.
+106285|...C'est impossible, une chose aussi stupide ne peut pas... !
+106291|"Beatrice !‖  <Happy Halloween> !‖  Regarde ce qu'on a acheté !‖  Je t'en donne un aussi, Beatrice.‖  Uu- !"
+106297|"Eh oui, <Happy Halloween>.‖  Oh, c'est pour moi ?‖  Comme c'est adorable, qu'on fasse une friandise de ceci, la lumière solitaire d'un homme égaré dans les ténèbres du Purgatoire, qui ne peut aller ni au paradis ni en enfer."
+106302|"...En ce moment, sur cette île coupée à la fois du monde des humains et du monde des non-humains,‖ il n'est peut-être pas de friandise plus appropriée.‖  *ricane*ricane*... !"
+106307|"......Hmm ?‖  Maria, qu'est-il arrivé à celui-là ?"
+106315|La sorcière avait remarqué la friandise que Maria serrait dans sa main.‖  ...C'était le bonbon de Maria, que Rosa avait piétiné jusqu'à le réduire à ce triste état.
+106324|"...Uu-.‖  Il s'est fait marcher dessus et écraser.‖  ...Tu peux le réparer, Beato... ?"
+106329|Maria n'alla pas jusqu'à dire que c'était sa mère qui l'avait piétiné.
+106330|Pourtant, allez savoir pourquoi, en voyant ce bonbon, la sorcière regarda Rosa avec un sourire narquois.
+106333|...Un frisson parcourut l'échine de Rosa, comme si ce regard la transperçait de part en part.
+106339|"Ce sera un jeu d'enfant.‖  Donne-le-moi."
+106346|"Uu- !"
+106349|Maria lui tendit le bonbon, toute joyeuse.
+106352|...Rosa ne pouvait que regarder, stupéfaite.
+106354|...Comment cette personne comptait-elle duper Maria, en effaçant d'une manière ou d'une autre le fait que le bonbon avait été pitoyablement piétiné... ?
+106357|Maria avait l'air de croire qu'il pourrait être réparé comme neuf.
+106360|...Sans une véritable `magie', une telle chose ne pouvait pas être possible... !
+106366|"Eh bien, il est fort écrasé, n'est-ce pas ?
+106371|  ...Allons, Maria.‖  Ferme les yeux et essaie de te souvenir."
+106375|"Car c'était un bonbon si merveilleux, en vérité.‖  Le bonbon des souvenirs est toujours dodu et tout moelleux.‖  Alors toi aussi, souviens-toi.‖  Comment était-il donc, ce bonbon-là♪"
+106379|...Accompagnant ces étranges paroles, prononcées comme une comptine improvisée, la sorcière lança la friandise en l'air.
+106383|Maria fermait les yeux et se souvenait, exactement comme la sorcière le lui avait demandé.
+106384|...Quelle forme avait réellement eu ce bonbon écrasé ?
+106388|C'est pourquoi seule Rosa vit cette scène.
+106395|La friandise lancée en l'air...explosa en une couleur dorée...non, ce n'était pas cela.‖  C'étaient des papillons dorés.
+106396|Elle s'éparpilla en plusieurs papillons dorés, ...qui se mirent à se rassembler dans la main que la sorcière levait vers le ciel.
+106407|Et tandis qu'ils le faisaient, ......aussi incroyable que cela fût, ......elle retrouva sa belle forme d'origine, telle qu'au jour de son achat...
+106408|Seules Rosa et la sorcière furent témoins de cette scène.
+106411|Incapable de comprendre ce qui se déroulait sous ses yeux, Rosa restait bouche bée, oubliant complètement de la refermer...
+106417|"Tu peux ouvrir les yeux, maintenant.‖  Tiens.‖  Voilà, ta friandise est redevenue comme avant."
+106423|"Uu- !!‖  Beatrice est toujours incroyable, incroyable, *gloussement* !!"
+106433|"..............."
+106436|Il y avait un contraste saisissant entre le choc de Rosa et la joie innocente de Maria.
+106440|...Était-ce de cela que riait la sorcière ?
+106441|Un sourire se dessina sur le visage de Beatrice, différent de celui qu'elle avait montré à Maria.
+106448|"...Mon visage te semble familier ?‖  À le fixer ainsi, tu risques d'y percer un trou."
+106454|"Euh...ah, p-pardon... !"
+106460|Ces mots déclenchèrent quelque chose de très net dans l'esprit de Rosa.
+106464|...Rosa connaissait ce visage.
+106465|......Elle le connaissait par le portrait de la sorcière.
+106468|Mais...non, attends, ...cette mystérieuse femme pouvait-elle vraiment être... ?!
+106477|"...Maria,‖ je te donne ceci en échange de la friandise que tu m'as offerte."
+106486|"Uu-... ?‖  Une lettre ?"
+106489|La sorcière tira de sa poche une enveloppe à l'occidentale et la donna à Maria.‖  Mais quand Maria fit mine de l'ouvrir, la sorcière l'arrêta.
+106496|"Il ne faut pas.‖  Le moment viendra bientôt pour toi de l'ouvrir, mais d'ici là, tu ne dois absolument pas le faire.‖  Prends-en bien soin.‖  Ce sera ton invitation pour la Terre dorée."
+106502|"La Terre dorée !!‖  Alors tu vas enfin m'y emmener !!‖  *gloussement* !‖  *gloussement* !!"
+106508|"Prends-la et traite-la avec soin.‖  Tu ne dois la montrer à personne."
+106514|"Uu- !‖  Je tiendrai cette promesse !‖  Les promesses avec les sorcières, faut toujours les tenir !"
+106524|"...Et ceci est pour toi."
+106530|"Hein...... ?‖  ...M-Moi... ?!"
+106535|Elle n'avait sans doute pas imaginé que la sorcière s'adresserait aussi à elle.
+106536|Rosa resta interdite devant la seconde enveloppe à l'occidentale qu'on lui tendait.
+106542|Elle avait déjà vu ce genre d'enveloppe.
+106545|...Il ne pouvait y avoir d'erreur.
+106547|C'était l'une des enveloppes spéciales de Kinzo, celles qu'il utilisait quand il écrivait de sa propre main, frappées du blason de la famille Ushiromiya.
+106550|Elle était scellée de cire rouge,‖ ...et portait de surcroît une empreinte qui semblait avoir été faite par la bague du chef de famille.
+106553|Autrement dit, même sans demander ce que contenait cette lettre,‖ ...Rosa savait que cette femme, que Maria appelait Beatrice,‖ jouissait d'assez de confiance pour qu'on lui confie une lettre personnelle de l'actuel chef de la famille Ushiromiya... !
+106561|"Ç'aurait pu être n'importe lequel des quatre frères et sœurs.‖  Mais le fait que je t'aie rencontrée ici signifie sans doute que tu as été choisie par la roulette de Kinzo.
+106566|  ...Alors prends-la.‖  Puis lis-en le contenu à voix haute, assise à la table du dîner, quand tous les frères et sœurs seront réunis."
+106575|"......Qu'avez-vous dit... ?"
+106577|Rosa regarda à plusieurs reprises tour à tour le visage de la sorcière et l'enveloppe qu'on lui avait remise.
+106580|C'était aujourd'hui la conférence familiale, et le principal sujet de discussion serait le problème de l'héritage.‖  ...C'est pourquoi elle s'était alliée à Eva et Rudolf,‖ et ils comptaient imposer une certaine condition à Krauss pour tenter de lui extorquer plusieurs centaines de millions de yens en liquide.
+106584|C'était comme si la sorcière voyait clair dans tout cela.
+106585|...Qu'a-t-elle l'intention d'annoncer...quand nous serons tous réunis, entre frères et sœurs ?
+106588|Et avec une enveloppe personnelle que nul autre que le chef de la famille Ushiromiya ne peut utiliser... !
+106594|"...Maria,‖ le temps se gâte.‖  Retourne à la maison d'hôtes et attends l'heure du déjeuner.
+106599|  ...Et toi, Rosa, nous nous reverrons plus tard.‖  Permets-moi de me présenter à nouveau à ce moment-là.‖  ...*ricane*ricane*ricane*."
+106605|La sorcière lui tourna le dos en riant.
+106606|...Puis elle se dirigea vers le manoir d'un air serein.
+106613|Maria la salua avec entrain en la regardant partir, puis se mit à courir vers la maison d'hôtes, laissant Rosa derrière elle.
+106614|...Comme si elle voulait annoncer au plus vite aux autres cousins sa chance d'avoir rencontré la sorcière.
+106617|Rosa resta finalement seule dans la roseraie, tandis que le vent forcissait,‖ ...incapable de rien faire d'autre que prier pour que ce qui venait de se passer ne soit qu'un rêve éveillé...
+106640|Quand la sorcière atteignit le hall d'entrée, ...Genji s'y tenait.
+106641|Genji accueillit d'une respectueuse inclination l'`invitée' qui s'approchait du hall d'entrée...
+106647|"Je vous attendais,
+106657|......Beatrice-sama."
+106665|"...Cela faisait bien longtemps, Genji.‖  ......Hmph.‖  Tu as vieilli."
+106671|"...Si vieux qu'il devienne, un meuble accomplit son œuvre de meuble jusqu'au bout."
+106677|"...Je me souviens que la femme de cet homme était jalouse de toi.
+106682|  ...Kinzo se porte-t-il bien ?"
+106688|"Il se porte extrêmement bien."
+106694|"...Hmph.‖  *ricane*ricane*ricane*ricane* !"
+106698|La sorcière riait sans doute parce qu'elle savait que le propre médecin de Kinzo avait annoncé qu'il ne lui restait plus longtemps à vivre.
+106701|...Pourtant, quiconque observait Kinzo et remarquait sa vigueur, qui n'avait rien de ce qu'on attendrait de quelqu'un au crépuscule de sa vie,‖ pouvait aisément qualifier cela de `se porter extrêmement bien'.
+106703|...Peut-être était-ce de cela que riait la sorcière.
+106709|"Allons donc le saluer.‖  Il me tarde d'échanger des malédictions avec lui, après 30 ans."
+106716|Avec un sourire narquois, la sorcière se mit en marche, laissant Genji derrière elle.
+106717|...Elle marchait comme un membre de la famille qui connaissait bien l'intérieur du manoir.
+106720|Genji la suivit à la manière de quelqu'un qui la servait.
+106731|À ce moment-là, Kyrie sortit du salon.
+106732|...Elle était sans doute partie se remaquiller, ou quelque chose de ce genre.
+106738|Et quand elle vit Genji suivre une sorcière, elle fut surprise, même si son expression ne changea pas.
+106747|Un invité était venu voir Kinzo, alors qu'il était presque mourant, le jour même de la conférence familiale où devait se décider le sort de l'héritage.‖  ...Et de plus, cette personne était assez familière de la maison Ushiromiya pour que Genji la suive.
+106750|...Kyrie comprit aussitôt que cette personne qu'elle n'avait jamais rencontrée était d'une grande importance.
+106754|Les regards de Kyrie et de la sorcière se croisèrent.
+106755|...Comprenant qu'il serait impoli de faire mine de ne pas l'avoir remarquée, elle salua la sorcière.
+106763|"......Enchantée de faire votre connaissance."
+106771|"Tu es la seconde épouse de Rudolf, n'est-ce pas ?"
+106779|"C'est exact.‖  Voici Kyrie-sama, l'épouse actuelle de Rudolf-sama."
+106783|À cet échange, Kyrie comprit qu'il s'agissait d'une invitée d'un rang assez élevé, même au sein de la famille Ushiromiya.
+106786|......Et le fait qu'il s'agisse d'une invitée de ce niveau,‖ ...ajouté à sa ressemblance avec le portrait du hall d'entrée, ...fit aussitôt écarquiller les yeux de Kyrie...
+106813|"...Enchantée.‖  Je suis Kyrie.‖  Je me demande si c'est notre première rencontre.‖  Si nous nous sommes déjà vues, je vous prie de m'excuser d'avoir oublié votre nom."
+106819|"...Ainsi, tu comptes m'obliger à dire mon nom, alors que tu as déjà une vague idée de la réponse ?"
+106825|".................."
+106830|Kyrie pensait avoir salué avec amabilité et modestie.
+106831|Son expression s'assombrit légèrement devant cette réponse ouvertement oppressante.
+106834|...En tout cas, ce ne semblait pas être une personne qu'elle pourrait apprendre à apprécier.
+106840|...Mais si Kyrie avait deviné juste, ...cette `sorcière' détenait sans doute une clé essentielle de ce qui intéressait le plus son propre mari,‖ quelque chose qui ne pouvait qu'influer sur la conférence familiale de ce soir...
+106846|Aussi, sans lui renvoyer de réplique, Kyrie la regarda en silence monter l'escalier vers le premier étage, Genji sur ses talons.
+106853|Si bien que lorsque quelqu'un lui tapota l'épaule par-derrière, elle fut si surprise qu'elle faillit s'étrangler.
+106859|C'était...Natsuhi...
+106866|"......Kyrie-san,‖ pourquoi restez-vous immobile en un tel endroit ?‖  Vous ne vous sentez pas bien... ?"
+106872|"P-Pardon.‖  ...J'étais simplement fascinée par le portrait de la sorcière, un instant."
+106878|"...Ah, vous voulez parler de la Sorcière dorée, Beatrice.‖  Celle dont l'or aurait été, paraît-il, nécessaire à la renaissance de la famille Ushiromiya telle que nous la connaissons.‖  ...Une histoire bien fantastique, tout à fait digne de Père."
+106883|Natsuhi parlait de façon parfaitement ordinaire.
+106884|C'était le genre de remarque qu'on attendrait de quelqu'un persuadé que l'idée de l'existence d'une sorcière était ridicule, rien de plus qu'une énième divagation de Kinzo.
+106889|...Pourtant, allez savoir pourquoi, ce point de vue ne paraissait plus tout à fait juste à Kyrie, à présent.
+106892|À l'instant même, elle avait vu de ses propres yeux la Sorcière dorée entrer par le hall d'entrée et monter l'escalier.
+106895|Aussi les paroles de Natsuhi lui donnaient-elles l'impression que quelqu'un cherchait à nier l'existence de cette personne, ou à faire croire qu'elle n'avait jamais été là...
+106903|"...Pardonnez-moi.‖  Je crois que j'ai un début de migraine.‖  ...Je vais me reposer un moment."
+106909|"Oh, vraiment... ?‖  J'ai justement un excellent remède contre les maux de tête.‖  Je vais vous le chercher..."
+106934|Le couloir devant le bureau de Kinzo était imprégné de ce parfum de poison sucré propre à cette liqueur verte...
+106935|Genji, qui y était parfaitement habitué, ne grimaça pas.
+106936|...Et la Sorcière dorée ne grimaça pas non plus.
+106944|"...Depuis combien de temps n'en est-il pas sorti ?"
+106950|"Je crois que cela fait déjà plusieurs années."
+106956|"......Tient-il donc tant à faire de moi un oiseau en cage ?‖  ...Quelle pitié.‖  ......À présent, c'est toi l'oiseau en cage.‖  ...C'est toi le fantôme de ce bureau, n'est-ce pas ?‖  ...Quelle pitié qu'il ne soit pas même capable de s'en rendre compte."
+106962|"...Tant qu'il ne vous aura pas revue, il poursuivra sans doute ses recherches, même après être littéralement devenu un fantôme."
+106968|"Est-ce de l'amour, de la folie, ou un délire ?‖  ...Et pourtant, peut-être même ces choses-là peuvent-elles engendrer un pouvoir magique lorsqu'elles sont assez fortes.‖  ...Triste magicien que tu es."
+106975|La sorcière saisit la poignée de la porte du bureau.
+106982|...Aussitôt, il y eut un bruit semblable à celui d'une chair qui brûle et se fend.
+106983|...C'était le bruit de la poignée qui brûlait littéralement la main de la sorcière.
+106991|"...Beatrice-sama..."
+106997|"Qu'est-ce que c'est ?
+107002|  ......Une protection contre la magie !‖  ...Cet homme ne peut-il donc s'en sortir sans recourir à ce genre de chose... ?"
+107008|"...J'ai entendu dire que cette porte vous causerait une grande douleur, Beatrice-sama.‖  Dois-je l'ouvrir... ?"
+107014|"Non, ...c'est inutile.‖  S'il gagne, je serai un oiseau en cage pour l'éternité.‖  ...S'il perd, il ne lui restera qu'une vie de risée, la vie d'un pitoyable magicien devenu fou d'amour et qui aura tout perdu."
+107019|"...Kinzo comme moi ne sommes déjà plus que des pièces disposées sur l'échiquier.‖  ...Il ne reste plus qu'à laisser la roulette décider du gagnant et du perdant.‖  ......Tant que la roulette n'aura pas donné son résultat, Kinzo et moi n'avons nul besoin de nous revoir."
+107023|La sorcière regarda sa main, qui commençait à guérir peu à peu, bien qu'elle eût été horriblement brûlée.
+107030|"...Ou peut-être est-ce justement pour cela qu'il a placé cette protection ici.‖  ......Hmph.‖  ...Oui, peut-être même cela est-il honorable à sa manière.‖  ...Désormais, tout repose sur l'échiquier de Kinzo."
+107036|"Cela me plaît, Kinzo.‖  Laisse-moi savourer cette partie avec toi.‖  ...Laisse-moi savourer l'échec du dernier pari...du vieux magicien qui est tombé amoureux de moi et a gâché sa vie entière... !!"
+107059|"......Qui est là ?"
+107067|"Excusez-moi...‖  J'apporte le déjeuner."
+107070|"Entre."
+107077|"...Excusez-moi."
+107086|Ayant reçu la permission, Kanon entra dans la chambre d'honneur en poussant la desserte qui portait le déjeuner.
+107089|...Les domestiques appelaient cette pièce la chambre d'honneur de la sorcière.
+107093|Car Kinzo avait strictement ordonné qu'elle soit toujours tenue propre, afin de pouvoir servir à tout moment.
+107094|...Et pourtant, aucun invité, quel qu'il fût, n'était autorisé à y entrer.
+107097|...C'est pourquoi, à un moment donné, les domestiques s'étaient mis à l'appeler la chambre d'honneur, une pièce censée n'être réservée qu'à l'accueil de la personne particulière qu'attendait Kinzo, ‖...la sorcière de ce portrait.
+107100|Et aujourd'hui, Kanon comprit que c'était absolument vrai...
+107107|Quand il entra dans la pièce, ......la sorcière aux cheveux blonds contemplait le dehors par la fenêtre.
+107113|Dehors, la pluie ne tombait plus faiblement.
+107114|...Tandis qu'elle contemplait la magnifique roseraie, qu'on avait entretenue plusieurs jours durant en vue d'aujourd'hui...‖  Tandis qu'elle voyait le vent et la pluie la ravager, éprouvait-elle quelque sentiment mélancolique ?
+107117|Kanon ne pouvait rien deviner de plus de ce dos tourné vers lui.
+107125|"...Je vais préparer le repas,‖ ...Beatrice-sama."
+107129|Kanon prit soin de prononcer le nom de la sorcière, ...dans l'espoir qu'elle se retourne.
+107133|Il voulait savoir.
+107134|...Il voulait savoir si la sorcière qui l'avait tenté, Shannon et lui, par le passé, était vraiment réapparue.
+107143|...Alors, ...la sorcière dont on avait prononcé le nom...se mit à rire, toujours de dos.
+107144|Elle riait en retenant sa voix.
+107149|Kanon tressaillit...
+107150|C'était presque comme si elle avait lu dans ses pensées et savait qu'il l'avait appelée dans l'espoir de la faire se retourner...
+107161|"......Ça sent bon.‖  Il semble que Krauss ait engagé un bon cuisinier."
+107167|".........‖...Oui.‖  ...Il s'appelle Gohda, et il a été engagé récemment."
+107172|"...Rien ne vaut le talent culinaire.‖  ...Une nourriture délicieuse complète les trois piliers du plaisir de vivre dans le monde des humains.‖  C'est le secret pour ne pas s'ennuyer au bout de mille ans.‖  ...*ricane*ricane*ricane*ricane*."
+107176|Les regards de Kanon et de la sorcière se croisèrent.
+107183|...Alors, elle eut un sourire narquois...
+107187|Sans aucun doute.‖  Assurément...
+107188|C'était clairement...la sorcière de ce jour-là, Beatrice...
+107191|La sorcière que nul autre que lui et Shannon ne pouvait voir autrefois avait enfin pris forme...et était arrivée ouvertement, en invitée, par le hall d'entrée...
+107197|"......Bea...trice...‖......-sama."
+107206|"Cela faisait longtemps,‖ ......Kanon, le meuble.‖  ...*ricane*ricane*ricane*ricane*ricane* !"
+107215|"......Cela faisait...
+107217|......bien longtemps..."
+107225|Kanon s'efforça de ne pas oublier d'être poli envers cette invitée, pour le moment.
+107227|...Mais la visite de cette sorcière suspecte fit s'amonceler de sombres nuages dans son cœur, d'autant plus qu'aujourd'hui avait lieu la conférence familiale...
+107233|"Tu sembles inquiet de ce que je compte faire, maintenant que je suis apparue.‖  ...Je me trompe... ?"
+107238|"..............."
+107244|Kanon ne se força pas à répondre.
+107245|...Cette sorcière lit sans doute dans les pensées.
+107246|...Alors inutile de se donner la peine de le dire à voix haute.
+107249|......Bien sûr, elle pouvait lire jusqu'à sa résistance intérieure.
+107253|Aussi la sorcière gloussa-t-elle devant le défi puéril de Kanon.
+107259|"...Je suis venue honorer ma dernière promesse envers Kinzo."
+107265|"Votre dernière promesse...envers le Maître... ?"
+107274|"...J'ai prêté à Kinzo une montagne d'or.‖  ...Lorsque Kinzo y renoncera, elle me reviendra avec les intérêts.‖  ......Je suis venue percevoir ces intérêts ce soir."
+107277|".........Je ne vois pas de quoi vous parlez."
+107284|Pourtant, l'incertitude commença à s'amasser dans son cœur.
+107285|...Quoi que cette sorcière ait à dire, ce ne pouvait rien être de bon.
+107295|"...*ricane*ricane*ricane*ricane* !‖  Aucun doute !‖  Quand une sorcière a quelque chose à dire, ce n'est jamais rien de bon.‖  Tu as raison.
+107300|  Cependant, tels des ciseaux, le potentiel des sorcières dépend entièrement de l'usage qu'on en fait.‖  ...Il en est parfois, comme le roi Salomon, qui accomplissent de grands exploits."
+107305|"......Mais la plupart de ceux qui se servent de nous finissent par connaître un sort cruel, exactement comme dans les contes.‖  *ricane*ricane*... !‖  ......Mais Kinzo est rusé.‖  Il a intégré jusqu'à ma perception des intérêts dans sa cérémonie.‖  Est-ce un magicien d'une puissance absurde, capable de me surpasser moi-même ?‖  ...Ou bien un simple fou possédé par la démence ?‖  ...Amusant.‖  Vraiment amusant... !"
+107310|Kanon ne pouvait deviner de quoi la sorcière marmonnait et riait.
+107313|...Tout ce qu'il savait...‖c'est que tout ce qui faisait rire cette sorcière...‖devait avoir exactement le sens inverse pour tous les autres.
+107316|...Et au fond de son esprit, les paroles terrifiantes que la sorcière lui avait crachées autrefois commencèrent à refaire surface.
+107330|Quoi, vous pensiez que je vous prêterais mon pouvoir sans rien demander en échange ?‖  J'assisterai volontiers un couple d'amoureux.‖  Et en échange, je me délecterai du sort cruel qu'ils finiront par connaître.
+107334|Je n'ai jamais vu meilleur spectacle, pas en mille ans... !
+107351|"............‖...Se pourrait-il...que vous..."
+107357|"*ricane*ricane*ricane*ricane* !‖  Gehe he he ha ha ha ha ha ha ha ha... !!"
+107362|"......Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.‖  Toi qui cherches la Terre dorée, descends son cours en quête de la clé."
+107372|La sorcière se mit soudain à réciter un étrange poème...
+107373|C'était quelque chose qu'il se souvenait avoir entendu.
+107379|"Serait-ce......l'épitaphe de la sorcière... ?"
+107386|Il n'y avait aucun doute.
+107388|...C'était l'épitaphe qui accompagnait le portrait de la sorcière que Kinzo avait fait exposer.
+107392|La famille avait deviné qu'elle désignait l'emplacement de l'or caché,‖ mais personne n'en connaissait le sens avec certitude.

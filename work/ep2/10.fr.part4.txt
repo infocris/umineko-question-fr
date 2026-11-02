@@ -1,0 +1,150 @@
+130386|......J'ai essayé d'apaiser mon malaise en pensant à tout ça.
+130387|Mais apparemment, la sorcière avait lu en moi depuis longtemps.
+130393|"*ricanement*ricanement*‖  Je ne renoncerai pas à mon attaque frontale.
+130398|  ...Une attaque par derrière n'a de sens que parce qu'elle avance en même temps que le front.‖  Si je me laissais aller à n'utiliser que l'attaque par derrière, cela ne donnerait qu'un plan stupide où les moyens seraient devenus la fin."
+130404|"...Ihihi, vraiment ?‖  Alors, pourquoi tu ne répéterais pas `quelqu'un était caché dans la chambre des domestiques' avec ce rouge dont t'es si fière ?"
+130410|"Inutile.‖  Le postulat de ta théorie est sur le point d'être réduit à néant."
+130416|"Ah ouais ?!‖  Tu refuses ?!‖  Alors quelqu'un est vraiment caché ?!"
+130422|"Rosa va réduire ton postulat à néant à l'instant même.‖  ...*ricanement*ricanement* !‖  Allons, écoutons."
+130438|"Croyez-nous, je vous en prie, Rosa-sama... !!‖  Les deux cadavres étaient bel et bien étendus ici !‖  Le sang rouge vif sur le sol est le leur... !!"
+130445|Tante Rosa s'est mise à fouiller divers objets de la pièce, tournant le dos à Gohda-san qui la suppliait à grands cris.
+130450|...Finalement, elle a trouvé quelque chose et s'est figée un moment.
+130457|"Rosa-sama, nous ne mentons vraiment pas... !!‖  Les deux cadavres étaient bel et bien ici !!"
+130464|"Taisez-vous.‖  ......La personne qui a caché les cadavres avoue les avoir emportés ailleurs.
+130471|  ......Avec ceci."
+130476|Rosa leur a montré une simple feuille de papier par-dessus son épaule.
+130484|"Qu'est-ce que c'est que ça, bon sang ?!‖  Ce serait...une lettre dans une enveloppe scellée, comme dans la chapelle ?!"
+130490|"...Oui, c'est ça.‖  Elle était posée ici, bien en évidence.‖  Je la lis."
+130508|`Membres de la famille Ushiromiya et de sa maisonnée.
+130509|Avez-vous désormais atteint le point culminant de l'énigme de l'épitaphe de l'or ?
+130510|Il n'existe qu'un seul moyen de m'arrêter : résoudre l'énigme de l'épitaphe.
+130514|Il ne vous reste aucune autre option qui puisse mener à la suspension de ma cérémonie.
+130515|Je vous prie humblement de veiller à ne pas vous méprendre sur votre situation actuelle.
+130522|Me chercher sera vain.
+130523|Tenter de fuir sera vain.
+130524|Essayer de me nier sera vain.
+130527|--Beatrice la Dorée.'
+130540|"...P.-S.‖  J'ai emprunté ces deux cadavres pour ma cérémonie.‖  Ils vous seront rendus en temps voulu, je sollicite donc votre indulgence.‖  ...Par ailleurs, ces clés vous appartiennent, aussi vous les rends-je dès à présent.."
+130544|Pendant que Rosa lisait ça à voix haute, le contenu de l'enveloppe reposait à découvert dans le creux de sa main.
+130552|C'étaient deux passe-partout.
+130555|Le passe-partout que Nanjo avait trouvé dans la poche de Jessica, qui appartenait à l'origine à Kanon, et celui de Kumasawa.
+130566|"C'est quoi ce bordeeeeel... ?‖  Alors qu'est-ce que ça veut dire... ?‖  Bon sang, encore toi ?!‖  Tu veux dire que je peux encore soupçonner que les domestiques qui ont des clés ?!"
+130572|"Je ne le dirai pas en rouge, d'accord... ?
+130577|  Je ne nie pas la possibilité qu'après qu'ils ont fermé la porte à clé et sont partis, quelqu'un se soit caché dans cette pièce, d'accord... ?‖  *ricanement*ricanement*ricanement* !"
+130583|"...S'il s'était caché sous le lit, il aurait toujours pu emporter les cadavres quelque part.‖  Mais il n'aurait pas pu fermer la porte à clé !‖  Le passe-partout qu'il s'est donné tant de mal à récupérer a été laissé juste ici !
+130588|  ...C'est vrai, j'avais oublié.‖  Et les clés propres à cette pièce, les `clés de la chambre des domestiques' ?!"
+130594|"En effet.
+130597|  Elles sont#ff0000 rangées dans la boîte à clés au centre de la chambre des domestiques</i>.
+130600|  Il y a plusieurs clés de la chambre des domestiques, mais #ff0000toutes se trouvent dans la boîte à clés</i>."
+130606|"Ce qui veut dire que la situation est exactement la même que pour la chambre de Jessica...‖  C'est pas comme si les domestiques se baladaient avec une clé inutile alors qu'ils ont ces passe-partout si pratiques.‖  Je veux bien admettre qu'elles soient toutes rangées dans la boîte à clés..."
+130612|"Et les autres conditions restent inchangées, elles aussi.
+130615|  #ff0000Il est impossible d'entrer ou de sortir autrement que par l'unique porte et l'unique fenêtre</i>.‖  Par conséquent, ni porte dérobée ni moyen d'entrée irrégulier ne peuvent exister.‖  Réjouissez-vous, grands détectives.‖  *ricanement* !"
+130620|"#ff0000Et toutes deux étaient verrouillées</i>.
+130623|  #ff0000La porte et la fenêtre ne permettent aucune entrée ni sortie d'aucune sorte lorsqu'elles sont verrouillées</i>.‖  Il ne servirait donc à rien de démonter la porte ou de créer une fente pour s'y glisser ou quoi que ce soit du genre tant que le verrou est mis.
+130626|  Et bien évidemment, #ff0000il est impossible de déverrouiller la porte sans une clé de la chambre des domestiques ou un passe-partout</i>."
+130631|"...C'est pénible de devoir lire tout ça à voix haute à chaque fois.‖  Tôt ou tard, il faudra que je trouve un mot pour résumer et abréger tout cela."
+130638|"Mais tu ne peux pas répéter que quelqu'un se cachait dans cette pièce !‖  ...Pourtant, ça seul, ça suffira pas à enfoncer la porte d'une chambre close...‖  Aaah, bon sang, bon sang !!
+130646|  C'est inutile, c'est inutile, tout est inutile... !"
+130652|"*ricanement*ricanement* !‖  Qu'est-il advenu de ce coup où tu retournes l'échiquier, dont tu es si fier... ?‖  Je t'en prie, annonce donc ta théorie farfelue et vantarde."
+130657|"...Retourner...l'échiquier.‖  ......Qu'est-ce que je ferais si j'étais le coupable ?‖  J'emporte les cadavres quelque part.‖  ...Je laisse une lettre.‖  ......Je ferme la porte à clé de l'intérieur.‖  ...Ensuite, il me suffit de sortir de cette pièce d'une façon ou d'une autre.
+130662|  ......Bon sang, c'est seulement possible ?!‖  On m'a dit en rouge qu'on ne peut pas sortir autrement que par la porte ou la fenêtre... !
+130670|  .........Ah-"
+130675|...À cet instant, ...j'ai compris.‖  Mais oui.
+130676|...Le coupable a emporté les cadavres, a laissé la lettre...
+130678|...Et comme il n'a pas utilisé de `porte dérobée', ~ib~il n'a pas pu s'échapper~ib~...
+130682|...C'est ça.‖  Ce n'est pas une question, c'est une réponse...
+130690|"Beato,‖  ...avant de te demander de répéter quoi que ce soit, je veux vérifier ~ib~la définition de porte dérobée~ib~ que tu utilises."
+130696|"À quoi as-tu pensé ?‖  Fort bien, je vais t'expliquer.
+130702|  Une porte dérobée désigne évidemment une entrée ou une sortie que ceux qui n'en connaissent pas l'existence au préalable ne peuvent pas reconnaître comme telle.‖  Même les enfants savent ça."
+130708|"...Autrement dit, si on ne peut pas sortir de la pièce par là, ce n'est pas une porte dérobée ?"
+130714|"Oh.‖  ......Voilà donc où tu veux en venir."
+130720|"Je n'arrêtais pas de me dire qu'il fallait forcément un moyen pour que le coupable s'échappe de la chambre close.
+130726|  ...C'est faux.‖  Le coupable ne pouvait pas s'échapper !‖  Alors il a décidé de se cacher jusqu'à ce qu'on soit tous partis !"
+130731|Pour la deuxième chambre close, j'avais essayé d'appliquer cette théorie à Kanon-kun.
+130732|...Mais après avoir entendu en rouge `Kanon-kun a été tué', j'y avais renoncé.
+130736|Ensuite, j'avais suggéré qu'une troisième personne avait pu se trouver dans la pièce avant de s'échapper par une porte dérobée.
+130737|Et là, pour la première fois, je m'étais heurté à l'affirmation en rouge `il n'existe aucune porte dérobée'.
+130743|Maintenant, partons de là pour aller vers ce que je viens d'apprendre.
+130745|Ce terme, `porte dérobée', désigne ce qui permet d'entrer dans une pièce ou d'en sortir.
+130748|...Autrement dit, cette catégorie ne couvre pas les choses qui ne mènent pas vraiment dans la pièce ou hors de la pièce, même si les gens qui n'en connaissaient pas l'existence ne pourraient jamais les reconnaître.
+130751|Donc, si on avait par exemple une `étagère dérobée' ou un `placard secret', ça ne compterait pas comme une `porte dérobée' !
+130754|Ça veut dire que la troisième personne de la chambre de Jessica se cache ici, en attendant qu'on parte !
+130758|Heh, c'est pathétique, ce n'était qu'un petit jeu sur les mots !
+130759|On dirait que cette technique devrait suffire à venir à bout même de cette troisième chambre close.
+130763|S'il y a une étagère dérobée sous le lit ou un truc du genre, ça suffit.
+130764|Le coupable est caché quelque part, il attend qu'on parte.
+130768|......Le coupable est lui aussi enfermé dans cette chambre close en ce moment même !!
+130769|Ce qui veut dire...qu'à cet instant précis !
+130772|Le coupable est toujours caché dans la chambre des domestiques, en retenant son souffle... !!!
+130775|Et ça veut dire......c'est pas vrai...
+130777|Même si on a été torturés trois fois par des chambres closes, ‖ ...à cet instant précis, on a en fait mis le coupable échec et mat !!
+130787|"Je commence enfin à y voir clair.‖  ...Prends ça, Beato !!
+130793|  Répète-le !‖  `Il n'y a personne d'autre que nous dans cette pièce' !‖  Par nous, j'entends moi, George-aniki, Maria, Tante Rosa, Genji-san, Gohda-san et Shannon-chan, compris ?!‖  Alors, qu'est-ce que t'en dis ?!!  Tu peux pas le dire, hein ?!"
+130800|"......Oh...‖ ......oh... !"
+130806|"Je parie que ça t'a touchée là où ça fait mal !!‖  Si tu prétends le contraire, alors dis-le, bon sang !!‖  Et voilà le suivant !!
+130809|  Répète-le !!"
+130816|Je ne sais pas comment il se cache dans cette pièce.
+130819|Mais si c'est le cas, ça résout en même temps la deuxième chambre close, celle de Jessica !!
+130824|Je la tiens enfin par la queue !
+130825|Avec ça, je peux tout expliquer !
+130826|Les sorcières n'existent pas, et je n'ai à soupçonner personne !!
+130829|Très bien, à partir de maintenant, je vais tout retourner !‖  Maintenant, je vais lui faire répéter que-
+130837|"#ff0000Personne d'autre que ton groupe ne se trouve dans cette pièce.
+130840|  `Ton groupe' désigne Battler, George, Maria, Rosa, Genji, Gohda et Shannon</i>."
+130847|"...Qu......"
+130853|"Revenons à la chambre de Jessica.
+130856|  #ff0000Lorsque le cadavre de Jessica a été découvert, ‖ seuls Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa et Nanjo se trouvaient dans la chambre de Jessica</i>.
+130861|  Oups, le cadavre de #ff0000Jessica est également inclus</i>.
+130864|  #ff0000Par conséquent, tant dans l'affaire de la chambre de Jessica que dans celle de cette chambre des domestiques, il n'existe aucun humain dont tu n'avais pas connaissance</i>.
+130867|  #ff0000Personne ne se cache</i>."
+130872|"Et je vais t'en dire plus.
+130875|  #ff0000Il n'existe aucun moyen de verrouiller la porte depuis l'extérieur sans utiliser de clé</i>.
+130878|  #ff0000Quant à la fenêtre, il n'existe aucun moyen de la verrouiller depuis l'extérieur, de quelque façon que ce soit</i>."
+130883|"Et laisse-moi dire aussi ceci.
+130889|  #ff0000Tu es un incapable</i> !
+130896|  *ricanement*ricanement*ricanement*ricanement*, #ff0000hiiihhihihhihihihihihihihihihihi</i> !!"
+130902|"...C-Crétiiiiiine...‖  Alors, ......c'est vraiment...une chambre close, hein......?‖  E-Et juste quand j'avais enfin trouvé une issue.‖  Si quelqu'un se cachait, ...tout collait.‖  Juste quand je croyais avoir percé ton tour à jour, ......bon saaang..."
+130908|"......N-Nnngyaaaaaaaaaaaaahhhhhhhhhh !!"
+130926|C'est inutile c'est inutile c'est inutile tout est inutile !!‖  Pendant une seconde, j'ai cru que je la tenais !‖  Tout était inutile !!
+130931|Bon sang,‖  j'étais tellement sûr d'avoir enfin vu clair dans son jeu,
+130933|d'avoir compris comment elle me distrayait avec ses habiles jeux de mots en rouge pour me berner.
+130944|...Juste quand je croyais avoir trouvé une lumière dans les ténèbres,
+130946|......elle a disparu...
+130948|tout simplement disparu...
+130950|engloutie......
+130952|par une mer rouge sang...... !
+130972|Rouge,
+130974|...
+130976|...
+130978|rouge
+130980|rouge
+130982|rouge
+130984|rouge !!
+130993|Personne ne se cache !‖  Et il n'y a ni porte dérobée, ni moyen de passer par la porte ou la fenêtre quand elles sont verrouillées !!
+130996|Tu viens de prouver que tout est impossible ?!
+131002|La Preuve du Diable...
+131004|a-t-elle été accomplie...
+131006|par une attaque frontale ?!
+131010|Impossible,
+131012|...c'est impossible !!
+131020|"Qu'est-ce qui ne va pas, Ushiromiya Battleer ?‖  N'étais-tu pas si sûr de ta capacité à nier les sorcières ?‖  Pourquoi rampes-tu à terre en versant des larmes amères dans un endroit pareil ?"
+131026|"Oui, quelle tactique vraiment splendide.‖  Vraiment splendide, cette façon d'essayer de me faire tomber à la renverse et de me noyer dans une mer de larmes à force de rire.‖  C'est ~ib~bien~ib~ ce que tu essaies de faire, n'est-ce pas ?‖  Tu essaies de me faire rire, rire et rire jusqu'à en mourir, n'est-ce pas,
+131046|U
+131048|shiro
+131050|miya
+131052|Batt
+131054|le
+131056|e
+131058|er
+131060|???"
+131086|"Qu'est-ce que t'appelles de la magie ?!  Je prouverai que les sorcières n'existent pas, coûte que coûte !!‖  Je croirai jamais en toi !!‖  Tu t'es servie du pouvoir de la magie...
+131088|pour malmener et tuer tout le monde par jeu ?
+131090|  ...Ça, je l'accepterai jamaaaaaaais !!"
+131096|"Dis, Battler ?‖  Pardon de t'avoir tant malmené.‖  Je vais `retourner l'échiquier' de mon côté.‖  Je vais me mettre à ta place et te montrer le meilleur coup que tu pourrais jouer.
+131099|  Tu veux l'entendreeeee ??"
+131105|"Te fous pas de moi, je veux pas l'entendre, je veux pas l'entendre !!"
+131111|"Prenons la chambre de Jessica.‖  Tu étais bien parti, tu sais... ?‖  Toute cette histoire de se cacher en attendant que les autres partent.‖  C'était vraiment bien vu."
+131117|"...Mais pourquoi n'as-tu pensé qu'à Kanon et à moi, la 19e personne... ?‖  Je vois, c'est le `se cacher' de `se cacher et attendre' qui t'a gêné et t'a empêché d'aller plus loin."
+131122|"...Allons, tu vois où je veux en venir, n'est-ce pas ?‖  C'est Jessica.‖  Jeeeessicaaaaaa !!"
+131133|Si Jessica était la coupable, ...une farce pareille pourrait être montée facilement !!
+131134|Elle a tué Kanon-kun et l'a emporté quelque part !‖  Ensuite, elle a fait la morte et nous a laissés passer à côté d'elle !

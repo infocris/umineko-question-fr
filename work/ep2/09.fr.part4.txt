@@ -1,0 +1,171 @@
+126753|...Tante Rosa soupçonnait aussi que du poison avait pu être utilisé lors du premier meurtre.
+126756|...On ne pouvait donc sans doute pas exclure que le coupable se soit faufilé dans la cuisine à la faveur de toute l'agitation du matin...pour mêler du poison aux ingrédients.
+126759|...Tante Rosa nous avait donc ordonné à tous de ne rien mettre dans notre bouche jusqu'à l'arrivée de la police, à part des choses sûres comme des conserves.
+126766|En tant que cuisinier, Gohda-san a dû être bien déçu.
+126769|Visiblement désireux de montrer son savoir-faire malgré tout, il avait dit qu'il voulait au moins sortir des assiettes et y disposer les conserves.
+126773|Au début, Tante Rosa s'était montrée réticente et avait examiné chacune des assiettes qu'on apportait, mais elle n'avait rien trouvé à redire,‖ et c'est ainsi qu'était né le `Déjeuner Assortiment de Conserves, Sélection du Chef' de Gohda.
+126779|Gohda-san avait raconté un truc du genre : le goût ne se savoure pas seulement avec la langue, mais aussi avec les yeux.
+126782|...Je vois, ce sont les mêmes conserves qu'au petit déjeuner, mais on a l'impression de manger tout autre chose...
+126793|"Uu-, Battler.‖ Regarde, regarde.‖  C'est l'`énigme des loups et des moutons'.‖  Uu-."
+126797|Alors que j'étais avachi sur le canapé, sans la moindre envie de regarder la télé, ‖Maria s'est approchée, a sorti un livre d'images de son sac à main et me l'a tendu.
+126803|"...C'est quoi, ce livre ?
+126808|  L'`énigme des loups et des moutons' ?‖  .........Voyons voir."
+126815|L'`énigme des loups et des moutons'.
+126818|C'était l'expression qu'avait employée Tante Rosa ce matin, quand on était allés chercher Jessica.
+126821|...Sur le moment, je n'avais pas compris ce qu'elle voulait dire, et juste après, il y avait eu tout ce chambard avec la découverte du cadavre de Jessica, alors je l'avais complètement oubliée.
+126827|Le livre que Maria me tendait ressemblait à un livre d'images étranger traduit, ou quelque chose comme ça.
+126828|Quand je l'ai ouvert, je me suis rendu compte que c'était un livre rempli d'énigmes.
+126836|"Uu-.‖  Alors, t'as quelques loups et quelques moutons, d'accord ?‖  L'énigme, c'est comment les faire passer de l'autre côté avec un seul bateau."
+126838|"...Hmmmm ?‖  J'ai déjà entendu parler de jeux avec des règles comme ça.‖  Donc c'est une version avec des loups et des moutons ?"
+126848|C'était une énigme toute simple, transmise depuis très longtemps.
+126851|Essayons de poser le problème.
+126854|Sur la rive droite, il y a deux loups et deux moutons.
+126857|Il y a un bateau qui peut transporter jusqu'à deux animaux, et grâce à lui, il faut faire passer les quatre sur la rive gauche, en face.‖  Voilà l'énigme.
+126862|Il y a deux règles.
+126865|La première concerne le bateau.
+126868|Un loup seul ou un mouton seul peut le manœuvrer.
+126869|Mais il ne peut contenir que deux animaux.
+126872|La deuxième règle concerne les loups.
+126874|Dès qu'ils sont plus nombreux que les moutons à un endroit, ils attaquent les moutons et la partie est perdue.
+126880|Par exemple, au début de la partie...
+126881|Disons que les deux moutons montent dans le bateau et traversent.
+126883|Ensuite, un mouton descend et l'autre retourne sur la première rive.
+126886|...À ce moment-là, il y a deux loups sur la première rive.  Et un seul mouton qui y revient.
+126896|Dans ce cas, les loups sont plus nombreux, donc le mouton se fait attaquer et la partie est perdue.
+126901|Que ce soit sur l'une ou l'autre rive, ou même dans le bateau, il ne doit jamais y avoir plus de loups que de moutons.
+126904|Et il faut tous les faire traverser en respectant ces conditions.
+126910|Au passage, la bonne réponse consiste à faire passer les deux loups sur l'autre rive au premier tour.
+126911|Puis un loup revient.
+126915|Au deuxième tour, on fait passer les deux moutons sur l'autre rive.
+126916|Puis un loup revient.
+126919|Enfin, au troisième tour, on met dans le bateau le dernier loup resté sur la rive droite, on traverse, et félicitations, le transport est réussi.
+126923|En cours de route, il peut y avoir autant de loups que de moutons dans le bateau ou sur l'une des rives, mais ce n'est pas un problème.
+126924|On ne perd que si les loups sont plus nombreux.
+126932|Ce livre prend l'exemple des loups et des moutons, mais beaucoup de gens connaissent sans doute ce jeu avec d'autres personnages...
+126935|On aurait dit que Maria voulait vérifier si moi aussi, j'étais capable de résoudre les énigmes qu'elle savait résoudre,‖ et elle n'arrêtait pas de me montrer différentes pages en disant `résous celle-là' ou `celle-là, elle est dure'.
+126938|Alors, qu'est-ce qui se passait quand Tante Rosa avait mentionné cette énigme pour la première fois... ?
+126945|C'est vrai.
+126948|...Quand on a décidé d'aller chercher Jessica, on a discuté du nombre d'hommes qui devaient y aller, ‖et Tante Rosa a parlé de l'`énigme des loups et des moutons', en disant qu'on devait tous y aller ensemble...
+126956|"............Attends une seconde..."
+126962|Ça ne pouvait vouloir dire qu'une chose.
+126963|...Tante Rosa disait qu'il y avait un loup parmi nous.
+126966|Alors elle pensait...qu'on serait en sécurité tant que le nombre de loups et de moutons restait équilibré, mais que les loups montreraient les crocs si la situation changeait... ?
+126972|Dès qu'on a découvert les cadavres de nos parents, Tante Rosa soupçonnait déjà que les domestiques pouvaient être des `loups'.
+126975|Elle avait flairé la possibilité que, sans savoir s'il s'agissait de tous ou de certains d'entre eux, des `loups' se cachaient parmi eux.
+126980|...Rien d'étonnant à ça.
+126984|Cette scène de crime était très élaborée.
+126985|On imagine facilement qu'il y avait plusieurs coupables.
+126988|Et comme elle était arrivée à cette conclusion, quand on est allés dans la chambre de Jessica...‖et qu'on a appris que Jessica avait été tuée après s'être retrouvée seule avec un domestique, Kanon, ‖......pas difficile d'imaginer pourquoi Tante Rosa soupçonnait les domestiques avec autant d'insistance...
+126999|"Vous, les domestiques,‖ Gohda-san va à la cuisine faire la vaisselle.‖  Par précaution, voulez-vous bien tous l'accompagner ?"
+127007|"Toutes mes excuses, mesdames et messieurs.‖  Allons-y en groupe."
+127014|"...Shannon, Kumasawa,‖ nous y allons."
+127021|"Oui, oui, j'arrive.‖  Ho ho ho."
+127029|"Eh bien, George-san, veuillez m'excuser pour le moment."
+127035|"Oui.‖  ......Fais attention à toi.
+127041|  Ah, Tante Rosa, je pourrais y aller aussi ?"
+127048|"Désolée, mais pourrais-tu rester ici, George-kun ?‖  Il y a quelque chose dont je voudrais te parler."
+127054|"...Ah bon ?
+127059|  Désolé, Shannon.‖  En tout cas, fais attention.‖  ...Ne reste pas seule."
+127066|"...Oui..."
+127076|"Excusez-moi, docteur Nanjo.‖  ...Je voulais vous consulter à propos de quelque chose."
+127083|"Oui, ...de quoi s'agit-il ?‖  ........."
+127087|Les domestiques ont posé la vaisselle et les boîtes vides sur la desserte et se sont dirigés vers le couloir.
+127090|Derrière eux, Tante Rosa parlait de quelque chose à voix basse avec le docteur Nanjo.
+127099|"...Entendu.‖  J'y vais."
+127106|"Oui, je compte sur vous."
+127112|Le docteur Nanjo a refermé le livre qu'il lisait, s'est levé du canapé et a suivi les domestiques...
+127117|Tante Rosa a passé la tête dans le couloir et, après avoir vérifié qu'ils étaient complètement hors de vue, elle a fermé la porte et a pris la parole.
+127128|"Écoutez-moi, tous.‖  À présent, tous ceux qui sont ici sont des Ushiromiya."
+127135|"...Hmm ?‖  Oui, c'est vrai..."
+127143|"Donc, vous dites que vous avez chassé tous les `loups',‖ ...Tante Rosa ?"
+127148|Avec cette seule phrase, le regard de Tante Rosa s'est durci.‖  ...Visiblement, elle avait saisi le sarcasme.
+127149|...Elle a eu un petit rire.
+127156|"...Tu as l'esprit vif, Battler-kun.
+127161|  J'aime les enfants intelligents.‖  Ça fait moins de choses à expliquer."
+127167|"Uu-.‖  Battler est intelligent... ?
+127173|  Tu sais résoudre ça ?‖  La page 64 est dure.‖  Uu- !"
+127179|"Maria, va regarder la télé un moment.‖  Maman veut parler avec Battler-kun et George-kun."
+127184|".........Uu-."
+127193|"Tante Rosa,‖ ...Battler-kun m'a parlé de l'énigme.‖  ...Je ne pense pas qu'on ait tort de rester sur nos gardes, mais je pense aussi qu'on peut être trop soupçonneux."
+127200|"Que le vrai coupable soit Beatrice ou non, ‖nous avons des raisons de soupçonner que les domestiques sont dans le coup.
+127206|  ...Lors du premier meurtre, celui où Nii-san et les autres ont été tués,‖ ils ont été traités avec une grande brutalité, non ?‖  Ça te semblait être l'œuvre d'une seule personne ?"
+127211|"......Peut-être que l'invitée mystère, Beatrice-sama, a travaillé toute la nuit pour tout faire."
+127219|"Et qu'en est-il du passe-partout et de la porte de la chambre de Jessica ?‖  N'est-ce pas la preuve que l'un des domestiques était impliqué ?"
+127222|"...Nn........."
+127227|Seul un passe-partout aurait pu fermer à clé la porte de la chambre de Jessica.
+127228|...Donc on ne peut que supposer que c'est l'un des domestiques...
+127233|......Non,
+127235|...attends.
+127243|"Faisons pivoter l'échiquier.‖  ...C'est bizarre, Tante Rosa."
+127250|"Après avoir tué Jessica, pourquoi le coupable se serait-il donné la peine de fermer la porte à clé ?‖  Le fait qu'elle soit fermée à clé faisait inévitablement soupçonner les détenteurs des passe-partout.‖  ...Ils n'avaient aucune raison de se donner la peine de fermer la porte."
+127257|"...C-C'est vrai.‖  C'est exactement ce que dit Battler-kun !‖  Ils n'avaient aucun besoin de se donner la peine de se rendre suspects."
+127266|"Oui.‖  C'est une réflexion intéressante.‖  Bien sûr, j'y ai pensé moi aussi.
+127271|  ...Si c'est le cas, alors la personne qui l'a fermée voulait faire peser les soupçons sur les domestiques...et l'a fermée sans passe-partout.‖  Mais c'est impossible.‖  N'est-ce pas ?"
+127278|...C'est vrai.
+127279|S'il existait une astuce permettant de fermer cette porte à clé sans passe-partout, ce serait un formidable déguisement pour jeter le doute sur les domestiques.
+127282|...Si le but du coupable était qu'on s'isole du groupe pour pouvoir nous attaquer un par un,‖ cette astuce serait aussi efficace pour faire naître la paranoïa.
+127285|Mais il n'y avait aucun moyen de fermer cette porte à clé sans passe-partout...
+127294|"Comment peux-tu être sûr qu'il n'y a aucun moyen de fermer cette porte à clé sans passe-partout ?‖  Ce ne serait pas une preuve du diable, comme celle dont parlait Rudolf nii-san tout à l'heure ?‖  Peut-être qu'elle
+127297|~ib~a été fermée par une méthode à laquelle nous ne pensons pas~ib~."
+127305|"Même si nous ne trouvons pas de moyen, nous ne pouvons pas exclure qu'une astuce inconnue ait été utilisée."
+127312|"......Ça aussi, c'est vrai, j'imagine.‖  Alors c'est ça ?‖  Encore pas de fumée sans feu... ?"
+127318|"Je ne connais pas les détails pratiques de l'astuce, mais j'en ai une idée générale.‖  Je suis désolée, mais si l'on suppose que Kanon-kun était le coupable, tout s'explique extrêmement facilement.‖  Même l'absence de cadavre."
+127325|"Hein... ?‖  Mais Kanon-kun n'avait pas de passe-partout, non ?!
+127331|  Laissons de côté les autres domestiques, mais Kanon-kun, au moins, n'aurait pas dû pouvoir fermer la porte à clé !"
+127335|"...Je vois.‖  ...C'est pour ça que vous nous avez dit de fouiller le placard et partout ailleurs dès qu'on est entrés dans la chambre de Jessica.‖  ...Tante Rosa, ...vous avez l'esprit plus vif que ce que j'aurais cru à vous voir d'habitude."
+127343|"La vitesse de réflexion d'une petite sœur est toujours celle de la grande sœur moins 1.‖  ...En ce moment, il n'y a personne que j'aie peur de vexer, et c'est un vrai soulagement."
+127347|George-aniki a compris qu'elle parlait de Tante Eva......‖et semblait ne pas trop savoir comment prendre ce sarcasme...
+127355|"...J-Je suis désolé.‖  Vous pourriez l'expliquer pour que même moi, je comprenne ?
+127361|  Le passe-partout de Kanon-kun était dans la poche de Jessica-chan, enfermé dans une chambre close.‖  Une fois la porte fermée à clé, il aurait dû être impossible de le mettre dans sa poche depuis l'extérieur de la pièce, quelle que soit l'astuce utilisée...!"
+127369|"C'est pas ça, Aniki.‖  ...Si ça s'est passé comme le pense Tante Rosa, ...cette astuce, seul Kanon-kun pouvait l'utiliser.‖  ...En plus, la porte pouvait être fermée à clé sans utiliser de clé, alors que le passe-partout était toujours dans la poche de Jessica.‖  ...Et ça expliquerait aussi la disparition de son cadavre."
+127376|"...C-Comment ?!‖  Comment aurait-il pu fermer la porte sans clé ?!"
+127384|"C'est simple.‖  George-kun, quand tu rentres chez toi, tu fermes la porte à clé, non ?‖  Tu tournes le loquet, *clic*, et c'est fait, non ?"
+127398|"Hein... ?!
+127399|  ......S-
+127401|Serait-ce...
+127403|non, mais...
+127405|Kanon-kun n'était nulle part..."
+127420|"...On dirait que t'as compris, Aniki.‖  ......C'est ça que Tante Rosa cherchait dans la chambre.
+127426|  ...Elle cherchait Kanon-kun, qui aurait fermé la porte de l'intérieur et glissé la clé dans la poche de Jessica...‖avant de se cacher quelque part, en attendant qu'on passe juste à côté de lui."
+127433|C'était le plus simple des tours de chambre close.
+127434|...Il suffisait qu'il se cache à l'intérieur de la chambre close après avoir commis le meurtre.
+127438|...Ensuite, il n'avait plus qu'à sortir une fois partis ceux qui avaient découvert le corps, et le meurtre en chambre close fonctionnait à la perfection...
+127446|"Quand nous avons fouillé cette chambre, nous n'avons rien trouvé.‖  ...Mais qui sait, cette chambre avait peut-être un passage secret que seuls les domestiques connaissent."
+127452|"Nous ignorons où une telle chose pourrait être cachée, ‖mais si l'on suppose qu'un tel passage existait, on peut conclure que personne d'autre que lui n'aurait pu le faire."
+127463|".........Eh bien, à propos de ce raisonnement...‖  ...J'y ai pensé moi aussi, tout au début.‖  ...C'est le genre de raisonnement que je déteste le plus, alors je voulais le démolir d'entrée..."
+127469|"*ricanement*ricanement*...
+127472|  `#ff0000Kanon a été tué dans cette pièce</i>', n'est-ce pas ?"
+127477|"Apparemment, tu soupçonnais Kanon d'être le coupable, alors tu m'as fait répéter ceci pour détruire cette possibilité d'emblée.‖  Oui, oui, je comprends.‖  *ricanement*..."
+127483|"...Alors voilà ce que j'ai pensé ensuite.‖  J'ai imaginé une théorie où il y avait en fait trois personnes dans cette chambre.‖  Jessica et Kanon-kun étaient les victimes.‖  Et la coupable, l'invitée Beatrice, était là avec eux."
+127489|"Tu voulais que ce soit `l'humaine que je suis' qui ait commis le crime sans magie.‖  Je vois, une théorie bizarre qui te ressemble bien.‖  *gloussement*gloussement*."
+127494|"...J'ai supposé que tu avais tué ces deux-là, puis fermé la porte à clé de l'intérieur.‖  Et que tu avais emporté le cadavre de Kanon-kun par un moyen secret que les gens normaux ne remarqueraient pas.‖  ...Autrement dit, que tu t'étais échappée par une porte dérobée."
+127499|"Mais tu me l'as dit en rouge.‖  ...Tu as dit qu'aucune porte dérobée n'existait dans cette chambre."
+127505|"En effet.‖  Il ne peut exister aucun passage secret dont vous n'ayez pas connaissance.‖  Était-ce Knox qui l'a dit, ou bien Van Dine ?‖  Il paraît que dans les romans policiers, il ne doit jamais y avoir de passage secret.‖  Je n'ai fait que respecter cette étiquette."
+127510|"Ainsi, même sans fouiller la pièce de fond en comble, un grand détective peut conclure qu'il n'existe aucun passage secret.‖  ......*ricanement*ricanement*  Les humains qui jouent les détectives ont la vie si facile."
+127516|"Bon sang, tu te la racontes...
+127521|  Merci.‖  Grâce à la grande sorcière si diplomate, je peux conclure que la chambre n'a pas de porte dérobée sans avoir à tout fouiller."
+127527|"En effet.
+127530|  #ff0000Il n'y a aucune porte dérobée dans cette pièce</i>.
+127533|  #ff0000Il n'y a aucun moyen d'entrer ou de sortir autre que la porte et les fenêtres</i>."
+127541|"...Ce qui veut dire...‖...que la théorie dont Tante Rosa est si sûre...
+127543|est fausse.
+127549|  ...Et ce qui m'agace, c'est qu'il est impossible de réfuter sa théorie.‖  Si toi, la sorcière, tu dis `
+127553|#ff0000il n'y a aucune porte dérobée</i>' en rouge, l'affaire est réglée."
+127558|"...Par contre, j'aurai beau essayer de la contredire, un humain comme moi, Tante Rosa l'acceptera sûrement pas.
+127563|  ~ib~Les humains ne peuvent pas prouver qu'il n'y a pas de porte dérobée~ib~‖.
+127564|  C'est une preuve du diable.‖  ......Bon sang.‖  C'est bien pratique d'être une sorcière..."
+127576|"...C'est pas possible !‖  Accuser Kanon-kun à cause d'une porte dérobée dont on ne sait même pas si elle existe...‖  Je...ne peux pas l'accepter."
+127582|"Si tu ne peux pas l'accepter, alors trouve-moi une autre théorie plus convaincante.
+127588|  ......Il n'y en a pas.‖  J'y ai réfléchi tout ce temps.‖  Il n'y a pas d'autre possibilité !"
+127595|"............"
+127602|"George-kun, Shannon-chan et toi, vous êtes proches, n'est-ce pas ?‖  J'imagine que c'est pour ça que tu as tant de mal à accepter que tous les domestiques soient coupables.
+127608|  Moi non plus, je n'ai pas envie de croire que Shannon-chan soit de mèche avec le coupable.‖  ......Mais qu'ils soient tous complices ou non, il y a forcément un coupable, ou peut-être un complice, dans ce groupe.‖  Ça, au moins, tu dois absolument le comprendre !"
+127617|"...Si vous pensiez qu'il y avait d'autres loups que Kanon-kun, ‖...alors le scandale que vous avez fait en accusant Kanon-kun dans la chambre de Jessica, c'était pour jauger les réactions des autres domestiques... ?"
+127622|"Oui, c'est exact.‖  Et du coup, je les soupçonne encore davantage.‖  ...Il y a bel et bien un loup parmi les domestiques.‖  À coup sûr.‖  Et, comme dans l'`énigme des loups et des moutons', même s'ils restent dociles la plupart du temps, ils attaqueront sûrement s'ils en ont l'occasion."
+127628|"...Jessica-chan était un mouton seul sur le bateau.‖  ...Dans la version de l'énigme de Maria, ils n'attaquent peut-être pas quand il y a autant de loups que de moutons, mais notre énigme est différente.‖  Selon la situation et le nombre de personnes, ils attaqueront même s'il y a équilibre.‖  Exactement comme quand Jessica-chan a été tuée !"
+127635|"......A-Alors il y a une chose qui me met en colère !‖  Si c'est vrai, alors en envoyant Shannon à la cuisine, vous l'avez mise en danger, non ?!!‖  On devrait aller à la cuisine nous aussi, tout de suite !‖  Peu importe qui est un loup ou non !‖  Si rester ensemble nous permet de rester en équilibre, je pense qu'on devrait continuer comme ça !!"
+127644|"...Shannon-chan est allée voir Père avec Genji-san.‖  À ce moment-là, elle était censée être isolée, mais elle n'a pas été tuée.
+127649|  Est-ce parce que Genji-san n'était pas un loup non plus ?"
+127656|"...Faux !‖  C'est parce que c'étaient deux loups !!"
+127663|"Shannon n'est pas le genre de personne à participer à un crime !!‖  Je ne peux pas laisser passer une remarque pareille, même venant de vous, Tante Rosa.‖  J'exige que vous retiriez ce que vous venez de dire...!"
+127670|"...Ça m'embête de dire ça devant Aniki, mais votre façon d'argumenter...‖ressemble exactement à ce que pourrait dire Tante Eva.

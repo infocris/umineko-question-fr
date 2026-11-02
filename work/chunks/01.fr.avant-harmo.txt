@@ -1,0 +1,760 @@
+6434|Le bateau a été pris d'une grosse secousse.
+6444|On dirait qu'on a accosté au port.
+6445|Le pilote est sorti et a sauté sur la jetée avec l'amarre.
+6455|Un homme imposant en smoking nous y attendait avec un sourire chaleureux.
+6462|......Je ne reconnaissais pas son visage, mais à en juger par sa tenue, j'ai deviné que c'était un domestique de la famille principale Ushiromiya.
+6479|"Bon retour parmi nous, Mademoiselle.‖  Vous tardiez tant à revenir que je commençais à m'inquiéter."
+6488|"Ah, merci de t'en faire pour moi !‖  Ce grand dadais a eu tellement la trouille qu'on a dû ralentir.‖  C'était super pénible !"
+6498|"La-La ferme...‖  Un jour, quand les rôles seront inversés, tu t'en souviendras...ugghh."
+6506|À ce rythme, la nouvelle allait faire le tour de toute la famille, et j'allais être le grand sujet de conversation du dîner.
+6512|Même sans ça, tout le monde aurait parlé de moi à cause de ces six ans d'absence, ...mais voilà que je leur offrais un sujet encore plus croustillant... !
+6517|Bon sang, pourquoi est-ce que la famille principale Ushiromiya doit vivre sur cette île perdue ?!
+6527|Pendant ce temps, le bateau avait fini de s'amarrer.
+6528|On a abaissé une petite passerelle pour qu'on puisse descendre.
+6535|Un par un, nos parents sont remontés de l'intérieur du bateau.
+6544|"Vous devez tous être bien fatigués après ce long voyage.‖  Madame, permettez-moi de vous aider."
+6555|"Merci.‖  Ça faisait longtemps, Gohda-san.  Comment allez-vous ?"
+6563|"Je vous remercie de votre sollicitude.‖  C'est toujours un plaisir de vous servir."
+6576|"Battler-kun, c'est la première fois que tu rencontres Gohda-san, non ?‖  Si je ne me trompe pas, il ne travaillait pas ici il y a six ans, n'est-ce pas ?"
+6585|"En effet.‖  Permettez-moi donc de le saluer pour la première fois.‖  C'est un honneur de faire votre connaissance, Battler-sama."
+6595|"......Je suis plutôt fier de ma taille, mais vous, vous êtes immense.‖  ...C'est clairement notre première rencontre.‖  Jamais j'aurais oublié un grand gaillard comme vous... !
+6604|  Enchanté.‖  Moi, c'est Battler."
+6613|"J'avais hâte de vous rencontrer.‖  Je suis Gohda (郷田), votre serviteur, et je travaille pour la famille principale Ushiromiya depuis l'année avant-dernière.
+6626|  C'est un plaisir de faire votre connaissance.‖  Si vous avez besoin de quoi que ce soit, n'hésitez jamais à faire appel à moi."
+6637|"Gohda-san, ça faisait un moment."
+6649|"Cela faisait bien trop longtemps, George-sama.‖  Je vous en prie, permettez-moi de vous aider."
+6659|"Toujours aussi pro pour accueillir les invités...‖  Si un jour vous cherchez du travail, faites-moi signe, d'accord ?‖  Je vous embauche quand vous voulez !"
+6667|"Vous me faites trop d'honneur.‖  Permettez-moi de vous aider, Hideyoshi-sama."
+6674|Gohda-san a ensuite prêté main-forte à chacun pour descendre du bateau, en les saluant au passage.
+6682|Sa façon de parler et ses manières avaient le raffinement d'un professionnel.
+6683|Il était plein de grâce, à l'opposé de son allure de dur à cuire au premier abord.
+6690|Sa grande taille le rendait un peu effrayant au début, mais il était bien plus poli que ma première impression ne l'avait laissé croire.
+6691|Il disait servir sur l'île depuis deux ans, mais il avait sans doute exercé un métier similaire ailleurs auparavant.
+6702|Une fois tout le monde descendu, l'amarre a été détachée et le bateau s'est éloigné du port.
+6703|Il retournait sans doute à son port d'attache, à Niijima.
+6711|Le capitaine a agité la main en signe d'adieu.
+6712|Maria lui a consciencieusement rendu son salut. 
+6721|"............Hmmm, maintenant que j'y pense, ça doit être pour ça que je sens un truc qui cloche depuis tout à l'heure.‖  J'entends pas les cris des mouettes."
+6730|"Les mouettes ?‖  Les oiseaux ?"
+6745|Si je me souviens bien, chaque fois qu'on venait sur cette île autrefois, les mouettes nous accueillaient toujours avec leurs joyeux cris de `nyaa nyaa'.
+6751|Du coup, chaque fois que j'entends des cris de mouettes ailleurs, j'ai l'impression de partir pour une conférence familiale.
+6754|À part la petite partie de l'île où vivent les membres de la famille principale Ushiromiya,‖ Rokkenjima est restée à l'état sauvage, ce qui en fait apparemment un paradis pour les oiseaux.
+6759|Il paraît qu'il y avait quelque part une falaise qui abritait une immense colonie de mouettes, c'est pour ça que l'île en était toujours pleine.
+6764|Ne pas avoir ces mouettes pour nous accueillir me rendait un peu triste.
+6779|"Qu'est-ce qui ne va pas, Battler-kun ?"
+6789|"Oh, Tante Rosa.‖  ...Nan, c'est rien, je me disais juste que c'est un peu triste sans les cris des mouettes."
+6800|"Tiens, c'est vrai, maintenant que tu le dis.‖  Elles qui sont toujours si bruyantes, aujourd'hui on n'en voit pas une seule."
+6809|"......Uu- ?‖  Pourquoi pas de mouettes ?"
+6819|"Hmmm, peut-être que les mouettes aussi ont une réunion quelque part ?‖  Maria, tu voulais voir les mouettes ?"
+6828|"Uu-, voulais les voir."
+6836|"Quand même, c'est un peu bizarre qu'il y en ait pas une seule dans le coin.‖  Jessica les a peut-être toutes grillées et mangées !"
+6844|"......Uu- ?!"
+6855|"Mais ça va pas, dis pas des trucs aussi glauques !
+6864|  Maria va finir par y croire !!"
+6872|"Uu-uu-uu- !‖  Jessica onee-chan les a grillées, Jessica onee-chan les a grillées !‖  Uu- !!"
+6880|"C'est pas vrai, c'est pas vrai !‖  Pourquoi j'irais faire un truc pareil, bon sang ?!"
+6888|"C'est ça, c'est çaaa, Jessica les a grillées !‖  Peau 'n boulettes, foie 'n oignooons !"
+6895|"Pot-au-feu de poupées !‖  Foie 'n oignooons !!‖  Uu-uu-uu- !‖  Ahaha, ahaha !‖  Hahahaha !"
+6901|Pendant que je me moquais de Jessica, Maria a suivi le mouvement, l'air de bien s'amuser.
+6905|Oh, j'aurais jamais cru qu'elle avait autant d'humour !
+6906|Très bien, à partir d'aujourd'hui, t'es ma disciple numéro un !
+6912|Quand je lui ai souri, elle a rayonné, l'air ravie, sans doute heureuse de ce petit lien qu'on venait de créer.
+6923|"Ce n'est pas ça, Maria-chan.‖  J'ai entendu dire que les oiseaux sauvages sont sensibles aux changements de temps et de pression atmosphérique.‖  Le temps va sans doute se gâter ce soir.‖  Les mouettes sont peut-être rentrées tôt à leurs nids."
+6935|".........Uu-.‖  Pas grillées ?‖  Jessica onee-chan les a pas grillées ?"
+6943|"Non, non !!‖  J-Je ferais jamais un truc pareil !‖  Battler, avoue tout de suite que t'as menti !"
+6952|"Battler-kun,‖ Maria-chan est une fille naïve, elle prend même les blagues au sérieux.‖  Tu devrais choisir tes plaisanteries avec plus de soin."
+6953|...George-aniki m'a gentiment grondé.
+6959|...J'avais beau dépasser Aniki en taille, Aniki restait Aniki, évidemment.‖  Je n'avais pas d'autre choix que de m'excuser bien sagement.
+6971|"O-Ouais,
+6972| c'est ma faute, c'est ma faute...‖  Maria, c'était une blague.‖  Les mouettes se reposent toutes dans leurs nids aujourd'hui, c'est tout."
+6979|"......Battler a menti ?‖  George onii-chan a dit la vérité ?"
+6988|Est-ce qu'elle s'était vraiment laissé avoir, alors qu'elle avait l'air de tant s'amuser... ?
+6989|Ses yeux innocents m'ont fait culpabiliser.
+6990|......J'y étais peut-être allé un peu fort avec elle, finalement.
+7001|"Ouaaais, c'est ça, c'est ça.‖  Ce que George-aniki a dit est vrai.‖  Il fait mauvais, alors elles sont sans doute rentrées chez elles pour la journée.‖  Ça veut pas dire qu'elles ont disparu.‖  Pas vrai, Tante Rosa ?!"
+7013|"C'est exact.‖  Demain, quand le temps se sera arrangé, je suis sûre qu'elles reviendront et qu'on les entendra crier `myaa myaa' comme d'habitude."
+7022|"Uu-.‖  Je vais attendre que le temps s'arrange et qu'elles reviennent.‖  Vais attendre jusqu'à demain.‖  Vais attendre que le temps s'arrange.‖  Uu-uu- !"
+7027|Maria avait retrouvé sa bonne humeur et attendait avec impatience le lendemain, quand les mouettes reviendraient remplir le ciel.
+7036|N'empêche, George-aniki était vraiment doué avec les enfants.
+7044|...Je crois me souvenir qu'Aniki s'occupait bien de moi aussi, quand j'étais un sale gosse il y a six ans.
+7045|......Aniki, c'est sans doute ton don.
+7055|"George-kun est formidable avec les petits.‖  Si tu voulais, je parie que tu réussirais très bien dans un métier de la petite enfance, tu ne crois pas ?"
+7066|"Ouais, on dirait presque que George nii-san est né pour faire ce genre de truc.‖  Perso, je trouve que ça t'irait mieux que de faire des affaires dans un bureau de PDG."
+7077|"Oh, non.‖  S'occuper d'enfants, c'est une belle carrière,‖ mais ce n'est pas un métier où il suffit d'aimer les enfants."
+7089|"Tu es vraiment modeste, George-kun.‖  Mais Battler-kun aussi est plutôt doué avec les enfants !‖  Il y a une seconde, même si ça n'a pas duré longtemps, Maria avait l'air de bien s'amuser.‖  S'il te plaît, continue à jouer avec elle comme tu viens de le faire.‖  Choisis juste tes blagues avec plus de soin, d'accord ?‖  *gloussement*."
+7095|Tante Rosa m'a fait un clin d'œil en gloussant un peu.
+7096|Je me suis dit que c'était une vraie mère, heureuse de voir Maria s'amuser.
+7110|"Allez, ROSA.‖  Et vous aussi, les mioches, qu'est-ce que vous fichez ?‖  On y va."
+7123|"Oui, oui, on arrive."
+7133|Mon vieux salaud de père nous faisait signe de nous dépêcher.
+7134|Ouais, il fallait qu'on se bouge.
+7135|Autant continuer cette conversation après avoir posé nos bagages dans nos chambres.
+7149|"Bien, mesdames et messieurs, permettez-moi de vous conduire à la maison d'hôtes, où vous passerez la nuit.‖  Par ici, je vous prie."
+7150|Gohda-san a appelé tout le monde et a ouvert la marche.
+7151|Kumasawa-san fermait le cortège.
+7185|Un chemin sinueux, tout en lacets, traversait une forêt sombre.‖  Il montait un peu.
+7189|J'imagine qu'on avait fait un chemin aussi tortueux pour que la pente ne paraisse pas trop raide,‖ mais personnellement, j'aurais préféré qu'ils aient le cran de construire un escalier tout droit.
+7194|......Ils avaient sans doute fait serpenter le chemin exprès, pour se donner des airs de distance et d'importance...
+7201|Bientôt, on a aperçu des marches de pierre dans le style d'un jardin. 
+7209|...Aaah, à partir d'ici, j'ai quelques souvenirs.
+7210|On monte ces marches, et...
+7218|En haut des marches de pierre, on a vu une magnifique maison d'hôtes.
+7240|Sa façade était ravissante, bien sûr, mais surtout, 
+7241|......impossible d'en franchir les portes sans avoir le cœur ravi par la splendeur de la superbe roseraie qui s'étendait devant.
+7253|"Aaah !‖  Elle est toujours aussi belle cette année...‖  Un vrai régal pour les yeux..."
+7254|Après avoir gravi les marches, les gens accueillis par cette roseraie ont exprimé leurs impressions l'un après l'autre.
+7263|"C'est moi, ou les fleurs sont un peu moins vigoureuses cette année ?‖  Sans doute parce que l'été n'a pas été très chaud."
+7274|"Je crois aussi que cela a joué.‖  Malheureusement, la floraison de cette année est un peu inférieure à celle de l'an dernier."
+7286|Malgré tout, c'était une roseraie magnifique.
+7287|Je me souvenais qu'il y a six ans déjà, une foule de roses nous accueillait chaque année.
+7290|...Cette roseraie était la première chose qui accueillait ceux qui venaient à Rokkenjima.‖  Même nos parents, qui venaient chaque année, ne pouvaient s'empêcher d'exprimer leur admiration.
+7296|En fait, elle semblait avoir pris du galon par rapport au jardin de mes souvenirs d'il y a six ans.
+7308|"Cet endroit est toujours aussi extraordinaire.‖  Ce serait merveilleux d'avoir une roseraie comme celle-ci à la maison."
+7318|"Laisse tomber.‖  Qui va s'en occuper, à ton avis ?‖  Les roses, c'est une vraie plaie, entre les insectes et les maladies."
+7330|"Pourtant, d'après ce que j'ai entendu, ‖Kyrie nee-san prend soin de sa rose tous les jours et veille à ce qu'aucun insecte ne s'en approche, non ?"
+7340|"Hein ?‖  De quoi tu parles ?"
+7352|"C'est exact.‖  Quoique, dans le cas de cette personne, c'est la rose qui va chercher les insectes, comme une vilaine plante carnivore."
+7362|"...Ah, c'est de ça que tu parles.‖  Allez, Rosa, tu peux pas laisser ça de côté rien qu'aujourd'hui ?‖  J'ai complètement tourné la page."
+7372|"Je me le demande.‖  Après tout, tu es un coureur de jupons presque génétique... !"
+7385|"Ne vous inquiétez pas, Rosa-san.‖  Quand une rose vous cause trop de soucis, mieux vaut toujours la couper à la racine."
+7397|"Ho ho ho ho ho, quels propos effrayants."
+7405|"Les hommes qui plaisent aux femmes sont toujours forcés de vivre dangereusement.‖  J'espère bien être un peu plus beau gosse dans ma prochaine vie !"
+7413|"Hideyoshi nii-san, je te répète que c'est pas du tout ça.‖  ...Et Kyrie...arrête, tu me fais flipper.‖  Tu as fait faner ma rose."
+7427|"Hé, Maria-chan, regarde par ici.‖  Ces roses sont particulièrement magnifiques."
+7435|"...Roses magnifiques.‖  ...Uu- !"
+7447|"Hmmm, ça sent plutôt bon.‖  Regardez, ça va parfaitement avec mon élégance."
+7459|"Hé, arrête ça !‖  Maria va t'imiter et se faire mal avec les épines !"
+7460|Elle m'a crié dessus alors que je me penchais pour sentir le parfum de la rose avec un geste exagéré.
+7473|...J'ai trouvé qu'elle en faisait trop, mais en me retournant, j'ai vu Maria imiter chacun de mes gestes, et George-aniki qui nous souriait largement.
+7483|"Allons, Maria-chan, fais attention.‖  Les épines des roses, ça peut faire mal."
+7493|"......Uu- ?‖  ......George onii-chan,‖ juste cette rose est bizarre.‖  Uu-."
+7503|"Bizarre ?‖  Qu'est-ce qu'elle a ?"
+7512|Maria a montré du doigt une rose.
+7513|J'ai tout de suite compris pourquoi elle la trouvait étrange.
+7518|Au milieu de toutes ces roses magnifiques, une seule commençait à faner.
+7522|Il n'y avait pas de raison particulière.
+7523|Certaines roses s'épanouissent, d'autres fanent.
+7528|C'était aussi simple que ça, mais Maria semblait très préoccupée par la seule malade du groupe.
+7534|...Ça devait la rendre triste.
+7546|"Alors, tu as de la peine pour cette rose parce que c'est la seule qui n'est pas en bonne santé... ?"
+7554|"......Uu-.‖  Les autres sont toutes en bonne santé, mais celle-là est triste."
+7564|"Bah, elles fleurissent et fanent chacune à leur rythme.‖  Je parie que celle-là commence juste à faner plus tôt parce qu'elle a fleuri avant toutes les autres."
+7575|"Ouais, c'est ça.‖  Elle a sûrement fleuri à fond, accompli son devoir et elle est allée dormir.‖  Faut pas te mettre dans tous tes états pour ça."
+7588|".........Uu-."
+7589|On aurait dit que la nature pure et sensible de Maria lui faisait ressentir de la peine pour cette rose qui fanait toute seule.
+7595|Même si elle comprenait la logique, ça lui semblait quand même triste.
+7609|"Alors, Maria-chan,‖ et si tu t'occupais de cette rose jusqu'à notre départ ?"
+7617|"Uu- ?"
+7622|George-aniki s'est redressé et a fouillé dans sa poche.
+7623|Il en a sorti l'emballage du bonbon qu'il suçait dans l'avion.
+7629|Il l'a tortillé en une fine ficelle, puis l'a délicatement noué à la rose, en guise de repère.
+7639|"Ooooh, c'est trop mignon !"
+7646|"On va la marquer avec ça.‖  Plus tard, tu pourras venir lui donner de l'eau.‖  Je suis sûr que Monsieur la Rose sera content."
+7658|"......Uu- !‖  Venir lui donner de l'eau !"
+7668|"Je pense que tu devrais donner un nom à Monsieur la Rose.‖  Je suis sûr que ça lui fera plaisir, et tu apprendras à mieux le connaître."
+7679|"Un nom... ?‖  Un nom...‖  ......Uu-uu-..."
+7680|Toujours avec sa mine boudeuse habituelle, Maria a croisé les bras et s'est mise à réfléchir intensément.
+7686|En tout cas, elle semblait complètement sortie de son coup de cafard.‖  Bien joué, Aniki.
+7698|"George nii-san a toujours été super compréhensif.‖  On peut que le respecter."
+7708|"Ouais.‖  J'imagine qu'il est né comme ça.‖  Faut qu'on commence à prendre de la graine !"
+7722|"Ce jardin était aussi magnifique quand vous étiez petits ?"
+7732|"C'est seulement après que je suis partie d'ici qu'il est devenu si grand.‖  Avant, le jardin était plus simple, mais j'y suis toujours attachée.‖  Nii-san l'a trop bricolé, avec son goût un peu douteux.‖  Je le préférais bien plus avant."
+7740|"Eva, faut voir le bon côté des choses !‖  Peu importe à quoi il ressemblait avant, sa beauté actuelle mérite d'être admirée.‖  Tu te détendras bien mieux si tu le vois comme ça."
+7748|"Ce n'est pas ce que je voulais dire...‖  Je disais juste que j'aurais aimé que tu voies aussi ce jardin tel qu'il était avant."
+7758|"Mesdames et messieurs, si vous le voulez bien,‖ je vais maintenant vous conduire à vos chambres."
+7766|Gohda-san a demandé à tout le monde si on était prêts, ‖mais nos cœurs avaient été complètement ravis par la roseraie qu'aucun de nous n'avait vue depuis un an, alors on ne lui a pas prêté grande attention.
+7771|Comme on n'était pas un groupe de touristes, on n'avait pas d'horaire strict à respecter.
+7772|En plus, nos parents revenaient dans la maison de leur enfance, pleins de nostalgie, alors ils n'avaient pas à se laisser presser par qui ou quoi que ce soit.
+7778|Comprenant la situation, Gohda-san a continué d'attendre avec un large sourire, jusqu'à ce que nos parents se lassent des roses et lui demandent de nous conduire à nos chambres...
+7797|"Oh... ?!‖  Hééé !‖  Mais c'est Kanon-kun !‖  Ça fait une éternité !  Comment ça va ?!"
+7798|Oncle Hideyoshi s'est soudain mis à crier.
+7818|Dans la direction où il faisait signe...
+7822|...se trouvait un garçon frêle.
+7825|Le croiser juste après un colosse comme Gohda faisait sans doute ressortir sa petite taille.
+7832|Le garçon était en train de transporter des outils de jardinage entassés dans une brouette.
+7833|Quand il a compris qu'on l'appelait, il a posé la brouette, a ôté son chapeau et a incliné la tête.
+7841|"............‖...Bonjour."
+7847|...Je me suis dit qu'il était sans doute plus jeune que moi.
+7848|Et j'ai compris à l'atmosphère qui l'entourait que c'était encore un domestique.
+7854|Il nous avait salués en réponse à l'appel d'Oncle Hideyoshi, mais il avait l'air d'être plutôt taciturne la plupart du temps.
+7855|C'était un salut dénué de chaleur.
+7861|Quand Gohda-san a remarqué que notre intérêt s'était porté sur lui, il est allé à côté du garçon pour nous le présenter.
+7872|"Battler-sama, permettez-moi de faire les présentations.‖  Voici l'un des domestiques de la famille principale Ushiromiya.‖  ...Kanon-san, salue notre invité."
+7880|"............Enchanté de faire votre connaissance.‖  Je suis le domestique.........
+7892|Kanon (嘉音)."
+7897|Ouais, ma première impression n'était pas fausse.‖ Il avait l'air taciturne, ou du moins pas très doué pour parler.
+7902|Comparé à Gohda-san, d'une distinction extraordinaire en tant que domestique,‖ on ne pouvait s'empêcher de ressentir chez lui l'inexpérience typique de son âge.
+7908|Quand Gohda-san lui a soufflé de se présenter un peu plus, le garçon nommé Kanon s'est contenté de baisser les yeux.
+7916|"Kanon-san,‖ pourrais-tu peut-être les saluer un peu plus... ?"
+7925|".........Non.‖  .........Parce que nous...
+7926|sommes des meubles."
+7932|Il ne semblait pas refuser de nous saluer par méchanceté.‖  Il avait plutôt l'air de s'être tu parce qu'il ne savait pas quoi nous dire d'autre pour nous saluer.
+7942|"B-Bon, Kanon-kun est timide et il parle pas beaucoup.‖  Il est peut-être pas très sociable, mais au fond, c'est quelqu'un de vraiment bien !‖  Le prends pas mal... !
+7950|  Ça fait trois ans que tu travailles ici, c'est ça ?‖  Je crois bien que t'as commencé un an avant Gohda-san, non ?"
+7955|Même s'il ne faisait pas vraiment une mauvaise première impression, Jessica s'est empressée de prendre sa défense.
+7960|...Je vois, son caractère renfermé doit souvent lui attirer des ennuis.
+7970|"Bon, alors enchanté.‖  Moi, c'est Battler !‖  J'ai 18 ans.  Et toi, t'as quel âge ?"
+7980|"..........................."
+7981|Il s'est tu, comme s'il se demandait s'il était obligé de répondre à cette question.‖  ...Mais là encore, Jessica a foncé.
+7989|"Euh, euh... !‖  Si je me souviens bien, Kanon a deux ans de moins que nous, donc...seize ans, c'est ça ?"
+7997|".........Oui, ...c'est exact."
+8000|On aurait dit qu'il aurait préféré ne pas nous dire son âge, s'il avait eu le choix.
+8008|Sans doute parce qu'il pensait qu'on allait le regarder de haut à cause de ça.
+8009|...Je me souviens qu'à peu près à son âge, je détestais que les adultes me demandent quel âge j'avais.
+8012|...Je vois, seize ans, hein ?
+8020|C'est sûrement une période délicate.
+8021|...Ce qui veut dire que j'ai sans doute posé une question que j'aurais pas dû.
+8029|"Hé hé, je suis content que t'aies à peu près notre âge !‖  Sois cool et appelle-moi Battler !‖  Et moi, je t'appellerai Kanon !"
+8037|".........Je vous remercie beaucoup.‖  Mais l'intention suffit, ...Battler-sama."
+8042|Jessica avait l'air paniquée, je ne sais pas pourquoi.
+8043|Elle semblait croire que mon impression de Kanon se dégradait à cause de son refus.
+8051|Bon, en tant que fille, Jessica ne pouvait sans doute pas comprendre le cœur tourmenté d'un garçon de cet âge.
+8052|En tant qu'aîné, même de deux ans seulement, j'ai pris sur moi de me montrer compréhensif.
+8064|"Kanon-san, pourrais-tu te montrer un peu plus courtois ?‖  Un visage souriant fait aussi partie du devoir d'un domestique."
+8074|"...............Toutes mes excuses.‖  ...Je vais faire un effort."
+8081|"Ho ho ho...‖  Gohda-san, Kanon-kun fait de son mieux, n'est-ce pas ?"
+8085|On aurait dit qu'on lui reprochait souvent de ne pas être sociable.
+8086|Et apparemment, il ne s'était pas amélioré d'un poil.
+8091|Gohda-san a gardé son sourire commercial, mais a laissé échapper un petit soupir résigné.
+8101|"...Bien, j'ai encore du travail.‖  ......Si vous voulez bien m'excuser."
+8107|On aurait dit que Kanon lui-même était mal à l'aise à l'idée de rester là plus longtemps en silence.
+8108|Après une autre courbette de pure forme, il a fait demi-tour et s'est remis à pousser la brouette.
+8122|À ce moment-là, la brouette a soudain vacillé et s'est renversée, éparpillant son chargement.
+8123|J'imagine que l'unique roue de la brouette s'était prise dans un caillou et qu'elle avait perdu l'équilibre.
+8133|"Mais que fais-tu donc... ?‖  Allons, allons, ramasse vite tout ça... !"
+8141|Gohda-san l'a pressé à voix basse, comme pour lui faire comprendre qu'il était honteux pour un domestique de se montrer maladroit devant des invités.
+8142|Kanon-kun a rechargé la brouette sans un mot, comme pour dire qu'il le savait très bien sans qu'on ait besoin de le lui dire.
+8146|Il s'en sortait avec les outils de jardinage légers, les pelles et compagnie, mais il avait l'air d'avoir du mal à attraper et soulever les sacs d'engrais.
+8156|"Ça va ?  T'es vraiment pas attentif.‖  Tiens."
+8165|"Mademoiselle, vous allez salir vos vêtements.‖  Je vous en prie, laissez-nous faire."
+8168|D'un geste fluide, Gohda-san a pris la pelle que Jessica avait ramassée.
+8174|Derrière lui, Kanon-kun peinait avec les sacs d'engrais.
+8184|"......Uu-.‖  Salir vos vêtements ?"
+8192|"T'inquiète, ceux que je porte coûtent pas si cher que ça.
+8201|  En plus, je déteste les mecs qui restent assis et laissent la serveuse ramasser la fourchette qu'ils ont fait tomber au restaurant."
+8202|J'ai soulevé les autres sacs qui étaient tombés.
+8208|Bien sûr, ils n'étaient pas légers, mais pour moi, c'était du gâteau.
+8220|Kanon-kun m'a regardé, surpris.
+8221|C'était le visage de quelqu'un qui ne se serait jamais attendu à recevoir l'aide d'un invité. 
+8229|"............B-Battler-sama,‖ ne vous en faites pas...‖  Je vais m'occuper de tout, alors..."
+8236|"T'en fais pas !‖  J'en ai peut-être pas l'air, mais j'ai de la ressource !‖  Hé hé !"
+8243|Comme Kanon-kun n'avait apparemment pas encore eu sa poussée de croissance, il était coincé avec un corps un peu frêle.
+8244|Ce genre de poids était peut-être trop pour lui.
+8257|"C'est très lourd.‖  C'est normal que ce soit difficile pour toi.‖  Ne t'en fais pas, Kanon-kun."
+8267|"Bon, c'est mon heure de gloire.‖  Ça rattrape le coup du bateau de tout à l'heure, pas vrai ?"
+8277|"Ha !‖  Comme si ça pouvait rattraper une panique pareille !‖  Ahahaha !‖  Je te raconterai ça plus tard, Kanon-kun !‖  Battler était trop marrant !"
+8285|"On tooombe, on tooombe !!‖  Uu-uu-uu- !!!"
+8295|Pendant ce temps, j'ai rechargé toutes les affaires dans la brouette.
+8303|"............Je vous prie de me pardonner...de vous avoir infligé un spectacle aussi disgracieux."
+8313|"Allons, cela suffit.‖  Va, maintenant."
+8319|Laisser les invités, qui étaient censés se sentir les bienvenus, assister à une chose aussi honteuse...‖devait être affreusement humiliant pour un domestique.
+8320|Pressé par Gohda de s'en aller au plus vite, Kanon-kun est parti.
+8338|"Vous êtes trop dur avec lui, Gohda-san.‖  Vous n'auriez pas dû l'aider, au lieu de le brimer ?"
+8346|"...J'ai eu tort.‖  Je vous supplie humblement de me pardonner."
+8349|Sans que son sourire ne frémisse le moins du monde, Gohda-san s'est excusé avec élégance.
+8358|"Kanon-kun a plein de talents, lui aussi.‖  C'est juste que sa jeunesse joue tout le temps contre lui.‖  C'est bien dommage."
+8368|"Bah, c'est un âge épineux.‖  Laissons-le tranquille.‖  Après tout, les domestiques qui tiennent leur langue sont les meilleurs.‖  N'est-ce pas, Kumasawa-san ?"
+8377|"Ho ho ho ho ho, Rudolf-sama, vous êtes vraiment dur !‖  Il n'y a pas plus discrète que moi, bien entendu !"
+8387|Tout le monde a souri d'un air gêné devant ce mensonge évident.
+8388|Même elle n'y croyait pas, pas même dans ses rêves les plus fous.
+8389|Elle avait donc dû dire ça pour détendre l'atmosphère.
+8392|Ouais, c'était bien le genre de personnage qu'était Kumasawa baa-chan.
+8398|L'atmosphère, tendue jusque-là, s'est éclaircie d'un coup grâce à son sourire enjoué.
+8410|"J'aimerais bien déposer nos bagages.‖  Gohda-san, quelles chambres allons-nous occuper ?"
+8418|"Les mêmes que l'an dernier.‖  Permettez-moi de vous guider.‖  Par ici, je vous prie."
+8424|On s'est dirigés vers une maison d'hôtes soignée, d'une élégante simplicité.
+8425|C'était là qu'on allait loger pour la nuit.
+8444|".........................................."
+8452|Kanon regardait par-dessus une haie les invités entrer un à un dans la maison d'hôtes.
+8453|Puis il laissa son regard tomber sur les lourds sacs d'engrais empilés dans la brouette.
+8456|Dans sa tête, il ne cessait de ressasser son erreur.
+8462|Battler, grand et fort, avait soulevé devant lui ces sacs que Kanon ne pouvait soulever lui-même, comme s'ils n'étaient que des plumes.
+8467|Il aurait été extrêmement difficile pour un observateur extérieur de deviner quelles émotions ce service avait éveillées en Kanon.
+8468|Mais à le voir baisser la tête, on devinait qu'il y avait là quelque chose qu'il ne parvenait tout simplement pas à laisser passer.
+8471|...Des mots marmonnés s'échappèrent de ses lèvres.
+8477|Mais ces mots qu'il murmura étaient si faibles qu'ils n'atteignirent même pas ses propres oreilles.
+8485|"......Même moi, 
+8489|.................."
+8499|Kanon baissa la tête, en se mordillant la lèvre inférieure...
+8542|"Je me souviens de la roseraie,‖ ...mais pas du tout de cette maison d'hôtes.‖  Elle a été construite récemment ?"
+8548|`Toraian' (Retraite des Visiteurs) était inscrit sur une sorte de pilier de portail, mais comme tout le monde l'appelait la maison d'hôtes, j'ai fait comme eux.
+8552|Toute neuve, de style occidental, la maison d'hôtes qui dominait les roses avait une architecture magnifique, soigneusement pensée en harmonie avec le jardin.
+8560|"Exact !‖  Elle a été construite l'année avant-dernière.‖  Depuis, on nous fait dormir ici."
+8572|"Hé hé, c'est plus marrant ici que dans ce vieux manoir pourri que tu connaissais.‖  J'aimerais bien avoir ma chambre ici !"
+8580|"Uu- !‖  Moi aussi je veux une chambre ici !‖  J'en veux une !"
+8583|...On pourrait dire que ma propre maison est plutôt aisée, mais à mes yeux, elle paraissait tout à fait ordinaire comparée à celle de la famille principale.
+8589|Cet étalage de richesse était sidérant, tout comme le fait d'avoir construit une maison d'hôtes aussi géniale pour des invités qui ne venaient que quelques fois par an.
+8599|"Eva-sama, Hideyoshi-sama,‖ je vous en prie, installez-vous dans cette chambre.‖  Rudolf-sama, Kyrie-sama, veuillez prendre celle-ci."
+8608|"J'adore vraiment la beauté et l'élégance de cet endroit.‖  L'architecture occidentale est vraiment merveilleuse."
+8620|"Le style occidental, je le supporte quelques jours, mais au-delà, rien ne vaut le bon vieux style japonais !‖  Les Japonais se détendent mieux sur des tatamis."
+8632|"...Haha, ils se disputent pour savoir si notre nouvelle maison sera de style japonais ou occidental.‖  Maman en veut encore à Papa d'avoir lancé les travaux avec un plan japonais, et ils se chamaillent tout le temps à ce sujet."
+8642|"Je t'envie vraiment, George nii-san.  Tes parents s'entendent bien, hein ?‖  Les miens sont tellement froids.‖  Mais bon, ils sont toujours sur la même longueur d'onde quand il s'agit de mes notes."
+8651|Toutes les chambres semblaient prévues pour deux personnes.
+8652|J'en étais reconnaissant, puisque je n'allais pas être obligé de partager la même chambre que mon vieux salaud de père, sous prétexte qu'on était de la même famille.
+8658|Et de toute façon, j'imagine que ces deux-là ne pourraient pas prendre du bon temps avec quelqu'un comme moi dans les parages, ihihi.
+8668|"C'est quoi ce sourire inquiétant ? ‖  Tu penses à quelque chose de cochon, hein ?"
+8676|"Ihihihi !‖  Quelque chose de cochooon ?  Bien sûûûr que non !‖  Profitez bien de votre séjouuur !
+8688|  Aïe, aïe aïe aïe !‖  Ça fait mal, vieux salaud !"
+8698|Une fois de plus, mon père m'a tiré les oreilles par-derrière.
+8708|"Arrête tes conneries.‖  J'ai mal au ventre, et je suis pas d'humeur.‖  Cette fois, c'est toi l'invité d'honneur,‖ alors sois aussi aimable que possible avec Père, Aniki et les autres.‖  ......Au minimum, fais attention à ce que tu dis devant Père, compris ?‖  Parce que les vannes, ça passe pas trop avec lui.‖  ......Jessica-chan, comment est l'humeur du chef de famille ces temps-ci ?"
+8718|"...Hmm......
+8726|  Comme l'an dernier, j'imagine.‖  ......Pour quelqu'un à qui on donne trois mois à vivre, il est toujours aussi vif, 
+8727|grognon, 
+8728|et irritable."
+8738|"Autrement dit, il est de mauvaise humeur, comme d'habitude cette année.‖  ......Et comme d'habitude, le seul qui puisse s'occuper de lui, c'est Genji-san ?"
+8748|"Il semble que le Maître n'ouvre son cœur à personne d'autre.‖  Ces derniers temps, nous autres petites gens n'avons même plus droit à une audience..."
+8758|"Il s'est encore enfermé dans son bureau, sûrement à ne rien faire d'autre que sa magie noire bizarre.‖  Ses passe-temps, c'est ses affaires, mais quand il commence à empester la maison, ça me tape vraiment sur les nerfs.‖  ...Si seulement il pouvait plus jamais sortir de ce bureau.‖  Hé hé hé !"
+8770|"Tu ne devrais pas parler comme ça des personnes âgées.‖  On lui doit tous beaucoup, puisqu'il a relevé la famille Ushiromiya.‖  On devrait lui être plus reconnaissants."
+8780|"Hm, ...bon...‖  ......Désolée."
+8784|Après s'être fait reprendre par George-aniki, Jessica n'a pas eu d'autre choix que de retirer sa remarque irréfléchie.
+8790|La famille Ushiromiya était riche au-delà de l'imaginable, mais bien sûr, ça voulait dire que tous ses membres étaient un peu bizarres...et complètement déconnectés du reste du monde.
+8796|Et tout en haut de la chaîne, le chef de famille, notre Grand-père, semblait particulièrement bizarre et terrifiant, même pour notre famille.
+8799|Tout à l'heure, mon père a dit qu'il avait mal au ventre, ...et j'imagine que ça reflétait le sentiment sincère de tous les adultes présents aujourd'hui.
+8804|Ils nous enviaient sans doute, nous, les petits-enfants, qui pouvions jouer et rire sans le moindre souci.
+8811|D'après les histoires de mon père, le chef de famille était un homme violent qui régnait par les poings et frappait ses enfants, même ses filles, sans pitié avec un sabre de bois.
+8818|S'il était si strict et si rigide là-dessus, pourquoi il n'a pas pu être un peu plus conventionnel pour les prénoms de ses enfants ?
+8819|À cause de ça, même nous, les petits-enfants, on a dû en souffrir.
+8826|...Enfin bref, je n'ai aucun mal à croire ces histoires terrifiantes sur lui.
+8832|Je ne me souviens pas l'avoir vu très souvent,  mais je crois me rappeler qu'il avait toujours l'air extrêmement grognon et qu'il faisait toujours trembler les gens avec son regard perçant.
+8835|Je me souviens que l'atmosphère de la pièce devenait si tendue quand il était là qu'on n'arrivait même plus à respirer.
+8840|Ce que mon père a dit sur le fait que je suis l'invité d'honneur prend maintenant un peu plus de poids pour moi.
+8844|".........Il y a six ans, j'étais à l'école primaire, mais maintenant, je suis au lycée.‖  Si je fais des bêtises, ça pourrait mal tourner.‖  ...Ouuh, ça fait peur."
+8853|"Il a l'air effrayant, mais pas au point que tu doives te crisper comme ça.‖  Rien de ce qu'il dit n'est vraiment déraisonnable.‖  Il ne sait peut-être pas bien s'exprimer, mais c'est quelqu'un de très logique."
+8860|"Mais George nii-san, t'es le chouchou de la famille depuis toujours grâce à tes super notes, non ?‖  Grand-père nous traite complètement différemment !
+8867|  Je me suis même pris des coups de sabre de bois.‖  Sur les fesses, les fesses !‖  Sur mes fesses innocentes de jeune fille !"
+8875|"Eh bien, tu es l'héritière de la famille principale, Jessica-chan.‖  Grand-père te porte une attention particulière.‖  Il faut que tu comprennes que sa sévérité reflète les grands espoirs qu'il place en toi."
+8883|"Oh, arrête. ‖ ...Sérieux, je pourrais très bien te refiler la succession, George nii-san.‖  C'est un fardeau un peu lourd à porter pour moi."
+8888|Je crois l'avoir déjà dit, mais Jessica est l'héritière de la famille principale.
+8889|Nous, on n'est que des cousins des branches cadettes, alors elle ressent sans doute une pression totalement différente de la nôtre.
+8899|".........Uu- ?‖  Jessica onee-chan, c'est lourd ?‖  Si je t'aide à porter, ça deviendra plus léger ?"
+8907|"Hmm ?‖  Ahahahaha, merci.‖  T'inquiète, je vais pas te refiler ça, Maria.
+8915|  ......Je porterai cette croix jusqu'à la tombe.‖  ...T'en fais pas."
+8918|Elle était reconnaissante de l'inquiétude innocente de Maria, mais le visage de Jessica semblait encore trahir une partie de l'angoisse qu'elle ressentait face à l'avenir. 
+8924|...On était peut-être dans le même bateau.‖  N'importe quel lycéen à l'approche des examens aurait du mal à cacher son anxiété face à l'avenir.
+8934|"Maria, viens ici.‖  Toi et moi, on sera dans cette chambre."
+8946|"Battler-kun, il paraît que tu seras avec moi dans cette chambre-ci."
+8958|"Oh ?‖  Ça, c'est une surprise !‖  Elle est plus grande que celles de nos parents, la vache !"
+8968|"Eh bien, je me suis dit qu'entre cousins, on voudrait tous traîner ensemble,‖ alors je leur ai demandé de préparer une chambre plus grande."
+8976|"Uu- !‖  Moi aussi, je préfère ici !‖  Je préfère être ici qu'avec Maman !‖  Uu-uu- !"
+8986|"Oh, toi aussi tu préfères ici, Maria ?!‖  Bon, cette chambre est à George et moi, mais on te donne une permission spéciale pour entrer !‖  Mais garde ça secret vis-à-vis de ta mère, d'accord ?"
+8994|"Uu- !‖  C'est un secret !"
+8998|Tante Rosa était juste derrière nous, mais Maria a quand même répondu en frappant l'air de ses poings serrés.
+9012|Après avoir déposé leurs bagages dans leurs chambres, nos parents s'étaient de nouveau réunis dans le couloir.
+9021|"Hé, qu'est-ce que vous comptez faire, les mioches ?‖  Vous allez rester ici à papoter entre cousins ?"
+9024|On aurait dit qu'ils se rendaient au manoir pour annoncer leur arrivée.
+9029|...D'habitude, ils nous auraient fait les suivre pour saluer tout le monde ensemble, ‖mais si ça avait été le cas, mon père nous aurait juste dit de venir, point final.
+9035|Il dit que ça va si on ne vient pas, alors on fait quoi ?
+9047|"Bah, ça va bientôt être l'heure du déjeuner de toute façon.‖  Mieux vaut laisser les enfants se détendre ici.‖  En plus, au pire, ce sera peut-être leur dernière chance de jouer dehors."
+9055|"Uu- !‖  Moi aussi j'y vais !"
+9064|"Maria, tu gardes la maison pour Maman, d'accord ?‖  Sois sage et attends ici."
+9070|"......Uu-."
+9079|Comme on demandait à Maria de garder la maison ici, on ne pouvait évidemment pas la laisser toute seule.
+9080|George-aniki l'a tout de suite remarqué et a répondu clairement au nom de tous les cousins.
+9088|"Bon, alors on accepte votre proposition et on garde la maison.‖  On a plein d'histoires à se raconter, après un an sans se voir."
+9098|"Ça me semble parfait.‖  Et Battler-kun a six ans d'histoires à raconter, n'est-ce pas ?"
+9108|"Ouais, ouais.‖  Je vais garder la maison comme un gentil garçon."
+9120|"Kumasawa-san, moi aussi je reste ici !‖  On rompt les rangs et on laisse le reste aux adultes, hé hé hé !"
+9129|"C'est peut-être mieux ainsi, ho ho ho.‖  Je le signalerai à Madame..."
+9141|"Dans ce cas, permettez-moi de vous conduire au manoir.‖  Par ici, je vous prie."
+9153|"...Pour les autres enfants, passe encore, mais George devient un adulte.‖  Ce ne serait pas mieux qu'il vienne avec nous ?"
+9161|"Si on le force à venir, le pauvre George sera le seul à pas être à sa place.‖  Passer du temps avec ses cousins, c'est important aussi.‖  Allez, à plus tard, tout le monde !"
+9168|Les adultes sont partis les uns après les autres.
+9174|Ils sont partis dans la même formation que depuis le port, avec Gohda-san en tête et Kumasawa-san qui fermait la marche.
+9184|Alors qu'on se réunissait dans la chambre attribuée aux cousins, George-aniki nous a demandé de l'excuser une seconde.‖  Il s'est précipité vers Kumasawa-san, qui suivait les adultes en train de s'éloigner, et a eu l'air de lui demander quelque chose.
+9188|Il a vite réglé son affaire et il est revenu.
+9196|"Qu'est-ce qu'il y a, Aniki ?"
+9204|"Ah, rien.‖  Je voulais juste lui demander quelque chose."
+9214|"Uu- !‖  Dis-moi aussi !‖  Dis-moi aussi !"
+9226|"...Hmm ?‖  Hé hé hé hé.‖  Qu'est-ce que George nii-san peut bien demander à Kumasawa-san et pas à moi, je me demande ?‖  Ah, j'en ai pas la moindre idée !"
+9236|"Non, c'est un malentendu... !‖  ...Non pas que je sache ce que tu as mal compris... !"
+9239|Aniki commençait à bafouiller sérieusement.
+9247|C'était presque comme s'il se sentait coupable de quelque chose, et Jessica savait exactement ce qui le tracassait.
+9248|En tout cas, c'est pas drôle si Jessica est au courant et pas moi !
+9258|"Hé, Maria, on dirait qu'on est les deux seuls à être pas dans le coup, hein ?‖  T'as pas envie de savoir de quoi ils parlent ?!"
+9265|"Uu- !‖  On veut savoir aussi !‖  On veut savoir aussi !"
+9270|""Uu-uu-uu-uu- !!!""
+9276|J'ai fait l'idiot en faisant `uu' en chœur avec Maria.
+9288|"Non, je te dis...‖  Ce n'est rien de spécial, ahahaha..."
+9302|"Menteur !‖  Ça m'étonne que tu sortes un aussi gros mensonge, Aniki.‖  Avoue !‖  Maria, tu le chatouilles à droite, moi à gauche !"
+9303|"Uu- !‖  Moi, son côté droit, Battler, son côté gauche !‖  Uu- !"
+9315|"Attendez une seconde !!
+9325|  Attendez, vous deux... !!‖  Ahahaha, 
+9336|arrêtez, 
+9348|ahahahahahaha !!"
+9368|Maria et moi, on s'est amusés à poursuivre George-aniki qui essayait de s'échapper, en se roulant sur le lit.
+9371|Je sais bien que des lycéens ne sont pas censés gambader comme des chatons, mais ce genre d'amusement m'avait quand même manqué.
+9376|Un amusement chaleureux et douillet.
+9388|"Haahahahaha, George nii-san, qu'est-ce que tu demandais à Kumasawa-san ?‖  Hmm ?‖  Bon, j'ai ma petite idée.‖  Ça fait un an qu'il est pas venu chez la famille principale.‖  Qui sait quels domestiques ont pu aller et venir pendant tout ce temps ?‖  En tout cas, on dirait bien qu'il aimerait aller dire bonjour."
+9395|"......Uu- ?‖  Dire bonjour, moi aussi je veux dire bonjour !"
+9403|"Ben quoi, y a pas de quoi culpabiliser, Aniki.‖  ......Hmmmm ?‖  J'y crois pas.‖  Maria, te laisse pas avoir, Aniki cache encore quelque chose !‖  Encore de la torture !!‖  Uworyaaa !!"
+9427|"A-Arrêtez, sérieusement !‖  Aahahahahaha !‖  Maria-chan, toi aussi, arrête maintenant !!"
+9435|"Aahahahahaha, aahahahahaha !
+9445|  Hahahaha !!"
+9472|"Elle est sûrement occupée à faire le ménage ou à préparer le déjeuner.‖  T'inquiète, elle passera dire bonjour tôt ou tard.‖  Hé, je parie que t'aurais préféré être accueilli par Shannon plutôt que par ce fouineur de Gohda.‖  Hé hé hé !"
+9481|"Shannon ?‖  ......Shannon.‖  ...Aaaaahh...‖  Ouais, je me souviens d'une fille qui s'appelait comme ça !‖  Elle est toujours domestique ?‖  Comment elle va ?!"
+9517|"Au fait, Natsuhi nee-san,‖ comment vont tes migraines ces temps-ci ?‖  Elles avaient l'air plutôt sérieuses avant."
+9525|"...Je vais beaucoup mieux ces derniers temps.‖  Merci de ta sollicitude."
+9537|"Ah, c'est vrai.‖  Tiens.‖  Un cadeau pour toi, Natsuhi nee-san."
+9545|"......Merci beaucoup.‖  Je reçois toujours des cadeaux de ta part.‖  ...Est-ce du thé noir ?"
+9553|"C'est une tisane à la menthe poivrée et à la mélisse.‖  C'est un mélange d'une boutique réputée, censé être bon contre les migraines.‖  Je me suis dit que ça pourrait t'aider aussi."
+9556|Rosa avait toujours été une femme attentionnée.
+9561|...Sans doute parce qu'elle était la cadette de quatre enfants, bien plus jeune que les trois autres, ‖elle avait réussi à grandir sans acquérir la nature venimeuse de ses aînés.
+9566|Ses mots aimables adoucirent l'expression de Natsuhi l'espace d'un instant,‖ mais ils ne suffirent pas à faire fondre son regard de pierre, durci par de longues années de tension nerveuse.
+9577|"Maintenant que j'y pense, tu te plains toujours de ces migraines.‖  Ressaisis-toi.‖  Jessica-chan passe ses examens cette année, non ?‖  Ce sera un tournant dans sa vie.‖  Est-ce qu'elle pourra vraiment compter sur toi comme mère si tu es dans cet état ?‖  D'ailleurs, Natsuhi nee-san, tu as trois ans de moins que moi.‖  Tu devrais te reprendre en main."
+9586|"............‖.........Je te prie de m'excuser.‖  J'ai toujours été sujette aux migraines."
+9589|Même en temps normal, il arrivait à Eva de ne pas mâcher ses mots,‖ mais ses remarques adressées à Natsuhi contenaient des éclats de malveillance évidente, même si elle les dissimulait derrière un sourire.
+9594|Bien entendu, cela n'échappa pas à Natsuhi.
+9599|Elle réprima désespérément son envie de grimacer et fit mine d'ignorer Eva.
+9613|"Notre Battler-kun aussi passe ses examens cette année.‖  Rudolf-san, tu ne devrais pas t'en inquiéter un peu, toi aussi ?‖  Pour le bien de ton propre fils, tu ferais mieux de t'y mettre sérieusement, au point d'en avoir des migraines comme Natsuhi nee-san."
+9621|"Dès que je dis quoi que ce soit, il se rebelle automatiquement.‖  Alors je devrais dire quoi ?  Dire le contraire, qu'il peut faire l'imbécile ?‖  C'est sans doute le seul moyen pour qu'il m'écoute.
+9630|  Hideyoshi nii-san, George a vraiment bien réussi ses examens, non ?‖  Allez, faut que tu m'apprennes le truc pour s'occuper des gosses."
+9640|"Hmm, eh bien...‖  C'est sûrement parce que je lui ai fait comprendre pourquoi il devait étudier !‖  Les études, ça vaut rien en soi.
+9648|  C'est ça, le vrai but des études, c'est d'apprendre à chercher par soi-même chaque fois qu'on tombe sur un truc qu'on connaît pas !‖  Si t'en es pas capable, tu peux pas être utile à la société !‖  J'parle pas de maths ou d'écriture.‖  Faut apprendre à apprendre !"
+9657|"...C'est remarquable.‖  J'aimerais que notre Jessica le comprenne aussi.‖  Si elle doit devenir l'héritière de la famille Ushiromiya, alors à ce rythme-"
+9667|"Faut-il vraiment la forcer à devenir l'héritière ?‖  Après tout, une femme doit trouver un bonheur de femme.‖  Les parents ne devraient pas imposer ce genre de choses à leurs enfants, tu ne crois pas ?"
+9675|"Doucement, Eva.‖  Chaque famille a sa façon d'élever ses enfants.‖  Faut pas t'imposer comme ça."
+9683|"Pardon.‖  Natsuhi nee-san, ne le prends pas mal."
+9691|"..........................."
+9698|Bien que la lumière qui entrait par la fenêtre fût assez chaude malgré le temps nuageux, une humeur sombre régnait dans la pièce,‖ ...et elle donnait sans doute la migraine à d'autres que Natsuhi.
+9702|Comme pour chasser cette humeur, Kyrie fit gaiement une suggestion à l'assemblée.
+9711|"En tout cas, ce thé noir a un arôme vraiment délicieux.‖  Buvons-le tout de suite.‖  Au Japon, on ne doit pas trouver de thé noir de chez Leopold ailleurs qu'à Ginza, non ?"
+9719|"Je vois que tu t'y connais, Kyrie nee-san.‖  Ça valait la peine de me donner du mal pour l'acheter."
+9725|Kyrie et Rosa se levèrent de leurs sièges et firent mine de préparer le thé noir, ‖mais Natsuhi les devança.
+9734|"......Je vous remercie toutes les deux,‖ mais nous le goûterons plus tard.‖  Une de nos gens va bientôt apporter du thé, alors détendez-vous, je vous prie."
+9742|"Gardez ça pour plus tard, vous deux.‖  Profitons de notre `boisson de bienvenue'."
+9749|D'un discret signe des yeux, Rudolf leur fit signe de se rasseoir.
+9750|...Kyrie et Rosa comprirent aussitôt et regagnèrent docilement leurs sièges.
+9759|Les salutations d'usage avec les invités étaient terminées ; il était donc temps de leur servir le thé.
+9764|...Il était gênant pour la maîtresse de maison que le thé soit en retard, surtout maintenant que les invités parlaient de le préparer eux-mêmes.
+9767|Natsuhi se mordit la lèvre inférieure, agacée par l'incompétence des domestiques qui tardaient à apporter le thé.
+9772|...En voyant sa tête, Eva se mit aussitôt à glousser.
+9782|......Bien sûr, Shannon n'avait aucun moyen de savoir ce qui se passait dans le salon.
+9788|Elle arriva en poussant une desserte chargée de tasses.‖  Sans raison apparente, Natsuhi lui lança un regard peiné, et Shannon ne put s'empêcher de tressaillir sans savoir ce qu'elle avait fait de mal.
+9798|"......E-Excusez-moi.‖  Votre thé est prêt."
+9805|"Oh, Shannon-chan, ça faisait longtemps !‖  Tu es de plus en plus jolie chaque fois que je te vois !"
+9817|".........Oh, 
+9818|...euh, 
+9819|.........merci..."
+9826|"Garde la causette pour quand tu auras mis la table.‖  Le thé va refroidir."
+9834|"......J-Je vous prie de m'excuser, Madame."
+9837|Elle s'excusa comme un petit animal effrayé, heurta la desserte et fit tomber plusieurs cuillères à thé dans un fracas discordant.
+9843|Sa maladresse assombrit encore davantage l'expression de Natsuhi, ce qui fit trembler Shannon de plus belle.
+9855|"Allons, Natsuhi nee-san.‖  Il n'y a pas de mal à échanger quelques mots pour se saluer.‖  Le thé doit déjà être bien froid, vu combien de temps on nous a fait attendre.‖  Hé hé hé."
+9863|"N-Ne vous inquiétez pas...‖  Il n'est pas encore froid..."
+9873|".........Shannon, finis de mettre la table, vite."
+9880|"J-Je suis désolée, Madame......"
+9885|L'irritation de Natsuhi était désormais flagrante.
+9888|...L'incompétence qui avait retardé le thé, la maladresse de la domestique...‖  Tout cela révélait l'incapacité de Natsuhi à diriger au quotidien, et lui faisait perdre la face.
+9893|En tant que responsable de la cuisine de la famille principale Ushiromiya, laisser cette maladresse s'étaler au grand jour, aujourd'hui entre tous les jours, n'était sûrement rien de moins qu'une humiliation totale.
+9903|"Laisse tomber, Natsuhi nee-san.‖  Tu ne trouves pas que c'est un peu dur de t'acharner sur Shannon-chan alors qu'elle fait de son mieux ?"
+9913|"Je ne m'acharne sur personne... !"
+9924|"Quel bel arôme.‖  Puis-je savoir de quelle marque il s'agit ?"
+9932|"............Euh, 
+9936|...J-
+9940|Je suis vraiment désolée...‖  Je me renseignerai pour vous plus tard..."
+9943|Kyrie essayait de se montrer aimable, dans l'espoir de dissiper l'atmosphère tendue.
+9948|...Mais Shannon s'était au contraire couverte de honte, assombrissant le visage de Natsuhi et l'ambiance de la pièce.
+9953|À ce stade, Eva gloussait ouvertement.
+9962|"Qu'est-ce que c'eeest ?‖  Shannon-chan, tu ne sais même pas ce que tu nous sers ?‖  Voyons, il ne faut pas servir quelque chose d'aussi suspect à des invités.‖  Il nous faudra au moins une cuillère en argent avant de pouvoir boire ça."
+9970|"...J-
+9974|Je suis désolée...‖  Je vais en chercher une immédiatement..."
+9982|"Shannon-chan,‖ tu sais à quoi servent les cuillères en argent ?‖  Il faut qu'elles soient en argent.‖  Tu sais pourquoi ?"
+9990|"......Non, 
+9994|...euh..."
+9998|Un sourire taquin apparut sur le visage d'Eva tandis qu'elle fixait Shannon qui mettait la table.
+10001|En soi, l'expression d'Eva avait quelque chose de charmant et d'espiègle.
+10006|Cependant, les mots qui filaient de ses lèvres avaient le tranchant d'un rasoir.
+10009|Shannon s'efforçait de toutes ses forces d'éviter le regard insistant d'Eva.
+10014|Comprenant que Shannon était bien en peine de répondre, Rosa vint opportunément à son secours.
+10024|"On dit que l'argent noircit au contact du poison.‖  ...*gloussement*  Tu as appris quelque chose aujourd'hui, Shannon-chan."
+10029|Ils se comportaient comme si ce thé devait être testé pour détecter du poison avant de pouvoir être bu.
+10034|Aux yeux de Natsuhi, c'était une insulte faite au thé...et à elle-même qui le servait.
+10039|Rudolf rit avec désinvolture et tapota l'épaule d'Eva.
+10051|"Haha, des couverts en argent te serviraient à rien, Aneki.‖  Un seul coup de ta langue de vipère, et même un plat en argent deviendrait noir comme du charbon."
+10058|"Wah ha ha ha ha !‖  Avec cette langue de vipère que j'entends tous les jours, je dois être immunisé contre le poison, maintenant !‖  Eva, ça me dérange pas quand tu t'en sers sur moi, mais tu ferais mieux de te retenir avec les gens qui sont pas encore immunisés !‖  Wah ha ha ha ha !"
+10064|"Mon Dieu, que vous êtes cruels.‖  Je n'ai fait qu'apprendre deux ou trois choses sur le thé à Shannon-chan, non ?‖  *gloussement*"
+10067|Tout le monde suivit le gros rire de Hideyoshi et ricana, non sans peine.
+10073|Seule Natsuhi ne se joignit pas à eux, mais pour le moment, la conversation dans le salon pouvait passer pour une discussion animée et amicale.
+10084|Alors que Shannon finissait enfin de mettre la table et s'apprêtait à partir, Kyrie s'excusa auprès d'elle à voix basse de n'avoir pas pu l'aider.
+10092|...Shannon s'inclina légèrement et battit précipitamment en retraite......
+10105|Shannon gardait les yeux baissés en poussant la desserte dans le couloir...
+10110|Quiconque aurait vu son air pitoyable aurait facilement pu conclure qu'on l'avait malmenée d'une façon ou d'une autre.
+10120|"...Ne sois pas triste.‖  Tu n'as rien fait de mal, Nee-san."
+10130|"......Tu regardais."
+10138|"C'est mon rôle."
+10146|".................."
+10153|"Que Madame et Eva-sama aillent au diable.‖  ......Mais le pire lâche, c'est ce type."
+10159|Kanon jeta un regard haineux dans la direction opposée au salon.
+10168|La préparation du thé avait été retardée par quelques problèmes insignifiants en cuisine.
+10173|Ces problèmes n'étaient pas la faute de Shannon.
+10176|En réalité, l'erreur venait de Gohda.
+10179|Après tout, jamais un m'as-tu-vu comme Gohda n'aurait renoncé à une tâche aussi voyante que servir le thé à l'arrivée des invités.
+10182|Il avait fini par perdre du temps à préparer le thé une seconde fois.
+10187|Alors, quand il comprit qu'il ne pourrait pas marquer de points avec cette tâche, ‖il refila le soin de mettre la table à Shannon, qui passait par là.
+10192|...On pouvait y voir une manœuvre habile de sa part, mais il ne faisait aucun doute qu'elle était lâche.
+10208|"......Ça va, Kanon-kun.‖  Merci.‖  Ça ne me dérange pas du tout..."
+10216|"................................."
+10217|Le silence de Kanon exprimait de façon éloquente l'écart entre les paroles de Shannon et ce qu'elle ressentait vraiment.
+10225|"......Merci.‖  Même si tu es le seul à comprendre, ça me fait un peu de bien."
+10232|"......Tu gardes trop tout pour toi, Nee-san.‖  ......Tu devrais être moins dure avec toi-même, pour une fois."
+10242|"Oui.‖  ......Merci."
+10243|Soudain, ils sentirent tous deux une présence et se retournèrent d'un bond.
+10255|Un homme d'âge mûr se tenait là.
+10256|C'était Genji, le majordome en chef.
+10266|".........Que faites-vous là ?‖  ...Shannon, retourne vite à la cuisine."
+10276|"O-Oui.‖  ......Si vous voulez bien m'excuser......"
+10286|"................................."
+10292|Shannon obéit humblement et s'apprêta aussitôt à repartir en poussant la desserte.
+10293|Kanon, lui, implora Genji en silence, le regard chargé de quelque chose qu'il ne pouvait exprimer par des mots.
+10303|"......Qu'y a-t-il ?‖  Il s'est passé quelque chose... ?"
+10317|"...Sh-
+10318|Shannon n'a rien fait de mal.
+10319|  Et pourtant, ils..."
+10327|"Arrête, Kanon-kun...
+10337|  ...Veuillez m'excuser.‖  Je retourne immédiatement au travail.‖  Kanon-kun, toi aussi, tu devrais retourner à ton poste.‖  ......S'il te plaît."
+10347|"......Si tu le dis, Nee-san."
+10357|"............‖...Si c'est tout, alors va."
+10367|"...Oui.‖  ...Si vous voulez bien m'excuser."
+10377|Depuis l'ombre du couloir, une vieille femme en tablier les observait.‖  C'était Kumasawa...
+10390|......Pauvre Shannon-san, pauvre Kanon-san...
+10391|Il n'y a aucune raison de s'en prendre à ces deux-là. 
+10396|...Pourtant, l'antipathie de Gohda-san à leur égard est un fait indéniable...
+10399|Avant d'être engagé par la famille principale Ushiromiya, Gohda-san travaillait, paraît-il, dans un hôtel de luxe quelque part.
+10404|La manière de travailler qu'il y a apprise est tout à fait impressionnante, je crois.
+10409|Seulement...Gohda-san est le plus récent des domestiques ici.
+10410|...Il doit avoir accumulé beaucoup de fierté dans ses postes précédents.
+10416|Comme Shannon-san et Kanon-kun sont ses aînés ici, au manoir, tout en étant inexpérimentés et bien moins rodés à la vie que lui,‖ il s'en prend à eux à la moindre occasion...
+10419|Et puis, ...aussi triste que ce soit, Madame Natsuhi ne les aime pas non plus...
+10426|Bien sûr, s'il est question d'expérience, Madame fait partie de cette famille depuis bien plus longtemps.
+10427|Et pourtant...sur ce point, je ne peux m'empêcher de compatir aussi avec Madame.
+10430|...Vraiment, le Maître est un homme qui a bien des péchés sur la conscience...
+10435|Comment n'a-t-il pas compris qu'un caprice aussi futile de sa part donnerait à Madame un tel complexe d'infériorité... ?
+10440|...Bien sûr, au fond d'elle, même Madame sait parfaitement que ces deux-là ne méritent pas d'être traités aussi durement...
+10445|...Mais le cœur a ses raisons que la raison ne connaît point...
+10450|Aah, ils me font tellement de peine...
+10456|Je ne peux rien faire d'autre que veiller sur eux depuis l'ombre......
+10499|Nous, les quatre cousins, on s'amusait à se raconter des histoires, à bavarder de tout et de rien.
+10502|En tout cas, il y avait des filles et des garçons.‖  En plus, on couvrait une large tranche d'âges : adulte, lycée et école primaire.
+10507|Même quand on parlait juste de nos vies, les trois autres écoutaient attentivement.
+10519|"Je crois que je commence enfin à m'y faire.‖  Jessica et Maria ont grandi plus que je l'aurais imaginé en six ans.‖  Pour être honnête, je me sentais un peu mal à l'aise, mais à discuter comme ça, j'imagine qu'au fond, rien n'a vraiment changé depuis le temps."
+10527|"Je suis d'accord.‖  T'as pas changé d'un poil, même après six ans.‖  Ton corps est devenu gigantesque, mais t'es toujours un gamin à l'intérieur."
+10534|"Uu- !‖  Moi aussi, je suis une gamine !‖  Moi aussi, je suis une gamine !"
+10541|"Bah, même toi, tu vas pas rester une gamine pour toujours, hein, Maria ?‖  Je veux dire, tu vas passer de gamine à jolie jeune fille, pas vrai ?‖  Et à ce moment-là, cette poitrine plate comme une planche va atteindre le niveau de Jessica, hein ?‖  Ce jour-là, faudra que tu me laisses les toucher, d'accord ?‖  C'est promis !!"
+10547|"Uu- !‖  Te laisser les toucher !‖  Promis !‖  Uu- !"
+10559|"N-Non, Maria-chan !‖  Tu ne peux pas faire ce genre de promesse, c'est mal, mal, mal !"
+10566|"Uu- ?‖  J'ai promis, alors je vais le laisser les toucher !‖  Je tiens mes promesses !‖  Toujours les tenir, uu- !!"
+10575|"...Mariaa, t'es vraiment une gentille fille sérieuse...‖  Le gars qui t'épousera aura beaucoup de chance."
+10586|"Hé, arrête d'essayer de changer de sujet en faisant joli !‖  Maria, cette promesse n'a jamais existé !‖  Jamais !"
+10594|"Uu-.‖  La promesse est annulée ?‖  Uu-......"
+10605|"Comme je le pensais, sans Battler-kun dans notre petit quatuor, ce groupe de cousins ne semblait pas complet.‖  Ces six années ont été un peu tristes."
+10613|"...C'est vrai.‖  On faisait pas vraiment les idiots comme ça.‖  Mais on avait quand même des conversations plutôt constructives, non ?‖  Des trucs sur la préparation de notre avenir, les examens, la recherche d'emploi."
+10622|"Oh, je suis vraiment, vraiment désolé !‖  Maintenant que je suis là, on parle que de bêtises et on fait les idiots !"
+10631|"Mais je m'amuse plus cette année.‖  Uu-uu- !"
+10639|"C'est vrai.‖  Je suis d'accord, cette année est la plus amusante de toutes."
+10646|Les mots sincères de Maria exprimaient sans doute ce que ressentaient tous les présents.
+10651|George-aniki a caressé la tête de Maria, qui a gloussé comme un chaton heureux...
+10668|"......Excusez-moi.‖  Votre repas est prêt."
+10671|Un toc-toc timide et la voix tout aussi timide d'une jeune femme nous sont parvenus à travers la porte.
+10676|Jessica a répondu d'un ton enjoué.
+10686|"Shannon, entre !‖  Tu te souviens de Battler, hein ?!"
+10687|Jessica s'est levée du lit et a ouvert la porte.
+10703|Là se tenait une jeune domestique qui devait avoir à peu près notre âge.
+10710|"Ç-Ça faisait bien longtemps, Battler-sama.‖  Je suis heureuse de vous revoir après six ans.‖  C'est moi, Shannon."
+10715|Tremblant un peu en me remarquant, elle s'est inclinée profondément.
+10725|"...Ah... !‖  Jessica m'a déjà surpris, mais regarde-toi, Shannon-chan !‖  Toi aussi, t'es devenue une vraie beauté, hein ?!"
+10733|"V-Vous êtes trop gentil..."
+10740|"N'empêche, la nourriture sur cette île doit être super nourrissante, hein ?‖  Qu'est-ce que tu manges et comment tu t'entraînes pour avoir des seins aussi gros ?!!
+10745|  Va falloir que je les tâte un peu pour voir si c'est les tiens ou ceux de Jessica les plus gros, d'accooord ?!"
+10752|Les deux mains en position et la bave aux lèvres, je me suis approché !
+10759|......Pour l'amour de la justice et de mon honneur personnel, ‖je tiens à préciser que je ne souffre pas d'une étrange maladie qui me démangerait les ganglions lymphatiques jusqu'à m'en arracher le cou et qu'on ne pourrait prévenir qu'en tripotant des poitrines.
+10760|C'est juste une méthode de communication à la Battler.
+10765|Si je m'approche lentement d'elle comme ça, il y a huit ou neuf chances sur dix que je me prenne une gifle ou une raclée, pas vrai ?
+10769|Du coup, je peux me servir de cette technique originale de Battler-sama pour lancer un gag comme ça et briser la glace !
+10773|.........B-Bon, ça veut aussi dire qu'avec cette chance sur dix, je vais vraiment pouvoir les toucher, pas vrai ?
+10778|Ihihyahyahya, comme si ça risquait d'arriver !!
+10793|À ce moment-là, mes mains étaient à moins d'un centimètre des seins de Shannon-chan, ......mais la riposte n'était toujours pas venue.
+10801|Elle a rougi et baissé la tête, gênée, quand elle a compris ce qui se passait,‖ mais elle est restée là, les deux mains poliment jointes devant elle, sans même essayer de résister ou de couvrir sa poitrine.
+10807|...Hé, c'était pas prévu, ça !!
+10820|S-S-S'il te plaît, frappe-moi tout de suite, ou je vais vraiment... !
+10846|...C'est pourquoi j'ai été bien content que Jessica choisisse ce moment pour m'enfoncer son coude à l'arrière du crâne.
+10855|"Gouaaaah, aïïïïïe !‖  Merci beaucoup, Jessicaaaaaaa !!"
+10863|"P-P-Pourquoi tu me remercies, bon sang ?!‖  ???"
+10873|"Sérieux, désolé, Shannon-chan.‖  J'ai failli me laisser submerger par ta poitrine hypnotique...‖  Mais surtout, quelqu'un qui s'approche autant, c'est forcément un pervers.‖  Faut te défendre quand les gens font ça !"
+10883|"...M-Mais vous êtes...
+10884|...un invité important, Battler-sama......"
+10891|"Écoute-moi bien, un pervers reste un pervers, invité ou pas !‖  La poitrine d'une fille a une zone d'identification de défense aérienne d'environ 10 cm.‖  Dès que quelqu'un s'approche à moins de deux centimètres, c'est déjà une violation de l'espace aérien, alors fais décoller les chasseurs immédiatement et colle-lui une gifle illico !"
+10899|"...J-Je ne pourrais pas faire une chose pareille... !‖  Parce que nous sommes......euh, des meubles..."
+10902|Bien sûr, elle ne voulait pas qu'on lui touche la poitrine, ...mais si un invité le désirait, elle était prête à se sacrifier pour satisfaire ses envies.
+10907|...Une fille comme ça a besoin d'être protégée de toute urgence...
+10915|"...D-Dire qu'il existe encore des filles aussi dévouées à notre époque...‖  Y a de quoi donner le vertige à un homme.‖  ......Mais non !‖  NooOoon !!‖  Je reviens à la charge avec une tête de pervers !‖  Mets-moi au tapis !!‖  Attention, un pervers en liberté !‖  Ce gag peut pas finir tant que t'as pas placé la chute, alors gifle-moi !‖  Je t'en prie !‖  Frappe-moiii !!"
+10925|"Je............Je ne peux pas accéder à votre demande, ‖parce que je suis un meuble.‖  ......Mais, 
+10926|............si c'était un ordre, je vous obéirais.‖  ...Parce que c'est mon devoir."
+10940|"Ahaha, alors je vais en faire un ordre.‖  La prochaine fois que Battler-kun essaie de toucher ta poitrine, riposte avec une gifle.‖  Compris ?"
+10947|"......O-Oui.‖  À vos ordres.‖  Désormais, c'est ce que je ferai.‖  Veuillez me comprendre, Battler-sama..."
+10950|Shannon-chan m'a annoncé ça en s'inclinant avec élégance.
+10958|Son expression était radieuse.
+10959|Je lui ai fait un pouce levé pour lui montrer que ça me convenait.
+10969|"Il y a six ans, on aurait pu te prendre pour la fille d'une domestique qui donnait un coup de main à ses parents,‖ ......mais maintenant, t'es une vraie domestique adulte.‖  Ça fait combien de temps que tu travailles ici ?"
+10977|"Eh bien,‖ j'ai le plaisir de servir cette maison depuis une dizaine d'années."
+10996|Elle, c'est 紗音.‖  ......Les kanji de son prénom se lisent "Shannon".
+10997|Encore un prénom loin d'être typique pour une Japonaise.
+11005|À l'époque, j'étais moi-même un gamin, alors j'avais accepté son prénom sans y prêter attention.‖  Mais quand j'y pense maintenant, son prénom est plutôt inhabituel, alors qu'elle ne fait pas partie de la famille Ushiromiya.
+11008|...C'est peut-être une sorte de `nom de service' de domestique.
+11013|...Si c'est le cas, ça expliquerait pourquoi son prénom ressemble tant à celui de Kanon-kun, le gamin que j'ai croisé tout à l'heure dans la roseraie.
+11021|C'est une domestique de longue date, qui sert ici depuis l'âge de six ans.
+11022|Son apparence avait tellement changé que je n'arrivais pas à la faire coller à la personne de mes souvenirs, mais on se connaissait tous les deux il y a six ans.
+11027|Ce côté timide avait toujours été là, mais elle semblait avoir développé le charme qu'on peut attendre d'une fille de son âge.
+11032|Surtout côté poitrine.  Oui.
+11043|"Ce garçon qu'on a croisé tout à l'heure, Kanon-kun, c'est son petit frère."
+11052|"...Ce n'est pas vraiment mon petit frère...‖  Mais il m'aime comme une grande sœur.‖  ...Il ne vous a pas causé d'ennuis, j'espère ?"
+11062|"Haha !‖  Il est égal à lui-même.‖  Si seulement il était un tout petit peu plus sociable."
+11074|"...Je...vous présente mes excuses s'il vous a causé des ennuis......"
+11086|"Nan, il nous a pas causé le moindre ennui !‖  Entre hommes, je comprends à quel point on peut être lunatique à cet âge-là.‖  Pas étonnant qu'il soit pas sociable !"
+11094|"Uu- !‖  On me dit ça tout le temps, à moi aussi !‖  On me dit que je suis pas sociable !‖  Comme Kanon !‖  Uu- !"
+11102|"*gloussement*  ......Vous n'êtes pas du tout insociable, Maria-sama."
+11110|"Uu- ?‖  Voulais être comme lui...‖  Uu-."
+11122|"Euh, vous avez dit que le repas était prêt, c'est bien ça ?"
+11129|"Ah, ......oui !‖  Je suis désolée !‖  ...Votre repas est prêt, alors permettez-moi de vous conduire tous au manoir."
+11135|Shannon s'est de nouveau inclinée cérémonieusement et elle est repassée en `mode service'.
+11139|On a compris que si on la faisait rester pour bavarder encore,‖ ça l'empêcherait en fait de faire son travail.‖  On s'est bougé les fesses pour ne plus gêner son travail.
+11151|"Bon, on va au manoir ?‖  Tout le monde a sûrement faim, non ?"
+11161|"Ouais.‖  J'ai super hâte de goûter la cuisine de Gohda-san.‖  Apparemment, ce type était chef dans un hôtel célèbre, alors il cuisine super bien !"
+11171|"Ooooh !‖  J'ai trop hâte !!‖  Allez, Maria !‖  On va s'empiffrer comme des cochons !!"
+11179|"Uu- !‖  S'empiffrer comme des cochons !"
+11191|"Non, non !‖  Il ne faut pas prendre au sérieux tout ce que dit Battler-kun, d'accord ?‖  Parce qu'il passe son temps à plaisanter.‖  Bon, allons-y."
+11203|Guidés par Shannon-chan, on s'est dirigés vers le manoir.
+11227|Accueillis une fois de plus par la magnifique roseraie, on a continué notre chemin...jusqu'à ce que l'imposant manoir de la famille principale Ushiromiya apparaisse.
+11230|Il avait apparemment été construit peu après la guerre, alors on sentait planer autour de lui la dignité de près d'un demi-siècle.
+11237|De l'extérieur, le bâtiment était splendide, mais vu son âge, ses équipements comme la climatisation et le chauffage étaient apparemment assez fragiles.
+11239|D'après Jessica, le cœur de l'hiver était particulièrement pénible, avec tous ces courants d'air.
+11244|...Ces gens n'ont jamais entendu parler du kotatsu ?
+11272|En entrant dans le hall, on a été accueillis par un vieux domestique.
+11273|Lui, je m'en souvenais.
+11289|Genji-san (源次), qui travaillait ici depuis plus longtemps que quiconque, occupait le rôle de majordome en chef.
+11298|".........Battler-sama, cela faisait bien longtemps que nous ne nous étions vus."
+11299|Quand nos regards se sont croisés, il m'a salué d'une voix calme et posée.
+11304|Sa révérence n'était pas aussi gracieuse ni aussi raffinée que celle de Gohda, ‖mais malgré sa simplicité, elle exprimait très bien ses sentiments.
+11308|"Genji-san, ça fait vraiment longtemps !‖  Vous avez l'air en forme."
+11318|"Merci.  Je me porte fort bien...‖ ...Et vous, Battler-sama, vous êtes devenu un beau jeune homme.‖  .........Vous commencez à ressembler au Maître dans sa jeunesse."
+11319|"Je ressemble à Grand-père ?‖  Ça veut dire que Grand-père avait beaucoup de succès auprès des femmes quand il était jeune, ihihi !"
+11328|".........À partir d'ici, je vais prendre la place de Shannon et vous accompagner.‖  Par ici, je vous prie."
+11329|Shannon-chan s'est inclinée profondément et nous a regardés partir.
+11335|Ensuite, on s'est dirigés vers la salle à manger sous la conduite de Genji-san.
+11338|Genji-san, tout comme Kumasawa-san, contrastait fortement avec nous, les jeunes, qui avions grandi au point d'être méconnaissables en six ans.
+11345|Son apparence était exactement la même que dans mes souvenirs d'il y a six ans.
+11346|C'était comme si le temps s'était arrêté depuis notre dernière rencontre.
+11349|Genji-san était quelqu'un d'extrêmement discret et consciencieux.
+11354|C'était en gros le bras droit de Grand-père, ou son garde-malade, ‖...et on pourrait même dire son compagnon de longue date.
+11359|En fait, il semble qu'il ait été aux côtés de Grand-père encore plus souvent que ma défunte grand-mère.
+11364|D'après Jessica, Grand-père lui faisait plus confiance qu'à aucun membre de sa famille par le sang.
+11369|Mais je me demande depuis combien de temps il sert ici.
+11374|Je n'ai jamais eu les détails, mais j'ai entendu dire qu'il était là depuis le tout début, depuis la construction de ce manoir.
+11379|...Ce qui voudrait dire qu'il a consacré la moitié de sa vie à servir ici.‖  ...On comprend facilement pourquoi on lui fait autant confiance.
+11388|Alors qu'on traversait un immense hall qui montait jusqu'au premier étage du manoir sans plancher intermédiaire...
+11393|...j'ai repéré quelque chose qui n'existait pas dans mes souvenirs d'il y a six ans.
+11445|C'était un portrait drôlement grand, accroché juste devant l'escalier qui menait au premier étage.
+11448|Sans réfléchir, je me suis arrêté, captivé...
+11454|Comme je m'étais arrêté si brusquement, Maria, qui me suivait, m'est rentrée dans le dos.
+11462|"Uu- ?"
+11469|"......Aah, pardon.‖  ...Hé, Jessica.‖  Ce tableau a toujours été là ?"
+11474|J'ai montré du doigt le grand portrait bien en évidence dans le hall.‖  Tout le monde s'est arrêté aussi.
+11487|"...Ah, ...c'est vrai.‖  La dernière fois que t'es venu, il était pas encore accroché, hein ?‖  C'était quand, déjà..."
+11502|"Eh bien, 
+11503|......si ma mémoire ne me trompe pas, il a été exposé vers l'année avant-dernière."
+11514|".........C'est exact, monsieur.‖  En avril de l'année avant-dernière, le Maître l'a fait accrocher là, après l'avoir commandé à un peintre."
+11524|"Grand-père a fait ça ?‖  Alors, il a payé pour le faire peindre rien que pour lui, hein... ?"
+11532|Le portrait allait bien avec ce manoir occidental, et cette femme en robe élégante dégageait une impression de raffinement.
+11535|......Je n'aurais pas su deviner son âge, mais son regard perçant et la forte volonté qu'elle semblait posséder lui donnaient un air juvénile.
+11540|Elle semblait différente, d'une certaine façon, des dames d'âge mûr et posées qu'on voit souvent sur les tableaux célèbres.
+11544|Si elle avait eu de simples cheveux noirs, j'aurais pu croire que c'était un portrait de ma grand-mère, morte depuis longtemps, dans la fleur de l'âge.
+11549|Mais elle avait de magnifiques cheveux blonds et n'avait pas du tout l'air japonaise.
+11558|"Alors,‖  ...qui est cette dame, au juste ?"
+11563|Maria a répondu à cette simple question avec enthousiasme, comme si elle était fière de connaître la réponse.
+11573|"Uu- !‖  Je sais.‖  C'est Beatrice !"
+11574|"Béa-quoi... ?"
+11583|"......Beatrice.‖  C'est une sorcière.‖  Tu n'as jamais entendu d'histoires sur elle, autrefois ?"
+11591|"Une sorcière ?‖  ...Tu veux dire, 
+11592|...la sorcière de cette île ?"
+11602|...Je crois l'avoir déjà dit, mais Rokkenjima est une petite île, de seulement dix kilomètres de circonférence.
+11603|Mais en fait, c'est plutôt immense, vu que seule la famille Ushiromiya y vit.
+11609|Du coup, seuls le port et les alentours du manoir ont été aménagés pour être habités.‖  Au-delà, l'île est restée aussi intacte qu'à l'époque où elle était déserte.
+11616|La forêt, vaste et vide, n'avait absolument ni lumières, ni téléphones, ni passants.‖  Pour comprendre à quel point c'est dangereux, il faut oublier son bon sens de citadin.
+11621|Après tout, si par malheur on tombait dans un trou au fin fond de la forêt et qu'on se foulait la cheville,‖ personne ne viendrait nous sauver, même en pleurant ou en hurlant de toutes nos forces.
+11630|Et puis, une fois le soleil couché, la forêt serait plongée dans l'obscurité totale, puisqu'il n'y avait aucun lampadaire.
+11636|Et comme il n'y avait aucun panneau, il serait facile de s'égarer et de perdre tout sens de l'orientation dans cette forêt obscure.
+11641|De nos jours, la plupart des gens voient la forêt comme un endroit paisible, ‖mais pour les gens d'autrefois, avant que la lumière de la civilisation ne chasse la nuit, les forêts étaient aussi coupées de la civilisation que la mer.‖  C'étaient des océans sur la terre ferme.
+11647|Les pêcheurs qui partent en mer risquent leur vie, malgré leurs connaissances techniques...
+11652|De la même façon, les chasseurs qui s'aventurent en forêt sont en danger, malgré leur propre savoir spécialisé.
+11661|...Si des enfants allaient jouer dans une forêt aussi dangereuse, il pourrait leur arriver quelque chose de terrible.
+11666|Les parents de quelqu'un ont dû se dire ça.‖  ...C'est peut-être Grand-mère qui l'a dit la première, ou peut-être Grand-père lui-même.
+11678|Ou alors, l'histoire se transmet peut-être sur cette île depuis des temps anciens.
+11684|.........Il y a une terrible sorcière dans la forêt, alors il ne faut pas y entrer.
+11689|À un moment donné, cette histoire de fantôme de Rokkenjima est née.
+11690|C'est la légende de la sorcière de Rokkenjima.
+11693|C'est pour ça que, quand on parle d'une sorcière sur cette île, on fait référence à la maîtresse de cette forêt vaste et sauvage.
+11699|Maintenant que j'y pense, quand je logeais dans ce manoir étant petit, pendant ces nuits sinistres où le vent et la pluie martelaient les fenêtres,‖ je me souviens avoir été terrifié par une histoire sur la sorcière de la forêt, qui rôdait à la recherche de sacrifices humains...
+11705|Alors, 
+11706|...Beatrice, hein ?
+11710|.........Quand Aniki en a parlé, j'ai fouillé ma mémoire et j'étais sûr de me rappeler avoir entendu un nom comme celui-là quand j'étais petit.
+11722|"...Je vois.‖  N'empêche, j'avais complètement oublié que la sorcière de cette légende avait un nom aussi élégant que Beatrice.‖  ......Alors, Grand-père s'est donné la peine de faire faire un portrait, juste parce que nous, ses petits-enfants, on croyait pas à l'histoire ?"
+11730|"...C'est la sorcière des délires de Grand-père.‖  ...Depuis qu'il a fait accrocher ce tableau, il a de plus en plus de mal à faire la différence entre la réalité et l'imaginaire.‖  ...Pour nous, c'est juste une sorcière qui existe dans la tête de Grand-père, ...mais pour lui, c'est un être qui `existe' sur cette île.‖  ...`Existe'.‖  Il dit qu'il a fait faire ce tableau parce que sinon, nous autres serions incapables de comprendre.
+11737|  ......Pff, tout ça fout carrément les jetons."
+11746|"...Mademoiselle,‖ ...ce portrait est précieux pour le Maître.‖  ......Je vous en supplie, ne dites pas de telles choses devant lui."
+11753|"......Je sais.‖  Même si tu me l'avais pas dit, je ferais jamais un truc pareil."
+11760|Jessica a jeté un regard agacé au portrait avant de se détourner.
+11770|"...Allons-y.‖  On fait attendre tout le monde dans la salle à manger."
+11780|"Uu- !‖  J'ai faim !"
+11791|......Seule une petite partie de cette île était contrôlée par la famille Ushiromiya.
+11796|Tout le reste, sans loi...était le domaine de la sorcière, Beatrice.
+11801|......On pourrait même dire qu'elle était la véritable souveraine de Rokkenjima.
+11807|J'ai senti renaître faiblement ce sentiment de malheur inquiétant...‖que j'avais ressenti en apprenant que la foudre était tombée sur le sanctuaire du dieu protecteur.
+11810|Et je me suis rappelé que Kumasawa-san avait essayé de raconter une histoire sinistre sur Rokkenjima...avant que Jessica ne l'arrête.
+11815|...Je ne sais pas ce qu'elle comptait nous raconter sur cette île.
+11821|Mais il y a une chose que je sais.
+11822|...Ce n'est pas la famille Ushiromiya qui règne sur Rokkenjima.
+11827|C'est la sorcière, Beatrice.
+11832|C'est ça.‖  ......Après tout, cette île est celle de la sorcière.
+11841|"Battler !‖  Uu-, t'es leeent !"
+11849|Quand j'ai regardé autour de moi, tout le monde se dirigeait déjà vers la salle à manger.
+11850|Je me suis dépêché de les rattraper...
+11864|On s'est approchés de l'immense porte à deux battants qui menait à la salle à manger.
+11872|Genji-san a frappé.
+11880|"...J'amène les enfants.‖  Veuillez pardonner l'intrusion..."
+11881|La porte s'est ouverte, et on nous a invités à entrer.
+11899|La salle à manger, exactement comme on imagine celle d'une famille riche,‖ comportait une table super longue, visiblement disposée dans le seul but de faire prendre conscience aux invités de leur rang.‖  Nos parents étaient déjà assis selon cet ordre.
+11906|"Vous êtes en retard, les mioches.‖  Dépêchez-vous de prendre place."
+11907|Mon vieux salaud de père nous a pressés de nous asseoir.
+11912|Les seuls trous dans cette assemblée étaient les places où on était censés s'asseoir, ce qui nous faisait encore plus sentir notre retard.
+11919|Le siège en bout de table, appelé le Siège de l'Origine, était destiné au plus haut rang, réservé à Grand-père.
+11927|Il était encore vide.
+11928|...Il voulait sans doute arriver en dernier pour faire de l'effet.
+11935|Du point de vue de quelqu'un faisant face au Siège de l'Origine, l'ordre des places allait de gauche à droite, les rangs inférieurs s'éloignant de lui par rangées de deux.
+11940|Ainsi, le côté gauche de la première rangée, le plus proche du Siège de l'Origine, était la place d'Oncle Krauss, puisqu'il était le deuxième dans l'ordre des rangs.
+11946|.........On aurait dit qu'il n'était pas encore arrivé, alors sa place était vide.
+11955|En face de sa chaise, à droite de la première rangée, était assise la fille aînée de la famille, Tante Eva, troisième dans l'ordre des rangs.
+11965|Le côté gauche de la deuxième rangée revenait au quatrième rang.
+11966|Là était assis mon fichu père, Rudolf, le troisième de la fratrie.
+11978|En face de lui, à droite de la deuxième rangée, était assise Tante Rosa, la cadette de la fratrie.
+11986|À ce stade, on pourrait s'attendre à ce que leurs maris et femmes viennent ensuite, 
+11993|mais non, la place de gauche de la troisième rangée, rang numéro six, revenait à Jessica.
+12005|En face d'elle, il y avait George-aniki.
+12015|Je me suis assis à côté de Jessica, 
+12023|...et Maria s'est assise en face de moi.
+12032|Puis, enfin, à côté de moi, à gauche de la cinquième rangée, était assise Tante Natsuhi, dixième dans l'ordre des rangs.
+12045|...En face d'elle, il y avait Oncle Hideyoshi.
+12055|  À côté de Tante Natsuhi, à la sixième rangée et à la dernière place du côté gauche, était assise Kyrie-san.
+12064|La place en face de Kyrie-san était vide, même si on y avait disposé l'argenterie et tout le reste.
+12065|D'après ce système de rangs, c'était la place où le mari de Tante Rosa aurait dû s'asseoir.
+12070|......Même s'il n'était pas censé venir, sa place était dressée.
+12078|D'habitude, ce genre de système donne aux conjoints le même rang que leur partenaire, mais celui de la famille Ushiromiya était unique en son genre.
+12084|......C'est peut-être un vestige de machisme.
+12085|Si on part du principe que le ventre d'une femme n'est qu'une chose qu'on emprunte, alors les enfants de lignée directe viennent en premier, directement suivis des petits-enfants.
+12090|Autrement dit, les conjoints n'ont aucun lien du sang et sont donc placés en bout de file.
+12095|......C'est affreux, mais selon ce système, ma grand-mère serait classée encore plus bas que moi, si elle était toujours en vie.
+12100|Jeunes, elles obéissent à leur père ; mariées, à leur mari ; âgées, à leurs enfants.
+12105|Il y a ce vieux dicton : `La femme n'a de foyer dans aucun des mondes'.
+12113|Autrefois, quand j'étais encore incapable de comprendre tout ça,‖ je trouvais génial qu'on puisse tous discuter en petits groupes, les frères et sœurs adultes entre eux et les cousins entre eux.‖  Mais maintenant que je peux réexaminer cet ordre des places après avoir un peu grandi, ça éveille en moi des sentiments très compliqués...
+12116|Tante Natsuhi, mariée au fils aîné et numéro deux de fait dans la gestion de cette famille, était assise à ma droite,‖ ...ce qui voulait dire qu'elle était deux crans en dessous de moi dans l'ordre des rangs.
+12121|...Difficile d'imaginer ce qui pouvait se passer dans son cœur.
+12126|C'est pour ça que je lui ai fait un petit geste d'excuse avant de m'asseoir.
+12138|"Quel plaisir de te voir, Battler-kun.‖  Tu es devenu bien grand, n'est-ce pas ?"

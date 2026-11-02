@@ -1,0 +1,19 @@
+# Fichiers du jeu (copies d'origine) et fichiers régénérables : hors dépôt
+.DS_Store
+__pycache__/
+original/
+mod/0.u.original
+mod/0.u.fr
+mod/0.u.fr-ep1
+mod/0.u.test
+mod/pages_ocr/
+work/0.fr.utf
+work/roundtrip.utf
+work/identity.jsonl
+work/pages/ocr_img/
+work/pages/preview/
+# Images : extraites du jeu ou générées par les outils
+ui/*/
+*.png
+*.jpg
+*.bmp

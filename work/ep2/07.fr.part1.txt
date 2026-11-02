@@ -1,0 +1,160 @@
+114666|"Oui...‖  ......En fait, à la chapelle......‖  ......"
+114672|Genji... murmura quelque chose à l'oreille de Rosa.
+114675|Un instant, Rosa sembla ne pas comprendre ce qu'on venait de lui dire.‖  Il fallut le lui répéter plusieurs fois pour qu'elle saisisse qu'apparemment, quelque chose d'étrange s'était produit.
+114679|Rosa referma sa porte un instant, se changea en hâte, puis suivit Genji en direction du manoir...
+114706|La chapelle mérite quelques explications.
+114707|Elle ne se trouvait pas dans le manoir, mais dans un bosquet derrière celui-ci, à quelques pas de marche.
+114710|Elle avait été bâtie en même temps que le manoir, ‖si bien que, malgré ses murs maintes fois restaurés qui lui donnaient de l'extérieur un air neuf, c'était un édifice très ancien.
+114714|Rosa courut sous la pluie aux côtés de Genji.
+114715|Comme la veille au soir, la pluie tombait à verse.
+114728|Enfin, la chapelle apparut au-delà d'un mince rideau d'arbres...
+114730|Vue de l'extérieur, elle semblait un lieu d'une beauté éblouissante, où un jeune couple d'amoureux aurait pu rêver de se marier.
+114733|Pourtant, Kinzo la considérait apparemment comme un lieu des plus sacrés, ‖et Rosa et ses frères et sœur avaient reçu l'ordre strict de ne pas s'en approcher sans nécessité.
+114736|Même adultes, ils ne pouvaient s'approcher de la chapelle, quelle qu'en soit la raison, sans éprouver un sentiment de culpabilité...‖et aussi de peur, comme si leur Père allait se mettre en colère et les gifler...
+114749|On distinguait les silhouettes des domestiques devant l'entrée de la chapelle.‖  Gohda, Shannon et Kanon.
+114750|...Autrement dit, tous les domestiques du service du matin s'étaient rassemblés.
+114754|Un peu plus tôt, Genji avait parlé à Rosa et lui avait expliqué la situation.
+114755|Mais... sans le voir de ses propres yeux, elle n'avait vraiment pas pu comprendre...
+114758|Il en allait sans doute de même pour tous les domestiques rassemblés ici.
+114762|...~ib~Sans le voir de leurs propres yeux~ib~, ils n'auraient pas pu comprendre ce qui se passait.
+114770|Sur la porte d'entrée de la chapelle...‖il y avait quelque chose de très grand, ...tracé avec une peinture sinistre et filandreuse qui faisait penser à du sang...‖  ...Une sorte de sinistre cercle magique.
+114785|"...Qu-
+114787|Qu'est-ce que...
+114789|...c'est que ça... ?‖  Quand est-ce que ça a été dessiné ?!"
+114799|Les domestiques échangèrent un regard.
+114800|Gohda fut le premier à prendre la parole.
+114808|"...J-Je vous demande pardon.‖  Nous n'entrons pas dans ce bâtiment d'ordinaire, nous ignorons donc quand cela a été fait."
+114814|"Alors, qui l'a découvert en premier ?!"
+114820|"C-C'est moi.‖  ...Quand je suis allée dans la salle à manger pour débarrasser le service à thé, ...j'ai trouvé une note où était écrit `chapelle'..."
+114823|Shannon tendit la note d'une main tremblante.
+114829|"...De qui est cette écriture ?‖  Ce n'est ni celle de Nii-san ni celle de Nee-san.‖  ...Et ensuite, tu es venue ici et tu as trouvé ça, c'est ça ?"
+114834|"Oui..."
+114841|"...Rosa-sama, ......regardez ceci."
+114851|"Quoi ?‖  <......Happy Halloween...for...>
+114854|  ...Quoi ?!"
+114860|Kanon désigna une unique ligne d'anglais écrite sous le sinistre cercle magique.
+114863|Avant qu'on la lui montre, elle l'avait prise pour un simple élément du cercle magique.
+114866|Là, les mots suivants étaient écrits en anglais : 
+114872|<Happy HALLOWEEN for MARIA.>
+114877|Joyeux Halloween...‖  Pour Maria...
+114880|Ce sinistre cercle magique...‖était pour Maria.
+114883|<Happy Halloween.>
+114893|La veille, une seule personne avait dit <Happy Halloween> à Maria...
+114894|La formule concordait.
+114897|...C'était la Sorcière dorée, Beatrice... !
+114909|"Et M-Maria, alors ?!‖  Elle est censée dormir avec ses cousins, non ?‖  Vous avez vérifié ?!"
+114915|"...Je vous demande pardon.‖  Nous venons seulement de remarquer que le nom de Maria-sama était inscrit ici.‖  ...Nous n'avons pas encore vérifié.‖  Vite-"
+114923|"Mais qu'est-ce que vous faites ?!!‖  Je vais voir comment va Maria et je reviens !‖  Prévenez aussi Krauss nii-san et les autres.‖  Ensuite, suivez leurs instructions !"
+114929|...Après avoir dit cela, Rosa remarqua enfin que quelque chose clochait.
+114932|Dans cette conférence familiale, son rang à elle était le plus bas des quatre frères et sœurs.
+114935|...Pourquoi l'avait-on appelée, elle seule, dans une situation aussi anormale, et pas les autres ?
+114937|...Même si le nom de Maria était apparu.
+114944|"Ce ne serait pas... hein ?‖  ...Quoi ?!"
+114954|"...O-Oui.‖  Nous avons tenté de joindre Krauss-sama, 
+114956|...mais nous ne l'avons pas trouvé..."
+114963|"Et Madame n'était pas dans sa chambre.‖  ...À voir l'état des draps, elle n'a peut-être pas du tout regagné son lit cette nuit."
+114969|Rosa sentit quelque chose de sinistre lui remonter lentement le long du dos...
+114980|"......V-Vous avez regardé à l'intérieur de la chapelle ?"
+114982|"Non, pas encore.‖  Nous avons essayé, mais..."
+114987|"...En réalité, la serrure de la chapelle est particulière, le passe-partout ne fonctionne pas.‖  Une seule clé peut l'ouvrir, ...mais cette clé a disparu de l'armoire à clés."
+114994|Elle n'avait aucune envie de s'approcher de la porte au sinistre cercle magique si elle pouvait l'éviter.
+114998|Rosa rassembla son courage, s'avança, puis essaya de pousser et de tirer la poignée.
+114999|...Elle ne sentit que la résistance d'une serrure solide.
+115005|"Nous avons cherché s'il y avait une fenêtre par laquelle entrer, mais...‖  Je crois qu'il faudrait briser l'une des fenêtres pour voir à l'intérieur...‖  Qu'en pensez-vous ?"
+115011|"...Il est hors de question que je vous autorise à faire une chose pareille.‖  C'est la précieuse chapelle de Père.‖  ........."
+115020|À cet instant, les événements de la veille tourbillonnèrent au fond de l'esprit de Rosa...
+115028|...Mais oui, 
+115030|...quand j'ai rencontré cette sorcière dans la roseraie, 
+115032|...est-ce qu'elle n'a pas remis une enveloppe à Maria ?
+115044|Oui, aucun doute, elle la lui a bien remise.
+115047|Quand Maria a voulu l'ouvrir, la sorcière lui a dit de ne pas le faire tout de suite, puis elle a dit, j'en suis sûre : ‖"~ib~Le moment de l'ouvrir viendra bientôt~ib~"...
+115052|Rosa en était certaine.
+115053|...Il ne pouvait y avoir aucune erreur.
+115054|...L'enveloppe que Maria avait reçue était......
+115087|Revenue en courant à la maison d'hôtes, Rosa s'approcha de la chambre des cousins à pas feutrés, ‖ouvrit doucement la porte et jeta un coup d'œil à l'intérieur...
+115094|De l'intérieur lui parvenaient les ronflements vigoureux propres à la jeunesse.
+115095|Il y avait quatre enfants.‖  Et Maria était là.‖  ...Profondément endormie.
+115102|Après avoir poussé un soupir de soulagement, elle entra dans la chambre à pas silencieux.
+115103|...Elle cherchait le sac à main de Maria, posé sur le canapé.
+115107|Maria aimait toujours avoir ses trésors avec elle.
+115108|...Elle imitait sans doute sa mère, qui avait toujours son maquillage sur elle.
+115111|Bien sûr, ce n'était qu'une imitation, si bien que tout ce qu'il contenait n'était que bric-à-brac.
+115116|Dans le cas de Maria, il était rempli de petits objets occultes et sinistres, de carnets décrivant ce genre de choses, et ainsi de suite.
+115119|...Rosa n'avait jamais aimé voir sa fille se promener avec des choses pareilles, si peu dignes d'une petite fille.
+115122|Mais tenter de forcer Maria à arrêter avait provoqué une grosse dispute, alors elle avait décidé de laisser faire.
+115129|".........La voilà.‖  ......C'est elle......"
+115133|Une enveloppe à l'occidentale, frappée du blason de l'aigle doré...
+115136|En la sortant du sac, elle se rendit compte qu'elle contenait un objet lourd, vaguement cylindrique.
+115141|...Elle le devinait à sa forme et à son poids.
+115142|...Il n'y avait aucun doute.
+115143|C'était... une clé.
+115149|Après s'être retournée pour vérifier que Maria dormait toujours à poings fermés, ‖Rosa déchira l'enveloppe, et son contenu tomba dans sa paume.
+115157|...C'était une clé ancienne, au motif complexe...
+115160|Rosa serra la clé dans sa main et sortit en courant.
+115166|...Battler sembla remarquer ce bruit, mais après avoir grommelé et s'être retourné dans son sommeil, il se remit à ronfler...
+115180|"...Genji-san,‖ ...cette clé... serait-ce la clé de la chapelle ?"
+115187|"Où avez-vous...‖  ...Oui, c'est bien la clé de la chapelle."
+115194|Rosa s'approcha de nouveau du sinistre cercle magique... et introduisit la clé dans la serrure.
+115198|...Elle rencontra une forte résistance.
+115199|Après avoir résisté un court instant, ...la serrure céda avec un bruit sourd.
+115202|Puis, dans un grincement à vous écorcher les oreilles, ...la porte commença à s'ouvrir, lentement, très lentement......
+115211|"......Il y a quelqu'un... ?!"
+115216|Sa voix résonna dans l'immense salle.
+115217|...Bien entendu, il n'y eut aucune réponse.
+115226|La chapelle avait un haut plafond, et l'air y était froid.
+115229|...Et même par ce jour pluvieux et inquiétant, il s'en dégageait, on ne sait pourquoi, une impression de sacré...
+115232|Les domestiques suivirent Rosa d'un pas craintif.
+115242|"...Rosa-sama, regardez là-bas."
+115244|Kanon le remarqua aussitôt et tendit le doigt.
+115249|...Là-bas... se trouvait l'autel.
+115252|À l'endroit où un pasteur aurait d'ordinaire prêché l'amour de Dieu, il y avait une table qui n'aurait pas dû s'y trouver.
+115258|Au premier abord, on aurait dit une table de salle à manger.
+115259|...De fait, on y avait disposé de magnifiques assiettes et des couverts, comme pour un anniversaire d'enfant ou quelque chose du genre.
+115265|En y regardant de plus près, les alentours étaient décorés de citrouilles et de rubans noirs et orange.
+115266|C'étaient sans doute... des décorations d'Halloween.
+115272|Et des gens étaient attablés.
+115273|Trois de chaque côté, face à face, assis sur des chaises.
+115277|On les reconnaissait au premier coup d'œil.
+115278|Krauss et sa femme, Eva et son mari, Rudolf et sa femme.
+115281|Mais pour en être sûr, il fallait tout de même s'approcher davantage et vérifier.
+115287|...Car ils ressemblaient presque à des poupées.
+115290|Rosa et les autres avaient ouvert la porte, étaient entrés tous ensemble dans un bruit de pas nombreux, et avaient demandé s'il y avait quelqu'un.
+115294|...Et pourtant, il n'y avait eu aucune réaction.
+115295|...Même à supposer qu'on les ignore, on se serait attendu à une réaction quelconque.
+115298|...Et il n'y avait même pas eu cela.
+115301|Alors, au début, on aurait cru que quelqu'un avait installé là des poupées ressemblant à s'y méprendre à ces personnes...
+115306|...À présent, ce n'était plus seulement Rosa.
+115307|...Shannon et Kanon, et même Gohda.
+115308|...Tous luttaient désespérément contre le sentiment sinistre qui leur étreignait le cœur.
+115321|"...Nii-san... ?‖  ......Nee-san...... ?"
+115323|Tout en marchant vers l'autel, elle les appela de nouveau, mais il n'y eut toujours aucune réaction.
+115329|...Oui, ...à présent, Rosa en était sûre.
+115332|...Elle était sûre que ce n'étaient pas des poupées, ‖~ib~mais bien eux en personne~ib~... !
+115338|"......C'est......"
+115342|"........."
+115349|Ils arrivèrent assez près pour distinguer clairement ce qui se trouvait sur la table.
+115352|On aurait toujours dit un adorable banquet, évoquant un anniversaire d'enfant.
+115358|Des assiettes chargées de friandises, de jolies carafes remplies de boissons.
+115359|Toutes sortes d'ornements en forme de citrouille...
+115362|...Tout était décoré dans le style d'Halloween, ‖...et même si ce n'était sans doute pas le moment d'y penser, Maria aurait certainement été ravie de voir tout cela.
+115367|Voilà à quoi ressemblait la table devant laquelle ils étaient assis, comme endormis...
+115370|C'était une scène inquiétante, ...comme si une petite fête d'Halloween bien joyeuse avait été figée dans le temps...
+115377|"...Ils sont tous...‖...en train de dormir... ?‖  ...... ?"
+115383|En s'approchant encore, ...elle s'aperçut que des friandises étaient éparpillées partout sur le sol.
+115386|Bonbons, biscuits, sodas et chocolats, ...tous dans des emballages aux motifs très féeriques...
+115402|Tout cela était éparpillé sur un tapis couvert de confiture de mûres et de canneberges...
+115420|"...Wa, uwaaaaaaaaaaaaaaaaaaaaa ?!"
+115435|Rosa et les autres... finirent par comprendre la situation...
+115439|C'était... une fête d'Halloween.
+115440|Un banquet pour ceux qui ne sont pas de ce monde... !
+115450|Krauss, Natsuhi, Eva, Hideyoshi, Rudolf et Kyrie étaient assis sur leurs chaises, comme endormis, ...mais tous morts.
+115453|Comment savoir qu'ils étaient morts et pas simplement endormis ?
+115467|C'était parce que...
+115469|on les avait...
+115471|f-
+115473|fendus...
+115475|...ouverts en deux, verticalement...
+115477|...de la poitrine jusqu'au ventre...... !
+115497|"...K-Krauss-sama...... !!
+115507|  Hiiiiiiiiiiiiiiiii... !"
+115514|"......... Comme c'est... cruel..."

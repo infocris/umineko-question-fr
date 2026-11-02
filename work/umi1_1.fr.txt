@@ -1,0 +1,319 @@
+5006|".........J'aurais dû prendre le bateau...
+5008|......le bateau......"
+5013|"On tooombe !‖  On tooombe !‖  Uu-uu-uu-uu- !!"
+5018|"Maria, ça suffit maintenant !
+5023|  ......Mais quelle surprise.‖  Moi qui croyais que rien ne faisait peur à Battler-kun."
+5030|"Ce gars-là n'a jamais supporté les transports, va savoir pourquoi.‖  Il passe son temps à hurler qu'on va s'écraser, qu'on va couler, ce genre de trucs.‖  T'es une honte pour la gent masculine, toi."
+5035|"......Ah, la ferme.‖  Ce truc secouait vraiment beaucoup trop...‖  J'ai juste un peu stressé, c'était la première fois que je montais dans un petit avion comme ça..."
+5042|"Tu appelles ça `un peu stressé' ?‖  Hé hé hé, ça doit être amusant de partir en voyage à l'étranger avec toi, Battler-kun.‖  Ça te dirait d'aller en Égypte avec ta tante ?‖  Tu aurais droit à quatorze heures d'avion d'affilée."
+5049|"Ah ha ha ha !‖  Excellente idée.‖  Battler-kun, tu devrais laisser Eva nee-san t'endurcir un peu.‖  N'empêche, c'est trop drôle !‖  Ah ha ha ha ha !"
+5055|"Wah ha ha ha, allons, allons.‖  Tout le monde a ses points forts et ses points faibles.‖  C'est pas gentil de se moquer.‖  Wah ha ha ha... !"
+5061|"P-Papa, toi aussi tu rigoles.‖  Allez, Maria-chan, il ne faut plus rire maintenant."
+5067|"Il ne faut plus rire ?‖  Uu- !"
+5070|Gyah, bon sang !‖  C'est si grave que ça d'avoir peur de l'avion ?
+5072|Maintenant, tout le monde me prend clairement pour un gros nigaud...‖  Tch !
+5087|À l'aéroport, on s'est répartis dans plusieurs taxis pour rejoindre le port.
+5090|De là, on devait prendre un bateau jusqu'à l'île.
+5093|Les îles sont toutes proches les unes des autres, donc le trajet n'était pas bien long.
+5095|En bateau, on rejoignait l'île en une petite demi-heure tranquille.
+5097|Quand on est arrivés au quai où était amarré le bateau pour l'île, on a aperçu une silhouette qui nous faisait signe.
+5107|"George nii-saaan !‖  Ça fait une éternité, bon sang !!"
+5114|"Ah, Jessica-chan, ça fait un an que je ne t'ai pas vue !‖  Tu as encore grandi, non ?"
+5119|"Kyah ha ha, arrête, c'est gênant quand tu me sors ça tous les ans !"
+5122|"......H-Hé, Aniki, tu te fiches de moi.‖  C'est vraiment Jessica, ça ?!"
+5128|"Attends une seconde, George...‖  Ce grand gaillard, c'est...
+5130|Battler ?!"
+5133|On s'est dévisagés tous les deux.
+5136|...Dans mes souvenirs, elle ne ressemblait vraiment pas à ça, mais je me souviens bien de sa <i>façon de parler complètement dingue</i>.
+5141|"Yo, Jessica !‖  C'est quoi ça ?!‖  Sans rire, t'as l'air d'une vraie femme maintenant !‖  Et ça, c'est quoi, des seins ?  Même toi, t'as fini par avoir de la poitrine !‖  Ihihi, laisse-moi les tripoter, allez !"
+5147|"Te fous pas de moi, je suis une jeune fleur de 18 ans !‖  Évidemment que mes cheveux ont poussé et que j'ai eu ces trucs !‖  Quoi, tu crois que j'ai eu des seins juste pour que tu les tripotes, nul que t'es ?!‖  Et toi alors, t'es devenu ridiculement grand, d'accord, mais t'es un peu plus costaud, au moins ?!"
+5150|"Te fous pas de moi, je vais te montrer comment je me suis entraîné depuis le temps !!"
+5155|"Tu m'énerves !!‖  Je vais te battre à ton propre jeu !"
+5162|Cette fille au caractère bien trempé s'appelle 朱志香.
+5165|......Elle est née sous la même mauvaise étoile que moi, avec un prénom tout aussi bizarre.
+5167|Bref, 朱志香 se prononce `Jessica'.
+5172|C'est la fille du grand frère de mon père.
+5175|Ce grand frère se trouve être le fils aîné de la famille Ushiromiya, ce qui fait de Jessica, pour l'instant, l'héritière directe de la famille.
+5178|Comme Jessica et moi avons le même âge et qu'on se chamaillait souvent comme le font garçons et filles, ‖on a toujours eu l'habitude de se battre et de se taquiner quand la famille se réunissait.
+5182|Jessica avait grandi plus vite, alors elle me dépassait toujours en taille comme en force.
+5184|Quand on se bagarrait pour savoir qui était le plus fort, c'était généralement Jessica qui gagnait.
+5187|Alors même si je savais que j'avais grandi, une partie de moi restait persuadée que je ne pouvais pas battre Jessica.
+5193|".........Wouah...ah... !‖  Mais...pourquoi tu t'y mets sérieusement... ?!‖  Aïe aïe aïe..."
+5196|"Hé, c'est rien du tout, ça !‖  Jessica, t'es devenue faiblarde."
+5200|"T-Tais-toi.‖  Je suis une fille, ‖alors c'est normal que je puisse pas battre un garçon à la force éternellement, non ?!"
+5206|"Bon, d'accord, t'as pas tort !‖  Tout le muscle que j'ai pris aux bras, il est parti dans ta poitrine.‖  Un concours de force entre mes bras et tes seins, ça serait plutôt équilibré, tu crois pas ?!"
+5209|"Je t'ai dit que mes seins sont pas là pour que tu les tripotes !!‖  Et toi alors ?  Ton mignon petit éléphant-san, il a un peu grandi avec le reste ?!"
+5212|"Arrête, idiote !  Nooon, perverse !‖  Plus personne voudra m'épouser...  Touche pas à mon entre-jaaambe !!"
+5215|"D-Dis pas des trucs que les gens vont mal comprendre !!"
+5218|Pour être honnête, j'étais tellement surpris de voir à quel point Jessica était devenue féminine que j'ai dû faire l'idiot pour le cacher.
+5221|......Bon, vu la gamine autoritaire qu'elle était il y a six ans, n'importe qui serait surpris.
+5224|Et j'imagine qu'elle est tout aussi surprise.
+5226|Elle ne s'attendait sûrement pas à perdre contre moi à un concours de force.
+5229|Après avoir perdu aussi facilement, elle doit être choquée de voir combien j'ai grandi en six ans.
+5232|......Six ans.‖  Une fois de plus, je mesure l'énorme fossé que ce temps a creusé.
+5238|"Mince, ...défaite totale.‖  On dirait que je fais plus le poids contre toi."
+5243|"Ce n'est pas vrai.‖  Même Battler-kun doit bien avoir ses faiblesses.‖  Pas vrai, Maria-chan ?"
+5248|"Uu- !‖  On tooombe, on tooombe !!"
+5251|"Chut, arrête, Maria, on garde ça secret, d'accord ?"
+5257|"On tombe ?‖  De quoi vous parlez, bon sang ?"
+5261|"Hé hé !‖  Désolé, mais aucune chance que vous voyiez ma faiblesse maintenant !‖  Après tout, le cauchemar en avion est fini et bien fini !‖  Il ne reste plus que le doux clapotis du trajet en bateau.‖  J'aurais jamais cru que j'aimerais autant ce vieux rafiot.‖  Ihihi !"
+5266|"Hein ????‖  George nii-san, il a un problème à la tête ?"
+5271|"Tu vas vite comprendre.‖  Très vite."
+5274|Sur le moment, je n'ai pas compris ce que voulait dire le grand sourire d'Aniki...
+5281|"Mais qu'est-ce que... ooooh !‖  Battler-san, comme vous avez grandi... !"
+5283|Qui c'est, cette fois ?‖  Une vieille dame en tablier.
+5286|.........A-Ah oui, ça me rappelle des souvenirs...‖ Ça me revient !
+5293|"Tu te souviens d'elle, hein ?‖  C'est Kumasawa-san, la domestique."
+5298|"Comment je pourrais vous oublier, Kumasawa baa-chan !‖  Après tout, vous n'avez pas pris une ride en six ans.‖  Je dirais même que vous avez l'air plus jeune que jamais."
+5304|"Ho ho ho !‖  Ces derniers temps, ma peau est devenue toute douce et soyeuse !‖  Et regardez, ma poitrine n'aurait-elle pas grossi, elle aussi ?‖  ...Ça vous dirait de toucher un peu ?"
+5309|"V-Vous plaisantez, hein ?!‖  Je tripote uniquement les poitrines des jeunes filles bien rebondies !"
+5315|"Oh, j'étais tout à fait rebondie dans ma jeunesse.‖  Ne soyez pas timide, tripotez donc tout votre soûl !"
+5320|"Gyah, pitié !‖  C'est des filles que je veux !‖  Pas des mamies !"
+5323|Les blagues que j'avais faites sur Jessica se retournaient contre moi.‖  Maintenant que j'y pense, Kumasawa a toujours aimé taquiner les gens.
+5330|"Kumasawa-san, arrêtez donc.‖  Les gens qui ont un pied dans la tombe ne devraient pas faire les fous."
+5335|"S'amuser avec les jeunes est le meilleur des remèdes pour rajeunir.‖  Ho ho ho !"
+5342|"C'est rare que vous veniez nous chercher, Kumasawa-san.‖  Je me demande ce qui vous prend.‖  D'habitude, votre lumbago se réveille dès qu'on vous confie une tâche.‖  *gloussement*."
+5347|"Ho ho ho, Eva-sama, toujours aussi sévère.‖  J'avais quelques achats urgents à faire, et tant que j'y étais, je me suis dit que je viendrais tous vous accueillir.‖  Quoique, ça ne fait pas très bonne impression d'être accueilli par une vieille femme décrépite.‖  Ho ho ho... !"
+5350|Tante Eva avait parlé avec sarcasme, mais les années d'expérience de Kumasawa baa-chan n'étaient pas à prendre à la légère.
+5353|Elle était tout à fait capable d'esquiver ce genre de remarque avec calme et aisance.
+5356|Bon, ça me fait de la peine de le dire, mais la vieille Kumasawa baa-chan n'est peut-être plus dans la fleur de l'âge en tant que domestique.
+5358|Elle a beau faire comme si elle était en pleine forme, entre ses migraines et son lumbago, son corps s'use.‖  À vrai dire, le simple fait qu'elle travaille encore est impressionnant.
+5362|...Elle a quel âge déjà, cette année ?
+5365|Elle doit bien approcher les quatre-vingts ans.
+5367|C'est incroyable qu'elle arrive encore à être aussi joyeuse.
+5374|"Vous êtes de plus en plus en forme.‖  Oh, c'est vrai, tenez.‖  C'est le thé dont je vous avais parlé.‖  Regardez, je vous en ai acheté.‖  Goûtez-le donc plus tard."
+5377|Tante Rosa a sorti un sac de souvenirs de sa valise.
+5380|Elle s'était souvenue d'une promesse faite l'an dernier, apparemment, et avait fidèlement acheté ce thé.‖  ...Cette délicatesse, c'était tout à fait Tante Rosa.
+5382|Ce n'était pas le genre de personne à oublier ou à rompre une promesse.
+5387|Kumasawa baa-chan semblait profondément touchée, non seulement que Tante Rosa se soit souvenue de cette promesse vieille d'un an, mais aussi qu'elle apporte un cadeau à une simple domestique comme elle.
+5394|Cette femme, c'est Kumasawa Chiyo-san (熊沢 チヨ).
+5399|C'est une domestique de longue date, qui travaille depuis de nombreuses années pour la famille principale des Ushiromiya.
+5401|Comme on peut s'y attendre à son âge, le travail physique n'est pas son point fort, mais c'est une sorte de super domestique capable de s'occuper de presque tout le reste, de la cuisine au ménage en passant par la lessive.
+5404|Son seul défaut, apparemment, c'est sa tendance à tirer au flanc.
+5407|Il paraît qu'elle essaie d'échapper aux tâches pénibles ou ennuyeuses en exagérant ses maladies chroniques.
+5409|......Dans le cas de Kumasawa baa-chan, c'était sans doute plus un signe de ruse que de paresse.
+5412|...Même si ça n'impressionne sûrement pas ceux qui paient son salaire.
+5415|Enfin, même si elle n'est pas très fiable côté travail, je ne pourrais jamais la détester.
+5417|J'imagine que c'est grâce à sa bonne humeur et à son éternel sourire.
+5424|"Hé, ça fait plaisir de vous voir toujours en pleine forme !‖  Et votre dos, comment ça va ?"
+5429|"Même avec les médicaments, ça ne s'améliore pas d'un iota.‖  D'après le médecin, on n'y peut rien.‖  C'est ce qu'on appelle une maladie incurable, ho ho ho !"
+5437|"En tout cas, Jessica-chan est de plus en plus jolie.‖  Heureusement qu'elle tient de Natsuhi nee-san."
+5443|"V-Vraiment... ?‖  Personnellement, je trouve qu'on se ressemble pas du tout...‖  Enfin, j'ai même pas envie de ressembler à mes parents.‖  Parce que j'ai zéro respect pour eux."
+5449|"Voyons, il ne faut pas dire ce genre de choses.‖  *gloussement* Remarque, dans notre famille, il y en a pas mal qui ne veulent pas ressembler à leurs parents."
+5456|"Ah, c'est moi, ça !"
+5461|"T'as intérêt à pas me ressembler, bon sang.‖  Rien que d'avoir le même nez que moi, ça m'énerve déjà."
+5467|"Qu'est-ce que tu racontes ?‖  Toi et Père, vous vous ressemblez étonnamment."
+5473|"Allons, tu peux pas être sérieuse...‖  En quoi je ressemble au paternel ?"
+5480|"Tu lui ressembles beaucoup, surtout par ton arrogance et ton orgueil.‖  Le sang de Père est particulièrement fort chez toi et chez Nii-san.‖  Tu ne trouves pas, Rosa ?"
+5486|"Oh, absolument.‖  Krauss nii-san et Rudolf nii-san ressemblent incroyablement à Papa."
+5492|"Bon, bon, ça va, pourquoi je suis le seul à me faire attaquer par ces dames ?‖  Hideyoshi nii-san, donne-moi un coup de main, s'il te plaît."
+5497|"Eh bien, Rudolf-kun, tu as toujours autant de succès auprès des femmes.‖  Je suis jaloux !‖  Wah ha ha ha ha !"
+5503|"Ho ho ho !‖  Comme toujours, vous êtes populaire à en rendre jaloux.‖  Bien, tout le monde, si nous allions au bateau ?‖  Venez, Maria-san, montons ensemble dans le bateau, d'accord ?"
+5508|"Monter ensemble dans le bateau.‖  Uu- !‖  Tout le monde monte ensemble.‖  Uu- !"
+5513|"Et comment, cette fois, je vais pas avoir peur.‖  Je suis habitué à être secoué par les vagues.‖  Avec ce vieux rafiot de pêche, j'ai moins peur des secousses que de voir le moteur tomber en panne et le bateau partir à la dérive."
+5518|"Ah oui, Battler-kun, j'ai oublié de te le dire.‖  ...Ce bateau de pêche était complètement usé, alors on l'a mis au rebut il y a quelques années.‖  Maintenant, on nous emmène sur l'île avec un autre bateau."
+5523|"Ahhh, c'est vrai.‖  C'est la première fois que Battler monte dans le nouveau bateau !‖  Il est super confortable !‖  Et rapide, bon sang !‖  Il peut aller à des vitesses de malade !"
+5526|"Ohhh...‖  Ça veut dire moins de temps de trajet, c'est ça ?‖  Génial !‖  Avoir peur de couler, c'est moins terrible que d'être dans un avion, mais ça serait quand même top d'en finir le plus vite possible !"
+5531|"...Uu-.‖  Battler va encore faire `on tooombe, on tooombe' ?"
+5533|"Ça, c'est seulement en avion.‖  Maintenant, tout va bien !"
+5539|"En tout cas, c'est la fierté du capitaine, une sorte de bateau rapide modifié.‖  Apparemment, il l'a pas mal gonflé.‖  Il se vantait d'avoir installé des hélices haute performance à quatre pales pour dépasser les 40 nœuds, un truc dans le genre.‖  Il en parle tout le temps, alors j'ai un peu appris son discours par cœur."
+5545|"Ouais, moi aussi je le connais par cœur, vu qu'on l'entend tous les ans.‖  Le capitaine dit qu'il est obsédé par les modifications depuis qu'il a perdu une course de vitesse contre un bateau étranger, il y a longtemps.‖  D'après lui, son adversaire avait réussi à dépasser les 30 nœuds avec un simple bateau de pêche."
+5550|"Et sa soif de revanche l'a poussé à construire un super bateau tout neuf, modifié pour la très grande vitesse.‖  Je suis sûre que tu vas l'adorer, Battler."
+5553|...Un s-super bateau modifié pour la très grande vitesse... ?
+5556|...Ma première pensée a été que ce serait bien mieux qu'un vieux rafiot qui risquait de couler à tout moment......
+5558|...mais allez savoir pourquoi, j'ai eu un mauvais pressentiment...‖  ......Je me fais sûrement des idées.
+5590|"Hé, Battler, tu devrais peut-être rejoindre l'île à la nage."
+5597|"Battler-kun, tu ne devrais pas trop te pencher par-dessus le bastingage.‖  Tu risques de tomber."
+5602|"Uu-uu- !!‖  On tooombe, on tooombe !!"
+5604|"Bon saaaaaaang, ...voilà pourquoi vous ricaniez tous tout à l'heure !"
+5607|Alors c'est ça, le bateau ultra-rapide que le capitaine s'est mis à modifier...‖  Oh oui, ce vieux rafiot de pêche d'il y a six ans ne lui arrive pas à la cheville...
+5614|"Wouaaaaaaaaah, ça secoue, ça secoue, ça secoue !!‖  On va tomber, tomber, tombeeer !!"
+5621|"Uu-uu-uu- !!‖  On va tomber, tomber, tombeeer !!"
+5623|"Si je tombe, je vais finir à la mer et me noyer... !  Où est le parachute... ?!  Enfin, je veux dire, où est la bouée ?!‖  Donnez-moi un gilet de sauvetaaaage !!"
+5629|"Wah ha ha ha ha !‖  Battler, qu'est-ce que tu fabriques, wah ha ha ha ha !"
+5631|"Jessica-chan, Maria-chan, ce n'est pas gentil de se moquer.‖  Battler-kun, si tu as peur, ne reste pas sur le pont.‖  Je pense que tu te calmeras un peu si tu vas à l'intérieur."
+5638|"Hé hé, non merci, Aniki !‖  Dans un naufrage, les victimes, c'est toujours ceux qui sont à l'intérieur.‖  Les survivants, c'est généralement ceux qui étaient sur le pont au moment de l'accident.‖  Alors je reste ici !!‖  Mais ça secoue !!‖  Je vais tombeeer !!‖  Wouaaaaaaaah !!"
+5645|"Ça secoue, on va tombeeer !!‖  Uu-uu-uu- !!"
+5647|"Maria, je t'ai dit de te tenir tranquille !‖  ......Mais Battler-kun, on dirait que tu ne supportes vraiment pas ça...‖  Je vais demander au capitaine de ralentir pour toi."
+5649|"Wouaaah, Tante Rosa, merciiiiiii !‖  Je peux vous le dire maintenant, conduire lentement et prudemment, c'est clairement la meilleure solution, même en meeeeer !!"
+5656|"Hé hé hé !‖  Ne fais pas ça, Rosa.‖  Les épreuves, c'est important pour les jeunes hommes.‖  N'est-ce pas, Battler-kun ?‖  Tu as intérêt à surmonter une petite frayeur comme celle-là.‖  Sinon, tu ne pourras jamais aller en Égypte avec ta tante !"
+5664|"Wouaaah, Tante Eva, t'es trop méchaaaaaante !‖  Oh noooon, je vais tombeeeeer !!‖  Un gilet de sauvetaaaage, un parachuuuute !!‖  Wouaaaaaaaaaaah...... !!!‖  A-Attends, faut renverser la situation et réfléchir autrement !!‖  Qu'est-ce que l'ennemi cherche à faire ?!‖  Il fait ça pour me faire peur ?!‖  Si c'est ça son but, dommage pour lui, j'aurai pas peuuuuuuur du tout !!‖  Mais nooooon, je vais tombeeeeeer !!!"
+5675|...Donc, après m'être bien ridiculisé pendant un moment,‖ Tante Rosa a parlé au capitaine, qui a ralenti jusqu'à une vitesse plus supportable pour moi...
+5679|".........Haa...‖  C'est un peu mieux...‖  ...J'ai cru que j'allais mourir, tout à l'heure..."
+5683|Apparemment, la vitesse maximale que je peux supporter est extrêmement lente.
+5686|...Mais ce qu'on vient de vivre était complètement dingue...
+5688|Tout le bateau tremblait !‖  Il glissait et bondissait à la surface de l'océan !
+5690|J'avais l'impression de chevaucher un poisson volant...
+5696|Jessica se tordait encore de rire en me regardant, appuyé contre le bastingage, épuisé et découragé.
+5702|"J'ai perdu le concours de force tout à l'heure, mais je suis contente de voir que j'ai toujours le dessus là où ça compte vraiment.‖  Mais sérieux, ha ha ha ha ha !"
+5707|"Bon sang, ...vas-y, rigole.‖  Un de ces jours, je trouverai ta faiblesse et je me vengerai...et là, tes seins seront à moi et je les tripoterai......"
+5712|"Ah ha ha ha !‖  Ouais, c'est ça, bonne chance !‖  Wah ha ha ha !"
+5717|"Uu-.‖  Battler, tout faible."
+5722|"Ouais, Battler, tout faible...‖  Je veux mourir sur la terre ferme, pas en mer ni dans le ciel..."
+5725|Maria me tapotait le dos, alors je lui ai tapoté la tête en retour.
+5727|...Son visage était inexpressif, comme d'habitude, mais j'ai compris qu'elle voulait me consoler.
+5736|"Battler-kun, le capitaine offre des boissons pour se faire pardonner.‖  Tu en veux une pour te remettre ?"
+5740|George-aniki et Kumasawa baa-chan nous ont apporté à tous des canettes de soda glacées, couvertes de gouttelettes.
+5743|Vu le grand sourire de Kumasawa-san, nos parents à l'intérieur du bateau devaient tous se rouler par terre de rire devant mon moment de pure terreur.
+5745|Bon sang, j'ai tellement honte que je n'ose plus regarder personne en face...
+5748|Si je ne changeais pas de sujet d'une manière ou d'une autre, j'avais le sentiment que j'allais servir de tête de turc pendant tout le voyage, alors j'ai cherché un sujet de conversation inoffensif.
+5753|"...Dis, Jessica.‖  Comment vont Oncle Krauss et Tante Natsuhi ?"
+5758|"Mon vieux et ma mère ?‖  Malheureusement, ils vont bien.‖  Mais ils me sortent `travaille, travaille' toutes les deux phrases, ça me saoule.‖  Je suis trop jalouse, Oncle Hideyoshi ou Oncle Rudolf ont pas l'air du genre à dire des trucs pareils."
+5765|"Ha ha ha, oh non.‖  Avant mes examens, mes parents n'arrêtaient pas de me mettre la pression.‖  Je trouvais ça pénible à l'époque, mais maintenant je leur en suis reconnaissant."
+5770|"Ha, je le savais.‖  T'es vraiment génial, Aniki...‖  Moi, en tout cas, je dois me débrouiller tout seul.‖  Personne me dit quoi faire !‖  Remarque, c'est pas comme si j'écoutais si on me le disait, hihihi !"
+5777|"Battler-san, vous n'êtes toujours pas retourné vivre chez vos parents ?"
+5779|"...Bah, j'y retourne de temps en temps.‖  J'ai plein de vêtements et de trucs qui sont restés dans la maison où je vivais jusqu'à récemment."
+5784|"......Uu- ?‖  Battler a deux maisons ?"
+5786|"Euh,
+5788|.........hmmm.‖  ......Un truc comme ça."
+5793|"Pourquoi ?‖  Pourquoi tu as deux maisons ?‖  Uu- ?‖  Uu- ?"
+5796|Seule Maria, qui ne comprenait pas vraiment la situation, a posé cette question naïve.
+5798|Les autres, eux, se contentaient de me jeter des regards gênés, préférant ne pas répondre alors qu'ils connaissaient la réponse.
+5804|"Maria !‖  Regarde, on voit le port maintenant... !‖  Regarde, là-bas !‖  Tu le vois ?!"
+5809|"Uu- !‖  Vu le port, vu le port !"
+5811|Apparemment, Jessica essayait d'être gentille en changeant de sujet.
+5817|......Bah.‖  Je préfère ne pas en parler si je peux l'éviter, mais c'est désagréable qu'on en fasse une espèce de tabou bizarre.
+5820|......Moi-même, ça ne me dérange plus tellement.
+5823|Je fais peut-être partie de la famille Ushiromiya, ‖mais en vérité, ces six dernières années, j'ai vécu chez mes grands-parents du côté de ma défunte mère, et j'ai même porté son nom de famille.
+5826|Quand ces grands-parents sont morts l'un après l'autre, je n'ai pratiquement pas eu d'autre choix que de retourner vivre avec mon vieux salaud de père.
+5829|Comprenez-moi bien.‖  Je ne me suis pas simplement enfui de la maison, rien de ce genre.
+5831|Le seul fautif dans cette histoire, c'est mon père.
+5834|......Je n'en veux pas vraiment à Kyrie-san.
+5836|Arriver à tenir les rênes de ce vieux salaud et à le dompter, ce n'est pas une mince affaire.
+5839|...N'empêche, la façon dont ce vieux salaud a trahi ma mère...‖  ......Enfin, malheureusement, je ne m'en suis toujours pas complètement remis.
+5845|"*Hum hum*.‖  On va bientôt arriver."
+5847|George-aniki s'est éclairci la gorge pour essayer de changer de sujet.
+5852|"......Je vous prie de pardonner mon indiscrétion.‖  Il semble que cette vieille femme en ait déjà trop dit.‖  Si je vous ai blessé-"
+5858|"Hé hé !‖  Ça me dérange pas, et personne n'est blessé.‖  Vous inquiétez pas, Kumasawa baa-chan."
+5861|Kumasawa-san semblait regretter d'avoir parlé à tort et à travers, ‖ mais ça me gênait plus qu'on s'inquiète pour moi pour un truc pareil, alors je me suis levé et j'ai pris ça à la légère.
+5866|Ensuite, j'ai bu une gorgée de ma boisson et je suis allé rejoindre Maria et Jessica, qui contemplaient la silhouette de l'île.
+5871|"Uu- !‖  Battler, vu l'île, vu l'île !‖  Là, là, là !‖  Uu-uu-uu- !"
+5876|"Où ça...ah, je la vois.‖  Même après six ans, l'île n'a pas changé d'un poil."
+5882|La silhouette de la petite île devant nous s'était bien rapprochée.
+5885|Cette île s'appelle Rokkenjima.
+5888|C'est une petite île d'une dizaine de kilomètres de circonférence, située dans l'archipel d'Izu.
+5891|Comme on appelle cet archipel `les Sept îles d'Izu', beaucoup de gens pensent qu'il n'y a que sept îles, mais c'est faux.
+5895|Il y en a en fait plusieurs autres, et Rokkenjima fait partie des petites îles qu'on ne compte pas.
+5898|Et même sans ça, je doute qu'on trouve beaucoup de gens qui connaissent cette île.
+5900|Seules les personnes liées à la famille Ushiromiya s'y rendent.
+5903|Autrement dit, les étrangers et les touristes n'ont jamais aucune raison de s'y intéresser.
+5905|Du coup, vous ne trouverez jamais le nom de cette île dans une brochure de voyage.
+5908|Après tout, Rokkenjima tout entière est une propriété de la famille principale des Ushiromiya.
+5911|Seule la famille Ushiromiya y vit, et seules les personnes liées à la famille Ushiromiya y vont et en viennent.
+5914|Il n'y a rien là-bas à part un port et un manoir.
+5916|La plus grande partie de l'île n'est encore qu'une forêt sauvage.
+5919|Quel gâchis, alors qu'on pourrait en faire un joli terrain de golf, par exemple.
+5921|Cela dit, quand on réalise que tout le littoral est une plage privée, ça commence à sonner plutôt grandiose.
+5926|Vous l'avez sûrement deviné, mais pour faire simple...
+5928|...eh bien, la famille Ushiromiya roule sur l'or.
+5931|La famille principale posséderait une immense fortune,‖ et mon père et les autres, qui forment les branches cadettes, se sont eux-mêmes bien enrichis en réussissant chacun dans leurs affaires.
+5934|Ces six années à vivre comme un roturier chez mes grands-parents me l'avaient complètement fait oublier, ‖...mais la maison de mon vieux salaud de père est vraiment élégante, et tout y est réglé sur les goûts snobs de ces riches agaçants.
+5937|Maintenant que j'y pense, ça fait de George-aniki, de Jessica, de Maria et de moi de riches jeunes gens de la haute société.
+5940|Inutile de dire qu'aucun d'entre nous ne se voit comme ça.
+5943|Je ne me considère pas comme riche, et George-aniki, qui prend l'autodiscipline très au sérieux, ne se laisse pas trop aller au confort.
+5946|Jessica se plaint toujours qu'elle préférerait aller vivre en ville plutôt que d'être riche,‖ et Maria n'est qu'une gamine qui ne s'intéresse pas du tout à l'argent.
+5949|...Est-ce que cette attitude nous rend vraiment moins snobs ?
+5951|Du point de vue des gens dans la misère qui n'arrivent pas à payer leurs factures, on a vraiment été gâtés.
+5954|Ce n'est pas le moment d'expliquer davantage, alors je n'en dirai pas plus.
+5957|De toute façon, c'est comme pour les parents : on ne choisit pas ceux dont on naît.
+5959|Je n'ai pas demandé à naître dans une famille riche.
+5961|Et je ne pense pas que ce soit vraiment enviable.
+5964|C'est assez pénible quand les gens ont des préjugés contre toi juste parce que tu es riche et refusent de te juger sur tes mérites...
+5967|Alors que je me perdais dans ces pensées sentimentales, Maria s'est mise à crier en se penchant par-dessus le bastingage.
+5979|"............Uu-.‖  ......Disparu."
+5985|"Qu'est-ce qui se passe, Maria ?‖  Tu as fait tomber quelque chose ?"
+5990|"Uu-uu- !‖  Disparu, disparu !‖  Uu-uu-uu-uu- !!"
+5992|Maria n'arrêtait pas de crier `disparu, disparu'.
+5995|Au début, on aurait dit qu'elle avait fait tomber quelque chose, mais tout en criant, elle pointait le doigt vers l'océan.
+6000|"Qu'est-ce qu'il y a ?‖  Qu'est-ce qui a disparu ?‖  Je peux t'aider à chercher, si tu veux.‖  C'est quoi ?
+6005|  ............?"
+6010|Si elle avait fait tomber quelque chose, elle aurait sûrement regardé par terre, mais Maria pointait le doigt vers l'océan.
+6013|À ce geste, on aurait pu croire qu'elle avait repéré quelque chose, mais elle répétait que quelque chose n'était plus là...‖  ......Bizarre.
+6016|Mais comme mes derniers souvenirs de cet endroit dataient d'il y a six ans, j'ai pu le remarquer avant Aniki, qui vient ici tous les ans.
+6019|"............Hein... ?‖  ......Si je me souviens bien, il n'y avait pas un torii ou un truc comme ça sur un petit rocher, par ici ?‖  ...C'est ça, il était bien là.‖  Je m'en souviens bien, parce qu'en approchant de l'île, c'était la première chose qui nous accueillait, comme un point de repère."
+6023|"Wouah, t'es incroyable, Battler.‖  Ça fait six ans, et tu t'en souviens."
+6026|"C'était ici, hein... !‖  Moi aussi je m'en souviens.‖  Le sanctuaire du <i>dieu protecteur</i> et cette espèce de <i>torii</i> se dressaient tout seuls sur ce rocher.
+6033|  ......Et maintenant que tu le dis, ils ont disparu, c'est vrai.‖  Je suis presque sûr qu'ils étaient encore là l'an dernier."
+6035|"Disparu.‖  Disparu.‖  Uu-uu-uu- !"
+6041|"Ils ont peut-être été emportés par les vagues, ou un truc comme ça.‖  C'était un petit rocher, il a sûrement été rongé avec le temps."
+6047|"Bon, c'est aussi ma théorie.‖  C'est l'été dernier qu'il a disparu.‖  Mais on raconte-"
+6056|"On raconte qu'un soir, un éclair gigantesque s'est abattu et a fracassé le sanctuaire...‖  ...Les pêcheurs murmurent que la foudre tombée sur notre vénérable dieu protecteur doit être le présage d'un malheur à venir.‖  ...Kuwabara, kuwabara..."
+6059|Kumasawa-san a souri d'un air espiègle, comme pour nous taquiner, en se frottant les mains et en récitant une formule japonaise censée éloigner la foudre.
+6062|Mais Maria a apparemment pris ça au sérieux...‖et fixait l'océan, là où le rocher abritant le sanctuaire du dieu était censé se trouver.
+6070|".........Le présage...d'un malheur.‖  .........Uu-."
+6076|"Ça suffit, Kumasawa-san.‖  Maria n'a pas l'âge de comprendre ce genre de plaisanterie."
+6081|"Tout va bien, Maria-chan.‖  C'est juste une coïncidence.‖  Il ne va rien se passer d'effrayant."
+6083|George-aniki a posé une main sur l'épaule de Maria pour la calmer, mais le regard perçant de Maria n'a pas faibli.
+6088|"............Malheur.‖  ............Malheur."
+6091|Maria répétait ce mot encore et encore.
+6093|Apparemment, répéter un même mot encore et encore est une habitude que Maria a depuis longtemps.
+6096|Mais comme le mot qu'elle répétait était littéralement de mauvais augure, c'était un peu inquiétant.
+6106|"Allons, Maria.‖  Si tu le répètes comme ça, le malheur va vraiment finir par arriver, tu sais ?"
+6108|J'ai tapoté l'autre épaule de Maria.
+6111|Maria a brusquement tourné la tête, m'a fixé droit dans les yeux et a parlé sans ciller.
+6118|"Uu-.‖  .........Le malheur...arrive."
+6123|"Hein ?‖  Et il arrive d'où, exactement ?"
+6126|J'ai répondu d'un ton léger, pour essayer de détendre l'atmosphère.
+6131|...À ce moment-là, Maria a levé un doigt, a tendu le bras bien haut, ...et a pointé le ciel.
+6134|En levant les yeux, j'ai vu que le ciel était toujours aussi nuageux, mais qu'il était devenu bien plus plombé que ce matin.
+6137|C'est vrai, ils disaient qu'un typhon approchait.
+6140|...On avait prévu de passer une nuit sur l'île, mais si cette tempête ne passe pas vite, je ne pourrai pas aller en cours lundi.‖  Bon, ça fera une assez bonne excuse pour sécher.
+6143|".....................Uu-..."
+6145|...Apparemment, elle sentait une sorte de malheur dans ce ciel nuageux.
+6147|Ça fait un moment qu'elle n'arrête pas de le marmonner.
+6150|Les filles de l'âge de Maria sont souvent très impressionnables.
+6153|Elle est à peu près à l'âge où beaucoup de filles commencent à s'enthousiasmer pour le sixième sens et à se demander si elles ont des pouvoirs psychiques, ce genre de choses.
+6158|...Qui sait, c'est peut-être dû à sa nature enfantine et sensible.
+6168|"Tout va bien, Maria-chan.‖  Le temps va peut-être se gâter cette nuit, mais demain ça va se dégager et on aura un beau ciel bleu."
+6173|"Uu-.‖  Beau ciel bleu.........‖  .........Uu-..."
+6179|"C'est ça, demain on aura un beau ciel bleu.‖  Il n'y a pas de pluie qui ne s'arrête jamais, ni de nuages qui ne se dissipent jamais."
+6184|"Uu-...‖  .........Pluie qui ne s'arrête jamais.‖  ...Nuages qui ne se dissipent jamais.‖  ..................Uu-........."
+6191|"Je sais que le typhon arrive, mais il va vite repartir !‖  Tout ira bien, Maria."
+6196|"...............Uu-.‖  ...Uu- !!‖  Uu-uu-uu- !!‖  Uu-uu-uu- !!"
+6199|Maria s'est mise à crier `uu-uu-'.
+6201|...On aurait dit qu'elle faisait un caprice parce que personne ne comprenait ce qu'elle essayait de dire.
+6205|Qu'est-ce que Maria essaie donc si désespérément de nous dire ?
+6207|Incapables de la comprendre, nous ne pouvions nous empêcher de ressentir un vague sentiment de malheur...
+6210|......J'ai entendu dire que tout le monde peut percevoir le surnaturel, mais que cette capacité s'affaiblit avec l'âge.
+6213|Ça voudrait peut-être dire que Maria, la plus jeune d'entre nous, possède encore une sorte de sens que nous autres avons perdu.
+6216|...Je me demande si ce sens lui envoie un avertissement.
+6221|À ce moment-là, Kumasawa-san a doucement pris la parole.
+6226|".........On raconte...
+6228|...qu'il y a bien longtemps, Rokkenjima était-"
+6233|"Kumasawa-san.‖  Ne parlons pas de ça maintenant."
+6236|Alors que Kumasawa-san s'apprêtait à raconter une histoire, Jessica l'a sèchement interrompue.
+6238|Le ton de Jessica était extrêmement ferme, pour elle.
+6241|J'avais envie d'insister, par simple curiosité, ‖mais vu la tête de Jessica, ce que Kumasawa baa-chan allait dire risquait d'inquiéter Maria encore plus.
+6244|...Si j'essayais de lui tirer l'histoire, il y avait de fortes chances que ce ne soit rien de joyeux.
+6250|"......Ho ho ho, je vous prie de m'en excuser...‖  ...Le vent d'ici est difficile à supporter pour les vieilles personnes, alors si vous voulez bien m'excuser..."
+6255|Les commères n'ont plus aucune raison de traîner une fois qu'on leur a demandé de se taire.
+6259|Quand Kumasawa-san a enfin compris qu'elle avait dépassé les bornes, elle est retournée à l'intérieur du bateau.
+6270|Après son départ, Oncle Hideyoshi est arrivé à sa place.
+6273|Comme il était arrivé en pleine conversation, il n'a pas du tout remarqué l'atmosphère pesante qui régnait,‖ si bien qu'il l'a balayée sans le savoir, avec une fraîcheur bienvenue.
+6276|Finalement, c'est son manque de tact qui a détendu l'ambiance.
+6281|"On dirait qu'on y est presque !‖  Allez, encore un petit effort !‖  Ça a pris une éternité, à la vitesse où on allait aujourd'hui, hein ?‖  Je me demande bien à qui la faute !‖  Wah ha ha ha ha ha !"
+6288|"Ohh, Oncle Hideyoshi, lâchez-moi un peu...  Ta ha ha !"
+6294|"Ah ha ha, allez, t'arrête pas en si bon chemin.‖  Sérieux, grâce à Battler, ça prend une éternité !"
+6300|".........Uu-."
+6302|Maria pensait sûrement que tout le monde refusait de l'écouter.
+6305|Elle a baissé la tête, l'air soucieux.
+6308|Alors George-aniki s'est accroupi pour se mettre à sa hauteur et lui a parlé gentiment.
+6314|"Maria-chan.‖  Il n'y a rien à craindre.‖  Parce qu'on est tous ensemble.‖  Il n'y a rien à craindre quand on est ensemble.‖  Vas-y, répète."
+6319|"............Uu-.‖  ...Il n'y a rien à craindre...quand on est ensemble..."
+6325|"Oui.‖  Il n'y a rien à craindre quand on est les uns avec les autres."
+6327|"............Uu-."
+6333|"C'est ça, exactement comme a dit George-aniki.‖  Si on reste ensemble, il n'y aura jamais rien à craindre.‖  Pas vrai, Jessica ?"
+6338|"Ouais, aucun doute là-dessus.‖  Ce que dit George nii-san est toujours vrai, Maria."
+6344|"......Uu-.‖  George onii-chan toujours vrai."
+6349|"Oui.‖  Je ne mens pas.‖  Alors fais-moi confiance.‖  Il n'y a rien à craindre quand on est tous ensemble."
+6354|"Uu-.‖  ......George onii-chan ne ment pas.‖  Je te fais confiance.‖  Il n'y a rien à craindre quand on est tous ensemble.‖  .........Uu-, pas peur !"
+6360|Maria s'est jetée dans les bras de George-aniki et l'a serré très fort.
+6366|Après qu'Aniki lui a caressé la tête, elle s'est écartée d'un bond.
+6369|Son expression avait changé du tout au tout, redevenue normale.
+6371|C'était de nouveau la Maria de tous les jours.
+6376|"Uu-.‖  Il n'y a plus rien à craindre, parce qu'on est ensemble.‖  ...Uu-uu-."
+6382|"Ouais, c'est ça.‖  ...T'as l'air d'aller beaucoup mieux maintenant.‖  T'es forte, c'est génial !"
+6387|"......Uu- !‖  Je suis géniale !"
+6393|"Hé, qu'est-ce qui se passe ici ?‖  Maria-chan n'a pas le mal de mer, au moins ?‖  Hmm ?"
+6399|"Ha ha ha, eh bien, quelque chose comme ça.‖  On va bientôt arriver."
+6402|Le port était déjà tout proche.

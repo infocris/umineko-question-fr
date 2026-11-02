@@ -1,0 +1,190 @@
+17245|"......Le Maître dit toujours que tout le monde a le droit d'essayer de résoudre l'énigme, même ceux qui ne font pas partie de sa famille.‖  ......Et vous, Docteur Nanjo ?"
+17249|"Non, non......  C'est une énigme un peu trop difficile pour le vieillard sénile que je suis.
+17253|  ......À vrai dire, j'ai un jour recopié cette épitaphe dans mon carnet.‖  Soir après soir, j'essayais de la résoudre avant de m'endormir, ‖......mais, ha ha ha, elle est vraiment ardue.‖  On dirait que nous aurons un peu de temps libre pour nous détendre et y réfléchir avant que quelqu'un vienne nous chercher.‖  Qu'en dites-vous, Genji-san ?"
+17257|".........Je ne suis rien de plus qu'un meuble au service du Maître.‖  L'or et les biens me sont inutiles."
+17261|"Eh bien, vous êtes fort modeste.‖  ...J'imagine que c'est pour cela que Kinzo-san vous fait tant confiance."
+17265|"Si c'est le cas, j'en suis honoré..."
+17269|Tout en riant doucement en réponse, Nanjo regarda de nouveau l'épitaphe.
+17273|"......Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.‖  Toi qui cherches la Terre dorée, descends son cours en quête de la clé..."
+17277|L'épitaphe du portrait intitulé Ma sorcière bien-aimée Beatrice dit ceci :
+17281|Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.
+17282|Toi qui cherches la Terre dorée, descends son cours en quête de la clé.
+17287|En la descendant, tu verras un village.
+17288|Dans ce village, cherche le rivage dont les deux te parleront.
+17289|Là dort la clé de la Terre dorée.
+17292|Celui qui obtiendra la clé devra alors se rendre à la Terre dorée en suivant ces règles.
+17305|Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.
+17306|Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.
+17307|Au troisième crépuscule, ceux qui restent loueront mon noble nom.
+17308|Au quatrième crépuscule, perce la tête et tue.
+17309|Au cinquième crépuscule, perce la poitrine et tue.
+17310|Au sixième crépuscule, perce le ventre et tue.
+17311|Au septième crépuscule, perce le genou et tue.
+17313|Au huitième crépuscule, perce la jambe et tue.
+17314|Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.
+17315|Au dixième crépuscule, au terme du voyage, tu atteindras le pouvoir des trésors de la Terre dorée, une fois et pour la dernière fois.
+17319|La sorcière louera le sage et lui accordera quatre trésors.
+17325|L'un sera tout l'or de la Terre dorée.
+17326|L'un sera la résurrection de toutes les âmes défuntes.
+17327|L'un sera la résurrection de l'amour perdu.
+17328|L'un sera d'endormir la sorcière pour l'éternité.
+17331|Dors en paix, ma sorcière bien-aimée, Beatrice.
+17381|"Donc... au dixième crépuscule, le voyage se termine, ‖et on atteint la Terre dorée.‖  T'es vraiment appliquée, Maria.‖  T'as bien fait de noter tout ça."
+17385|"Uu- !‖  J'oublie plein de choses, alors je note toujours tout !‖  C'est Maman qui l'a dit !"
+17387|Dans le sac à main que Maria trimballait partout, il y avait un carnet,‖ et l'épitaphe de Beatrice y était recopiée.
+17390|Grâce à ça, ‖on pouvait tous s'attaquer à l'énigme de l'épitaphe en nous promenant sur la plage.
+17393|Jessica et les autres avaient déjà essayé de la résoudre plusieurs fois...‖et ils s'en étaient déjà lassés.
+17397|Mais comme c'était une première pour moi, ‖j'étais tellement excité que je ne pouvais plus m'arrêter.‖  Ça titillait vraiment mon goût de l'aventure !
+17403|"Commençons par la première ligne.‖  Vois la rivière aux ayus qui traverse mon pays natal bien-aimé.‖  C'était où, déjà, le pays natal de Grand-père ?"
+17408|"J'ai entendu dire qu'avant la guerre, la famille Ushiromiya avait un manoir près d'Odawara.‖  Du coup, on a envie de savoir quelle rivière aux ayus traverse Odawara, pas vrai ?"
+17413|"Ouais, parce que cette rivière serait le point de départ.‖  Quiconque cherche la Terre dorée doit la descendre pour trouver la clé.‖  C'est quoi, cette rivière à Odawara ?‖  Il y a des ayus qui y nagent ?"
+17419|"Si tu cherches des ayus à Odawara, ce doit être la Hayakawa.‖  Elle est célèbre pour la pêche en torrent de montagne."
+17424|"Uu-.‖  J'aime pas le poissooon."
+17429|"Ihihi, Maria, tu comprendras quand tu seras un peu plus grande !‖  Slurp slurp slurp, de l'ayu grillé au sel !‖  Miam !‖  On vient juste de manger, mais j'ai de nouveau faim."
+17435|"...Euh, voulez-vous que je vous apporte un biscuit ?"
+17440|"Hein ?‖  Oh, désolé.  C'est pas ce que je voulais dire, fais pas attention !"
+17442|Shannon-chan nous tenait fidèlement compagnie, puisqu'elle n'avait pas de corvées pour un moment cet après-midi.
+17445|J'aurais pensé que, vu qu'elle est domestique, nous accompagner l'obligerait à s'occuper de nous et la fatiguerait, mais ça n'avait pas l'air d'être le cas.
+17447|...Au contraire, elle semblait contente de se joindre à une conversation avec des gens à peu près de son âge.
+17451|En lui posant la question, j'ai appris qu'elle faisait partie des employés logés et nourris par leur employeur.
+17452|Du coup, d'habitude, la seule personne de son âge ici, c'était Jessica.
+17455|Ouais, j'imagine que ça doit être plutôt morne.
+17461|"Bon, j'ai compris que la rivière pleine d'ayus près d'Odawara, c'est la Hayakawa.‖  Dans ce cas, faut la descendre !‖  Est-ce qu'on trouve quelque chose en descendant la Hayakawa ?"
+17466|"Euh,‖ .........si on suit son cours, on arrive à la mer."
+17471|"Évidemment, on arrive à l'embouchure !‖  Et la troisième ligne de l'épitaphe disait `En la descendant, tu verras un village.'‖  D'ailleurs, depuis toujours, les embouchures sont des points clés pour les transports, et les grandes villes ont tendance à s'y construire.‖  Ce serait le prochain point de passage."
+17477|"Hmmmmmm.‖  C'est une assez bonne théorie.‖  Comme tu l'as deviné, il y a là une vieille ville qui était très prospère autrefois.‖  C'est là que se trouve le château d'Odawara."
+17482|"Ah, je crois être allée au château d'Odawara une fois, en sortie scolaire.‖  C'était vraiment un château magnifique."
+17487|"Ouais, moi aussi j'y suis allée.‖  J'ai beau vivre dans une maison à l'occidentale, c'est vrai que les Japonais se sentent plus sereins dans un cadre japonais !"
+17492|"Uu-.‖  Les châteaux, c'est ennuyeux.‖  Les parcs d'attractions, c'est mieux.‖  Uu- !"
+17497|"D'accord, d'accord.  Bon !‖  Si on trouve l'or, le grand Battler-sama réservera généreusement un parc d'attractions entier pour une journée, rien que pour que tu y joues !
+17502|  .........N'empêche, le château d'Odawara, hein ?‖  L'or caché du château d'Odawara...‖  Oh oh ?!‖  Ça commence à sonner plutôt bien, en fait !"
+17508|"Ha ha ha ha ha !‖  Bah, ça, on l'avait déjà trouvé il y a deux ans.‖  Le village en aval de la rivière où nagent les ayus, à Odawara.‖  On s'était dit que ce devait être quelque part près du château d'Odawara.‖  Le problème, c'est la ligne suivante.‖  Allez, voyons jusqu'où les raisonnements tordus de Battler vont le mener."
+17511|Jessica a affiché un grand sourire.
+17512|Elle avait l'air de sous-entendre qu'elle aurait résolu l'énigme depuis longtemps si c'était aussi facile.
+17515|...Bon sang,‖ je vais le trouver, c'est sûr, et je garderai tout pour moi !
+17521|"La quatrième ligne.‖  ...Dans ce village, cherche le rivage dont les deux te parleront.‖  .........Je sais pas ce qu'ils veulent dire par `les deux', mais bref, le rivage...‖  ......Qu'est-ce que ça veut dire, le rivage ?!‖  Non, attends,
+17522| ...est-ce qu'il y a un endroit dans le coin avec `rivage' ou 岸 (kishi) dans son nom ?"
+17527|"Euh,‖ ...j'ai entendu dire qu'il y a un endroit appelé Sogakishi à Odawara."
+17532|"Hein ?!‖  Ouah, ‖tu t'y connais drôlement !
+17537|  Hé hé, qu'est-ce que ça veut dire ?‖  Shannon-chan, toi aussi tu essaies de résoudre l'énigme pour avoir l'or ?‖  Ça fait de nous des rivaux !"
+17541|"C-Ce n'est pas que l'or m'intéresse...‖  C'est juste que... George-sama m'en a parlé avant..."
+17546|"C'est parce qu'on était arrivés à la même conclusion il y a deux ans.‖  On s'était même donné la peine de déplier une carte pour chercher !"
+17551|"C'était à environ cinq kilomètres au nord d'Odawara.‖  On a bien trouvé un endroit appelé Sogakishi là-bas.
+17556|  ...Mais après ça, on est bloqués.‖  La cinquième ligne ne dit pas où la clé est cachée à cet endroit.‖  Maria-chan, tu pourrais nous la lire ?"
+17563|"...Uu-.‖  ......Là dort la...
+17564|clé de la...
+17565|Terre dorée.
+17569|  Uu- !‖  J'ai réussi à lire !"
+17574|"Sogakishi, c'est sûrement grand, et la famille Ushiromiya n'y a jamais construit de maison.‖  Pas grand-chose à faire pour trouver une clé dans un endroit aussi vaste sans le moindre indice."
+17579|"T'as raison.‖  ...Et sans la clé, on peut pas passer à la ligne suivante.‖  George-aniki, c'est quel genre d'endroit, Sogakishi ?"
+17585|"Voyons voir...‖  Je n'y suis jamais allé, donc je ne sais pas trop, mais d'après la carte, c'est dans les montagnes.‖  Je suis presque sûr que c'était au pied du mont Asama."
+17590|"......Hmmmm.‖  Y a un truc qui cloche.‖  On s'attendrait à ce qu'une énigme qui indique le chemin vers de l'or caché soit un peu plus précise.‖  J'ai l'impression que même le coup de Sogakishi était une erreur."
+17596|"Bah, je pense que ça pourrait être Sogakishi.‖  Ça pourrait parler d'une maison où Grand-père a vécu enfant et dont on sait rien.‖  Après tout, la première ligne parle de son pays natal bien-aimé.‖  ...Shannon, tu as servi de l'alcool et tout ça à Grand-père des tas de fois, non ?‖  Il t'a jamais parlé de son passé ?"
+17602|"...Le Maître ne parle presque jamais du passé.‖  ...Cependant, il évoque le grand tremblement de terre du Kanto comme s'il s'agissait de l'histoire de quelqu'un d'autre, ‖il vivait donc peut-être loin de la région du Kanto."
+17607|"La famille Ushiromiya vivait peut-être à Odawara, mais pas toutes les branches cadettes.‖  Grand-père se décrivait souvent comme membre de la branche d'une branche cadette, ‖la plus éloignée de la succession."
+17613|"Et ça veut dire...‖que le pays natal bien-aimé pourrait même ne pas être Odawara du tout... !"
+17619|"J'ai jamais rien entendu sur le pays natal de Grand-père.‖  Et je doute qu'il me le dise si je lui demandais."
+17624|"Si ce fameux pays natal bien-aimé ne désigne pas les origines de la famille Ushiromiya, alors la théorie d'Odawara est fausse dès le départ.‖  Bien sûr, ça n'exclut pas complètement la possibilité que ce soit Sogakishi.‖  Par exemple, il a peut-être vécu à Odawara tout petit, avant de déménager loin par la suite."
+17630|"Uu-...‖  Je comprends pas de quoi vous parlez tous.‖  Uu-."
+17631|Maria avait été complètement laissée de côté dans la conversation, et elle restait assise à gonfler les joues d'ennui.
+17636|"Donc, en gros, ‖si on arrive même pas à se mettre d'accord sur la case départ de ce jeu de l'oie de l'or, on est complètement coincés.
+17641|  .........Mais attendez...‖  Après les cinq premières lignes, ce qu'on finit par trouver, c'est une clé, non ?‖  Même sans clé, on peut toujours enfoncer une porte.‖  On peut pas juste sauter les cinq premières lignes et commencer à réfléchir à la suite ?"
+17646|"Oh...‖  J'y avais pas pensé.
+17651|  Bah, de toute façon on perd notre temps.‖  Écoutons la suite du raisonnement de Battler !"
+17657|"...Mais dans la suite, ça devient très vite sinistre..."
+17659|Shannon-chan a légèrement froncé les sourcils.
+17662|Après avoir rejeté un œil au carnet de Maria pour me rappeler ce qui y était écrit,‖ ...ouais, j'ai bien été obligé d'être d'accord.
+17668|"Au premier crépuscule, offre en sacrifice les six que la clé aura choisis...‖  Ça devient horrible drôlement vite."
+17671|"Au deuxième crépuscule, il est dit de déchirer les deux qui sont proches.‖  Ça veut dire les forcer à rompre leur relation amoureuse ?‖  Ou ça veut dire les déchirer, au sens propre ?‖  J'en sais rien, mais dans les deux cas, c'est assez dégoûtant."
+17677|"Même si on met de côté cette deuxième ligne, elle parle de 6 personnes au premier crépuscule, ‖puis de 5 personnes du quatrième au huitième crépuscule,‖ donc au moins 11 personnes doivent être sacrifiées."
+17681|"Uu-.‖  Ce sont des sacrifices pour faire revivre Beatrice !"
+17687|"...Je vois, des sacrifices pour ramener la sorcière...‖  Ouais, ça doit être ça.‖  Vers la fin, la sorcière ressuscite au neuvième crépuscule...‖  ...Ça, au moins, c'est garanti."
+17693|".........Au neuvième crépuscule, la sorcière ressuscitera, et nul ne restera en vie.‖  ...Donc tout le monde finira par mourir."
+17698|"Et après ça, le dixième crépuscule, c'est la ligne d'arrivée.‖  Je vois pas trop comment on est censé atteindre la Terre dorée si tout le monde est mort d'ici là."
+17704|"...Selon l'interprétation, le voyageur qui détient la clé est peut-être inclus dans le `nul ne restera en vie', ou peut-être pas."
+17710|"Mais à la fin, il y a un truc assez intéressant.‖  Après avoir atteint le but,‖ la sorcière distribue quatre trésors.‖  L'un sera tout l'or.‖  Le problème, c'est le suivant.‖  Il est dit que les âmes défuntes ressusciteront, pas vrai ?‖  On dirait pas que ça désigne tous ceux qui sont morts dans les lignes précédentes ?"
+17715|"......Dit comme ça, le passage sur la résurrection de l'amour perdu désigne peut-être le couple déchiré au deuxième crépuscule."
+17720|"C'est ça.‖  Et le quatrième renvoie au neuvième crépuscule.‖ Le quatrième trésor consiste à endormir la sorcière ressuscitée au neuvième crépuscule."
+17726|"Si on voit tout ça du bon côté,‖ ça va être la pagaille avec des gens qui meurent et qui rompent dans tous les sens, mais tout finira par rentrer dans l'ordre.‖  La sorcière réveillée se rendormira, ...et tout redeviendra comme au début, sauf qu'il y aura une énorme pile d'or en plus."
+17731|"La sorcière doit être drôlement occupée, à tuer, ressusciter, séparer et réunir les gens."
+17736|"Sans parler de se réveiller et de se rendormir.‖  Ha ha ha ha ha."
+17741|"Bon sang, juste au moment où l'histoire de l'or caché devenait intéressante, tout devient franchement douteux dès que la sorcière se pointe."
+17744|"Trop vrai.  Ah ha ha ha ha ha ha !"
+17747|J'ai ri avec Jessica.
+17748|Après tout, l'idée d'une sorcière était vraiment trop ridicule.
+17751|...Évidemment, dès qu'on s'est mis à rire comme ça, Maria, qui croyait à la sorcière, s'est fâchée.
+17757|"Uu- !‖  La sorcière est incroyable !‖  Elle peut tout faire avec la magie !‖  Même tuer.‖  Même ramener à la vie.‖  Même donner l'amour, même le reprendre.
+17761|  Elle peut voler dans le ciel, devenir invisible, elle peut même faire de l'or et du pain à partir de rien !‖  Uu- !‖  Uu- !‖  Uu-uu-uu- !!"
+17766|"Oups, mince...‖  Pardon, ...on faisait que plaisanter !"
+17768|Jessica s'est excusée en tirant la langue, mais Maria ne l'a pas accepté.
+17771|Elle m'a repris son carnet des mains et, en l'ouvrant à d'autres pages, elle a essayé de prouver que la sorcière existait.
+17776|Ces pages étaient couvertes de dessins colorés de sorcières...‖et traduisaient bien l'image merveilleuse que Maria se faisait des sorcières.
+17778|Ce n'était pas l'image sinistre habituelle d'une vieille au nez crochu qui vole sur un balai,‖ mais une personne de rêve aux pouvoirs surnaturels, capable de tout, et vêtue d'une belle robe.‖  C'était bien ce qu'on pouvait attendre d'une petite fille pleine d'imagination.
+17780|Voleter dans le ciel, franchir un arc-en-ciel, ‖danser toute la nuit avec une tasse et une théière qui ne se vide jamais, peu importe combien on en verse.
+17783|D'un geste de son bâton, les étoiles du ciel se changeraient en bonbons et pleuvraient,‖ et des fleurs qui donnent des friandises bourgeonneraient au bord des chemins.
+17787|......Pour Maria, les sorcières étaient le seul concept capable d'incarner le rêve magique qui la captivait tant.
+17790|À mesure qu'elle grandissait, c'était la dernière chose qui pouvait encore enrichir son quotidien terne et ordinaire.
+17793|C'est pour ça que Maria croyait aux sorcières.
+17796|Elle ne voulait pas que ce rêve soit terni.
+17797|C'est pour ça qu'elle ne voulait pas que qui que ce soit ternisse l'épitaphe, qui affirmait l'existence des sorcières.
+17800|Parce que la sorcière nommée Beatrice, c'est le rêve de Maria...
+17808|"Pour Maria-chan, l'épitaphe n'est pas un guide vers l'or caché, ‖mais une magie pour faire revivre la sorcière."
+17811|C'était donc le seul lien entre Maria et la sorcière.
+17814|Maria était très en colère et s'est agrippée à George-aniki.
+17820|Jessica et moi, on s'est gratté la tête en nous excusant.
+17823|...Ça ne serait peut-être pas aussi facile d'arranger les choses que la fois où elle s'était fâchée devant le portrait.
+17826|Maria ne semblait pas prête à se laisser consoler facilement.
+17827|Contrairement à Jessica et moi, qui baissions la tête sans savoir quoi faire, Shannon-chan a timidement pris la parole.
+17833|"Euh,
+17834| .........Maria-sama, vous saviez... ?‖  Il existe une histoire de fantôme sur Beatrice qui se transmet parmi les domestiques."
+17838|"......Uu- ?"
+17843|"A-Ah, ouais, c'est vrai !‖  Shannon, raconte-nous ça.‖  Je la connais pas trop, mais apparemment elle est assez célèbre chez les domestiques."
+17849|"C'est quoi, ça ?‖  Une histoire de fantôme ?"
+17855|"Oui.‖  On dirait que c'est une histoire d'avant notre naissance.‖  Moi aussi, je l'ai entendue de ma mère."
+17861|"...Oui.‖  Elle se transmet depuis l'époque de la construction du manoir.‖  ...Les domestiques de l'époque murmuraient que le manoir avait deux Maîtres, l'un du Jour et l'autre de la Nuit."
+17865|L'histoire que Shannon a racontée ressemblait tout à fait à une histoire de fantôme typique qu'on raconte autour d'un feu de camp.
+17867|S'il y avait une forêt avec une sorcière qui y vivait,‖ ...alors forcément, la sorcière venait rendre visite au manoir de temps en temps.
+17870|À un moment donné, cette histoire de fantôme avait tout naturellement germé parmi les domestiques.
+17874|"Quand on refait une seconde ronde pour vérifier des portes, des fenêtres et des serrures censées être fermées, on en trouve certaines restées ouvertes.‖  Des lumières censées être éteintes sont allumées,‖ et des lumières censées être allumées se sont éteintes.‖  Des objets laissés traîner disparaissent,‖ et des objets apparaissent sans que personne se souvienne de les avoir posés là.‖  Quand l'une de ces choses arrivait, les anciens domestiques disaient que la sorcière avait visité le manoir, invisible, et qu'elle jouait des tours."
+17880|"Uu- !‖  Tu vois, elle existe !‖  Beatrice existe !!"
+17884|"Ouais, elle existe.‖  Autrefois, c'était toujours juste avant de partir à l'école que j'arrivais pas à trouver mon sac, ce genre de trucs..."
+17887|Maria a bombé le torse avec un `uu-uu-', comme si c'était la preuve définitive de l'existence de la sorcière.
+17890|Si j'ouvrais la bouche, Maria serait sûrement encore blessée, alors je me suis tu.
+17894|...Enfin, ce genre d'histoire, on l'entend partout.
+17898|Selon les endroits, on en rejette la faute sur un nain ou un elfe.
+17899|La seule différence, c'est que sur cette île, on appelle ça une sorcière.
+17901|Bien sûr, se promener la nuit dans un manoir vaste et élégant, ça doit être un peu inquiétant.
+17905|C'est une île dépourvue d'habitants.
+17906|Comme le manoir est plein de courants d'air, s'y promener un soir d'orage doit vraiment être sinistre.
+17912|"En plus, certains domestiques ont aussi vu des feux follets et des papillons scintillants danser.‖  ...Kanon-kun a lui aussi vu quelque chose de ce genre un soir où il faisait sa ronde.‖  Et ces derniers temps, on entend souvent les domestiques parler de bruits de pas étranges dans le manoir aux alentours de minuit.‖  Nous nous sommes chuchoté que la Beatrice-sama du portrait se rend parfois invisible pour se promener dans le manoir.‖  ...C'était il y a un moment,‖ mais même moi, j'ai entendu en faisant ma ronde de nuit des bruits de pas qui ressemblaient à ces histoires."
+17917|"......Ouf.‖  Ça fait peur..."
+17922|"Ah,‖ ...mais il n'y a rien à craindre.‖  Beatrice-sama est une autre souveraine de ce manoir, distincte du Maître.‖  Il n'y a donc aucune raison d'en avoir une peur excessive.  Si on la respecte, on dit qu'elle ne fait rien de mal."
+17928|"Par contre, elle peut être assez terrifiante si on ne la respecte pas, n'est-ce pas ?"
+17934|"...C'est exact.‖  J'ai entendu dire que, juste avant que je commence à travailler ici, ‖quelqu'un qui avait dit du mal de Beatrice-sama est tombé dans l'escalier et a démissionné après s'être gravement blessé au dos.‖  À cause de ça, une rumeur a couru parmi les domestiques selon laquelle la colère de Beatrice-sama s'était abattue sur cette personne..."
+17940|"Uu-...‖  La colère va forcément s'abattre sur Battler et Jessica...‖  Uu-..."
+17944|"P-P-Pardon !‖  Je veux pas que sa colère s'abatte sur moi !‖  Je m'excuse, Maria.‖  Et bien sûr, je m'excuse aussi auprès de la sorcière.‖  Pardon, Beatrice-sama.  Veuillez pardonner les bêtises d'un étranger."
+17952|"Je m'excuse aussi.‖  Pardon, Beatrice-sama.‖  .........Est-ce que la sorcière va pouvoir nous pardonner, maintenant ?"
+17957|"...Uu-.‖  Sais pas.‖  Les sorcières sont capricieuses, alors elles pardonnent quand elles veulent, et pas quand elles veulent pas.‖  Uu-
+17964|"Ça ne va pas, ça...
+17969|  Maria-chan, il n'y aurait pas une sorte de porte-bonheur qui pourrait protéger Battler-kun et Jessica-chan de la colère de Beatrice-sama ?‖  Peut-être quelque chose qui bloque la magie ?"
+17971|En s'en remettant à Maria, qui était fière d'être celle qui en savait le plus sur les sorcières, George essayait de lui redonner confiance en elle.
+17974|...Encore une fois, j'ai dû admirer son talent pour calmer les enfants.
+17979|Après avoir pris un moment pour croiser les bras et réfléchir sérieusement à un porte-bonheur qui pourrait nous sauver,‖ elle s'est mise à feuilleter son carnet.
+17981|Je croyais que c'était juste un journal griffonné, ‖......mais il y avait aussi pas mal de pages qui semblaient tout droit sorties d'un livre de magie noire.
+17984|Maria examinait gravement une série de ces pages, qui contenaient des choses ressemblant à des cercles magiques.
+17987|.........Apparemment, Grand-père n'était pas le seul à avoir la magie noire pour passe-temps.
+17991|Quand Maria a enfin trouvé ce qu'elle cherchait, ‖elle a refermé le carnet d'un coup sec et l'a jeté dans son sac à main.  Puis elle s'est mise à fouiller dedans.
+17994|On aurait dit qu'il y avait tout un fouillis de choses là-dedans.
+17997|Pendant un moment, elle a sorti divers bric-à-brac (même si c'étaient sûrement de précieux objets magiques pour Maria)‖et les a remis dedans à plusieurs reprises en disant que ce n'étaient pas les bons.
+18000|C'était un peu comique, comme quand Dora○mon sort le mauvais gadget.
+18003|Finalement, elle a semblé trouver ce qu'elle cherchait.
+18009|Avec une mine incroyablement joyeuse comparée à l'expression intense qu'elle avait jusque-là, elle nous a tendu `ces trucs', à Jessica et moi.
+18013|"Uu- !"
+18017|Je l'ai pris... et j'ai vu que c'était un porte-bonheur qui avait l'air très bon marché.
+18020|On aurait dit un bracelet fait d'un chapelet en plastique, ‖...avec une médaille sur le thème du scorpion accrochée dessus.
+18023|Vous avez déjà vu ces accessoires bon marché sur le thème du zodiaque ?
+18024|Le genre qu'on gagne aux machines à pinces dans les salles d'arcade.
+18027|Ça ressemblait vraiment à un truc comme ça.
+18030|Il y en avait deux.
+18031|Sûrement un pour moi et un pour Jessica.
+18034|...Mais le simple fait qu'il y en ait deux leur donnait encore plus l'air d'objets bon marché fabriqués en série,‖ ce qui rendait assez difficile de les voir comme des objets magiques.

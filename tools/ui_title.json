@@ -1,0 +1,170 @@
+{
+ "bmp/title/title_menu/ep1.png": {
+  "en": "Episode 1",
+  "fr": "Épisode 1"
+ },
+ "bmp/title/title_menu/ep1_tea.png": {
+  "en": "Ep1 Tea Party",
+  "fr": "Ép1 Tea Party"
+ },
+ "bmp/title/title_menu/ep1_tips.png": {
+  "en": "Ep1 Tips",
+  "fr": "Ép1 Infos"
+ },
+ "bmp/title/title_menu/ep1_ura_tea.png": {
+  "en": "Ep1 ????",
+  "fr": "Ép1 ????"
+ },
+ "bmp/title/title_menu/ep2.png": {
+  "en": "Episode 2",
+  "fr": "Épisode 2"
+ },
+ "bmp/title/title_menu/ep2_tea.png": {
+  "en": "Ep2 Tea Party",
+  "fr": "Ép2 Tea Party"
+ },
+ "bmp/title/title_menu/ep2_tips.png": {
+  "en": "Ep2 Tips",
+  "fr": "Ép2 Infos"
+ },
+ "bmp/title/title_menu/ep2_ura_tea.png": {
+  "en": "Ep2 ????",
+  "fr": "Ép2 ????"
+ },
+ "bmp/title/title_menu/ep3.png": {
+  "en": "Episode 3",
+  "fr": "Épisode 3"
+ },
+ "bmp/title/title_menu/ep3_tea.png": {
+  "en": "Ep3 Tea Party",
+  "fr": "Ép3 Tea Party"
+ },
+ "bmp/title/title_menu/ep3_tips.png": {
+  "en": "Ep3 Tips",
+  "fr": "Ép3 Infos"
+ },
+ "bmp/title/title_menu/ep3_ura_tea.png": {
+  "en": "Ep3 ????",
+  "fr": "Ép3 ????"
+ },
+ "bmp/title/title_menu/ep4.png": {
+  "en": "Episode 4",
+  "fr": "Épisode 4"
+ },
+ "bmp/title/title_menu/ep4_tea.png": {
+  "en": "Ep4 Tea Party",
+  "fr": "Ép4 Tea Party"
+ },
+ "bmp/title/title_menu/ep4_tips.png": {
+  "en": "Ep4 Tips",
+  "fr": "Ép4 Infos"
+ },
+ "bmp/title/title_menu/ep4_ura_tea.png": {
+  "en": "Ep4 ????",
+  "fr": "Ép4 ????"
+ },
+ "bmp/title/title_menu/ep2_1.png": {
+  "en": "Episode 2",
+  "fr": "Épisode 2"
+ },
+ "bmp/title/title_menu/ep2_2.png": {
+  "en": "Episode 2",
+  "fr": "Épisode 2"
+ },
+ "bmp/title/title_menu/ep3_1.png": {
+  "en": "Episode 3",
+  "fr": "Épisode 3"
+ },
+ "bmp/title/title_menu/ep3_2.png": {
+  "en": "Episode 3",
+  "fr": "Épisode 3"
+ },
+ "bmp/title/title_menu/ep4_1.png": {
+  "en": "Episode 4",
+  "fr": "Épisode 4"
+ },
+ "bmp/title/title_menu/ep4_2.png": {
+  "en": "Episode 4",
+  "fr": "Épisode 4"
+ },
+ "bmp/title/title_menu/exit1.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/title/title_menu/exit2.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/title/title_menu/exit3.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/title/title_menu/exit4.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/title/title_menu/exit5.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/title/title_menu/load.png": {
+  "en": "Load",
+  "fr": "Charger"
+ },
+ "bmp/title/title_menu/music.png": {
+  "en": "Music Box",
+  "fr": "Boîte à musique"
+ },
+ "bmp/title/title_menu/new_music.png": {
+  "en": "Music Box",
+  "fr": "Boîte à musique"
+ },
+ "bmp/title/title_menu/start.png": {
+  "en": "Start",
+  "fr": "Commencer"
+ },
+ "bmp/title/title_menu/new_start.png": {
+  "en": "Start",
+  "fr": "Commencer"
+ },
+ "bmp/title/title_menu/tips.png": {
+  "en": "Tips",
+  "fr": "Infos"
+ },
+ "bmp/title/title_menu/new_tips.png": {
+  "en": "Tips",
+  "fr": "Infos"
+ },
+ "bmp/title/title_menu/unlock.png": {
+  "en": "Unlock",
+  "fr": "Débloquer"
+ },
+ "bmp/title/title_menu/web.png": {
+  "en": "Controls",
+  "fr": "Commandes"
+ },
+ "bmp/system/exit.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/system/load.png": {
+  "en": "Load",
+  "fr": "Charger"
+ },
+ "bmp/system/save.png": {
+  "en": "Save",
+  "fr": "Sauver"
+ },
+ "bmp/system/exit_b.png": {
+  "en": "Exit",
+  "fr": "Quitter"
+ },
+ "bmp/system/load_b.png": {
+  "en": "Load",
+  "fr": "Charger"
+ },
+ "bmp/system/save_b.png": {
+  "en": "Save",
+  "fr": "Sauver"
+ }
+}

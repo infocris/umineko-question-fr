@@ -1,0 +1,150 @@
+103487|"Les esprits maléfiques d'Akujikishima se sont éveillés de leur sommeil et ont invoqué Beatrice-sama.‖  ......Si jamais Beatrice-sama venait à rendre visite à la conférence familiale..."
+103493|"Si elle venait... ?"
+103498|Kumasawa se tut un instant.
+103499|...Jessica la pressait de continuer, si bien que ce silence parut étrange, inquiétant.
+103502|Quand Kumasawa s'aperçut que son silence avait bel et bien effrayé Jessica, elle eut un large sourire.
+103510|"Ma foi, je me demande bien ce qui arriverait.‖  Ho ho ho ho ho..."
+103530|"Ouah, ça a l'air génial."
+103534|"Bien sûr.‖  Tu ne serais pas plus efficace au travail... si tu t'accordais de temps en temps l'occasion d'enrichir ton cœur en profitant de la belle vie... ?"
+103542|"Ouais.‖  On peut pas vivre correctement si on n'a pas le portefeuille et le cœur bien remplis, pas vrai ?‖  D'accord, je garde ce jour-là libre.‖  Vas-y, fais les réservations."
+103544|"Entendu.‖  Pas question que tu te défiles."
+103546|"Ouais, je compte sur toi.‖  Je t'aime, Kyrie."
+103559|Après avoir embrassé le combiné, Rudolf raccrocha.
+103562|...Devant son bureau se tenaient plusieurs cadres aux manches retroussées, qui attendaient avec impatience la fin de cet appel.
+103571|"Désolé de vous avoir fait attendre.‖  On a des nouvelles des États-Unis ?"
+103573|"Oui.‖  Vous avez un appel de Dale Watanabe, l'avocat.‖  Je vous le transfère."
+103582|"...Dans l'ensemble, ça se présente comment ?"
+103584|"Eh bien, euh..., ...il semble qu'il y ait un point fâcheux.‖  La partie adverse n'aurait aucune intention de renoncer au procès."
+103594|"...On dirait qu'on ne les roulera pas si facilement.‖  Ha ha...‖  Transférez-le-moi, s'il vous plaît."
+103596|"Entendu.‖  Je m'en occupe tout de suite."
+103597|Le cadre ordonna que la ligne extérieure soit transférée au secrétariat.‖  Aussitôt, le téléphone devant Rudolf sonna.
+103607|"Salut.‖  <Hello, hello> !‖  Désolé pour l'attente, Ushiromiya à l'appareil.‖  Merci, merci.‖  Comment ça se passe de votre côté ?"
+103609|"<Hello, President Ushiromiya>.‖  Passons les politesses et entrons dans le vif du sujet.‖  J'ai une bonne et une mauvaise nouvelle, laquelle voulez-vous en premier ?"
+103613|"...Autant commencer par la mauvaise.‖  J'ai horreur de me battre quand il n'y a pas de dessert à la fin."
+103617|"Très bien.
+103620|  La mauvaise nouvelle, c'est que la partie adverse se prépare à engager des poursuites.‖  Il y a quelques jours à peine, un procès similaire s'est conclu en faveur du plaignant.‖  Les défendeurs avançaient à peu près les mêmes arguments que ceux que nous comptions utiliser, et ils ont été rejetés sur toute la ligne.‖  Je suis navré de vous le dire, mais si nous allons au tribunal en l'état, il est extrêmement probable que chacune de nos prétentions soit rejetée."
+103626|"...Donc ce procès-là a fini en fiasco total, finalement.‖  ...Et moi qui croyais que leur position était encore plus solide que la nôtre.‖  Ça fait mal.‖  Bon, et la bonne nouvelle ?"
+103630|"J'ai réussi à contacter les dirigeants de la partie adverse.‖  Je leur ai expliqué notre situation, je leur ai dit que nous n'avions aucune intention de ternir l'image de leur marque, et j'ai réussi à obtenir une certaine compréhension.‖  Ils nous enverront leurs conditions dans les prochains jours, et si elles sont remplies, ils promettent de retirer leur plainte.‖  C'est la proposition du numéro deux de leur conseil d'administration."
+103634|"Votre impression ?"
+103638|"Pour être franc, je m'attends à des conditions extrêmement sévères.‖  Selon nous, changer le nom de la société et celui de la marque sera inévitable.‖  Je pense que nous pourrons gagner un peu de marge en jouant sur le montant de l'indemnité transactionnelle, en publiant des excuses publiques dans un grand journal, ‖et en menant tout cela à bien dans un délai raisonnable."
+103642|"Ils se compliquent bien la vie, alors qu'ils pourraient simplement nous dire de faire faillite."
+103646|"Ils viennent tout juste de changer de président, et leurs bases ne sont pas encore totalement consolidées.‖  Si nous résistons jusqu'au bout, ils craignent que les forces opposées au président actuel n'hésitent pas à prêter main-forte à leurs ennemis.‖  C'est pourquoi leurs pontes veulent, eux aussi, régler cette affaire au plus vite.‖  Nous aurions donc encore une marge suffisante pour leur faire adoucir leurs conditions, si cela permet un règlement rapide."
+103655|"Dans tous les cas, on parle toujours d'une somme délirante ?"
+103657|"Il faut vous y préparer.‖  Même ainsi, ce serait bien moins cher que de payer des dommages et intérêts punitifs."
+103661|"Merci infiniment, maître.‖  Contactez-moi s'il y a du nouveau.‖  On vous paie une fortune, alors pas de bavardages inutiles.‖  Ha ha ha ha.‖  <Thank you, thank you, goodbye.>"
+103668|Rudolf raccrocha.
+103671|Les cadres assis dans les fauteuils de réception semblaient avoir deviné la teneur de cette conversation.
+103681|"...Vous avez entendu ?‖  Pour faire simple,‖ ils nous pardonneront si on arrive à aligner assez d'argent.‖  Maintenant, il ne nous reste plus qu'à marchander le montant."
+103683|"Mais, monsieur le Président,‖ la somme que M. Watanabe a laissé entendre pour la transaction est bien trop élevée.‖  Nous n'avons pas une telle marge... !"
+103693|"Si on avait su que ça arriverait, on ne se serait jamais diversifiés..."
+103695|"D'après nos calculs, nous pouvions échapper à la crise de trésorerie si nous tenions trois ans.‖  ...Et voilà qu'on nous poignarde à un moment pareil...  Comment peut-on avoir aussi peu de chance... ?!"
+103700|"On s'est vautrés sur le `pas' du `saut, pas, bond', faut croire.‖  Y a de quoi pleurer."
+103704|"Nous n'avons pas d'autre choix que de puiser auprès de notre banque principale."
+103713|"Les banques, c'est pas une solution.‖  Elles ne misent que sur les gagnants.‖  ...L'économie va mieux, mais on ne peut pas montrer de faiblesse aux banques."
+103715|"...Monsieur le Président,‖ avons-nous accès à des fonds qui n'apparaissent pas dans les comptes ?‖  Des fonds dont nous ignorerions l'existence ?"
+103728|"Arrêtez.‖  J'ai l'air d'être ce genre d'homme ?‖  Le contenu de mon portefeuille, vous le connaissez par cœur, d'accord ?‖  Les livres de comptes, là-bas, montrent tout ce que possède la société."
+103730|"Dans ce cas, ...il faut lever des fonds.‖  Il nous faut au plus vite un bailleur capable de nous apporter plusieurs millions."
+103731|"...Monsieur le Président,‖ ne pourriez-vous pas arranger quelque chose grâce à l'une de vos relations personnelles... ?!"
+103739|"Monsieur le Président !‖  Monsieur le Président... !"
+103748|"...Aaaah, du calme, bande d'abrutis.‖  ...Laissez-moi m'occuper de trouver l'argent.‖  Vous, contentez-vous de faire tourner la boîte sans faire trop de bruit.‖  Nos accusateurs disent qu'ils nous ficheront la paix si on leur montre l'argent.‖  On a déjà de solides filières en Asie.‖  Ça va sûrement tanguer, mais on pourra maintenir nos contrats actuels.‖  En gros, si on arrive juste à réunir l'argent, tous nos problèmes seront réglés."
+103753|"Vous allez voir.  Je vais arranger tout ça.‖  Je ne vous laisserai pas tomber.‖  Il est temps de reprendre espoir.‖  Une fois tout ça derrière nous, je vous récompenserai tous avec une pyramide de champagne.‖  Je vous le promets.‖  Alors fermez-la et suivez-moi.‖  C'est compris ?!!"
+103767|L'avion fut soudain secoué, sans doute par des turbulences.
+103771|Rudolf fut tiré brusquement de son sommeil.
+103772|Il s'était levé tôt ce matin-là et avait fini par s'assoupir en se reposant dans son siège.
+103780|"...Ça va ?‖  Tu es sûr de ne pas avoir encore sommeil ?‖  Tu as l'air d'être vraiment débordé par le travail, ces derniers temps."
+103786|"Être débordé par le travail, y a pas de quoi s'en plaindre, pas vrai ?‖  Le jour où j'aurai plus rien à faire, on se retrouvera vite à la rue."
+103793|"Bien vu.‖  Maintenant que même Battler-kun est revenu, ce ne serait plus seulement nous deux qui devrions aller mendier."
+103800|"...Ouais.‖  Notre famille est de nouveau réunie pour la première fois en six ans.‖  ...Alors le chef de famille doit donner le meilleur de lui-même si on veut passer un peu de temps ensemble..."
+103805|En regardant par le hublot, il vit que l'avion avait déjà considérablement perdu de l'altitude.
+103806|Les bateaux de pêche, qui ne ressemblaient tout à l'heure qu'à des grains noirs, devenaient nettement reconnaissables.
+103812|"......Si je pouvais me prosterner devant Père et toucher 10 millions de yens à chaque coup de poing qu'il me donne, je le ferais une douzaine de fois...‖  Ou alors il pourrait aussi bien crever, tout simplement.‖  ......J'ai toujours dépendu de son soutien financier, et maintenant c'est son héritage que je convoite.‖  .........Je file tout droit en enfer.‖  ...Je peux difficilement me plaindre si Père ne veut pas voir l'homme que je suis devenu..."
+103836|"...Se pourrait-il que, cette fois encore, vous ne comptiez pas faire votre apparition à la conférence familiale ?"
+103841|Nanjo regarda le visage de Kinzo en soupirant.
+103842|...Les yeux de Kinzo restaient rivés sur un étrange grimoire.
+103849|"Je n'ai aucune intention de me joindre aux débats de ces vautours.‖  Qu'ils discutent entre eux de la façon dont ils suceront la moelle de mes os.‖  ...Quelle engeance méprisable."
+103855|".........‖...Allons, allons.‖  Quel tracas..."
+103859|Nanjo secoua légèrement la tête.
+103863|...Pour lui, enfants et petits-enfants étaient des êtres charmants.
+103864|Il croyait que les regarder grandir était la seule façon de vraiment savourer la vieillesse.
+103867|Aussi les paroles de Kinzo attristaient-elles profondément Nanjo.
+103872|"Quand viendra le moment pour moi de quitter cette pièce, je me montrerai.‖  ...Tout comme elle ne se montre pas encore."
+103879|Quand Kinzo leva le visage, son regard se porta sur le portrait de la sorcière, respectueusement exposé au mur...
+103886|"............"
+103893|L'esprit de Kinzo ne s'attarda pas un instant sur le fait que c'était aujourd'hui la conférence familiale, où se réuniraient tous ses chers parents.
+103894|...Il n'était empli que du visage de la sorcière de la peinture à l'huile, qui ne souriait jamais, sinon à l'intérieur du portrait...
+103897|Tout le monde savait qu'interrompre Kinzo quand il parlait de Beatrice déchaînait sa colère...
+103905|"Aujourd'hui, je vais...célébrer une certaine cérémonie."
+103911|"Oh ?‖  ...Et de quoi s'agit-il ?"
+103917|"...C'est peut-être plus un pari qu'une cérémonie.‖  ...Après tout, une magie sans risque ne saurait jamais abriter de miracle."
+103925|Nanjo avait déjà entendu Kinzo dire cela bien des fois.
+103926|On aurait même pu parler d'une expression fétiche de Kinzo.
+103929|...Kinzo croyait apparemment que la magie et les miracles pouvaient advenir si l'on jouait son propre destin en prenant un certain risque, et que l'on triomphait...
+103936|"Je me demande quel genre de pari vous allez faire,‖ vous l'homme que l'on surnommait autrefois le Joueur doré...et qui est aujourd'hui si vieux qu'il pourrait s'éteindre à tout moment...‖  Voilà qui mérite assurément d'être vu..."
+103944|"Hmph, ‖...je vois.‖  Ainsi, le rituel secret que j'ai mis au point au prix de longues recherches...ne semble être qu'un simple pari aux yeux d'un profane en magie tel que vous.‖  Fort bien."
+103949|".........Si j'ai foi dans les miracles et que je gagne, ‖vous verrez clairement en ce jour que toutes mes recherches ont bel et bien porté leurs fruits, même si elles ne semblaient guère être que le produit de mon excentricité.‖  Si c'est vous qui gagnez, ‖......tout s'achèvera exactement comme vous l'avez déjà vu, comme rien de plus que l'excentricité d'un vieillard qui pourrait quitter ce monde à tout moment."
+103955|"Oh...‖  Quel genre de pari pouvez-vous donc envisager... ?‖  En tant qu'ami, ce pari...ou cette cérémonie, comme vous l'appelez...
+103959|  ...je ne puis que prier de tout cœur pour que vous la remportiez."
+103965|"Oui, ...je vous remercie."
+103971|"...À ce propos, Kinzo-san,‖ avez-vous entendu dire qu'un invité tant attendu serait présent à la conférence familiale cette année ?"
+103979|"Quoi... ?"
+103981|Pour une fois, Kinzo réagit aux paroles de Nanjo et se retourna.
+103987|"Eh oui, Battler-kun, de la famille de Rudolf-san.‖  Il paraît qu'il revient après six ans d'absence.‖  Je suis sûr qu'il est devenu un splendide jeune homme."
+103993|".........Ah, Battler ?‖  ...Je ne qualifierais pas de `tant attendu' un invité qui a simplement manqué à l'appel six ans durant."
+103998|En entendant le nom de Battler, Kinzo prit un air déçu et maussade, puis tourna de nouveau le dos.
+104006|"J'imagine que ces six années sont passées en un éclair pour vous, plongé comme vous l'êtes dans vos recherches dans cette pièce..."
+104015|"Hmph.‖  ...Cependant, il se pourrait bien que nous recevions la visite...
+104017|......d'un invité véritablement tant attendu.‖  ...Tout dépend du résultat de la roulette.‖  ...La roulette a déjà commencé à tourner.‖  Sera-ce rouge, ou noir ?"
+104022|"......Ce soir, régalons-nous en voyant quel miracle la roulette nous montrera.‖  ...Les gains sont considérables.‖  Et je n'ai pas l'intention de perdre...‖  ...Beatrice, ...accepte ma mise......"
+104028|À ce moment, le téléphone sur la table sonna.
+104031|Ce son strident sembla irriter Kinzo, qui décrocha le combiné pour préserver autant que possible le silence.
+104044|"...Qu'y a-t-il ?‖  Je suis occupé."
+104046|"Ici Genji.‖  Tout le monde est arrivé."
+104048|"Et alors ?‖  Sers-leur donc du thé ou je ne sais quoi."
+104050|"...Bien.‖  Je m'en occupe."
+104057|Kinzo raccrocha brutalement.
+104060|Voyant cela, Nanjo soupira une fois de plus et porta son attention au-dehors, par la fenêtre.
+104066|Tel qu'il est maintenant, je doute que Kinzo prête attention à quelque invité que ce soit.
+104067|...Un invité pourrait-il seulement faire sortir Kinzo `quand viendra le moment', comme il l'a dit ?
+104070|Kinzo avait une seule personne en tête, mais c'était là une invitée qui ne viendrait certainement pas...
+104076|Nanjo fixa la sorcière du portrait à l'expression impassible, sans pouvoir décider si elle souriait ou si elle était triste, puis leva les yeux vers le ciel couleur de plomb...
+104107|Alors, toutes les pièces sont-elles en place... ?
+104108|Et si on les disposait à nouveau pour commencer une nouvelle partie ?
+104115|"Des objections de ton côté... ?"
+104124|"...Non, aucune."
+104127|La sorcière le regardait d'un air de défi tout en fumant élégamment sa pipe.
+104130|Et Battler ?
+104131|Il se contenta de hausser grossièrement les épaules, comme si ce qu'elle faisait lui était égal.
+104135|Il ne croisa pas son regard.‖  Mais cela ne voulait pas dire qu'il ne comptait pas la défier.
+104136|...Cela montrait sa ferme résolution à ne jamais se laisser prendre aux ruses de cette garce.
+104139|C'était l'expression de sa détermination à se battre.
+104145|"Ne me dis pas que tu te lances là-dedans sans aucun plan... ?"
+104151|"Je sais même pas comment tu vas jouer ton premier coup, alors j'ai pas de plan ni rien.‖  ...Vas-y, joue en premier."
+104157|"Hmph...  Naturellement, c'est ce que je ferai.‖  Comment vais-je percer tes défenses ?‖  En combien de coups te mettrai-je échec et mat ?
+104162|  ...C'est là que tu me verras sous mon meilleur jour."
+104170|"......Peu importe les coups que tu me balances, je ne croirai pas en toi !‖  ...Tant que je tiens bon sur ce point, je ne perdrai pas.‖  Et ça veut dire...‖que cette partie est faite de telle façon que tu ne peux pas gagner..."
+104177|"Peut-être as-tu raison.‖  Cependant,‖ c'est moi qui décide combien de fois nous jouerons cette partie.‖  Nous la recommencerons encore et encore, jusqu'à ce que je gagne et que tu reconnaisses ta défaite, vois-tu... ?"
+104182|"Autrement dit, c'est une torture.‖  Une torture éternelle qui continuera jusqu'à ce que tu te rendes à moi... !‖  Elle se poursuivra sans fin, jusqu'à ce que tu reconnaisses mon existence et celle des sorcières !"
+104190|"...Alors je jouerai à ton jeu sans fin, autant de fois qu'il faudra, jusqu'à ce que tu perdes patience.‖  J'ai jamais perdu une épreuve d'entêtement."
+104196|"Oh, une certaine sorcière t'aurait-elle soufflé cette idée... ?‖  *ricanement*ricanement*  Fort bien... !"
+104202|"J'en ai marre de t'écouter radoter.‖  ...Allez, qu'on commence !"
+104208|"Alors commençons !‖  Je connais déjà tous tes coups.‖  Une défense ne vaut pas grand-chose quand on connaît le plan qui la sous-tend !‖  Ne crois pas pouvoir me tenir tête avec les mêmes coups !!"
+104214|"...Beatrice,‖ j'ai juste une chose à dire avant qu'on commence."
+104220|"Laquelle... ?"
+104238|"Vas-y, dis tout ce que tu veux.
+104239|  Mais te croire ou non...
+104241|c'est
+104243|à moi
+104245|d'en décider... !
+104256|  Peu importe à quel point ta magie est impressionnante,‖ mon âme ne pliera pas devant toi !‖  Tu crois que c'est une torture pour moi ?‖  Tu te trompes !!"
+104263|"Alors qu'est-ce que ce serait d'autre... ?!"
+104281|"C'est une torture pour toi !!
+104291|  Un jour, tu te rendras et tu abandonneras !‖  D'ici là, tu seras torturée encore et encore !"
+104299|"Comme c'est amusant, quelle métaphore divertissante !!‖  Une torture où nous nous tourmentons l'un l'autre...oui, vraiment amusant !
+104302|  Allons, commençons-nous cette torture ?!!‖  Ushiromiya Battleeeeer ?!!!"
+104328|Chaque année, les parents qui venaient à Rokkenjima laissaient échapper un soupir d'admiration devant la roseraie qui les accueillait en premier...
+104330|Ils s'y arrêtaient pour bavarder de la beauté des roses et de leur belle floraison cette année-là.
+104337|Au milieu de tout cela se trouvait une unique rose mal en point, et Maria fut accablée de tristesse en voyant son état.
+104344|Mais George eut la présence d'esprit, ‖en disant que tout irait bien s'ils prenaient soin de cette pauvre fleur, de la marquer d'un papier de bonbon, ce qui rendit aussitôt sa bonne humeur à Maria.
+104351|Puis Battler, avec qui elle s'entendait bien depuis le matin, se mit à parler d'Halloween.‖  C'était un sujet si cher à Maria qu'elle se remit à jouer avec entrain.
+104357|Pour Maria, ces bonbons en guimauve en forme de citrouille d'Halloween, achetés par sa mère, étaient sans doute le plus grand des trésors.
+104360|...Elles semblaient en avoir acheté plusieurs, et elle réclamait un `trick or treat' à chaque personne qu'elle croisait, mais c'était elle qui leur donnait des bonbons, au lieu de l'inverse.

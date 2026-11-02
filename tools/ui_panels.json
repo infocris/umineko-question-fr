@@ -1,0 +1,44 @@
+{
+  "en/bmp/title/txt_box/ep1.png": {
+    "title": "Épisode 1", "subtitle": "La Légende de la Sorcière dorée",
+    "paras": [
+      "Bienvenue à Rokkenjima. La Sorcière dorée vous adresse ses salutations les plus chaleureuses. Je vous en prie, détendez-vous et prenez votre temps pour l'instant.",
+      "Inutile de trop réfléchir à quoi que ce soit. Acceptez simplement, en silence, tout ce qui va se produire. C'est tout ce que l'on vous demande.",
+      "Le niveau de difficulté est normal. Autant commencer par la voie la plus facile."
+    ]
+  },
+  "en/bmp/title/txt_box/ep2.png": {
+    "title": "Épisode 2", "subtitle": "Le Tour de la Sorcière dorée",
+    "paras": [
+      "Bonjour. La Sorcière dorée attend votre arrivée avec impatience. Veuillez exaucer ce souhait.",
+      "Avez-vous pu bien vous reposer et parfaire votre stratégie ? La sorcière attend beaucoup de vous, et elle est plus que prête à lancer l'assaut dès le début. J'ai moi aussi hâte de voir votre stratégie.",
+      "Le niveau de difficulté est extrême. La sorcière compte vous faire capituler d'un seul coup."
+    ]
+  },
+  "en/bmp/title/txt_box/ep3.png": {
+    "title": "Épisode 3", "subtitle": "Le Banquet de la Sorcière dorée",
+    "paras": [
+      "Bonjour. Je suis assez surpris de voir que vous n'avez toujours pas capitulé. La Sorcière dorée place de très grands espoirs en vous.",
+      "Avez-vous compris la structure de ce monde, à présent ? Vous n'avez aucune chance de victoire si vous ne connaissez pas les règles. Profitez de votre partie avec la Sorcière tout votre soûl.",
+      "Le niveau de difficulté est équilibré. Égal pour vous comme pour la Sorcière."
+    ]
+  },
+  "en/bmp/title/txt_box/ep4.png": {
+    "title": "Épisode 4", "subtitle": "L'Alliance de la Sorcière dorée",
+    "paras": [
+      "Bonjour. Quelle surprise que vous n'ayez toujours pas été contraint de capituler. À ce stade, même moi, je ne peux qu'attendre beaucoup de vous.",
+      "Toute la partie ne se joue pas sur l'échiquier. Et si vous jetiez un petit coup d'œil à l'extérieur, cette fois ? On dit que qui connaît son ennemi n'a pas besoin de livrer cent batailles.",
+      "Le niveau de difficulté dépend de vous. La manière dont vous vous êtes battu jusqu'ici influencera grandement la difficulté de cette partie."
+    ]
+  },
+  "en/bmp/title/txt_box/exit.png": {"title": "Quitter", "paras": ["Fermer le jeu.", "Nous attendons votre retour avec impatience."]},
+  "en/bmp/title/txt_box/load.png": {"title": "Charger", "paras": ["Bon retour parmi nous.", "Ici, vous pouvez reprendre une partie précédemment interrompue."]},
+  "en/bmp/title/txt_box/music.png": {"title": "Boîte à musique", "paras": ["La Sorcière dorée vous offre cette boîte à musique.", "Nous espérons qu'elle vous plaira, en souvenir de votre séjour ici à Rokkenjima."]},
+  "en/bmp/title/txt_box/start.png": {"title": "Commencer", "paras": ["Bienvenue à Rokkenjima.", "Commencer une nouvelle partie.", "Les parties interrompues peuvent aussi être reprises d'ici."]},
+  "en/bmp/title/txt_box/tea.png": {"title": "Tea Party", "paras": ["Vous avez bien fait d'arriver jusqu'ici. Avez-vous apprécié votre séjour à Rokkenjima ?", "La Sorcière dorée vous invite à sa Tea Party. Nous espérons que vous y assisterez."]},
+  "en/bmp/title/txt_box/tips.png": {"title": "Infos", "paras": ["Revenez sur votre récent séjour.", "Nous espérons que cela vous aidera à mieux vous souvenir des événements de ces deux derniers jours."]},
+  "en/bmp/title/txt_box/unlock.png": {"title": "Débloquer", "paras": ["Retirer le verrou de cet épisode.", "Si vous ne suivez pas les épisodes dans l'ordre, vous serez sans doute perdu et risquez de perdre tout intérêt.", "Nous vous recommandons vivement de n'utiliser cette fonction que si vous avez joué les épisodes précédents."]},
+  "en/bmp/title/txt_box/ura_tea.png": {"title": "????", "paras": ["Bienvenue à la Tea Party de ceux qui ne sont pas humains."]},
+  "en/bmp/title/txt_box/warning.png": {"title": "Attention !", "paras": ["Cet épisode est verrouillé.", "Ces verrous sont retirés chaque fois que vous terminez un épisode. Veuillez d'abord lire l'épisode précédent.", "Cependant, si vous avez déjà joué les épisodes précédents, vous pouvez retirer ce verrou avec le bouton Débloquer."]},
+  "en/bmp/title/txt_box/web.png": {"title": "Commandes", "paras": ["Commandes du jeu."]}
+}

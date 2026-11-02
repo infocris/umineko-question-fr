@@ -1,0 +1,170 @@
+125806|"......Gohda-san, vous avez bien fait de vous en souvenir.‖  Vous avez protégé l'honneur de Kanon."
+125817|"...M-
+125819|Moi...
+125821|...j'ai fait ça... ?!"
+125828|"Je l'ai entendu dire la même chose.‖  Mais je ne vois pas bien où tu veux en venir !‖  Tu pourrais m'expliquer, Battler-kun ?!"
+125839|"...Exactement.
+125843|  Quand Jessica a ouvert la chambre VIP, elle a emprunté la clé à Kanon-kun,
+125847| ~ib~mais elle ne la lui a pas rendue~ib~‖ !‖  Donc Kanon-kun n'a pas de passe-partout sur lui !!"
+125862|"*ricanement*ricanement* !‖  En es-tu bien sûr ?
+125867|  Certes, Gohda n'a aucun souvenir que le passe-partout ait été rendu à Kanon.‖  Mais elle a pu le lui rendre pendant que Gohda ne regardait pas !‖  En quoi cela prouve-t-il que ça ne s'est absolument pas produit ?!‖  *ricanement*ricanement*ricanement*  Si tu pouvais fouiller la poche du cadavre de Kanon, tu pourrais l'affirmer avec certitude, mais tu ne le peux pas !!‖  C'est impossible à prouver !!"
+125873|"Tout ça ne sert à rien.‖  C'est plutôt simple, en fait, non ?"
+125889|"...Ce n'est pas possible...!‖  Alors tu dis que c'est pour ça que Kanon-kun n'avait pas de clé sur lui ?!"
+125895|"Ouais.‖  Et pour le prouver, il suffit de fouiller Jessica.‖  ...Le passe-partout de Kanon-kun devrait se trouver dans la poche de Jessica.
+125900|  Docteur Nanjo, vous pourriez vérifier pour nous ?"
+125907|"...E-En effet."
+125914|Nanjo s'est précipité vers Jessica et a fouillé la poche de sa veste...
+125915|Tout le monde...retenait son souffle......!
+125922|"...Mu..."
+125926|...Je vous en prie.‖  Faites qu'il soit là......!!
+125936|"...Le voici !‖  C'est bien ça ?"
+125943|"......Oui.‖  C'est un passe-partout.‖  Sans aucun doute."
+125947|À la déclaration de Genji, de petits `oooh' de joie ont fusé.
+125954|"C'est le passe-partout de Kanon-kun.‖  ......Je le répète."
+125961|"`Kanon-kun n'a pas de passe-partout sur lui.'‖  Donc il ne peut pas avoir fermé la porte à clé !!"
+125967|"...Il semble bien...que ce soit le cas.
+125972|  ...Mais Kanon-kun est la dernière personne à avoir vu Jessica-chan.‖  Le fait qu'il soit suspect n'a pas changé."
+125980|"Si on...arrêtait avec tout ça ?"
+125987|"...Hein ?"
+125994|"À la base, les humains sont censés être des créatures qui se font confiance.‖  ...Mais comme on vit dans un monde dur, on apprend à être profondément méfiants.‖  ...Alors on soupçonne tout.‖  On est de tristes créatures.‖  ...Je nie pas que c'est dans notre nature."
+125999|"......Mais la seule chose que je vous laisserai pas faire, c'est tirer des conclusions sans preuve !!‖  Si quelqu'un a l'air suspect, ça le rend pas coupable, ça le laisse innocent !!‖  Bien sûr, le monde est rempli de loups.‖  Je dis pas qu'il faut faire confiance à tout le monde sans réfléchir !"
+126005|"Mais si vous voulez conclure que quelqu'un est coupable, vous avez intérêt à avoir des preuves irréfutables !‖  Sinon, n'allez pas accuser les gens sur de simples suppositions !!!"
+126012|"......Nnn...‖  C'est......"
+126021|"...C'est moi qui ai parlé de `pas de fumée sans feu'.‖  ......C'était imprudent de ma part.‖  Je vous présente mes excuses."
+126028|"......Battler-sama......"
+126035|"...Q-Quel raisonnement formidable, Battler-kun !‖  Merci à vous aussi, Gohda-san.‖  Grâce à ce dont vous vous êtes souvenu, Kanon-kun est lavé de tout soupçon !"
+126043|"N-Non, je...ha ha ha ha..."
+126061|Clap clap clap...‖  ...C'était le son net des applaudissements de la sorcière.
+126067|"Bravo, bravo.‖  ...Pas mal du tout."
+126075|"......Merde.‖  J'ai mordu à l'appât que tu m'as tendu, exactement comme tu voulais... ?"
+126081|"Tu as magnifiquement prouvé que Kanon, au moins, ne pouvait pas fermer la porte de cette pièce.‖  Les domestiques étaient tous censés avoir un passe-partout.‖  C'est sur cette base que Kanon était traité comme le coupable, mais tu as au moins réussi à dissiper ce soupçon.‖ *ricanement*ricanement*ricanement*."
+126087|"...Dans ce cas,‖ ...comment le coupable qui a tué Jessica a-t-il fermé la porte à clé ?‖  Voilà donc le problème qu'on a maintenant.
+126092|  Tch.‖  ...Je me suis laissé entraîner exactement là où tu voulais..."
+126098|"Je t'ai eu, n'est-ce pas... ?‖  De plus, tu as déclaré une chose scandaleuse : que tu ne soupçonnerais aucun des autres domestiques.‖  Eh bien, il me tarde de voir comment tu vas essayer de t'en sortir..."
+126104|"Ta gueule.‖  ...Commençons tout de suite.‖  Tu vas sûrement tout nier de toute façon, ...mais vérifions d'abord la définition de cette pièce en tant que chambre close."
+126111|"Fort bien.
+126114|  D'abord, #ff0000il n'existe absolument aucune porte dérobée d'aucune sorte</i>.
+126117|  #ff0000Cette porte est la seule entrée et la seule sortie</i>.
+126120|  #ff0000Cette porte ne peut être fermée à clé qu'avec l'unique clé de Jessica ou les passe-partout, dont chaque domestique ne détient qu'un seul</i>.
+126125|  Elle se trouve au premier étage, mais il est sans doute possible d'entrer ou de sortir par la fenêtre.
+126128|  Cependant, #ff0000la fenêtre est verrouillée de l'intérieur</i>."
+126134|"...Je peux déjà faire pivoter l'échiquier.‖  ...Si je commence par débattre de la porte et de la serrure, je vais sûrement me retrouver à danser dans le creux de ta main."
+126140|"Fais comme il te plaira.‖  Eh bien, que dois-je répéter ?"
+126146|"......Répète.‖  `Kanon-kun a été tué dans cette pièce'."
+126152|"Fort bien.
+126159|  `#ff0000Kanon a été tué dans cette pièce</i>'.
+126164|  Mais j'ai effacé son cadavre par la magie, non ?‖  *ricanement*ricanement*ricanement* !"
+126170|"Encore, répète.‖  `Le cadavre de Kanon-kun est dans cette pièce'."
+126176|"*ricanement*ricanement*ricanement*ricanement* !‖  Je refuse.‖  Je ne peux pas le répéter.‖  ...Car j'ai effacé le cadavre par la magie.‖  *gloussement*gloussement*gloussement* !"
+126182|"Ouais, je me doutais que tu dirais pas ça.‖  ...Il y a forcément un secret caché quelque part là-dedans.‖  ...Bon sang, où est le point mystérieux que je dois trouver ?‖  ......Ils l'ont fermée à clé sans passe-partout ?‖  Ou bien ils ont réussi à tuer ces deux-là pendant qu'ils étaient dans la chambre fermée à clé ?‖  Ou alors ils ont tué ces deux-là, puis se sont échappés d'une façon ou d'une autre ?"
+126187|"...Ça m'embête de le dire, mais je vais d'abord devoir combler les douves.‖  ...Répète.‖  ...`La dernière fois que la porte a été fermée à clé, c'était avec un passe-partout'."
+126193|"Ça aussi, je refuse.‖  *ricanement*ricanement*."
+126199|"...Ce coup du refus, c'est vraiment flou.‖  Je sais pas si tu refuses parce que c'est impossible à répéter, ou si tu pourrais le répéter et que tu refuses exprès..."
+126205|"Quand nous avons débattu de la serrure de la chapelle, tu as complètement retourné la situation contre moi.‖  Quand j'ai l'avantage, inutile de me donner la peine d'utiliser le rouge si cela risque de me coûter.‖  C'est tout."
+126211|"......Ça se tient, j'imagine.‖  ...À l'origine, le rouge servait à contrer mes théories bizarres."
+126217|"Naturellement, je l'utiliserai de manière à en tirer avantage.‖  Maintenant que je sais que je dois me méfier de ta façon de le retourner contre moi, je ne l'utiliserai pas pour rien."
+126222|"...*ricanement*ricanement*‖  Eh bien, quel coup vas-tu jouer ensuite ?‖  J'imagine que le plus facile serait de faire peser les soupçons sur Gohda ou Kumasawa, n'est-ce pas... ?"
+126228|"...Bon sang.‖  J'ai l'impression que tu me mènes par le bout du nez, et ça me fout en rogne...‖  Tais-toi un peu, je réfléchis...!"
+126234|"Bien entendu, cette porte est identique à celle de la chapelle.
+126237|  #ff0000Une fois fermée à clé, elle ne permet aucune forme d'entrée</i>.
+126242|  J'en dirai plus.  #ff0000Aucune astuce ne pouvait avoir pour effet de fermer la porte à clé de l'extérieur sans utiliser de clé</i>.‖  *ricanement*ricanement*...!"
+126248|"Tch.‖  Bon sang, toujours à utiliser le rouge quand je te demande rien..."
+126257|......Il est temps de revenir à la case départ.
+126258|...Pour l'instant, je dois juste réfléchir.
+126259|Je vais poser à plat tout ce que je sais.
+126262|D'abord, il y a deux victimes.
+126270|Jessica et Kanon-kun.
+126273|...Le cadavre de Kanon-kun n'est pas là, mais Beatrice a reconnu en rouge que Kanon-kun avait été tué.
+126276|Donc, même sans cadavre, il compte parmi les victimes.
+126282|Il y a quelques points douteux.
+126285|Et selon celui sur lequel je me concentre, mon raisonnement change du tout au tout.
+126290|D'abord, après avoir commis le meurtre dans cette pièce, comment le coupable l'a-t-il fermée à clé ?
+126296|Si on suppose que le coupable est quelqu'un qui a un passe-partout, c'est extrêmement simple.
+126299|...Mais j'aimerais éviter ça si je peux.
+126302|Parce qu'il faudrait que je soupçonne Gohda-san ou Kumasawa-san...ou peut-être même Shannon-chan et Genji-san.
+126307|C'est là que j'ai remarqué quelque chose.
+126311|...Je me contredisais.
+126312|J'étais en train de me passer la corde au cou.
+126326|Je veux nier Beatrice coûte que coûte.
+126327|Je veux effacer l'existence de cette sorcière cruelle, capricieuse et ridicule !
+126331|Alors je dois tout expliquer par des humains, pas par la magie.
+126332|...Mais ça veut aussi dire soupçonner un humain.
+126336|Je veux soupçonner personne.
+126339|...Bien sûr, s'il y a une preuve claire, il faudra que je croie que la personne en question est coupable,‖ ...mais d'ici là, je veux soupçonner personne.
+126343|Est-ce que je suis juste naïf... ?
+126344|Est-ce que je suis juste un gamin qui ne veut pas voir ses sentiments trahis, quand ces sentiments me disent que cette personne-là, au moins, ne pourrait jamais commettre un meurtre... ?
+126348|Je veux nier que c'est une sorcière qui l'a fait, et je veux aussi nier que c'est un humain.
+126349|......Je sais même plus ce que je suis en train de faire...
+126355|"*ricanement*ricanement* !‖  Au départ, la seule condition de victoire de notre partie était de savoir si tu pouvais nier mon existence ou non.‖  ...Alors que cela seul te désavantageait déjà, tu as multiplié toi-même les conditions de victoire, rendant ta propre victoire plus difficile...!"
+126360|...C'est exactement ce qu'elle dit.
+126362|...Si j'affirme simplement que c'est quelqu'un avec un passe-partout, cette chambre close peut être brisée facilement.
+126365|...Mais le nombre de clés capables d'ouvrir cette porte est limité,‖ et comme on sait clairement qui les détient,‖ cet argument reviendrait à soupçonner quelqu'un que je connais bien...
+126371|...En fait, ...est-ce que je n'ai pas juste détourné les yeux de la vérité ?
+126375|Même en attaquant le tour de la chambre close de la chapelle, qu'il avait été si grisant de démolir,‖ j'avais avancé que `quelqu'un a volé la clé dans le sac à main de Maria puis l'y a remise'.‖  Si cette théorie est juste, la question devient : qui a pu voler la clé dans son sac à main ?
+126380|...Le sac à main de Maria était sans doute le moins surveillé pendant qu'elle dormait.
+126388|...Dans ce cas,
+126390|......en plus de moi,
+126392|...George-aniki et Jessica sont aussi suspects.
+126401|Alors c'est George-aniki ou Jessica, le coupable ?
+126402|Ou peut-être un complice ?!
+126408|...Tous nos parents ont été tués, non ?!
+126409|Et pourtant, ...et pourtant, ...l'un de nous aurait consenti à ça et participé au crime ?!
+126410|On s'est tous lamentés, on a pleuré nos morts, on a versé des larmes ensemble dans la chapelle.
+126411|...Et pourtant, l'un d'entre nous...mentait ?!
+126427|"...*ricanement*ricanement*‖  Ta théorie de la clé prise dans le sac à main puis remise en place faisait peser un net soupçon sur les cousins, n'est-ce pas... ?
+126432|  Et malgré ça, tu as fait comme si tu ne t'en rendais même pas compte, ‖en annonçant une telle théorie avec tant d'entrain...!‖  *gloussement*gloussement*gloussement*"
+126438|"......B-Bon sang...‖  Ça garantit pas que le coupable soit quelqu'un de la famille ou un domestique !‖  Si tu t'étais approchée en douce, cachée dans un carton par exemple, ‖t'aurais très bien pu te faufiler dans notre chambre pendant qu'on dormait à poings fermés et voler la clé, non ?!"
+126444|"Hmmmmmm.‖  Cela suffira peut-être pour cette situation-là.‖  En soupçonnant l'invitée, la 19e personne, tu n'auras pas à soupçonner les autres."
+126449|"......Dans ce cas, comment la chambre de Jessica a-t-elle été fermée à clé ?‖  Ouvrir la serrure par la magie ne me pose aucun problème, mais bien entendu, je n'ai pas de passe-partout.‖  Si tu nies ma magie, tu dois aussi nier que je sois suspecte, n'est-ce pas... ?"
+126454|"Autrement dit, cela revient à soupçonner l'un des 18...!!"
+126460|"...O-Oh, ouais, merci du coup de main.‖  ...J'ai réussi à mettre un peu d'ordre dans tout ça.
+126465|  ...Mon objectif, c'est de trouver comment la 19e personne, l'invitée humaine Beatrice, a commis les crimes.‖  Si j'y arrive, j'aurai à soupçonner personne !!"
+126471|"*ricanement*ricanement* !‖  Si tu y arrives ?‖  Homme stupide.‖  ...Ce n'était pas une chambre close au départ.‖  Après tout, il existe en tout six clés capables de l'ouvrir."
+126476|"Et plusieurs personnes possédaient ces clés !‖  Tu peux soupçonner n'importe lequel d'entre eux !‖  Soupçonne-les autant qu'il te plaira !!‖  Mais tu t'es donné la peine de tous les écarter, et c'est toi-même qui en as fait une chambre close."
+126481|"......Tu comprends ?‖  C'est une chambre close née de ta propre contradiction.‖  *ricanement*ricanement* !‖  C'est toi, et personne d'autre, qui as scellé cette porte."
+126487|"...Donc, ce que t'essaies de dire, c'est que j'ai deux options : ‖...accepter qu'une sorcière l'a ouverte par la magie, ou accepter que quelqu'un que je connais est le coupable.‖  Bon sang, tu me fais une fourchette sur la tour, c'est ça ?!"
+126493|"Je voulais simplement te montrer que ce genre de coup existe aussi."
+126498|"...*ricanement*‖  Alors, que vas-tu faire, Ushiromiya Battleeeeeeer ?‖  N'est-ce pas simple, en réalité... ?‖  Tu n'as qu'à sacrifier ce cuisinier trop sûr de lui et cette vieille bique dont la mort ne serait pas une grande perte, non ?
+126501|  *ricanement*ricanement*ricanement*ricanement*ricanement*ricanement* !!"
+126508|"......Bon sang !!
+126514|  Si je soupçonne Gohda-san et Kumasawa-san, tout ira bien ?!‖  Ça sert à rien !
+126531|  ......J'arrive pas à voir Gohda-san comme le coupable !‖  J'arrive pas à voir Kumasawa-san comme la coupable !!‖  Mais je t'accepterai pas !!‖  Quoi qu'il arrive !!"
+126543|"Dans ce cas, il faudrait entrer dans la pièce sans magie ni passe-partout, ‖tuer Jessica et Kanon, et même effacer le cadavre de Kanon sans magie."
+126548|"...Comment serait-ce possible ?!‖  Comment serait-ce possible de façon à ce que tu puisses me nier, sans soupçonner personne d'autre ?!!
+126551|  *ricanement*ricanement*ricanement*ricanement*ricanement* !"
+126569|"......J'abandonne la partie."
+126578|"Hein ?‖  Battler-kun, qu'est-ce que tu as dit ?"
+126585|"...J'abandonne.‖  J'ai pu prouver que Kanon-kun ne pouvait pas avoir fermé cette porte à clé.‖  ...Mais ça veut pas dire que j'ai réussi à trouver qui a tué Jessica."
+126595|"...N-Non, ...c'est déjà bien plus qu'assez...‖  Euh, ...pour Kanon-kun,
+126597|...merci infiniment...!"
+126604|"...Pas besoin de me remercier.‖  Après tout, ...ça veut dire que toi aussi, t'es soupçonnée, Shannon-chan."
+126611|"........."
+126620|"...Et désolé, Tante Rosa.‖  ...C'est pas que je voulais m'opposer à vous.‖  Je veux pas mourir, et je veux trouver le vrai ennemi de P'pa et des autres.‖  ...Désolé d'avoir dit des choses aussi peu coopératives."
+126627|"...Non, ce n'est rien.‖  J'ai été un peu hâtive, moi aussi.‖  Faisons la paix.‖  Une tante et son neveu doivent rester en bons termes.‖  ......N'est-ce pas ?"
+126632|Tante Rosa a fait passer l'arme dans une main et m'a tendu l'autre.
+126633|...J'ai tendu la main et, pour le moment, on se l'est serrée.
+126638|Le regard de Tante Rosa était acéré.
+126640|...Pour nier la sorcière, elle était prête à sacrifier n'importe qui.‖  ...Voilà ce que me disaient ses yeux.
+126645|Et moi... ?
+126646|Je niais la sorcière.
+126647|...Mais je n'étais prêt à rien perdre.
+126650|J'étais sans doute celui qui semblait se battre le plus, ...et pourtant, le plus éloigné de la réalité.
+126672|Avec la mort de Jessica, il devenait certain que le coupable se cachait quelque part tout près, et qu'il en voudrait à nos vies à la moindre occasion.
+126675|D'après Genji-san, le bateau devait arriver demain matin.
+126679|Le bateau avait une radio.
+126680|On pourrait sans doute contacter directement la police avec.
+126686|On s'est tous réunis au salon et on a décidé d'attendre tranquillement jusqu'à demain.
+126689|J'avais proposé de fouiller tout le manoir à la recherche d'indices sur le coupable,‖ mais Tante Rosa avait refusé, en disant que si on parvenait à acculer le coupable, ou qu'on le provoquait,‖ ça risquait d'entraîner un troisième meurtre.
+126695|...C'était sans doute la bonne décision.
+126696|Si une bande d'amateurs comme nous menait l'enquête, on n'avait aucune chance de trouver quoi que ce soit.
+126699|Le plus sage était de se concentrer sur notre protection sans rien faire d'inutile, et de laisser faire la police à partir de demain.
+126704|On était tendus au début, mais à part Tante Rosa,‖ la plupart d'entre nous avaient passé toute la matinée à regarder la télé et à s'ennuyer, alors notre sentiment de danger s'était beaucoup estompé.
+126711|Quand on y réfléchissait...oui, six adultes avaient bel et bien été tués ensemble lors du premier meurtre,‖ mais ça donnait plutôt l'impression qu'une méthode sournoise, comme du poison, avait été utilisée.
+126718|Et pour le second meurtre, on se disait que ces deux-là étaient devenus des sacrifices parce qu'ils s'étaient malheureusement retrouvés isolés du reste du groupe.
+126724|À partir de là, on pouvait imaginer que le coupable n'était pas un grand nombre d'adultes, ‖et qu'il ne serait pas capable de tuer d'un coup ce groupe nombreux réuni au salon.
+126729|En ce moment, dans ce salon, il y a George-aniki et moi.‖  Maria.‖  Tante Rosa.‖  Genji-san, Gohda-san, Shannon-san, Kumasawa-san, ...et puis le docteur Nanjo, soit neuf personnes en tout.
+126736|En plus, Tante Rosa avait même une arme.
+126739|Avec autant de monde réuni dans cette pièce, il ne pourrait sûrement pas s'en prendre à nous facilement.
+126742|Ce sentiment de sécurité, avec le temps qui passait, nous a permis de nous remettre peu à peu du choc de ce matin-là...
+126749|Au fait, on venait tout juste de finir de déjeuner.
+126750|Mais ça avait été un déjeuner en conserves, bien loin du dîner qu'avait préparé avec talent Gohda-san la veille au soir.

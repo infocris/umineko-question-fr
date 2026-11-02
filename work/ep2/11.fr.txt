@@ -1,0 +1,710 @@
+131952|"...Tu es vraiment quelqu'un d'admirable.‖  Quand le typhon sera passé, ...si les cris des mouettes reviennent sur cette île,‖ ......je me demande si nous pourrons de nouveau nous faire confiance."
+131959|"...Si vous nous accordiez de nouveau votre confiance, il n'y aurait pas de plus grande joie."
+131966|"Je vois.‖  ...Nous arriverons sûrement à nous comprendre.‖  ...Quand les mouettes crieront."
+131977|"......Il vaudrait sans doute mieux laisser cette pièce en l'état jusqu'à l'arrivée de la police.‖  Rosa-sama, si vous vouliez bien la fermer à clé.
+131982|  ...Nous retournons à la cuisine.‖  Si vous avez besoin de quoi que ce soit, n'hésitez pas à nous donner vos ordres."
+131988|"Merci.‖  ......Si tu es un loup, ‖quelle impudence dans tes paroles.
+131992|  ...Et si tu es un mouton,‖ ......alors je suis désolée de t'avoir jeté dans la cage aux loups."
+131997|"...Un meuble remet son destin entre les mains de la famille.‖  ...Si je pouvais regagner votre confiance en sacrifiant ma vie,‖ j'en serais profondément honoré."
+132005|"............‖J'espère que vous resterez tous sains et saufs jusqu'à ce que le typhon passe, si tant est que ce soit possible.‖  Tout ceci n'est qu'une rhapsodie de vents hurlants et de pluie battante jouée par le typhon.‖  ...Quand la représentation s'achèvera...et que le rideau tombera,
+132007|...nous pourrons sûrement de nouveau nous tendre la main."
+132013|"...Quand les mouettes...crieront."
+132020|Tante Rosa a hoché la tête en réponse...
+132024|Genji-san a tourné les talons.
+132025|Il a quitté la salle des domestiques.
+132030|Le visage de Gohda-san était encore baigné de larmes,‖ ...mais peut-être avait-il réussi à mettre de l'ordre dans ses sentiments en écoutant les paroles de Genji-san.
+132035|...Son visage avait été vraiment pitoyable,
+132037|...mais il était redevenu celui du Gohda-san qu'on connaissait bien.
+132044|"......Je vous attendrai moi aussi à la cuisine.‖  ...Si vous avez besoin de quoi que ce soit, n'hésitez pas à me donner vos ordres.
+132050|  ......Si vous désirez un repas chaud, moi, Gohda, je vous préparerai ce qu'il y a de meilleur."
+132057|"......Merci.‖  J'ai hâte de goûter ton petit-déjeuner demain.
+132062|  ...Et le bateau arrivera sans doute vers midi demain.‖  ...Merci pour tout ce que tu as fait jusqu'ici.‖  Ta cuisine était mon seul plaisir sur Rokkenjima."
+132068|"...Certainement.‖  Moi, Gohda, je vous préparerai un petit-déjeuner d'exception.‖  Je vous en prie, réjouissez-vous d'avance pour demain matin."
+132074|"Merci.‖  ......Et Shannon-chan.‖  Demain matin, ...on se réconciliera autour d'un bon café."
+132081|"...?‖  George-kun ?"
+132089|"...Je...vais avec eux."
+132096|"...Ce n'est pas la peine, George-sama...‖  Je vous en prie, retournez au salon.‖  Il n'y a plus de passe-partout.‖  Alors, si vous êtes au salon avec Rosa-sama, personne ne pourra vous menacer."
+132103|"Elle a raison.‖  ...C'est comme ça que les choses se sont arrangées, n'est-ce pas ?‖  ...Objectivement, je dirais que c'est en restant avec moi au salon que tu seras le plus en sécurité."
+132108|"...Mais je ne vais pas te forcer à rester avec nous.‖  George-kun, tu peux rester là où tu te sens en sécurité.‖  ......Tu es déjà un adulte.‖  C'est à toi de choisir où et avec qui tu passeras le temps jusqu'à demain matin."
+132115|"......Oui.‖  Je vais choisir...‖avec qui je passerai cette nuit."
+132123|"...A-Aniki..."
+132130|"Battler-kun, reste avec Tante Rosa au salon.‖  Je suis sûr que tu y seras plus en sécurité que n'importe où.‖  ...À côté, tout ce qui est hors du salon est dangereux.‖  ...Alors je ne peux pas la laisser seule dans un endroit pareil."
+132137|"...C'est...pas que je soupçonne Shannon-chan ou les autres domestiques‖...ou qui que ce soit...‖  Je veux soupçonner personne...‖  L'héritage ?‖  L'or ?‖  ...Tout ça, c'est rien...‖  ...C'est impossible que des gens s'entretuent pour des trucs pareils..."
+132144|"Oui.‖  Je sais mieux que personne à quel point ton cœur est pur, Battler-kun.‖  ...Personne ne te le reprochera.‖  Personne."
+132152|".........Anikiii..."
+132160|"...Tout va bien.‖  Je vais te protéger, Battler.‖  ...Si tu restes avec moi, même Beatrice ne pourra pas te toucher.‖  Je suis petite, mais je suis quand même une sorcière."
+132170|"Oui.‖  ......Maria-chan, ‖je te confie Battler.‖  ......Bon, Shannon.‖  Allons-y."
+132177|"Oui...‖  ...Rosa-sama, si vous voulez bien m'excuser.‖  Si vous avez un ordre à me donner, appelez-moi à n'importe quel moment."
+132185|"......Je suis désolée de t'avoir dit des choses si cruelles tout à l'heure.‖  ......Je ne m'attends pas à ce que tu me pardonnes d'ici demain matin.‖  Mais quand demain matin viendra, laisse-moi m'excuser encore une fois."
+132191|"Oui...‖  ......Merci beaucoup."
+132199|George-aniki et Shannon-chan ont quitté ensemble la salle des domestiques.
+132202|......Il ne restait plus que Maria, Tante Rosa et moi dans cette pièce répugnante, maculée de sang.
+132207|Jusqu'à ce que Genji-san disparaisse, jusqu'à ce que Gohda-san disparaisse, jusqu'à ce que George-aniki et Shannon-chan disparaissent, on est restés plantés là, sous le choc...
+132210|Une fois leur présence et le bruit de leurs pas complètement évanouis, Tante Rosa a gloussé, comme si elle venait de se rappeler quelque chose d'agréable.
+132221|"......On ne peut pas leur faire confiance une seule seconde.‖  Ces maudits meubles."
+132231|Cette seule phrase...
+132233|m'a coupé le souffle.
+132248|"...P-Pour-
+132250|Pourquoi est-ce que vous...
+132252|...dites...
+132254|...une chose pareille... ?"
+132270|"Il y a cinq passe-partout en tout ?‖  Qui irait croire ça ?‖  Il existe évidemment des doubles.‖  ...Comme si on pouvait leur faire confiance juste parce qu'ils ont sorti des clés de leurs poches... !!"
+132275|"V-Vous le pensez pas vraiment, hein... ?‖  E-En posant ces clés, ...ils ne faisaient pas que s'en séparer... ‖...Vous avez...réduit à néant tous leurs efforts, vous les avez humiliés, piétinés, ‖......et pour finir, vous leur avez fait rendre leurs clés...
+132281|  C'est quoi, cette réplique d'adieu... ?‖  Ils vous ont montré qu'ils étaient prêts à aller jusque-là, et vous pouvez toujours pas leur faire confiance ?!‖  C'est trop, ...c'est vraiment trop... !"
+132288|"C'est une preuve du diable !
+132293|  Il y a cinq passe-partout en tout ?!‖  C'est impossible à prouver, une chose pareille !!‖  On peut montrer qu'il y a cinq passe-partout en les posant ici !‖  Mais on ne peut pas prouver qu'il n'en existe pas plus de cinq !!‖  Seul un démon ou une sorcière pourrait prouver une chose pareille, non ?!"
+132304|"Waaaaaaaaaaaaaaaaaaaaaaaaaaaaah !!!‖  Arrêtez ça, arrêtez ça... !!
+132309|  Je t'en prie, Beatrice, montre-toi tout de suite,‖ et dis à Tante Rosa en rouge qu'`il n'y a que cinq passe-partout' !!‖  Je t'en prie, je t'en supplie, seuls les démons peuvent prouver ça, une sorcière comme toi !‖  Je t'en prie, Beato, montre-toi ici et dis à Rosa que ce sont tous les passe-partout qui existent, ‖et qu'il n'y a plus besoin de soupçonner personne... !!!"
+132315|"#ff0000Il n'y a que cinq passe-partout</i>.
+132318|  #ff0000Il n'y a que cinq passe-partout</i>.
+132322|  ...*ricanement*  Alors ?‖  J'ai beau le répéter, ça n'atteindra pas les oreilles de Rosa.‖  Après tout, on dirait qu'il y a encore quelqu'un qui nie mon existence, pas vrai ?‖  Ushiromiya Battleeeeeeeer ???"
+132329|"Je l'accepte !!‖  Je l'accepte, tu existes, tu existes, tu existes vraiment !‖  Alors je t'en supplie, arrête ça !!‖  Arrête ça !  Arrête ça !!‖  Aaaaaaaaaaaaaaaaaaargh !!"
+132343|"Les mots ne suffisent pas, prouve-le par tes actes.‖  Jure du fond du cœur que tu deviendras mon meuble."
+132348|"Tu en es capable ?‖  Ôte tes vêtements, mets-toi nu, puis pose les mains par terre et rampe.‖  Les vêtements sont la preuve de l'humanité.‖  Désormais tu seras un meuble, il est donc tout naturel que tu perdes ce droit !!"
+132353|"Puis agenouille-toi, et promène ta langue sur mes souliers.‖  Tu en es capable ?‖  Tu en es capable, pas vraiiiiiiiiii ??‖  Quand tu l'auras fait, j'apparaîtrai et je le dirai en rouge !
+132356|  Je dirai à Rosa qu'#ff0000il n'y a que cinq passe-partout</i> !!"
+132361|"Oh, mais bien sûr, jamais tu n'abandonneras cette fierté de grand seigneur.‖  Mais tu t'es bien défendu, tu en as largement assez fait, et tu commences à sentir ce petit frisson, n'est-ce pas ?‖  L'espace d'un instant, tu t'es dit que lécher mes souliers ne serait peut-être pas si terrible, hein ?‖  Et aussitôt, tu l'as nié et tu as eu honte, pas vraiiiiiii ??‖  Rien que contempler ta tête, c'est un pur délice !!"
+132366|"Ta tête est si pitoyable, va donc te regarder dans un miroir,‖ tu verras comme tu es tombé bas, nu en train de lécher mes souliers, pas vraiiiiiiiiiii ?‖  Tu le vois, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer ???"
+132423|"......Je n'arrive pas à y croire.‖  ...Vous êtes en train de me dire...que c'est la vérité ?"
+132429|"...Oui.‖  ...Nous vous avons tout raconté tel que nous l'avons vu."
+132435|George croisa les bras et se remit à marmonner.
+132436|...Et la cuisine fut de nouveau enveloppée d'un long silence.
+132443|"George-sama, je suis parfaitement conscient qu'il doit vous être difficile de croire tout cela si soudainement.‖  ...Après tout, ...bien que je l'aie vu de mes propres yeux, je suis de moins en moins sûr de ce que j'ai réellement vu...
+132448|  Je suis sûr de l'avoir vu.‖  Et je suis sûr de m'être battu, aussi !‖  Et pourtant, ...j'ai presque l'impression que ce n'était qu'une illusion..."
+132453|"...Je vois.‖  ...C'est pour ça que vous ne pouviez pas entrer dans les détails devant Tante Rosa.
+132458|  ...Si vous lui aviez raconté ce que vous venez de me dire, vous auriez sans doute eu encore plus d'ennuis.‖  ...Oui, Genji-san a vraiment géré ça avec beaucoup de sang-froid, hein ?"
+132464|"......Si seulement j'avais le pouvoir de l'expliquer moi-même."
+132469|George ne l'avait pas vu de ses yeux, et même pressé d'y croire, il était incapable de se le représenter.
+132473|...C'était bien naturel.
+132474|Car même ceux qui l'avaient réellement vu avaient renoncé à se demander ce que c'était...
+132482|"...Revenons un peu en arrière.‖  ...Shannon, tu as dit que lorsque tu as pensé que Kanon-kun était un imposteur, tu es allée ramasser des toiles d'araignée avant de revenir, c'est ça ?‖  Pourquoi as-tu fait ça ?"
+132488|"...C'est vrai, je me posais la question moi aussi.‖  Pourquoi des toiles d'araignée ?"
+132494|"Je l'ai entendu dire une fois par Kumasawa-san, par hasard.‖  ...Il y a très longtemps, des esprits maléfiques vivaient sur Rokkenjima et ils, euh, craignaient les toiles d'araignée.‖  Et d'après une légende, les gens chérissaient les toiles d'araignée comme des amulettes.
+132499|  ...Et, euh, ...à ce moment-là,‖ j-je crois que j'étais aussi un peu perdue..."
+132505|"......Pour ce qui est de ces vieilles histoires,‖ ...Kumasawa en savait très long."
+132512|"Eh bien, les araignées sont des insectes très utiles, après tout.‖  ...Oui, ce ne serait pas du tout étrange qu'une croyance comme celle-là soit née."
+132518|"......Je suis sûre...‖que le sanctuaire du torii contenait le pouvoir de ces esprits maléfiques.‖  ...Et comme le miroir sacré a été brisé, ce pouvoir est revenu...‖  ...C'est sûrement ce pouvoir qui a permis à Beatrice-sama de ressusciter...
+132529|  ......Si moi,
+132531|...avec mon cœur si faible,
+132533|......je n'avais pas fait une chose aussi insensée......‖  Aaaaaaaaaaaah... !!"
+132538|"...Shannon, ‖tu n'as plus à t'en inquiéter.‖  ...Je ne t'en veux pas."
+132544|Depuis longtemps, Shannon laissait souvent entendre que sa rencontre avec George avait une sorte de cause occulte.
+132547|À force de l'écouter, George en était venu à penser qu'elle se comportait comme une jeune fille typique, qui associait l'amour au destin, au hasard et aux miracles.
+132549|...Il trouvait certes que briser le miroir sacré déposé au sanctuaire du torii, c'était aller un peu loin,‖ mais il en avait ri et lui avait pardonné, n'y voyant qu'une espièglerie qui montrait combien elle prenait leur relation au sérieux.
+132552|...Briser un simple miroir dans un vieux sanctuaire moisi n'aurait rien changé au destin de leur rencontre.
+132556|Et cela n'attirerait jamais la moindre malédiction.
+132557|Il avait tenté de lui remonter le moral, en lui disant que ce n'était qu'un vieux miroir moisi couvert de poussière.
+132566|"...Depuis que je travaille sur cette île, plusieurs collègues m'ont raconté l'histoire d'un esprit appelé Beatrice-sama."
+132571|"Au début, je trouvais cela ridicule, ‖mais comme il aurait paru indiscret de le dire à voix haute, ‖...en apparence, je me suis comporté comme si j'y croyais moi aussi.‖  ...Mais se pourrait-il vraiment-"
+132577|"Elle existait.‖  ...Beatrice-sama a toujours été dans ce manoir.‖  ...Mais elle avait perdu ses pouvoirs...et ne pouvait pas apparaître devant nous.‖  Elle a toujours `existé'.‖  C'est juste que nous ne pouvions pas la `voir'."
+132584|"......J'aimerais entendre l'avis de Genji-san."
+132590|"...Je n'ai pas d'avis.
+132594|  ......Tout ce que je peux dire, c'est qu'...à ce moment-là, nous étions cinq dans cette pièce.‖  ...Ensuite, j'ai cru que Kanon était revenu par la porte de derrière.‖  Après cela, nous l'avons porté jusqu'à la salle des domestiques, ‖......quelque chose s'est produit, et désormais, le docteur Nanjo et Kumasawa ne nous reviendront jamais."
+132599|"...C'est tout.‖  ...Nous vous avons déjà expliqué tout ce que nous avons vu.‖  ...Je comprends à quel point il serait déraisonnable de vouloir forcer quelqu'un qui n'a pas été témoin de ces événements, comme vous, à y croire."
+132608|"Comment pourrait-il y croire ?‖  ......J'étais sûr que c'était Kanon-san.‖  ...Mais ça s'est levé du lit...
+132610|et, oui, c'est ça,
+132612|quand ça a commencé à tâtonner de cette façon la blessure de sa poitrine, ‖...j'ai eu la certitude que ce n'était pas Kanon-san, mais autre chose."
+132617|"......Je doute que vous puissiez comprendre, George-sama.‖  ...La terreur de cet instant, quand la personne que je croyais bien connaître s'est révélée être en réalité quelqu'un d'entièrement différent...‖  ......Je ne peux pas l'expliquer.‖  ...Je ne peux pas l'expliquer du tout..."
+132622|"Je comprends.‖  ...Je vois bien que, quoi qu'il se soit passé, c'était assez terrifiant pour vous causer un tel choc."
+132627|"...Merci beaucoup,‖ ...George-sama."
+132633|Et tous retombèrent dans le silence.
+132636|Shannon pleurait encore et encore, malgré toutes les consolations, ‖persuadée qu'avoir écouté les doux murmures de la sorcière et brisé le miroir sacré ce jour-là avait été l'erreur qui avait tout gâché...
+132644|"......La sorcière qui t'a murmuré ces choses...perd ses pouvoirs tant que ce miroir existe, c'est ça ?"
+132650|"...Je crois qu'elle me l'a un peu expliqué, mais je ne m'en souviens plus très bien.‖  ...Je crois qu'elle disait qu'elle ne pouvait pas libérer son pouvoir tant que ce miroir existait."
+132656|"...Et qu'est devenu ce miroir que tu as brisé ?"
+132662|"Je ne m'en souviens pas.‖  ...Je l'ai laissé sur place après l'avoir brisé, ...alors il est sans doute resté comme je l'ai laissé."
+132669|"...Donc quand, comme on dit, la foudre a frappé le récif et l'a fait disparaître, il a dû sombrer au fond de l'océan...‖   Enfin, je doute qu'en le repêchant et en recollant les morceaux avec du scotch, il se remette à fonctionner.‖  Ha ha ha ha ha."
+132676|"...Qu'est-ce...que...j'ai fait..."
+132683|"...Pardon.‖  Je n'aurais pas dû dire ça."
+132693|Il ne savait pas si c'était vraiment le miroir brisé par Shannon qui avait tout déclenché.
+132694|Même si les domestiques ne blâmaient pas Shannon, ils semblaient tous convaincus que son geste avait été la cause première.
+132697|...Mais même maintenant, George ne parvenait pas à aller jusque-là.
+132703|...Toutes ces histoires de sorcières et d'esprits maléfiques lui paraissaient fausses, même s'il s'efforçait de garder l'esprit ouvert.
+132706|Malgré tout, il écoutait sérieusement le récit de Shannon, cherchant un indice qui pourrait soulager ne serait-ce qu'un peu la douleur de son cœur.
+132716|"Maintenant que j'y pense, ......même s'il est sûrement différent de celui du torii, ‖...j'ai entendu dire que Madame conservait un miroir sacré comme porte-bonheur."
+132723|"...Vraiment ?‖  Tante Natsuhi ?"
+132729|"Oui.‖  Je crois qu'elle l'a reçu en souvenir de son grand-père ou quelque chose comme ça...et qu'il agissait comme une puissante protection contre la magie.‖  Un miroir sacré de haute lignée, il me semble... ?"
+132737|"......J'ai moi aussi entendu la même histoire.‖  ...Il paraît que ce miroir a le pouvoir de refléter ce qui n'est pas bon et de le renvoyer d'où il vient."
+132754|"Si nous avions ce miroir sacré, ...pourrions-nous résister à Beatrice, puisque c'est une sorcière ?"
+132761|"Hein... ?"
+132765|Lorsque George fit cette proposition, les domestiques levèrent la tête.
+132771|"...Le sanctuaire et le torii où il était conservé ont disparu, mais l'important, c'est qu'il existe encore un autre miroir sacré.
+132777|  ......J'ai entendu dire que la famille de Tante Natsuhi descendait de prêtres shinto.‖  Ce n'est peut-être pas un simple miroir."
+132785|"J-Je suis sûr d'avoir entendu Madame dire qu'elle le gardait dans un coffret à trésors.‖  ...Il n'est peut-être pas bien grand."
+132792|"......Je ne pense pas que sa taille pose problème.‖  Même le miroir que j'ai brisé n'était qu'un petit objet d'apparence insignifiante."
+132800|"......Si notre adversaire relève de l'occulte, alors il faudra utiliser l'occulte pour riposter.‖  ...Rester assis ici ne résoudra rien.‖  Ça vaut la peine d'essayer, ne serait-ce que pour avoir l'esprit tranquille."
+132805|Bien entendu, cela ne voulait pas dire que George avait accepté la sorcière.
+132806|...Cependant, il pensait qu'une sorte de cérémonie de purification serait nécessaire pour guérir les blessures du cœur de Shannon.
+132809|...Cette histoire de miroir sacré de Natsuhi tombait donc vraiment à pic.
+132814|"Allons-y.‖  ...Je ne vais pas dire de folies du genre `allons le chercher et achevons la sorcière'.‖  ...Mais je pense qu'il serait utile d'avoir une sorte de porte-bonheur capable de nous protéger d'elle."
+132820|"...Maria-chan m'en a parlé tout à l'heure, mais la porte de la chambre de Grand-père était censée pouvoir repousser la magie, c'est ça ?‖  ...C'est bien notre Grand-père.‖  Ça veut dire qu'il savait plutôt bien se défendre en matière d'occulte.‖  ......Allons-y.‖  Dans la chambre de Tante Natsuhi !"
+132828|"M-Mais je crois que la chambre de Madame est fermée à clé... !‖  Nous avons rendu les passe-partout à Rosa-sama,‖ ...et même la boîte à clés de la salle des domestiques est désormais sous clé..."
+132835|"...Dans ce cas, Tante Natsuhi devait avoir une clé sur elle.‖  ...Le corps de Tante Natsuhi doit toujours être dans la chapelle.‖  On ne devrait sans doute pas y toucher avant l'arrivée de la police, mais nous pourrons tout expliquer plus tard."
+132842|"Cependant, ...l'entrée de la chapelle est elle aussi fermée à clé..."
+132849|"Ha ha ha, Gohda-san, avec votre force physique, vous ne pouvez pas briser une simple vitre ?‖  Vous pourriez la fracasser avec une pierre qui traîne à côté."
+132858|"Est-ce que, euh, ce serait vraiment correct de briser une fenêtre de cette chapelle si importante... ?"
+132864|"Si Grand-père se met en colère contre nous, j'en prendrai la responsabilité.‖  ...Depuis le début, je suis prêt à affronter toute la famille Ushiromiya aujourd'hui.
+132869|  Il faut que je leur fasse accepter nos fiançailles.‖  ...Alors, j'étais préparé depuis le début."
+132875|"Brisons la vitre.‖  Ensuite, empruntons la clé sur le corps de Tante Natsuhi."
+132880|L'annonce de George, qui disait en prendre la responsabilité, sembla insuffler un grand courage aux domestiques.
+132881|...Shannon et Gohda échangèrent un regard, puis regardèrent de nouveau le visage de George.
+132889|"Grand-père sait tout de l'occulte.‖  Je suis sûr qu'il comprendra s'il s'agit du pouvoir du miroir sacré de Tante Natsuhi.‖  Ne vous inquiétez pas, il ne se fâchera pas contre vous."
+132900|"...Je me demande si le miroir de Madame...
+132902|pourra vraiment sceller...
+132904|Beatrice-sama une nouvelle fois."
+132911|"Je ne sais pas.‖  Mais je pense que ça vaut la peine d'essayer.
+132916|  ...Alors allons-y.‖  Il fait de plus en plus sombre dehors.‖  Vite !"
+132921|"Shannon, prends une lampe torche !‖  Gohda-san, trouvez quelque chose qui puisse briser la vitre !‖  Désolé, Genji-san, mais pourriez-vous vous charger des parapluies ?"
+132929|"""Oui, monsieur !"""
+132940|Les domestiques, que Rosa avait rejetés, avaient trouvé un nouveau maître et se mirent en mouvement.
+132941|George, d'ordinaire si calme et si doux, rayonnait à présent de dignité.
+132948|Shannon vérifia la lampe torche de secours.
+132949|Par précaution, elle changea les piles.
+132957|Gohda essayait plusieurs ustensiles de cuisine d'apparence lourde.
+132958|...En temps normal, un chef aussi réputé que lui n'aurait jamais voulu les utiliser à d'autres fins que celles prévues.
+132962|Mais à présent, il ne cherchait qu'à exécuter les ordres de celui qu'il avait accepté pour maître.
+132963|Après quelque hésitation, il prit une grande poêle qui paraissait épaisse.
+132970|Genji retira plusieurs parapluies du porte-parapluies placé dans le coin près de la porte de la cuisine.‖  ...Il en prit trois.
+132977|"Genji-san... ?"
+132984|"......Je ne peux pas vous accompagner.‖  ...Ce serait une honte pour moi, en tant que majordome en chef de la famille Ushiromiya, que nous soyons tous absents au moment où un ordre serait donné."
+132992|"M-Mais Genji-san !‖  Même vous devez comprendre à quel point il est dangereux de rester seul dans ce manoir en ce moment... !"
+132999|"...Je ne peux pas y aller.‖  ...Je dois rester ici, pour que le Maître puisse m'appeler à tout moment."
+133007|"Genji-sama..."
+133014|"...Allez, et obéissez à George-sama.‖  Prenez garde à ne commettre aucune maladresse.‖  Gohda, je compte sur toi pour montrer l'exemple."
+133021|"...O-Oui.‖  ...Comptez sur moi."
+133028|"Je remplirai mon devoir sans faute..."
+133036|"Vous êtes sûr de vous, ...Genji-san ?"
+133042|"Oui.‖  ......J'ai déjà atteint cet âge.‖  Tous les jours de ma vie jusqu'à présent ont été consacrés à rembourser la dette que j'ai envers le Maître.
+133046|  ...C'est la roulette qui décidera du sort d'un vieillard sénile tel que moi.‖  Je vais m'asseoir ici...et voir de mes propres yeux quel en sera le résultat."
+133052|Sur ces mots, Genji s'assit.
+133055|Comme pour signifier qu'il n'entendait plus en discuter, ...son regard se posa sur l'échiquier sur lequel il avait joué contre Nanjo.
+133058|Voyant cela, George décida de laisser Genji là.
+133065|"Allons-y, tout le monde.‖  On dirait que le vent s'est un peu calmé pour l'instant !"
+133071|Lorsque George prit un parapluie et s'élança dans le couloir, Shannon et Gohda le suivirent en courant, chacun un outil à la main.
+133083|...Une fois qu'ils se furent précipités hors de la pièce, Genji tendit tranquillement la main vers le côté de l'échiquier.
+133084|......Il attira doucement à lui quelque chose qui s'y trouvait, en le recouvrant de sa paume.
+133090|Genji retint son souffle plus encore qu'auparavant.
+133091|......Ce faisant, ......quelque chose jeta un éclat doré.
+133098|D'un seau à glace posé sur le comptoir, ...un petit papillon doré apparut, doucement et en silence.
+133101|C'était presque comme s'il avait regardé partir George et les autres...et s'apprêtait à les suivre en secret...
+133117|Cela se produisit en un instant.
+133120|...L'élégant papillon doré, qui battait des ailes, fut épinglé au mur par le couteau que Genji avait lancé, tel un papillon dans une collection d'insectes.
+133123|Après avoir battu des ailes plusieurs fois, comme s'il souffrait, le papillon doré accepta le fait qu'il ne pouvait se libérer, se changea en une fine poudre d'or et en fumée, et disparut comme s'il s'était dissous dans l'eau...
+133135|Genji contemplait toujours l'échiquier comme si de rien n'était.
+133136|...Peut-être trouverait-il bientôt un coup brillant.
+133139|Mais quel que soit le coup qu'il jouerait, son adversaire ne pourrait plus jamais y répondre, pour l'éternité.
+133144|Bien qu'il le sût, Genji cherchait un coup brillant.
+133147|...Ce devait être la façon idéale de tuer le temps...pendant le bref délai qui le séparait du sort qui lui serait réservé...
+133153|...Il ne savait pas quel résultat la roulette amènerait.
+133154|Mais cette décision serait prise très bientôt.
+133157|......Nul ne pouvait interférer avec la bille de la roulette qui roulait...
+133174|La porte du salon n'était pas seulement fermée à clé, elle était bloquée par une barricade faite de canapés et d'autres meubles.
+133177|À cause de ça, Tante Rosa semblait soupçonner que n'importe quel individu suspect qui approcherait entrerait par effraction par la fenêtre.
+133180|Assise dans un fauteuil, dos à la porte, elle ne lâchait pas son fusil.
+133188|Je ne savais plus où j'en étais, et même si j'étais épuisé de corps et d'esprit, j'ai joué avec Maria, comme elle le voulait.
+133194|Maria l'avait dit.‖  ...Beatrice nous mettait à l'épreuve pour voir si on pouvait résoudre l'épitaphe de l'or, alors on devait essayer de percer cette énigme.
+133198|Au début, j'étais un peu intéressé et j'ai essayé de la résoudre, mais je n'avais pas la moindre idée d'où commencer dans ce texte bizarre.
+133201|...Je ne doutais pas qu'une énigme y soit cachée, mais je doutais sérieusement de pouvoir bondir tout à coup jusqu'à la réponse.
+133207|Au milieu de l'épitaphe, il y avait les lignes qui allaient du premier au dixième crépuscule, et qui nous disaient de voyager jusqu'à la Terre dorée.
+133212|Au premier crépuscule, offre en sacrifice les six que la clé aura choisis.
+133213|Au deuxième crépuscule, ceux qui restent déchireront les deux qui sont proches.
+133216|C'était évident que ça faisait allusion aux six premiers meurtres qui avaient déjà eu lieu dans la chapelle, et aux meurtres de Jessica et de Kanon-kun.
+133219|Si ça continuait comme ça, il fallait encore s'attendre à ce que cinq personnes de plus soient tuées.
+133226|Au quatrième crépuscule, perce la tête et tue.
+133227|Au cinquième crépuscule, perce la poitrine et tue.
+133228|Au sixième crépuscule, perce le ventre et tue.
+133229|Au septième crépuscule, perce le genou et tue.
+133230|Au huitième crépuscule, perce la jambe et tue.
+133240|Les corps du docteur Nanjo et de Kumasawa baa-chan n'ont toujours pas été retrouvés.
+133243|...Mais si ça suit le schéma et qu'ils sont les sacrifiés du quatrième et du cinquième crépuscule,‖ ...on les retrouvera sûrement dans un état pitoyable, la tête et la poitrine percées.
+133251|Alors, est-ce qu'il faut s'attendre à ce que trois d'entre nous soient encore percés au ventre, au genou et à la jambe, puis tués ?
+133255|...Qui ça sera ?
+133256|...J'ai balayé la pièce du regard, en remarquant qu'on était trois ici, mais...‖  Comment dire...mes émotions semblaient paralysées.
+133258|...Bizarrement, je n'avais pas peur.
+133264|Alors que j'étais avachi contre le canapé, le regard levé vers le plafond, Maria s'en est aperçue.
+133271|...Apparemment, elle trouvait que je me relâchais dans la résolution de l'énigme.
+133272|Elle s'est fâchée parce que je ne prenais pas ça assez au sérieux.
+133279|"...Dis, Maria."
+133285|"Uu-... ?"
+133291|"C'était quoi, déjà...ce que Beatrice a dit qu'elle ferait si on résolvait ça ?"
+133298|Je suis sûr que la sorcière avait écrit dans sa lettre qu'elle renoncerait à réclamer les intérêts, ou un truc abstrait de ce genre.
+133301|...Moi, je l'avais pris avec optimisme comme si elle renonçait à tuer toute la famille, ‖...mais est-ce que c'était vraiment écrit dans ce sens-là ?
+133304|Pour une raison quelconque, je n'arrivais pas à me convaincre que résoudre l'énigme me sauverait vraiment.
+133307|......J'ai l'impression que, même si on la résout, on ne fera que ce que veut le coupable, et que tous nos efforts seront vains...
+133314|"Non, c'est pas vrai.‖  ...Si tu résous l'épitaphe, la cérémonie de Beato s'arrêtera.‖  Alors, après ça, plus personne ne mourra."
+133317|"...Vraiment ?‖  C'est pas juste une règle qu'elle a inventée... ?‖  Celui qui résoudra cette énigme...découvrira sans doute où se trouve l'or caché de Grand-père.‖  ...Alors elle va forcément le poursuivre et-"
+133320|"Uu-.‖  Elle le poursuivra pas."
+133327|"...Comment...tu peux en être aussi sûre ?"
+133333|"L'or a toujours appartenu à Beato.‖  Elle va pas courir après quelque chose qui est à elle."
+133339|"...Alors, ...alors pourquoi Beato nous donne tous ces gros indices ?‖  ...Et pas seulement ça, pourquoi elle a même monté ce genre de jeu ?"
+133345|"La magie a besoin de risque."
+133351|"...Le risque.‖  ...Je vois pas trop ce que tu veux dire."
+133357|"Par exemple, dans un marathon,‖ ...tu crois qu'une médaille que tout le monde peut avoir en courant jusqu'au bout vaut autant que la médaille donnée seulement à celui qui arrive premier... ?"
+133362|"Non, je crois pas...
+133367|  ...Alors ça veut dire quoi ?  Au bout du compte, elle se joue de nous ?‖  Elle nous donne exprès une chance-"
+133373|"Faaaaux.‖  C'est comme ça que marche la magie.‖  Aussi grande que soit une œuvre de magie, elle aura toujours des risques et des points faibles.‖  Non, elle doit en avoir."
+133379|"...Je pige rien à ce que tu appelles la magie, ...mais si je vois ça comme un pari, je peux comprendre un peu.‖  Si t'es pas prêt à perdre gros, tu peux pas gagner gros.‖  Et plus les chances de gagner sont minces, plus le gain est gros."
+133385|"C'est ça.‖  Et Beato a vraiment expliqué à tout le monde le risque de la cérémonie.‖  Alors, si cette énigme est résolue, la cérémonie sera suspendue.‖  Après tout, si elle ne tenait pas ses promesses, il n'y aurait aucun risque."
+133391|"Si on la résout, ...elle tiendra vraiment sa promesse ?"
+133399|"Pourquoi les fleurs sont belles, alors qu'elles fanent ?‖  Pourquoi une fleur artificielle n'est pas belle, aussi travaillée qu'elle soit, même quand on ne voit pas la différence à l'œil ?
+133404|  Les humains peuvent faire naître des miracles en pariant leur mort.‖  Si un humain immortel existait, il n'aurait aucun moyen de faire naître un miracle.‖  ......C'est pareil pour nous, pour la vie, pour la sorcière et pour la cérémonie.‖  Si on ne prend pas de risque, on ne peut réussir en rien."
+133410|"...Et on fait quoi, si on résout l'énigme ?‖  On lève la main en criant `J'ai trouvé !', on donne notre réponse à la sorcière et on voit ce qu'elle dit ?"
+133416|"Uu-.‖  Ça, je sais pas.‖  Mais si on la résout, la cérémonie s'arrêtera sûrement toute seule."
+133422|".........
+133427|...T'en sais, des choses, Maria.‖  ...Tu as appris tout ça...de Beatrice ?"
+133433|"Uu-."
+133442|Alors, ...si on ne prend pas de risque, on ne peut rien gagner, c'est ça ?
+133443|C'est sûr que c'est comme ça que va le monde, ...mais ça va un peu à l'encontre de la logique de l'échiquier que j'aime tant.
+133446|Aux échecs, en tout cas, les joueurs cherchent à tâtons le meilleur coup, en essayant toujours d'éviter les risques et en espérant un tour favorable des événements.
+133452|Ils ne s'en remettent pas au hasard, comme dans les jeux d'argent.
+133453|...C'est ça, il n'y a pas de place pour le pari dans un jeu intellectuel.
+133456|Et pourtant, cette personne qui s'appelle Beatrice a fomenté un crime aussi monstrueux,‖ ...ou peut-être une cérémonie, ‖...tout en s'imposant volontairement des conditions de défaite et en nous les annonçant.
+133461|Aux échecs, on joue toujours son meilleur coup.
+133462|Alors, en se mettant à la place de son adversaire, on peut prévoir son prochain coup.
+133465|...Mais on ne peut pas être sûrs que les coups de Beatrice soient toujours les meilleurs possibles.
+133470|Je me disais qu'elle nous faisait sans doute nous concentrer sur l'épitaphe pour nous berner d'une façon ou d'une autre, en parlant par énigmes.
+133474|...Mais d'après Maria, c'était justement impossible.
+133475|Elle disait que c'était un vrai risque pris par la sorcière, et donc la preuve que c'était une cérémonie magique en bonne et due forme.
+133481|......Je comprends pas cette sorcière qui s'appelle Beatrice.
+133484|Si elle commet cette série de meurtres avec un but précis en tête,‖ ...pourquoi est-ce qu'elle s'est donné la peine de révéler les conditions de sa défaite ?
+133487|...J'ai beau faire tourner l'échiquier dans tous les sens et réfléchir du point de vue de mon adversaire, ...je comprends pas pourquoi elle abandonnerait si cette énigme était résolue.
+133493|C'est presque comme si Beatrice se fichait de gagner ou de perdre, non ?
+133494|Forcément, la logique de l'échiquier ne marche pas contre un adversaire pareil...
+133498|...Je comprends pas, je comprends pas.
+133499|...Qu'est-ce que cherche Beatrice pour commettre ce crime ?
+133505|Si elle voulait juste tous nous massacrer, elle aurait pu le faire discrètement, sans toute cette mise en scène délirante.
+133506|Il n'y avait aucun besoin de ce préavis si attentionné, de toutes ces histoires de chambres closes qui se donnent en spectacle, ni de tout le reste.
+133513|...Tout ça, c'est du surjeu.
+133514|J'ai pas la moindre idée de ce que ça veut dire.
+133517|Est-ce que je serai incapable de tout comprendre...tant que je continuerai à voir Beatrice comme une coupable humaine avide ?
+133520|...Si je ne l'accepte pas en tant que sorcière, est-ce que ma logique de l'échiquier sera bloquée avant même que j'aie aligné les pièces... ?
+133528|...Si c'est vraiment une sorcière et que tout ce que Maria a dit est vrai,‖ alors il n'y a qu'une chose à faire pour nous.
+133530|...Échafauder des théories, se disputer, chercher le coupable, tout ça n'a servi à rien.
+133534|On aurait dû tous se réunir dans la salle à manger, et mettre nos connaissances en commun pour résoudre l'énigme.
+133535|En combinant les connaissances d'autant de personnes, on aurait peut-être pu saisir au moins un fil de la réponse...
+133538|Les humains avides, chacun désireux de prendre l'avantage sur les autres, ...se sont fait offrir en sacrifice un par un, sans mettre leurs connaissances en commun.
+133542|......Au bout du compte, est-ce que les humains ont eu ce qu'ils méritaient ?
+133543|Ils croyaient se servir de leur cerveau, ...mais en réalité, ils ne pensaient qu'à leur petite personne avide.
+133547|Au bout du compte, la logique de l'échiquier est une technique de réflexion où l'on se projette dans son adversaire.
+133548|...Alors les gens avides voient leur propre avidité chez leurs adversaires...
+133555|J'ai jeté un regard las à Tante Rosa.
+133559|Elle était sans doute épuisée d'être restée sous tension tout ce temps.
+133560|Elle n'arrivait pas à dormir, mais elle gardait le regard vaguement fixé sur un point dans le vide.
+133563|Tante Rosa avait déclaré qu'on ne pouvait faire confiance à personne qui n'avait pas été tué.
+133566|...La logique de l'échiquier de Tante Rosa...la voyait elle-même chez son adversaire.
+133571|...Autrement dit, peut-être que Tante Rosa...‖était une femme isolée, incapable de faire confiance à qui que ce soit et incapable de baisser sa garde.
+133574|...Il y a longtemps, je crois que mon père m'en avait un peu parlé.
+133577|À l'origine, Tante Rosa était une enfant très obéissante.
+133580|...Mais elle avait beaucoup trop d'écart d'âge avec ses frères et sa sœur...‖et ils lui imposaient souvent des exigences contradictoires pendant leurs affrontements.‖  À cause de ça, elle avait vécu beaucoup d'expériences psychologiquement dures dans sa jeunesse.
+133583|Souvent, quand elle imitait l'un de ses aînés, un autre lui en faisait voir de toutes les couleurs.
+133590|C'est vrai qu'aujourd'hui, Tante Rosa a dit beaucoup de choses qu'on pourrait prendre pour des insultes.
+133592|......Mais ça veut dire que ces mots-là, on les avait autrefois déversés sur elle, et que c'est pour ça qu'ils s'étaient gravés dans son vocabulaire.
+133595|Les nombreuses paroles blessantes qu'elle avait prononcées...étaient aussi des paroles dont on l'avait accablée par le passé...
+133603|...Maintenant que j'y pense, j'ai eu l'impression que sa façon de parler avait parfois des accents d'Oncle Krauss ou de Tante Eva.
+133606|...Je m'étais dit que c'était parce qu'ils étaient frères et sœurs qu'ils se ressemblaient, ...mais ce n'était peut-être pas seulement ça...
+133609|Pour la première fois, j'ai ressenti une vraie compassion pour Tante Rosa, que j'avais toujours prise pour une femme simplement calme et douce...
+133618|Et Maria, alors... ?
+133619|Ça fait un moment que Maria affirme une certaine chose.
+133623|Si on arrive à résoudre l'énigme que la sorcière nous a présentée, la cérémonie s'arrêtera, et on sera forcément sauvés.
+133624|Et je crois qu'elle a aussi dit que Beatrice ne rompait jamais une promesse.
+133629|...Mais c'est de Maria qu'on parle.
+133630|Elle-même ne rompt jamais ses promesses, et elle a le cœur le plus innocent qui soit...
+133632|Alors elle croit que Beatrice ne rompra pas ses promesses non plus.‖  Elle est capable d'y croire.
+133635|Mais est-ce que ce n'est pas juste une image de Beatrice dans la tête de Maria... ?‖  Rien ne prouve que la vraie Beatrice tienne toujours ses promesses, pas vrai... ?
+133647|"‖Je tiens mes promesses‖.‖  Si tu résous l'énigme de l'épitaphe, tu devrais pouvoir atteindre la Terre dorée.‖  À ce moment-là, la cérémonie prendra fin.‖  Plus personne ne mourra."
+133653|"...Alors tu prétends qu'un monstre absolu comme toi respecte les règles ?"
+133659|"Je ne nierai pas que je suis brutale, injuste, et un monstre.
+133664|  ...Cependant, je suis une sorcière.‖  J'use de la magie.‖  Pour user de la magie, il y a certaines règles qu'il faut respecter.‖  ...Parce que je suis une sorcière, je ne puis les négliger.‖  Crois-en au moins cela."
+133670|".........‖...Alors après toutes les horreurs que t'as faites, tu me demandes encore de croire au moins aux règles ?"
+133676|"...Il est vrai que je joue des tours.‖  Bien sûr, je trompe aussi les gens.‖  En cela, je ne suis en rien différente des humains.‖  ...Mais jamais, pas une seule fois, je n'ai bafoué une promesse que j'avais prononcée.
+133681|  Et les humains ?‖  Tenez-vous toujours vos promesses, vous ?"
+133689|"......Vu qu'on a des slogans du genre `Tiens tes promesses',
+133691|...difficile d'imaginer qu'on les respecte toujours comme il faut."
+133697|"De mon point de vue, ce sont les humains, les véritables monstres d'égoïsme.‖  ...Rien n'est plus douteux que la promesse d'un humain.‖  Il m'arrive à moi aussi de passer des contrats avec des humains, mais tu n'imagines pas à quel point l'accord doit être strict, rien que pour exaucer un seul vœu stupide."
+133702|"...À la moindre faille, ils te sortent aussitôt des choses comme `fais passer le nombre de vœux à cent', ou `va te changer en haricot'."
+133710|"...Y a un truc que mon père dit tout le temps.‖  Il dit que rien n'est aussi effrayant que les contrats.‖  ...D'après lui, c'est normal que ceux qui signent sans les lire attentivement se fassent dépouiller jusqu'à l'os.‖  ...Lui, il s'est enrichi grâce au vice."
+133716|"......Imagine un peu.‖  À la naissance, les gens ne savent rien de la fraude.‖  ...Ils l'attrapent quelque part.‖  Et c'est ainsi qu'ils l'apprennent."
+133722|"........."
+133728|"Oui, les crimes du monde des humains, où les gens doivent vivre serrés les uns contre les autres.‖  ...Voyons, j'ai entendu cela de la bouche d'une sorcière, quelque part.
+133733|  Enfin, peu importe.‖  ...Je ne suis pas aussi cruelle que tu le crois, vois-tu ?‖  *ricane*ricane*ricane* !"
+133739|"Menteuse !!‖  T'as tué tellement de gens !!‖  Et de façon tellement horrible, en plus !  Comment tu pourrais ne pas être cruelle ?!!
+133744|  Tu dis que tu tiens tes promesses ?!‖  Viens pas me sortir des trucs pareils !!‖  Je t'accepterai pas.‖  Jamais.‖  Je crois que ma seule façon de te résister, c'est de jamais céder là-dessus !"
+133752|"......Je vois.‖  Tu veux dire que cette torture éternelle sera la même pour moi.‖  ......*ricane*ricane*ricane*ricane*
+133757|  ...Peut-être.‖  Mille ans, c'est long...‖  Peut-être que la véritable force d'une sorcière ne se mesure pas à son pouvoir magique, mais à son endurance.‖  ...Oui, je veux bien admettre à quel point Dame Bern est terrifiante."
+133765|"Bon sang, arrête de radoter des trucs incompréhensibles.‖  ......Reprenons vite cette torture éternelle.‖  Je suis prêt à tenir mille ans, ou même dix mille ans."
+133771|"*ricane*ricane* !‖  Bien, bien.‖  On dirait que tu as retrouvé un peu de ta combativité.‖  Ce serait ennuyeux, sinon."
+133775|"Allons, ne voit-on pas souvent cela dans les jeux de compétition ?
+133778|  Parfois, un joueur s'introduit sur le territoire de son adversaire, mais celui-ci est si faible que c'en est décevant, alors le premier joueur perd exprès pour faire durer la partie jusqu'à la dernière manche,‖ durant laquelle il devient sérieux et accable son adversaire de coups, pas vrai ?"
+133784|"...Je vois pas ce que ça veut dire."
+133790|"C'est comme le vin.‖  Si on ne le laisse pas bien vieillir, il ne pétillera pas.
+133796|  ...Tu es pareil à ce vin.‖  Je vais te faire vieillir avec soin.‖  ...Je t'élèverai pour faire de toi le meilleur des alcools, digne d'orner mes instants raffinés..."
+133801|"Alors n'abandonne pas pour si peu.‖  Continue de me nier.‖  Après tout, tant que tu ne m'acceptes pas, je ne suis rien de plus qu'une illusion fugace.
+133804|  ...*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*ricane*... !"
+133832|"......J'ai beau le voir encore et encore, ...c'est atroce."
+133839|"...Je compatis sincèrement.
+133845|  ...Shannon-san, s'il vous plaît, prenez la clé.‖  ...Même morte, Madame reste une dame.‖  Je ne peux pas la toucher."
+133852|"......Bien sûr."
+133855|Shannon acquiesça d'un hochement de tête sec, le visage empreint du sens du devoir.
+133862|George, Gohda et Shannon avaient brisé une fenêtre adéquate et se trouvaient à l'intérieur de la chapelle.
+133863|...Comme ils n'avaient vraiment pas envie d'en briser une, ils avaient cherché un autre moyen d'entrer, au cas où.
+133866|...Mais au bout du compte, après avoir prouvé une fois de plus qu'il n'existait aucun passage par où se glisser, ‖il n'en était devenu que plus évident que cette chapelle était une mystérieuse chambre close...
+133872|À l'intérieur de la chapelle, le temps s'était arrêté depuis la dernière fois qu'ils l'avaient quittée.
+133873|Même George n'était pas capable de s'approcher de nouveau de cette macabre fête d'Halloween.
+133876|C'était bien naturel.‖  Cela lui rappelait encore une fois la tristesse d'avoir perdu ses deux parents d'un seul coup.
+133879|...Et Gohda, songeant que ces cadavres avaient peut-être subi quelque horrible altération maintenant qu'une demi-journée s'était écoulée, ne voulait pas laisser George s'en approcher.
+133882|Shannon suivit les instructions de Gohda...et s'approcha de la table de la fête...
+133887|...En temps normal, Shannon aurait peut-être pris ombrage de se voir imposer une nouvelle besogne ingrate.‖  ...Mais à présent, elle comprenait vraiment l'état d'esprit de Gohda.
+133890|Malgré son talent prodigieux, Gohda s'était retrouvé mêlé à des ennuis, avait perdu son emploi et s'était retrouvé à la rue, ...avant que Natsuhi ne lui offre une nouvelle vie.
+133894|...Même si, pour Natsuhi, cela n'avait été qu'une simple décision d'embauche, Gohda avait dû y voir un tournant de son destin.
+133898|...Son entourage voyait bien que Gohda éprouvait envers Natsuhi une loyauté d'un genre particulier.
+133899|...Alors il ne voulait sans doute pas perdre ce sentiment, même après sa mort.
+133911|...Maintenant qu'une demi-journée s'était écoulée, les corps de Natsuhi et des autres avaient complètement changé.
+133912|De petits insectes, flairant l'odeur de la mort, avaient commencé à s'assembler.
+133913|...Ce n'était vraiment pas une chose qu'on avait envie de regarder en face...
+133917|"...Madame, ......pardonnez-moi..."
+133921|Grâce à sa longue expérience de domestique, Shannon avait une idée de la poche dans laquelle Natsuhi gardait la clé de sa chambre.
+133924|......Ce devait être...cette poche-ci...
+133928|Son intuition ne la trompa pas.
+133929|Rien qu'en touchant l'extérieur de la poche, elle put aussitôt la sentir...
+133936|"Elle est là.
+133939|  ...La clé de la chambre de Madame."
+133942|Shannon brandit la clé bien haut, pour montrer aux autres qu'elle l'avait trouvée.
+133948|Tandis que George et Gohda la regardaient, leurs yeux s'écarquillèrent...
+133949|Ce n'était pas l'expression à laquelle Shannon s'attendait, et cela la fit sursauter.
+133966|Car Shannon ne l'avait pas remarqué.
+133967|George et Gohda, qui regardaient de loin, s'en aperçurent les premiers.
+133969|Car lorsque Shannon avait brandi la clé, ...un blizzard de feuilles d'or s'était élevé tout autour de la table.
+133972|C'étaient...d'innombrables papillons dorés.
+133975|C'était la première fois que George en voyait, et cela avait peut-être pu ressembler à une sorte d'illusion.
+133979|...Mais Gohda, lui, savait déjà.
+133980|...Il savait que ces papillons dorés étaient loin d'être beaux, et qu'ils allaient apporter une forme de malheur.
+133983|Et cet or enfla, cherchant à engloutir Shannon......
+133990|"Sh-Shannon-san !!
+133994|  Fuyez !!"
+134000|"Hein ?!‖  Kyaa !!!"
+134015|Shannon comprit à son tour que les papillons dorés cherchaient à l'engloutir.
+134020|Elle courut d'un pas chancelant, le visage encore figé par le choc.
+134021|Aussitôt, les papillons dorés se mirent tous ensemble à danser autour d'elle.
+134022|Ils se rassemblèrent.‖  Ils cherchaient à l'engloutir !
+134036|"Shannonnnnn !!‖  Bon sang, qu'est-ce que c'est que ça ?!‖  C'est ça...les papillons dorés dont vous parliez ?!"
+134043|"Dehors, vite !!‖  Saletés !‖  Bon sang, bon sang !!"
+134061|George et Gohda se précipitèrent vers Shannon, chassant la nuée de papillons.
+134062|Et tandis que les papillons étaient dispersés, ils coururent vers la fenêtre brisée !
+134066|Cependant, il fallait un bon appui pour sortir par la fenêtre, hérissée d'éclats de verre.
+134067|En entrant, ils avaient eu tout le temps de s'y préparer, mais à présent, ils n'en avaient plus aucun.
+134075|"Sortons par la porte !!‖  On n'a pas le temps de chercher un appui !"
+134082|"...Ça-
+134084|Ça ne s'ouvre pas... !
+134086|  C'est coincé... !"
+134092|"Laisse-moi faire !!
+134093|  Saleté de porte pourrie,
+134101|...nnnnnn !!"
+134123|"George-sama, vite !!‖  Bon sang, ne me prenez pas à la légère, ouooooooooooooooooh !!"
+134142|Gohda ôta sa veste, la fit tournoyer et dispersa la nuée de papillons.
+134143|Mais dire qu'il était en infériorité numérique aurait été un sacré euphémisme.
+134145|Il était même douteux que cela leur fasse gagner un tant soit peu de temps.
+134149|George se débattait avec la poignée cassée.
+134150|Elle accusait son âge et tournait mal.
+134152|Je ne peux pas me fier à la force, il faut le bon angle, ou il y a une astuce...
+134163|"George-sama !!‖  Bon sanaaaaaaaaaaang !!‖  Espèces de monstreees !!"
+134181|...À cet instant, Gohda la vit.
+134185|...Il fut vu par elle.
+134186|Autrement dit, leurs regards se croisèrent.
+134189|Au-dessus de la table de la fête...‖non, devant le vitrail, flottant dans les airs, riant, se tenait la silhouette de la sorcière.
+134192|Il vit la silhouette de la sorcière rieuse au centre du tourbillon doré, entourée de papillons dorés qui voletaient, prêts à fondre.
+134209|"......
+134211|B-
+134213|Beatrice......"
+134224|Ce devait être la première fois que Gohda la rencontrait.
+134225|...Mais il la reconnut au premier coup d'œil.
+134228|Tout comme l'avaient dit les autres domestiques, c'était bel et bien, bel et bien...la sorcière du portrait en personne... !
+134243|"*ricane*ricane*ricane*ricane*, ha ha ha ha ha ha ha ha ha ha ha ha !!‖  C'est bientôt l'heure du dîner, n'est-ce pas ?‖  ...C'est moi, désormais, la maîtresse de ce manoir.‖  Je me dois donc de vous réserver un accueil chaleureux avant votre merveilleux dîner.‖  ...Et voyez, nous avons même `trois personnes', exactement comme il faut.‖  ...Ma foi, comme c'est vraiment, vraiment commode !!"
+134248|"W-Waaaaaaaaaaaaaaaaaah !!"
+134279|"Ç-Ça s'est ouvert !!"
+134287|"Gohda-san, vite... !!
+134288|  ...... !‖  Beatrice...-sama..."
+134295|"Hein ?!‖  ...... ?!?!"
+134303|"Êtes-vous sûrs que c'est une bonne idée de rester plantés là... ?‖  Si vous pensez que cet endroit fera un cimetière digne de vous, alors faites comme chez vous.‖  *ricane*ricane* !!‖  Je me dois de saluer votre dévouement, vous qui voulez rester aux côtés de vos anciens maîtres pour les servir même après la mort !"
+134315|Le tourbillon doré qui enveloppait la sorcière éclata.
+134316|C'était comme si une main maléfique avait littéralement écarté les doigts pour fondre sur eux !
+134319|La nuée de papillons dorés attaqua dans un bruissement d'ailes.
+134325|"Vite !!‖  On ne peut pas rester ici !!"
+134330|La voix de George ramena Shannon et Gohda à la raison.
+134331|Rester plantés là ferait d'eux des grenouilles pétrifiées sous le regard d'un serpent.
+134335|Ils devaient résister.
+134336|...Ils devaient combattre l'incarnation de ce nouvel ordre brutal et terrifiant qui avait enveloppé Rokkenjima... !
+134348|Ils n'avaient pas le temps de sortir leurs parapluies.
+134349|Tous les trois s'élancèrent sous la pluie battante.
+134356|Les trois ne s'en rendirent jamais compte, car ils ne se retournèrent pas, ‖ mais les papillons dorés ne supportaient apparemment pas très bien la pluie, ‖ce qui les gêna pour poursuivre les humains.
+134364|Les trois personnes échappèrent à leurs poursuivants dorés et s'engouffrèrent dans le manoir...
+134377|"......*ricane*ricane*ricane*ricane*‖  Très bien, très bien.‖  Sinon, ce ne serait pas aussi amusant !"
+134395|Ils déverrouillèrent la porte et se précipitèrent dans la chambre.
+134402|Il y flottait encore un peu du parfum de l'encens doux qu'aimait Natsuhi.
+134403|...Cependant, ce n'était pas le moment de se laisser apaiser par lui.
+134410|"Où est-il ?!‖  Vous avez dit qu'il était dans un coffret à trésors, c'est ça... ?!"
+134417|"Ce n'est qu'une histoire que j'ai entendue... !‖  On ne m'a jamais dit où il se trouvait exactement... !"
+134425|"......J-Je pense qu'il doit être dans sa coiffeuse ou à côté du lit !"
+134430|C'est sa sensibilité féminine qui avait amené Shannon à cette conclusion.
+134431|Mais à côté du lit, il n'y avait qu'un brûle-parfum, un roman à moitié lu et des lunettes.
+134437|En revanche, la coiffeuse était élégante et comptait de nombreux tiroirs, et il aurait été compréhensible qu'elle y range certains de ses objets de valeur.
+134444|"Tante Natsuhi, pardon... !!"
+134448|Il se mit à ouvrir violemment chacun des tiroirs.
+134449|Il devait se dépêcher.
+134453|Il n'entendait pas vraiment de pas, ...mais il avait l'impression que la sorcière approchait...
+134454|Il avait l'impression que son rire approchait... !!
+134460|Il vida les tiroirs un par un et en examina le contenu.
+134465|...Chaque petite boîte à maquillage ressemblait à un coffret à trésors,
+134467|et l'effort qu'il faudrait pour toutes les inspecter lui donnait un peu le vertige.
+134476|"C-C'est peut-être cette boîte...‖  Elle est fermée à clé, je n'arrive pas à l'ouvrir... !"
+134479|Au premier coup d'œil, elle paraissait un peu plus grande qu'une boîte à musique.
+134482|Quand on la secouait, elle bruissait, comme si elle contenait divers petits objets.
+134485|Mais elle était fermée à clé et ne s'ouvrait pas !
+134492|"N-Normalement, on cache la clé quelque part tout près.‖  ...Même si certaines personnes la gardent toujours sur elles...‖  Je ne sais pas, ...je ne sais pas... !!"
+134498|"On n'a pas le choix, ...cassons-la !‖  Mais on ne peut pas y aller en force, hein ?  On risquerait de briser le miroir à l'intérieur.‖  Il n'y aurait pas un outil pour la forcer... ?!‖  Bon sang... !!"
+134505|Gohda parcourut toute la pièce du regard, cherchant un outil dont ils pourraient se servir.
+134506|Et il remarqua la porte, restée ouverte depuis qu'ils étaient entrés.
+134511|Il s'approcha de la porte pour la fermer...et vit les ombres abominables de gens qui approchaient au-delà des ténèbres du couloir...
+134522|Non, ce n'étaient pas des ombres de `gens'.
+134525|...Car ils n'avaient absolument rien d'Humain !!
+134539|"......G-
+134541|George-sama !!!‖  V-
+134543|Vite..."
+134556|La voix de Gohda s'éteignit...
+134557|C'était le choc...de voir une procession d'êtres qui n'étaient pas de ce monde.
+134563|Il était domestique.
+134564|Il connaissait donc tous les domestiques au service de la famille Ushiromiya.
+134569|...Mais ceux-là, il ne les connaissait pas.
+134570|Pourtant, c'étaient sans aucun doute des domestiques... !!
+134573|Et pas des domestiques au service d'Ushiromiya Kinzo ou d'Ushiromiya Krauss.
+134591|...Ces nouveaux domestiques, au service de la nouvelle maîtresse du manoir, Beatrice la Sorcière dorée, ‖avaient des têtes de chèvre et des yeux d'un rouge vif, bouillonnants comme de la lave !!
+134610|Tandis que la nouvelle maîtresse riait à gorge déployée et dirigeait avec élégance six des nouveaux domestiques,‖ il les vit approcher, perçant les ténèbres à mesure qu'ils avançaient.
+134613|...Bien entendu, elle était drapée des papillons dorés qui étaient son symbole.
+134622|Gohda referma précipitamment la porte et la verrouilla !
+134632|Cependant, à peine l'eut-il verrouillée qu'elle revint à son état normal, comme si un ressort ou quelque chose du genre l'avait fait sauter !
+134653|On avait l'illusion qu'un petit plaisantin, de l'autre côté de la porte, la déverrouillait chaque fois qu'il la verrouillait.
+134657|...Ils ne pouvaient pas encore avoir atteint l'autre côté de la porte !!
+134658|Alors qui faisait ça, et comment... ?!
+134661|C'était presque comme jouer avec un jouet cassé.
+134664|*clic*, *boing*.
+134679|*clic*, *boing*.
+134696|"W-Waaaaaaaaaaaaaaaah !!
+134699|  Ç-Ça ne se verrouille pas !!‖  Même quand je la verrouille, elle se déverrouille !‖  Qu'est-ce qui se passe, bon sang bon sang bon sang bon sang !!"
+134704|"Hé ha ha ha ha ha ha ha ha ha... !!‖  Tu croyais qu'une serrure allait m'arrêter ?‖  Tu croyais que la porte de cette chambre pourrait retenir la nouvelle maîtresse de cette chambre ?!"
+134713|C'était comme si la sorcière pouvait voir à travers la porte les efforts désespérés de Gohda.
+134714|Et les pas continuaient d'approcher...
+134720|Et quand on put entendre non seulement leurs pas, mais même leur souffle, ‖Gohda renonça à la serrure et se jeta contre la porte, la bloquant de son propre corps massif.
+134735|"...George-sama, vite vite vite !!!"
+134743|"George-sama, et ceci ?!"
+134750|"Un coupe-papier ?!‖  C'est mieux, donne-le-moi !‖  Le stylo-plume ne marche pas !"
+134756|George le prit et l'enfonça de nouveau dans la fente sous le couvercle du coffret.
+134759|...On dirait que ça marche... !
+134768|"Vite, vite !!
+134771|  Hiiiiiiiiiiiii,
+134776|GWAAAAAAAAAAAAAAAAAAAAAAAAAAAAH !!"
+134786|La pression de l'autre côté de la porte se fit plus forte encore.
+134793|...Gohda hurla.
+134794|Ce n'était pas un cri de guerre lancé dans une épreuve de force.
+134795|...Il était terrifié.
+134798|Il était tout simplement terrifié que rien d'autre qu'une simple porte en bois ne l'empêche de toucher quelque chose qui n'était pas de ce monde.
+134803|Mais il avait encore de la chance.
+134804|Il ne touchait pas ces choses directement.
+134805|Car elles se trouvaient de l'autre côté de la porte.
+134808|Alors, s'il venait à les toucher directement,‖ ...le cri de Gohda passerait sûrement d'un cri courageux à un hurlement strident et pitoyable, ...et par là même, plus vrai.
+134815|Gohda n'en croyait pas ce qui se passait sous ses yeux.
+134825|...À travers la porte, ...
+134827|...un bras...
+134829|un bras...
+134831|traversait le bois comme si c'était de l'eau, ‖comme si c'était la chose la plus naturelle du monde, ‖et vint frôler le dos de la main de Gohda, qui tentait désespérément de maintenir la porte fermée.
+134849|......Il...
+134851|remonta le long de son bras...
+134853|jusqu'à sa poitrine...
+134855|et puis...
+134857|...jusqu'à son menton.
+134866|À présent, on n'entendait même plus le hurlement de Gohda.
+134867|Il entendit une douce voix chuchoter de l'autre côté de la porte.
+134871|...Ce n'était pas celle de la sorcière, mais on aurait dit celle d'une jeune femme.
+134872|...Mais cela ne changeait rien au fait qu'elle venait d'un être qui n'était pas de ce monde.
+134881|"...*gloussement*gloussement*‖  Trop mignoooon.‖  ...Dis, tu la vois, hein ?  Ta vie qui défile devant tes yeux.‖  ...Préviens-moi quand c'est fini, d'acc ?"
+134888|"HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII !!"
+134901|"Merci.‖  C'est déjà fini, hein ?‖  ...*gloussement*gloussement* !"
+135001|Ce bras lubrique éclata.
+135002|Puis ils entendirent le bruit de quelque chose qui bondissait dans la pièce à une vitesse incroyable.
+135006|Ils ignoraient ce que c'était.
+135007|C'était incroyablement rapide, petit, comme de l'acier ou peut-être un scarabée... !
+135017|Lorsque la chose s'enfonça en plein centre de la poitrine de Gohda et s'arrêta,
+135019|......ils comprirent pour la première fois......
+135021|que sa véritable forme...
+135023|...était une sorte de pieu orné d'un étrange motif...
+135038|Le grand corps de Gohda trembla,
+135040|se cambra en arrière,
+135042|...et s'effondra.
+135062|Aussitôt, la porte s'ouvrit doucement, sans que personne ne la pousse,
+135064|...pour accueillir la nouvelle maîtresse de cette chambre.
+135067|On aurait presque dit que la porte elle-même l'avait acceptée.
+135098|Les serviteurs à tête de chèvre entrèrent l'un après l'autre, ils étaient six... !!
+135099|Puis cette sorcière entra, et les papillons dorés entrèrent !!
+135102|La pièce fut enveloppée d'un blizzard de feuilles d'or qui tombaient et s'amoncelaient, la transformant de plus en plus en un monde d'or... !!
+135127|"......Shannon,‖ la roulette vous a choisis, George et toi.‖  Remercie-moi pour ce jour de ta délivrance.‖  As-tu des regrets ?"
+135132|"Tu n'en as pas, n'est-ce pas ?‖  Recevoir une bague de fiançailles de l'homme dont tu es tombée amoureuse, puis te faire tuer avant d'avoir passé votre première nuit ensemble ?  Ça ne compte même pas comme un regret, pas vraiiiiiiiiiiiiii ???‖  Tu voulais qu'il te prenne dans ses bras, n'est-ce paaaaaaaaaaas ?‖  Tu voulais qu'il t'enseigne les joies d'une femme, pas vraiiiiii ?
+135135|  Kuhi hi hya hya hya hya hya hya hya hya !!‖  Ah, non, non, Shannon, tu baves, regarde ?  Ton regret dégouline de ta bouche.‖  Je le vois qui dégouline de ta bouuuuuuuuche, Shannonnnnnnnnn !
+135139|  Hi hya hya ha ha ha ha ha ha ha ha ha ha
+135143|hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi !!!"
+135152|*crac*
+135155|C'était le bruit du couvercle du coffret qui cédait.
+135160|Lorsque George le retourna, des bijoux, des porte-bonheur,
+135162|...divers petits objets auxquels Natsuhi tenait quand elle était jeune fille s'en échappèrent.
+135168|...Parmi eux...se trouvait une petite bourse qui se distinguait du reste.
+135169|Il la ramassa et en fut aussitôt certain.
+135172|......C'était ça.
+135180|"Je l'ai trouvé, ...c'est lui......"
+135186|"Si près du but, et pourtant si loin.‖  *ricane*ricane*ricane*ricane*ricane* !!
+135194|  Meurs !"
+135201|"...B-Bon sang !!"
+135209|D'un seul coup, les papillons dorés fondirent sur George, qui s'efforçait en hâte de sortir le contenu de la bourse.
+135242|À cet instant, un éclair d'un rouge vif sembla illuminer la pièce, l'espace d'un instant...
+135245|Cet éclair rouge sembla percer un trou dans la nuée de papillons dorés qui tourbillonnait dans la pièce, ...en traçant un cercle dont Shannon était le centre...
+135249|...Si bien que la scène qui en résulta parut véritablement divine.
+135250|...Presque comme si un unique rayon de lumière avait percé les nuages dans ce monde d'or...
+135253|George, recroquevillé en boule pour se protéger de la nuée de papillons, n'avait pas la moindre idée de ce qui se passait.
+135275|...Puis il remarqua que Shannon montait la garde devant lui, lui faisant rempart de son corps,‖ et qu'elle fusillait du regard la sorcière et les autres, avec une expression grave qu'il ne lui avait jamais vue...
+135284|"......J'avais oublié.‖  Tu es toi aussi un exemplaire des remarquables meubles de Kinzo.‖  Et tu as bien plus mûri que Kanon..."
+135298|"......Comment as-tu pu...faire ça à Kanon-kun ?‖  ......Je ne parle pas de l'avoir tué.‖  ...Comment as-tu pu...effacer sa dépouille...
+135300|et même chercher à salir son honneur... ?"
+135308|"Allons, Shannonnnnn, c'est pour ça que tu es fâchééée ?‖  Si tu te sens seule parce que Kanon n'est plus là, il suffit de me le dire, et je te le laisserai voir autant que tu veuuuuux !!"
+135330|Lorsque la sorcière claqua des doigts, ...l'un des six serviteurs à tête de chèvre...scintilla d'un éclat doré et se changea en Kanon.
+135334|C'était assurément un spectacle à n'en pas croire ses yeux.
+135335|...C'était assurément le visage de Kanon.
+135344|...Cependant, dans ces yeux-là, on ne voyait nulle part la lueur de l'intégrité de Kanon.
+135345|...C'étaient les yeux voilés d'un meuble qui n'obéissait qu'aux ordres de la sorcière.
+135348|...George ne parvenait pas à comprendre la scène qui se déroulait sous ses yeux.
+135351|...Et il comprit enfin pourquoi Gohda et les autres avaient été incapables de parler de ce qu'ils avaient vu dans la salle des domestiques.
+135367|"......Ça t'amuse ?"
+135376|"Oui, beaucoup.‖  C'est toujours amusant de réunir un couple que la mort a déchiré.
+135385|  Après tout, j'ai le plaisir de les déchirer par la mort, de les réunir, puis de les déchirer à nouveau."
+135397|"Allez, Kanonnn, va jouer avec ta sœur.‖  Si elle te malmène, montre-lui à quel point tu souffres, avec toute l'angoisse dont tu es capable.
+135400|  *ricane*ricane*ricane*ricane*ricane*ricane*ricane*"
+135415|...Du bras de l'imposteur Kanon, ...une courbe étrangement brillante s'étira.
+135416|......Il comptait mettre Shannon en pièces avec.
+135419|...D'un seul coup, il s'apprêtait à frapper Shannon, qui n'avait toujours pas préparé son cœur, et...
+135429|"...Je ne te pardonnerai pas.‖  ...Je ne te pardonnerai jamais...d'avoir déshonoré les morts non pas une, ...mais deux fois."
+135437|"Assez de bavardages, va te faire tuer par ton frère, Shannonnnnn !
+135441|  Je suis sûre que tu assisteras à un rêêêêêêêêêêêêêêve merveilleux !!!"
+135514|L'imposteur Kanon sembla bel et bien se jeter sur Shannon, en traçant plusieurs courbes violettes...
+135517|Mais lorsqu'il fondit sur elle, ...ce fut comme si une sorte de mur invisible s'était dressé devant elle.
+135529|...Le mur repoussa l'imposteur, laissant une ondulation d'un rouge vif à sa surface.
+135533|...Non, il ne le repoussa pas, il le pulvérisa.
+135534|...Il le renvoya en arrière, le réduisant en poussière d'or, en miettes, l'éparpillant... !
+135550|Ce meuble stupide, qui avait pris l'apparence de Kanon et avait même déshonoré sa mémoire après sa mort, se brisa en d'innombrables papillons dorés,‖ puis ces papillons eux-mêmes se brisèrent en morceaux, et ces morceaux se brisèrent en morceaux,‖ jusqu'à ce qu'ils ne soient plus des papillons, mais une éclaboussure dorée qui s'évanouit.
+135558|"......Sh-Shannon........."
+135570|"......George-san, je vous en prie, ne bougez pas d'ici.‖  Je ne veux pas déplacer l'axe central."
+135590|"Eh bien, voilà......une sacrée surprise !!‖  Ainsi, bien que tu aies l'air de ne pas faire de mal à une mouche, ......tu es capable de déployer une telle puissance ?!!"
+135595|"Je vois, c'est donc ce miroir sacré qui te prête sa force...‖  Mais tu n'as ni les outils ni le temps d'en libérer le véritable pouvoir."
+135605|"Et je ne te laisserai ni l'un ni l'autre.‖  *ricane*ricane*ricane*ricane* !"
+135614|Le miroir sacré que George serrait dans sa main avait émis une lueur divine, déployant une force assez puissante pour ne pas se soumettre aux forces du mal.
+135618|Mais cette lueur ne faisait pas le poids face à la nature maléfique de la sorcière...
+135626|"Voilà pourquoi les meubles peuvent être effrayants !‖  Cette sensation, comme quand on se cogne sans s'y attendre le petit orteil contre le coin d'une armoire.
+135631|  ...Oui, voilà pourquoi les meubles peuvent être effrayants !!
+135634|  Espèce de meuble, de meuble, de meuuuuuuuuuuuuuuuuuuuuble !!"
+135642|"......Je ne suis pas un meuble.‖  ...Et en cet instant, tu me fais vraiment pitié."
+135648|"Quoiii... ?‖  Tiens.
+135653|  ...Qu'est-ce que ce meuble, qui n'a même pas vécu cent ans, vient de dire à une sorcière millénaire... ?"
+135659|"...Tu es vraiment pitoyable.‖  ......Bien sûr que deux personnes qui s'aiment auront des regrets si on les sépare.
+135664|  Mais elles n'éprouveront aucun des regrets que tu espères."
+135670|"Tu oses parler, meuble... ?!!‖  As-tu oublié l'époque où tu voulais tant être liée à George que tu léchais mes souliers ?!!"
+135687|"Vivre en aimant et en rampant dans la fange, c'est le propre des humains.‖  Si tu les méprises et les regardes de haut pour cela, alors tu leur es bien inférieure.
+135698|  Surtout maintenant, tu me fais pitié.‖  ...Quelle valeur a donc, pour un couple qui s'aime, le fait de couronner son amour en partageant le même lit la première nuit ?"
+135709|"...Cela a un sens, bien sûr que oui.‖  ...Mais c'est complètement différent de ce que tu dis.‖  Cela signifie quelque chose de si sacré que quelqu'un comme toi n'a pas le droit d'en parler avec malveillance."
+135720|"Alors je n'ai plus aucun regret.‖  George-san et moi nous sommes juré notre amour.‖  En gage, j'ai accepté sa bague.
+135731|  ...Avec cela, nos vœux éternels ont été scellés !‖  Tu auras beau nous torturer avec ta magie maléfique et ta malveillance, tu ne pourras pas souiller l'éternité !!"
+135745|"...Ha !
+135748|  Ne me débite pas de vils idéaux, comme une poétesse de pacotille !!‖  L'amour n'est que désir charnel, et ne signifie absolument rien si l'on ne couche pas ensemble.‖  Les hommes ne sont que des mouches et des asticots attirés par ton odeur de femelle, qui viennent grouiller autour de toi.‖  Ne le comprends-tu toujours pas, à ton âââââââââââââââââââge ?"
+135753|"Tu désespéreras, la toute première fois que tu verras le sombre désir de ce binoclard derrière toi, ‖tu seras anéantie, choquée, abasourdie, hébétée, et tout ça ne sert à rien, Shannoooooooonnnnnnnnnnnnnnnnnnn !!
+135757|  Hiiiihaaaaaaa ha ha ha ha haaa haaaaaaah !!"
+135774|"Ouais, ça suffit, tes discours, espèce de meuble de meuble de meuble,
+135778|tu te prends pour qui pour parler comme ça, tu auras beau essayer de rendre l'amour aussi beau que tu veux, au bout du compte c'est une imposture parce que l'amour, c'est de la saleté sale,
+135782|est-ce qu'on ne devient pas adulte quand on comprend çaaaaaaaaaaa, crève, ordure, meuble meuble rebut,
+135786|je vais te changer en asticot immonde, et on verra si ce binoclard t'aime encore,
+135790|je vais te montrer que ce type n'en voulait qu'à ta chaiiiiiiiiiiiiiiir,
+135794|crève, déchet de meeeeeeeeeeeeeerde, viens pas me parler d'amouuuuuuuuuuuuuuuuur !!"
+135904|L'invisible colonne de lumière dont Shannon était le centre...se couvrit d'un seul coup d'ondulations d'un rouge vif.
+135907|...Le mur faisait de son mieux pour résister à l'invisible malveillance qui tentait de les ronger de toutes parts.
+135919|"Quoi, tu crois vraiment que tu résistes ?!
+135925|  Tu es insignifiante tu es fragile, comme tes idéaux de pacotille, rien qu'un fragile faux-semblant,
+135932|tu ne fais que cacher ce que tu ne veux pas voir en le recouvrant d'un voile tu ne comprends toujooours pas c'est pour ça que tu es un meuble espèce de meuble,
+135939|regarde regarde regarde regarde regarde ça s'effaaaaaaaaace craccrouchclacpaf que c'est mince que c'est honteux,
+135945|Un parmigiano-reggiano serait plus dur à trancher que ta fragile résistaaaaaaaaaaaaance
+135951|hiiyahhaaa ha ha ha ah !!"
+136052|La tempête dorée qui recouvrait la pièce se mit peu à peu à raboter les parois de la colonne qui protégeait Shannon et George.
+136055|Les ondulations d'un rouge vif traçaient frénétiquement un motif de résistance, mais cela ne faisait qu'en faire un mur rouge de désespoir qui commençait à les envelopper tous les deux...
+136091|"......George-san, je suis désolée...‖  ......C'était trop...
+136093|...pour moi...
+136095|finalement......"
+136102|"...Oui, merci.‖  ...Tu t'es battue pour moi.‖  ...Rien que ça, ça me rend heureux."
+136131|...Le mur circulaire qui les avait jadis protégés, assailli et couvert d'une courbe d'ondulations d'un rouge vif, semblait hurler,‖ ...et il se mit au contraire à les aspirer tous les deux.
+136195|"George-san, puis-je vous demander une faveur ?"
+136200|Shannon saisit la main de George derrière elle.
+136201|Alors George la serra par les épaules tout aussi fort.
+136207|"Qu'y a-t-il ?"
+136213|"Pour finir, ...laissez-moi vous entendre dire `je t'aime'."
+136219|"Oui.
+136231|  ...Sayo, pour toujours, je
+136318|Après avoir terminé son repas tardif, Genji partit faire la ronde de nuit à l'intérieur du manoir.
+136321|Il avait mangé un peu de la soupe réchauffée que Gohda avait préparée, avec quelques restes pris au hasard dans le réfrigérateur.
+136323|Tout cela, Gohda l'avait préparé lui-même, et c'était bien sûr délicieux.
+136329|Il était allé, sans grande conviction, demander à Rosa et aux autres ce qu'ils comptaient faire pour le dîner, ‖mais une voix l'avait rabroué en lui disant que leurs conserves suffiraient, et on ne lui avait même pas ouvert la porte.
+136332|...Si bien que, ironie du sort, c'était Genji, le domestique, qui avait pu faire le meilleur repas...
+136338|...Mais pourquoi Genji n'avait-il pas peur de faire sa ronde tout seul, ‖alors que tous ces crimes avaient été commis et que bien des gens avaient déjà connu une fin brutale ?
+136341|...À le voir accomplir ses tâches habituelles sans la moindre trace de peur, comme si tout était normal, ‖on aurait pu croire que tous les horribles événements de cette journée n'avaient été qu'un rêve ou une illusion.
+136345|Faisait-il preuve de philosophie, ou avait-il simplement accepté son sort ?
+136348|Genji devait considérer comme une vertu, lorsque le sort qui l'attendait était inévitable, ‖d'accomplir méthodiquement son devoir jusqu'au dernier instant.
+136351|Le fond de son cœur resterait sans doute caché pour l'éternité, à moins qu'il n'en parle lui-même...
+136356|Il avait rendu son passe-partout à Rosa, si bien que les endroits auxquels il avait accès étaient extrêmement limités.
+136360|Il ne pouvait que parcourir les couloirs, en vérifiant que toutes les fenêtres étaient bien fermées.
+136361|Sa ronde allait donc sans doute bien plus vite que d'habitude.
+136373|"............
+136379|...Hmm."
+136402|Au son d'un coup discret frappé à la porte, ‖Tante Rosa, qui s'était assoupie, s'est réveillée en sursaut, et a pointé le canon du fusil vers la porte en criant.
+136409|"Qui est là ?!"
+136413|Je faisais une sieste sur un canapé...et cette voix m'a moi aussi ramené à la réalité.
+136418|"...Rosa-sama,‖ c'est moi, Genji."
+136425|"Que veux-tu ?‖  Ne te donne pas la peine d'ouvrir la porte.‖  Dis-le-nous de là."
+136428|"......Bien, Madame.‖  Dans ce cas, pardonnez-moi de m'exprimer de la sorte.
+136431|  ...J'ai trouvé les corps du docteur Nanjo et de Kumasawa."
+136439|"Qu-Qu'est-ce que vous dites... ?!!"
+136446|"......Je vois.‖  Très bien, allons vérifier.‖  ...Tant que je n'aurai pas vu les corps, je ne croirai personne."
+136453|"........."
+136461|"...Uu-.‖  Tout va bien, Battler.‖  Si tu restes avec moi, tout ira bien, c'est sûr."
+136466|Peut-être que mon visage semblait assombri par l'angoisse.
+136467|...Maria m'a pris la main de sa petite main et m'a parlé doucement, pour essayer de me donner du courage.
+136473|Comme c'était le rôle de Tante Rosa de tenir le fusil prêt et de monter la garde, c'est à moi qu'il revenait de défaire la barricade de canapés.
+136476|Quand j'ai eu fini, j'ai jeté un regard en arrière vers Tante Rosa, qui pointait le canon du fusil par-dessus mon épaule, et j'ai ouvert la porte.
+136484|"Genji-san, où sont leurs corps... ?"
+136491|"......Dans la cour intérieure.‖  Je vais vous y conduire."
+136498|"Battler-kun, attends !‖  Par précaution, vérifions les portes et les fenêtres de cette pièce.‖  Attends une seconde."
+136504|Tante Rosa m'a arrêté pour m'empêcher de partir devant, et s'est mise à vérifier soigneusement le verrou de chacune des fenêtres.
+136507|...Pourtant, ces verrous avaient déjà été vérifiés une fois.
+136512|...C'était plutôt désagréable, comme si elle me soupçonnait de les avoir déverrouillés en douce pendant qu'elle avait le dos tourné.
+136515|...Non, Tante Rosa avait peut-être raison d'être aussi prudente...
+136528|On l'appelait la cour intérieure, mais ce n'était pas vraiment un joli endroit où l'on pouvait se promener, comme la roseraie.
+136531|Au contraire, comme elle était entourée par le manoir de tous les côtés, ‖elle mettait un peu mal à l'aise, comme si elle vous disait qu'il n'y aurait aucune échappatoire à ce manoir, où que vous tentiez de fuir.
+136535|D'un autre côté, ça voulait dire que, même si on entendait toujours les violentes rafales, le vent lui-même était arrêté.
+136536|Genji-san a tendu un parapluie, mais Tante Rosa l'a ignoré.
+136539|...Elle voulait sans doute faire comprendre que le fusil demandait ses deux mains, et qu'il serait dangereux de prendre le parapluie.
+136543|On n'a pas eu besoin que Genji-san nous montre du doigt pour remarquer.
+136546|En plein milieu de la cour, ...on voyait l'endroit où gisaient le docteur Nanjo et Kumasawa-san...
+136551|Tante Rosa est entrée dans la cour sans même ouvrir de parapluie.
+136552|...Alors Genji et moi sommes aussi entrés dans la cour sans en ouvrir.
+136553|Seule Maria a ouvert le sien.
+136560|".........Maria, ‖...c'est...tu sais quoi ?"
+136567|"...Uu-.
+136576|  ...C'est le septième et le huitième crépuscule."
+136584|"...J-Je vois.‖  Effectivement, comme l'ont dit Genji-san et les autres, ils ont d'horribles blessures au cou.‖  ...Les coupures sont très nettes.‖  Presque comme s'ils avaient été tranchés avec un katana ou quelque chose du genre..."
+136589|Ces plaies béantes au cou donnaient franchement envie de détourner les yeux,‖ mais après avoir vu cette fête d'Halloween dans la chapelle, même si elles étaient horribles, elles ne suffisaient plus à me donner la nausée.
+136596|Surtout, nos regards se sont posés sur leurs jambes.
+136597|Sur le genou du docteur Nanjo.
+136598|Sur la cheville de Kumasawa-san.
+136602|...Dans chacun d'eux était planté quelque chose comme un couteau ou un pieu orné d'un motif démoniaque.
+136603|...C'était sûrement la même chose que ce qui avait transpercé le dos de Jessica.
+136612|"...Qu'est-ce que c'est ?‖  ...C'est exactement comme ce qui est arrivé à Jessica-chan.‖  Ce serait une sorte de cérémonie occulte, peut-être ?"
+136619|"......Je l'ignore.‖  La dernière fois que j'ai vu leurs corps, il n'y avait rien de tel.‖  Peut-être cela a-t-il été fait après qu'on les a sortis de la salle des domestiques."
+136626|Celui qui était planté dans le genou du docteur Nanjo tenait toujours bien droit, ‖mais celui qu'on avait enfoncé dans la cheville de Kumasawa-san l'avait peut-être été un peu moins profondément.‖  Il était ressorti et était tombé.

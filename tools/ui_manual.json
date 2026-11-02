@@ -1,0 +1,135 @@
+{
+ "en/bmp/title/manual.png": {
+  "blocks": [
+   {
+    "region": [
+     110,
+     190,
+     595,
+     710
+    ],
+    "align": "left",
+    "stroke": true,
+    "uniform": false,
+    "thr": 60,
+    "min_h": 10,
+    "en": [
+     "Controls",
+     "Text Speed:",
+     "1: slow",
+     "2: normal",
+     "3: fast",
+     "0: toggle slow/normal/fast",
+     "Miscellaneous:",
+     "M: toggle volume on / muted",
+     "F: toggle full screen / windowed mode",
+     "A: toggle automode (if enabled for game)",
+     "S: toggle fast forward",
+     "CTRL: super-fast forward while held down",
+     "ESC/right-click: display in-game menu"
+    ],
+    "lines": [
+     "Commandes",
+     "Vitesse du texte :",
+     "1 : lente",
+     "2 : normale",
+     "3 : rapide",
+     "0 : alterner lente/normale/rapide",
+     "Divers :",
+     "M : activer / couper le son",
+     "F : plein écran / fenêtre",
+     "A : lecture automatique (si disponible)",
+     "S : avance rapide",
+     "CTRL : avance très rapide (maintenir)",
+     "Échap/clic droit : menu du jeu"
+    ],
+    "outline": true,
+    "color": [
+     255,
+     255,
+     255
+    ],
+    "gap": 1,
+    "rows": [
+     [
+      190,
+      234
+     ],
+     [
+      287,
+      325
+     ],
+     [
+      333,
+      358
+     ],
+     [
+      361,
+      386
+     ],
+     [
+      388,
+      414
+     ],
+     [
+      416,
+      447
+     ],
+     [
+      495,
+      526
+     ],
+     [
+      540,
+      567
+     ],
+     [
+      567,
+      595
+     ],
+     [
+      595,
+      623
+     ],
+     [
+      623,
+      651
+     ],
+     [
+      651,
+      679
+     ],
+     [
+      679,
+      709
+     ]
+    ],
+    "scale": 0.85
+   },
+   {
+    "region": [
+     110,
+     750,
+     660,
+     800
+    ],
+    "align": "left",
+    "stroke": true,
+    "thr": 60,
+    "color": [
+     255,
+     0,
+     0
+    ],
+    "en": [
+     "Left-click to go back to main menu."
+    ],
+    "lines": [
+     "Clic gauche pour revenir au menu principal."
+    ],
+    "outline": true,
+    "scale": 0.85
+   }
+  ]
+ }
+}
