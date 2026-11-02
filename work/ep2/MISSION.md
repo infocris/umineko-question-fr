@@ -14,6 +14,11 @@ Projet : `~/Documents/umineko-fr/` (lance tes commandes depuis ce dossier).
    (Les espaces de tête/de fin sont recalés automatiquement, ne t'en soucie pas.)
 5. Ne modifie aucun autre fichier que les tiens (`work/ep2/NN.fr*`).
 
+Japonais : chaque ligne a aussi un champ `"ja"` (texte japonais original). L'anglais reste
+la base du découpage en segments, mais **en cas de doute sur le sens, le ton, le registre
+(tu/vous, politesse, façon de parler) ou un jeu de mots, le japonais fait foi**. Ne recopie
+pas le champ `ja` dans ta sortie.
+
 Qualité attendue : français naturel et vivant, fidèle au sens, registres respectés
 (tu/vous selon STYLE.md et le champ `voix`), cohérent d'une ligne à l'autre. Pas de
 traduction mot à mot. Garde les jeux de mots compréhensibles en les adaptant si besoin.

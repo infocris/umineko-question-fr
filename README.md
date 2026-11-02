@@ -30,7 +30,7 @@ racine du jeu **après** le patch 07th-mod, qui remplace le script `0.u` et des 
   partir du `0.u` anglais du jeu ; refuse si ce n'est pas la version de `BASE.txt`.
 - `installer/installData-entry.json` : entrée à proposer dans `installData.json` du
   [python-patcher](https://github.com/07th-mod/python-patcher), groupe « Translations » de
-  « Umineko Question (Ch. 1-4) », sous-mod `full` (remplacer `OWNER`).
+  « Umineko Question (Ch. 1-4) », sous-mod `full`.
 
 Publier une version :
 
