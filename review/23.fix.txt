@@ -1,0 +1,86 @@
+# 92134 : typo : espace avant ! / ? (après …)
+92134|"...C'est incroyable, hein...... ?‖  C'est la première fois que je vois un bassin assez grand pour qu'une baleine y nage."
+# 95821 : typo : espace avant ! / ? (après …)
+95821|"......C-C'est vrai...... ?"
+# 95953 : typo : espace avant ! / ? (après …)
+95953|"...Oui, je le connais, ‖...mais pourquoi en parlez-vous...... ?"
+# 96115 : typo : espace avant ! / ? (après …)
+96115|entendre une chose pareille...... !"
+# 96249 : typo : espace avant ! / ? (après …)
+96249|...recule... !‖  Cette personne, c'est... !"
+# 96289 : typo : espace avant ! / ? (après …)
+96289|"Disparais... !!‖  Je ne sais pas qui tu es, mais tu menaces Shannon !‖  Ne te montre plus jamais !!"
+# 96334 : typo : espace avant ! / ? (après …)
+96334|"............ !"
+# 96449 : typo : espace avant ! / ? (après …)
+96449|"Aïe... !"
+# 97235 : typo : espace avant ! / ? (après …)
+97235|"Ah, ...j-je vous demande pardon... !‖  Ce n'est pas ce que je..."
+# 98014 : typo : espace avant ! / ? (après …)
+98014|"Je...ne suis pas un meuble.‖  ...Je suis humaine... !"
+# 98033 : typo : espace avant ! / ? (après …)
+98033|"Mademoiselle m'a raconté.‖  Franchement, j'en suis resté sidéré.‖  Je n'arrive pas à croire que tu sois partie en voyage avec George-sama... !‖  Tu as oublié ta place de meuble.‖  Tu t'es simplement laissé tenter par cette sorcière, en croyant à tort être devenue humaine !"
+# 92614 : George : 母さん/父さん → Maman/Papa
+92614|"Maman me fait la leçon tout le temps, elle aussi.‖  Je devrais peut-être me mettre au tai-chi-chuan comme elle pour faire un peu d'exercice."
+# 93471 : George : 父 (forme humble devant les adultes) → « mon père », pas « Père »
+93471|"Merci beaucoup.‖  J'ai appris d'innombrables choses précieuses auprès des nombreuses personnes expérimentées que mon père m'a présentées.‖  Et ce sont toutes des choses que je n'aurais jamais pu apprendre à l'école."
+# 94170 : George : 母さん/父さん → Maman/Papa (cohérence avec « Maman » dans la suite de la réplique)
+94170|"C'est normal d'être prudent quand on prête de l'argent.‖  Bien sûr, Papa va utiliser ce qu'il emprunte pour développer ses affaires, et il est venu avec un plan qui garantit de bonnes chances de remboursement.‖  Pour le reste, tout dépend de la présentation.
+# 94176 : George : 母さん/父さん → Maman/Papa
+94176|  ...Mais j'aurais vraiment aimé regarder depuis un coin pour apprendre.‖  Maman m'a mis dehors.‖  Je suis un peu déçu."
+# 94678 : George : 母さん/父さん → Maman/Papa
+94678|"Ah, M-M-Maman... !‖  Pardon, j'étais tellement absorbé par notre conversation.‖  Je n'ai rien remarqué... !"
+# 94715 : George : 母さん/父さん → Maman/Papa
+94715|"A-Alors, qu'y a-t-il, Maman ?‖  Si tu m'appelais, c'est que tu voulais quelque chose, non ?"
+# 109777 : George : 母さん/父さん → Maman/Papa
+109777|"Ne t'en fais pas.‖  Maman sera sûrement difficile, mais tu peux me laisser m'en occuper.‖  Tu verras.  Je ferai accepter à toute la famille que tu es ma partenaire."
+# 112205 : George : 母さん/父さん → Maman/Papa
+112205|"A-Attends une seconde, Maman... !‖  On n'a pas encore fini de manger... !"
+# 113550 : George : 母さん/父さん → Maman/Papa
+113550|"Oui.‖  Il suffira de l'annoncer à Dieu, à Papa et à Maman après coup.‖  On leur dira à tous qu'on s'est mariés.‖  .........Personne ne pourra le défaire."
+# 116309 : George : 母さん/父さん → Maman/Papa
+116309|"Maman, Papa !!‖  Qu'est-ce... qu'est-ce qui s'est passé !!‖  Uuuuuuuuuuuuuuuuuuuuuuu !!"
+# 116977 : George : 母さん/父さん → Maman/Papa
+116977|"...Il porte le blason de l'Aigle à une aile...‖  ...J'ai déjà entendu Maman en parler.‖  ...C'est un lingot de la Légende de l'or de Grand-père... !!"
+# 120741 : George : 母さん/父さん → Maman/Papa
+120741|"......Papa, Maman.‖  ...Merci pour tout.
+# 120876 : George : 母さん/父さん → Maman/Papa
+120876|"...Un sacrifice d'action de grâces... ?‖  Alors, ils ont tué Papa et les autres pour s'en servir comme sacrifices humains pour ce cercle magique... ?!"
+# 127355 : George s'adresse à Battler (forme neutre ほしいな, Battler répond) : tu
+127355|"...J-Je suis désolé.‖  Tu pourrais l'expliquer pour que même moi, je comprenne ?
+# 108174 : Battler : 駄目だぜ、全然駄目だぜ → leitmotiv « ça va pas du tout »
+108174|"...T'es même pas près de me faire accepter un truc comme une sorcière.‖  ...C'est ça, tout à l'heure, on aurait dit que le bonbon de Maria avait été réparé par magie, ‖mais t'avais peut-être un autre bonbon identique caché dans ta poche... et tu les as échangés pendant ton petit numéro, pour faire croire que tu l'avais réparé par magie !‖  Ouais, c'est ça, ça peut être que ça !  Ça va pas, ça va pas du tout... !"
+# 121076 : typo : espace avant ! / ? (après …) ; 英語駄目 garde « nul »
+121076|"......Je suis pas très doué en anglais.‖  ...C'est quoi... ?‖  ...<This door is...opened...only at...probability of> ??‖  Désolé, mon anglais est nul."
+# 121180 : Battler : 楼座さん → « Rosa-san » (distance voulue) ; guillemet fermant manquant
+121180|"Bravo, maintenant tu peux te taire.‖  Rosa-san, vous avez fait prendre des cours d'anglais à Maria ?‖  On dirait que l'anglais, faut vraiment s'y mettre tout petit."
+# 121442 : Battler : 楼座さん → « Rosa-san »
+121442|"Vous avez raison.‖  ......Maria a reçu une clé unique d'une femme se prétendant sorcière, hier vers midi.‖  Autrement dit, depuis hier midi jusqu'à ce matin, quand Rosa-san a déverrouillé la porte, cette chapelle était une chambre close."
+# 132309 : Battler : 楼座叔母さん → « Tante Rosa » (l'anglais abrège en « Rosa »)
+132309|  Je t'en prie, Beatrice, montre-toi tout de suite,‖ et dis à Tante Rosa en rouge qu'`il n'y a que cinq passe-partout' !!‖  Je t'en prie, je t'en supplie, seuls les démons peuvent prouver ça, une sorcière comme toi !‖  Je t'en prie, Beato, montre-toi ici et dis à Tante Rosa que ce sont tous les passe-partout qui existent, ‖et qu'il n'y a plus besoin de soupçonner personne... !!!"
+# 118094 : Kanon → Beatrice hostile (お前/貴様) : tu
+118094|"......T-Toi..."
+# 118149 : Kanon → Beatrice hostile (お前/貴様) : tu
+118149|"J-Je n'ai aucune intention d'entrer dans tes absurdités !‖  ...Tu es apparue uniquement pour te moquer de moi ?!!"
+# 118172 : Kanon → Beatrice hostile (お前/貴様) : tu (何だと)
+118172|"Qu'est-ce que tu dis... ?‖  ......T-
+# 118174 : Kanon → Beatrice hostile (お前/貴様) : tu
+118174|Tu ne veux pas dire...
+# 118203 : Kanon → Beatrice hostile (お前/貴様) : tu (待て、勘違いするな)
+118203|"......A-Attends... !‖  Ne te méprends pas... !‖  Mademoiselle et moi......
+# 118383 : Kanon → Beatrice hostile (お前/貴様) : tu (出て来い、満足か)
+118383|  ......Montre-toi, Beatrice !!‖  Tu es satisfaite, maintenant ?!!"
+# 118738 : Kanon → Beatrice hostile (お前/貴様) : tu (黙れ)
+118738|".........Tais-toi."
+# 118751 : Kanon → Beatrice hostile (お前/貴様) : tu
+118751|"Je n'ai pas le pouvoir de te tuer.‖  ...Tu es la lune.‖  Je ne pourrais jamais briser la lune en lui lançant une pierre.‖  ...Mais pour te manifester, tu dois refléter ton image à la surface de l'eau."
+# 118761 : guillemet ouvrant manquant (l'anglais l'a)
+118761|"Alors, moi.
+# 118773 : Kanon → Beatrice hostile (お前/貴様) : tu ; guillemet fermant manquant
+118773|...je ne cesserai de frapper l'eau où tu te reflètes... !"
+# 119649 : Kanon → Beatrice hostile (お前/貴様) : tu
+119649|"À toi, maintenant, ......Beatriiiiiiiiiiiiiiice !!"
+# 119714 : Kanon → Beatrice hostile (お前/貴様) : tu ; guillemet fermant manquant
+119714|"Ne mens pas !‖  Je ne te laisserai pas tuer Mademoiselle !!‖  ...Même si c'est impossible, ...je ne te laisserai pas la tuer avant moi !"
+# 120200 : Kanon → Jessica : vous comme dans toute la scène (あなた 118379) ; ごめん seul ne justifie pas la bascule
+120200|"...Pardon......‖  ...Je n'ai pas pu...vous protéger......"

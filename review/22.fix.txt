@@ -1,0 +1,54 @@
+# 51109 : Kyrie ↔ Rosa, vous réciproque (お久しぶりです)
+51109|"Rosa-san, je suis contente de vous revoir.‖  Toi aussi, Maria-chan, je suis contente de te revoir."
+# 54483 : Kyrie ↔ Rosa, vous réciproque ; « vous » générique ambigu ensuite → je la coupe (チョンって切っちゃう)
+54483|"Ne vous inquiétez pas, Rosa-san.‖  Quand une rose fait trop de bêtises, je la coupe à la racine, tout simplement."
+# 68557 : Rosa → Gohda : vous
+68557|"Alors, c'était vous, Gohda-san ?"
+# 68686 : Rosa → Natsuhi, 姉さん + forme neutre → tu (cohérent avec 56854)
+68686|"...Alors, c'était toi, Natsuhi nee-san ?"
+# 104725 : Rosa → Gohda : vous (Kanon reste tutoyé)
+104725|  Merci, Battler-kun, de l'avoir laissée bavarder avec toi.‖  ...Kanon-kun, tu n'as pas du travail ?‖  Retire-toi, s'il te plaît.‖  Gohda-san, on dirait que tout le monde veut déposer ses bagages pour le moment.‖  Désolée, mais pourriez-vous conduire tout le monde à la maison d'hôtes ?"
+# 111447 : Rosa → Gohda : vous
+111447|"...C'est une sauce délicieuse.‖  Gohda-san, vous êtes vraiment formidable."
+# 112320 : Rosa → Gohda : vous
+112320|  Gohda-san, je suis désolée, mais pourriez-vous porter la part de dessert des enfants à la maison d'hôtes ?"
+# 114630 : Rosa → Genji : vous
+114630|"...A-Attendez.‖  J'arrive."
+# 56188 : お母さんと真里亞はこの部屋よ → « Maman » à la 3e personne
+56188|"Maria, viens ici.‖  Maman et Maria, on sera dans cette chambre."
+# 68160 : ママも一緒に探してあげる → « Maman »
+68160|"Maman la cherchera avec toi plus tard...‖  D'accord ?‖  Alors laisse tomber pour aujourd'hui.‖  ...D'accord ?"
+# 68193 : 悪いママ → « maman » plutôt que « mère »
+68193|"Pardon......‖  Pardon d'être une si mauvaise maman........."
+# 102056 : ママの言うこと → « Maman » (pas « Mama », réservé à Maria)
+102056|"Lâche ça !‖  Combien de fois faudra-t-il que je te dise d'obéir à Maman ?!!"
+# 102214 : idem
+102214|  Pourquoi est-ce que tu ne peux pas obéir à Maman ?!!‖  Pourquoi ?!!‖  Pourquoi ?!!!"
+# 102362 : 悪いママ / ママを → « Maman »
+102362|"...Pardonne à ta méchante Maman...‖  Pardonne à ta méchante Maman...‖  ......Je suis tellement... désolée... !‖  Je t'en prie, ne déteste pas Maman..."
+# 102366 : ママはまた乗り移られていた → « Maman »
+102366|"Oui, ...c'est ça...‖  ...Maman était juste... encore possédée par la méchante sorcière...‖  ...Pardon, ...pardon..."
+# 106043 : ママを許して → « Maman »
+106043|"Pardon, pardon, je suis désolée !!‖  Pardon, Maria... !!‖  Pardonne à Maman... !"
+# 106058 : idem
+106058|"...Maria... !‖  ...Pardonne à Maman, ...pardonne à Maman..."
+# 106079 : idem
+106079|"Aaaaaaaaaaaaaahh !!‖  Pardon, pardon...‖  ...Pardonne à Maman, je t'en prie...
+# 106108 : ママと一緒に → « avec Maman »
+106108|"...Bon, Maria,‖ c'est bientôt l'heure du déjeuner.‖  Et si tu revenais au manoir avec Maman ?"
+# 140713 : ママがもしも倒れたら → « Maman »
+140713|"Maria,‖ si Maman tombe, ‖cours.‖  Va jusqu'au rivage.‖  Et nage, nage, nage !‖  Il n'y a aucun endroit sur cette île où nous pourrons survivre !!"
+# 141176 : ママはちょっと用事を思い出した → « Maman »
+141176|Maman vient de se souvenir de quelque chose qu'elle doit faire.‖  Pars devant, s'il te plaît."
+# 141198 : こんな悪いママでも → « Maman » à la 3e personne
+141198|...même si Maman est si mauvaise, 
+# 141200 : ママと一緒がいい → « avec Maman »
+141200|...tu dis quand même que tu veux rester avec Maman ?"
+# 141238 : ママは世間体のことばかり / こんなママ → « Maman »
+141238|...mais Maman ne pensait toujours qu'à l'image qu'elle donnait aux autres, et ne te voyait jamais.‖  ...Tu veux vraiment...rester avec une maman pareille... ?‖  Alors que, 
+# 141240 : 悪いママなのに → « Maman »
+141240|...Maman a été si mauvaise...... ?!!"
+# 141291 : 馬鹿なママ → « maman »
+141291|...maman tellement stupide... !!"
+# 141325 : ママが迷わないように → « Maman »
+141325|  ...Restons toujours ensemble, pour que Maman ne se perde plus jamais... !"
