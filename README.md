@@ -1,47 +1,105 @@
-# Umineko (Question Arcs) — traduction française amateur
+# Umineko When They Cry – Question Arcs: French translation
 
-Usage personnel. Traduction des dialogues (lignes `langen` du script) et des images d'interface.
+An amateur French translation of *Umineko When They Cry – Question Arcs* (Steam app 406550) on
+top of the [07th-mod](https://07th-mod.com/) patch: the PS3 voices and graphics stay in place.
+Only the text changes.
 
-- `STYLE.md` : guide de traduction, glossaire, choix fixés.
-- `tools/` : extraction / validation / injection du script, retouche des images.
-- `work/` : traductions des dialogues (`chunks/` = épisode 1 jeu d'origine, `ep2/` = épisode 2
-  et Tea Parties 1-2 sur le script 07th-mod), fiches et Infos (`pages/fr/`).
-- `review/` : relecture contre le japonais (`NN.jsonl` = lot, `NN.fix.txt` = corrections justifiées,
-  `MISSION.md` = consignes et remarques récurrentes) ; `tools/jpalign.py` associe le japonais.
-- `mod/` : portage sur le script 07th-mod (`0.u`) — alignement épisode 1.
-- `ui/*.txt`, `ui/*.md5` : manifestes des images installées (les images ne sont pas versionnées).
-- `desinstaller.sh` : remet le jeu en anglais.
+**Status**
 
-Non versionnés (fichiers du jeu ou régénérables) : scripts d'origine, `0.u` français,
-images extraites et générées.
+| Part | State |
+|---|---|
+| Episode 1 (*Legend of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
+| Episode 2 (*Turn of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
+| Episodes 3 and 4 | still in English |
+| Menus, buttons, title screen, date and notice screens | translated (388 images) |
+| Character profiles and Tips pages | translated (from OCR of the English pages) |
 
-Reconstruire le script 07th-mod français (traductions puis corrections de `review/`, dans l'ordre de `mod/translations.txt`) :
+The translation is AI-assisted: it was first made from the official English (MangaGamer) text,
+then checked line by line against the original Japanese. Nothing has been proofread by a human
+yet, and the result has not been fully play-tested in-game.
 
-    python3 -I tools/modapply.py mod/0.u.original $(grep -v '^#' mod/translations.txt) -o mod/0.u.fr
+## Installing
 
-## Distribution via le 07th-mod Installer
+1. Install the game from Steam, GOG or MangaGamer.
+2. Install the 07th-mod patch for the Question Arcs with the
+   [07th-mod Installer](https://github.com/07th-mod/python-patcher/releases/latest).
+3. Download `umineko-question-fr.zip` from the
+   [latest release](https://github.com/infocris/umineko-question-fr/releases/latest) and extract it
+   into the game folder (for example `Steam/steamapps/common/Umineko`), replacing files.
 
-Même principe que la traduction italienne (Beyond The Ataraxia) : une archive extraite à la
-racine du jeu **après** le patch 07th-mod, qui remplace le script `0.u` et des images.
+Rerunning the 07th-mod installer later overwrites the script and images. Extract the archive
+again afterwards.
 
-- `patch/` : images françaises, arborescence = dossier du jeu (`en/…`, `bmp/…`).
-- `mod/BASE.txt` : version du script 07th-mod sur laquelle les traductions sont alignées
-  (tag + md5). `mod/translations.txt` : fichiers de traduction injectés, dans l'ordre.
-- `tools/package.py` : construit `dist/umineko-question-fr.zip` (0.u français + `patch/`) à
-  partir du `0.u` anglais du jeu ; refuse si ce n'est pas la version de `BASE.txt`.
-- `installer/installData-entry.json` : entrée à proposer dans `installData.json` du
-  [python-patcher](https://github.com/07th-mod/python-patcher), groupe « Translations » de
-  « Umineko Question (Ch. 1-4) », sous-mod `full`.
+The archive is built for one specific 07th-mod script version (see `mod/BASE.txt`). If 07th-mod
+ships a newer script, the translation has to be realigned first (see
+[docs/WORKFLOW.md](docs/WORKFLOW.md#when-07th-mod-updates-its-script)).
 
-Publier une version :
+## Repository layout
 
-    python3 -I tools/package.py "<dossier du jeu>/0.u"   # 0.u anglais 07th-mod, ou mod/0.u.original
-    # puis créer une release GitHub et y joindre dist/umineko-question-fr.zip
-    # (URL stable : releases/latest/download/umineko-question-fr.zip)
+```
+STYLE.md                 translation guide, glossary and fixed choices (in French, for translators)
+tools/                   all scripts (Python 3; Pillow, NumPy, OpenCV for images)
+mod/                     everything tied to the 07th-mod script
+  BASE.txt               07th-mod script version the translations are aligned to (tag + md5)
+  translations.txt       ordered list of translation files injected into the script
+  direct_ep1.fr.jsonl    Episode 1, ported from the original-game translation
+  todo111.fr.jsonl       Episode 1 lines that 07th-mod re-segmented, re-translated
+  special_ep1.fr.jsonl   4 Episode 1 lines with malformed carets, stored as whole lines
+work/
+  chunks/                Episode 1 translation batches (original, unpatched script)
+  ep2/                   Episode 2 and Tea Party batches (07th-mod script)
+  pages/fr/              character profile / Tips page texts, one file per page
+review/                  review against the Japanese: batches, justified fixes, reviewer brief
+patch/                   French images, laid out like the game folder (en/…, bmp/…)
+installer/               entry to propose for the 07th-mod installer's installData.json
+ui/*.txt, ui/*.md5       manifests of the images installed in the original (unpatched) game
+desinstaller.sh          uninstaller: puts the English script and images back
+```
 
-Installation manuelle : installer le patch 07th-mod, puis extraire l'archive dans le dossier
-du jeu en remplaçant les fichiers.
+Not versioned: game files (original scripts, extracted images), the generated French script
+(`mod/0.u.fr`), and `dist/`. They are either copyrighted game data or reproducible from the
+repository plus the game.
 
-Si 07th-mod met à jour son script (`0.u.version.txt` du jeu ≠ tag de `BASE.txt`), réaligner
-les traductions sur le nouveau script (comme pour le portage de l'épisode 1, voir
-`mod/align_ep1.json`) puis mettre à jour `BASE.txt`.
+## Building
+
+Requirements: Python 3 with Pillow, NumPy and OpenCV (images only), and the English `0.u` script
+of 07th-mod at the version in `mod/BASE.txt`.
+
+```sh
+# French script only
+python3 -I tools/modapply.py mod/0.u.original $(grep -v '^#' mod/translations.txt) -o mod/0.u.fr
+
+# Release archive: French 0.u + patch/ images -> dist/umineko-question-fr.zip
+python3 -I tools/package.py "<game folder>/0.u"
+```
+
+`package.py` refuses to build if the English script's md5 differs from `mod/BASE.txt`. Text
+injected into a different script version would land on the wrong lines.
+
+## Distribution through the 07th-mod installer
+
+The installer's *Translations* option for *Umineko Question (Ch. 1-4)* downloads an archive and
+extracts it over the patched game. This is also how the Italian (Beyond The Ataraxia) and
+Ukrainian translations are delivered. `installer/installData-entry.json` is the entry to propose
+upstream in [`installData.json`](https://github.com/07th-mod/python-patcher). It points at
+`releases/latest/download/umineko-question-fr.zip`, so each new GitHub release is picked up
+without changing the entry.
+
+## How it works
+
+See [docs/WORKFLOW.md](docs/WORKFLOW.md) for:
+
+- the script format;
+- how translation batches are extracted, translated, validated and injected;
+- the review against the Japanese;
+- how the images are re-lettered;
+- how to add an episode or follow a 07th-mod update.
+
+## Credits
+
+- Original work: 07th Expansion (Ryukishi07).
+- English translation: MangaGamer. 07th-mod patch: the 07th-mod team.
+- French translation: [infocris](https://github.com/infocris), with Claude (Anthropic).
+
+This project is not affiliated with 07th Expansion, MangaGamer or 07th-mod. You need to own the
+game to use it.
