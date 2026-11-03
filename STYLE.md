@@ -297,3 +297,23 @@ vouvoient (« Maître »). Maria ↔ Beatrice, Rosa, Sakutarou : tu. Adultes Ush
 l'épisode 3 (Rosa vouvoie Natsuhi). Exceptions voulues : Eva vouvoie Kyrie avec une douceur
 mielleuse (下さらないかしら, lot 03) ; la Beatrice de la dernière énigme vouvoie Battler en rouge
 (あなた/です, lot 17).
+
+## Choix fixés lors de la relecture des épisodes 3-4 contre le japonais
+
+| Japonais / anglais | Français |
+|---|---|
+| 絶対 (Lambdadelta) / certainty, certainly | absolument, `absolument' (écho de « Sorcière de l'Absolu ») |
+| 煉獄の七姉妹 quand l'anglais dit « Seven Stakes » | les Sept Sœurs |
+| 魔界 / 異界 | le monde des démons / le monde des esprits |
+| 首を洗って待て / prepare yourself | Fais tes prières |
+| 間抜けども / cowards | imbéciles |
+| 篭城 / barricade | retranchement, se retrancher |
+| 立派な魔女 / Great Witch | une véritable sorcière (大魔女 seul = grande sorcière) |
+| 一服 | une cigarette (« en griller une ») |
+| 認める (Kinzo, succession) | reconnaître |
+| 3階 dans la fuite d'Ange (épisode 4) | troisième étage (jeu sur « 3 », exception voulue) |
+
+Registres : Virgilia vouvoie Beatrice (あなた/です), y compris en coulisses ; Battler tutoie Kinzo
+au méta-monde. Les rires restent espacés (« Ah ha ha », « Hé hé hé »). Typographie : espace
+avant ? et ! même après des points de suspension (« Hein... ? »). Les répliques de Sakutarou
+gardent 『…』 comme l'anglais.

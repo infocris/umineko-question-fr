@@ -1,0 +1,46 @@
+# 172235 : narration à la 3e personne (scène Eva/Rosa), pas « j'y pense » ; しかいない = il n'y a plus QUE la famille (l'anglais ajoute « almost »)
+172235|C'est vrai.‖  À bien y regarder, maintenant que les domestiques étaient `morts', il n'y avait plus sur cette île que des membres de la famille Ushiromiya.
+# 172307 : 決して…わけじゃない = négation catégorique ; « sûrement pas » est ambigu
+172307|"...Tant que je n'aurai pas la garantie de pouvoir faire tout ça sans que Nii-san me double, je veux du temps pour réfléchir.‖  Je veux seulement repousser mon annonce jusque-là.‖  ......Ce n'est absolument pas pour tout garder pour moi que je le cache."
+# 172680 : 立派な魔女 = une vraie sorcière à part entière (pas 大魔女, l'anglais met « Great Witch ») ; 想いが魔法に通じ実現させた
+172680|"Combien de nuits as-tu rêvé de la passer à ton doigt comme tu viens de le faire ?‖  ...La force de ce désir a rejoint ta magie et l'a rendu réel.‖  Désormais, tu es digne de te proclamer une véritable sorcière."
+# 172958 : 先代 = la Précédente (glossaire)
+172958|"J'attends de vous un calme digne de la Sorcière de l'Infini, contrairement à l'espiègle Précédente.‖  Ho ho ho ho ho ho."
+# 172965 : Beatrice vouvoie Virgilia (« Maîtresse », registre fixé)
+172965|"Maîtreeesse, on est en pleine cérémonie sérieuse, alors je vous en prie, pas de ça."
+# 172981 : l'anglais omet これより、常にお側に控えております ; いつでも = à tout moment, pas « sur-le-champ »
+172981|"Dès à présent, je me tiendrai toujours à vos côtés. Si quoi que ce soit vous gêne le moins du monde, ‖faites-le-moi savoir à tout moment."
+# 173415 : contresens hérité de l'anglais : Battler ne peut accepter CELLE qui affiche sa joie lors du couronnement (pas « accepter le sourire aux lèvres ») ; imparfait
+173415|Moi qui niais l'existence des sorcières, je ne pouvais pas accepter cette femme qui affichait sa joie lors d'une cérémonie de succession de sorcière...
+# 173666 : 夏妃さんこそね = « vous aussi (vous êtes un couple uni) », compliment rendu, pas « vous pouvez parler »
+173666|"Vous aussi, Natsuhi-san.‖  *gloussement*."
+# 173915 : 缶詰 = être confinés, pas manger des conserves (contresens de l'anglais)
+173915|"Ça n'a rien d'étonnant.‖  ...Il y a eu un meurtre tôt ce matin.‖  Et depuis, on est enfermés ici, un fusil dans les bras.‖  ...C'est normal que le stress s'accumule."
+# 174799 : くそったれ = juron de rage impuissante, pas une insulte adressée (« You bastards »)
+174799|"Bordel de merde !!
+# 175582 : 本来の正しい法則 = les vraies lois de la nature ; tournure calquée sur l'anglais
+175582|...Obéissant de nouveau aux véritables lois de la nature, Rosa se mit à descendre vers le sol, la tête la première.‖  Non, elle se mit à tomber.
+# 175763 : 生き返らせてあげたからもう平気 = « donc tout va bien », pas « on est quittes »
+175763|Et je ne savais pas que les Humains mouraient si facilement.‖  Mais je t'ai ramenée à la vie, alors tout va bien maintenant.‖  Alors lève-toi, d'accord ?‖  Joue encore un peu avec moi, d'accord ?
+# 175973 : 数億個 = des centaines de millions (l'anglais gonfle en « billions »)
+175973|Cela devint un plafond, devint une montagne, ...et des centaines de millions de gâteaux s'abattirent sur Rosa.
+# 176050 : すでに二度 = déjà deux fois (l'anglais met « repeatedly ») ; 一度だけしか味わわなくていい
+176050|À ce stade, la mort, qu'un Humain n'a besoin de connaître qu'une seule fois dans sa vie,‖ Rosa l'avait déjà connue deux fois.
+# 176053 : 二度の死 = mourir deux fois
+176053|Autrement dit, elle avait vécu ce qu'aucun Humain ne peut vivre : la précieuse expérience de mourir deux fois.
+# 176341 : あのはしゃぎっぷり = cette euphorie, pas « ce genre de jeu »
+176341|"Elle a l'air de bien s'amuser, non ?‖  Rien d'étonnant, la magie, c'est amusant !!‖  Je m'en souviens, quand j'ai commencé à savoir me servir de la magie, je me suis drôlement emballée, moi aussi !‖  ...Aaah, je comprends, je comprends, je comprends cette euphorie du fond du cœur !
+# 176381 : 一緒に鑑賞しているつもり = elle croyait regarder le spectacle avec lui
+176381|Et elle s'imaginait le savourer en compagnie de Battler.
+# 176407 : guillemets « » interdits, convention `…' pour “殺された”
+176407|...Elle avait déjà été `tuée'.
+# 176573 : そりゃあ確かにちょっとアレかなとは思うが = elle concède que c'est un peu limite (l'anglais déplace le sens)
+176573|"...B-Bon, d'accord, je reconnais que c'est un peu limite,‖ ...mais ce n'est qu'une farce innocente, non... ?‖  Peu importe comment on les tue, ils finissent toujours par revenir à la vie, pas vrai ?‖  ...Je croyais que les Humains étaient des créatures pour qui tout est bien qui finit bien... ?!
+# 176643 : 無視はいくらなんでもないだろ = « m'ignorer, c'est trop », pas une supposition
+176643|  Mais ne plus me regarder, ne plus me parler,‖ ...m'ignorer, c'est quand même trop...‖  Suis-je donc détestée à ce poiiiiiint... ?!"
+# 177130 : 拍子抜け = restée sur sa faim (anticlimax), plutôt que « déçue »
+177130|Beato prit un air fier, mais la nouvelle sorcière affichait une mine impassible, comme si elle restait sur sa faim.
+# 177138 : 先代さまのそれ = la manière de faire de la Précédente, pas la personne
+177138|"C'est un peu fade...‖  ...Rien à voir avec ce que Ronove m'a raconté de vos méthodes, Madame la Précédente."
+# 177293 : しっかりな = applique-toi, pas « sois prudente »
+177293|"Bon, ...c'est tout ce que j'avais à dire.‖  Alors, applique-toi pour la suite, compris ?‖  Agis avec dignité, et...euh, avec retenue, d'accord ?‖  ...Donne le meilleur de toi-même.‖  Je veille sur toi."

@@ -1,0 +1,64 @@
+# 225698 : 真里亞には… — Maria parle d'elle à la 3e personne
+225698|  Mais je ne suis pas seule !‖  Maria a Sakutarou et les autres !‖  Hein ?"
+# 225940 : その内 = « au bout d'un moment » (pas « en même temps ») ; 悔し涙 = larmes de dépit
+225940|...Au bout d'un moment, des larmes de dépit se mirent même à couler.
+# 226178 : 来ていた = un policier était là ; « l'attendait » est un ajout
+226178|...Un policier était là.
+# 226620 : 両肩を叩き = frapper les épaules, pas « saisir »
+226620|Rosa fondit sur Maria, abattit ses mains sur ses petites épaules avec une force impitoyable,‖ et baissa les yeux sur la peluche que Maria tenait dans ses bras, Sakutarou.
+# 226745 : 離せって言ってんでしょ — Rosa est passée à あんた/tutoiement avec l'assistante sociale (cf. 226532, 227187)
+226745|"Lâche-moi !!‖  Je t'ai dit de me lâcheeeeeeeeeeeer !!"
+# 226899 : « son petit ami » = petit copain en français ; 庇おうとした = voulait protéger
+226899|Si elle ne l'avouait pas, Sakutarou dirait quelque chose pour prendre la faute sur lui,‖ alors en avouant tout de suite, elle voulait protéger son petit camarade.
+# 226919 : あンたは黙ってなさい — tutoiement cohérent avec la crise de Rosa
+226919|"Toi, tais-toi !!!
+# 228815 : sujet de 信じさせ続けた = Sakutarou (phrases précédentes), pas « la magie » (ajout de l'anglais)
+228815|Même quand Maria a appris que ce n'était pas vraiment le travail qui en était la cause, il a continué à le lui faire croire.
+# 228821 : 自ら認める = le reconnaître d'elle-même, pas « se reconnaître elle-même »
+228821|Et en croyant que sa mère l'aimait, en le reconnaissant d'elle-même,‖ elle a rempli son monde d'amour, de paix et de sérénité, ...et l'a bâti entièrement.
+# 228993 : c'est Ange qui fait renaître la silhouette (蘇らせる transitif)
+228993|......j'ai fait renaître la silhouette de Sakutarou.
+# 229048 : 寝ぼけた声 = voix ensommeillée (l'anglais met « face ») ; そう答える
+229048|D'une voix ensommeillée, comme s'il s'éveillait d'un long sommeil, Sakutarou a répondu ainsi en regardant tout autour de lui.
+# 229178 : その人の世界 = le monde de cette personne ; l'anglais dit à tort « the human world »
+229178|"C'est que la magie existe pour ceux qui y croient.‖  Même si moi, je n'y crois pas.‖  Si quelqu'un y croit, alors la magie existe dans le monde de cette personne."
+# 229203 : 悪魔の証明そのもの = la preuve du diable elle-même (pas « sans doute »)
+229203|"Ce que vous dites là, Ange-sama, c'est la preuve du diable elle-même."
+# 229548 : 許されたから = « c'est parce que… », pas une hypothèse « si »
+229548|C'est parce que leur existence a été permise qu'elles peuvent bel et bien exister ici.
+# 229909 : 何が出来るのか = ce que je pourrai faire ; l'anglais « what will be created » est un contresens
+229909|"Qu'est-ce qui m'attend à Rokkenjima ?‖  Et qu'est-ce qui va se passer, qu'est-ce que je pourrai faire ?‖  ...Ou peut-être qu'il ne se passera rien."
+# 229969 : 降っていただろう — supposition d'Ange, pas une affirmation
+229969|Ce jour-là, le 4 octobre 1986, il pleuvait sans doute aussi.
+# 230113 : チャックをがばっと開き = ouvrir la fermeture éclair en grand ; pas de « clic »
+230113|L'homme en noir assis à l'avant posa sur ses genoux un sac lourd qui se trouvait à ses pieds,‖ en ouvrit la fermeture éclair d'un geste brusque, et montra à Kasumi ce qu'il contenait.
+# 230200 : 下手に気を利かせると = si on fait les gentils (en la renvoyant), pas « si on te retient »
+230200|"Avec la conférence familiale, ma mère et Genji-san doivent être à cran.‖  Si on fait les gentils en te renvoyant, ils vont croire que tu tires au flanc."
+# 230770 : お祖父さまに傘をもらった — « il » renvoyait à Genji ; préciser grand-père
+230770|"...Par exemple, si Genji-san était venu la voir en disant un truc du genre `Votre grand-père m'a chargé de vous remettre ceci, Maria-sama',‖ Maria-chan pourrait très bien dire que son grand-père lui a donné un parapluie, même sans avoir vu le vieux, non ?"
+# 231003 : はっとして = sursaut, pas « soulagée » (contresens de l'anglais)
+231003|Natsuhi releva brusquement la tête...
+# 225658 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225658|『Uryu.‖  Aujourd'hui, il n'y a pas que Sakutarou.‖  D'autres amis sont venus aussi.』
+# 225704 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225704|『Uryu- !!』
+# 225754 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225754|『Uryu.‖  Si tu ne manges pas de tout, tu ne grandiras pas.‖  Et si on prenait de l'oden, aujourd'hui ?』
+# 225770 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225770|『Uryu.‖  Je ne supporte pas ce qui pique...』
+# 225804 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225804|『Uryu- !‖  Merci de nous en avoir donné en plus, monsieur !』
+# 225846 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225846|『...Uryu ?‖  Qu'est-ce qu'il y a, Maria ?』
+# 225876 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225876|『Tu l'as fait tomber en sortant ton porte-monnaie... ?』
+# 225988 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+225988|『...Uryu...‖  Je suis sûr que tu l'as fait tomber en chemin...‖  Cherchons-la, d'accord ?‖  Refaisons le chemin à l'envers pour la chercher, d'accord... ?』
+# 226005 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+226005|『...Maria, ...je sais que c'est rageant, mais cherchons-la, d'accord... ?‖  Ce n'est la faute de personne, alors cherchons...』
+# 226022 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+226022|『Uryu...‖  Regardons bien par terre en cherchant, d'accord... ?‖  Et puis rentrons vite à la maison, réchauffons-nous près du chauffage et mangeons l'oden, d'accord ?‖  Je suis sûr que ce sera délicieux.』
+# 226071 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+226071|『...Uryu...‖  Ne pleure pas...‖  ...Mama ne rentre pas ce soir.‖  ...Faisons de notre mieux pour chercher...』
+# 226079 : Sakutarou — guillemets 『』 comme dans le reste de l'épisode 4
+226079|『Maria, ne pleure pas... !‖  Faisons de notre mieux pour chercher... !‖  ......Maria...』

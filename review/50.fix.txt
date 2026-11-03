@@ -1,0 +1,78 @@
+# 260305 : 許した = « j'ai laissé passer » (il renonce à frapper), l'anglais met « je ne l'ai pas fait »
+260305|"Ça, je l'ai laissé passer !‖  Je suis parti sans rien dire, comme si j'avais jamais été là !!‖  Et mon père m'a complètement oublié pour fonder une nouvelle famille avec Kyrie-san et Ange !‖  Ça règle pas tout, ça ?!!"
+# 260325 : 心を砕いてくれた = elle s'est donné du mal ; « briser le cœur » est un contresens de l'anglais
+260325|Kyrie-san comprenait ma colère,‖ et malgré ça, elle s'est donné beaucoup de mal pour garder des liens avec moi.
+# 260328 : 慕ってくれた = elle m'adorait ; « comme si c'était vrai » ajouté par l'anglais
+260328|Ange ne savait rien de la situation,‖ et même si je vivais ailleurs, elle me croyait son vrai grand frère et elle m'adorait.
+# 260345 : Il le lui a dit LE JOUR de l'enterrement ; 格好つけた親父 (le père frimeur) omis par l'anglais
+260345|"Ça me semblait de plus en plus ridicule !!‖  Je me suis dit qu'il était temps que je me calme, moi aussi.‖  Alors je lui ai dit que je passerais l'éponge s'il s'excusait.‖  C'était le jour de l'enterrement de Grand-père !‖  Et là, il a vraiment posé les mains par terre pour s'excuser... !!‖  Avec un air incroyablement pathétique... !‖  Lui qui veut toujours frimer, il a vraiment baissé la tête devant moi, tu te rends compte... ?!‖  ...Quand j'ai vu ça, j'ai trouvé que ce serait stupide de continuer plus longtemps."
+# 260372 : 全員殺した : « tu les as déjà tous tués », pluriel
+260372|"T'as aucun droit de juger que c'est un péché, et j'ai aucune obligation de me repentir devant toi !‖  S'il y avait des gens devant qui j'aurais vraiment dû le faire, tu les as déjà tous tués !!‖  Alors je m'excuserai de rien !‖  Je me repentirai pas !!‖  Voilà ma réponse à cette épreuve !!!"
+# 260407 : 呆れ = consternation, pas « écœurement » ; 期待外れ = je l'avais déçue
+260407|Mais au contraire, je sentais chez elle une sorte de consternation lasse,‖ ...comme si je l'avais déçue.
+# 260569 : 認めたはずだ = tu l'as reconnu toi-même (pas « on dirait »)
+260569|"Parce que... tes yeux me murmurent de m'excuser.‖  ...Mais j'avais aucun lien avec toi il y a six ans, et tu l'as reconnu toi-même."
+# 260775 : 思い出し始める : « se rappeler » (écho au thème du souvenir), pas « sentir »
+260775|J'ai commencé à me rappeler que les gouttes de pluie qui s'abattaient sur moi étaient froides.
+# 260837 : 思い出せぬと、言うか : adressé à Battler (« tu dis »), l'anglais passe à la 3e personne
+260837|...tu dis ne te souvenir...de rien."
+# 260923 : 後より現れた = apparue ensuite, pas « derrière elle »
+260923|La sorcière qui avait interrogé Battler disparut,‖ et l'autre sorcière, apparue après elle, resta seule.
+# 261023 : 侮っていた = sous-estimer, pas « mépriser »
+261023|  Le test de Maria a obtenu la note de passage sans contestation possible, vois-tu ?‖  Je l'ai longtemps sous-estimée, à la traiter de gamine, de gamine,‖ mais voyez, voyez, ma foi, ma foi, eh bien, eh bien, pas mal, pas mal !‖  Wah ha ha ha ha ha !!"
+# 261537 : 目的があった : « j'avais pour but », l'anglais ajoute « l'un de mes buts »
+261537|"......Autrefois, je ne pouvais pas te laisser me faire ça.‖  Car j'avais pour but de te vaincre.
+# 262391 : Vérité bleue : 資格の喪失 ; « perte de tes qualités » se lit comme « tes bonnes qualités »
+262391|#5decffCela signifie que tu as perdu les qualités requises.</i>
+# 262582 : 対戦相手たる右代宮戦人であるはずがない = tu ne peux pas être L'Ushiromiya Battler adversaire ; l'anglais en fait une apostrophe
+262582|"Non.‖  Tu ne peux pas être l'Ushiromiya Battler qui est mon adversaire.‖  En voici la preuve."
+# 262962 : 真里亞たち : Maria parle d'elle à la 3e personne (Maria et Beato)
+262962|"......Parce que c'est tellement amusant.‖  ...Maria et toi, on voulait faire entrer quelqu'un de proche dans notre cercle, hein."
+# 263140 : Contresens anglais : « si je ne me persuadais pas que c'était inévitable, c'était douloureux »
+263140|...Si je ne me persuadais pas que c'était bien compréhensible, je trouvais ça, je ne sais pourquoi, triste et douloureux.
+# 263259 : 先代先生 = l'ancien médecin de la clinique, pas forcément « le père »
+263259|  Kinzo-san, Genji-san, le majordome.‖  Nous autres, les gens des bateaux,‖ et une poignée des plus anciens domestiques.‖  ...L'ancien docteur de la clinique Nanjo et Kumasawa baa-san aussi, ils savaient.
+# 263627 : 察してやれ = « comprends-la », pas « laisse-la tranquille »
+263627|"Sois un peu compréhensif, mon gars.
+# 263866 : 親族のみんな = toute la parenté (cousins compris), pas seulement oncles et tantes
+263866|Toute la parenté, et les domestiques si amusants.
+# 263941 : 親族 = parenté (cousins compris)
+263941|Je perçois la présence de ma famille, de toute la parenté...et de tous les domestiques.
+# 263975 : 踏み躙った porte sur 彼女の気持ち (ses sentiments), pas sur le monde
+263975|...Maria voulait être encore plus heureuse en partageant ce monde, ‖mais moi, j'ai piétiné ce qu'elle ressentait.
+# 264179 : ようやく見つけた : pas de « on dirait » (ajout anglais)
+264179|"C'est Kasumi.‖  ......Je t'ai enfin trouvée, hein, Ange-chan...... ?"
+# 264303 : « son crachat n'a rien à envier à mes mots » : le français actuel est confus
+264303|...Mes mots sont peut-être orduriers, mais son crachat n'a rien à leur envier.
+# 264328 : 尻拭い (torcher) → réplique d'Ange クソまみれ : jeu de mots rétabli
+264328|  ......Ce regard insolent.‖  Ta bouche et ton nez sont les mêmes aussi.‖  ...Libre comme l'air et irresponsable.‖  ...Elle se moquait bien de la longue histoire et des traditions de la famille Sumadera...et elle s'est égoïstement enfuie de la maison.‖  Du coup, toute ma vie, c'est moi qui ai dû lui torcher le derrière... !"
+# 264335 : クソまみれ répond à 尻拭い (voir 264328)
+264335|"T'as passé ta vie les mains dans la merde, quoi."
+# 264476 : 可哀想な人 = à plaindre (« pitoyable » est péjoratif)
+264476|Quand j'y pense, c'était une femme à plaindre.
+# 264545 : 経済支援をダシに = en monnayant son départ, pas « prétexte »
+264545|Autrement dit, Kyrie avait quitté la famille Sumadera la tête haute, en monnayant son départ contre le soutien financier de la famille Ushiromiya.
+# 264765 : 恨んでも八つ当たりしても : la sœur, pas Ange ; 死んでもなお = même après MA mort
+264765|"Tu as dit quelque chose, tout à l'heure...‖  Quand est-ce qu'elle commencera, ma vie ?‖  ......J'aurais beau la maudire ou passer mes nerfs sur d'autres, je ne peux pas remonter le temps.‖  ...Alors, je devrais continuer comme ça jusqu'à ma mort, et même après, à en vouloir à ma sœur ?"
+# 264896 : 駄目 ≠ « inutile »
+264896|"...Rien à faire, je ne le vois pas...
+# 264928 : いいように = à leur guise ; « comme elle l'avait ordonné » est un ajout anglais
+264928|Pendant tout le temps qu'il fallut à Kasumi pour fumer tranquillement une cigarette entière, ‖les hommes en noir n'ont cessé de me malmener à leur guise.
+# 265105 : 代々押し付けられてきた = transmise de génération en génération
+265105|Elle n'aurait sans doute pas fait porter à ses enfants la souffrance imposée de génération en génération.
+# 265108 : わからない porte sur la durée (« depuis on ne sait combien de temps »), pas « qu'elle ne pouvait comprendre »
+265108|...Cette chaîne de souffrance et de tristesse, transmise depuis on ne sait combien de temps, ‖héritée et imposée de génération en génération...‖  ......Maria onee-chan l'avait brisée avec sa magie.
+# 265175 : C'est la même sorcière noire qui avait possédé Rosa (pas la magie)
+265175|Pour lui faire oublier sa souffrance et sa tristesse, ne serait-ce qu'un peu,‖ ......la sorcière noire, la même qui avait possédé Tante Rosa...lui avait enseigné la magie.
+# 265630 : 何も変わらない = « c'était exactement la même chose », pas « ça ne changerait rien »
+265630|...Se noyer de force dans le mauvais alcool d'un profond chagrin pour l'oublier un instant, ‖c'était exactement la même chose.
+# 265659 : 蹴る張り合いがなくなった = plus d'intérêt à frapper (pas de « concours »)
+265659|......Comme j'étais devenue toute molle, les hommes en noir semblaient avoir perdu tout intérêt à me frapper.
+# 265968 : 痛ァい = « la honte » (c'est gênant), pas une douleur
+265968|  Ha ha ha ha ha ha... !‖  Et ça, c'est quoi ?‖  Dissoudre du sucre dans de l'eau purifiée par le soleil... ?‖  Y tremper le bâton magique, et puis réciter une incantation, ......*ricane*ricane*ricane*, ha ha ha ha ha ha ha ha ha ha !!‖  C'est quoi ce délire ?!‖  Ha ha ha ha ha ha ha ha... !!‖  La hoooooooooonte !!"
+# 266194 : こいつのページ = la page de celle-là (Mammon)
+266194|"*ricane*ricane*ricane* !‖  Sumadera Kasumi, ouvre à la page de celle-là."
+# 266323 : ブサイクなライオンがあんた = « ce lion, c'est toi » (Sakutarou), pas « tout craché »
+266323|"Ha ha ha ha ha ha ha !!‖  C'est vraiment un gribouillis tout moche.‖  Alors ce lion affreux, c'est toi."
+# 266380 : 絹を裂くような音 = bruit de soie qu'on déchire
+266380|Il y eut un bruit de soie qu'on déchire.‖  ......La page avait été sauvagement arrachée...

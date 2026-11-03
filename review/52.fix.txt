@@ -1,0 +1,70 @@
+# 275948 : ベルンカステル卿め = exclamation sur elle (め péjoratif), pas une apostrophe ; Beatrice vouvoie Bernkastel, « Maudite sois-tu » faussait le registre
+275948|"Ah, cette Dame Bernkastel ! Ce n'est pas une pièce, cela : il siérait mieux de l'appeler un atout.‖  ...Une pièce a beau briller, jamais elle ne quitte l'échiquier.‖  Mais un atout, quelle que soit la puissance qu'il déploie, est toujours défaussé une fois joué."
+# 276321 : 否定されてはおらぬ = « je ne suis pas encore niée » (constat), l'anglais en fait une obligation
+276321|"Hmm, pas mal.‖  ...Mais je ne suis pas encore niée, loin de là, je ne suis pas encore tuée.‖  ...Cela ne suffit pas encore.‖  ......Dans les parties suivantes, il y avait des mystères que cela seul ne pouvait expliquer, n'est-ce pas ?"
+# 276482 : 第３のゲームまで全て = toutes les parties jusqu'à la troisième, pas seulement la troisième
+276482|#5decffle meurtre du docteur Nanjo, peut s'expliquer par une 18e personne inconnue X.</i>‖  Avec ça, j'ai tout démoli jusqu'à la troisième partie incluse !!!  Tu as quelque chose à répondre à ça ?!"
+# 276733-276737 : rouge 見間違わない = constat (« ne se trompe pas »), sans le conditionnel ajouté ; cohérent avec 277094
+276733|  #ff0000Personne ne se trompe en voyant Ushiromiya Kinzo.
+276737|  Quel que soit le déguisement employé, nul ne se trompe en voyant Ushiromiya Kinzo !</i>"
+# 276760 : bleu — 同じことで (de la même manière) omis ; « pour la seule » est un ajout de l'anglais
+276760|  De la même manière, il est possible que le statut de Kinzo, mort ou vivant, ait été modifié dans la 4e partie.</i>"
+# 276968 : 第一の晩にて、闇に飲み込まれて — c'est l'obscurité qui engloutit, au premier crépuscule
+276968|"Oh, ainsi tu me traites de fantôme ?‖  Tu comptes donc t'en tenir jusqu'au bout à cette théorie selon laquelle je serais déjà mort !!‖  Elle te sera fatale !!‖  Au premier crépuscule de la quatrième partie, sois englouti par les ténèbres, et disparais !!"
+# 277068 : bleu — その名を誰かが継承した : sujet = quelqu'un (a hérité), l'anglais inverse
+277068|  Et quelqu'un a hérité de `ce nom' !
+# 277125 : 全人物の中で…存在しない — « présentes » ajouté par l'anglais ; énoncé logique à rendre exactement
+277125|  `Parmi toutes les personnes, il n'en existe aucune qui porte plusieurs noms différents' !!"
+# 277198 : bleu — même inversion du sujet (誰かが受け継いだ)
+277198|  Ensuite, quelqu'un a hérité de ce nom !!
+# 277399 : 残り全てを貫く = intention (« je vais transpercer »), pas un résultat acquis
+277399|"Compte sur moi !!‖  Avec la 18e personne X de la théorie `Kinzo était mort', je vais transpercer tout le reste !"
+# 277636 : 今回のゲーム = la partie actuelle (la 4e), « dernière » ambigu ; « ensuite » ajouté par l'anglais
+277636|"...*ricane*ricane*...‖  ...Rosa pour seul témoin, ce n'est guère crédible, n'est-ce pas... ?‖  Voilà pourquoi j'ai multiplié les témoins jusqu'à l'extrême limite.‖  ...Et c'est justement...l'objet de la partie actuelle..."
+# 277737 : 個別に魔法を引き合いに出して — citer chaque magie, l'anglais invente un témoin
+277737|Tel qu'est Battler à présent, même si je citais chaque tour de magie un par un en exigeant une explication, il trouverait sans doute un moyen de les nier tous.
+# 277898 : 手を打つ = transiger, s'en contenter (et non « jouer mon coup »)
+277898|...j'aurais dû m'en contenter, à ce moment-là...
+# 278081 / 278204 : 駄目だな = refus (« pas question »), « ça va pas » sonnait faux en réponse à « achève-moi »
+278081|"Hors de question."
+278204|"Absolument hors de question.‖  Je ne te...
+# 278611 : rouge — 金蔵の分、１人減らす = réduire le nombre d'un (pour Kinzo)
+278611|  Je réduis ce nombre d'un, pour Kinzo !!</i>"
+# 278739 : 妾の譲りし勝利にて妥協しなかった — ne pas s'être contenté de la victoire qu'elle lui cédait ; l'anglais invente « ma victoire éclatante »
+278739|  Je te ferai regretter pour l'éternité de ne pas t'être contenté de la victoire que je t'offrais !!!‖  Allez, en commençant par la première partie !"
+# 278895 : bleu — 自分で殺した = il s'est tué lui-même ; « c'est lui qui a tué » était un contresens
+278895|"#5decffSi personne n'a pu le tuer, alors il s'est peut-être tué lui-même !!
+# 279328 : 千年の間 porte sur « pleurer », pas sur « ne reviendra pas »
+279328|  Je ne te rendrai pas à ta petite sœur... !‖  Qu'elle pleure pendant mille ans la famille qui ne reviendra pas... !!"
+# 279374 : bleu — 礼拝堂の扉 omis par l'anglais ; 同じ構造 = même mécanisme
+279374|"#5decffLa porte de la chapelle avait peut-être une serrure automatique, sur le même principe que le bureau du vieux.
+# 279458 : bleu — l'anglais omet 「６人を殺し」
+279458|  Si on suppose que l'une de ces personnes a tué les six et s'est cachée à l'intérieur, alors il n'y a aucun problème !</i>"
+# 279472 : rouge — 引き篭もり密室 = la chambre close avec quelqu'un caché dedans, « vase clos » flou
+279472|  Par conséquent, ta chambre close au coupable caché à l'intérieur ne tient pas !</i>
+# 279483 : どうしたよ…甘くないぜぇ — Beatrice passe au registre vulgaire, perdu en français
+279483|  Qu'est-ce qui t'arrive, c'est tout ce que t'as, Ushiromiya Battleer ?!‖  À partir de la deuxième partie, c'est plus du gâteau, paaas vrai ?!"
+# 280453 : 元よりそのつもりもなかろうが = « tu n'en avais pas l'intention de toute façon » ; l'anglais inverse le sujet
+280453|"De toute façon, tu n'en avais jamais eu l'intention."
+# 280611 : 同情の余地はない = pas de place pour la pitié (pas « pas le temps »)
+280611|...Mais la pitié n'a pas sa place ici.
+# 280618 : 世の中 = dans la vie, en ce monde (pas « le monde extérieur »)
+280618|Dans la vie, même des ennemis peuvent sans doute finir par se comprendre quand les circonstances changent.
+# 280651 : 少し改心するから = promesse (« je vais me repentir un peu »), pas un fait accompli
+280651|"Dis, Battler, je vais me repentir un peu, alors pardonne-moi encore cette fois.‖  Si tu le fais, je changerai mes méthodes pour tuer en quelque chose d'un peu mieux, d'accord ?‖  J'écouterai comment tu veux qu'ils soient tués et dans quel ordre, compriiiiiiiis ?
+# 281378 : narration de Battler au présent (理解する), le passé simple jurait avec les lignes suivantes
+281378|...Je...comprends.
+# 281385 : 魔女でいることが出来る最後の謎 = le dernier mystère qui lui permet de rester sorcière
+281385|le `dernier mystère' qui permet encore à Beatrice d'être une sorcière.
+# 281714 : いきなり切らされた = « on m'a forcée à la jouer » (par Lambdadelta), nuance perdue
+281714|"......Je craignais que, comme lors de la partie précédente, il finisse vraiment par prendre Beato en pitié et par entraîner la partie dans une drôle de direction.‖  ......Ange était un atout pour remettre Battler sur les rails s'il se trompait d'objectif.‖  ......J'aurais quand même voulu qu'elle le soutienne un peu plus avant de la sacrifier.‖  On m'a forcée à la jouer d'entrée.‖  Quel gâchis, pour une pièce qui avait demandé tant de préparation."
+# 281814 : 多少は知恵の回る子だったら…すり抜けられる — n'importe qui d'un peu malin passe à travers le rouge de Beato ; l'anglais en fait Beato elle-même
+281814|  Mais pas du touuut !‖  Presque toute la vérité bleue de Battler était fausse !‖  Le rouge tiédasse de Beato est plein de trous.‖  N'importe qui d'un peu malin passerait au travers sans peine en alignant quelques raisonnements tordus.‖  ...Ouais, ça m'énerve vraiment.‖  Moi, j'aurais tout taillé en pièces avec le rouge, de bout en bout."
+# 281856 : バッカじゃない vise Battler (absent), pas Bernkastel
+281856|  Il est idiot ou quoi ?‖  Je vais trancher ça avec ce truc, le précieux sabre rouge."
+# 281905 : ヘンなミステリー小説のお約束 → « un grand classique » (choix fixé), ヘン = bizarre
+281905|  #ff0000Quand les six ont été tués dans la chapelle, le coupable était à l'intérieur de la chapelle !</i>‖  Ce type essaie sans arrêt de tout expliquer avec le piège X.‖  C'est quoi ce piège X, un grand classique de romans policiers bizarres ?"
+# 281990 : la 2e proposition était inversée (« ne sera pas finie ») ; 解かれたらおしまい = finie si on la résout
+281990|"......À la fin, elle a dit un truc comme `Tue-moi' et elle a posé une grande énigme.‖  Ce n'était pas son baroud d'honneur, où Beato sera finie pour de bon si on résout cette énigme ?"
+# 282195 : 絶対にありえない決着の仕方だけはわかる — elle sait quelle issue est impossible ; « de cette façon-là » ne renvoyait à rien
+282195|"Je ne permettrai plus ni fuite ni suspension.‖  Je les forcerai absolument à continuer leur partie, et je ne les laisserai pas s'enfuir... !‖  Même si je ne peux même pas imaginer ce qui va se passer ensuite,‖ je sais en tout cas quelle issue est absolument impossible."

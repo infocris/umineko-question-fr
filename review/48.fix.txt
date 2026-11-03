@@ -1,0 +1,70 @@
+# 244324 : とぼとぼ = d'un pas traînant, penaud (pas « chancelant »)
+244324|Les chèvres sursautèrent puis revinrent penaudes, en traînant les pattes.
+# 244510 : George demande à Gohda d'aider Kumasawa (熊沢さんをよろしく), pas de venir « nous » aider
+244510|  Si les choses tournent mal, j'aimerais que vous sachiez improviser pour lui venir en aide.‖  Et plus que tout, je veux que vous restiez sains et saufs..."
+# 244724 : 母さんたち / 父さんたち = Maman et les autres, Papa et les autres
+244724|"C'est quoi, ce test... ?‖  ...Sale vieux, il se fout de nous... !‖  Maman et les autres tués, Papa et les autres capturés, tout ça pour ça...‖  Je comprends pas, je vais le buter... !"
+# 245149 : « qui regardent la partie de l'extérieur » ajouté par l'anglais
+245149|"......Nous tous, ici, avons perdu le droit d'hériter du titre de successeur.‖  ...Désormais, nous ne valons pas mieux que des pièces prises et retirées de l'échiquier.‖  Alors vous allez devoir vous battre seuls."
+# 245278 : それは俺たちに対しても同じかもな — pas de « si on essaie de riposter » (ajout anglais)
+245278|"...Il paraît que le vieux a tué ces six personnes dans la salle à manger en un instant, sans la moindre hésitation.‖  ...Il pourrait bien faire pareil avec nous."
+# 245378 : だからと言って = « ce n'est pas une raison », pas « justement »
+245378|...Ce n'est pas une raison.  Je ne vais pas rester les bras croisés à attendre qu'on tue ma fiancée.
+# 246218 : 見殺し = laisser mourir, pas massacrer
+246218|  ...Et... qui pourrait laisser mourir tous les autres, ...du moment que tout va bien pour eux deux... ?!"
+# 246231 : 魔界 = monde démoniaque ; gag du « jour des déchets non combustibles » rétabli
+246231|  Nous sommes à Rokkenjima, l'île des démons !‖  Elle est désormais entièrement coupée du monde des Humains et plongée tout entière dans le monde démoniaque, comme dans une fondue au fromage.‖  Les valeurs du monde des hommes, on les sortira au prochain ramassage des déchets non combustibles."
+# 246321 : ぎょろりと振り返る + 後で控えていた (derrière lui)
+246321|Il se retourna en roulant des yeux vers les sœurs Chiester, qui se tenaient derrière lui.
+# 246340 : 見出せん = trouver, pas choisir
+246340|"Imbécile, ne pas choisir du tout, c'est la fin de la partiiiiiiiiiie !!!‖  Lapine stupide, incapable même de trouver une raison ou un but à sa propre vie... !!"
+# 246359 : 守って死ねる = mourir en protégeant (pas « protéger puis mourir »)
+246359|"...Je sacrifierais la première, `votre propre vie'.‖  Les armes se battent et meurent au combat.‖  Et les armes existent pour anéantir l'ennemi et protéger les alliés.‖  Pouvoir mourir en protégeant ceux que nous aimons, voilà notre accomplissement."
+# 246381 : 見出せずに = sans avoir trouvé
+246381|"Répondre ainsi quand on t'interroge, ce n'est rien de plus que de réciter la réponse qu'on t'a inculquée !!‖  Tu ne vaux pas mieux que l'autre lapine de tout à l'heure.‖  Tu vis encore sans avoir trouvé de raison ni de but... !!‖  Rebut qui ne mérite pas de vivre... !‖  Il te siérait d'être broyée pour servir de pâtée au reste du bétail !!"
+# 246546 : 逃げ出すように姿を消す = disparurent comme si elles fuyaient
+246546|Les sœurs Chiester, leurs vieilles blessures du cœur rouvertes à vif,‖ disparurent comme si elles fuyaient.
+# 246606 : その悪魔の問い = cette question diabolique (pas « la question de ce démon »)
+246606|"......Hmmmm ?‖  Moi ?‖  *ricane*ricane*ricane*ricane* !‖  Oui, bien sûr, on m'a jadis soumis la même question.‖  C'est parce que j'ai répondu brillamment à cette question diabolique que j'ai pu obtenir l'or, les honneurs, et cette sorcière pour moi seul.‖  Quelle réponse ai-je choisiiiiiiiiiie ?‖  ......Faut-il vraiment que je le dise à voix haute ?‖  Wah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha... !!!"
+# 246939 : 余計に傷つける = blesser encore davantage (pas « plus que nécessaire »)
+246939|"...Kanon sera-t-il capable d'accepter votre sacrifice ?‖  N'avez-vous pas songé que votre décision égoïste risquait de le blesser encore davantage... ?"
+# 247246 : 思い切り — écho du message de Jessica (« vivre à fond ») perdu par l'anglais
+247246|...Mais Krauss, lui, y allait à fond.
+# 247247 : idem, 思い切り、今を生きていた
+247247|En père de Jessica, pour la sauver, il vivait l'instant présent à fond.
+# 247529 : 呆れるかのように = comme s'il n'en revenait pas, pas « avec mépris »
+247529|George lança ces mots au démon, presque comme s'il n'en revenait pas.
+# 248181 : Ronove poli (試させて頂きますよ) — « compris ? » trop rude
+248181|"Moi, Ronove, ‖je vais vérifier si votre résolution mérite la note maximale, si vous le permettez... ?"
+# 248539 : 奈落の終点が一撃 = le coup final de l'Abîme
+248539|"......Prends ça et savoure.  Le coup final de l'Abîme.‖  ...Meurs... !"
+# 248753 : 悪くない動き — tournure fautive
+248753|"Pu ku ku ku.‖  Vos mouvements ne sont pas mauvais.‖  Mais je les trouve un peu indignes d'une dame."
+# 248930 : 初めて omis
+248930|Pour la première fois, Ronove para le poing de Jessica avec son bras.
+# 248974 : キャラが崩れます (blague méta) — prépare le jeu de mots 崩れる/崩れ落ちる de Jessica
+248974|"Cela, je ne le puis.‖  Mon personnage s'effondrerait."
+# 248982 : jeu de mots 崩れる → 崩れ落ちる rétabli
+248982|"Alors c'est toi qui vas t'effondrer.‖  Tir en rafaaaaaaaaaaaaaale !!!"
+# 249165 : シールドごとブチ抜く = te défoncer, bouclier compris (« avec » bancal)
+249165|"...Dans ce cas, ...je vais te défoncer, bouclier compris... !!"
+# 249960 : 冷酷に = froidement
+249960|Sur le flanc de Gaap,‖ George l'annonça froidement, le pied toujours levé.
+# 250360 : 絶対の決意 = détermination absolue (écho de 絶対 / l'Absolu)
+250360|Une détermination absolue, ...qui serait impitoyable envers quiconque voudrait poursuivre le combat...‖et qui le forcerait à se préparer à une riposte à la hauteur.
+# 250363 : idem
+250363|Une détermination absolue... devient magie.
+# 250776 : idem
+250776|Une détermination absolue... devient magie.
+# 250767 : 浸透付与 = enchantement perforant
+250767|"......Voilà qui... n'est pas bon.‖  ...Un enchantement, n'est-ce pas ?‖  ...Un enchantement perforant... voilà qui est fâcheux."
+# 251101 : 一体何なの = « qu'est-ce que vous êtes » (amène la réponse « des Humains »)
+251101|"Mais qu'est-ce que...
+# 251103 : idem
+251103|...vous êtes donc, tous les deux... ?"
+# 251125 : ニンゲン en katakana → « Humains » (convention du lot) ; réponse à « qu'est-ce que vous êtes »
+251125|"Nous sommes des Humains."
+# 251451 : 狙われてます = nous sommes visés (pas seulement Krauss)
+251451|"Mettez-vous derrière moi, je vous en prie.‖  Nous sommes visés... !!"
+# 252321 : かなり苦労 = très laborieux, pas « un peu »
+252321|Cela avait été très laborieux pour Krauss, avec sa carrure, et pour Nanjo, avec son tour de taille rédhibitoire,‖ mais ils parvinrent tous à passer.

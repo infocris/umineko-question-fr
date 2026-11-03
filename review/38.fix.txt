@@ -1,0 +1,38 @@
+# 184866 : 二次遭難 = risque que les secours deviennent à leur tour victimes ; l'anglais en fait un « second drame lié »
+184866|"...C-Cela arrive juste après l'attaque de Rosa-san.‖  ...Nous risquons de devenir à notre tour des victimes.‖  Nous devrions agir avec prudence et..."
+# 185043 : la phrase suivante dit que Beato l'a convaincue de se modérer : intention, pas fait accompli
+185043|...En réalité, la sorcière entendait les tuer d'une manière bien, bien plus horrible.
+# 185071 : 五十歩百歩 (bonnet blanc et blanc bonnet) ; l'anglais invente « à en juger par son regard… plus de mal que de bien »
+185071|...Mais pour Battler, ce ne serait sans doute que bonnet blanc et blanc bonnet.
+# 185163 : 聞けねぇ相談 = demande, pas conseil ; それを認めないために = « pour ne pas l'accepter », il ne quitte pas (pas « ne peux pas »)
+185163|"......Désolé, ‖mais c'est une demande que je peux pas accepter.‖  ...Je n'accepterai jamais cette ordure cruelle et odieuse comme adversaire.‖  ...C'est justement pour ne pas l'accepter que je ne quitte pas cette partie."
+# 185690 : 有限 = le fini (opposé à l'Infini), 終焉 = la fin ; l'anglais met « limites / pertes »
+185690|"......C'est pour cela que la Magie de l'Infini est considérée comme un art maléfique.‖  ...La Sorcière de l'Infini n'a aucune notion de la finitude.‖  ...Briser, tuer : elle ignore tout de ce qui est fini, de ce qui prend fin."
+# 185804 : 誰の思惑でもない répond à l'idée d'une épreuve voulue par quelqu'un : « personne n'est derrière »
+185804|"...J-Je n'en sais rien.‖  ...Si je t'ai proposé cette partie, c'était... euh... simplement pour tuer le temps...‖  Personne n'est derrière tout ça."
+# 186135 : 決意した = résolu, pas « s'efforcer »
+186135|George avait résolu de renaître après avoir rencontré Shannon.
+# 186474 : 月日 = le temps, des décennies (cf. ligne suivante), pas « des mois »
+186474|Mais... cet instant avait sûrement suffi à le récompenser de toutes ces années de recherche.
+# 186566 : 一応 = pour la forme (omis)
+186566|Je suis passé, pour la forme, à la chambre du docteur Nanjo pour lui demander s'il voulait encore du café,‖ mais il m'a dit que lui non plus n'en voulait pas.
+# 186693 : 傾倒 = se passionner, se vouer à ; « vénérer » vient de l'anglais « idolized »
+186693|Maintenant, je comprends.‖  ...Je comprends pourquoi Grand-père s'était passionné pour l'occultisme occidental.
+# 187762 : あぁ、そう。わかったわ = réaction boudeuse (« ah, c'est comme ça »), pas « t'as raison »
+187762|"...Ah, ...c'est comme ça.‖  ...Très bien.‖  Je vais disparaître de devant toi.
+# 188005 : あなた dit par Natsuhi à Krauss = « Mon ami » (choix du lot 32), « Mon chéri » détonne avec son registre
+188005|".........Mon ami..."
+# 188611 : 将来を誓い合った夢 = rêve d'avenir qu'ils s'étaient promis ; « protéger » est un ajout anglais
+188611|Elle était née de la force du chagrin de George devant la mort de celle qu'il aimait, ...et de toute une vie passée à faire de son mieux, ‖du temps chaleureux passé avec Shannon, et de la grandeur du rêve d'avenir qu'ils s'étaient promis.
+# 188714 : le japonais parle de cette vie-là (le vase), pas d'une généralité
+188714|Une vie... perdue aussi facilement, aussi fugacement que cela.
+# 189075 : 指輪の形をした想いが奇跡を実現させた = les sentiments ont accompli le miracle ; l'anglais en fait « étaient un miracle »
+189075|......Les sentiments du couple, sous la forme de cette bague, avaient accompli ce miracle.
+# 189478 : typographie ?!?! (comme ailleurs)
+189478|"...Aaaaaaaaaaaaaaaaaaaaaaahhhh ?!?!"
+# 190054 : お手洗い = les toilettes (elle était allée se passer de l'eau sur le visage), pas « se laver les mains »
+190054|Apparemment, pendant que Tante Eva s'était absentée un instant aux toilettes, ‖Oncle Krauss et Tante Natsuhi avaient disparu.
+# 190145 : この期に及んでは = vu où on en est (maintenant), pas « le moment venu »
+190145|......Vu où on en est, j'y suis favorable, moi aussi.
+# 190152 : 大所帯 = une troupe nombreuse ; « joyeuse » est un ajout anglais
+190152|On pensait que rester enfermés dans la maison d'hôtes serait sûr,‖ et c'est pour ça qu'on s'y est barricadés ce matin, toute une troupe de douze personnes.

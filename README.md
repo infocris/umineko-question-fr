@@ -10,13 +10,13 @@ Only the text changes.
 |---|---|
 | Episode 1 (*Legend of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
 | Episode 2 (*Turn of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
-| Episode 3 (*Banquet of the Golden Witch*), Tea Party, ???? | translated (Japanese used as reference), not yet reviewed against the Japanese |
-| Episode 4 (*Alliance of the Golden Witch*), Tea Party, ???? | translated (Japanese used as reference), not yet reviewed against the Japanese |
+| Episode 3 (*Banquet of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
+| Episode 4 (*Alliance of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
 | Menus, buttons, title screen, date and notice screens | translated (388 images) |
 | Character profiles and Tips pages | translated (from OCR of the English pages) |
 
 The translation is AI-assisted: it was first made from the official English (MangaGamer) text,
-then checked line by line against the original Japanese. Nothing has been proofread by a human
+then checked line by line against the original Japanese (Episodes 3-4 were also translated with the Japanese at hand). Nothing has been proofread by a human
 yet, and the result has not been fully play-tested in-game.
 
 ## Installing

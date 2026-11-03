@@ -1,0 +1,62 @@
+# 178024 : 失望し = « j'ai été déçu » ; l'anglais durcit en « perdre tout respect »
+178024|...À cet instant, j'ai été déçu, et j'ai compris.
+# 178230 : 今は敢えてそうだと仮定する = il pose exprès l'hypothèse pour l'instant (l'anglais : « je peux me résoudre à »)
+178230|"...J'ai déjà joué mon coup.‖  Si on suppose que Tante Rosa est la coupable et qu'elle est morte accidentellement, je peux nier la sorcière.‖  ...J'ai pas envie de soupçonner Tante Rosa, mais pour écraser Beato, pour l'instant, je pose exprès cette hypothèse."
+# 178402 : 彼らの自作自演 = qu'ils l'aient mise en scène eux-mêmes (sujet perdu par l'anglais)
+178402|"...Après tout, la situation de chambre close dans laquelle ils se trouvaient ne pouvait s'expliquer qu'en supposant qu'ils l'avaient mise en scène eux-mêmes."
+# 178834 : 私、そんな夢なんか知らないわよ = « je ne connais pas ce rêve » — la réplique suivante (« tu l'as oublié ») y répond ; l'anglais met « I don't give a damn »
+178834|"Moi, je ne le connais pas, ce rêve... !"
+# 179071 : 魔法が信じられていた = on croyait à la magie (l'anglais : aux sorcières)
+179071|  ...Ce n'était pas un problème autrefois, quand on croyait à la magie,‖ mais à l'image de cet agaçant Battler, les gens de notre époque nient fondamentalement la magie."
+# 179094 : 劇的に除算 (divisé de façon spectaculaire) omis ; そのような計算式ならば = « si le calcul est ainsi », pas « une formule aussi simple »
+179094|"Vous plaisantez.‖  En fait, c'est très simple à comprendre.‖  ...Autrement dit, vous dites que plus il y a de gens qui ne croient pas à la magie,‖  et plus leur volonté est forte, plus l'effet de la magie se trouve divisé de façon spectaculaire.‖  ...Je vois, si c'est ainsi que se fait le calcul, je vais devoir revoir ma façon d'attaquer."
+# 179127 : 十数人 = une quinzaine de personnes, pas « quelques dizaines » (erreur de l'anglais)
+179127|En ce sens, Rokkenjima, avec sa population d'une quinzaine d'humains à peine, était extrêmement favorable aux sorcières.
+# 179237 : 〜がここからのポイント = « tout l'enjeu, désormais » ; l'anglais « it all begins from one point » est un contresens. « retranchement » comme dans les répliques voisines
+179237|"En effet, c'est sans doute le moyen le plus efficace.‖  Moins il y a d'Humains, plus le dénominateur diminue.‖  En conséquence, le pouvoir magique fait effet aussitôt.‖  Autrement dit, tout l'enjeu, désormais, sera de briser ce retranchement et de les disperser en petits groupes."
+# 179316 : ちょっぴり面白くない様子 = un peu vexée ; l'anglais inverse la nuance (« not happy at all »)
+179316|...Beato avait l'air un tantinet vexée.
+# 179348 : 虚しくなり = gagnée par un sentiment de vide (pas « se sentit bête »)
+179348|Gagnée par un sentiment de vide, Beato cessa vite de rire.
+# 179614 : 私たちはいい = « nous, nous pouvons tenir » (pas « ne t'en fais pas pour nous »)
+179614|"...Nous, nous pouvons tenir,‖  mais cela me fend le cœur de laisser les enfants affamés...‖  En tant que parent, je dois assumer mes responsabilités."
+# 179734 : Krauss vouvoie Hideyoshi (registres fixés ép. 3), comme dans « Je vous donne la permission » juste après
+179734|"...Quand il s'agit de la santé de votre femme, vous ne pouvez pas rester les bras croisés...
+# 180298 : 家具 = meubles (glossaire), l'anglais met « servants »
+180298|"Oui.‖  Tout confier à ses meubles sans s'exposer au danger fait aussi partie des goûts raffinés d'une sorcière.‖  Beatrice-sama, laissez faire les meubles et cachez-vous en lieu sûr."
+# 180429 : 先代さまに気兼ね = ménager la Précédente ; « caprices » est un ajout
+180429|"......Il y a même des règles sur la façon de les tuer.‖  ......Pourquoi devrais-je ménager Madame la Précédente ?‖  ......C'est tellement rigide et ennuyeux."
+# 180470 : 力自慢を自称する = qui se targue de sa force (pas « qui voulait la montrer »)
+180470|Hideyoshi, qui se targuait de sa force, prit le chariot, et Rudolf et sa femme se chargèrent de la garde.
+# 180512 : チリチリする = sensation de picotement ; l'anglais aplatit en « c'est vague » et ajoute « qui me ronge »
+180512|"...Ça me picote.‖  ......J'ai un mauvais pressentiment."
+# 180787 : 姉ちゃんたち → « ces demoiselles » (STYLE ép. 3), pas « gamines »
+180787|Qu'est-ce que c'est que ces demoiselles... ?!"
+# 181796 : 再婚してほしい = qu'il se remarie avec moi
+181796|Et qu'il se remarie avec moi.  Rongée par l'envie, je n'ai pas cessé de la maudire ainsi, encore et encore, jusqu'à ce qu'Asumu-san finisse par mourir.
+# 182938 : お仕事の時間だにぇ = « c'est l'heure de bosser » (l'anglais déforme)
+182938|"Nihi.‖  C'est l'heure de bosser, nyeh.
+# 182977 : そこはダメです = 45 prévient Lucifer qu'elle est mal placée (cf. réplique suivante)
+182977|"45, données reçues.‖  Vérification de la zone de danger... ah, pas là, c'est dangereux !"
+# 183437 : ゲーム de Beatrice et Battler = la partie (glossaire)
+183437|"............‖...Vous voulez parler de votre adversaire dans cette partie, celui contre qui vous vous battez quelque part, paraît-il ?‖  Ronove me l'a dit."
+# 183513 : ヘソでも噛んで死んじゃえ → « t'as qu'à crever » (choix fixé ép. 3)
+183513|  T'as qu'à crever, tiens..."
+# 183542 : 誰が見てもわかる = il était évident pour tous qu'elle regardait Beato (l'anglais glisse vers « ce qu'elle voulait dire »)
+183542|...Cela sautait aux yeux de quiconque était présent.
+# 183555 : 繋がる = mène à (pas « condition ») ; おってな, 認めんのだ au présent : l'entêté refuse toujours
+183555|"Eh bien, quant à cela,‖  ...c'est parce que faire admettre l'existence des sorcières à tous les humains mène à une domination parfaite.‖  Il y a un entêté qui refuse obstinément, quoi qu'il arrive, de me reconnaître comme sorcière."
+# 183599 : 誰に認められずとも、もう立派な魔女 = sorcière à part entière sans avoir besoin d'être reconnue ; 形式的な敬意…好意 = respect de pure forme, par bonne grâce
+183599|"Madame la Précédente, apparemment, vous ne pouvez pas devenir une sorcière tant que cette personne ne vous reconnaît pas, mais moi, c'est différent.‖  Personne n'a besoin de me reconnaître : je suis déjà une sorcière à part entière.‖  ......Puisque vous êtes ma prédécesseure, je vous témoignerai un respect de pure forme,‖  mais c'est par bonne grâce, pas par devoir."
+# 183844 : guillemet fermant en trop (la réplique continue en 183846)
+183844|"......‖...Uu...
+# 183939 : guillemet fermant en trop (la réplique continue en 183942)
+183939|"Ahhahahahahahahahahahhahahahaha !!‖  Comme c'est amusant de disposer à ma guise de la vie et de la mort des gens !‖  Avec le pouvoir de la Sorcière de l'Infini, l'infinité de tout ce que j'imagine devient réalité !‖  Peu importe à quel point je les réduis en bouillie, ‖je peux les ressusciter et les remettre en état d'un simple claquement de doigts.‖  Parce qu'au final, il me suffit de restaurer les cadavres et de suivre l'épitaphe pour la forme.
+# 184007 : 無限の魔女の私 = la Sorcière de l'Infini ; l'anglais met à tort « the Golden Witch »
+184007|"Ce bonheur... aah, personne ne peut sans doute le comprendre.‖  Personne d'autre que moi, la Sorcière de l'Infini !!"
+# 184197 : また更正させたる = « encore » une fois (il l'a déjà fait), pas « s'il le faut »
+184197|  J'vais encore te remettre dans le droit chemin, sale caractère !!‖  Idiote !
+# 184330 : 遺体の脇 = à côté du cadavre (l'anglais ajoute « dans un coin »)
+184330|...Le fusil, qui était tombé à côté du cadavre de Rudolf, flottait dans les airs,‖  ...et un filet de fumée s'échappait encore du canon.
+# 184437 : 死に顔は、涙にまだ濡れていた = visage mort encore mouillé de larmes (pas « où les larmes coulaient »)
+184437|Elle baissa les yeux sur le visage mort d'Hideyoshi, encore mouillé de larmes...

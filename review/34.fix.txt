@@ -1,0 +1,144 @@
+# 158105 : 「生皮を剥がして…鞭打つのを、特別に許してあげても」: le `pardon' est de l'écorcher vif (sadisme) — l'anglais inverse le sens
+158105|"Je veux bien te faire la faveur spéciale de te laisser écorcher vif...‖et fouetter sur tout le corps, à te tordre de douleur jusqu'à ce que tu en crèves.‖  Héhéhéhéhéhéhéhé !"
+# 158116 : あなただけは / 最高にステキな気分の中で : « toi seul », « dans un délice absolu » (l'anglais omet et affaiblit)
+158116|"T'es tout mignon, alors excuse-toi...‖  Si tu le fais, toi et toi seul, je t'achèverai tout doucement, tout doucement, dans un délice absolu..."
+# 158830 : 驕ったな…だから、お前は僕に勝てない : pas de « encore » ni de « je t'avais dit » (ajouts de l'anglais)
+158830|"Tu as été arrogante...‖  ...C'est pour ça que tu ne peux pas me vaincre..."
+# 159369 : だからお姉様は駄目なのよ : « voilà pourquoi », pas « je vous l'avais dit »
+159369|"Voilà pourquoi Onee-sama est nulle.
+# 159583 : 妹たちに呪いの言葉を投げ掛けた後 : c'est Lucifer qui maudit ses sœurs, pas l'inverse
+159583|Après avoir grincé des dents encore et encore et lancé des malédictions à ses sœurs,‖ ......Lucifer, tremblant de tout son corps...
+# 159962 : 赤い一文字の模様 : des entailles rouges en traits droits, pas des « lettres »
+159962|...Elles ne cessaient de lui érafler les bras, les épaules et les joues, ‖et son corps se couvrait peu à peu d'entailles rouges, l'une après l'autre...
+# 160336 : 苛烈な死は、死して尚、苛む : la mort cruelle tourmente même après la mort
+160336|  ...Toutes les morts ne se valent pas.‖  Une mort cruelle continue de te tourmenter même une fois mort.
+# 160451 : coquille « raché » → « raté » (全然駄目)
+160451|  C'est quoi, cette histoire de se moquer de mourir, juste parce qu'on t'a donné une bague ?!‖  Aaaaah, je comprends pas, c'est incompréhensible, décevant, scandaleux, ahurissant, et c'est complètement ratéééééééé !!"
+# 160592 : 目を覆っていた右手 : les yeux, pas le visage
+160592|Et lorsqu'il retira la main droite qui lui couvrait les yeux, 
+# 160624 : 笑みの中に神妙なものを浮かべていた : une gravité recueillie sous le sourire, pas un sourire « énigmatique »
+160624|...Seul Ronove laissait paraître une certaine gravité sous son sourire.
+# 161099 : typographie : espace avant ? / ! après les points de suspension
+161099|Comme si les sorcières et la magie pouvaient exister... !
+# 161111 : typographie : espace avant ? / ! après les points de suspension
+161111|"......Hein... ?"
+# 161144 : typographie : espace avant ? / ! après les points de suspension
+161144|Le vacarme redoubla, tant et si bien que le couvercle de l'une des marmites finit par tomber... !
+# 161363 : typographie : espace avant ? / ! après les points de suspension
+161363|Allez, cherchez, cherchez, trouvez-la, trouvez-la... !
+# 161497 : typographie : espace avant ? / ! après les points de suspension
+161497|"......Hein... ?‖  ......Quoi ?"
+# 161516 : typographie : espace avant ? / ! après les points de suspension
+161516|c'est que ça... ?"
+# 161536 : typographie : espace avant ? / ! après les points de suspension
+161536|  ...Seriez-vous par hasard des amies de cette enfant... ?"
+# 161545 : typographie : espace avant ? / ! après les points de suspension
+161545|"...Qu'est-ce que c'est que......cette vieille bique... ?!"
+# 161704 : typographie : espace avant ? / ! après les points de suspension
+161704|"Beatrice-sama... !"
+# 161727 : typographie : espace avant ? / ! après les points de suspension
+161727|"Elle appelle Ronove-sama sans le `sama'... !"
+# 161896 : Virgilia vouvoie tout le monde (下げなさい à Ronove) : tu → vous
+161896|"Ronove,‖ faites reculer ces jeunes meubles.‖  Un meuble ne fait que servir son maître.‖  C'est à la maîtresse de porter tous ses crimes."
+# 161956 : 持て成してもらいましょうか : acceptation nette, pas de « peut-être »
+161956|"Voyons.‖  Ces retrouvailles se sont fait attendre plus longtemps que le passage d'une comète.‖  Je vais donc accepter votre hospitalité.
+# 161974 : typographie : espace avant ? / ! après les points de suspension
+161974|  ...À vos ordres, Maîtresse.‖  Voyez donc à quel point votre disciple est devenue brillante, ‖et combien elle vous a surpassée depuis longtemps... !"
+# 162272 : typographie : espace avant ? / ! après les points de suspension
+162272|J-Je comprends plus rien à ce qui se passe... !‖  Qu'est-ce qui est en train de se passer sous mes yeux... ?!"
+# 162288 : typographie : espace avant ? / ! après les points de suspension
+162288|"Q-Qui es-tu, bon sang... ?‖  Pourquoi la vieille Kumasawa s'est transformée en jolie demoiselle comme ça ?!‖  Non mais sérieux, t'es qui ?!‖  Je pige rien !‖  C'est quoi, ces effets spéciaux ?!‖  J'ai l'impression que ma tête va exploser !!"
+# 162300 : じゃなくてッ : « c'est pas ça » ; « attendez » cassait le tutoiement de Battler envers Virgilia
+162300|"Comme tu l'as dit toi-même, ta disciple m'en fait voir de toutes les couleurs !‖  Je t'en prie, prends tes responsabilités et fais quelque chose !‖  Non, c'est pas ça !!"
+# 162439 : typographie : espace avant ? / ! après les points de suspension
+162439|"...*ricane*ricane*‖  Je n'en attendais pas moins de toi, Maîtresse.‖  On dirait que c'est si dérisoire pour toi que t'as même pas envie d'ouvrir les yeux... !
+# 162499 : typographie : espace avant ? / ! après les points de suspension
+162499|"Hihhyahhyahhyaaaaaa !!‖  Va pas croire que tu pourras esquiver en te changeant en papillons, hein ?‖  Avec la densité de tir des tours jumelles, tu finirais pas comme un insecte épinglé dans une collection, mais comme une pelote d'épingles criblée de toutes parts, hein... ?"
+# 162639 : 何人たりとも = nul, qui que ce soit (l'anglais lit « aucun groupe si nombreux »)
+162639|Eh oui, nul, qui que ce soit, ne pouvait approcher les mystères du ciel.‖  Telle était la vérité de la tour déchue.
+# 162770 : 何億 = des centaines de millions, pas « plusieurs milliards »
+162770|Elles se changèrent en des centaines de millions de papillons dorés.
+# 162952 : typographie : espace avant ? / ! après les points de suspension
+162952|  Elle a arrêté la Lance divine... !!"
+# 162977 : このような荒事ばかり腕をあげました : pique de Virgilia — c'est seulement à la bagarre qu'elle a progressé
+162977|".........Ce n'est que dans ce genre de bagarres que vous avez fait des progrès."
+# 163229 : typographie : espace avant ? / ! après les points de suspension
+163229|"La récréation est terminée, Beatrice... !"
+# 163247 : typographie : espace avant ? / ! après les points de suspension
+163247|prise de flaaaaanc... ?!"
+# 163388 : typographie : espace avant ? / ! après les points de suspension
+163388|"...Bon sang de boooooooooooooois... !!!"
+# 163708 : typographie : espace avant ? / ! après les points de suspension
+163708|"......Arrête...‖  Pardonne-moi, Maîtresse...‖  Je faisais que m'amuser un peu, d'accord... ?"
+# 163787 : typographie : espace avant ? / ! après les points de suspension
+163787|...que j'ai pas chanté avec toi, Maîtresse... ?"
+# 163804 : typographie : espace avant ? / ! après les points de suspension
+163804|"...Allons, essaie de te souvenir.‖  Quelle forme avais-tu... ?"
+# 163836 : typographie : espace avant ? / ! après les points de suspension
+163836|"...Hahahahahaha...‖  Oui, essaie de te souvenir.‖  ...Tu commences enfin à te souvenir... ?‖  ......Dis, Maîtresse."
+# 163848 : typographie : espace avant ? / ! après les points de suspension
+163848|de ce qu'il y a derrière toiiii... ?"
+# 163880 : typographie : espace avant ? / ! après les points de suspension
+163880|............c'est que ceci... ?"
+# 163955 : typographie : espace avant ? / ! après les points de suspension
+163955|  ...Quand...avez-vous...... ?"
+# 164005 : すで挟み殺していた : elle était DÉJÀ morte dès le premier coup (clé du retournement)
+164005|...Les tours cachées de part et d'autre l'avaient criblée d'une tempête de traits de baliste depuis 720 meurtrières,‖ et l'avaient déjà tuée, prise en étau.
+# 164075 : typographie : espace avant ? / ! après les points de suspension
+164075|"Tu vois ?‖  J'ai fait tout ce que tu m'as dit, hein... ?‖  Tu m'as bien dit de toujours ranger mes jouets dans leur coffre quand j'ai fini de jouer avec, non ?
+# 164191 : typographie : espace avant ? / ! après les points de suspension
+164191|"*ricane*ricane*ricane*  Hahhhahahahahahahahaha... !!
+# 164242 : typographie : espace avant ? / ! après les points de suspension
+164242|"Allons, Battler-sama,‖ pourquoi ne pas revenir à la table sans perdre courage ?‖  Mademoiselle attend votre contre-attaque, voyez-vous... ?"
+# 164281 : 出来ねぇのは千兆も承知 : jeu sur 百も承知 (« je le sais mille fois ») — l'anglais en fait « un quadrillion de choses que tu ne peux pas faire »
+164281|"Allez, allez, regarde, regarde, regarde, mon tour est fini, tu voiiiiiiiis ?!‖  Montre-moi ta réponse, lance ta contre-attaque !!‖  Tu peux pas, hein, tu peux paaaaaaas ?‖  Que tu peux pas, je le sais mille milliards de fois !!‖  T'es impuissant face à ça, pas vraiiiiiiiiii ?‖  En fait, t'adores ce genre de fantasy, pas vraiiiiiii ??"
+# 164337 : カーテンを開けて : tirer les rideaux, pas ouvrir une fenêtre
+164337|Il aurait été impossible de savoir que le matin était venu sans tirer les rideaux et lever les yeux vers le ciel nuageux, devenu un tout petit peu plus clair.
+# 164375 : ほとんどの手 : « la plupart » des coups, pas « tous » ; 想定できたはず
+164375|"En effet.‖  ...Cependant, nous avons sans doute prévu la plupart des coups qu'ils pourraient jouer contre nous."
+# 164389 : もうこの話は終わりにしましょ？ : Rosa propose de clore la discussion (le français disait l'inverse) ; 結局 = « finalement »
+164389|"...Si on arrêtait là cette discussion ?‖  Finalement, on a passé toute la nuit debout.‖  ...J'ai sommeil."
+# 164452 : typographie : espace avant ? / ! après les points de suspension
+164452|"Dites, vous ne sentez pas une odeur horrible... ?"
+# 164515 : typographie : espace avant ? / ! après les points de suspension
+164515|"...Qu'est-ce que c'est... ?!"
+# 164522 : typographie : espace avant ? / ! après les points de suspension
+164522|"Q-Quelle farce horrible...‖  Qui a bien pu faire une chose pareille... ?"
+# 164608 : typographie : espace avant ? / ! après les points de suspension
+164608|"...Qu'est-ce que ça veut dire... ?‖  Pendant que nous discutions dans la salle à manger, quelqu'un aurait laissé ce gribouillage en cachette ?‖  Sur les portes du salon et de la chaufferie ?"
+# 164765 : 出てきても良さそう : « on s'attendrait à voir apparaître », pas « ce serait bien »
+164765|"...Dans ce cas, je me demande s'ils vont nous annoncer le début du jeu ou nous en donner les règles.‖  ...On s'attendrait pourtant à voir apparaître une enveloppe frappée du blason, comme celle remise à Maria-chan."
+# 164865 : typographie : espace avant ? / ! après les points de suspension
+164865|"Aniki... !‖  Et le vieux ?"
+# 164881 : typographie : espace avant ? / ! après les points de suspension
+164881|"...Aucune trace des domestiques.‖  ...Où ont-ils bien pu disparaître... ?"
+# 164888 : 姿を消し : ont disparu (l'anglais suppose déjà qu'ils se cachent) ; espace avant ? !
+164888|"Ce n'est pas drôle.‖  Père et les domestiques ont disparu, et il y a d'étranges cercles magiques partout dans le manoir.‖  ...Qu'est-ce qui se passe, à la fin... ?!"
+# 165064 : typographie : espace avant ? / ! après les points de suspension
+165064|"...Natsuhi nee-san,‖ combien y avait-il de domestiques en tout aujourd'hui... ?"
+# 165239 : typographie : espace avant ? / ! après les points de suspension
+165239|"Qu-Qu'avez-vous, Shannon... ?!"
+# 165308 : テーブルに伏していた : affalé sur la table, pas recroquevillé dessous
+165308|Battler était affalé sur la table, la tête entre les mains...‖  Sa silhouette pitoyable montrait clairement qu'il ne voulait plus rien voir, plus rien entendre...
+# 165474 : typographie : espace avant ? / ! après les points de suspension
+165474|Après avoir vu un délire pareil, comment je pourrais résister... ?
+# 165568 : typographie : espace avant ? / ! après les points de suspension
+165568|"...Mais ça... ?‖  Ce gros truc tape-à-l'œil... ?‖  Bon sang......"
+# 165686 : typographie : espace avant ? / ! après les points de suspension
+165686|"Oh, c'est exactement ce que je voulais !‖  Je t'en prie, donne-moi une magie géniale pour lui défoncer la poitrine d'un seul coup... !!‖  Pfff, te fiche pas de moi !"
+# 165736 : 酸化反応 : réaction d'oxydation (l'anglais généralise)
+165736|"...Non, les choses brûlent à cause d'une réaction d'oxydation.‖  Lavoisier a réfuté la théorie du phlogistique."
+# 165791 : 無知そのものを“魔法”と呼んだ : guillemets du jeu autour de `magie', sinon la phrase est ambiguë
+165791|...non, l'ignorance elle-même : `magie'.‖  ...Comme le rituel de la pluie dont nous parlions à l'instant."
+# 165860 : typographie : espace avant ? / ! après les points de suspension
+165860|"Hein ?!‖  Dis pas de bêtises, c'est impossible... !"
+# 166008 : typographie : espace avant ? / ! après les points de suspension
+166008|  En quoi ?‖  Presque tout ce qui s'est passé jusqu'ici a été complètement à mon désavantage, non... ?!"
+# 166021 : あの子 : Virgilia dit « cette enfant », pas « votre adversaire »
+166021|"Cette enfant affirme qu'il y a de petits êtres dans les tubes cathodiques,‖ et explique une chose après l'autre, ‖la vie de ces petits êtres, leur apparence, le type de pouvoir magique qu'ils possèdent.‖  ...Et vous, que faites-vous ?"
+# 166027 : …反論するだろうよ : hypothétique (« j'irais… je répliquerais »)
+166027|"...Bah, j'irais étudier à la bibliothèque et je répliquerais en expliquant comment un tube cathodique est construit."
+# 166033 : あの子の主張 : « cette enfant » (cohérence avec la ligne même)
+166033|"À cet instant, votre thèse et celle de cette enfant existent toutes deux en même temps dans le tribunal.‖  ...Si vous prêtez l'oreille à la thèse de cette enfant, ‖elle peut vous sembler être la vérité.  Elle peut vous avoir l'air d'être la vérité.
+# 166071 : typographie : espace avant ? / ! après les points de suspension
+166071|"......Pour le dire avec tes mots, ‖...cette île, en ce moment, c'est le monde juste avant qu'on regarde dans le tube cathodique, c'est ça... ?‖  Donc, on ne peut nier ni la théorie scientifique ni la théorie magique.‖  Et comme on ne peut pas les nier-"

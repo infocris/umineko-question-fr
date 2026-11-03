@@ -78,3 +78,13 @@ mal rendu partout, terme récurrent à changer…).
 - 冒涜 (Beatrice) envers une personne → « manquer de respect à » (pas « profaner quelqu'un »). 意味深 → « ça en dit long ».
 - “い”る : lieu précis → « `est là' » ; propos général → « existe ».
 - Négations et sujets : l'anglais en perd/inverse souvent — vérifier qui fait quoi.
+
+## Épisodes 3 et 4 (lots 31–40 : épisode 3 ; 41–52 : épisode 4)
+
+Ces épisodes ont été traduits depuis l'anglais **en consultant déjà le japonais** : attends-toi
+à moins de contresens qu'aux épisodes 1-2. Concentre-toi sur ce qui reste : contresens hérités
+de l'anglais, registres (voir « Registres fixés » des sections Épisode 3 et 4 de STYLE.md, qui
+font foi), guillemets oubliés, vérités rouges (`#ff0000`) et bleues (`#5decff`) dont le sens
+doit être exact au mot près (ce sont des énoncés logiques : ni ajout ni omission). Fichiers
+temporaires : uniquement dans un sous-dossier à ton numéro de lot du scratchpad, jamais un nom
+partagé.

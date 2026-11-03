@@ -1,0 +1,44 @@
+# 190480 : もう、引き篭もりはたくさんだぜ = « j'en ai assez de rester enfermé » ; l'anglais perd le ras-le-bol
+190480|"......J'en ai ma claque de rester cloîtré.‖  ...J'ai commencé à avoir envie de prendre l'air."
+# 190785 : ここにいたければいるといい = « si vous voulez rester, libre à vous », pas un conseil (l'anglais : "had better")
+190785|"...On n'a toujours pas...retrouvé George.‖  ...Jessica, si vous voulez rester ici, les enfants, libre à vous.‖  Moi, je vais au manoir."
+# 191461 : すげぇ勢いで = à une cadence folle (la phrase suivante parle de vitesse) ; l'anglais en fait une quantité
+191461|...Et à une sacrée cadence.
+# 191617 : guillemet fermant oublié (présent dans l'anglais)
+191617|"Qui était au rez-de-chaussée de la maison d'hôtes ?!‖  Tante Eva !!‖  Papa et Maman étaient dans le hall du rez-de-chaussée, et elle était avec eux !‖  Et qui s'en est sortie vivante ?!‖  Tante Eva, et personne d'autre !!‖  Pourquoi ?"
+# 191623 : Jessica passe à l'あんた hostile, forme neutre → tutoiement ; guillemet ouvrant oublié
+191623|"C'est évident, c'est parce que c'est toi la coupable !!
+# 191627 : suite de la tirade, tutoiement hostile (あんた)
+191627|  Tu as tué Maman et Papa, tu les as traînés dehors et puis tu as refermé la porte à clé sans le moindre scrupule,‖ pour faire croire que c'était l'œuvre de la sorcière... !!"
+# 191892 : 仇ぃ ! — même registre hostile envers Eva : tutoiement
+191892|"Bon sang de bon sang !!‖  T'as tué Maman et Papa !!‖  Je vais te tuer, je vais te tuer... !!"
+# 192005 : あいつめ = « cette sale bonne femme », l'anglais durcit en "bitch"
+192005|"...Cette garce, elle voulait vraiment me tuer...‖  Si l'angle avait été un tout petit peu différent, je serais morte à l'heure qu'il est...‖  Je vais la livrer à la police, c'est sûr... !"
+# 192597 : 魔女であらねばならぬ = « je dois être une sorcière », pas « agir en »
+192597|"......Je suis une sorcière.‖  Il faut que j'en sois une.‖  Et je dois être reconnue comme l'adversaire de Battler, ...et cette fois, faire admettre à Battler que je suis une sorcière."
+# 192647 : « en leur faisant franchir cette porte » est un ajout de l'anglais, absent du japonais
+192647|"...Je le sais.‖  ......J'ai joué avec plus de vies que je ne puis en compter, et je les ai prises.‖  ...Alors peut-être ne pourrai-je racheter cette faute...qu'en sauvant autant de vies."
+# 192667 : ここで果てる = périr ici (l'anglais affadit en "end it")
+192667|  ...Accepteriez-vous de périr ici ?‖  ...Vous avez le devoir de retourner vous asseoir face à Battler-sama, Mademoiselle."
+# 193022 : 感涙の涙 = larmes d'émotion ; la gratitude n'arrive qu'à la ligne suivante
+193022|Ainsi, ce qui lui faisait mal aux yeux à présent, c'étaient des larmes d'émotion.
+# 193023 : 神様 → Dieu (et non « le dieu »)
+193023|...Des larmes de gratitude envers Dieu...ou peut-être envers la sorcière...qui lui avait offert cet instant miraculeux.
+# 193215 : もっともっと大好きだよって = lui dire « je t'aime encore bien plus », pas « plus souvent » (contresens de l'anglais)
+193215|"......Oui...‖  Alors, ...moi aussi, je veux te raconter une histoire.‖  ......L'histoire d'une fille lâche...qui n'a pas trouvé le courage...‖de dire au garçon qu'elle aimait tant qu'elle l'aimait encore bien plus fort que ça.‖  ......L'histoire de cette fille qui, après avoir retrouvé ce garçon grâce à un miracle de Dieu,‖ ......a saisi cette chance pour enfin trouver le courage."
+# 193665 : 攻性防壁 = barrière offensive (qui contre-attaque), 魔法反応装甲 = blindage réactif ; l'anglais inverse le sens
+193665|"45, données reçues.‖  Vérification de la cible, identifiée comme la Précédente, Dame Beatrice.‖  Analyse du mur défensif du salon.‖  Mur défensif multicouche à 72 couches, barrière offensive et blindage réactif magique.‖  Tir de précision dans le salon impossible.‖  Liaison de données avec 410."
+# 193841 : 二度もの妨害、もはや許されませんぞ = après deux obstructions, plus de pardon (pas « nous ne tolérerons pas »)
+193841|"...Madame la Précédente,‖ après deux obstructions, il n'y aura plus de pardon."
+# 193848 : 許されようとも思わぬわ = « je ne cherche pas à être pardonnée » (réponse à 193841)
+193848|"...Ugh...uu......  Je ne cherche point à être pardonnée...‖  ...N'empêche, les sœurs Chiester ont bien perdu la main.‖  Ne pas parvenir à m'abattre.‖  ...Et deux fois, qui plus est... !"
+# 193890 : 残忍にかけては妾も一歩劣るそなた = toi qui me surpasses en cruauté (l'anglais : « pas moins cruelle »)
+193890|"......Toi qui me surpasses moi-même en cruauté, pour quelle raison ‖leur fais-tu éviter mes points vitaux ?‖  Nouvelle Beatrice... !!"
+# 195255 : 爪先 = la pointe du pied, pas l'ongle (elle lève ensuite le pied pour l'écraser)
+195255|La cruelle sorcière poussa du bout du pied le cœur de Beatrice.
+# 196083 : vérité rouge — 時間帯は全て = toute la période, pas un instant (« l'heure ») ; l'adverbe « tout » ne doit pas tomber
+196083|  #ff0000Pendant toute la période avant et après le crime</i>."
+# 196277 : 話によく出る = « dont on parle tant » ; personne ne « le demande »
+196277|"...Je refuse.‖  ...Alors explique-moi !‖  Eva n'est qu'une femme.‖  Et ceux qui sont morts, c'étaient trois adultes avec deux fusils, non ?‖  Comment les aurait-elle tués à elle seule ?‖  Comment l'aurait-elle fait avec ces pieux pour armes ?‖  Et ce fameux appareil à lancer des pieux dont on parle tant, comment est-il construit ?!"
+# 196645 : さらにあなたには反論の余地もない = « et en plus, aucune marge pour répliquer » (pas « encore moins »)
+196645|"C'est une `preuve du diable', non ?!‖  Ce n'est pas parce que tu ne connais pas cette magie qu'on peut nier son existence !‖  Et je n'ai aucune obligation de te faire une démonstration de cette magie.‖  Et pour couronner le tout, tu n'as même pas de quoi répliquer !!"

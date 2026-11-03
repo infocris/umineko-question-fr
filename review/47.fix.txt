@@ -1,0 +1,44 @@
+# 239001 : 浅はかな = « irréfléchi / léger » appliqué au vieux ; la tournure FR était bancale
+239001|"Je vois, quelle légèreté de la part du vieux... !‖  Pour qu'on ne puisse pas joindre la police, il a sans doute coupé la ligne extérieure, mais il a oublié de couper la ligne intérieure... !"
+# 239092 : 母さんはわからない — Krauss reste évasif, il ne dit pas qu'elle a disparu (ajout de « où »)
+239092|"...Ta mère, je ne sais pas...‖  ...Prions pour qu'elle soit saine et sauve.‖  ...Pour l'instant, je suis simplement soulagé que toi, tu ailles bien.
+# 239315 : 上等キメる = s'en prendre à quelqu'un ; l'anglais « finishing blow » surinterprète
+239315|"Merde, ...on peut rien faire d'autre que se défendre et encaisser.‖  ...Bon sang, s'en prendre à mon père, et en plus capturer Kyrie-san,
+# 239358 : guillemet fermant oublié (l'anglais ferme ici et rouvre à la réplique suivante)
+239358|  Mais justement, c'est pour ça que je dois rester calme !‖  Tu crois que nos parents morts voudraient qu'on perde la vie pour rien ?‖  Sûrement pas !‖  Ils voudraient qu'au moins leurs enfants s'en sortent."
+# 239879 : 鼓動の停止 = arrêt du cœur, pas de la respiration
+239879|"Pas encore.‖  Il est trop tôt pour abandonner.‖  Arrêter de réfléchir, c'est comme arrêter son cœur, non ?"
+# 239945 : 紙切れ — Krauss reprend son image boursière (« bout de papier ») de la réplique précédente
+239945|"À ce stade, cette fierté inutile ne vaut déjà plus qu'un vulgaire bout de papier.
+# 240013 : 素直に報告 = rapporter tel quel, franchement (pas « docilement »)
+240013|...C'est pourquoi, s'il l'avait rapporté tel quel, ils n'auraient fait que douter des oreilles de Kanon.
+# 240044 : あの魔女の気まぐれと余興 = caprice et divertissement de la sorcière (formulation FR fautive)
+240044|"Je sais.‖  ......Quoi qu'il arrive, quoi qu'il change, tout n'est que caprice et divertissement de cette sorcière.‖  Au bout du compte, rien ne changera."
+# 240094 : どうせそうさ = « on n'y arrivera pas, comme d'habitude » ; « Sûrement pas » était ambigu
+240094|"Comme toujours, c'est couru d'avance.‖  ...Si on se raccroche à un espoir idiot, elle en profitera encore."
+# 240382 : 紗音を遠ざける = il l'écarte, c'est elle qui s'en va ensuite (lignes suivantes)
+240382|Kanon haussa les épaules, puis dit à Shannon de le laisser tranquille parce qu'elle le gênait dans sa tâche, et l'écarta.
+# 240415 : 微かな物音 = bruit léger, pas « étrange »
+240415|On aurait dit les oreilles d'un chat réagissant au moindre bruit.
+# 240904 : そこまでに至ってこそ…値する愛 — contresens/phrase bancale
+240904|"Une femme qui vous rend fou au point de ne pas vouloir la laisser fuir, au point de l'enchaîner...‖  Ce n'est qu'arrivé à ce point qu'un amour mérite que je lui consacre ma vie.‖  ......Je ne te demande pas de comprendre."
+# 241336 : よーくお察しできます — ironie appuyée d'Ange (elle s'emporte juste après) ; やり場のない怒り
+241336|"Je comprends tout à fait ce que vous ressentez.‖  Pour quelqu'un comme moi, qu'on a surveillée jusque dans sa vie privée,‖ et dont la vie privée, l'image et même les droits les plus élémentaires ont peut-être été bafoués,‖ c'est trèèès facile de comprendre une colère qui ne sait où se déverser."
+# 241431 : 資産やその運用 = gestion des biens, pas « répartition »
+241431|"Ce jour-là, c'était le jour de la conférence familiale.‖  ...Lors de la conférence familiale des Ushiromiya, on discutait âprement de la fortune et de sa gestion,‖ si bien que cela ressemblait presque à un conseil d'administration.‖  Ce qui veut dire que le docteur Nanjo devait jouir d'une confiance telle qu'on lui demandait d'y assister, n'est-ce pas... ?"
+# 241437 : 財産運用 = gestion du patrimoine ; 介添え = pour l'assister
+241437|"Mon père était un simple médecin,‖ je ne l'imagine donc pas en position de conseiller une famille aussi fortunée que les Ushiromiya sur la gestion de ses biens.‖  On l'y avait très probablement appelé pour assister M. Ushiromiya, dont la santé n'était pas au mieux à l'époque.‖  ...En tant qu'ami intime de Kinzo, mon père savait sûrement tenir sa langue, et on devait lui faire confiance pour ne pas divulguer les secrets de la conférence familiale."
+# 241941 : 頭が真っ白 = esprit vide, pas un « trou noir » (perte de mémoire)
+241941|"...J'ai eu la tête complètement vide, et j'ai compris aussitôt que je ne devais surtout pas m'en mêler."
+# 242025 : かーちゃん = sa femme (c'est elle qui retrouve l'enveloppe, la mère est morte)
+242025|  Dis, ma vieille, où c'est que tu l'as mis ?!"
+# 242721 : 屋敷のどこかでしょうな = affirmation (« c'est sûrement quelque part »), pas une question
+242721|"Qui sait.‖  En tout cas, ce devait être quelque part dans le manoir de Rokkenjima.‖  ...Malheureusement, il n'y avait pas assez d'argent sur le compte en banque de ma mère pour me faire croire qu'elle avait trouvé l'or.‖  Uha ha ha ha, elle ne l'a sans doute pas trouvé, finalement."
+# 242844 : 信心深い = les marins sont pieux/superstitieux (d'où le refus d'aller sur l'île maudite)
+242844|Ces hommes respectaient et craignaient la mer, et ils étaient très pieux.
+# 243138 : ご迷惑は掛けられません — Ange décline pour ne pas l'exposer ; « comme ça » faisait croire qu'elle acceptait
+243138|  ...Mais je ne voudrais pas vous causer d'ennuis, si jamais il arrivait quelque chose."
+# 244116 : 斥候は私がやる = « je pars en éclaireur » (00 prend la pointe)
+244116|"Bien reçu.‖  ...Je pars en éclaireur.‖  556 et 410, couverture des deux flancs.‖  45, surveillance tous azimuts."
+# 244183 : こやつら = « ceux-ci » archaïque, pas d'insulte (« rats » ajouté)
+244183|  Virgilia, tu surveilleras ces gens-là.‖  ......Après tout, deux de mes meubles sont ici.‖  Reste sur tes gardes, par précaution."

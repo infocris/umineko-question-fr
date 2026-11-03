@@ -1,0 +1,104 @@
+# 141591 : 頼もしき = sur qui on peut compter, pas « fidèle »
+141591|Beatrice, la Sorcière dorée sur qui je pouvais compter, était venue.
+
+# 141660 : 折檻を受けなくて済む : lui épargner le châtiment (base du retournement final), pas « épargner au Maître l'envie »
+141660|"Je ne possède aucune magie capable de recueillir les larmes que vous avez versées, Princesse,‖mais s'il vous faut une magie qui vous épargne le châtiment du Maître, je pourrais peut-être arranger quelque chose."
+
+# 142002 : Beatrice それは良い = « bien », pas « amusant »
+142002|Je vois, ...alors je manque de maturité, c'est ça ?!‖Voilà qui est bien, fort bien.‖*ricane*ricane*ricane*ricane*... !"
+
+# 142429 : 楽しませているだけ = ne fait que nous amuser ; l'anglais « fired up » glisse vers « exciter »
+142429|"...Je n'en reviens pas que tu résistes encore.‖Pourquoi ne comprends-tu pas que ton faux courage ne fait que nous amuser davantage ?"
+
+# 142499 : 無限の蘇生は無限の死をも自在にする : l'anglais a perdu le lien de cause
+142499|Ressusciter à l'infini, c'est aussi pouvoir tuer à l'infini, à volonté.
+
+# 142517 : 新しきゲーム盤を持て : « apportez-le » sans référent
+142517|"Je vois, je vois.‖Oui, cette félicité est assurément divertissante.‖*ricane*ricane*ricane*ricane* !‖Wah ha ha ha ha ha ha ha ha ha !!‖Je te ressusciterai encore et encore, je te tuerai encore et encore !‖Voyons, quel genre de drame meurtrier va se dérouler sur le prochain échiquier ?‖Allez, qu'on apporte le nouvel échiquier.  Que la prochaine partie commence, Ushiromiya Battleeer !!"
+
+# 142894 : 自己主張の激しい ≠ vindicative (contresens)
+142894|"Je n'irais pas jusque-là.‖Parler avec une femme sans instruction est fatigant, voilà tout.‖...Mais une femme trop intelligente est plus fatigante encore.‖Une femme qui s'affirme autant que toi donnerait bien du fil à retordre à son futur mari, à mon avis."
+
+# 142991 : 社会に出る前に = avant d'entrer dans le monde ; l'anglais met « avant de quitter cette famille »
+142991|"La plupart des femmes le comprennent sans qu'on ait à le leur dire.‖Elles le comprennent d'elles-mêmes.‖...Mais toi, après toutes ces années, tu ne t'en es toujours pas rendu compte.‖J'ai donc décidé de dissiper ce malentendu pour toi avant que tu ne fasses ton entrée dans le monde.‖Tu devrais me remercier."
+
+# 143005 : 心構えを日々養っている : Krauss cultive lui-même cet état d'esprit (actif), pas « j'ai été élevé »
+143005|"C'est une question de savoir rester à sa place.‖Chaque jour, je cultive l'état d'esprit qui sied au futur chef de famille.‖À l'avenir, cette préparation me sera indispensable.‖Mais toi, c'est différent.‖Alors que tu te marieras et perdras le nom d'Ushiromiya, tu te laisses piéger par une illusion inutile."
+
+# 143362 : この場は貸しにしておいてやる : « tu me revaudras ça », omis par l'anglais
+143362|Va-t'en vite, tu me revaudras ça.
+
+# 143472 : 認められたかった = je voulais être reconnue (l'anglais : « Father didn't accept me »)
+143472|"...Je voulais que Père me reconnaisse.‖Je voulais donner une leçon à Nii-san.‖Je croyais qu'ainsi...je pourrais dire adieu à la misérable créature que j'étais."
+
+# 143508 : ヘソ噛んで死んじゃえ (Eva) : choix fixé « t'as qu'à crever »
+143508|Et maintenant, tu me dis que tu vas rompre cette promesse ?‖Minable.‖Lâche.‖T'as qu'à crever... ?"
+
+# 143547 : 何でもなさそうな顔 = il fait comme si de rien n'était (l'anglais : « like we're nothing »)
+143547|Ce type fait comme si de rien n'était, mais je suis sûre qu'au fond, il se sent bien acculé.‖S'il pouvait comprendre où est sa place et mourir.‖Alors, on pourrait devenir chef de famille.‖Rudolf se désistera.‖Ce gamin ne peut rien nous refuser."
+
+# 143550 : 認めてくれない : reconnaître (cohérence avec tout le passage)
+143550|"......Arrête.‖...J'aurai beau étudier encore et encore, Père ne me reconnaîtra jamais."
+
+# 143718 : 泣き寝入り = se résigner en silence, pas « pleurer jusqu'à s'endormir »
+143718|"...Quel plan ennuyeux.‖Pourquoi tu laisses pas tomber, pour te résigner en ravalant tes larmes... ?"
+
+# 143826 : まぁね = oui, plutôt (pas « peut-être »)
+143826|"...Oui, plutôt.‖Je me suis montrée sous un jour embarrassant.‖Désolée."
+
+# 144295 : おかえりと言われた : l'anglais omet le « bon retour », que 144298 reprend
+144295|En descendant du bateau, ......Eva eut l'impression que la petite fille qu'elle avait été lui disait `bon retour'.
+
+# 144303 : 汚れた大人 = adulte souillée, pas « sans vergogne »
+144303|Maintenant qu'elle était devenue une adulte souillée,
+
+# 144366 : 小学校まるまるひとつ分 = six ans, toute la durée du primaire (l'anglais : « j'étais encore en primaire »)
+144366|"...Quoi, tu parles d'il y a six ans ?‖Six ans, c'est quand même toute la durée de l'école primaire, non ?‖C'est un peu injuste d'attendre de moi que je me souvienne de tout, tu trouves pas ?"
+
+# 144454 : 覚えてろって方が無理がある : c'est trop demander (l'anglais invente « c'est moi qui suis à plaindre »)
+144454|"Allez, ça fait six ans, quand même !‖C'est trop demander, de vouloir que je m'en souvienne... !"
+
+# 144690 : 素振りをして…からかう : George fait mine de questionner Shannon pour me taquiner (anglais confus)
+144690|Pendant un moment, George-aniki s'est amusé à me taquiner en faisant mine de vouloir soutirer à Shannon-chan mes bourdes embarrassantes.
+
+# 144703 : つるむ様にしてふざけている / 気さくでフランク : il plaisante de connivence, très à l'aise ; pas « flirter »
+144703|George-aniki faisait le pitre de connivence avec Shannon-chan,‖...et, comment dire, il avait l'air très à l'aise et naturel avec elle.
+
+# 144878 : 決して = jamais (l'anglais « presque jamais ») ; ズルイ = sournoises, pas « cruelles »
+144878|"C'est toi qui as lancé le sujet, pourquoi c'est sur moi que tu cries maintenant ?‖Les femmes sont des créatures qui posent toujours des questions, mais qui ne répondent jamais à celles qu'on leur pose.‖Quelles créatures sournoises, sérieux."
+
+# 144937 : le japonais parle de Jessica (ça donne envie d'avoir quelqu'un), l'anglais en fait un souhait de Battler
+144937|Quand on voit de près la relation de George-aniki et Shannon-chan avancer, forcément, on se dit qu'il faudrait se trouver quelqu'un, soi aussi.
+
+# 145011 : この使用人風情がー、泥棒猫ー : insultes rétablies (l'anglais paraphrase)
+145011|Si jamais Tante Eva apprenait que Shannon-chan était la petite amie de son fils unique adoré,‖elle hurlerait sûrement : `Simple domestique de rien du tout ! Voleuse d'homme !'
+
+# 145883 : 大き目の黄金の指輪 = grosse bague, pas « précieuse »
+145883|Kinzo ouvrit en grand la fenêtre de son bureau, ôta la grosse bague en or qu'il portait au doigt,‖et la lança dans les ténèbres du vent et de la pluie déchaînés...
+
+# 146016 : 確かに受け取ったぞ = je l'ai bien reçue (pas « je l'accepte »)
+146016|"En effet.‖C'est la déclaration d'ouverture de la partie par Kinzo.‖Je l'ai bien reçue."
+
+# 146115 : coquille : « chef des meubles de Beatrice-sama »
+146115|Bien que mon nom figure parmi ceux des nobles de l'enfer,‖je sers désormais en qualité de chef des meubles de Beatrice-sama, qui, toute vile humaine qu'elle soit, est une grande sorcière d'une telle envergure que les démons eux-mêmes s'enfuient devant elle."
+
+# 146207 : お茶菓子にも乞うご期待 = attendez-vous aussi aux douceurs (l'anglais : « demandez ce que vous voulez »)
+146207|"C'est un honneur de recevoir de tels compliments.‖Je suis très sûr de mes talents pour préparer le thé, aussi réjouissez-vous de l'heure du thé.‖Faire des biscuits est l'un de mes passe-temps, alors attendez-vous aussi à de délicieuses douceurs pour accompagner le thé."
+
+# 146349 : お前の関係にはロクな連中がいねぇ = tu ne fréquentes que des gens pas nets
+146349|"Je veux bien te croire.‖Tu fréquentes que des gens pas nets.‖D'abord des monstres à tête de chèvre, puis ces demoiselles aux cuisses à l'air, et cette fois, c'est un majordome démoniaque qui débarque.‖...J'ose pas y penser, mais vu comment c'est parti, ça m'étonnerait pas que d'autres tarés se pointent encore..."
+
+# 146398 : あれほどの屈辱を受けてまで屈服した : il s'est soumis au prix de l'humiliation ; l'anglais inverse la cause
+146398|"C'est cela.‖Petit à petit, tu cèdes devant moi... !‖Lors de la partie précédente, n'es-tu pas allé jusqu'à te soumettre à moi, au prix d'une telle humiliation ?
+
+# 146403 : 背中は妾の足を投げ出すには良いものだった : son dos, excellent repose-pieds
+146403|Ton dos faisait un repose-pieds tout à fait excellent, tu sais ?‖*ricane*ricane*ricane*ricane* !!"
+
+# 146611 : 家督 = le titre de chef de famille, pas « la succession » au sens d'héritage
+146611|"...C'est vrai.‖Si on prend son contenu au pied de la lettre, ...c'est un test de Père.‖L'épitaphe de la sorcière est affichée dans le hall depuis bien longtemps, pour que n'importe lequel d'entre nous puisse la résoudre.‖On a eu tout le temps d'être prévenus.‖Ça veut dire que le premier à la résoudre recevra le titre de chef de famille et toute sa fortune, non... ?"
+
+# 146739 : ヘソでも噛んで死んじゃえば (Eva) : choix fixé « t'as qu'à crever »
+146739|Rosa est vraiment bête.‖Elle a qu'à crever... ?
+
+# 146794 : ヘソ噛んで死んじゃえば (Eva) : choix fixé « t'as qu'à crever »
+146794|À son âge, il a encore peur de Père, cet idiot.‖Il a qu'à crever... ?

@@ -1,0 +1,85 @@
+# 197221 : ヘソ噛んで死んじゃえ (Eva) — choix fixé de STYLE.md « t'as qu'à crever » (cf. 288747)
+197221|  Nul, nul, mais t'es complètement idiote ?!!‖  Comment tu peux être aussi lamentable, juste après t'être interposée en jouant les braves ?!‖  Aaah, c'est pitoyable, c'est honteux !!‖  T'as qu'à crever !"
+# 197389 : いいや、充分だ = « tu en as fait bien assez » (remerciement), pas « arrête »
+197389|...Non, c'est déjà beaucoup.‖  ...Merci, Beato.‖  Je ne gâcherai pas tes efforts..."
+# 197467 : 喫煙マナーの悪い夫 = un mari qui jette ses mégots n'importe où
+197467|  Elle a peut-être juste ramassé le mégot de son mari, qui jetait ses mégots n'importe où ?‖  Où tu veux en venir ?‖  Quel rapport avec ma magie ?‖  Aucun !!!"
+# 197505 : 秀吉伯父さん — l'anglais perd « Oncle »
+197505|"...Beato, désolé, mais encore une fois, s'il te plaît.‖  ...Les poches d'Oncle Hideyoshi.‖  ......Dans la famille, il n'y a que mon père et Oncle Hideyoshi qui fument."
+# 197574 : 篭城の結束を再確認 = ils ont réaffirmé leur union pour le siège (confiance mutuelle, pas solidité des défenses)
+197574|  Reconstitution en cours.‖  ...Après la mort de Rosa et de Maria, les survivants restants ont revérifié toutes les portes et fenêtres de la maison d'hôtes.‖  Ils ont dressé une barricade.‖  Ils ont réaffirmé leur union pour soutenir le siège."
+# 197662 : guillemet ouvrant oublié
+197662|"Répète-le !!
+# 198202 : vérité rouge — 絵羽の完全なアリバイを証明できる = « on peut prouver », pas « Eva dispose »
+198202|"#ff0000Après que Jessica a été blessée, ‖Eva était constamment sous la surveillance de Battler.‖  Battler n'est ni le coupable ni un complice.‖  Par conséquent, on peut prouver l'alibi parfait d'Eva</i>."
+# 198681 : 詰め = séquence de mat (échecs), pas « encerclement »
+198681|"......Quelle... séquence de mat minutieuse et précise..."
+# 198738 : 呆然とした、それでいてどこか恍惚とした — le « et pourtant, comme » est perdu
+198738|La maîtresse de la sorcière et le majordome démoniaque restaient tous deux interdits, ...et pourtant, une expression comme extasiée sur le visage...
+# 198820 : vérité rouge — 要素 / 関与しない au présent : « n'intervient sur cet échiquier »
+198820|"#ff0000Absolument aucun élément autre qu'humain n'intervient sur cet échiquier</i> !
+# 199299 : 勘違いなどしているものか。それで良いのだ = elle sait qu'elle n'en sortira pas indemne et l'accepte
+199299|"Je ne me méprends nullement.‖  C'est très bien ainsi."
+# 199321 : そのようなみすぼらしい姿なら。未練などない = si sa propre forme n'est que cela, elle n'y tient pas
+199321|"...Si ma forme n'est que cette chose misérable,‖ je l'effacerai en même temps que toi, ‖sans le moindre regret... !"
+# 199582 : あんたもただじゃ済まない = toi non plus tu ne t'en tireras pas indemne (pas une menace d'Eva)
+199582|  Toi non plus, tu t'en tireras pas indemne, tu sais ?!
+# 199754 : 辿り着く = parvenir ; « se traîner » vient de l'anglais (drag himself)
+199754|C'était une vérité à laquelle Battler devait parvenir par ses propres forces.
+# 199919 : いくつかはある = quelques meurtres (l'anglais « many murders »)
+199919|......Il y a bien quelques meurtres dont je n'ai pas la moindre idée de la façon dont ils ont été commis.
+# 200193 : ホールであることを気付かせる = on reconnaît que c'est le hall (pas « ressembler »)
+200193|...jusqu'à ce qu'on reconnaisse le hall du manoir des Ushiromiya.
+# 200337 : Battler ↔ Kinzo : tu (registre fixé STYLE ép. 4)
+200337|"......Qu'est-ce que tu dis... ?"
+# 200348 : この郷田めの最高傑作を尽くしました — humilité (め) de Gohda perdue
+200348|"Battler-sama, je vous en prie, prenez place.‖  Pour le dîner de ce soir, votre humble Gohda a donné le meilleur de son art.‖  Je vous en prie, savourez-le."
+# 200481 : うちの朱志香がやれるわけありません = je ne peux pas donner (marier) notre Jessica ; contresens anglais
+200481|"Avec un fils de domestique... ?!!‖  Non, je ne peux pas lui donner notre Jessica... !!"
+# 200544 : 生温かぁく受け入れて — accueil appuyé, un peu louche (Kyrie enchaîne) ; garder l'allongement
+200544|"Battleer, ‖quelle que soit la fille que tu ramèneras, je l'accueillerai trèèès chaleureusement, d'accord ?"
+# 200551 : とっとと駆け落ちしちゃうのよ = conseil de Kyrie à Battler : enfuis-toi avec elle ; l'anglais en fait Rudolf et la fille
+200551|"Surtout, ne la présente pas à cet homme, d'accord ?‖  Il lui mettra aussitôt la main dessus.‖  Enfuis-toi plutôt avec elle, et vite."
+# 200763 : 魔女の力だけで = le seul pouvoir de la sorcière (pas « de la magie »)
+200763|"La Terre dorée n'est pas un monde soutenu par le seul pouvoir de la sorcière.‖  Il lui faut la coopération et l'approbation de tous les humains qui y reçoivent le bonheur.‖  C'est pourquoi nous devons réunir ici la signature de chacun."
+# 200839 : 自分の名前くらいとっとと書け。ミミズがのたくるようにな = écris donc ton nom, en gribouillant (ミミズがのたくった字)
+200839|"Maladroit.‖  Faire gicler l'encre porte malheur.‖  Écris donc ton nom en vitesse, au moins.‖  Avec tes gribouillis qui se tortillent comme des vers de terre.‖  *ricane*ricane*ricane*ricane*ricane*... !"
+# 200876 : 誓約書の書式が揃いました = l'engagement est désormais en bonne et due forme
+200876|"Bien.‖  Les deux signatures sont réunies, l'engagement est en bonne et due forme.‖  ...Prêtez serment, tous les deux, je vous prie.‖  Nous commencerons par Beatrice.‖  Posez la main sur l'engagement et prêtez serment."
+# 200904 : よろしい (Kinzo) = « Fort bien », pas une concession
+200904|"Fort bien.‖  Au tour de Battler."
+# 200968 : 黄金の魔女をベアトリーチェと認め = reconnaître la Sorcière dorée comme étant Beatrice (sens inversé)
+200968|"Battler, je vais la lire à voix haute.‖  Écoute bien.‖  ......`Nous, les 18, reconnaissons la Sorcière dorée comme étant Beatrice et l'accueillons dans la Terre dorée'."
+# 201049 : 妙に気持ち悪い笑顔 = sourires étrangement malsains
+201049|...Avec des sourires étrangement malsains, toutes les deux se sont mises à exiger que je signe...
+# 201331 : あなたはサインをするのです — pas de « vous aussi » en japonais
+201331|"Hohhohohohohohohohohohoho...‖  Inutile d'écouter une invitée indésirable.‖  Allons, vous allez signer.‖  Sur ce serment écrit.‖  `Ushiromiya Battler reconnaît l'existence des sorcières'.
+# 201901 : 駄目ね、全然駄目だわ ≠ inutile (remarque des lots)
+201901|"......Aaah, non, ça va pas, ça va pas du tout !‖  Tu n'y arriveras pas !‖  Sur le Rokkenjima de 1986,‖ ...je vais étaler au grand jour tout ce qui s'est passé !"
+# 286129 : きっと気に入ってもらえると思うわ — futur, pas passé
+286129|"...J'ai cherché un peu partout une pièce digne d'une partie contre toi.‖  ...Je suis sûre qu'elle te plaira."
+# 286471 : 大好きよ … 愛してるとさえ — gradation inversée (adorer < aimer)
+286471|"............‖...Oui, c'est vrai.‖  ...Oh, je t'adore, Bernkastel.‖  Je pourrais même dire que je t'aime.‖  ...J'ai envie de t'arracher les yeux pour qu'ils ne reflètent plus personne d'autre que moi.‖  ...Oh, ce serait tellement merveilleux.‖  Ce serait sublime aussi de les plonger dans du thé.‖  Aha !"
+# 288183 : そうだと言われなければ信じられない = sans qu'on vous le dise, on ne l'aurait pas reconnue ; contresens anglais
+288183|Si on ne vous l'avait pas dit, vous ne l'auriez pas crue, tant elle avait vieilli et s'était flétrie.
+# 288318 : カーテンでも開けたら…？ = suggestion à Eva (« tu pourrais ouvrir »), pas une demande
+288318|"...C'est sombre, et en plus on étouffe.‖  Tu pourrais pas ouvrir les rideaux... ?"
+# 288489-288491 : 子も残せず / 財産すらも奪われる — ordre des voix japonaises rétabli (l'anglais les inverse)
+288489|  ...Dire que, sans même avoir pu... laisser d'enfant...
+288491|...on va me voler jusqu'à ma fortune...
+# 288506 : お百度踏んでた宗教系の連中 = les religieux qui venaient sans cesse la solliciter (pas qu'elle allait chercher)
+288506|"...T'as qu'à donner toute ta fortune en offrandes, va.‖  Ils sont passés où, tous ces religieux qui venaient sans cesse te supplier ?"
+# 288510 : 預けて清める = la leur confier pour qu'ils la purifient
+288510|"......*ricane*ricane* !‖  Ils disent tous la même chose.‖  ...Ma fortune excessive serait devenue un fardeau pour moi.‖  Et ils finissent toujours par dire qu'il faut la leur confier pour qu'elle soit purifiée.‖  ...Ah ha ha ha ha ha ha ha ha !‖  Alors ça m'a donné une idée.‖  J'ai arrêté les dons !"
+# 288616 : 誰も止めない = personne ne l'empêchera (pas « ne pourra »)
+288616|"Je me demande à quel point ta vie deviendra tordue, à vivre comme ça...‖  Tu n'auras aucun allié !‖  Personne n'écoutera tes soucis.‖  T'insulter deviendra un sport national.‖  Et personne ne l'empêchera !"
+# 288850 : temps verbal (présent au milieu d'un récit au passé simple)
+288850|...la personnalité d'Eva se transforma, au point qu'on la traita de folle...
+# 288925 : 荒んだ心 = cœur aigri, desséché (pas « farouche »)
+288925|Désormais, son cœur était aussi aigri que le redoutait son entourage.
+# 288929 : 誰にも心を許さず、信じようとしない — c'est elle qui ne se fie à personne ; l'anglais invente « personne ne lui faisait confiance »
+288929|...Elle ne s'ouvrait à personne, et ne cherchait à croire en personne.
+# 288930 : 誰も愛さず、愛そうとしない — même contresens anglais
+288930|Elle n'aimait personne, et n'essayait pas d'aimer.
+# 288966 : 何を今更 = « un peu tard pour ça », pas « tu t'en aperçois seulement »
+288966|Ainsi, puisqu'elle se croyait déjà sorcière, ‖quand elle entendit qu'on lui léguait le nom de la Sorcière dorée, elle n'eut qu'une pensée : `Un peu tard pour ça'.

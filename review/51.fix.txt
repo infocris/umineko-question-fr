@@ -1,0 +1,40 @@
+# 266616 : あんたには可哀想な子に見えるのね : c'est Maria/l'auteure qui a l'air pitoyable ; l'anglais ajoute `quelque chose fait par'
+266616|......À tes yeux, elle a l'air...‖...d'une enfant pitoyable, hein.
+# 266619 : そうでしょうよ = « forcément », concession amère, pas « c'est vrai »
+266619|Forcément.
+# 266758 : おっかしい = « trop drôle », pas une protestation
+266758|"C'est censé être une incantation.‖  Trop drôle... !‖  Ha ha ha ha ha ha ha ha... !!!"
+# 266814 : 〜と思われるのがオチ = « tout ce que tu y gagneras » ; « Dommage » est un ajout de l'anglais
+266814|"Uu-uu-uu- !‖  Un gémissement débile !‖  À force de répéter ça, tout ce que tu y gagneras, c'est qu'on te prenne pour une pauvre gamine dérangée !
+# 266925 : 絹を裂く音 : bruit de soie qu'on déchire (la page arrachée), image perdue
+266925|......Dans un bruit de soie qu'on déchire, le monde de bonheur d'une petite fille...
+# 267060 : クソボケガキャ = sale gosse ; « moche » (laide) est un faux sens
+267060|  Vas-y, montre-la, sale petite miooooooooooche !!"
+# 267427 : « croire en les sorcières » est incorrect : croire à
+267427|......croyez.‖  À la magie.‖  Aux sorcières.‖  Aux miracles, maintenant... !"
+# 268101 : のろま = lambin (trop lent pour toucher), pas « abruti »
+268101|  Lambin !!‖  Tu crois qu'une simple balle peut atteindre Ange-sama ou nous, maintenant ?!!!"
+# 268446 : 報われない = « n'aura servi à rien », pas « rachetée »
+268446|  Si je ne te tue pas, toute ma vie n'aura servi à rien... !!"
+# 268707 : あなたたち = les Sœurs (pluriel), pas « toi »
+268707|"C'est parce que je vous ai rencontrés, vous et Sakutarou, que j'ai pu tout comprendre."
+# 268811 : 面影を見ていることさえ申し訳ない : Ange s'en veut de voir Eva en elle (faute d'Ange, cf. réplique suivante)
+268811|"......Il ne reste plus que toi.‖  ......La sorcière noire.‖  ...À présent, je me sens même coupable envers Tante Eva de voir encore ses traits en toi."
+# 269329 : 歩み寄る sans complément : Mammon s'approche d'Eva, pas d'Ange (l'anglais ajoute `me')
+269329|Mammon s'approcha sans bruit.
+# 269442 : それに抵抗も覚える = j'ai des réticences à le faire ; l'anglais comprend `résister aux sorcières' (contresens, cf. la suite)
+269442|"C'est justement parce que je connais la magie...... que j'ai du mal à m'y résoudre."
+# 269684 : やがて導かれる = seront un jour guidées (futur), pas « avaient fini par »
+269684|La terre promise vers laquelle les sorcières de Mariage Sorcière seront un jour guidées...
+# 269755 : 何にも拒まれない = rien pour les repousser (rejet), pas « retenir »
+269755|...Sans personne pour les presser... ni rien pour les repousser.
+# 270587 : はらはら = angoisse, pas « cœur battant » (ambigu)
+270587|...Beato regardait Maria faire, rongée d'inquiétude.
+# 271371 : 許さない : c'est Ange qui refuse (actif), pas un passif
+271371|"......Mais je ne te permettrai pas de suspendre la partie et de l'abandonner !‖  Vas-tu gagner et survivre, ou perdre et disparaître ?‖  Tant que l'une des deux n'aura pas eu lieu, tu n'auras pas le droit de quitter ce siège !!‖  C'est bien ton seul devoir, en tant qu'hôte d'un jeu de sorcière, en tant que Sorcière dorée, Beatrice... !!"
+# 271419 : 痛々しい = douloureux, pas « pitoyable » (anglais `pathetic')
+271419|...Beato sentit à sa jambe une sensation froide et douloureuse.
+# 274616 : その脇に = juste à côté (du combiné) ; `dans le coin, recroquevillée' vient de l'anglais
+274616|Le combiné pendait n'importe comment, ...et Kyrie-san gisait juste à côté.
+# 274691 : すっきりした = c'était plus cohérent, pas « plus facile à accepter »
+274691|...Vu comme ça, c'était plus cohérent.

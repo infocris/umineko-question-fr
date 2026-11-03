@@ -1,0 +1,86 @@
+# 166243 : Battler tutoie Virgilia (registre fixé) ; 見てろよ
+166243|"Ouais, regarde bien.‖  ......J'écouterai plus ses divagations.‖  Je me battrai jusqu'au bout la tête froide.‖  Je me laisserai plus jamais provoquer par elle."
+# 166327 : お前ら — les tours viennent de Beatrice et Virgilia, pluriel
+166327|"Dans cette roseraie,‖ où tu vois ces lances,‖ et ces tours que vous avez fait surgir, qui traînent par terre ?
+# 166469 : guillemet ouvrant oublié (nouveau paragraphe de la même réplique, comme l'anglais)
+166469|"Prends place, Beatrice !!
+# 166737 : 火にくべられ丸焼けに — jeté au feu, l'anglais ne dit que « se trouvait »
+166737|D'abord, Grand-père avait été jeté dans le feu de la chaufferie et entièrement carbonisé.
+# 167537 : お前の指し手はどうなんだよぅ — « et TON coup ? », l'anglais inverse ; 特別に omis
+167537|  *ricanement*  Alors, Battleer ?‖  Et toi, quel coup vas-tu jouer ?‖  Si rien ne te vient, je veux bien te montrer, à titre exceptionnel, comment j'ai fait transporter les corps par les chèvres...‖et scellé toutes les portes par la magie, d'accoooooord ?"
+# 167568 : sujet général (on ne peut pas réduire à zéro, d'où le rouge) ; l'anglais ajoute « that child »
+167568|"Nanjo a constaté la mort de chacun d'eux.‖  Cependant, en vertu de la `preuve du diable', il est impossible d'écarter la possibilité d'une erreur de diagnostic.‖  ...Autrement dit, on ne peut pas réduire à zéro la probabilité que Nanjo n'ait pas vu que l'un d'eux était encore en vie."
+# 167718 : 否定されたな — c'est déjà écarté (constat), pas « commençons par »
+167718|  ...Bon.‖  J'en ai déjà obtenu une.‖  Voilà déjà écarté ce grand classique où les victimes font semblant d'être mortes."
+# 167769 : 跪いて拝見しろ — à genoux pour la regarder faire ce qu'elle veut des clés
+167769|"...Que vas-tu faire, que vas-tu faiiire ?‖  Un humain n'y peut plus rien, désormais.‖  Mets-toi sagement à genoux et admire-moi faire ce que je veux des clés grâce à ma merveilleuse magie, d'accoooooord ?"
+# 168162 : お預けができない性分 — c'est elle qui ne sait pas attendre
+168162|"Pu ku ku.‖  Après tout, Mademoiselle n'a jamais su patienter."
+# 168183 : 次は何を繰り出すのか — « que vas-tu lancer », pas « que dois-je répéter » ; 赤にて斬り捨てた
+168183|  C'est à Battler de jouer, non ?!‖  J'ai pourfendu par le rouge la `pièce piège' que tu avais avancée !‖  Que vas-tu me lancer, à présent ?‖  Vas-y, montre-moi ce que tu as !!"
+# 168404 : 自殺を図った — s'est donné la mort, pas « comptait se suicider »
+168404|"Échec et mat !!‖  L'un des six était le coupable, et il s'est donné la mort après avoir monté la chambre close !‖  C'est tout !!"
+# 168724 : 受け取っとくぜ — c'est Battler qui le prend comme un nul ; l'anglais met « tu devrais »
+168724|"Bon, si t'abandonnes, ‖ça veut juste dire qu'on est à égalité, puisque ma théorie et la tienne ne peuvent pas se réfuter l'une l'autre.‖  Je le prends plutôt comme un match nul que comme une défaite."
+# 168746 : 敗色濃厚 / このザマ — l'état pitoyable où elle se met
+168746|Elle s'était moquée de moi sans pitié quand j'étais mal parti, et voilà dans quel état elle se met quand les rôles sont inversés.
+# 169057 : Rudolf parle de tous les frères et sœurs (on), pas de Rosa seule
+169057|"Si on l'avait résolue, on serait pas venus jusqu'ici quémander de l'argent.‖  Après tout, on parle de 10 tonnes d'or."
+# 169816 : 6文字を抜いて — six caractères, pas « les six premiers » (ajout de l'anglais)
+169816|"...Au deuxième crépuscule, il est question de `ceux qui restent'.‖  ...Ce qui veut dire que ce `quelque chose', au moins, contient un nombre limité de caractères.‖  On pourrait comprendre qu'il faut continuer avec les caractères restants, une fois ces six-là enlevés."
+# 169876 : 軽食の備え — de quoi faire une collation ; « petit-déjeuner » ajouté par l'anglais
+169876|"Il devrait y avoir de quoi faire une petite collation.‖  Je vais la préparer."
+# 170231 : Virgilia vouvoie Beatrice (あなた/です, comme partout ailleurs dans l'épisode)
+170231|"......Quand vous avez dit `#ff0000Il n'y a pas plus de 18 personnes sur cette île</i>', c'est vous-même que vous avez acculée."
+# 170242 : Virgilia → Beatrice : vous
+170242|"Si vous l'aviez d'abord égaré davantage, les choses auraient pu être différentes,‖ mais dans ces conditions, cet atout a été complètement gâché.‖  Au contraire, vous n'avez fait que le stimuler."
+# 170300 : Virgilia → Beatrice : vous
+170300|"Oui, vous avez beaucoup trop baissé votre garde.‖  ...La dernière partie était difficile pour Battler-kun, ‖mais il semble que celle-ci va se révéler ‖difficile ‖~ib~pour vous~ib~‖."
+# 170317 : Virgilia → Beatrice : vous
+170317|"Ho ho ho.‖  Votre mine embarrassée accompagne le thé encore mieux que les biscuits de Ronove."
+# 170364 : Virgilia → Beatrice : vous
+170364|"Ho ho ho, pas question.‖  En ce moment, je suis du côté de Battler-kun, ‖je ne peux donc rien vous apprendre qui vous donnerait l'avantage."
+# 170376 : Virgilia → Beatrice : vous
+170376|"Il me semble pourtant vous avoir entendue vous vanter effrontément d'avoir surpassé votre maîtresse."
+# 170388 : Virgilia → Beatrice : vous ; 駄々っ子 = capricieuse
+170388|"Allons, allons.‖  Vous êtes toujours aussi capricieuse."
+# 170394 : Virgilia → Beatrice : vous
+170394|"...Cela dit, il est vrai que j'ai peut-être donné un peu trop d'indices à Battler-kun.‖  Cela vous a servi de leçon, ‖mais pour une partie équitable, je l'ai peut-être un peu trop soutenu."
+# 170406 : Virgilia → Beatrice : vous
+170406|".........Un indice seulement.‖  Et vous réfléchirez toute seule à ce qu'il signifie, d'accord ?"
+# 170433 : Virgilia → Beatrice : vous
+170433|"Alors, un indice seulement.‖  ...Connaissez-vous la fable d'Ésope, Borée et le Soleil ?"
+# 170456 : Virgilia → Beatrice : vous
+170456|"......‖Réfléchissez bien à ce que cela signifie.‖  Et puis,‖ ...Battler-kun semble se méprendre légèrement sur un point, mais il n'est pas le seul."
+# 170461 : Virgilia → Beatrice : vous
+170461|"Comprenez-vous seulement les conditions de victoire de cette partie ?"
+# 170473 : Virgilia → Beatrice : vous
+170473|"......Vous voyez ?‖  Vous vous trompez déjà."
+# 170485 : Virgilia → Beatrice : vous
+170485|"Votre victoire, ce n'est pas de faire capituler Battler-kun.‖  ...N'est-ce pas plutôt de faire en sorte que Battler-kun reconnaisse votre existence ?"
+# 170508 : Virgilia → Beatrice : vous
+170508|"Je vous ai donné un indice.‖  Pour le reste, à vous de bien y réfléchir.‖  ......Quoi qu'il en soit, vos coups habituels ne marcheront plus sur Battler-kun.‖  Il vous faudra sans doute changer sérieusement de stratégie."
+# 170521 : Virgilia → Beatrice : vous
+170521|"Ho ho ho...‖  J'ai hâte de voir ça.‖  Je me demande comment Battler-kun s'y attaquera.‖  ...Je vous souhaite bonne chance à vous aussi."
+# 170421 : 大魔女ぶっている — « toutes-puissantes » est un ajout de l'anglais
+170421|Elle qui jouait les grandes sorcières devant Battler, elle se montrait vraiment pitoyable dès qu'il n'était plus là.
+# 170577 : あんなにも…夢見てきた — « tellement », pas « toi aussi » (ajout de l'anglais)
+170577|"...Tu as tellement rêvé d'arracher à Krauss la place de chef de famille, non... ?
+# 170883 : simple constat, pas de « prétendue » bibliothèque
+170883|C'est dans cette bibliothèque qu'étaient entreposés ces livres sérieux.
+# 170886 : 知識人ぶった…硬いもの — ouvrages sérieux qui font intellectuel, pas « épais »
+170886|Ce n'étaient que des ouvrages sérieux, comme ces encyclopédies en plusieurs volumes qui font intellectuel,‖ mais c'était bien pratique pour moi, maintenant que j'avais des recherches à faire.
+# 171127 : ヘソでも噛んで死んじゃえ → « t'as qu'à crever » (choix fixé STYLE) ; 泣き寝入り
+171127|Si c'est trop te demander d'y croire, va donc pleurer dans ton coin, et t'as qu'à crever...
+# 171507 : 十億円を余裕で上回る — largement plus d'un milliard, pas « plusieurs milliards »
+171507|...Même à une estimation modeste, ça dépassait largement le milliard de yens.
+# 171551 : 家督云々の話を抜きにしたって — même en laissant la succession de côté ; 私ひとりのもの
+171551|Même en laissant de côté cette histoire de succession des Ushiromiya, ‖...désormais, ces 20 milliards de yens en or sont à moi seule !!
+# 171572 : phrase omise par l'anglais (その時、誰も異論を挟めないわ)
+171572|"Le reste de la famille finira par se ruiner et disparaître.‖  Alors, George se servira de cet or, ‖et tout comme Père l'a fait,‖ il rendra à la famille Ushiromiya sa gloire perdue.‖  ...Alors, personne n'osera s'y opposer. C'est George, le véritable héritier de la famille Ushiromiya !!"
+# 171597 : 私たちが継承した — nous (Eva et George), pas « je »
+171597|Et cela voudra dire que nous aurons véritablement hérité de la succession des Ushiromiya !!
+# 171622 : 半生 = la vie passée (pas « la moitié ») ; 昇華された
+171622|...Ici et maintenant, tous nos vœux sont exaucés, et notre triste vie passée s'en trouve sublimée.
+# 171754 : 言うわね…くせに — « tu ne manques pas d'air », « Tu parles bien » est un calque
+171754|"Tu ne manques pas d'air.‖  ......Alors que tu es arrivée ici après moi."

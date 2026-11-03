@@ -1,0 +1,76 @@
+# 208234 : 前に話してたな = elle l'a dit un jour, pas « tout à l'heure »
+208234|"C'est ta tante.‖  La petite sœur de Kyrie-san.‖  Je crois qu'elle m'a dit un jour qu'elle te considère comme sa petite sœur."
+# 208546 : この私に何と = « à moi, de surcroît » — l'emphase outrée de Kasumi est perdue
+208546|"......Qu'as-tu dit... ?‖  Qu'as-tu osé dire, à moi... ?"
+# 208550 : 気さくさ = l'affabilité, l'abord facile de Kyrie, pas la « franchise »
+208550|On ne retrouvait rien de l'affabilité de Kyrie sur le visage de Kasumi.
+# 208554 : 嘲り = mépris, moquerie (pas « arrogance »)
+208554|Elle affichait le mépris de la vieille famille Sumadera envers la famille Ushiromiya déchue,‖ ...ainsi que l'orgueil de quelqu'un qui ne veut surtout pas qu'on remarque que sa famille décline au point de ne pas pouvoir ignorer la fortune des Ushiromiya.
+# 208714 : たった３だもんね reste ambigu (3 hommes / 3 étages), comme en 208609 ; ne pas dévoiler le jeu ici
+208714|Tu vois, ...ça a parfaitement marché, non ?  Il n'y en avait que trois, après tout.
+# 209117 : Okonogi passe à あんた / forme familière pour congédier Kasumi — tutoiement de mépris
+209117|"C'est toi qui l'as laissée filer, c'est ta bourde.‖  Moi, je n'y suis pour rien."
+# 209129 : même registre familier (帰っちまうのかい)
+209129|"Tiens, tu t'en vas déjà ?
+# 209134 : お茶漬けでも食ってけ — formule de congé à la kyotoïte retournée contre elle ; familier
+209134|  Tu aurais pu rester manger un petit chazuke."
+# 209283 : 盗聴できてなきゃ = s'il n'avait pas intercepté leur radio (« être sur écoute » dit l'inverse)
+209283|"J'ai paniqué quand l'ascenseur est arrivé vide.‖  Je me demande ce qui se serait passé si je n'avais pas intercepté leurs communications radio."
+# 209386 : あなたは言ったわ = « c'est toi qui me l'as dit » ; 何だかわからなくなってしまった = elle ne sait plus ce qu'est (la vérité)
+209386|"C'est toi qui me l'as dit.‖  Tu m'as ordonné de chercher la vérité d'il y a 12 ans.‖  ...Mais je ne sais plus très bien ce que je cherche."
+# 209420 : つまりは真実ということ = ces idées sont donc vraies (pas une définition de la vérité)
+209420|"C'est exact.‖  Et pourtant, pour réfuter cette théorie en chambre, il faut ouvrir la boîte.‖  ...Il est impossible de réfuter la moindre idée sur le contenu d'une boîte qu'on ne peut pas ouvrir.‖  Autrement dit, ce sont des vérités."
+# 209608 : 悪魔の証明を正攻法で成し遂げた = elle a réussi la preuve du diable par la voie régulière (« satisfaire… attaque de front » calque l'anglais)
+209608|"......Ça alors.‖  Autrement dit, Beatrice a réussi la preuve du diable par la voie la plus régulière qui soit.‖  Et ça faisait partie du plan de la sorcière depuis le début."
+# 209653 : typographie (espace avant !)
+209653|Eh bien, écoutons-la.‖  La version de Beatrice... !
+# 209877 : 諸君ら = vous tous (pluriel), pas « tu »
+209877|"Hé hé hé hé !‖  Vous croyiez vraiment que j'ignorais dans quelle situation vous vous trouvez... ?"
+# 209889 : 最初は虚勢を張り、最後には… = d'abord le bluff, puis le retour au sujet (succession, pas alternance)
+209889|Eva et les autres comprirent qu'il avait percé à jour leurs difficultés financières,‖ et, d'abord en bluffant, puis en revenant au cœur du sujet pour contre-attaquer, ‖ils pressèrent Krauss encore et encore de les laisser voir Kinzo.
+# 209898 : 唯一の救い = la seule consolation (pour Rosa), pas « leur salut » (des enfants)
+209898|...Qu'ils soient partis jouer sur la plage aussitôt après le déjeuner était la seule consolation.
+# 210050 : 兄貴は跡継ぎなんだ (3e personne) ; お前の言う通りだ s'adresse à Kyrie (お前 = sa femme), pas à Krauss
+210050|  ......C'est vrai.‖  Kyrie a raison.‖  C'est parce qu'il s'occupe du vieux qu'Aniki est le successeur.‖  Tu as tout à fait raison."
+# 210299 : 恐れ多い = trop audacieux / sacrilège pour être dit, pas « effrayant »
+210299|"......À vrai dire, je le soupçonne depuis l'an dernier.‖  Non, tout le monde ici le soupçonne probablement aussi.‖  Eva nee-san et Hideyoshi nii-san.‖  Rudolf-san et Rosa-san aussi.‖  Tout le monde le soupçonne depuis le début, mais l'idée était si sacrilège que personne n'a osé la formuler."
+# 210340 : 確かに魔女は赤で宣言したさ = « c'est vrai, elle l'a déclaré en rouge » ; « en a dit, des choses » est un ajout de l'anglais
+210340|"Exactement.‖  ...C'est vrai que la sorcière l'a déclaré en rouge.‖  ...Elle a cité les noms des 18 personnes en annonçant si elles étaient vivantes ou mortes, et elle a affirmé qu'il n'y avait aucun autre humain.‖  ...Mais avec cette théorie, je peux me faufiler dans cette brèche... !"
+# 210358 : 未知の新人物Ｘ — le « X » (repris ensuite partout) manque
+210358|"Il n'existe pas de 19e personne sur cette île.‖  Et pourtant, ce mécanisme permet d'y glisser un nouveau personnage inconnu, X.
+# 210464 : 確かに存在しないだろう = concession (« certes, elle n'existe pas »), pas un doute
+210464|Certes, il n'existe sans doute pas de 19e personne X sur cette île.
+# 210621 : グレーテルとやら → « la dénommée Gretel » (cf. 戦人とやら)
+210621|"La dénommée Gretel.‖  ...Il semble que tu aies l'esprit bien plus vif que Battler.‖  Quelle redoutable ennemie j'ai accueillie là.
+# 210631 : 今朝食ったクロワッサン = le croissant que Beatrice a mangé ; phrase française bancale
+210631|"Non !‖  Je n'ai pas l'ombre d'une obligation de te faire plaisir, pas même une miette du croissant que j'ai mangé ce matiiiiiiin !!"
+# 210638 : この野郎 ; typographie (espace avant !!)
+210638|"E-Espèce d'enfoiré...... !!"
+# 210701 : 内容による = cela dépend du contenu (de l'affirmation), pas « de la situation »
+210701|  ......Mais même ça, ça dépend du contenu."
+# 210719 : idem (内容…？)
+210719|"...Du contenu... ?‖  Qu'est-ce que tu veux dire... ?"
+# 210818 : そうなるであろうな ; « il se peut » est incomplet
+210818|"Hmm, il en sera sans doute ainsi.‖  Si je ne peux pas réfuter la théorie des `astuces réalisées par des humains' qu'avance Battler avant la fin de la partie,‖ Battler s'en servira pour me nier, et il pourra proclamer sa victoire."
+# 210961 : citation d'un énoncé rouge : マスターキーの本数は５本である, sans « réellement » ajouté
+210961|"Il y a 5 passe-partout."
+# 210972 : 密室を出入りした = est entré dans la chambre close et en est sorti (énoncé bleu modèle : pas de « ou »)
+210972|`En réalité, il y avait plus de 5 passe-partout.‖  Le coupable est entré dans la chambre close et en est sorti avec cette clé supplémentaire !'
+# 211062 : une seule flèche tirée mollement (へろへろ), puis on recommence — l'anglais en fait une rafale, contresens avec l'image qui suit
+211062|Jusqu'ici, je décochais mollement une seule flèche,‖ je demandais à la sorcière si j'avais touché,‖ et quand elle me disait que c'était raté, je rebandais mon arc pour tirer de nouveau, tout aussi mollement.
+# 211107 : proverbe 下手な鉄砲も数撃ちゃ当たる
+211107|"À force de tirer, même un piètre tireur finit par toucher, c'est ça ?‖  *ricane*ricane* !‖  Ce genre de comparaison grossière te ressemble bien."
+# 211304 : 仮説を立てなければならない = formuler l'hypothèse, pas « admettre la théorie »
+211304|"...En bref, si vous continuez à nous empêcher de voir Père, nous devrons formuler l'hypothèse suivante.
+# 211548 : sujet = nous (Rosa s'inclut), et « trop fait peu de cas » est bancal
+211548|"...Si, c'est vrai.‖  ......Nous avons peut-être trop négligé la fierté de Krauss nii-san en tant que fils aîné.‖  ...Ce serait un peu dur pour lui de l'obliger à signer un engagement sur les devoirs de celui qui veille sur Père, comme Kyrie-san l'a présenté."
+# 211664 : な、蔵臼さん = « Krauss-san » (Hideyoshi passe de 兄さん à さん)
+211664|"Et si on faisait une pause pour se rafraîchir les idées ?‖  Krauss nii-san a sans doute besoin d'un peu de temps lui aussi.‖  Pas vrai, Krauss-san ?"
+# 211874 : どうか今一度 = « une fois encore », pas « rien qu'une fois »
+211874|"...Père... !‖  Je vous en prie, montrez une fois encore à ces irrespectueux la majesté du chef de famille... !"
+# 212860 : ちゃんといい子にしてるのよ = consigne (« sois bien sage »), pas un compliment
+212860|"............‖...Bon.‖  Sois bien sage, surtout.‖  Si tu fais tout ça, je te rapporterai un cadeau.‖  D'accord ?‖  Couche-toi avant 21 h.‖  Il ne faut pas dire à la maîtresse ni à aucun adulte que Maman ne rentre pas.‖  D'accord... ?"
+# 212903 : 芸人チーム = l'équipe des humoristes (« comédiens » = acteurs)
+212903|『...Uryu ?‖  Tu veux plus regarder, Maria... ?‖  Si l'équipe des humoristes répond juste à toutes les questions, ils peuvent encore remonter.‖  Uryu- !』
+# 212923 : お付き合い = obligations sociales du travail (sorties arrosées), pas des « rendez-vous » galants (« dates » de l'anglais)
+212923|...Parce qu'elle a des `obligations', ou un truc comme ça, elle rentre toujours après avoir bu beaucoup d'alcool, alors qu'elle le supporte mal,‖ et, toute pâle, elle file droit sous la douche puis au lit.

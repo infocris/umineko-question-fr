@@ -1,0 +1,66 @@
+# 220312 : « alors que » (= tandis que) est un contresens de liaison ; c'est la conclusion de la mère
+220312|Maman m'a dit que ce qu'il y avait dedans ne valait sûrement pas grand-chose, et qu'on ne savait même pas ce qu'on allait gagner,‖ et qu'il ne servait donc à rien de s'acharner.
+# 220642 : 遊ばれてちゃ = passif, Battler est le jouet de ce monde (l'anglais en fait le sujet qui joue)
+220642|"Oui.‖  ...Pas question qu'il reste éternellement le jouet d'un monde pareil.‖  ...Il est temps qu'il rentre à la maison.‖  C'est pour ça que je suis venue le chercher."
+# 220702 : いいえ répond aux excuses de Mammon : « ce n'est rien », pas un refus
+220702|"Ce n'est rien.‖  Merci."
+# 220828 : ベルンカステルも含め = Bernkastel comprise, pas « comparée à »
+220828|Tout comme Bernkastel, Lambdadelta a quelque chose d'insaisissable.
+# 220849 : まぁね = « eh bien, oui » ; l'anglais « Not really » inverse la réponse
+220849|"Eh bien, oui.‖  En écoutant votre conversation, je l'ai trouvée un peu intéressante.‖  Alors je me suis dit que j'allais te raconter quelque chose de bien."
+# 221142 : 別人 = c'est Ange qui est une autre personne, nommée Ange Beatrice
+221142|  À strictement parler, tu es une tout autre personne, qui s'appelle ANGE Beatrice.‖  ...Tu saisis ce que ça veut dire ?"
+# 221278 : 享受できる = dont tu pourras profiter (pas « accepter »)
+221278|`Je t'offre une chance de te venger.‖  ...En échange, je promets de chercher et de t'apporter le dénouement le plus heureux parmi ceux dont tu pourras profiter.'
+# 221342 : même terme 享受できる, écho de la promesse de Bernkastel
+221342|"......Le dénouement dont tu pourrais profiter est complètement...
+# 221297 : あんたが立ち回ったところで = même si tu te démènes
+221297|"Oui, il n'y a pas de mensonge sur ce point.‖  L'échiquier de Beato est parfait.‖  Même si tu te démènes, ‖les chances que Beato perde sont si minces qu'il est douteux que tu puisses ne serait-ce que le rêver une seule fois dans ta vie."
+# 221331 : ベアトを打ち破れば = si tu vaincs Beato ; « une fois brisé » se rapportait à l'échiquier
+221331|"Hé hé hé hé hé, *glousse*glousse*glousse*... !!‖  Tu commences enfin à comprendre, hein... ?‖  Aucune récompense ne t'attend dans ce combat.‖  Au contraire, si tu vaincs Beato, son échiquier disparaîtra.
+# 221758 : ねぇ……？ = interpellation (« Dis... ? », comme le ネェ de 221072), pas « pas vrai »
+221758|"Diiis... ?‖  ANGE Beatriiiiice... ??‖  Bernkastel veut terminer la partie et mettre fin au monde où Battler et toi pouvez être ensemble, alors pourquoi tu serais de son côté... ?"
+# 221768 : 絶対 de la Sorcière de l'Absolu = « absolument » (comme 221344/221386) ; このゲーム = la partie
+221768|"...Alors je te le dis, ANGE.‖  Deviens ma pièce d'échecs.‖  Contrairement à Bern, je ne vais pas te faire miroiter des récompenses mensongères que tu n'obtiendras absolument jamais.‖  Tant que tu deviens ma pièce et que tu m'aides à faire en sorte que cette partie ne finisse `absolument' jamais...
+# 221773 : idem, “絶対”に約束する = je promets `absolument'
+221773|  Alors je te promets `absolument', en mon nom, que ce monde continuera `absolument' !"
+# 222003 : ここを歩いた日 = ce jour-là (un seul jour, cf. 222006)
+222003|...Mais je me souviens que le jour où je me suis promenée ici avait été vraiment amusant.
+# 222010 : 私たちの姿 = nous (le groupe), pas « me »
+222010|Les gens qui passaient de temps en temps ne nous remarquaient pas.
+# 222011 : suite de 222010
+222011|Ils nous ignoraient agréablement et passaient leur chemin comme si de rien n'était.
+# 222032 : 平均点を著しく下げている = je fais baisser la moyenne (ce que reprend 222035)
+222032|Apparemment, je faisais nettement baisser la moyenne de la classe.
+# 222035 : 私ひとりが改善されるだけで = il suffirait que moi seule progresse
+222035|D'après ces filles extrêmement intellectuelles,‖ il suffirait que moi seule progresse pour que la moyenne grimpe en flèche.
+# 222192 : いつも言ってるでしょう = « je le dis toujours » (la sœur parle aux autres)
+222192|"Je vous dis toujours que c'est premier arrivé, premier servi, non ?!
+# 222297 : お疲れ様 = « tu as bien travaillé », pas « bon courage »
+222297|"Tu as bien travaillé.‖  Maria était nulle pour étudier, alors elle t'envie de pouvoir avoir de bonnes notes quand tu travailles."
+# 222322 : 合ってるじゃない = « mais c'est juste ! » (la réponse est correcte)
+222322|"Pourquoi ?‖  C'est juste, pourtant ?"
+# 222405 : 悪くないわ = « ce n'est pas désagréable » (sa compagnie), pas « pas méchantes »
+222405|"Elles sont vraiment pleines d'énergie, ces sœurs.‖  Elles disent parfois des trucs inquiétants, mais je ne m'en plains pas.
+# 222530 : 絶対に = « absolument » (terme de l'Absolu, cohérent avec le reste du lot)
+222530|  Je n'ai pas d'autre choix que de tenir bon.‖  Je vais faire des efforts.‖  Je vais serrer les dents.‖  Et je réaliserai mon rêve, à coup sûr.‖  Absolument."
+# 222838 : pas de restriction « il n'y a que » en japonais : simple énumération
+222838|Les Sept Sœurs, déjà si animées, Maria onee-chan, Sakutarou et moi.
+# 222845 : sens japonais : rien qu'avec ce courage, alors que rien n'a changé… je m'amuse (222848)
+222845|...Rien qu'avec ce courage, alors que j'étais toujours enfermée dans cette académie,‖ sans une seule amie dans ma classe...
+# 222848 : suite de 222845
+222848|...j'arrive malgré tout à passer des moments si amusants et si animés.
+# 222886 : 煉獄の七姉妹 = les Sept Sœurs (l'anglais met « Stakes »)
+222886|  Nous, les Sept Sœurs du Purgatoire, resterons toujours à vos côtés pour vous servir, jusqu'à ce jour."
+# 223315 : 自分さえ良ければいいって思ってるその考えがいけない = c'est cette mentalité qui ne va pas
+223315|"Ton problème, Ushiromiya-san, c'est que tu manques d'esprit de coopération.‖  C'est ta façon de penser, `du moment que ça va pour moi', qui ne va pas."
+# 223355 : 律儀に = consciencieusement (pas « poliment »)
+223355|La déléguée de classe a consciencieusement demandé au conseil des élèves et à la salle des professeurs une prolongation pour l'utilisation de la salle.
+# 223409 : 反省 = autocritique (terme du reste de la scène), pas « s'excuser »
+223409|"Tu sais au moins ce que veut dire `faire son autocritique' ?!"
+# 223532 : 正しい視界 = une vision juste (les voir telles qu'elles sont)
+223532|Autrement dit, ...c'était une vision juste.
+# 223726 : こんな屈辱耐えられない = c'est la sœur qui ne supporte pas ; l'anglais change le sujet
+223726|"Et ce n'est pas seulement ce soir, ce sera pareil demain et après-demain !!‖  Ça suffit, je ne supporte pas une humiliation pareille !!"
+# 223985 : 役立たず = bonne à rien (insulte adressée à Lucifer)
+223985|Bonne à rien, bonne à rien... !!

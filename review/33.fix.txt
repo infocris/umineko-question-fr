@@ -1,0 +1,58 @@
+# 152808 : そのまさかでございます = « c'est bien ce que vous soupçonnez » ; Ronove n'a rien affirmé lui-même
+152808|"Exactement.‖  C'est bien ce que vous pensez, aussi incroyable que cela paraisse.‖  Cependant, si l'âme était la même, une âme humaine est fortement influencée par son réceptacle.‖  Mademoiselle perdit tous ses souvenirs passés et grandit comme une petite fille humaine tout à fait ordinaire."
+# 152814 : « assise sur la chaise » (correction de langue)
+152814|"Et tu me dis...que c'est la Beato assise sur la chaise de jardin ?"
+# 152830 : idem
+152830|Beato, assise sur la chaise de jardin, les yeux levés vers le ciel, posait de nouveau la même question.
+# 153054 : 赤で omis par l'anglais — c'est précisément le rouge qui rend la question interdite
+153054|  Bon, ça se tient, j'imagine.‖  Si on me disait en rouge `la sorcière existe', je n'aurais plus qu'à jeter l'éponge d'entrée."
+# 153154 : 忘れ形見 = enfant laissé par une morte, pas « née après sa mort »
+153154|Elle avait sans doute...laissé une fille en mourant.
+# 153157 : le japonais dit que l'histoire d'âme dans un nouveau corps SIGNIFIE qu'il a élevé l'enfant comme sa réincarnation ; l'anglais en fait deux croyances
+153157|Cette histoire d'âme placée dans un nouveau corps...‖veut sûrement dire qu'il a élevé l'enfant en croyant qu'elle était la réincarnation de Beatrice...
+# 153719 : よせよ s'adresse à Krauss seul (auteur de la pique) ; Rudolf tutoie son frère
+153719|"Arrête.‖  Ce n'est pas le moment de faire de l'ironie.
+# 153857 : 歩き続けた = marcher ; l'anglais met « running »
+153857|J'ai marché, à l'aveuglette, au hasard, encore et encore.
+# 154012 : « assise sur une chaise » (correction de langue)
+154012|Je l'ai vue assise sur une chaise de jardin placée face au jardin fleuri, vêtue d'une robe élégante.
+# 154905 : 迷い込んだ = s'égarer dans, pas « être jetée »
+154905|...C'était presque comme si c'était elle qui s'était égarée dans un pays de conte de fées.
+# 155127 : 何だ…さっきから魚が出てこんぞ — étonnement comique, plus direct que l'anglais
+155127|"Comment ?‖  C'est un aquarium, et pourtant, depuis tout à l'heure, pas un seul poisson ?"
+# 155281 : Beatrice s'adresse à Battler (« tué » par Lucifer en son absence ; il répond aussitôt) — masculin ; « Maudite sois-tu » trop fort pour まったく
+155281|"...Combien de temps comptes-tu rester mort ?‖  Ouvre donc les yeux.‖  Vraiment, aller te changer en tas de viande tout seul, sans que je le sache."
+# 155362 : 仮死状態 = mort apparente (cf. 155334), pas « faire semblant » ; 仮どころか = rien d'« apparent »
+155362|...J'aurais voulu esquiver avec un truc vague, du genre `ce doit être une mort apparente',‖ ...mais j'avais beau regarder, ça n'avait rien d'apparent, ...elle avait vraiment l'air morte...
+# 155426 : vérité rouge — « C'est mort » est ambigu en français (= c'est fichu) ; sujet = le corps désigné juste avant
+155426|  Ceci est mort, sans le moindre doute‖!"
+# 156237 : phrase finale agrammaticale ; 虚しい = vanité, futilité
+156237|"...La mesure du temps est une chose cruelle.‖  Elle se traîne jusqu'à 24 tout au long d'une journée, puis retourne à 0.‖  ...Elle a certes compté jusqu'à 23 h 59.‖  Mais parvient-elle jamais à atteindre 24 h 00 ?‖  ...Si l'on considère qu'elle revient à 0 h 00 sans avoir atteint 24, comme tout cela est vain."
+# 156271 : 冒涜 envers des êtres → « manquer de respect » (pas « profaner »)
+156271|Ce serait un sacrilège envers le résultat de la divination...‖et un manque de respect envers ces êtres supérieurs aux humains qui délivrent leurs révélations à travers les cartes.
+# 156335 : 普段とは違う流れに = c'est le cours inhabituel des tirages qui lui donne l'oracle, pas un oracle « différent »
+156335|Dans ce cours inhabituel des tirages, Kinzo semblait avoir reçu quelque révélation.
+# 156427 : すぐに戻らなくて = s'excuser de NE PAS être rentrée tout de suite (contresens anglais)
+156427|"...Genji-sama ?‖  Et Kanon-kun aussi... !‖  J-Je suis désolée de ne pas être rentrée tout de suite, euh..."
+# 156477 : 気配を殺す = effacer sa présence (pas seulement le bruit des pas)
+156477|Kanon, tout particulièrement, savait effacer sa présence.
+# 156704 : 厳重な施錠を示した = la porte était bien verrouillée (pas « une serrure solide »)
+156704|...À première vue, la porte était bel et bien solidement verrouillée.
+# 156756 : その背で庇った = il protège Shannon de son corps ; « lui barrer le passage » inverse le sens
+156756|Il s'avança devant Shannon, les bras écartés, pour la protéger de son corps.
+# 156780 : 源次か = reconnaissance, pas un doute sur l'identité
+156780|"Ah, Genji.‖  Tu es venu bien vite.
+# 156792 : Genji s'adresse directement à Ronove (お越しでしたか)
+156792|"......‖...Vous êtes donc venu vous aussi, Ronove-sama."
+# 157331 : あなたを誇りに思います = fier de vous (pas « de vous avoir connu », Genji n'est pas encore mort)
+157331|"...Je n'en attendais pas moins de vous, Genji.‖  En tant que meuble moi aussi, je suis fier de vous."
+# 157510 : ここに = « me voici » (réponse à l'appel 出でよ)
+157510|"...Lucifer de l'Orgueil, me voici."
+# 157534 : onomatopée espacée à la française, comme les autres rires de Lucifer du lot
+157534|  Comme si ce petit mignon avait la moindre chance contre moi...‖  Hé hé hé hé hé hé hé hé hé hé hé hé hé."
+# 157666 : idem
+157666|"...Hé hé hé hé hé hé hé hé hé hé hé hé.
+# 157903 : 楽しい見世物の時間であるぞ = annonce, pas une question
+157903|"Alors, Battleer.‖  C'est l'heure d'un spectacle amusant !‖  *ricane*ricane* !"
+# 157985 : 台無し = ça ruine ta négation (« ブォンブォンカキンカキン » sous ses yeux) ; l'anglais comprend « dommage de rater ça »
+157985|"Avec tous ces vroum vroum et ces cling cling juste sous ton nez, ta négation tombe à l'eau, pas vraaaaai ?‖  Regarde, regarde, regarde, 

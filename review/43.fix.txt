@@ -1,0 +1,40 @@
+# 214641 : いわゆる子どもの頃のお人形遊び = les jeux de poupée de l'enfance ; « chaque fois » est un ajout de l'anglais
+214641|À en croire Beatrice, dans les jeux de poupée de l'enfance,‖ la poupée acquiert réellement une volonté et converse avec l'enfant, allant même parfois jusqu'à bouger d'elle-même.
+# 215428 : 胸の内より魔法大系はおろか、銀河を生み出す = faire naître de son cœur non seulement un système magique mais une galaxie ; l'anglais a fait du système magique un outil
+215428|  ...Mais après mille ans d'entraînement, faire naître de ton cœur non seulement un système magique, mais même une galaxie, ne serait plus un simple rêve."
+# 215440 : Virgilia vouvoie (あなた…ですね), y compris Maria
+215440|  ...Ce titre est aussi la preuve que vous n'avez pas perdu votre cœur pur."
+# 215674 : 初老の男 = homme d'un certain âge (c'est le « vieux professeur » plus loin), pas « d'âge mûr » (middle-aged)
+215674|Un homme d'un certain âge était assis face à Ange, à une table isolée et tranquille.
+# 215734 : 半年しか経ておらず = six mois seulement (cf. « six mois après l'affaire »), pas « moins de six mois »
+215734|Mais à ce moment-là, l'accident ne remontait qu'à six mois, et les autres n'avaient pas disparu depuis assez longtemps pour être déclarés morts, même dans des circonstances exceptionnelles.
+# 215747 : c'est l'antiquaire qui a réuni les experts (権威たち), pas les livres
+215747|Ces documents anciens, qu'on finirait par appeler `la collection Ushiromiya', furent soumis à des autorités du domaine que l'antiquaire avait réunies pour les expertiser, ...et ces autorités en restèrent stupéfaites.
+# 215970 : trois éléments en japonais (le roman fantastique, la mode de l'occulte née de la collection, la vérité dans l'ombre) ; l'anglais fait naître la mode du roman
+215970|"...Donc, c'est la combinaison de cet étrange roman fantastique, de la mode de l'occulte née après la collection Ushiromiya,‖ et du fait que la vérité soit restée dans l'ombre, qui a donné naissance à la légende de la sorcière de Rokkenjima... ?"
+# 217093 : 口は悪い = mal embouchée, grossière (« langue bien pendue » = bavarde)
+217093|"L'avarice gouverne aussi l'ambition, l'envie de s'améliorer et la force de vivre.‖  Ce n'est pas du tout quelque chose de seulement mauvais.‖  ...Elle est mal embouchée, mais c'est une fille qui fait vraiment de son mieux."
+# 217165 : 悪魔たちの間での話 = c'est le point de vue des démons, pas une comparaison avec d'autres démons
+217165|Mais ça, c'était le point de vue des démons.‖  Pour un humain, un meuble est une chose redoutable.
+# 217569 : accord fautif (« sauvé la vie »)
+217569|...On pouvait dire sans exagérer que le porte-bonheur au scorpion m'avait sauvé la vie.
+# 217808 : さっすが縁寿さまぁ = « c'est bien Ange-sama ! » (admiration attendue), pas « bien joué »
+217808|  Ça, c'est bien Ange-sama !‖  Allez, vite, vite !"
+# 218293 : 再びお役に立てる機会を賜るどころか、新しい主人の負担になる = loin d'être utiles, on devient un fardeau, honte pour des meubles ; l'anglais a déformé la phrase
+218293|"Nous sommes des meubles que Beatrice-sama a autorisés à se reposer, des meubles dont la tâche est accomplie !‖  Au lieu de recevoir l'honneur d'être à nouveau utiles, voilà qu'on devient un fardeau pour notre nouvelle maîtresse : c'est la honte pour des meubles !!‖  Disparaissez immédiatement !!"
+# 218635 : 思ってきた = j'avais toujours pensé ; « jusqu'à récemment » est un ajout de l'anglais
+218635|J'avais toujours pensé que quelque chose comme la magie ne pourrait jamais me sauver.
+# 218663 : どんどん、どんどん = de plus en plus (progression rapide), pas « lentement, petit à petit »
+218663|Mais le monde de Maria onee-chan devenait de plus en plus, de plus en plus heureux.
+# 218673 : それこそが = c'est justement cela (admettre sa jalousie) qui fut le premier pas
+218673|Et c'est justement ça qui a été le premier pas de ma quête du bonheur...
+# 218905 : narration à la 3e personne en japonais (お姉ちゃん…察する), l'anglais passe à « you »
+218905|Je n'en attendais pas moins d'Onee-chan...
+# 218906 : idem
+218906|Elle a tout de suite remarqué que des pensées parasites m'envahissaient.
+# 219223 : guillemets droits comme l'anglais (pas de « »)
+219223|"Non-agression et non-ingérence mutuelles".
+# 219837 : さくたろが時間の話なんかするものだから = c'est parce que Sakutarou a parlé de l'heure (que je reviens à la réalité)
+219837|Comme Sakutarou s'était mis à parler de l'heure...
+# 220011 : 冷酷に私を無視はする = elles m'ignorent froidement (pas « me regardaient »)
+220011|Tant que j'évitais ça, les filles m'ignoraient froidement, mais elles ne venaient pas me chercher des ennuis.

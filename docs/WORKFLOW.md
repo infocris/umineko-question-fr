@@ -110,7 +110,7 @@ Finally, add the new `NN.fr.jsonl` files to `mod/translations.txt`, before the `
 
 ## 3. Reviewing against the Japanese
 
-The first two episodes were translated from English, then reviewed against the Japanese. A review
+All four episodes were reviewed against the Japanese after translation (Episodes 1-2 were translated from English alone; Episodes 3-4 already had the Japanese as a reference). A review
 batch `review/NN.jsonl` holds, for each line, `ja`, `en` and the current `fr`. The reviewer writes
 only the lines that need changing, each with a one-line justification:
 
@@ -136,6 +136,9 @@ its line from `NN.fix.txt`.
 | `review/22` | consistency pass: Rosa, Kyrie (Episodes 1 and 2) |
 | `review/23` | consistency pass: Kanon, Shannon, George, Battler→Rosa (Episode 2) |
 | `review/90` | mechanical fixes: missing quotes, glossary leftovers |
+| `review/31`–`40` | Episode 3 and its Tea Parties |
+| `review/41`–`52` | Episode 4 and its Tea Parties |
+| `review/91` | mechanical fixes for Episodes 3-4: space before `?`/`!`, quotes aligned on the English, Sakutarou's 『』, Seven Sisters |
 
 The git tag `avant-relecture-jp` marks the state before the review.
 

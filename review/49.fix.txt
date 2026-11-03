@@ -1,0 +1,92 @@
+# 252492 : Kyrie : だけは理解できた — « on a au moins compris », et ヤバイ est plus fort que « plutôt mauvais »
+252492|"Mais on a au moins compris que c'était franchement grave."
+
+# 252802 : Krauss : 留弗夫め、愚痴が多かった = Rudolf se plaignait (de Kyrie) à tort ; préciser pour que la réplique de Kyrie ait du sens
+252802|  Vous êtes vraiment une bonne épouse.  Ce Rudolf se plaignait un peu trop de vous, on dirait."
+
+# 253023 : 彼の両親に強いたように : c'est Gaap qui a fait subir ça aux parents de George (l'anglais reste vague)
+253023|...S'il parvenait à sauter par-dessus la prochaine trappe,‖ ...alors cette fois, il réduirait sans doute en bouillie la tête de Gaap d'un coup de pied tel un ouragan, sans retenir ses coups le moins du monde,‖ ...exactement comme elle l'avait fait subir à ses parents.
+
+# 253351 : 上等だぜ (Jessica) = « ça me va », défi accepté, pas « pas de problème »
+253351|  Ça me va, je vais le défoncer de part en paaaaaaaaaaart !!"
+
+# 253454 : 上等だ (Jessica) = défi accepté
+253454|  Ça me va !!"
+
+# 253638 : たまたま噛み合う : un seul événement fortuit, pas « parfois »
+253638|La façon dont ces innombrables mains agrippaient les barreaux... finit, par hasard, par s'accorder.
+
+# 254131 : 追い抜かれた = se faire dépasser (le grondement les double), pas « poursuivis »
+254131|C'était comme se faire doubler par un fantôme.
+
+# 254146 : 拍子抜けした = décontenancés (le grondement est passé sans rien), pas « s'en être tirés »
+254146|Ils commençaient à se sentir décontenancés quand, l'instant d'après, le plafond devant eux s'effondra... et une chèvre solitaire leur barra la route.
+
+# 254243 : 魔法障壁 = barrière magique (l'anglais invente un « mur de cercles magiques »)
+254243|Quand Virgilia frappa dans ses mains, une barrière magique violette apparut derrière elle,‖ réduisant à néant même le mince espoir sur lequel Krauss avait parié.
+
+# 254417 : その奇跡に運命を託したい = confier son sort au miracle ; l'anglais inverse
+254417|"Ho ho ho ho !‖  Mais la mise pour l'acheter, c'est votre vie, et vous n'en avez qu'une, n'est-ce pas ?‖  Cela dit, je comprends que vous vouliez malgré tout confier votre sort à ce miracle."
+
+# 254436 : 負ける気はまったくしません = « je ne nous vois pas perdre », pas une question d'intention
+254436|  Enfin, même ainsi, je ne nous vois vraiment pas perdre contre vous."
+
+# 254595 : Virgilia tutoie la chèvre partout ailleurs dans la scène (なさい) ; harmoniser
+254595|"Ho ho ho ho, il te demande de donner tout ce que tu as.‖  Pulvérise-le d'un seul coup sérieux... et réduis-le en charpie."
+
+# 254804 : 実は俺…つもりだったんだ : aveu (drapeau de mort), pas une question
+254804|...Eh oui, en fait, je comptais raccrocher une fois ce boulot terminé... et rentrer au pays.
+
+# 255000 : 旦那様の勝ちだったのでは : phrase complète en japonais, l'anglais la coupe
+255000|"P-Pourquoi donc, Kyrie-sama... ?‖  S'ils s'étaient percutés comme ça, Krauss-sama n'aurait-il pas gagné..."
+
+# 255147 : 互いに相手の顔面を捉えた = les coups ont porté, pas « visait »
+255147|Les deux poings se croisèrent, et le temps s'arrêta chacun ayant atteint le visage de l'autre...
+
+# 255373 : Virgilia tutoie la chèvre (退きなさい, cohérent avec la scène)
+255373|  Tu es lourd, lourd, louuuurd, pousse-toi de làààà !"
+
+# 255868 : Contresens anglais : あんたみたいな上等、当主なんてもったいない = tu vaux trop pour finir chef de famille, 喰ってあげる = te dévorer
+255868|"C'était amusant, alors maintenant crève.‖  Un type aussi bien que toi, ce serait du gâchis d'en faire le chef des Ushiromiya,‖ alors je vais te dévorer ici et maintenant !!!‖  Aaaaaahhhhh, nngaaaaaaaaaaaahhh !!"
+
+# 256417 : 醍醐味 = le plaisir suprême, pas « l'art » ; 重ねる = réitérer les conseils
+256417|"Cependant,‖ ...le délice suprême de nous autres démons... c'est-à-dire prévoir ce dénouement et réitérer des conseils dont on sait qu'ils ne seront pas écoutés, voilà qui échappe sans doute à un Humain.‖  ...Pu ku ku ku ku ku ku ku ku ku !"
+
+# 256489 : 一応なりとも = pour la forme ; 死後の礼儀 = politesse posthume
+256489|Était-ce, pour la forme du moins, une politesse posthume envers un adversaire digne d'elle...... ?
+
+# 256594 : Contresens anglais : 脳裏に焼き付いている = gravé dans l'esprit, pas « l'esprit en feu »
+256594|C'était gravé au fer rouge dans l'esprit de Jessica.
+
+# 257974 : この上なく残酷な方法 = la plus cruelle qui soit, pas « encore plus cruelle qu'avant »
+257974|...il serait bien plus constructif de réfléchir à la façon de ne pas froisser ce qui se trouve en face de toi.‖  ...Même par erreur, ...ne dis surtout pas `Dans ce cas, montrez-moi donc de la magie'...‖  ...Parce que pour te le prouver, ils emploieraient sûrement la méthode la plus cruelle qui soit...
+
+# 258079 : 今度はもう、駄目かもね = cette fois c'est sans doute fichu (pas « pas d'autre chance »)
+258079|...cette fois, c'est sans doute fichu.‖  ......Merci.‖  Et adieu, Battler-kun.‖  Il m'est arrivé d'être froide avec toi parce que tu étais le fils d'Asumu-san.‖  ...Pardonne-moi...pour ce temps-là."
+
+# 258513 : じゃあね、お先に : Maria part la première ; 3ᵉ personne
+258513|  ...Qu'on devienne chef de famille ou pas, on est déjà invités dans la Terre dorée.‖  Salut, Maria passe la première."
+
+# 258856 : 首を洗って待ってやがれ : idiome japonais → « fais tes prières »
+258856|  Fais tes prières !!"
+
+# 259268 : 首を洗ってやがれ → « fais tes prières » (comme 258856)
+259268|  ......Fais tes prières,‖ ...Beatrice......"
+
+# 259739 : 首を洗って待ってやがれ → « fais tes prières » (comme 258856)
+259739|  J'arrive tout de suite, alors fais tes prières en m'attendant !!"
+
+# 258932 : 熊沢さん : le -san tombé en anglais
+258932|Gohda-san est costaud, je peux sans doute compter sur lui comme force de frappe.‖  Les connaissances de Kumasawa-san, une domestique de longue date, et sa familiarité avec les lieux pourraient devenir une arme redoutable.
+
+# 260034 : 右代宮家顧問錬金術師 : « conseillère » omis par l'anglais
+260034|"......Je suis l'alchimiste conseillère de la famille Ushiromiya, la Sorcière dorée et la Sorcière de l'Infini, Beatrice.
+
+# 260042 : 家督 = la succession au titre de chef de famille, pas « la famille »
+260042|  ...As-tu ce qu'il faut pour hériter du titre de chef de la famille Ushiromiya et de tout mon or ?‖  C'est ce que je vais vérifier.‖  ......Dis ton nom."
+
+# 260090 : 敬愛する母親 : mère vénérée, plus fort que « respectais »
+260090|"Je sais.‖  C'était parce que tu trouvais que le remariage de ton père souillait la mort de ta mère, que tu vénérais, n'est-ce pas... ?"
+
+# 260283 : 籍を入れた = épouser (Kyrie), ambigu en anglais/français
+260283|"Et malgré ça, mon père la trompait avec Kyrie-san.‖  Il l'a même mise enceinte d'Ange... !‖  Et ensuite, il s'est dépêché de l'épouser, juste à temps pour la naissance.
