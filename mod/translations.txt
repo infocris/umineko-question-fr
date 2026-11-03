@@ -2,6 +2,7 @@
 mod/direct_ep1.fr.jsonl
 mod/todo111.fr.jsonl
 mod/special_ep1.fr.jsonl
+mod/voix_muettes.jsonl
 work/ep2/01.fr.jsonl
 work/ep2/02.fr.jsonl
 work/ep2/03.fr.jsonl
