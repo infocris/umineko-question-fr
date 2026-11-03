@@ -1,0 +1,681 @@
+{"id": 151764, "en": ["The atmosphere made it seem as though she was confessing to some modest prank,", " which had inadvertently brought about a serious situation."], "ja": "それはまるで、 ささやかな悪戯が、重大な事態を招いてしまったことを告白するような、 そんな雰囲気によく似ていた。"}
+{"id": 151775, "en": ["\"No, umm...", "  ...Th-This mistress of Grandfather's, this Beatrice...", "  ...I was wondering if she's still..."], "voix": "ros", "ja": "「いえ、その……。 ……ベ、ベアトリーチェっていう、お父様の愛人って、 ……本当にその、"}
+{"id": 151777, "en": ["alive...\""], "voix": "ros", "ja": ":voicedelay 950^^………生きてるのかしらって思って…。」"}
+{"id": 151785, "en": ["\"Huh?", "  Isn't it obvious that she's alive?", "  After all, she was able to send that letter to us.\""], "voix": "eva", "ja": "「はぁ？ 　そりゃ生きてるに決まってるでしょう。 こうして手紙を送ってくるぐらいだもの。」"}
+{"id": 151792, "en": ["\"Whether she's in good health or not is a different story though.", "  The woman in that portrait must be getting up there in age by now.\""], "voix": "rud", "ja": "「元気かどうかは別の問題だろうけどな。 肖像画の美女も、今じゃきっといいお歳だろうぜ。」"}
+{"id": 151798, "en": ["\"I'd say she's healthy.", "  People who are crafty when it comes to money stay healthy no matter how old they get!"], "voix": "hid", "ja": "「元気やと思うでぇ。 カネのことで悪知恵働くヤツは、決まっていくつになっても元気や！"}
+{"id": 151804, "en": ["  Her evil plan might even be the best rejuvenating agent.", "  Wahahaha.\""], "voix": "hid", "ja": "案外、悪巧みは最高の回春剤かも知らへんで。 わっはっはっは。」"}
+{"id": 151815, "en": ["\"...She shouldn't be..."], "voix": "ros", "ja": "「……生きてるはず、"}
+{"id": 151817, "en": ["alive.\""], "voix": "ros", "ja": ":voicedelay 990^^………ないの。」"}
+{"id": 151824, "en": ["\"Huh?", "  ...What did you just say?\""], "voix": "kir", "ja": "「え？ 　……今、何て？」"}
+{"id": 151842, "en": ["\"Beatrice is..."], "voix": "ros", "ja": "「ベアトリーチェは、"}
+{"id": 151844, "en": ["...dead...", "  ......I-"], "voix": "ros", "ja": ":voicedelay 910^^……死んでるのよ…。 ………わ、"}
+{"id": 151846, "en": ["I killed her...!\""], "voix": "ros", "ja": ":voicedelay 1750^^…私が殺した…！」"}
+{"id": 151853, "en": ["\"Wh-What did you say...?!\""], "voix": "rud", "ja": "「な、……何だって……？！」"}
+{"id": 151857, "en": ["\"...Wh-What do you mean, Rosa...?!\""], "voix": "eva", "ja": "「…ど、…どういうことよ、楼座…！」"}
+{"id": 151864, "en": ["\"B-But it wasn't really me who killed her...", "  ...Th-Though I did bring her to a place like that!", "  ...No, I did kill her after all...", "  I tried to make myself believe it was a dream!!", "  ...But...it wasn't really a dream, was it?!", "  Which makes this...a letter from Beatrice's ghost!!", "  Uwaaaaaaaaaaaaaaa!!\""], "voix": "ros", "ja": "「で、でも、私が殺したわけじゃ…。 ……で、でも私があんなところに連れ出したから！ 　…やっぱり私が殺したのよ…。 あれは夢だと思い込もうとしたのよ！！ 　……でも、……やっぱりあれは夢じゃなかったのよ！ 　だからこれは、……ベアトリーチェの亡霊からの手紙なのよ！！ 　うわああああぁああぁああぁあぁ！！」"}
+{"id": 151872, "en": ["It was so sudden that everyone was lost for words."], "ja": "突然のことに、誰もが言葉を失う。"}
+{"id": 151873, "en": ["Rosa kept on talking, unable to stop, holding her head as her hair flew all about..."], "ja": "楼座は取りとめもないことを口走りながら、髪を振り乱しながら頭を抱えていた…。"}
+{"id": 151881, "en": ["\"Calm yourself...!", "  Rosa-san...!\""], "voix": "nat", "ja": "「どうか落ち着いて…！ 　楼座さん…！」"}
+{"id": 151888, "en": ["\"I-I have absolutely no clue what's goin' on...!", "  Already dead?", "  What do ya mean...?!\""], "voix": "hid", "ja": "「わ、わしには何が何やらさっぱりや…！ 　もう死んどる？ 　どういう意味なんや…！」"}
+{"id": 151896, "en": ["\"...I think it means two things.", "  First, ...its literal meaning.", "  ...And second, it backs up our earlier guess.\""], "voix": "kir", "ja": "「……２つの意味があると思うわ。 まず１つ目は、…文字通りの意味。 …そしてもう１つは、私たちの想像が正しかったことを裏付けるもの。」"}
+{"id": 151904, "en": ["\"Which means...", "......Rosa...has met with Beatrice, right?\""], "voix": "kla", "ja": "「ということは……。 ………楼座は、……ベアトリーチェに、会ったことがあるというのかね。」"}
+{"id": 151911, "en": ["\"I-I've never heard Rosa mention anything like this.", "  ...Rosa, when was it?", "  When could you possibly have met Beatrice?!\""], "voix": "eva", "ja": "「そ、そんな話、楼座の口からは一度も聞いたことがないわ。 …楼座、いつよ？ 　あなたは一体、いつベアトリーチェに会ったのよ？！」"}
+{"id": 151919, "en": ["\"Long ago!", "  Long, long, long ago!!", "  We'd just moved over to the island and I was still young!!", "  It wasn't my fault, it's not like I killed her...!!", "  Whaaaaaaaaaaaaa!!\""], "voix": "ros", "ja": "「昔よ！ 　ずっとずっと昔よ！！ 　まだこの島に引っ越してきたばかりで私は幼かった！！ 　私は悪くないの、私が殺したわけじゃ…！！ 　うううぅうううぅ！！」"}
+{"id": 151928, "en": ["\"...Calm down!", "  Nobody's blaming you for anything, right?"], "voix": "rud", "ja": "「…落ち着け！ 　誰もお前を責めちゃいねぇぜ？"}
+{"id": 151934, "en": ["  First, drink some water.", "  Okay?", "  Natsuhi-san, the pitcher please.\""], "voix": "rud", "ja": "まずは水でも飲め。 な？ 　夏妃さん、水差しを頼む。」"}
+{"id": 151940, "en": ["\"Y-Yes."], "voix": "nat", "ja": "「は、はい。"}
+{"id": 151946, "en": ["  ......Here you go, Rosa-san.", "  Please, calm yourself...\""], "voix": "nat", "ja": "………どうぞ、楼座さん。 どうか落ち着いて……。」"}
+{"id": 151952, "en": ["\"............\""], "voix": "ros", "ja": "「……………………………………。」"}
+{"id": 151959, "en": ["Until Rosa was able to calm her ragged breathing, ...no one was able to speak a word..."], "ja": "楼座が荒い呼吸の中に落ち着きを取り戻すまで、……誰も一言も発することはできなかった…。"}
+{"id": 151996, "en": ["\"...Beatrice,", " I have been calling to you for some time now.", "  Did you not hear me...?\""], "voix": "kin", "ja": "「……ベアトリーチェ。 先ほどから呼んでおる。 聞こえなんだか…？」"}
+{"id": 152003, "en": ["\"...Mu.", "  Were you?", "  My apologies.", "  I was lost in thought.", "  Forgive me.\""], "voix": "bea", "ja": "「……む。 そうであったか？ 　すまぬ。 ぼんやり考え事をしていた。 許せ。」"}
+{"id": 152010, "en": ["\"The weather is pleasant.", "  ...Yes, I can understand how the weather has stolen your heart.", "  Will you have your black tea here...?\""], "voix": "kin", "ja": "「良い天気だな。 …なるほど、陽気に心を奪われるのもわかるというもの。 紅茶はここで飲むか…？」"}
+{"id": 152020, "en": ["\"......Who...am I?\""], "voix": "bea", "ja": "「……………妾は、何者なのか。」"}
+{"id": 152026, "en": ["\"............"], "voix": "kin", "ja": "「……………………………。"}
+{"id": 152032, "en": ["...I will bring some tea now.", "  Wait here for a while.\""], "voix": "kin", "ja": "……今、紅茶を持ってくる。 しばし待て。」"}
+{"id": 152039, "en": ["\"Forget about the tea.", "  Talk with me.\""], "voix": "bea", "ja": "「紅茶は良い。 妾の話に付き合え。」"}
+{"id": 152049, "en": ["\"...Very well.\""], "voix": "kin", "ja": "「……良かろう。」"}
+{"id": 152056, "en": ["Kinzo had used the excuse of getting black tea to try and interrupt the conversation for the time being."], "ja": "金蔵は、紅茶を運ぶことを口実に、一度だけ話を切り上げようとした。"}
+{"id": 152057, "en": ["...But his attempt had been very transparent."], "ja": "…しかしそれはあまりに見え透いていた。"}
+{"id": 152061, "en": ["I sat in a garden chair and beckoned Kinzo to do the same."], "ja": "妾はガーデンチェアに腰掛け、金蔵にも座るように勧める。"}
+{"id": 152062, "en": ["Kinzo sat down heavily, exaggerating his age."], "ja": "金蔵は年齢相応のもったいぶった仕草で深々と腰を下ろした。"}
+{"id": 152065, "en": ["For a while, we sat and appreciated the silence..."], "ja": "しばらくの間、妾たちは沈黙を尊ぶ…。"}
+{"id": 152072, "en": ["\"...Who am I?", "  Until today, no one has answered this question.", "  ...For some reason, everyone averts their gaze and evades me.\""], "voix": "bea", "ja": "「……妾は何者なのか。 この問いに、今日まで応えてくれた者はおらぬ。 ……なぜか皆、目を逸らし、はぐらかす。」"}
+{"id": 152078, "en": ["\".........\""], "voix": "kin", "ja": "「……………………。」"}
+{"id": 152084, "en": ["\"...I have known you for a long time.", "  I think of you as my best friend, even as a father.", "  ...That is why I want so much for you to tell me.", "  You should know.", "  ...Who I am...\""], "voix": "bea", "ja": "「……そなたとは長い仲だ。 妾はそなたを、無二の友であり、そして父ですらあると思っておる。 ……だからどうか教えて欲しい。 そなたは知っているはずだ。 …妾が何者であるかを。」"}
+{"id": 152090, "en": ["\".........", "......Why are you worried about something like that?", "  You are Beatrice.", "  The Master of this mansion, is that not so?", "  ...What more could you want to know?\""], "voix": "kin", "ja": "「………………。 …………なぜに、そのようなことが気になるのか。 そなたはベアトリーチェ。 この屋敷の主ではないか。 ……それ以上の何を知りたいというのか。」"}
+{"id": 152096, "en": ["\"......I do not know.\""], "voix": "bea", "ja": "「…………わからぬ。」"}
+{"id": 152103, "en": ["\"What's this?", "  ...Don't you even understand what it is you want to know?", "  How mysterious.", "  In one's youth, there are times one wants to play in the maze of thought that has no exit.", "  Perhaps that's what your worries are...\""], "voix": "kin", "ja": "「何だ。 ……何が知りたいのか、自分でもわからぬというのか。 それは不可解な。 若き日には、出口無き思考の迷路にて遊びたくなることもある。 そなたの悩みもそれであろう…。」"}
+{"id": 152108, "en": ["Kinzo laughed as though it was a trivial matter."], "ja": "金蔵は、些細なことだと笑ってみせる。"}
+{"id": 152109, "en": ["...However, I couldn't help but feel that this behavior was another attempt to force me to stop any further questioning."], "ja": "…しかし、その仕草もまた、妾にこの疑問をこれ以上、抱かせないためのものにしか感じられない。"}
+{"id": 152116, "en": ["\"............"], "voix": "bea", "ja": "「………………………。"}
+{"id": 152121, "en": ["...Hmph.", "  ...So you won't tell me...after all.\""], "voix": "bea", "ja": "…ふ。 ……やはり、…そなたもそれを語ってはくれぬのか。」"}
+{"id": 152127, "en": ["\"There is nothing to tell.", "  You are Beatrice.", "  Isn't that more than enough?\""], "voix": "kin", "ja": "「語ることなど何もない。 そなたはベアトリーチェだ。 それで充分ではないか。」"}
+{"id": 152139, "en": ["\"...No, that's not it.", "  ......What I wish to know is not my name."], "voix": "bea", "ja": "「……いいや、違う。 …………妾が知りたいのは名前ではない。"}
+{"id": 152140, "en": ["  I want to know..."], "voix": "bea", "ja": "^^!s1妾が、"}
+{"id": 152142, "en": ["who..."], "voix": "bea", "ja": ":voicedelay 860^^何者なのか、"}
+{"id": 152144, "en": ["I am."], "voix": "bea", "ja": ":voicedelay 1160^^だ。"}
+{"id": 152157, "en": ["  ...Who am I?  What am I?", "  ...How long have I been here, ...and how long will I have to continue my days here?\""], "voix": "bea", "ja": "……妾は誰で、何で。 …いつからここにいて、…そしていつまでここで日々を過ごせば良いのか。」"}
+{"id": 152167, "en": ["\".........", "...I really should bring some black tea.", "  Don't you think it a waste of all this fine weather?\""], "voix": "kin", "ja": "「……………………。 …やはり紅茶を持ってこよう。 せっかくの陽気が勿体無いとは思わぬか。」"}
+{"id": 152169, "en": ["\"............\""], "voix": "bea", "ja": "「……………………………。」"}
+{"id": 152182, "en": ["\"......What's this all about...?", "  It looks like it's probably the story of your past, right?\""], "voix": "but", "ja": "「………これは何の話だ…？ 　どうやらお前の昔話のようだが？」"}
+{"id": 152188, "en": ["\"Something like that.", "  ...To think I would go this far back...\""], "voix": "bea", "ja": "「そのようだな。 …まさかここまで遡るとは。」"}
+{"id": 152193, "en": ["\"Looks like you had some pretty deep worries even then, ", "...wondering who you were.\""], "voix": "but", "ja": "「自分は誰なのか、とはまた、 …えらく高尚な悩みをお持ちのようじゃねぇか。」"}
+{"id": 152199, "en": ["\"...That is to be expected.", "  At the time, I was unable to understand who I was,", " or why I was alive.\""], "voix": "bea", "ja": "「……無理もないわ。 当時の妾は、自分が何者なのか。 何の為に生きているのかを理解できなかった。」"}
+{"id": 152205, "en": ["\"Well, in puberty,", " everyone's captured by those philosophical worries at least once, wondering what meaning there is in their life.", "  Doesn't this just prove you had a charming period like that at one point?\""], "voix": "but", "ja": "「ま、誰でも思春期になると、 自分の生きる意味とは何ぞやみたいな、哲学的な悩みに一度は囚われるものさ。 お前にもそんな微笑ましい時期があっただけという話だろ？」"}
+{"id": 152212, "en": ["\".........", "...I'd been in that mansion since the time of my birth.", "  And I lived only inside the mansion.", "  Of course, I went out into the garden, but the area around the mansion was surrounded by a very tall fence.  I was unable to leave through it,", " and I was told severely that I mustn't leave.\""], "voix": "bea", "ja": "「…………………。 …妾は生まれた時からその屋敷におった。 そして屋敷の中だけで生きた。 もちろん、庭には出られたが、敷地はとても高い柵で囲まれており、それを出ることは出来ず、 また出てはならないと厳しく言われておった。"}
+{"id": 152215, "en": ["\"...I could walk freely throughout the mansion and the garden, ", "but outside of that, not once was my desire to take just one step outside of my own accord granted.\""], "voix": "bea", "ja": "……妾はな、屋敷と庭は自由に歩けたが、 その外へは、自らの意思ではたった一歩、出ることさえ叶わなかったのだ。」"}
+{"id": 152224, "en": ["\"......What do you mean by that?", "  ...Are you trying to say that, as far back as you can remember, you were always a bird in a cage?\""], "voix": "but", "ja": "「……………そりゃどういう意味だよ。 …物心ついた時から、ずっと篭の鳥だったって言いたいのか。」"}
+{"id": 152230, "en": ["\"...That's what I thought at the time.", "  After all, as soon as I became aware, I was living like that.", "  I didn't even think to question it.\""], "voix": "bea", "ja": "「……そういうモノだと思っていた。 何しろ、気付いた時からそういう生活だったからな。 疑問にも思わなかった。」"}
+{"id": 152236, "en": ["\"Who in the world......are you?\""], "voix": "but", "ja": "「お前、…………一体、何者なんだ。」"}
+{"id": 152242, "en": ["\"That's it.", "  That is what I also hoped to know.\""], "voix": "bea", "ja": "「それよ。 それこそ、妾もまた望んだものだった。」"}
+{"id": 152248, "en": ["\"......Heh.", "  I'm sure you'll say something like `I wasn't a human, I was a witch,' right?\""], "voix": "but", "ja": "「…………へ。 どうせ、人間ではなくて、魔女でしたーって言いやがるんだろ？」"}
+{"id": 152254, "en": ["\"No, that's not true.", "  That isn't true ~ib~yet~ib~.", "  ...Or should I say that ~ib~was once~ib~ the case."], "voix": "bea", "ja": "「いや、違う。 ^~ib~^まだ^~ib~^違う。 ……いや、^~ib~^かつて^~ib~^そうだったと言うべきか。"}
+{"id": 152260, "en": ["  ...I was constructed by Kinzo, a human built by a human.", "  ...No, perhaps I should call it a cage made of flesh.\""], "voix": "bea", "ja": "……妾は、金蔵によって造られた、人間によって作られた人間だ。 …いや、肉で出来た檻とでもいうべきか。」"}
+{"id": 152265, "en": ["\"What the hell...?", "  ...This is getting weird.\""], "voix": "but", "ja": "「何だよそりゃ…。 …妙な話を言い出しやがって。」"}
+{"id": 152271, "en": ["\"...You probably won't believe it anyway,", " but listen first.", "  ......I was a mighty witch, who had lived for one thousand years."], "voix": "bea", "ja": "「……どうせそなたは信じぬだろうがな。 まずは聞け。 ………妾は千年を経た偉大なる魔女であった。"}
+{"id": 152276, "en": ["  But at one point, I was summoned by Kinzo,", " ...and by that hidden art, I was bound as his prisoner for eternity.\""], "voix": "bea", "ja": "しかしある時、金蔵によって呼び出され、 …その秘術にて永遠の虜となるよう縛られたのだ。」"}
+{"id": 152282, "en": ["\"......Never heard that before.", "  From what we hear in the Ushiromiya family, you were summoned by Grandfather,", " made something like a devil's contract with him, and gave him the gold.\""], "voix": "but", "ja": "「…………そりゃ、初耳だぜ。 右代宮家で知られてる話では、お前は祖父さまに呼び出されて、 悪魔の契約みたいなのを結んで、黄金を授けたってことになってるぜ。」"}
+{"id": 152288, "en": ["\"Indeed.", "  That is correct.", "  ...Then, I was supposed to vanish until the contract was complete."], "voix": "bea", "ja": "「うむ。 それは正しい。 …そして妾は黄金を授け、契約の終わる時まで姿を消すはずだった。"}
+{"id": 152293, "en": ["  But......well, popular women have it rough.", "  ......By some turn of events, Kinzo fell in love with me.\""], "voix": "bea", "ja": "しかし、………まぁ、モテる女の辛いとこよな。 ………金蔵は、こともあろうか、妾に恋をした。」"}
+{"id": 152299, "en": ["\"...Grandfather's nearsightedness must've gotten pretty bad.", "  With astigmatism too, ihihi.", "  To fall in love with you, of all things.\""], "voix": "but", "ja": "「…祖父さまも近眼が進んでたんだろうよ。 ついでに乱視だなぁ、いっひっひ。 よりによってお前に惚れるとはよ。」"}
+{"id": 152305, "en": ["\"......Hmph.", "  Well, to me, there could be nothing more bothersome."], "voix": "bea", "ja": "「………ふ。 まぁ、妾にとっては迷惑この上ない話よ。"}
+{"id": 152310, "en": ["  ...However, the power of Humans is a frightening thing.", "  He displayed that fearsome power and rooted me to this place.", "  ...He said I wouldn't be freed until I nodded my head in agreement.", "  ...Such an overbearing man.\""], "voix": "bea", "ja": "…しかし、ニンゲンの力とは恐ろしいものでな。 あれは恐ろしい力を発揮して、妾をこの地へ釘付けにしたのだ。 …妾が首を縦に振らぬ限り解放せぬと言ってな。 …何とも強引な男よ。」"}
+{"id": 152317, "en": ["\"Isn't that awesome.", "  Everyone knew Grandfather was obsessed with the occult, ", " ...but who would've guessed he had the power to root down the Great Witch Beatrice..."], "voix": "but", "ja": "「すげぇじゃねぇかよ。 祖父さまがオカルト被れなのは誰もが知るところだが…、 …大魔女ベアトリーチェさまを釘付けにするほどの力があったとはな。"}
+{"id": 152322, "en": ["  ...Heh, ridiculous.", "  Who'd believe such a weird story?\""], "voix": "but", "ja": "……へ、馬鹿馬鹿しい。 そんなおかしな話、信じると思うか？」"}
+{"id": 152328, "en": ["\"...As I thought, you don't believe.\""], "voix": "bea", "ja": "「…やはり信じぬか。」"}
+{"id": 152334, "en": ["\"All I believe is the fact that you lived in this hidden mansion in the middle of the forest.", "  You are the 19th person on Rokkenjima, right?!\""], "voix": "but", "ja": "「俺が信じるのは、お前が森の中の秘密屋敷に隠居していたって事実だけだ。 お前こそが六軒島の１９人目なんだろう？！」"}
+{"id": 152343, "en": ["\"...Indeed.", "  Just as you imagine, this is deep within the forest of Rokkenjima.", "  A hidden mansion not to be found from the outside world.", "  Its name is Kuwadorian (Nine Birds' Retreat).\""], "voix": "bea", "ja": "「……いかにも。 そなたの想像通り、ここは六軒島の森深く。 外界からは見つけることも叶わぬ隠し屋敷。 その名も九羽鳥庵（くわどりあん）。」"}
+{"id": 152349, "en": ["\"...Come to think of it, I heard the guesthouse's real name was Toraian (Visitor's Retreat).", "  ...I see, the naming sense is similar."], "voix": "but", "ja": "「……そういや、ゲストハウスの正しい名は、渡来庵だって聞いたな。 …なるほど、ネーミングセンスは近いな。"}
+{"id": 152354, "en": ["  ...So, you were Grandfather's mistress, who lived here in secret.", "  Isn't that right?!\""], "voix": "but", "ja": "……そして、お前はそこに隠居していた祖父さまの愛人。 そうだな？！」"}
+{"id": 152360, "en": ["\"Mistress isn't the right way to say it.", "  ...You should probably call it Kinzo's unrequited love.", "  I spoke of it just now, correct?"], "voix": "bea", "ja": "「愛人、というのは正しくない。 ……金蔵の片思いであったというべきだろう。 先ほども話したであろう？"}
+{"id": 152364, "en": ["  He fell in love with me of his own accord.", "  He then courted me, but I rejected him.\""], "voix": "bea", "ja": "あれが勝手に妾に惚れた。 そして妾に求愛したが、それを妾は拒んだ。」"}
+{"id": 152370, "en": ["\"...Then, I was shut up in this hidden mansion.", "  ......No, that's not quite right.", "  ...It would be more correct to say that I was shut up in this body.\""], "voix": "bea", "ja": "「……そして、妾をこの隠し屋敷へ閉じ込めたのだ。 ………いや、屋敷に閉じ込めたというのは正しくないか。 ……この体に閉じ込めた、というべきか。」"}
+{"id": 152376, "en": ["\"......I've got no idea what you said at the end there.\""], "voix": "but", "ja": "「…………最後が何を言ってるのかわかんねぇぜ。」"}
+{"id": 152382, "en": ["\"You will just make fun of it and refuse to listen, right?", "  After all, you say you don't believe in witches or magic.", "  If you have no ears to hear what I tell you, ", "saying it would be the pinnacle of foolishness.\""], "voix": "bea", "ja": "「どうせそなたは馬鹿にして聞かぬであろう？ 　何しろ、魔女も魔法も信じぬという。 語れど聞く耳を持たぬというならば、 それを口にするは愚の骨頂だ。」"}
+{"id": 152395, "en": ["\"............"], "voix": "but", "ja": "「………………………。"}
+{"id": 152400, "en": ["...I'll decide whether I believe or not.", "  ...After all, if I don't ask, the story won't continue.", "  Tell me.", "  ...Let's hear this story from your past.\""], "voix": "but", "ja": "……信じるかどうかは俺が判断するぜ。 …聞かなきゃ話も進まねぇしな。 話せよ。 …お前の昔話を。」"}
+{"id": 152412, "en": ["\"Very well.", "  ......I refused Kinzo when he courted me, but he was not a man to lose heart at something like that.", "  He wanted to make me nod my head in agreement no matter what.", "  He shut me up in this mansion and spent an eternity trying to win my heart.\""], "voix": "bea", "ja": "「うむ。 ………金蔵は妾に求愛を拒まれたが、それしきでへこたれる男ではない。 どうあっても妾の首を縦に振らせたかった。 妾をこの屋敷へ閉じ込め、妾を口説き落とそうと永遠の時間を費やしたのだ。」"}
+{"id": 152418, "en": ["\"...Talk about overbearing.", "  Guess no one likes obstinate men, huh?\""], "voix": "but", "ja": "「…強引なヤツだな。 しつこい男は嫌われるだろ？」"}
+{"id": 152424, "en": ["\"......*cackle*cackle*", "  Regardless of whether I responded to his courting or not, ", "having a man so desperate for me was...well, as a woman, it wasn't so unpleasant.\""], "voix": "bea", "ja": "「………くっくっくっく。 求愛に応えるかどうかは別にして、 男をそこまで必死にさせるのは、まぁ、女としてそう不愉快ではない。"}
+{"id": 152429, "en": ["\"...However, I never accepted his proposal.", "  I tried to find some way to break through his guard, ", "but that barrier was firm, and I couldn't crack it.\""], "voix": "bea", "ja": "……しかし妾は決して首を縦には振らなかった。 何とかその戒めから逃れようとしたが、 あれの結界は強固で破れなかった。」"}
+{"id": 152435, "en": ["\"...And then?\""], "voix": "but", "ja": "「……それで？」"}
+{"id": 152441, "en": ["\"After trying to resist in various ways,", " I eventually reached the conclusion that, to escape from Kinzo's barrier, I would have to throw away this body of flesh.", "  ...The physical body is a vessel with many restrictions for a magic user.\""], "voix": "bea", "ja": "「様々な抵抗を試みた結果、 金蔵の結界から逃れるには、肉の体を捨てるほかないという結論に至った。 ……肉体というものは、魔法を語る上でとても制約の多い器なのだ。」"}
+{"id": 152447, "en": ["\"Throw away your body of flesh...?", "  What does that mean?", "  Something like an out-of-body experience?\""], "voix": "but", "ja": "「肉の体を捨てる……？ 　何だよそれ。 幽体離脱みたいなものか？」"}
+{"id": 152453, "en": ["\"Well, if you want to think of it that way.", "  However, I am no spirit.", "  Even though I am a witch, in the beginning, I was born with a human's body of flesh.", "  So for me, throwing away that physical body,", " while it didn't mean the same thing as death, it did require a similar level of resolve.\""], "voix": "bea", "ja": "「まぁ、そんなものと考えれば良い。 しかし、妾は精霊ではない。 魔女ではあっても、元々は肉の体で生れ落ちた人間だ。 その妾にとって肉体を捨てるということは、 死を意味するほどではないにしても、それに準ずる覚悟が必要だった。」"}
+{"id": 152459, "en": ["\"So in other words,", " ...you decided that you couldn't be released except by suicide, is that it?\""], "voix": "but", "ja": "「それはつまり、 ……自殺することでしか解放されないと決意した、って意味なのか？」"}
+{"id": 152466, "en": ["\"It wasn't suicide.", "  It was nothing more than throwing away my body of flesh.", "  ...Of course, becoming nothing more than soul is a precarious situation.", "  When the soul leaves its body of flesh, it is constantly exposed to the strong winds of the sun.", "  It was not easy for me to maintain myself and avoid being scattered by them.\""], "voix": "bea", "ja": "「自殺ではない。 あくまでも、肉の体を捨てるだけのことだ。 ……もちろん、魂だけになるのは心もとない。 魂は肉の体を出れば、太陽の強い風に絶えず晒されてしまう。 それによって吹き散らされないように、自らを維持するのは妾とて容易なことではない。」"}
+{"id": 152470, "en": ["\"It was a final measure that I wanted to avoid if I could.", "  However, there was no other way to break through Kinzo's barrier."], "voix": "bea", "ja": "「できることなら避けたい最後の手段だった。 しかし、金蔵の結界から逃れるにはそれしかなかったのだ。"}
+{"id": 152475, "en": ["  ...*cackle*  Anyway, I am an unfettered person.", "  I couldn't stand being kept in a cage until Kinzo's life was over.\""], "voix": "bea", "ja": "……くっくく、何しろ妾は自由人。 金蔵の生が果てるまで篭にて飼われるのはごめんというもの。」"}
+{"id": 152480, "en": ["I couldn't see this stuff Beato kept going on about, about throwing away her body of flesh,", " as anything more than suicide."], "ja": "ベアトが口にする、肉の体を捨てる云々という話は、 どう聞いても自殺以上の意味には聞こえない。"}
+{"id": 152485, "en": ["Grandfather persistently courted her, and to escape from that, "], "ja": "祖父さまにしつこく求愛され、それから逃れるために、"}
+{"id": 152487, "en": ["...she chose her own death...?"], "ja": "^^!d800……自ら死を…？"}
+{"id": 152494, "en": ["\"......So you're saying you committed suicide?", "  What are you talking about?", "  Isn't that you, sitting carefree there in the garden chair?\""], "voix": "but", "ja": "「……………それで、自殺したってのか？ 　何を言ってやがる。 当のお前は、そこでのんびりガーデンチェアに腰掛けてるじゃねぇか。」"}
+{"id": 152500, "en": ["\"...That's right.", "  That is the new cage I was given by Kinzo.\""], "voix": "bea", "ja": "「……そうだ。 それこそが、金蔵によって与えられた新たな檻だったのだ。」"}
+{"id": 152506, "en": ["\"......Cage?", "  You mean this mansion?\""], "voix": "but", "ja": "「…………檻？ 　この屋敷のことか？」"}
+{"id": 152512, "en": ["\"No.", "  I mean my body, relaxing in the garden chair over there.", "  ......Even though I was so desperate to escape that I became naught but a soul,", " Kinzo still had no intention of letting me go.\""], "voix": "bea", "ja": "「違う。 そこのガーデンチェアにてくつろぐ妾の体のことだ。 ………金蔵は、魂となって抜け出そうとした妾を、 それでもなお逃すつもりはなかったのだ。"}
+{"id": 152517, "en": ["\"...Oh, he was a fearsome person.", "  Normally, when the object of one's unrequited love shows that she is willing to die, it should be enough to bring that person to their senses, even if their love has lasted a hundred years.", "  ...Perhaps that's why even he managed to become a sorceror of sorts.", "  ...*cackle*.\""], "voix": "bea", "ja": "…いやいや、恐ろしいヤツ。 普通は、片思いの女が死んで見せれば、百年の恋も醒めるであろうに。 ……だからこそあれも魔術師の端くれなのか。 ……くっくっく。」"}
+{"id": 152523, "en": ["\"Don't try to confuse me with that incomprehensible witch-girl talk.", "  ...What exactly are you trying to say?\""], "voix": "but", "ja": "「さっぱりわからねぇ魔女っ子トークで煙に撒くな。 …つまり何だってんだ。」"}
+{"id": 152531, "en": ["\"That Kinzo didn't let me escape even after I became a soul.", "  ...Human emotions are terrifying.", "  To think he would be able to exhibit such power...", "  Tying down a dead soul...", "is not something that can be accomplished easily, not even for a magician who specializes in such matters.", "  Because I knew this, Kinzo's fearful magical power shocked me for the first time.\""], "voix": "bea", "ja": "「金蔵は、魂となった妾すらも逃さなかったということだ。 ……人間の想いというやつは恐ろしい。 これほどまでの魔力を発揮するとは…。 死者の魂を繋ぎ止めるなど、 それを専門に求道する魔術師でも、おいそれと至れぬ境地よ。 妾はそれを知るからこそ、金蔵の恐るべき魔力に、その時初めて驚愕した。」"}
+{"id": 152536, "en": ["\"......Then, Kinzo seized my soul and brought me back.", "  However, a cage to hold a seized soul cannot be made from iron or lead.", "  ...Only one thing remained.\""], "voix": "bea", "ja": "「…………そして金蔵は、妾の魂を捕まえ、連れ戻したのだ。 だが、魂を捕らえておく檻は、鉄でも鉛でも作れない。 ……ただひとつを除いて。」"}
+{"id": 152543, "en": ["\"......What?", "  You aren't gonna say it was a magical cage or something, are you?\""], "voix": "but", "ja": "「…………何だよ。 魔法の檻だとでも言い出すのかよ。」"}
+{"id": 152549, "en": ["\"Wrong.", "  It's that body of flesh over there, just like yours or mine."], "voix": "bea", "ja": "「違う。 妾やそなたのような、この肉の体だ。"}
+{"id": 152554, "en": ["  ...Only a cage made of flesh and blood can tie a soul down to this world.", "  ...Kinzo shut my soul up in a cage of flesh built to be exactly like me.\""], "voix": "bea", "ja": "…肉と血で出来た檻だけが、魂をこの世に繋ぎ止める。 ……金蔵は妾の魂を、妾と瓜二つに造り上げた肉の檻に再び閉じ込めたのだ。」"}
+{"id": 152560, "en": ["\".........", "...So to sum up, it's like this?", "  Grandfather obstinately courted you, you started to hate it, and you committed suicide,", " but you weren't clever enough to finish the job?", "  ...Damn, you really took a roundabout way to say something like that.\""], "voix": "but", "ja": "「…………………。 …要約するとこういうことか。 祖父さまがしつこく求愛するんで嫌になり自殺したが、 うまく死に切れなかったってことだろう？ 　…回りくどい言い方しやがってからに。」"}
+{"id": 152566, "en": ["\"No, that's wrong.", "  My soul was shut up in the seed of a homunculus,", " and I was born out of a test tube.\""], "voix": "bea", "ja": "「いいや、違う。 妾はホムンクルスの種子に魂を閉じ込められ、 試験管の中より生まれ出でたのだ。」"}
+{"id": 152572, "en": ["\"Huh?!", "  But that's crazy...!", "  That isn't even possible, right?!\""], "voix": "but", "ja": "「はぁ？！ 　馬鹿馬鹿しい…！ 　そんなのあるわけねぇだろ？！」"}
+{"id": 152577, "en": ["\"Kinzo accomplished even the miracle of creating life.", "  And simply to shut my soul up in that cage."], "voix": "bea", "ja": "「生命を生み出す奇跡すらも、金蔵は成し遂げたのだ。 妾の魂を閉じ込める檻にするためのだけにな。"}
+{"id": 152582, "en": ["  ...That he would show such magical power simply because of his own love...", "  A thoroughly terrifying person.\""], "voix": "bea", "ja": "……己の恋心だけで、これほどの魔力を見せるとは。 つくづく恐ろしいヤツよ。」"}
+{"id": 152588, "en": ["\"Aah, it's already gotten pretty ridiculous!", "  Say whatever you want.", "  I won't believe anything.", "  Just do what you like.\""], "voix": "but", "ja": "「あー、もうさすがに馬鹿馬鹿しくなってきたぜ！ 　好きなだけ言ってろってんだ。 俺は何も信じねぇぜ。 勝手にやってやがれってんだ。」"}
+{"id": 152594, "en": ["\"......Mu.", "  ...What's with this unpleasant attitude?\""], "voix": "bea", "ja": "「……………む。 …何だ、その不愉快な態度は。」"}
+{"id": 152600, "en": ["\"Heh, ", "in the beginning, I showed a little interest, thinking that there might be some huge hint hidden here,", " but the more I ask, the weirder this story starts to get.", "  I get the feeling that even though this is supposed to be a game about denying witches,", " I'm suddenly being forced to just swallow this story about witches.\""], "voix": "but", "ja": "「へ。 最初は何か重大なヒントが隠されているだろうと、多少の興味を示したが。 聞けば聞くほどおかしな話になっていく。 魔女を否定するゲームのはずなのに、 いつの間にか魔女話を鵜呑みにさせられていく気がするぜ。」"}
+{"id": 152605, "en": ["\"Sorry, but I don't feel like listening to this any more.", "  Just keep rambling on to yourself as much as you want.", "  I'll be over here, picking at my earwax or something.\""], "voix": "but", "ja": "「悪いがこれ以上、耳を貸す気はねぇな。 勝手に好きなだけほざいてろよ。 耳クソでもほじってるからよー。」"}
+{"id": 152611, "en": ["\"........."], "voix": "bea", "ja": "「…………………。"}
+{"id": 152616, "en": ["...Hmph.\""], "voix": "bea", "ja": "……ふ。」"}
+{"id": 152623, "en": ["When I started acting cold, Beato seemed unusually discouraged."], "ja": "俺が素っ気無い態度を見せると、ベアトは珍しく気落ちしたような仕草を見せた。"}
+{"id": 152626, "en": ["Of course, her expression was still shameless,", " but in that really easy-to-understand expression of hers, ", "I had the feeling I was able to catch a glimpse of loneliness at my failure to find the story of her past interesting."], "ja": "もちろん、表情はふてぶてしいままだが…、 自分の身の上話に興味を持ってもらえなかったのが寂しい、 というとてもわかりやすい感情が垣間見えた気がした。"}
+{"id": 152629, "en": ["...For some reason, that subtle reaction made her seem pitiful,", " so even though I kept my careless attitude, I decided to cover for her slightly."], "ja": "……そのわずかの仕草が、どういうわけか気の毒に感じ、 俺は投げ遣りな態度を崩さないまま、だけれどもちょっぴりフォローしてやる。"}
+{"id": 152632, "en": ["Damn it, even though she's an irritating witch, I'm still weak against her because her chromosomes are XX..."], "ja": "畜生、ムカつく魔女だってのに、染色体がＸＸだってだけで俺も甘いもんだぜ…。"}
+{"id": 152644, "en": ["\"...Well, I've got absolutely no desire to believe you, but...", "...keep going.", "  Let's have a bit of a story instead of a tea snack.\""], "voix": "but", "ja": "「……ま、信じる気は毛頭ねぇけどよ。 …………続けろよ。 お茶菓子代わりに聞いてやるぜぇ？」"}
+{"id": 152650, "en": ["\"So you treat the story of my past like little more than a snack..."], "voix": "bea", "ja": "「妾の身の上話が茶菓扱いとはな。"}
+{"id": 152655, "en": ["  ...Do you expect me to just casually tell you when you insult me like that...?\""], "voix": "bea", "ja": "……そこまで扱き下ろされてまで、のこのこ語ると思うかぁ…？」"}
+{"id": 152660, "en": ["After I made fun of her, Beato reacted a little sensitively."], "ja": "俺のちょいと馬鹿にした仕草に、ベアトは敏感に反応する。"}
+{"id": 152661, "en": ["It looked like, even though making fun of people was her specialty, she was horrible at being made fun of by others."], "ja": "人を馬鹿にするのは大の得意だが、人から馬鹿にされるのはまったく駄目だと見える。"}
+{"id": 152665, "en": ["Just then, my black tea cup suddenly made a sound, surprising me."], "ja": "すると、急に俺の紅茶のカップが音を立て、びっくりした。"}
+{"id": 152679, "en": ["\"...Milady's soul was seized and breathed into a cage of new life.", "  In other words, Milady received life as a human once more.\""], "voix": "ron", "ja": "「……お嬢様の魂は捕らえられ、新しい生命の檻に吹き込まれました。 それはつまり、お嬢様が再び人間として生を受けたということです。」"}
+{"id": 152683, "en": ["Before I realized it, the demon butler had taken my cup and was adding more black tea to it."], "ja": "いつの間に現れたのか、悪魔の執事が俺のカップを取り、紅茶を継ぎ足していた。"}
+{"id": 152689, "en": ["\"Ronove,", " enough of that.", "  This person just said it was too ridiculous to be worth listening to.", "  Well, he's too ridiculous to be worth talking to.\""], "voix": "bea", "ja": "「ロノウェ。 もうその話は良い。 こやつは馬鹿馬鹿しくて聞けんと言うでな。 妾も馬鹿馬鹿しくて話す気にもならぬ。」"}
+{"id": 152695, "en": ["\"I'm baking some new cookies right now."], "voix": "ron", "ja": "「新しいクッキーを今、焼かせているところでございます。"}
+{"id": 152700, "en": ["  Until they're ready, I thought you might find the story of Milady's past to be a perfect substitute for a snack.", "  Pu ku ku...!\""], "voix": "ron", "ja": "それまで、お茶菓子代わりにお嬢様の昔話がちょうどいいかと思いまして。 ぷっくっく…！」"}
+{"id": 152706, "en": ["\"...D-Didn't I say that's enough talking about me?!"], "voix": "bea", "ja": "「も、…もう妾の話は良いというのに！"}
+{"id": 152711, "en": ["  Such unpleasant people, the lot of you.", "  I'm leaving!", "  Ronove, serve our food and then go.", "  No pointless chitchat with Battler.\""], "voix": "bea", "ja": "揃って不愉快なヤツらだ。 妾は席を外すぞ！ 　ロノウェ、給仕を済ませたらとっとと下がるのだぞ。 戦人と無駄話などするでないぞ。」"}
+{"id": 152717, "en": ["\"Certainly.", "  I will make an effort.\""], "voix": "ron", "ja": "「かしこまりました。 努力いたします。」"}
+{"id": 152723, "en": ["Beato's short temper peculiar to women, which I didn't really understand, took hold of her, and she turned her body into gold butterflies, scattered, and disappeared."], "ja": "ベアトは女特有のよくわからない短気を起こし、体を黄金の蝶にして散らせながら姿を消す。"}
+{"id": 152726, "en": ["After that, only Ronove and the scent of the black tea were left..."], "ja": "後にはロノウェと紅茶の香りだけが残った…。"}
+{"id": 152733, "en": ["\"...I feel kind of bad, like I pissed her off or something.\""], "voix": "but", "ja": "「……何だか、俺が怒らせたみたいで気分が悪いぜ。」"}
+{"id": 152739, "en": ["\"As long as you're aware of it yourself, I need say nothing more.\""], "voix": "ron", "ja": "「ご自覚があられるようですので、これ以上申し上げることはございませんよ。」"}
+{"id": 152745, "en": ["\"Wait a sec.", "  Weren't you the one who struck the finishing blow?\""], "voix": "but", "ja": "「ちょっと待てよ。 トドメを刺したのはお前だろうが。」"}
+{"id": 152751, "en": ["\"Pu ku ku ku.", "  My, what could you mean by that?", "  How would you like some sugar and milk?\""], "voix": "ron", "ja": "「ぷっくっくっく。 はて、何のことやら。 お砂糖とミルクはいかがですかな？」"}
+{"id": 152757, "en": ["\"...Just milk will be fine.", "  ......And some tea snacks would be nice too.\""], "voix": "but", "ja": "「…ミルクだけでいいぜ。 …………あとお茶菓子も欲しいな。」"}
+{"id": 152763, "en": ["\"...Well, it will be a bit longer before the cookies are ready.\""], "voix": "ron", "ja": "「………クッキーが焼けるにはまだ時間が掛かりますよ？」"}
+{"id": 152769, "en": ["\"Didn't you say we've already got something to use in place of a snack?\""], "voix": "but", "ja": "「茶菓の代わりがあるって言ったぜ？」"}
+{"id": 152775, "en": ["\"...Certainly.", "  If you will listen quietly, I will continue the story.\""], "voix": "ron", "ja": "「……かしこまりました。 ご静聴をいただけるのでしたら、続きをお話いたします。」"}
+{"id": 152790, "en": ["\"She said something about a homunculus.", "  ...I know a bit about that.", "  It's that thing, right?", "  A manufactured human created with alchemy or something?\""], "voix": "but", "ja": "「ホムンクルスが何とかって言ったな。 …一応は知ってるぜ。 あれだろ？ 　錬金術だかで作り出す人造人間のことだろ？」"}
+{"id": 152796, "en": ["\"Yes.", "  Milady's soul was shut up in a homunculus, and she was revived into this world, receiving life again as a baby.", "  ...However, because she was a baby,", " any professions of love on Kinzo's part would have been quite useless.\""], "voix": "ron", "ja": "「はい。 お嬢様の魂はホムンクルスに閉じ込められ、再び赤子となって生を受けこの世に蘇ったのです。 ……しかし、赤子でございますから、 金蔵さまが愛を語ろうとも、それは無駄なことでございます。」"}
+{"id": 152802, "en": ["\".........", "......You aren't saying...", "...that Grandfather shut that baby up in this hidden mansion...", "until it grew to reach the same age she'd been?!\""], "voix": "but", "ja": "「……………………。 ………まさか。 ……祖父さまはその赤ん坊をこの隠し屋敷に、 同じ歳に成長するまで閉じ込めたってのか？！」"}
+{"id": 152808, "en": ["\"Correct.", "  That is what I am saying.", "  However, while her soul was the same, a human spirit is strongly influenced by its container.", "  Milady lost all her memories of the past and grew up as a very normal human girl.\""], "voix": "ron", "ja": "「はい。 そのまさかでございます。 しかし、魂は同じと言えど、人間の魂はその器に強く影響を受けます。 お嬢様は、かつての記憶を全て失われ、ごく普通の人間の少女として成長されました。」"}
+{"id": 152814, "en": ["\"And you're saying...that's the Beato sitting in the garden chair?\""], "voix": "but", "ja": "「それが、……そこのガーデンチェアに座ってるベアトだってのか？」"}
+{"id": 152820, "en": ["\"Yes.", "  That is correct.", "  It grew to be completely identical.", "  However, it did not possess her power as a witch.", "  ...Milady was completely human.\""], "voix": "ron", "ja": "「はい。 その通りでございます。 まさに瓜二つに成長なされました。 しかし魔女としての力は持ち合わせておりません。 ……あくまでも人間としてのお嬢様なのです。」"}
+{"id": 152826, "en": ["\"............\""], "voix": "bea", "ja": "「………………………………。」"}
+{"id": 152830, "en": ["Beato, who was sitting in the garden chair, looking up at the sky, voiced that same question again."], "ja": "ガーデンチェアに座り、空を見上げるベアトは、再び同じ質問を口にしている。"}
+{"id": 152833, "en": ["She asked who she was."], "ja": "自分は何者なのか、と。"}
+{"id": 152837, "en": ["...The meaning of those words was finally starting to click."], "ja": "…その言葉の意味がようやく繋がる。"}
+{"id": 152838, "en": ["She couldn't understand why she was living here, all locked up."], "ja": "彼女は、自分がなぜここに閉じ込められて暮らしているのか、理解できないのだ。"}
+{"id": 152841, "en": ["Grandfather had seized Beatrice's soul, shut it up in a body of flesh,", " and then shut that up in a hidden mansion."], "ja": "祖父さまは、ベアトリーチェの魂を捕らえ、肉の体に閉じ込め、 さらに隠し屋敷にそれを閉じ込めた。"}
+{"id": 152844, "en": ["However, since she had lived here since the time of her birth, she couldn't even understand who she was,", " or why she lived shut up in there..."], "ja": "しかし、生まれてからずっとそこで過ごしてきた彼女には、自分が何者なのかも、 どうしてここに閉じ込められて生きているのかも理解できないのだ…。"}
+{"id": 152856, "en": ["...W-Wait, wait."], "ja": "……ま、…待て待て。"}
+{"id": 152857, "en": ["Who would take such a stupid story seriously?"], "ja": "そんな馬鹿話を真に受けるヤツがあるか。"}
+{"id": 152861, "en": ["Why don't I change my interpretation?"], "ja": "解釈を変えよう。"}
+{"id": 152862, "en": ["...In other words, couldn't it be something like this?"], "ja": "…つまりこういうことなんじゃないか？"}
+{"id": 152867, "en": ["Grandfather met Beatrice."], "ja": "祖父さまはベアトリーチェに出会った。"}
+{"id": 152868, "en": ["He then fell in love with her and courted her, but she didn't accept him."], "ja": "そして恋をして求愛したが、相手は首を縦に振らなかった。"}
+{"id": 152869, "en": ["Then, he flew into a rage and shut her up inside this hidden mansion."], "ja": "それで逆ギレして隠し屋敷に閉じ込めてしまったわけだ。"}
+{"id": 152872, "en": ["Beatrice tried to escape, but no matter what she did, she couldn't succeed,", " ...so she finally chose her own death."], "ja": "ベアトリーチェは逃げ出そうとしたが、どうやっても叶わず、 ……それでとうとう自ら死を選んでしまった。"}
+{"id": 152878, "en": ["...And then, ......no."], "ja": "……それで、………うーん。"}
+{"id": 152881, "en": ["...Maybe there was a girl who looked just like Beatrice...no, a baby."], "ja": "…ベアトリーチェには、生き写しの娘、…いや、赤ん坊がいたとか。"}
+{"id": 152886, "en": ["Grandfather raised this child with care."], "ja": "それで祖父さまはその子を大事に育てたわけだ。"}
+{"id": 152889, "en": ["But maybe he didn't view this child as his daughter."], "ja": "しかし祖父さまは、その子を娘としては見ていなかったのではないだろうか。"}
+{"id": 152894, "en": ["`The soul was once again shut up in a cage of flesh.'"], "ja": "“魂を肉の檻に再び閉じ込めた”"}
+{"id": 152897, "en": ["Those words probably meant that he didn't view this kid as her child, ", "...but as her reincarnation.", "  Maybe that's what it meant."], "ja": "この言葉の意味するところは多分、 ……その子を、彼女の子どもではなく、生まれ変わりだと信じた、 という意味ではないだろうか。"}
+{"id": 152901, "en": ["If you interpret it that way, even a story this weird might make a little sense..."], "ja": "こう解釈すれば、おかしな話も一応の筋が通るかもしれない…。"}
+{"id": 152905, "en": ["...No, no, no."], "ja": "…いやいやいや。"}
+{"id": 152906, "en": ["This might be some bullshit Beato cooked up to confuse me."], "ja": "こんなの、ベアトが俺を煙に撒くために作ったデタラメかもしれない。"}
+{"id": 152909, "en": ["As if I could accept any of this...!", "  In the first place...Kuwadorian, was it?", "  There's no proof whatsoever that a hidden mansion actually existed."], "ja": "何も鵜呑みになんかできるものか…！ 　そもそも、…九羽鳥庵だっけ？ 　隠し屋敷が実在する保証などあるものか。"}
+{"id": 152912, "en": ["Couldn't this be something she just fabricated on the spot?"], "ja": "ヤツがたった今、適当にでっち上げただけかもしれないじゃないか。"}
+{"id": 152921, "en": ["\"", "A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima", ".", "  That is the place we were just talking about.\""], "voix": "ron", "ja": "「六軒島の森の中には、九羽鳥庵という隠し屋敷が実在します。 それが、今、話をしていた場所です。」"}
+{"id": 152929, "en": ["\"......Huh?", "  R-Red?!\""], "voix": "but", "ja": "「………え？ 　あ、…赤？！」"}
+{"id": 152933, "en": ["Ronove used the red to say that Kuwadorian actually existed."], "ja": "ロノウェが、九羽鳥庵が実在することを赤で語る。"}
+{"id": 152936, "en": ["...Did that mean the same thing as the red Beato used?"], "ja": "…それはベアトが使う赤と同じ意味なのか？"}
+{"id": 152942, "en": ["\"I may not look it, but I am a demon.", "  ...Please keep this a secret from Milady, yes?\""], "voix": "ron", "ja": "「これでも悪魔の端くれでございますので。 …お嬢様には内緒にしてくださいね？」"}
+{"id": 152948, "en": ["\"...S-Sure!\""], "voix": "but", "ja": "「…あ、……あぁ！」"}
+{"id": 152952, "en": ["Beato, who knew I would try to trip her up, had grown extremely cautious when using red."], "ja": "俺が揚げ足を取ることを知っているベアトは、赤を使うのに今や非常に慎重だ。"}
+{"id": 152953, "en": ["To think that Ronove could also use the red..."], "ja": "その赤を、まさかロノウェも使えたとは…。"}
+{"id": 152957, "en": ["However, it was the red of a crafty man."], "ja": "もっとも、食えない男の赤だ。"}
+{"id": 152958, "en": ["I didn't know how far I could accept it, ", "but anyway, I might be able to get some kind of hint out of it..."], "ja": "どこまで鵜呑みにしていいかはわからないが、 とにかく何かのヒントには使えるだろう……。"}
+{"id": 152964, "en": ["\"So that Beato relaxing in the garden of Kuwadorian...and that conversation she had with Grandfather...were the truth?\""], "voix": "but", "ja": "「この、九羽鳥庵の庭でくつろいでるベアトと、…さっきの祖父さまとの会話は、真実なのか？」"}
+{"id": 152971, "en": ["\"Yes.", "  It is the truth.", "  In the past, "], "voix": "ron", "ja": "「はい。 真実です。 かつて、"}
+{"id": 152977, "en": ["the pair actually had a conversation like that in this place", ".\""], "voix": "ron", "ja": "実際にこの場所で、お二人はこのような会話をなされました。」"}
+{"id": 152983, "en": ["\"Th-Thanks a lot.", "  I'll ask for some more red.", "  You said she was born from a homunculus,", " but does that kind of unscientific, magical thing actually exist?!\""], "voix": "but", "ja": "「た、助かるぜ。 さらに赤で頼む。 あいつ、ホムンクルスから生まれたなんて言いやがったが、 そんな非科学的な魔法的存在、実在するのか？！」"}
+{"id": 152989, "en": ["\"I am unable to answer that question.", "  After all, doing so would cause a stalemate.\""], "voix": "ron", "ja": "「その問い掛けにはお答えできません。 理由は、ステイルメイトになるからでございます。」"}
+{"id": 152995, "en": ["\"...A stalemate??", "  What does that mean?\""], "voix": "but", "ja": "「……ステイルメイト？？ 　何だそりゃ。」"}
+{"id": 153002, "en": ["\"It's a chess term referring to a state in which, similar to a `perpetual check', ", "any further progress in a game becomes impossible.", "  This would be the opposite of an endless repetition of moves, ", "because all moves would disappear, and it would bring about a kind of deadlock.", "  In chess, this would lead to a draw, just as a perpetual check would.", "  ...However, there can be no draws in the game between you and Milady.", "  Therefore, I am unable to answer a question that would bring about a stalemate.\""], "voix": "ron", "ja": "「チェスの用語で、千日手のパーペチュアルと同様に、 それ以上のゲーム進行が不可能になる宣言です。 これは、千日手とは正反対で、 指し手がなくなる、ある種の手詰まりの状態を指します。 パーペチュアルに同じで、チェスではこれを引き分けにしております。 …ただし、お嬢様と戦人さまのゲームでは引き分けがございません。 ですので、ステイルメイトになる質問には、赤でお答えすることができないのです。」"}
+{"id": 153009, "en": ["\"......You obviously want to confuse me by saying incomprehensible stuff,", " but simply put, you're trying to dodge the question, because you can't use the red to say that something magical like a homunculus exists, right?\""], "voix": "but", "ja": "「………よくわからねぇこと言って煙に撒いてるが、 つまり、ホムンクルスなんて魔法的存在が実在するって、赤で言えないから誤魔化してるだけなんだろ？」"}
+{"id": 153016, "en": ["\"If I were to say in red that `a witch exists', what would you do, Battler-sama?\""], "voix": "ron", "ja": "「仮に私が、赤で“魔女は実在する”と言ったら、戦人さまはどういたしますか？」"}
+{"id": 153022, "en": ["\"......Mu.", "  ...Whether or not I believe that is what our whole fight's about, right?"], "voix": "but", "ja": "「……………む。 ……それを信じるか信じないかで俺たちは大喧嘩してるんじゃねぇかよ。"}
+{"id": 153027, "en": ["  If I was told that point blank,", " it'd be game over.\""], "voix": "but", "ja": "それを言われちまったら身も蓋もないぜ。 ゲームオーバーだ。」"}
+{"id": 153033, "en": ["\"If I said `a witch exists' in red, you would have no room for argument.", "  However, since the reason would never have been made clear to you, Battler-sama, you probably wouldn't accept it.", "  However, after being told that in red, you would have no room for argument and would not have been shown any proof.\""], "voix": "ron", "ja": "「“魔女は存在する”と赤で申し上げたなら、戦人さまには反論の余地がありません。 しかし戦人さまは、その理由が示されない以上、それを受け容れないでしょう。 しかし赤で語られる以上、反論の余地もなく証拠も示されない。」"}
+{"id": 153038, "en": ["\"In this situation,", " even though you wouldn't be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock.", "  Even though checkmate would not have been reached, there would be no existing moves left.\""], "voix": "ron", "ja": "「この場合、戦人さまは、 敗北を認められないにもかかわらず、反論の手がなく、手詰まりとなってしまいます。 チェックメイトされていないにもかかわらず、次なる指し手が存在しない。」"}
+{"id": 153043, "en": ["\"Since you would not be able to play your next hand, it would never become Milady's turn, ", "and the game would stop there for all eternity.", "  As a result, Milady would be unable to force you to submit.", "  ...That would be a deadlock situation.", "  In order to avoid that, ", "I am unable to answer questions of this nature in red.\""], "voix": "ron", "ja": "「戦人さまが次の一手を打てない以上、お嬢様に手番が回ってくることはなく、 ゲームはそこで永遠に止まってしまう。 その結果、お嬢様があなたを屈服させることもできない。 ……これが手詰まりの状態です。 それを回避する為、 このような形になるご質問には、赤でお答えすることができないのです。」"}
+{"id": 153049, "en": ["\"...So, to say it quickly, you're saying point-blank questions are prohibited?"], "voix": "but", "ja": "「……早い話が、身も蓋もない質問は禁止だと、そう言いたいわけだな？"}
+{"id": 153054, "en": ["  Well, that's true, I guess.", "  If I were told `a witch exists', I'd have to give up from the start.\""], "voix": "but", "ja": "まー、そりゃそうだよな。 赤で、“魔女は実在する”って言われちまったら、俺はハナからお手上げだぜ。」"}
+{"id": 153060, "en": ["\"I am pleased that you understand.", "  I believe we might be able to work together if you ask your questions in a different form.\""], "voix": "ron", "ja": "「ご理解いただけて助かります。 他の形の質問でしたら、ご協力できるかと思いますよ。」"}
+{"id": 153066, "en": ["\"...Can you help me with that line Beatrice dodged when I told her to repeat it?", "  About the number of people on this island?\""], "voix": "but", "ja": "「……ヤツがはぐらかした復唱要求には応えられるか？ 　この島の人数だ。」"}
+{"id": 153071, "en": ["\"If Milady held back on repeating it, then of course I cannot respond.", "  As Milady's furniture, I am unable to be too forward.\""], "voix": "ron", "ja": "「お嬢様が保留されている復唱要求にも、もちろん応えられませんよ。 お嬢様の家具でございますので、出過ぎた真似は出来かねます。」"}
+{"id": 153075, "en": ["Ronove made an exaggerated gesture, trying to act like a loyal retainer.", "  This guy's so shameless."], "ja": "ロノウェはキザったらしい仕草で、忠臣ぶりをアピールする。 実に白々しいヤツだ。"}
+{"id": 153081, "en": ["\"Heh.", "  Just when I thought you might actually be useful."], "voix": "but", "ja": "「ちぇ。 一瞬でも、使えるヤツと思ったのによ。"}
+{"id": 153086, "en": ["  ...I'll give up on that and search for a different question.", "  ...That's right.", "  I was forgetting to check something important.", "  ......This is a story about Beato's memories, right?", "  When did it happen?", "  It couldn't be happening right now, right?\""], "voix": "but", "ja": "……諦めて他の質問を探すか。 …そうだ。 大事なことを確認するのを忘れてた。 ………これはベアトの思い出話なんだろ？ 　いつの話なんだ。 まさか現在ってことはないだろ？」"}
+{"id": 153092, "en": ["\"Correct."], "voix": "ron", "ja": "「はい。"}
+{"id": 153097, "en": ["  This is the world of 1967", ".", "  The world of 19 years previous.\""], "voix": "ron", "ja": "ここは１９６７年の世界。 １９年前の世界でございます。」"}
+{"id": 153103, "en": ["\"......Hmmmmm...\""], "voix": "but", "ja": "「…………ふーむ…。」"}
+{"id": 153110, "en": ["Let's try rearranging this story again."], "ja": "もう一度、話を整理してみよう。"}
+{"id": 153111, "en": ["I wonder if it couldn't be something like this..."], "ja": "多分、こういうことじゃないだろうか。"}
+{"id": 153118, "en": ["Grandfather fell in unrequited love with a person called Beatrice."], "ja": "祖父さまには、ベアトリーチェという片思いの愛人がいた。"}
+{"id": 153119, "en": ["Then, he confined her in this hidden mansion and continued to court her."], "ja": "そして、この隠し屋敷へ監禁し求愛を続けていた。"}
+{"id": 153120, "en": ["But she was stubborn and didn't give in."], "ja": "しかし彼女は頑として首を縦に振らなかった。"}
+{"id": 153125, "en": ["Eventually, she grew pessimistic about being able to escape from here...", "and probably...committed suicide."], "ja": "やがて彼女はここから逃げられないことに悲観して…、 多分、自殺してしまう。"}
+{"id": 153134, "en": ["...And then, "], "ja": "^^!s0　……それで、"}
+{"id": 153136, "en": ["...her soul was put in a homunculus and..."], "ja": "^^!d800……ホムンクルスに魂を……。"}
+{"id": 153145, "en": ["No, no, if I accept that, it's the same as accepting the witch."], "ja": "駄目だ駄目だ、こいつを受け容れちまったら、魔女を認めたも同然だぜ。"}
+{"id": 153153, "en": ["I can interpret that part like this."], "ja": "そこはこう解釈するんだ。"}
+{"id": 153154, "en": ["She probably...had a posthumous daughter."], "ja": "死んだ彼女には多分、……忘れ形見の娘がいたんだろう。"}
+{"id": 153157, "en": ["Grandfather must've believed that her soul had been placed in a new physical body...", "and might have thought that the child was the reincarnation of Beatrice..."], "ja": "魂を新しい肉体に込めた…、みたいな話は多分、 その子をベアトリーチェの生まれ変わりだと信じて育てた、という意味に違いない…。"}
+{"id": 153160, "en": ["...That means, at least 19 years ago, Beato existed on this island as the 19th person,", " ...umm..."], "ja": "…だとしたらつまり、少なくとも１９年前からベアトは１９人目としてこの島に存在してて、 ……えぇと……。"}
+{"id": 153176, "en": ["\"...I'm starting to get confused.", "  ...Either way, we can't do more than speculate.", "  The only thing we can say for sure in red...", "is that in 1967, in a hidden mansion on Rokkenjima, Beatrice existed as a human.", "  That's all.\""], "voix": "but", "ja": "「……混乱してきたぜ。 …いずれにせよ、憶測の域を出ない。 確実に赤で言えることは、 １９６７年の六軒島の隠し屋敷に、人間としてのベアトリーチェが存在した。 それだけだ。」"}
+{"id": 153182, "en": ["\"That is correct."], "voix": "ron", "ja": "「その通りでございます。"}
+{"id": 153187, "en": ["  In 1967, in a hidden mansion on Rokkenjima, Beatrice-sama existed as a human", ".\""], "voix": "ron", "ja": "１９６７年の六軒島の隠し屋敷に、人間としてのベアトリーチェさまが存在した。」"}
+{"id": 153193, "en": ["\"Oh, thank you.", "  That really helps.\""], "voix": "but", "ja": "「おう、サンキュ。 助かるぜ。」"}
+{"id": 153199, "en": ["\"Congratulations.", "  With this, you have made clear the existence of the piece known as the 19th person.", "  A 19th human for you to blame, just as you longed for.\""], "voix": "ron", "ja": "「おめでとうございます。 これで戦人さまの１９人目の駒は、その存在がはっきりしました。 戦人さまが熱望された、１８人以外に罪をなすりつけられる１９人目の人間。"}
+{"id": 153204, "en": ["\"...A sacrificial sheep upon which you can shift the blame of any crime.", "  How amusing that it happens to be Milady.", "  Pu ku ku ku.\""], "voix": "ron", "ja": "……如何なる罪をも擦り付けることのできる生贄の羊。 それがお嬢様とは実に愉快。 ぷっくっくっく。」"}
+{"id": 153208, "en": ["Ronove laughed indiscreetly."], "ja": "ロノウェが不謹慎そうに笑う。"}
+{"id": 153211, "en": ["Somehow, I didn't like how he put that, so I didn't feel like laughing along with him."], "ja": "何となく言い回しが気に入らなくて、俺は一緒に笑う気がしなかった。"}
+{"id": 153222, "en": ["\"...That's right.", "  There's that thing Aunt Rosa said.", "  ...Beatrice is dead?", "  `I killed her'?", "  What did that mean...?\""], "voix": "but", "ja": "「……そうだ。 楼座叔母さんは言った。 ……ベアトリーチェは死んだ？ 　私が殺した？ 　どういう意味なんだ…？」"}
+{"id": 153229, "en": ["\"As for that, it may be faster to see the actual circumstances rather than listen to me tell you.", "  Let us advance the clock a little more.\""], "voix": "ron", "ja": "「それは私の口から語るよりも、実際に顛末をご覧になった方が早いでしょう。 少々、時計を進めましょう。」"}
+{"id": 153234, "en": ["Ronove pulled a stylish pocket watch from his pocket and touched the watch stem."], "ja": "ロノウェはポケットより、洒落た懐中時計を取り出し、その竜頭を弄ろうとする。"}
+{"id": 153237, "en": ["As soon as he did, I saw gold butterflies gather behind his back and take the form of a person."], "ja": "するとその時、ロノウェの背後に黄金の蝶が集まり、人の姿を形作るのが見えた。"}
+{"id": 153255, "en": ["...Was it Beato?!", "  I quickly realized that it was someone else."], "ja": "…ベアトか？！ 　すぐに別の人物であるとわかった。"}
+{"id": 153264, "en": ["It was her.", "  That oldest sister of the Seven Stakes, who loved tormenting me more than her three meals a day."], "ja": "あいつだ。 俺を甚振るのが三度のメシより大好きな、あの七杭の姉ちゃんたちの長女だった。"}
+{"id": 153267, "en": ["...If I don't consider myself lucky to see that sexy ass, I won't be able to keep up with their torture game..."], "ja": "……エロい太ももが拝めてラッキーだとでも思わなきゃ、連中の拷問ごっこには付き合いきれねぇぜ…。"}
+{"id": 153274, "en": ["\"Ronove-sama.", "  So, you're still here.", "  This is an urgent call from Beatrice-sama.\""], "ja": "「ロノウェさま。 まだこちらにおられましたか。 ベアトリーチェさまが、至急お呼びです。」"}
+{"id": 153280, "en": ["\"My, my,", " what kind of urgent business could it be?", "  ...It's seems my chat with Battler-sama has run a tad long.\""], "voix": "ron", "ja": "「はて。 至急のどのような御用やら。 ……少々、戦人さまとのお喋りが過ぎたようですね。"}
+{"id": 153285, "en": ["\"Well then, Battler-sama, if you will excuse me.", "  Please continue to enjoy your game with Milady.\""], "voix": "ron", "ja": "それでは戦人さま、私めはこれで失礼させていただきます。 どうか引き続き、お嬢様とのゲームをお楽しみ下さい。」"}
+{"id": 153292, "en": ["\"Yeah, yeah.", "  I'll enjoy it as best I can.", "  ...'Cause my conversations go a lot more smoothly when they're with you, as opposed to her.", "  And you're more gracious with the red too.", "  Come and talk again any time you like.\""], "voix": "but", "ja": "「へいへい。 せいぜい楽しむぜ。 …あんたはベアトよりゃ話が弾むからな。 赤も気前よく使ってくれるしよ。 ぜひまたお喋りに来いよな。」"}
+{"id": 153298, "en": ["\"......Battler-sama,", " despite how I look, I am Milady's furniture.", "  ...I can do nothing that Milady does not desire.", "  What I said in red was something that normally should have come from Milady's mouth.", "  ...I did nothing more than announce the red truth in Milady's place as she sulked.\""], "voix": "ron", "ja": "「…………戦人さま。 私めも、こう見えてもお嬢様の家具。 …お嬢様が望まぬことは出来ませんよ。 私が語った赤は、本来ならお嬢様が自らの口で語るべきもの。 …ヘソを曲げてしまわれたお嬢様に代わって赤き真実を披露したに過ぎません。」"}
+{"id": 153304, "en": ["\"So she really was sulking then?", "  Ihihihi!\""], "voix": "but", "ja": "「やっぱあれ、ヘソを曲げてたよなぁ？ 　いっひっひっひ！」"}
+{"id": 153310, "en": ["\"Pu ku ku ku.\""], "voix": "ron", "ja": "「ぷっくっくく。」"}
+{"id": 153314, "en": ["Seeing me and Ronove incomprehensibly hitting it off, that Stake nee-chan cocked her head curiously."], "ja": "俺とロノウェが訳のわからない意気投合をしているのを見て、七杭の姉ちゃんは首を傾げる。"}
+{"id": 153321, "en": ["\"Ronove-sama,", " we are keeping Beatrice-sama waiting.", "  Let us hurry.\""], "ja": "「ロノウェさま。 ベアトリーチェさまをお待たせしております。 お急ぎをっ。」"}
+{"id": 153326, "en": ["\"Yes, I shall go immediately.", "  Well, Battler-sama, I will see you later.", "  ...It appears that we have finally started getting along.", "  As I thought, I have the feeling we'll manage to become good friends.\""], "voix": "ron", "ja": "「えぇ、直ちに参ります。 それでは戦人さま、後ほど。 ……ようやく仲良くなれてきましたね。 やはり、よい友人になれる気がします。」"}
+{"id": 153333, "en": ["\"Sure, if you mean partners at gossiping behind Beato's back.\""], "voix": "but", "ja": "「ベアトの陰口仲間ってことならなー。」"}
+{"id": 153340, "en": ["\"Ronove-sama!\""], "ja": "「ロノウェさまっ！」"}
+{"id": 153355, "en": ["\"Yes, yes.", "  If you will excuse me.\""], "voix": "ron", "ja": "「はいはい。 それでは失礼いたします。」"}
+{"id": 153362, "en": ["Maybe she didn't like seeing him act so friendly with me, or maybe she really had been told to hurry."], "ja": "俺と仲良くしてるのがよほど気に入らなかったのか、それともよほど急ぐように言われたのか。"}
+{"id": 153363, "en": ["When the Stake nee-chan let out a thunderous cry, Ronove laughed frivolously and disappeared, as if running away..."], "ja": "七杭の姉ちゃんが鋭く一括すると、ロノウェはへらへら笑いながら、逃げるように消えていった…。"}
+{"id": 153377, "en": ["\"...Hmph.", "  Why am I, the oldest sister of the Seven Stakes of Purgatory, being summoned for menial tasks like this?!", "  ...Even though Beato-sama could've told one of the younger sisters, who look like they've got nothing better to do.  Sheesh...!\""], "ja": "「……ふん。 煉獄の七杭が長女のこの私が、この程度の用事で呼び付けられるなんて！ 　…ベアトさまも、この程度なら他の暇そうな妹たちに言い付ければいいのに。もう…！」"}
+{"id": 153383, "en": ["\"Why so grumpy, nee-chan.", "  If you're hungry, eat a cookie or something."], "voix": "but", "ja": "「何をカリカリしてんだよ姉ちゃん。 腹減ってんなら、クッキーでも食えよ。"}
+{"id": 153388, "en": ["  Why don't I give you the last one?", "  Ihihi!\""], "voix": "but", "ja": "最後の一枚をくれてやるぜ？ 　いっひっひ！」"}
+{"id": 153394, "en": ["\"...Hmmmm?", "  How thoughtful.", "  Then, shall I take one?\""], "ja": "「……ふーん？ 　気が利くじゃない。 なら、ひとついただこうかしら？」"}
+{"id": 153398, "en": ["I casually pushed the snack plate with the last remaining cookie over to her."], "ja": "最後の一枚のクッキーが残った菓子皿を、姉ちゃんの方にすいっと押し出してやる。"}
+{"id": 153404, "en": ["\"Thank you.\""], "ja": "「ありがと。」"}
+{"id": 153425, "en": ["As though coming as a period at the end of the sentence, a sharp sound pierced the table..."], "ja": "その言葉のピリオド代わりとでも言うかのように、鋭い音がテーブルを貫いた…。"}
+{"id": 153430, "en": ["The nails on three of her fingers extended, grew sharp..."], "ja": "彼女の、三本の指から爪が鋭く伸び、菓子皿を押した俺の…、"}
+{"id": 153432, "en": ["and pierced the space between my fingers on the hand that was pushing the plate, missing them by a hair's breadth."], "ja": "^^!d800各指の間に紙一重で突き刺さっていたのだ。"}
+{"id": 153435, "en": ["...It had happened in an instant, ...so for a while, I didn't even realize that her fingernails had grown."], "ja": "……あまりに一瞬の出来事で、…爪が伸びたのだということもしばらく理解できなかった。"}
+{"id": 153442, "en": ["The tips of those sharp nails were like blades with a red manicure."], "ja": "その鋭い爪の先端は、赤いマニキュアで彩られた刀身のよう。"}
+{"id": 153443, "en": ["...The spaces between the bases of my fingers hurt sharply."], "ja": "……指と指の付け根の間が、チリリと痛む。"}
+{"id": 153446, "en": ["...Those razor-like blades had been plunged into the table a hair's breadth away from the back of my hand and my fingers..."], "ja": "……そのカミソリのような刃が、俺の手の甲と、指と指の間に紙一重で打ち込まれているのだ…。"}
+{"id": 153449, "en": ["Because of those three blades, I was unable to even let my careless right hand tremble, and by now, all I could do was let a bead of cold sweat drip down."], "ja": "その三本の刃に、迂闊な俺の右手は震わせることもできず、今頃になって、冷たい汗を一筋零すしかない。"}
+{"id": 153455, "en": ["\"......Whoa.", " ...Nee-chan, isn't it about time you cut your nails?\""], "voix": "but", "ja": "「…………ひゅう。 …姉ちゃん、そろそろ爪を切った方がいいぜ。」"}
+{"id": 153461, "en": ["\"It's Lucifer.", "  ...That is my glorious name.", "  The honored furniture who serves Beatrice-sama, and the oldest sister of the Seven Stakes of Purgatory.\""], "ja": "「ルシファーよ。 ……それが誇り高き私の名。 ベアトリーチェさまにお仕えする名誉ある家具、煉獄の七杭が長女。"}
+{"id": 153466, "en": ["\"......I'm not like my disgraceful younger sisters.", "  If you don't show proper respect, you will regret it.\""], "ja": "………他の面汚しな愚妹どもとは訳が違うの。 それに見合った敬意を示さないと、後悔することになるわよ。」"}
+{"id": 153472, "en": ["\"...And why would I regret it, exactly?", "  Can't really think of a reason.\""], "voix": "but", "ja": "「…どう後悔するんだか。 俺には見当もつかねぇぜ。」"}
+{"id": 153478, "en": ["\"......Heheheheheh.", "  Stupid kid.", "  ...Do you really wanna play with me that much?", "  Was it that unforgettable?", "  I'll thrust my stake deep, deep into you and let you enjoy being gouged to the fullest, okay...?", "  Heheheheheheheheehehehhh...!\""], "ja": "「………ふっふっふっふっふ。 馬鹿な子ね。 …そんなに遊んでほしいの？ 　そんなに忘れられないの？ 　私の杭を、思いっきり奥の奥までねじ込んで、たっぷり抉って楽しませてあげるわよ……？ 　うっふふふふふふふふふふふふふふふ……！」"}
+{"id": 153484, "en": ["\"...Dammit.", "  Some day I'll have you down on the floor and say the same thing.\""], "voix": "but", "ja": "「………クソッタレ。 いつか押し倒して同じセリフを言ってやるぜ。」"}
+{"id": 153490, "en": ["\"Oh, really?", "  Wow, I can't wait.", "  Hehheheheheheheh...", "  ...Ahahahahahahahahahahahahahahahahaha...!!!\""], "ja": "「あらそう？ 　楽しみにしてるわね？ 　うっふふふふふふ……。 …あっははははははははははははははははは…！！！」"}
+{"id": 153533, "en": ["Rosa eventually regained her calm."], "ja": "楼座はようやく落ち着きを取り戻す。"}
+{"id": 153536, "en": ["The men wanted to hurry her into talking faster, but Kyrie intervened."], "ja": "男たちは早く話すよう急かしたかったが、それを霧江が制した。"}
+{"id": 153539, "en": ["...If something like that really had happened, ...then it would have been a terrible experience that Rosa wouldn't want to remember."], "ja": "…本当に彼女が口にするような話なら、……それは思い出したくない忌まわしい過去だ。"}
+{"id": 153542, "en": ["After taking several deep breaths with her hand over her chest, it seemed that she had more or less resolved herself to talk..."], "ja": "彼女は自らの胸に手を当てて何度か深呼吸をすると、何とか話す覚悟を決めたようだった…。"}
+{"id": 153556, "en": ["\"...How old was I then, I wonder...", "  ...Middle school probably, ...though I don't remember well.", "  Anyway, I think I was about that age...\""], "voix": "ros", "ja": "「……あれはいくつの時だったのかしら…。 …多分、中学生か、……よく覚えてない。 とにかくそのくらいの頃だったと思うわ…。」"}
+{"id": 153563, "en": ["\"Which means...maybe about 20 years ago?\""], "voix": "rud", "ja": "「ってことは、…大体、２０年位前ってとこか。」"}
+{"id": 153570, "en": ["\"Back then, my grades weren't very good, and Mother was always angry at me.", "  ...I tried to do my best in my own way, ", "but I couldn't match up to Mother's expectations at all...\""], "voix": "ros", "ja": "「あの頃の私は、あまり成績が良くなくて、いつもお母様に怒られてばかりだった。 ……私なりに努力していたつもりだったんだけど、 お母様の期待には全然応えられなくて…。」"}
+{"id": 153577, "en": ["\"...Mother was always very strict with Rosa.", "  I sympathized with her at the time.\""], "voix": "kla", "ja": "「……母上は楼座にもずいぶん厳しかったな。 当時は同情していたよ。」"}
+{"id": 153585, "en": ["\"Hmph.", "  You say that, even though you were always talking behind her back.\""], "voix": "eva", "ja": "「ふん。 陰口ばっかだったくせによく言うわねぇ。」"}
+{"id": 153591, "en": ["\"Would you give it a rest, Eva?"], "voix": "hid", "ja": "「よさんか絵羽。"}
+{"id": 153597, "en": ["  And then?", "  Where did you meet Beatrice, Rosa-san?!\""], "voix": "hid", "ja": "それで？ 　楼座さんはどこでベアトリーチェに会ったんや！」"}
+{"id": 153604, "en": ["\"Hideyoshi-san, you mustn't rush her now."], "voix": "kir", "ja": "「秀吉さん、今は急かしては駄目よ。"}
+{"id": 153610, "en": ["  ...It's okay, Rosa-san.", "  Tell us at your own pace.\""], "voix": "kir", "ja": "……いいのよ、楼座さん。 楽に話して。」"}
+{"id": 153617, "en": ["\"......Thank you."], "voix": "ros", "ja": "「………ありがとう。"}
+{"id": 153622, "en": ["  ...It was a day I'd been harshly scolded by Mother.\""], "voix": "ros", "ja": "…あれは、お母様に特にひどく叱られた日よ。」"}
+{"id": 153628, "en": ["Even though my tutor had promised to keep it a secret, ", "...apparently, they told Mother all about how I had complained."], "ja": "家庭教師が、内緒よと約束したはずなのに、 …私が漏らした泣き言を、全てお母様に話してしまったらしい。"}
+{"id": 153634, "en": ["Mother scolded me brutally, saying my name was a disgrace to the Ushiromiya family."], "ja": "お母様は、右代宮家に名を連ねる者が情けないと、私をひどく叱ったわ。"}
+{"id": 153635, "en": ["...Of course, I was doing the best I could."], "ja": "……私も、もちろん自分なりには努力していた。"}
+{"id": 153638, "en": ["But I had none of Krauss nii-san's dignity,", " I couldn't get excellent grades like Eva nee-san,", " and I had no leadership abilities like Rudolf nii-san."], "ja": "でも、蔵臼兄さんのような貫禄は全然なかったし、 絵羽姉さんのような立派な成績はとても取れなかったし、 留弗夫兄さんのようなリーダーシップがあったわけでもない。"}
+{"id": 153641, "en": ["...I never stood out, didn't particularly excel at anything,", " and I found myself asking why I'd even been born into the Ushiromiya family."], "ja": "…いつも目立たず、特に秀でることもなく、 何の為に右代宮家に生まれてきたのか、私自身が聞いてみたいくらいだった。"}
+{"id": 153645, "en": ["I began to question more and more why I'd even been born at all."], "ja": "何の為に生まれてきたのかわからなくなって。"}
+{"id": 153646, "en": ["...This is what happened on the day I experienced my mind going blank for the first time..."], "ja": "…初めて頭の中が真っ白になるのを経験した、あの日のこと……。"}
+{"id": 153650, "en": ["For the first time in my life, ", "...I realized that in addition to facing or surrendering to my problems,", " I had the third choice of running away."], "ja": "私は生まれて初めて、 …物事には、立ち向かうことと屈することの他に、 逃げ出すという選択肢があることを知ったの。"}
+{"id": 153654, "en": ["Though I say `run away', there was no way I could've left Rokkenjima and gone somewhere else."], "ja": "逃げ出すと言っても、六軒島を出てどこかへ行けるはずもない。"}
+{"id": 153655, "en": ["But, anyway, I wanted to run away from the mansion and my own self at that time."], "ja": "でも、とにかくお屋敷と今の自分から逃げ出したかった。"}
+{"id": 153658, "en": ["...In a way, it was like a kid running away from home, or maybe a passive sort of suicide..."], "ja": "……ある意味それは、家出でもあり、消極的な自殺でもあった…。"}
+{"id": 153665, "en": ["\"...I wanted to disappear.", "  Or maybe it was that child-like form of resistance where I tried to make my parents worry by disappearing...", "  ......I childishly thought that if I went into the center of the forest, escaped from the Ushiromiya house,", " and maybe became lost, then I'd make them worry and teach them a lesson.\""], "voix": "ros", "ja": "「……いなくなりたかったの。 …あるいは、いなくなることによって親を心配させたいという、子どもなりの反抗だったのかも…。 ………私は、森のはるか奥に行けば、右代宮の家から逃れられる、 あるいは迷子になって心配させることで仕返しができると、子どもながらに思ったの。」"}
+{"id": 153670, "en": ["\"And then, ...you went into the forest that you were told never to enter?\""], "voix": "kir", "ja": "「それで、……行ってはいけないと言われていた森に？」"}
+{"id": 153674, "en": ["\"...Yes.", "  After reaching the beach, I followed alongside the ocean.", "  ...I didn't have any particular reason,", " ...but I felt that, if I went around to the opposite side of the island, there might be a place there that no one knew about, ", "which might become a hidden house just for me.\""], "voix": "ros", "ja": "「……えぇ。 浜辺へ出てから、海に沿うように。 ……特に理由があったわけじゃないけれど、 ……島をぐるりを回れば、その反対側には誰も知らない場所があって、 私だけの隠れ家になるような気がしたの。」"}
+{"id": 153682, "en": ["\"If you go around by the beach, that'd be impossible.", "  It becomes a cliff partway, right?", "  There's no way you could pass that way.\""], "voix": "rud", "ja": "「浜辺からぐるっと、ってのは無理だな。 途中で崖になっちまうだろ？ 　あんなとこ、通れるわけがねぇぜ。」"}
+{"id": 153688, "en": ["\"...Of course.", "  So, I kept going wherever I could, which kept taking me deeper and deeper inland.", "  ...It's a horrible forest without any paths, but that was comforting to me then.", "  ...If I could make it through such a dangerous forest, then I'd be that much further away from the Ushiromiya family.\""], "voix": "ros", "ja": "「…もちろんよ。 だから、通れる方へ通れる方へ、とにかく奥へ奥へ進んだわ。 ……道なんかないひどい森だったけど、あの時の私にはそれが心地よかったの。 …それほどの険しい森を抜けたなら、その分、右代宮家から逃れられるって、 …そんな気持ちだったの。」"}
+{"id": 153697, "en": ["\"......How shameful.", "  If you were scolded because of your grades, all you had to do was work harder.\""], "voix": "eva", "ja": "「………情けないわねぇ。 成績で叱られたなら、その分、努力すればいいのに。」"}
+{"id": 153703, "en": ["\"You mustn't say that."], "voix": "kla", "ja": "「それを言ってはいかんね。"}
+{"id": 153709, "en": ["  Doesn't Rosa have her talent as a designer instead?\""], "voix": "kla", "ja": "その代わり、楼座にはデザイナーとしての才能があったじゃないか。」"}
+{"id": 153713, "en": ["Literally speaking, he was covering for Rosa,", " but everyone knew that Rosa's company hadn't been profitable."], "ja": "言葉通りならこれはフォローになるが、 楼座の会社がまったく儲かっていないことは誰もが知っている。"}
+{"id": 153719, "en": ["\"Quit it.", "  This is no time for sarcasm."], "voix": "rud", "ja": "「よせよ。 今は嫌味を言ってる場合じゃねぇぜ。"}
+{"id": 153727, "en": ["  ...So, you managed to end up there by coincidence...?", "  At Beatrice's..."], "voix": "rud", "ja": "……そして、偶然辿り着いちまったんだな…？ 　…ベアトリーチェの、"}
+{"id": 153729, "en": ["hidden mansion.\""], "voix": "rud", "ja": ":voicedelay 1210^^…隠し屋敷に。」"}
+{"id": 153733, "en": ["Rosa nodded weakly..."], "ja": "楼座は弱々しく頷いた……。"}
+{"id": 153741, "en": ["\"About how far did you walk?", "  Could you show it to us on a map...?", "  Natsuhi-san, do you have a map of this island?\""], "voix": "hid", "ja": "「どのくらい歩いたんや。 地図で場所が示せるんか…？ 　夏妃さん、この島の地図はあるかいな。」"}
+{"id": 153748, "en": ["\"No, there isn't one here now...\""], "voix": "nat", "ja": "「いえ、今ここにはありませんが…。」"}
+{"id": 153755, "en": ["\"It wouldn't help.", "  I was just walking randomly.", "  Even if you gave me a map, I wouldn't know."], "voix": "ros", "ja": "「無理よ。 適当に歩いただけだもの。 地図を見せられたってわからないわ。"}
+{"id": 153761, "en": ["  ...And 20 years have passed since then.", "  I probably couldn't reach it again even if I went into the forest...\""], "voix": "ros", "ja": "……それに、あれから２０年も経ってる。 多分、森へ行っても二度と辿り着けないわ…。」"}
+{"id": 153768, "en": ["\"......Hmmmmmm...\""], "voix": "hid", "ja": "「………ふーむ…。」"}
+{"id": 153772, "en": ["Several people let out dejected sighs."], "ja": "何人かが落胆のため息をつく。"}
+{"id": 153781, "en": ["It was vividly clear that in their haste, they'd thought some hint related to the witch's epitaph...", "or maybe even the gold itself might be resting there."], "ja": "その隠し屋敷に、魔女の碑文に纏わるヒント、 もしくは隠された黄金そのものが眠っているのではないかと、短絡的に考えていたのがありありとわかった。"}
+{"id": 153788, "en": ["\"On Rokkenjima, only the land around the mansion is ready to be developed on.", "  ...The rest is completely uncultivated, and it'd probably take a lot of work to survey the entire island.\""], "voix": "rud", "ja": "「六軒島は、この屋敷の周りが整地されているだけに過ぎねぇ。 …他は完全に未開で、全島測量は、相当の手間が掛かるだろうな。」"}
+{"id": 153794, "en": ["\"But just knowing that it actually exists is helpful."], "voix": "kir", "ja": "「でも、確かに存在するとわかっただけでも収穫よ。"}
+{"id": 153800, "en": ["  It would take some money, but if we enlisted an aerial photography company to investigate,", " or asked the businessman who constructed this mansion about what happened at the time,", " we could probably find some way to search for it.\""], "voix": "kir", "ja": "お金は掛かるだろうけど、例えば航空写真の会社に調査を頼むとか、 このお屋敷を建設した業者に当時のことを聞くとか、 調べる方法はあるかもしれないわね。」"}
+{"id": 153808, "en": ["\"That's right.", "  ...At least we have more options now, as opposed to when we weren't sure it existed.\""], "voix": "eva", "ja": "「そうね。 …あるかないかもわからないものを探すよりは、まだ方法があるはずよ。」"}
+{"id": 153816, "en": ["\"...Indeed.", "  It may be worth investigating right away.\""], "voix": "kla", "ja": "「……うむ。 さっそく調べる価値があるだろう。」"}
+{"id": 153823, "en": ["\"The siblings will do that investigation together.", "  We won't leave you on your own, Nii-san.\""], "voix": "eva", "ja": "「その調査は兄弟合同でやるわよ。 兄さんひとりではさせないわ。」"}
+{"id": 153827, "en": ["It wasn't yet certain that the gold was hidden in that secret mansion,", " but the sparks seemed to have started flying between Krauss and Eva already."], "ja": "その隠し屋敷に黄金が隠されていると決まったわけではないが、 蔵臼と絵羽はさっそく火花を散らしあっているようだった。"}
+{"id": 153834, "en": ["\"Give it a rest for now, you two.", "  Rosa, please continue.\""], "voix": "rud", "ja": "「兄貴たち、今はよせよ。 …楼座、続きを話してくれ。」"}
+{"id": 153841, "en": ["\"......Yes.\""], "voix": "ros", "ja": "「………………うん。」"}
+{"id": 153857, "en": ["Blindly, randomly, I kept running, on and on."], "ja": "闇雲に、でたらめに、どこまでも歩き続けたわ。"}
+{"id": 153860, "en": ["Suddenly, I came across something I thought was an animal trail."], "ja": "突然、獣道のようなものに出た気がしたの。"}
+{"id": 153863, "en": ["I was very tired and had no idea how far I'd walked,", " so at that time, I naturally took the easiest path."], "ja": "どれだけ歩いたかわからず、とても疲れていたから、 その頃には自然と歩きやすい方へ向かうようになっていたわ。"}
+{"id": 153871, "en": ["As I did, ......suddenly, right before my eyes, a very, very tall fence appeared."], "ja": "すると、………突然、目の前に、とてもとても高い柵が現れたの。"}
+{"id": 153872, "en": ["It was a fence wonderfully adorned in a gothic style."], "ja": "それはゴシック調の素敵な装飾のされた柵。"}
+{"id": 153875, "en": ["For an instant, I thought I'd gotten turned around and returned to the original mansion."], "ja": "私は一瞬、ぐるりと回って、元のお屋敷に戻ってきてしまったのではないかと思ったわ。"}
+{"id": 153880, "en": ["Of course, there were fences around the mansion to stop us from entering the forest."], "ja": "確かに、私たちが森へ入らないように、お屋敷でも柵はあった。"}
+{"id": 153881, "en": ["But this fence was decorated differently, ...and moreover, it was very tall."], "ja": "でも、それとは装飾が違う柵だったし、……何より、とても高かったの。"}
+{"id": 153882, "en": ["It probably reached a full two stories up."], "ja": "多分、２階までたっぷり覆うくらい。"}
+{"id": 153885, "en": ["It was covered with ivy and created a mysterious, solemn atmosphere..."], "ja": "それが蔦に塗れていて、とても不思議な、荘厳な雰囲気を醸していたっけ…。"}
+{"id": 153889, "en": ["At the time, ...I believed in the legend of the witch of the forest, Beatrice."], "ja": "私ね、……当時は森の魔女、ベアトリーチェの伝説を信じてたの。"}
+{"id": 153892, "en": ["I had been told that she was frightening,", " but some of the servants told me that she'd sometimes help you if you respected her."], "ja": "恐ろしい存在だと聞かされてはいたけれど、 使用人の人は、敬いを持っていれば助けてくれることもあるって教えてくれて。"}
+{"id": 153895, "en": ["...Since I had little confidence in those days,", " I believed the only way I could be saved was by receiving her help."], "ja": "……日々に自信を失いかけていた私には、 彼女に助けてもらうことだけが、唯一の救いだと信じてたの。"}
+{"id": 153901, "en": ["That's why I thought what I did."], "ja": "だから思ったわ。"}
+{"id": 153902, "en": ["...I believed that this was the fence of the mansion belonging to Beatrice, the witch of the forest."], "ja": "……これが、森の魔女、ベアトリーチェの館の柵だと信じた。"}
+{"id": 153906, "en": ["I thought that if I could meet with Beatrice, she'd definitely save me."], "ja": "ベアトリーチェに会えば、きっと私を救ってくれると思ったの。"}
+{"id": 153907, "en": ["So I decided to try going in."], "ja": "だから、中に入ってみようと思ったわ。"}
+{"id": 153914, "en": ["But the fence was very, very tall, and it didn't look like I'd be able go over it."], "ja": "でも、その柵はとてもとても高くて、越えられそうにはなかった。"}
+{"id": 153915, "en": ["So I chose to walk around it."], "ja": "だから、柵にそってぐるりと回ることにしたわ。"}
+{"id": 153916, "en": ["I thought that if I did, I'd eventually reach a gate."], "ja": "そうすればきっと門に辿り着けると思って。"}
+{"id": 153920, "en": ["But it wasn't that easy."], "ja": "でも、そう簡単には行かなかった。"}
+{"id": 153921, "en": ["The fence had an incredible length to match its incredible height, and no matter how far I went, I didn't reach a corner."], "ja": "その柵は高さに負けないくらい、とてもとても長くて、いつまで経っても角を迎えなかった。"}
+{"id": 153924, "en": ["It might have encircled a massive area,", " ...or maybe I just had that impression because my child's legs made it difficult to walk in the forest."], "ja": "相当広大な範囲を囲んでいたのかもしれないし、 …あるいは子どもの足だし、森は歩きにくかったからそういう印象を持ったのかもしれないわ。"}
+{"id": 153927, "en": ["Anyway, I couldn't find a gate for a while,", " and I started to feel sad, as though the witch had rejected me..."], "ja": "とにかく、なかなか門を見つけられなかったので、 私は魔女に拒まれたような気持ちになり、悲しくなっていた…。"}
+{"id": 153932, "en": ["As I did, I eventually came upon a large tree, whose twisted root had bent the fence."], "ja": "するとやがて、大木が歪な根を大きく張り出し、柵を歪ませているのを見つけたの。"}
+{"id": 153935, "en": ["It might get my clothes dirty, but if I crawled, it looked like I'd be able to sneak in..."], "ja": "お洋服を汚してしまうかもしれないけど、這えば潜り抜けられそうだった…。"}
+{"id": 153944, "en": ["\"......And there you found the hidden mansion?\""], "voix": "eva", "ja": "「………そこが、隠し屋敷だったの？」"}
+{"id": 153951, "en": ["\"I don't know if it was the hidden mansion we've been talking about...", "  Still, at the very least, it wasn't a place that we know of.\""], "voix": "ros", "ja": "「あれが私たちの言う隠し屋敷なのかはわからない…。 でも少なくとも、私たちの知る場所ではなかったわ。」"}
+{"id": 153961, "en": ["It wasn't as though I came out into a garden as soon as I passed the fence."], "ja": "柵を越えたらすぐに庭というわけではなかった。"}
+{"id": 153962, "en": ["I had to continue through a lot more uncultivated forest after that."], "ja": "その後もずいぶんと未開の森を進まなければならなかった。"}
+{"id": 153976, "en": ["As I did, ...the forest suddenly opened up."], "ja": "すると、……急に森が開けたわ。"}
+{"id": 153977, "en": ["And what appeared there..."], "ja": "そこに現れたのは信じられないくらいに…、"}
+{"id": 153979, "en": ["...was an unbelievably fantastical scene."], "ja": "^^!d800………幻想的な光景だった。"}
+{"id": 153984, "en": ["To think that, on Rokkenjima, where I thought only we lived, "], "ja": "私たちしか住んでいないと信じていた六軒島に、"}
+{"id": 153986, "en": ["...there could be such a wonderful mansion hidden away..."], "ja": "^^!d1000…こんな素敵なお屋敷が隠されていたなんて…。"}
+{"id": 153994, "en": ["A beautiful flower garden spanned the front of the mansion."], "ja": "お屋敷の前には、美しいお花畑が広がっていた。"}
+{"id": 153995, "en": ["It was a flower garden of a completely different design from the rose garden we know so well, and it was very lovely."], "ja": "私たちのよく知る薔薇庭園とは、まったく装いの違うお花畑で、それはとても可愛らしかったわ。"}
+{"id": 153998, "en": ["Of course, the mansion was also wonderful."], "ja": "もちろん、お屋敷も素敵だった。"}
+{"id": 154001, "en": ["...It was a couple sizes smaller than ours,", " but it was still elegant and adorable at the same time."], "ja": "…私たちのお屋敷に比べると一回りも二回りも小さいけれど、 とても上品で、なのに可愛らしいお屋敷だった。"}
+{"id": 154011, "en": ["Then, ......I saw her figure."], "ja": "そして、……………私は、彼女の姿を見た。"}
+{"id": 154012, "en": ["I saw her sitting in a garden chair positioned to give a view of the flower garden, wearing an elegant dress."], "ja": "お花畑を一望できるガーデンチェアに、優雅なドレス姿で腰掛ける彼女の姿を見たわ。"}
+{"id": 154015, "en": ["It was that black dress embroidered in gold that we would later know from that portrait."], "ja": "それは、後に私たちが肖像画で知ることになる、あの黒い金刺繍のドレスよ。"}
+{"id": 154024, "en": ["...I hadn't seen an elegant dress like that except in fairy tales and on the stage of musicals."], "ja": "……あんな上品なドレス姿なんて、おとぎ話かミュージカルの舞台でしか知らなかった。"}
+{"id": 154025, "en": ["...For a person to be wearing it as her normal clothes...", "  That in itself seemed quite fantastical."], "ja": "…それを普段着として着る人がいるなんて、それだけでもとても幻想的だったわ。"}
+{"id": 154029, "en": ["That mysterious scene was enough to make me lose my sense of reality."], "ja": "その不思議な景色は、私の現実感を失わせるほどのものだった。"}
+{"id": 154030, "en": ["If someone had told me then that it was a dream,", " I might have nodded obediently and waited to wake up in my bed..."], "ja": "それが夢だったと一言、言われたなら、 私は素直に頷いて、朝のベッドで目を覚ますのを待ったかもしれないくらいに…。"}
+{"id": 154038, "en": ["I had forgotten to hide myself in my shock, so she eventually spotted me."], "ja": "呆然として、姿を隠すことも忘れてしまった私を、やがて彼女は見つけるの。"}
+{"id": 154041, "en": ["At first, her expression was quite listless,", " but when she noticed me, her eyes opened very wide."], "ja": "その表情は初め、とても気だるそうなものだったけれど、 私の姿を認めると、それは大きく見開かれた。"}
+{"id": 154044, "en": ["...It was only natural, considering that a guest she didn't know had suddenly appeared."], "ja": "…無理もないわね、突然の見知らぬ来客なのだから。"}
+{"id": 154047, "en": ["I lowered my head automatically, planning to greet her and apologize for entering without permission..."], "ja": "私は挨拶し、そして勝手に入ってきたことを謝るべきだと思い、思わず頭を下げたわ…。"}
+{"id": 154058, "en": ["\"......Who are you?", "  The new gardener?\""], "voix": "bea", "ja": "「…………そなたは誰か。 新しい庭師なのか。」"}
+{"id": 154064, "en": ["Those were the first words she said to me."], "ja": "それが彼女が私に掛けた最初の言葉。"}
+{"id": 154065, "en": ["...I grew slightly calmer."], "ja": "…ちょっぴり安心したわ。"}
+{"id": 154066, "en": ["Because I realized that we could talk to each other."], "ja": "言葉が通じることがわかったから。"}
+{"id": 154069, "en": ["Because I hadn't been turned into a frog just by meeting her eyes, like a terrifying witch in a fairy tale."], "ja": "おとぎ話の恐ろしい魔女のように、目が合っただけでカエルにされてしまわなかったから。"}
+{"id": 154075, "en": ["\"...I-"], "voix": "ros", "ja": "「……ご、"}
+{"id": 154077, "en": ["I'm sorry.", "  ...I shouldn't have entered the garden without permission...\""], "voix": "ros", "ja": ":voicedelay 1590^^……ごめんなさい。 …勝手にお庭に立ち入ってすみません…。」"}
+{"id": 154083, "en": ["\".........", "...Who are you?", "  Name yourself.\""], "voix": "bea", "ja": "「……………………。 ……そなたは誰か。 名乗るが良い。」"}
+{"id": 154087, "en": ["\"I-I am Ushiromiya Rosa.\""], "voix": "ros", "ja": "「う、…右代宮楼座と言います。」"}
+{"id": 154093, "en": ["\"...Ushiromiya..."], "voix": "bea", "ja": "「……右代宮。"}
+{"id": 154101, "en": ["  .........Hoh.", "  ...One of Kinzo's family?\""], "voix": "bea", "ja": "…………………ほぅ。 …金蔵の一族の人間なのか。」"}
+{"id": 154103, "en": ["\"Huh?", "  Ah, yes!", "  I'm Kinzo's daughter.", "  G-Good afternoon...!\""], "voix": "ros", "ja": "「え？ 　あ、…はい！ 　金蔵の娘です。 こ、こんにちは…！」"}
+{"id": 154108, "en": ["I was a little surprised."], "ja": "ちょっぴりだけ驚いたわ。"}
+{"id": 154109, "en": ["...After all, Father was a great man, feared by everyone."], "ja": "…だって、お父様は誰にも恐れられる偉大な方。"}
+{"id": 154113, "en": ["And yet, she had spoken of him without using honorifics."], "ja": "そのお父様を、呼びつけにしたのだから。"}
+{"id": 154114, "en": ["So, I was immediately terrified of her."], "ja": "だから急に恐ろしくなってしまったの。"}
+{"id": 154117, "en": ["...After all, ", "if she could refer to my fearsome father that way, she must be a witch with incredible power."], "ja": "…だって、 あの恐ろしいお父様を呼びつけにできるほど、彼女はすごい力を持った魔女に違いないのだから。"}
+{"id": 154121, "en": ["After staring at me curiously, she beckoned me to come over."], "ja": "彼女は私をじろじろと物珍しそうに見ると、こちらへ来るようにと手招きした。"}
+{"id": 154126, "en": ["Frightened as I was, I obeyed."], "ja": "私は今更のように怯えながら、それに従ったわ。"}
+{"id": 154127, "en": ["...After all, I thought she might really turn me into a frog."], "ja": "……だって、やっぱりカエルにされるんじゃないかと思ったから。"}
+{"id": 154128, "en": ["...The closer I got, the stronger that fear became."], "ja": "…そして近付けば近付くほどに、その怯えは強まった。"}
+{"id": 154131, "en": ["After all, ...as I keep saying over and over,", " ......that woman and her dress and the flower garden and the mansion...", "that whole picture was so fantastical and beautiful that it seemed separate from reality."], "ja": "だって、…さっきから何度も口にしているけれど、 …………彼女とドレスとお花畑とお屋敷と、 ……全ての調和があまりに現実離れしてるくらいに幻想的で美しかったから。"}
+{"id": 154134, "en": ["It probably wouldn't have surprised me at all to learn that she really was a witch..."], "ja": "彼女が本当に魔女であっても、私は何も驚かないに違いなかった…。"}
+{"id": 154141, "en": ["And I really was lucky."], "ja": "そして本当に幸運だった。"}
+{"id": 154142, "en": ["She hadn't turned me into a frog."], "ja": "彼女は私をカエルにはしなかった。"}
+{"id": 154145, "en": ["As I awkwardly stood there, stock still, she motioned to an open chair and urged me to sit down."], "ja": "ぎこちなく立ち尽くしている私に、空いている椅子を示し、着席を勧めてくれたの。"}
+{"id": 154152, "en": ["\"Have a seat.", "  Welcoming and speaking to those who visit this garden for the first time is my sole pleasure.", "  ......Of course, I have no pleasures other than that.\""], "voix": "bea", "ja": "「座るが良い。 初めて訪れた者を庭へ招き、語らうのが妾の唯一の楽しみよ。 ………他に、何の楽しみもないがな。」"}
+{"id": 154156, "en": ["As she said this, she let an unhappy smile show for just an instant."], "ja": "そう言って、彼女は一瞬だけ悲しそうな笑顔を見せる。"}
+{"id": 154159, "en": ["Because I was full of a strange mix of tension and excitement, I rudely asked her a question all of a sudden."], "ja": "私は緊張と興奮の入り混じったおかしな気持ちだったので、不躾にも唐突な質問をしてしまった。"}
+{"id": 154168, "en": ["\"...Umm, "], "voix": "ros", "ja": "^^!sd「…あの、"}
+{"id": 154170, "en": ["...are you the witch of the forest, "], "voix": "ros", "ja": ":voicedelay 610^^…………森の魔女、"}
+{"id": 154172, "en": ["...Beatrice?\""], "voix": "ros", "ja": ":voicedelay 1130^^…ベアトリーチェですか……？」"}
+{"id": 154184, "en": ["\"Indeed.", "  I am Beatrice.\""], "voix": "bea", "ja": "「如何にも。 妾がベアトリーチェである。」"}
+{"id": 154199, "en": ["\"As I thought.", "  Beatrice actually existed...\""], "voix": "rud", "ja": "「やはりな。 ベアトリーチェは実在したんだ…。」"}
+{"id": 154206, "en": ["\"...Did she really look like the portrait?\""], "voix": "kla", "ja": "「…その姿は、まさに肖像画の？」"}
+{"id": 154212, "en": ["\"...Yes.", "  Really, just like the portrait.\""], "voix": "ros", "ja": "「……えぇ。 まさにあの肖像画の通りよ。」"}
+{"id": 154222, "en": ["\"So, "], "voix": "hid", "ja": "「お父さんの想像の中の魔女じゃ、"}
+{"id": 154224, "en": ["...she wasn't just a witch from Father's imagination...\""], "voix": "hid", "ja": ":voicedelay 2700^^……なかったんやな…。」"}
+{"id": 154231, "en": ["\"Well, what did you talk with her about?\""], "voix": "eva", "ja": "「それで、あなたは彼女と何を話したの？」"}
+{"id": 154238, "en": ["\"...As she prepared some tea, she asked me all kinds of things about myself.", "  ...First, she was surprised that I had come through the forest.", "  It seems she believed that many dangerous wolves lived outside the fence.\""], "voix": "ros", "ja": "「…彼女はお茶を淹れながら、私のことを色々と聞いたわ。 ……まず、森を抜けてやってきたことを驚かれた。 彼女は、柵の外には危険な狼がたくさんいると信じていたみたいだった。"}
+{"id": 154242, "en": ["\"...So when I told her I'd come through the forest to reach this place, she was shocked.", "  She asked how I had managed to escape from the wolves.", "  Did I give them a biscuit and they let me go?", "  Or did I cover myself in a magic cloak?  ...That kind of thing.\""], "voix": "ros", "ja": "…だから私が森を抜けて辿り着いたと言ったら、とても驚いていたわ。 どうやって、狼から逃れたのか、ビスケットを渡して許してもらったのか、 それとも魔法の外套を被って…、 なんて感じのことを言ってたっけ。」"}
+{"id": 154249, "en": ["\"Wahahaha.", "  ...That sure sounds like a witch.", "  What an interesting person.\""], "voix": "hid", "ja": "「わっはっはっは。 …そりゃあ、確かに魔女っぽいわなぁ。 面白いお人や。」"}
+{"id": 154256, "en": ["\"Quiet, dear.", "  ......This goes way back, ", "but didn't Father threaten us, saying we should never get near the forest because of the wolves that lived there?\""], "voix": "eva", "ja": "「あなた、黙って。 …………ずいぶん昔だけど、 お父様は、森には狼が住んでいるから近寄ってはならないって、私たちを脅さなかった？」"}
+{"id": 154264, "en": ["\"Yes, he did say something of the sort.", "  Ridiculous.", "  Even though Japanese wolves went extinct long ago.", "  Truly a trick to fool children.\""], "voix": "kla", "ja": "「あぁ、そんなこともあったな。 馬鹿らしいね。 日本の狼はとっくの昔に絶滅しているというのに。 まさに子供騙しだな。」"}
+{"id": 154272, "en": ["\"I don't remember though.", "  Did Dad really tell us something like that...?", "  It was the witch of the forest, right?", "  I don't think I've ever heard about wolves.\""], "voix": "rud", "ja": "「記憶にねぇなぁ？ 　そんな話、親父に聞かされたっけ…？ 　森には魔女だろ？ 　狼なんて話、聞いたことないぜ？」"}
+{"id": 154279, "en": ["\"This was when you were still in elementary school.", "  Don't you remember?"], "voix": "eva", "ja": "「あんたがまだ小学校だった頃よ。 覚えてない？"}
+{"id": 154285, "en": ["  Back then, you actually said you thought it'd be cool to try petting the wolves.", "  Father immediately gave up the wolf story and changed it to the story about the witch.", "  Seriously, what transparent lies they were, ahahahahaha.\""], "voix": "eva", "ja": "そしたらあんた、むしろ狼を撫でてみたいなんて言い出すもんだから。 お父様はすぐに狼の話を引っ込めて、魔女の話に切り替えたのよ。 もうそのウソっぽいことと言ったら、あっははははは。」"}
+{"id": 154292, "en": ["\"Hahahahah.", "  At the time, the witch story had a much more immediate effect on you, Rudolf, than the wolves.", "  I remember it well.", "  Don't you remember those nights when you clung to my back?\""], "voix": "kla", "ja": "「はっはっはっは。 当時の留弗夫には、狼よりも魔女の話の方が覿面だったね。 よく覚えているよ。 私の背中にしがみ付いた夜があったことを覚えているかね？」"}
+{"id": 154300, "en": ["\"...*giggle*", "  I see, so even Rudolf-san used to be that cute.\""], "voix": "kir", "ja": "「…くす。 留弗夫さんにも、そんな可愛らしい時代があったのね。」"}
+{"id": 154307, "en": ["\"Shut up.", "  I was just a kid.\""], "voix": "rud", "ja": "「うるせーなぁ。 子どもの頃の話だぜぃ。」"}
+{"id": 154315, "en": ["\"...Well, at any rate,", " if Father's the one who shut Beatrice up in there, it makes sense that he'd use the same story about wolves.", "  To him, the vast forest of Rokkenjima was a wall that shouldn't be crossed, dividing his two incompatible worlds: ", "the Ushiromiya family and his mistress's mansion.\""], "voix": "kir", "ja": "「……ま、とにかく。 ベアトリーチェを閉じ込めていたのがお父さんなら、同じ狼の話をするのは道理ね。 彼にとって六軒島の広大な森は、右代宮家と愛人の屋敷という、 相容れない二つの異世界を分断する、越えてはならない壁だったのだから。」"}
+{"id": 154323, "en": ["\"Considering the height of that fence, it does sound as though Father turned that whole area, garden and all, into a giant jail cell.", "  ...Just like a border dividing his two separate worlds.\""], "voix": "kla", "ja": "「柵の高さを考えると、どうやら親父殿は、庭ごと丸々を座敷牢にしたようだな。 ……さながら、二つの世界を分ける国境も同然だったのだろう。」"}
+{"id": 154329, "en": ["\"...Wolves aside, could there have been some breed of stray dogs there at the time?", " Perhaps the fence was there to protect against those.\""], "voix": "nat", "ja": "「…狼はともかく、野犬の類でもいたのではありませんか？ 　その為の柵だったかも知れません。」"}
+{"id": 154337, "en": ["\"There aren't any wolves or stray dogs on Rokkenjima.", "  That fence was probably...", "a border between us and Beatrice.\""], "voix": "eva", "ja": "「六軒島に狼も野犬もいないわ。 その柵は兄さんや霧江さんの言うように、 ベアトリーチェと私たちの間の国境だったんでしょうね。」"}
+{"id": 154345, "en": ["\"But if she innocently believed that story about wolves, that's pretty...naive.", "  That's nothin' like what I'd expect a witch to do.\""], "voix": "hid", "ja": "「しかし、狼の話を素直に信じるなんて、何ちゅうか、純朴やなぁ。 わしの想像していた魔女とはずいぶん違う感じやで。」"}
+{"id": 154352, "en": ["\"...You're right.", "  I sensed that too.", "  ...She was very pompous, just like my image of a witch,", " ...but she was somehow very childish.", "  She was...how should I put it...too straightforward.", "  ...She gave me the impression that she didn't know anything about the world.\""], "voix": "ros", "ja": "「……そうね。 それは私も感じたわ。 …とても尊大で、確かに魔女のイメージ通りの人だったんだけど。 …どこかとても子どもっぽくて、 ……何て言うのか、素直過ぎるというか、 ……世間知らずな印象を受けたわ。"}
+{"id": 154357, "en": ["\"It was as though...she'd come from some fairy-tale land.", "  ...She really was a strange person.\""], "voix": "ros", "ja": "例えるなら、…本当におとぎの国の人みたいというか。 ……本当に不思議な人だったわ。」"}
+{"id": 154364, "en": ["\"...What happened after that?", "  ...Did you end up talking about Dad at all?\""], "voix": "rud", "ja": "「……それからどうしたんだ。 …親父の話とかは出たのか？」"}
+{"id": 154370, "en": ["\"Yes.", "  Once every few days, usually on an arranged day but sometimes suddenly, ", "Father would casually appear and they'd drink together, or else take a walk together or something.", "  She said she just happened to be alone on the day I visited.\""], "voix": "ros", "ja": "「えぇ。 何日かに一度、約束されている日もあれば、突然の日もあったそうだけど、 ふらりとお父様が訪れては、一緒にお茶を飲んだり、散歩したりしたんですって。 私が訪れたその日は、たまたま彼女ひとりだったと言っていたわ。」"}
+{"id": 154378, "en": ["\"I see.", "  An obvious mistress, you might say.", "  ...My, my.", "  I don't know how much younger she was, but good for Father.\""], "voix": "kla", "ja": "「なるほどな。 まさに愛人、といったところだ。 …やれやれ。 いくつ年下か知らんが、親父殿もやるね。」"}
+{"id": 154385, "en": ["\"...We can be sure this was no indecent relationship.\""], "voix": "nat", "ja": "「……如何わしい意味での交流はなかったと確信しています。」"}
+{"id": 154391, "en": ["\"Idiot, there's no way a lover's meeting between a man and a woman wouldn't have some sensuality."], "voix": "eva", "ja": "「馬鹿ね、男と女の逢瀬に色気がないはずないじゃなぁい。"}
+{"id": 154397, "en": ["  What happened next?", "  What did you talk about after that?\""], "voix": "eva", "ja": "それでどうしたの。 それから何の話を？」"}
+{"id": 154404, "en": ["\"......I'd already introduced myself, so I asked about her."], "voix": "ros", "ja": "「………私の自己紹介をしたので、逆に彼女のことを質問したわ。"}
+{"id": 154409, "en": ["  ...When I did, the atmosphere quickly grew depressing.", "  ...How should I put it...  She seemed to grow listless and lonely.", "  ...It was that same expression I saw on her face in the beginning.\""], "voix": "ros", "ja": "…そうしたら、急に雰囲気が落ち込んでしまったの。 ……何て言うのか、とても気だるそうな、寂しそうな。 …私が初めて彼女の顔を見た時に浮かべていたのと同じ表情だった。」"}
+{"id": 154415, "en": ["\"Well, she was his hidden mistress, after all.", "  If she just walked around wherever she liked, Mom might've found her.", "  ...I'll bet she was practically under house arrest.\""], "voix": "rud", "ja": "「まぁ、秘密の愛人だからな。 好き勝手に歩かれてお袋に見付かっちまったらコトだ。 ……きっと軟禁に近い状態だったろう。"}
+{"id": 154421, "en": ["\"Even though she had beautiful clothes, a beautiful mansion, and a garden, she must've felt pretty cramped.", "  I'll bet she had it rough.", "  ......And then?\""], "voix": "rud", "ja": "綺麗なドレスに綺麗な屋敷や庭があっても、さぞや窮屈な思いをしてたんだろうぜ。 そりゃ苦労もあったろうさ。 ………それで？」"}
+{"id": 154428, "en": ["\"She was definitely worried about something.", "  ...I remember feeling really sad myself,", " when I realized it wasn't something I could do anything about by talking to her.\""], "voix": "ros", "ja": "「彼女はきっと何か悩みがあった。 ……それを私に話したところで何の解決にもならない、というような雰囲気が読み取れて、 私もとても悲しかったのを覚えてる。"}
+{"id": 154434, "en": ["\"......She seemed to forget I was even there.", "  ...She gazed vaguely off into the distance...and was silent for a long, long time.", "  ...I thought I must've said something wrong,", " ...but it didn't seem to be the type of atmosphere where I could apologize, ", "...so I remained silent too for a long, long time, until she remembered I was there...\""], "voix": "ros", "ja": "………私と一緒にいることさえ忘れてしまったかのようで。 …遠くをぼんやり見ながら、ずっとずっと無言でいたわ。 …私はきっと失言してしまったに違いないと思ったんだけど、 ……謝罪の言葉すらも口にしていいような雰囲気じゃなくて…。 ……だから私も、彼女が私と一緒にいることを思い出してくれるまで、ずっとずっと黙ってた…。」"}
+{"id": 154442, "en": ["And then, ...she muttered unexpectedly."], "ja": "そしたら、……ふと彼女が呟いたの。"}
+{"id": 154457, "en": ["\"......Are there really no wolves beyond the fence?\""], "voix": "bea", "ja": "「………柵の向こうには、本当に狼などおらぬのか。」"}
+{"id": 154459, "en": ["\"...Huh?", "  Y-Yes, that's right.", "  I've never seen wolves, not even in a zoo.\""], "voix": "ros", "ja": "「…え？ 　は、はい。 狼なんて、動物園でも見たことないです。」"}
+{"id": 154469, "en": ["\"What is a zoo?\""], "voix": "bea", "ja": "「動物園とは何か。」"}
+{"id": 154471, "en": ["\"Ah, ...it's a place where they keep all kinds of animals.", "  They're full of rare animals like elephants and giraffes and pandas.\""], "voix": "ros", "ja": "「あ、…色んな動物が飼われているところです。 ゾウとかキリンとかパンダとか、珍しい動物がいっぱいいますよ。」"}
+{"id": 154478, "en": ["\".........", "...So, ...there aren't any wolves in a zoo?"], "voix": "bea", "ja": "「…………………………。 …動物園に、狼はいないのか。"}
+{"id": 154483, "en": ["  Then, umm, ...it might not be so scary.\""], "voix": "bea", "ja": "ならその、…怖くないかもしれんな。」"}
+{"id": 154486, "en": ["\"Even if there were wolves, all of the animals are put in cages, so it's safe.", "  That's why you can safely look at them and learn about them.\""], "voix": "ros", "ja": "「狼がいたとしても、動物はみんな檻に入ってますから安全です。 だから安心して見学できるんですよ。」"}
+{"id": 154491, "en": ["The mighty witch of the forest was apparently terrified of wolves."], "ja": "森の魔女ともあろうものが、どういうわけか狼は怖くて苦手みたいだった。"}
+{"id": 154492, "en": ["I remember it looked pretty funny to me, at the time."], "ja": "それが、何だかとても滑稽に見えたっけ。"}
+{"id": 154504, "en": ["\"......"], "voix": "bea", "ja": "「………………。"}
+{"id": 154506, "en": ["...How am I any different?\""], "voix": "bea", "ja": ":voicedelay 430^^…それは妾とどう違うのか？」"}
+{"id": 154508, "en": ["\"......Huh?\""], "voix": "ros", "ja": "「…………え？」"}
+{"id": 154512, "en": ["She didn't know about zoos."], "ja": "彼女は動物園のことも知らなかった。"}
+{"id": 154515, "en": ["I explained how fun zoos could be, ", "but it was very difficult for a person like her, who had never visited one, to understand..."], "ja": "私は動物園が、如何に楽しいところかを説明するのだが、 一度も行ったことのない彼女にそれを理解してもらうのはとても難しいことだった…。"}
+{"id": 154518, "en": ["On the contrary, as I explained it to her, her expression grew increasingly dismal."], "ja": "それどころか、それを説明する内に、彼女の表情はどんどん灰色になっていく。"}
+{"id": 154522, "en": ["...She couldn't see the difference."], "ja": "…彼女には区別が付かなかったのだ。"}
+{"id": 154523, "en": ["Apparently, even though she lived in an elegant mansion that was surrounded by a high fence and seemed to lack for nothing,", " she couldn't see how she was any different from animals shut up in cages..."], "ja": "高い柵に囲まれたこのお屋敷で、一見不自由なく優雅に過ごしながらも、 檻に閉じ込められた動物たちとどう違うのか、区別がつかないようだった…。"}
+{"id": 154531, "en": ["\"Who am I?", "  ...Everyone calls me Beatrice.", "  ...And that does indeed seem to be the name of a great witch, as you say.\""], "voix": "bea", "ja": "「妾は何者なのか。 ……皆は私のことをベアトリーチェと呼ぶ。 …それは確かに、そなたの言うように、偉大な魔女の名前らしい。"}
+{"id": 154536, "en": ["\"...But that isn't me.", "  I cannot use any magic.", "  ...I simply have the soul of that witch sealed inside my body.\""], "voix": "bea", "ja": "……しかし、それは妾ではないのだ。 妾には魔法など何も使えぬ。 ……妾はその魔女の魂をこの身に封じられているだけなのだ。」"}
+{"id": 154540, "en": ["\"......?\""], "voix": "ros", "ja": "「………………？」"}
+{"id": 154545, "en": ["There was definitely something odd about her."], "ja": "彼女はやっぱりどこか不思議な人だった。"}
+{"id": 154546, "en": ["Beyond just being cut off from the world,", " it seemed she truly believed that magic exists."], "ja": "どこか世間ズレしているだけじゃなく、 本当に魔法というものが実在すると信じているようだった。"}
+{"id": 154553, "en": ["I think she talked about lots of weird things, but I don't remember the details."], "ja": "色々と不思議な話を聞かされた気がするけれど、細かくは覚えていないわ。"}
+{"id": 154558, "en": ["All I thought was that..."], "ja": "ただ私が思ったのは、"}
+{"id": 154560, "en": ["this might be a person to be pitied."], "ja": "^^!d700……この人は、可哀想な人かもしれないということ。"}
+{"id": 154562, "en": ["She was unable to leave this mansion of her own free will, a prisoner without even realizing it."], "ja": "彼女はこのお屋敷の中から自分の意思で出ることもできない、自覚なき囚人だった。"}
+{"id": 154565, "en": ["...And she didn't know anything about the outside world, didn't even understand who she was."], "ja": "……そして外の世界について何も知らず、自分が何者かであるさえ理解できていなかった。"}
+{"id": 154568, "en": ["...She probably vaguely realized that she was to be pitied."], "ja": "……多分、彼女も自分が不憫であることを、薄っすらと理解している。"}
+{"id": 154571, "en": ["But since she didn't know anything, she seemed incapable of recognizing her own unhappiness."], "ja": "でも、あまりに何も知らなくて、それが不幸であることにも気付けていないようだった。"}
+{"id": 154576, "en": ["Long ago, when I told Nee-san that I felt sorry for a bird in a cage, she said this:"], "ja": "昔、篭の中の小鳥を可哀想だと姉さんに言ったら、こう言ったわよね。"}
+{"id": 154579, "en": ["`A bird that only knows about the inside of the cage doesn't long for the outside'."], "ja": "“篭の中しか知らない鳥は、外に憧れたりしない”って。"}
+{"id": 154584, "en": ["But this wasn't a bird."], "ja": "でも、彼女は鳥じゃない。"}
+{"id": 154585, "en": ["She really was a person."], "ja": "やっぱり、人間だった。"}
+{"id": 154586, "en": ["Even if she'd never been outside the cage, she understood that there was more to the world."], "ja": "篭の中にしかいなくても、それが世界の全てじゃないって、理解していた。"}
+{"id": 154591, "en": ["So, "], "ja": "だから、"}
+{"id": 154593, "en": ["......I invited her."], "ja": "^^!d800………私は誘ったの。"}
+{"id": 154601, "en": ["\"Do you want to try..."], "voix": "ros", "ja": "「柵の外へ、"}
+{"id": 154603, "en": ["...going outside the fence?\""], "voix": "ros", "ja": ":voicedelay 1130^^……出てみますか？」"}
+{"id": 154613, "en": ["\"......Th-There really aren't any wolves?\""], "voix": "bea", "ja": "「………ほ、本当に狼はいないのか。」"}
+{"id": 154615, "en": ["\"There aren't.", "  You'll definitely be safe.\""], "voix": "ros", "ja": "「いないですよ。 絶対平気ですから。」"}
+{"id": 154622, "en": ["\"............", "...I want to leave."], "voix": "bea", "ja": "「…………………………。 ……出たいぞ。"}
+{"id": 154627, "en": ["  But the gate is always closed.\""], "voix": "bea", "ja": "だが、いつも門は閉まっている。」"}
+{"id": 154631, "en": ["\"There's the place I came in through.", "  It's got a crack you can slip through.\""], "voix": "ros", "ja": "「私が入ってきたところがあります。 潜り抜けられる隙間があるんです。」"}
+{"id": 154641, "en": ["\"...If we go through there, will there be a world outside?\""], "voix": "bea", "ja": "「……そこを抜ければ、外の世界があるのか。」"}
+{"id": 154643, "en": ["\"Yes.\""], "voix": "ros", "ja": "「はい。」"}
+{"id": 154653, "en": ["\".........There really aren't any wolves?\""], "voix": "bea", "ja": "「……………………狼は本当にいない？」"}
+{"id": 154655, "en": ["\"*giggle*", "  Right, there aren't any.\""], "voix": "ros", "ja": "「くす。 はい、いませんよ。」"}
+{"id": 154662, "en": ["\"............\""], "voix": "bea", "ja": "「…………………………。」"}
+{"id": 154669, "en": ["I'd only planned on inviting her to go on a short walk,", " ...but she kept looking over her shoulder at the mansion, as though she was seriously worrying over the decision."], "ja": "私は、ちょっとした散歩に誘うくらいのつもりでいたけど。 …彼女は何度かお屋敷に振り返り、真剣に迷っているようだった。"}
+{"id": 154672, "en": ["Then, I learned what she was preparing herself for."], "ja": "そして、その覚悟の意味を知る。"}
+{"id": 154678, "en": ["\"......I...have had enough of this place.", "  ...I want to go...outside.", "  And I want to know...who I am, what's happening in this world,", " ...and why I was born.\""], "voix": "bea", "ja": "「……………妾は、もうここは嫌だ。 ……外へ、出たい。 そして妾が何者で、この世界はどうなっていて。 …妾は何のために生まれてきたのかを、知りたい。」"}
+{"id": 154685, "en": ["I didn't know what her life had been like before then."], "ja": "彼女がここでどんな生活を送ってきたかはわからない。"}
+{"id": 154686, "en": ["It was probably something she couldn't express easily."], "ja": "そして、それは彼女にとって、一言では言い表せないものだったのだろう。"}
+{"id": 154690, "en": ["If it was harsh, she just had to say she wanted to escape."], "ja": "辛いものだったなら、ここを逃げたいと一言、言えばいい。"}
+{"id": 154691, "en": ["If it was sweet, she just had to say she'd stay."], "ja": "甘いものだったなら、ここにまだ居ると一言、言えばいい。"}
+{"id": 154694, "en": ["For example, ", "maybe it was like how a hot fireplace on a winter day makes the air get thicker and thicker, giving you a headache..."], "ja": "それは例えるなら、 冬の日の暖かな暖炉が、少しずつ空気を澱ませて頭痛を感じさせるようなもの…？"}
+{"id": 154697, "en": ["Even though you know you shouldn't keep things the way they are, you still need courage to open the window and be tormented by the cold wind..."], "ja": "このままここに居続けてはいけないと知りつつも、窓を開け寒風に身を苛むには、なお勇気が必要なのだ…。"}
+{"id": 154703, "en": ["She was starting to realize that she couldn't stay there forever."], "ja": "彼女は、いつまでもここにいてはいけないと気付き始めていた。"}
+{"id": 154704, "en": ["She was starting to realize that she had to go outside someday."], "ja": "いつかは外へ出なくてはならないと気付き始めていた。"}
+{"id": 154707, "en": ["But, since she didn't know about the outside world,", " she must have needed courage to take that unspeakable first step outside..."], "ja": "でも、外の世界のことを知らない彼女にとって、 外へ踏み出す第一歩は想像を絶する勇気が必要だったに違いない…。"}
+{"id": 154714, "en": ["And despite that, she had made her decision."], "ja": "その上で、彼女は決意した。"}
+{"id": 154715, "en": ["She'd voiced her decision to go outside, a decision she was probably making for the first time in her life."], "ja": "外へ出たいと、きっと生まれて初めてに違いない決意を、口にしたのだ。"}
+{"id": 154720, "en": ["...I hesitated for a moment."], "ja": "…私は少しだけ戸惑った。"}
+{"id": 154721, "en": ["Father had decided that she should live here."], "ja": "彼女は、お父様によってここに住まうよう決められている。"}
+{"id": 154722, "en": ["She was like Father's beloved bird in a cage."], "ja": "例えるなら、彼女はお父様が愛でる篭の中の小鳥。"}
+{"id": 154725, "en": ["If I just let her escape,", " ...Father might scold me harshly..."], "ja": "私が勝手に逃がしてしまったら、 ……私はお父様にひどく叱られるのではないか…。"}
+{"id": 154733, "en": ["\"I want to see.\""], "voix": "bea", "ja": "「見たい。」"}
+{"id": 154735, "en": ["\"......Hmm?", "  See what?\""], "voix": "ros", "ja": "「………え？ 　何を？」"}
+{"id": 154744, "en": ["\"I want to see...a zoo.\""], "voix": "bea", "ja": "「動物園が、見たいのだ。」"}
+{"id": 154746, "en": ["\".........Ah.\""], "voix": "ros", "ja": "「…………………ぁ。」"}
+{"id": 154750, "en": ["I was just a little surprised when she finally gave me a gentle smile."], "ja": "彼女が、ようやく、とてもやわらかい笑顔を見せてくれたので、ちょっぴりだけ驚いてしまった。"}
+{"id": 154754, "en": ["Could that have been...", "a farsightedness brought about by her decision to venture out from her cage?"], "ja": "それはひょっとすると、 …篭より旅立つ覚悟ができたからこその、達観なのか。"}
+{"id": 154755, "en": ["It was a smile so gentle, I couldn't imagine that it had come from that once dark face..."], "ja": "それまでの暗い顔からは想像もつかないくらい、やわらかい笑顔だった…。"}
+{"id": 154761, "en": ["\"...When I speak with you, I keep hearing about things I don't know.", "  ...I don't even know about this thing called school, nor do I know about zoos.", "  I don't know about movie theaters.", "  I don't know about amusement parks."], "voix": "bea", "ja": "「……そなたと話すと、知らないことばかり出てくる。 …妾は、学校なるものもわからぬし、動物園も知らぬ。 映画館も知らぬ。 遊園地も知らぬ。"}
+{"id": 154766, "en": ["  ......And I feel, from the bottom of my heart, that I want to know about those things.", "  ...Will you take me to see them?\""], "voix": "bea", "ja": "………そしてそれを知りたいと、心の底から思う。 …そなたは、妾をそこへ連れて行ってくれるのか？」"}
+{"id": 154770, "en": ["\"Huh?  ...Y-Yes.\""], "voix": "ros", "ja": "「え、……う、うん。」"}
+{"id": 154774, "en": ["...I was nervous about how I could keep it a secret from Father,", " ...but her face looked so happy, so I went along with her and nodded."], "ja": "…お父様に内緒でどうやって、という疑問は沸いたけど、 …彼女があまりに嬉しそうに笑うものだから、私は調子を合わせて頷いてしまう。"}
+{"id": 154778, "en": ["But she seemed not to notice the meaning behind my vague smile."], "ja": "でも、彼女には私のそんな曖昧な笑顔の意味は伝わらないようだった。"}
+{"id": 154779, "en": ["She seemed to believe that I'd really take her to all those places."], "ja": "ここを出れば、私が本当にそれらへ連れてってくれると、信じたようだった。"}
+{"id": 154784, "en": ["She was pure and genuine."], "ja": "無垢で、純粋だった。"}
+{"id": 154785, "en": ["...She'd probably never been tricked by anyone."], "ja": "……多分、誰からも騙されたことがないのだ。"}
+{"id": 154786, "en": ["No, ...maybe it's better to say that she'd never learned how to doubt."], "ja": "いや、……疑うことを教えられなかったとでも言うべきなのか。"}
+{"id": 154790, "en": ["Her smile was somehow radiant...and yet pathetic."], "ja": "そんな笑顔が何だか眩しくて、だけれども痛々しくて。"}
+{"id": 154791, "en": ["...I wanted to find a way to grant her modest wish."], "ja": "…私は何とか彼女のささやかな願いを叶えてあげたいと思った。"}
+{"id": 154797, "en": ["\"I...have had enough of Beatrice.", "  I want to know who I am.", "  I want to start out as a new human, not Beatrice."], "voix": "bea", "ja": "「妾は、…もうベアトリーチェは嫌だ。 妾が何者なのか、知りたい。 ベアトリーチェではない、新しい人間を始めたい。"}
+{"id": 154802, "en": ["  So, I want you to take me away from here.", "  ......I don't need tea anymore.", "  I don't need this dress.", "  I won't meet with Kinzo again.", "  ...Please, take me from here, ", "Rosa.\""], "voix": "bea", "ja": "だから、ここから連れ出して欲しい。 ………もう、紅茶もいらぬ。 ドレスもいらぬ。 金蔵とも二度と会わぬ。 ……ここより妾を連れ出してくれ。 楼座。」"}
+{"id": 154806, "en": ["However, that responsibility was one that a child like me couldn't hope to fully bear."], "ja": "でもそれは、まだまだ子どもの私には到底背負いきれぬ責任。"}
+{"id": 154810, "en": ["Still, when I saw her serious gaze, along with that brilliant smile that made it look as though a possessing spirit had left her,", " ...I could feel a little courage start to rise up inside me."], "ja": "だけど、彼女の真剣な眼差しと、 …まるで憑き物が落ちたような晴れ晴れしい笑顔を見ていると、 ……私の中にも小さな勇気が沸いて来るのを感じた。"}
+{"id": 154814, "en": ["This was definitely something that would get me into a lot of trouble.", "  ...And yet, it was definitely the right thing to do."], "ja": "きっとこれは、とても怒られることに違いない。 ……でも、きっとこれは正しいことに違いなかった。"}
+{"id": 154820, "en": ["I don't know how it'll turn out, "], "ja": "^^!s0　どうなるかはわからないけれど……、"}
+{"id": 154822, "en": ["...but I'll take her away from here."], "ja": "^^!d1200……彼女を連れ出そう。"}
+{"id": 154832, "en": ["Of course, I won't be able to talk to Father, and not Mother either."], "ja": "お父様はもちろん、お母様にも相談できないだろう。"}
+{"id": 154836, "en": ["......Should I talk to Onii-sama or Onee-sama?"], "ja": "………お兄様かお姉様に相談を？"}
+{"id": 154837, "en": ["No, what about that reliable Genji-san...", "or, that's right, what about Kumasawa-san, to whom I can always talk when I'm in trouble."], "ja": "うぅん、頼りになる源次さんか、 …そうだ、困った時はいつも相談に乗ってくれる熊沢さんはどうだろう。"}
+{"id": 154840, "en": ["I'm sure they'll be able to do something."], "ja": "きっと何とかしてくれるに違いない。"}
+{"id": 154846, "en": ["Anyway, for now, I'll take her out of here."], "ja": "今はとにかく、ここから連れ出してあげよう。"}
+{"id": 154847, "en": ["This was already a place she didn't want to be."], "ja": "彼女にとって、もはやここは望まざる場所なのだから。"}
+{"id": 154853, "en": ["...So, I took her to the crack in the fence and led her outside."], "ja": "……そして、私は柵の隙間から彼女を外へ連れ出したの。"}
+{"id": 154858, "en": ["She was all nervous, checking to make sure there were no wolves around,", " but once that fear disappeared, ", "even just walking around this dense forest seemed to be fun somehow."], "ja": "彼女は狼がいないかとびくびくしていたけど、 その怯えがなくなってからは、 うっそうとした森の中をただ歩くだけでも、どこか楽しそうだった。"}
+{"id": 154863, "en": ["Every time she found something, she'd ask me about it."], "ja": "彼女は何かを見つける度に私にそれを尋ねたわ。"}
+{"id": 154864, "en": ["And they were all really trivial things."], "ja": "それは本当にささやかな何かばかりだった。"}
+{"id": 154869, "en": ["...What's that flower?"], "ja": "……あの花は何？"}
+{"id": 154875, "en": ["What's that leaf?"], "ja": "あの葉っぱは何？"}
+{"id": 154881, "en": ["And that sound?", "  And that smell?"], "ja": "あの音は？ 　あの匂いは？"}
+{"id": 154884, "en": ["It really was like the inside of that fence had been her entire world."], "ja": "彼女にとって、…本当にあの柵の内側だけが唯一の世界だったのよ。"}
+{"id": 154887, "en": ["So, now that she'd traveled beyond the limits of her world......"], "ja": "だから、世界の外側に出た彼女にとっては、…………。"}
+{"id": 154891, "en": ["...It's strange."], "ja": "……おかしなものね。"}
+{"id": 154892, "en": ["When I first saw her, I really thought she was the witch herself, relaxing inside the witch's mansion."], "ja": "私は最初、彼女のことを見た時、魔女の館でくつろぐ魔女そのものだと思っていた。"}
+{"id": 154896, "en": ["But now, it was different.", "  Or actually, the complete opposite."], "ja": "でも、今は違った。 むしろ正反対。"}
+{"id": 154897, "en": ["...She'd left a world she'd believed to be finite...and was overjoyed at the realization that the world was endless, something she'd never thought of before."], "ja": "……有限だと信じていた世界の外に出て、初めて世界が無限だと知った喜びでいっぱい。"}
+{"id": 154904, "en": ["So everything she saw was new."], "ja": "だから目に入るもの全てが新しい。"}
+{"id": 154905, "en": ["...It was almost as though she was the one who had been thrown into a fairy tale."], "ja": "……まるで、彼女の方がおとぎの国に迷い込んだかのよう。"}
+{"id": 154908, "en": ["If she was Alice, then I felt almost like a rabbit holding a watch..."], "ja": "彼女がアリスなら、私はまるで時計を持ったウサギのような気分だったっけ……。"}
+{"id": 154914, "en": ["To her, it was probably a really fun walk, filled to the brim with excitement."], "ja": "彼女にとっては、そんなとても楽しい、刺激に満ち溢れた散歩だったろうけれど。"}
+{"id": 154915, "en": ["...But I was actually at a loss at what to do."], "ja": "…私は実は途方に暮れていた。"}
+{"id": 154919, "en": ["...After all, I walked randomly to get there."], "ja": "……なぜなら、ここへはでたらめに歩いてやってきたから。"}
+{"id": 154920, "en": ["Of course I didn't know the way back to our mansion."], "ja": "だから、お屋敷への帰り道などわかるはずもなかった。"}
+{"id": 154926, "en": ["There were no lights in the forest, and I hadn't brought a flashlight."], "ja": "森の中には灯りはないし、懐中電灯だって持っていない。"}
+{"id": 154927, "en": ["I realized it would be terrible if it got dark while we were still like this...and grew impatient."], "ja": "このまま暗くなったら大変なことになるだろうと気付き、焦ったわ。"}
+{"id": 154930, "en": ["She was too innocent,", " and apparently, she couldn't understand at all how frightening it would be to face the night inside the forest."], "ja": "彼女は無邪気すぎて、 森の中で夜を迎えてしまうことがどれほど恐ろしいか、まったく理解できていないようだった。"}
+{"id": 154934, "en": ["But I was the one who brought her outside."], "ja": "でも、外へ連れ出したのは私。"}
+{"id": 154935, "en": ["...I had to take responsiblity somehow and resolve this situation."], "ja": "…何とか責任を持って、この事態を解決しなくちゃ。"}
+{"id": 154939, "en": ["So, I had a thought.", "  ...Let's go out to the ocean for now."], "ja": "だから考えたの。 ……とにかく海へ出ようって。"}
+{"id": 154940, "en": ["If we then follow the beach around, we should eventually make it back to the mansion."], "ja": "そして海岸に沿って回れば、いつか必ず屋敷に戻れるはず。"}
+{"id": 154946, "en": ["However, that was much more of a problem than I'd imagined."], "ja": "しかし、それは想像するより大変なことだったわ。"}
+{"id": 154947, "en": ["...I didn't have a map or a compass."], "ja": "…何しろ、私には地図もコンパスもない。"}
+{"id": 154950, "en": ["There was no way I could walk in a straight line through an uncultivated forest, and I immediately lost my sense of direction."], "ja": "未開の森はまっすぐ歩けるはずなどなく、方向感覚などすぐに失ってしまった。"}
+{"id": 154955, "en": ["I already had no clue which trail I had come by...and was completely lost..."], "ja": "自分の来た道がどれだったか、もうさっぱりわからず、完全に迷ってしまっていたの…。"}
+{"id": 154956, "en": ["At this rate, night would definitely fall before I had a clue where to walk."], "ja": "このままでは、どこを歩いているかもわからないまま、夜を迎えてしまうに違いなかったわ。"}
+{"id": 154960, "en": ["But this was no time to cry."], "ja": "でも、泣き言なんて言っていられない。"}
+{"id": 154961, "en": ["After all, that woman following behind me was so innocent and having so much fun.", "  ...So, I definitely had to lead the way through this forest, ", "for the sake of her smile as well."], "ja": "だって、後についてくる彼女はこんなにも無邪気で楽しそう。 …だからこそ、私は彼女の笑顔のためにも、 絶対にこの森の外へ案内してあげなければならないのだ。"}
+{"id": 154964, "en": ["Gritting my teeth so that she didn't see me looking troubled,", " I pushed my way through the woods, advancing down a path that wasn't a path."], "ja": "辛い顔を彼女に見せまいと歯を食いしばり、 私は林を掻き分けながら道なき道を進んだわ。"}
+{"id": 154973, "en": ["Then, after going through various troubles, I fortunately managed reach the ocean..."], "ja": "そして、色々と苦労したけれど、幸いにも海に出ることができた…。"}
+{"id": 154976, "en": ["At that time, I still didn't even have a clue where I was on the island,", " but for the time being, I was just a little reassured, ", "realizing that if I just went around this way, I would surely be able to return to the mansion."], "ja": "今、島のどこにいるのかは、相変わらず見当もつかなかったけれど、 とにかく、こちら回りに進めば、必ずお屋敷へ帰れるとわかって、ちょっとだけ安心したわ。"}
+{"id": 154981, "en": ["However, though I had reached the ocean, we were at the top of a rock cliff.", "  The beach was far below us."], "ja": "もっとも、海に出たといっても、私たちは岩壁の上にいた。 海岸はずっと下だったわ。"}
+{"id": 154984, "en": ["I was tired from walking around the forest for so long,", " so I figured that an open area, even a rocky beach, would probably be much easier to walk in."], "ja": "私はずっと森の中を歩いていて疲れていたから、 たとえ岩浜であっても、開けた場所の方がずっと歩きやすいだろうと考えた。"}
+{"id": 154989, "en": ["So, I suggested that we go down that rocky cliff somehow."], "ja": "だから、何とかして岩壁を降りようと提案したの。"}
+{"id": 154990, "en": ["...It looked pretty dangerous, but I figured there was no other way."], "ja": "…一応、危なそうだったし、他に案はないかと思って。"}
+{"id": 154993, "en": ["However, Beatrice agreed to my plan without any doubts."], "ja": "でも、ベアトリーチェは私の提案に何の疑いもなく頷いた。"}
+{"id": 154996, "en": ["...Even though she was probably older than me,", " ...she meekly obeyed, almost as though she were some kind of chick who thought I was her mother."], "ja": "……歳は向こうの方が上だろうに、 …まるで私を親鳥だと信じるアヒルか何かの雛のように、本当に素直に従ったわ。"}
+{"id": 155002, "en": ["I searched to see if there was some part of the cliff I'd be able to get down."], "ja": "私は岩壁を降りられる場所がないか探した。"}
+{"id": 155003, "en": ["...Then, I found a place where the cliff had fallen over and made a slope."], "ja": "…そして、崖が崩れて斜面を作っているところを見つけたの。"}
+{"id": 155006, "en": ["...It looked a little dangerous,", " but if I went down using both hands and both legs, like I was crawling, I thought it'd probably be okay."], "ja": "……ちょっと危なそうだけど、 両手両足でしっかり這うようにして降りれば、多分大丈夫だと思った。"}
+{"id": 155012, "en": ["\"...Let's go down here.", "  It'll be dangerous if we aren't careful,", " but if we go down to the beach and walk along it, I don't think we'll have to worry about being lost anymore.\""], "voix": "ros", "ja": "「……ここを降りましょう。 気をつけないと危ないけど、 とにかく海岸に下りて、あとは沿って歩けば、もう迷わずに済むと思うの。」"}
+{"id": 155018, "en": ["\"Indeed.", "  If that's what you're doing, I'll go too.", "  Even getting lost is fun for me.", "  Quite amusing.\""], "voix": "bea", "ja": "「うむ。 楼座がそうするのならそうしようぞ。 妾は迷うとやらも楽しいぞ。 とても愉快だ。」"}
+{"id": 155022, "en": ["......She really had no sense of danger."], "ja": "………彼女には本当に危機感というものがなかった。"}
+{"id": 155023, "en": ["There was probably no doubt that she'd lived a life without discomfort."], "ja": "何不自由ない生活をしてきたのは間違いないだろう。"}
+{"id": 155026, "en": ["Even though she knew it would get dark when night fell,", " she couldn't imagine how dangerous the inside of a forest could be without a light."], "ja": "夜になったら暗くなるのはわかっていても、 灯りのない森の中がどれだけ危険か、想像が及んでいないのだ。"}
+{"id": 155029, "en": ["Furthermore, it seemed that she couldn't grasp at all how dangerous it might be if she fell from the cliff."], "ja": "ついでに、崖から転げ落ちたらどれだけ危ないかも、想像がまったく及んでいないようだった。"}
+{"id": 155032, "en": ["I warned her repeatedly to be careful."], "ja": "私は重ねて注意を促す。"}
+{"id": 155042, "en": ["I cautiously examined our potential route down."], "ja": "私は慎重に降りられる場所を窺った。"}
+{"id": 155043, "en": ["...It seemed to be...quite a long drop."], "ja": "…高さは、……相当高く見えたわ。"}
+{"id": 155044, "en": ["I think it might've been about 10 meters down."], "ja": "多分１０ｍくらいはあったんじゃないかと思う。"}
+{"id": 155047, "en": ["If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion."], "ja": "下から見ればきっと、お屋敷の屋根よりも低かったのかもしれないわね。"}
+{"id": 155048, "en": ["But looking from the top, it felt almost like staring down from the observation room on Tokyo Tower."], "ja": "でも、上から見たら、まるで東京タワーの展望室から眼下を見下ろすような気分だった。"}
+{"id": 155052, "en": ["But Beatrice still appeared to be completely without fear."], "ja": "でも、ベアトリーチェは相変わらず、全然怖がっている様子がなかったわ。"}
+{"id": 155053, "en": ["...It felt as though she had never even been taught that high places were dangerous."], "ja": "…まるで、高いところは危ないということすら教えられていなかったような感じ。"}
+{"id": 155056, "en": ["...No, maybe she believed that she was a witch...", "and that she could fly, so there wasn't any need to worry."], "ja": "……いえ、彼女は自分が魔女だと信じていて、 空が飛べるから危なくないと本当に信じていたのかもしれない。"}
+{"id": 155066, "en": ["\"Please be careful.", "  ...We're...pretty high up.\""], "voix": "ros", "ja": "「気をつけてくださいね。 …結構、高いから。」"}
+{"id": 155075, "en": ["\"Indeed.", "  I shall be careful.", "  It looks like we can get to the ocean if we go down.", "  Is there an aquarium there?\""], "voix": "bea", "ja": "「うむ。 気をつけるぞ。 下へ降りたら、海があるな。 そこに水族館があるのか。」"}
+{"id": 155077, "en": ["\"No, there aren't any aquariums on this island.", "  But there should be lots of fish in the sea.\""], "voix": "ros", "ja": "「いえ、この島には水族館はないですよ。 でも海にはたくさんの魚がいると思います。」"}
+{"id": 155086, "en": ["\"I see.", "  So there are fish.", "  Are there...umm, whales and dolphins and penguins, like you talked about?\""], "voix": "bea", "ja": "「そうか。 魚はいるのか。 そなたが話してくれた、…えぇと、クジラとかイルカとかペンギンとかはいるのか。」"}
+{"id": 155088, "en": ["\"No, you'd have to go to an aquarium for those.", "  ...And you'd have to leave this island to find an aquarium.\""], "voix": "ros", "ja": "「いえ、そういうのは水族館に行かないといないです。 ……水族館は島を出ないとないですよ。」"}
+{"id": 155097, "en": ["\"Is that so?", "  ...Well, I'm looking forward to it.", "  What kind of fish are whales?\""], "voix": "bea", "ja": "「そうなのか。 ……だが楽しみだ。 クジラとはどんな魚なのか。」"}
+{"id": 155099, "en": ["\"Umm, ...they're really big fish...huh, aren't they mammals?", "  And they spit seawater into the air.\""], "voix": "ros", "ja": "「えっと、…すっごく大きな魚で、あれ、哺乳類かな？ 　それで潮を吹いたりします。」"}
+{"id": 155108, "en": ["\"Hoh.", "  And dolphins?\""], "voix": "bea", "ja": "「ほう。 ならばイルカは。」"}
+{"id": 155110, "en": ["\"Umm, they're really smart fish, and...oh, weren't they also mammals?", "  They're really smart and can be taught tricks and stuff.\""], "voix": "ros", "ja": "「えっと、頭のいい魚で、あれ…、これも哺乳類だっけ？ 　とても頭が良くて芸とかを覚えられるんですよ。」"}
+{"id": 155119, "en": ["\"Hohhoh.", "  Then what about penguins?\""], "voix": "bea", "ja": "「ほほぅ。 ならばペンギンはどうなのか。」"}
+{"id": 155121, "en": ["\"Umm, ...uh, weren't they birds...?\""], "voix": "ros", "ja": "「えっと、…あれ、これは鳥類だっけ…。」"}
+{"id": 155127, "en": ["\"What's going on?", "  We're talking about aquariums, but none of these things seem to be fish...\""], "voix": "bea", "ja": "「何だ。 水族館なのに、さっきから魚が出てこんぞ？」"}
+{"id": 155131, "en": ["\"Ummm, uhhh...", "  Well, um, there aren't just fish.  It's full of all kinds of things that live in the ocean.\""], "voix": "ros", "ja": "「えーとえーと…。 ま、その、魚だけでなく、色々な海の生き物がいっぱいいるんですよ。」"}
+{"id": 155137, "en": ["\"Hohhoh.", "  I really am looking forward to that..."], "voix": "bea", "ja": "「ほほぅ。 それはとても楽しみだっ。"}
+{"id": 155142, "en": ["......nn-\""], "voix": "bea", "ja": "………ん、」"}
+{"id": 155149, "en": ["Wah, hyaa."], "voix": "bea", "ja": "^^!s0　わ、ひゃっ。"}
+{"id": 155164, "en": ["She let out what might've been a funny, "], "ja": "彼女が聞きようによっては滑稽な、"}
+{"id": 155166, "en": ["...rushed and short cry..."], "ja": "^^!d800…慌てた短い声、"}
+{"id": 155168, "en": ["no, it was probably a scream."], "ja": "^^!d1000…いえ、多分それは悲鳴だったのかも。"}
+{"id": 155171, "en": ["It came right out of the blue."], "ja": "そんな声を唐突にあげた。"}
+{"id": 155175, "en": ["...Her body separated from the cliff...and silently fell."], "ja": "……彼女の体が岩壁から離れて、すぅっと落ちていった。"}
+{"id": 155179, "en": ["I immediately wanted to say something to her."], "ja": "私はすぐに言おうと思ったわ。"}
+{"id": 155180, "en": ["I wanted to say `Didn't I tell you to be more careful?!'"], "ja": "だからあれほど注意して下さいって言ったのに！って。"}
+{"id": 155184, "en": ["...It was the thought of a child."], "ja": "……子どもの考えよね。"}
+{"id": 155185, "en": ["It was how a child immediately gets mad when something bad happens, trying to find an excuse to show it wasn't their fault."], "ja": "何かが起こった時、真っ先にそれを怒ることで、自分に過失がないことを示そうとする言い逃れ。"}
+{"id": 155189, "en": ["Of course, I said it out loud."], "ja": "もちろん私も口にしたわ。"}
+{"id": 155190, "en": ["Are you okay?", "  Didn't I warn you over and over...?"], "ja": "大丈夫？ 　だからあれほど注意しなさいって……。"}
+{"id": 155218, "en": ["\".........So,", " ...she fell from the cliff, "], "voix": "rud", "ja": "「…………………それで。 …崖から落ちて、"}
+{"id": 155220, "en": ["...and then what?\""], "voix": "rud", "ja": ":voicedelay 1340^^…どうなったんだ。」"}
+{"id": 155228, "en": ["\".........\""], "voix": "ros", "ja": "「………………………。」"}
+{"id": 155235, "en": ["\"...What happened to her,", " ...Rosa?\""], "voix": "kla", "ja": "「……彼女はどうしたんだ。 …楼座。」"}
+{"id": 155242, "en": ["Rosa fell silent."], "ja": "楼座は沈黙する。"}
+{"id": 155243, "en": ["...Her gaze dropped to her feet, ...as though she were seeing through the floor into some disgusting memory..."], "ja": "…足元に目線を落とし、…床の向こうに、何かおぞましい記憶を透かし見ているようだった…。"}
+{"id": 155248, "en": ["\"She...died, didn't she...?\""], "voix": "eva", "ja": "「死んだ、のね……？」"}
+{"id": 155253, "en": ["Eva's brutal words were the ones Rosa had most wanted to avoid."], "ja": "絵羽のあまりに残酷なその一言は、楼座がもっとも避けたい一言だった。"}
+{"id": 155254, "en": ["And when she was hit with them, ...she screamed in resignation."], "ja": "そしてそれを突きつけられ、……観念したように叫ぶ。"}
+{"id": 155262, "en": ["\"Yes, she died!!", "  It was a rocky beach, with lots of sharp, dangerous rocks exposed!!", "  Her eyes were still open, and an incredible amount of blood kept pouring out, ...quickly spreading out until it looked like a red carpet...!"], "voix": "ros", "ja": "「えぇ、死んだわッ！！ 　岩浜だったもの、尖った危険な岩がたくさんむき出しになっていた！！ 　目を見開いたまま、すごい血が溢れ出して…たちまち真っ赤な絨毯を広げていった…！"}
+{"id": 155267, "en": ["I spoke to her, shook her!!", "  But she refused to respond, not even a blink...no, she wouldn't even close her eyelids!!", "  It was my fault!", "  She was wearing a dress, remember?!", "  Even though I knew her outfit was difficult to move in, I said we should go down the cliff!!", "  She was incredibly innocent, so she obeyed what I said without any doubts...!!\""], "voix": "ros", "ja": "声を掛けたわ、揺さぶったわ！！ 　でも、彼女は返事は愚か、瞬きすらも、……いえ、瞼を閉じることさえしてくれなかった！！ 　私が悪いのよ！ 　彼女はドレス姿だったのよ？！ 　あんな動きにくい格好なのを知っていたのに、私が岩壁を降りようなんて言ってしまったから！！ 　彼女はすごい素直だったから、私の言うことに何の疑いもせずに従って…！！」"}
+{"id": 155281, "en": ["\"...How long do you plan on remaining dead?", "  Open your eyes already.", "  Darn you, turning into a lump of meat all by yourself while I'm gone.\""], "voix": "bea", "ja": "「……いつまで死んでいるつもりか。 いい加減に目を覚ませ。 まったく、妾の与り知れぬところで勝手に肉塊に姿を変えおって。」"}
+{"id": 155292, "en": ["\"I was just flirting with your ass nee-chan friends."], "voix": "but", "ja": "「お前ぇのとこの太もも姉ちゃんとイチャついてただけだぜ。"}
+{"id": 155297, "en": ["  ...More importantly, what the heck's going on here?\""], "voix": "but", "ja": "……それより、こりゃどういうことだ。」"}
+{"id": 155303, "en": ["\"Well,", " as you can see, "], "voix": "bea", "ja": "「うむ。 見たままよ。"}
+{"id": 155311, "en": ["...I missed my footing, fell down,"], "voix": "bea", "ja": ":voicedelay 1250……妾は足を踏み外して転落し、"}
+{"id": 155313, "en": [" `and died'.\""], "voix": "bea", "ja": ":voicedelay 3030^^!s1“死んだ”。」"}
+{"id": 155327, "en": ["\"What the hell...?", "  ......Even though you showed up as the 19th person, "], "voix": "but", "ja": "「何だとぉ…。 ………１９人目として登場しておきながら、"}
+{"id": 155329, "en": ["...you were already dead...?\""], "voix": "but", "ja": ":voicedelay 2830^^……死んだだと……？"}
+{"id": 155334, "en": ["\"Don't mess with me, that's impossible...!", "  Aunt Rosa was a kid, and she was panicked.", "  And it's not like a doctor was there.", "  She probably just mistakenly thought you were dead, and you were probably...umm...alive and pretending to be dead or something.", "  Isn't that right?!\""], "voix": "but", "ja": "ふざけるな、そんなわけはない…！ 　楼座叔母さんは子どもだったし焦ってた。 医者がいたわけでもない。 多分、死んだと誤解しただけで、お前は多分その、……仮死状態か何かで生きていたんだ。 そうだろッ？！」"}
+{"id": 155342, "en": ["It can't be true."], "ja": "そんなはずはないんだ。"}
+{"id": 155343, "en": ["She's got to be alive."], "ja": "どうせ生きてるんだ。"}
+{"id": 155344, "en": ["Otherwise, how can she be here...?!"], "ja": "じゃなきゃこいつがここにいるわけがないじゃないか…！"}
+{"id": 155352, "en": ["...The kid-aged Aunt Rosa shook Beatrice's body, crying."], "ja": "…子ども時代の楼座叔母さんが、泣きながらベアトリーチェの体を揺さぶっている。"}
+{"id": 155357, "en": ["I stared into that face too, "], "ja": "俺もその顔を覗き込むが、"}
+{"id": 155359, "en": ["......but her eyes were still open, and it really was a corpse."], "ja": "^^!d700……………目は見開かれたままで、本当に死体そのもの。"}
+{"id": 155362, "en": ["...I wanted to dodge the issue by saying something vague, like `she must be playing dead',", " ...but no matter how I looked at it, it didn't look fake at all, ...it really did look like she was dead..."], "ja": "…仮死状態に違いないなんて曖昧なことで誤魔化したいが、 ……どう見ても、仮どころか、…本当に死んでいるようにしか見えない…。"}

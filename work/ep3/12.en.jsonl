@@ -1,0 +1,755 @@
+{"id": 186915, "en": ["\"...But as I am now, I do not have the power to bring Shannon's soul up through that gap.", "  ......However, you have strong feelings for Shannon, ", "and those feelings will surely become magic that can bring her soul out without fail.\""], "voix": "bea", "ja": "…だが、今の妾にはその隙間より紗音の魂を連れ出せるほどの力はない。 ………しかし、紗音のことを強く想うそなたなら、 その想いを魔力に変えて、彼女の魂を必ずや連れ戻せるだろう。"}
+{"id": 186920, "en": ["\"...What do you say?", "  Will you help me...?\""], "voix": "bea", "ja": "……どうだ。 妾を手伝うか…？」"}
+{"id": 186928, "en": ["\"...I will.", "  ......If Shannon's life will be restored, "], "voix": "geo", "ja": "「…手伝うとも。 ………紗音の命が蘇るなら、"}
+{"id": 186930, "en": ["...there's nothing I'm afraid to lose...!\""], "voix": "geo", "ja": ":voicedelay 1800^^……僕は何を失うことも恐れない……！」"}
+{"id": 186934, "en": ["George's fists shook in silence."], "ja": "譲治は静かに両の手を握り締め拳を振るわせた。"}
+{"id": 186943, "en": ["...Then, he slowly came to his senses."], "ja": "…そして意識がゆっくりと覚醒する。"}
+{"id": 186946, "en": ["He had been absent-mindedly standing near the window in the hall that whole time, his mug still in his hand..."], "ja": "彼は廊下の窓辺でマグカップを持ったまま、ずっと放心していたのだ…。"}
+{"id": 186954, "en": ["And..."], "ja": "すると……、"}
+{"id": 186956, "en": ["......the witch from his dream...was still there."], "ja": "^^!d500…………その夢の中の魔女は、……まだ、そこにいた。"}
+{"id": 186966, "en": ["\"Wh...What the...  ......I-It isn't...a dream......\""], "voix": "geo", "ja": "「そ、……そんな、………ゆ、夢じゃ、……ない………。」"}
+{"id": 186972, "en": ["\"...Be quiet.", "  I am very fragile now.", "  If any more Humans appear, I will not be able to preserve this form.", "  ...I shall grant your wish, so stay silent for now.", "  ...Understand?\""], "voix": "bea", "ja": "「……静かにせよ。 今の妾はとても脆い。 この上、さらに他のニンゲンまで現れたら姿を保ち切れぬ。 …そなたの願いは叶えるから、今は沈黙せよ。 …良いか？」"}
+{"id": 186978, "en": ["George covered his mouth with both hands, nodding enthusiastically several times."], "ja": "譲治は自らの口を両手で押さえ、何度も力強く頷いた。"}
+{"id": 186981, "en": ["In that instant, he almost dropped the mug he was holding."], "ja": "その拍子に、手に持っていたマグカップを落としそうになる。"}
+{"id": 186984, "en": ["George frantically juggled it around and caught it."], "ja": "譲治は慌ててそれをお手玉しながらキャッチする。"}
+{"id": 186989, "en": ["...He was afraid that if it fell to the floor and made a loud sound,", " the witch's form might disappear like a bubble popping."], "ja": "…もし、それを床に落として大きな音を立てたなら、 シャボン玉が弾けるように魔女の姿も消えてしまうかもしれないと恐れたのだ。"}
+{"id": 186995, "en": ["He softly set the mug on the floor...and stared at the witch in front of him again."], "ja": "床にそっとマグカップを置き、…正面の魔女をもう一度凝視する。"}
+{"id": 186998, "en": ["......Her form didn't disappear.", "  It wasn't a dream..."], "ja": "………姿は消えない。 夢ではないのだ……。"}
+{"id": 187004, "en": ["\"Come, let us go to the parlor where Shannon sleeps.", "  With the power of your feelings, we will bring back her soul.\""], "voix": "bea", "ja": "「さぁ、紗音が眠る客室へ行くぞ。 そなたの想いの力にて、彼女の魂を連れ戻すのだ。」"}
+{"id": 187012, "en": ["\"Y-You say go, but how...?", "  My mother and the rest are downstairs.", "  There's no way they'd let us go outside.", "  ...And...didn't you just say that you wouldn't be able to preserve your form if another Human appeared?\""], "voix": "geo", "ja": "「い、行くって、どうやって…。 下には母さんたちがいる。 表へ出るのを許してくれるわけがない。 ……それに、あなたはさっき、他のニンゲンが現れたら姿を保てないと言わなかったかい？」"}
+{"id": 187018, "en": ["\"...Come to think of it, that is true.", "  So, Krauss and the rest are downstairs.", "  ...In that case, we definitely cannot go down."], "voix": "bea", "ja": "「……そう言えばそうだったな。 下には蔵臼たちがおったか。 …それでは確かに下へ降りられぬな。"}
+{"id": 187023, "en": ["  ...Well then, we just need to go to the mansion without going down to the first floor, right?", "  It's simple.\""], "voix": "bea", "ja": "……ならば、１階へ降りずに、屋敷へ行けばいいではないか。 簡単な話よ。」"}
+{"id": 187027, "en": ["Beato laughed, as though she had thought of a pleasant prank."], "ja": "まるで、愉快な悪戯でも思いついたかのようにベアトは笑う。"}
+{"id": 187032, "en": ["...And with her golden pipe, she lightly tapped a window with its shutter closed."], "ja": "……そして黄金の煙管で、鎧戸が閉ざす窓を軽く叩いた。"}
+{"id": 187035, "en": ["When she did, three gold butterflies appeared from the pipe and opened the lock on the window as though melting it."], "ja": "すると、煙管から３匹の黄金の蝶が現れ、窓の鍵を、溶かすように開けてしまう。"}
+{"id": 187045, "en": ["Then, the window opened without a sound."], "ja": "そして音もなく窓をすうっと開いた。"}
+{"id": 187049, "en": ["The shutter beyond it was exactly the same."], "ja": "その向こうの鎧戸もまったく同じ。"}
+{"id": 187050, "en": ["The clasp unset itself, also without making a sound, and it quietly opened."], "ja": "留め金が、同じく音もなく外れて、すぅっと静かに開いた。"}
+{"id": 187064, "en": ["The window opened, exposing the wind and rain outside the mansion."], "ja": "窓が開き、風雨の屋外が晒される。"}
+{"id": 187065, "en": ["...Perhaps because of the direction or something related to the construction of the building, the wind did not blow inside."], "ja": "…そこは向きや建物の構造上の関係なのか、風が吹き込まなかった。"}
+{"id": 187068, "en": ["Because of that, for a while, ", "George felt as though this entrance that opened to the outside was a dream or an illusion, and he couldn't accept it as real."], "ja": "そのせいで譲治は、しばらくの間、 外への入り口が開かれたことを夢か幻のように感じてしまい、実感することができなかった。"}
+{"id": 187074, "en": ["\"Come, let us go.", "  Come with me.\""], "voix": "bea", "ja": "「さぁ、行くぞ。 ついてまいれ。」"}
+{"id": 187079, "en": ["Beato gently floated upwards."], "ja": "ベアトはふわりと浮き上がる。"}
+{"id": 187080, "en": ["It was a natural action, like that of a diver enjoying an underwater stroll."], "ja": "それはまるで、ダイバーが水中散歩を楽しむような自然な仕草。"}
+{"id": 187083, "en": ["...It made it easy to believe that if you acted like she did, ", "you too might be able to float in the sky just as though you were swimming through the water."], "ja": "……彼女のように振舞ったなら、 空中を、まるで水中のように泳ぎ、浮かぶことができるのではないかと信じてしまいそうだった。"}
+{"id": 187086, "en": ["...No, George did believe that."], "ja": "…いや、譲治は信じた。"}
+{"id": 187093, "en": ["...So without thinking, just as she had done, he also..."], "ja": "……だから思わず、彼女がそうしたように、自分も…、"}
+{"id": 187095, "en": ["...gently, "], "ja": "^^!d400…ふわりと、"}
+{"id": 187097, "en": ["...as though swimming in the water, lifted his feet..."], "ja": "^^!d400……水の中を泳ぐように、足を……。"}
+{"id": 187115, "en": ["\"...Ah, ......aaaaaaahh......\""], "voix": "geo", "ja": "「……ぁ、…………ああぁ………っ。」"}
+{"id": 187122, "en": ["\"Hoh.", "  ...Not bad.", "  So, you learned how to dance in the sky faster than I could explain it.\""], "voix": "bea", "ja": "「ほお。 …やるではないか。 妾が説明するよりも早く、空を舞うことを覚えたか。」"}
+{"id": 187126, "en": ["George was shocked to find himself floating in midair like he was swimming."], "ja": "譲治は自らが宙を、泳ぐように浮かべることに驚愕する。"}
+{"id": 187129, "en": ["...Of course, Beato was also shocked that George, who shouldn't have been able to use magic, had figured out how to do that just by instinct."], "ja": "…もちろんベアトも、魔法に通じぬはずの譲治が、直感だけでそれを身につけたことに驚いていた。"}
+{"id": 187140, "en": ["\"......To be able to..."], "voix": "geo", "ja": "「………空が、"}
+{"id": 187142, "en": ["...fly in the air, "], "voix": "geo", "ja": ":voicedelay 1110^^……飛べるなんて、"}
+{"id": 187144, "en": ["...to swim in the air...\""], "voix": "geo", "ja": ":voicedelay 1160^^……泳げるなんて……。」"}
+{"id": 187150, "en": ["\"...You mustn't be bound by reason.", "  Accept it as a natural thing.", "  ...You mustn't fall back to your Human doctrines, such as those of Newton and Einstein.\""], "voix": "bea", "ja": "「…理屈を考えてはならぬ。 それが自然なことであると受け入れよ。 ……ニュートンとかアインシュタインとか、ニンゲンたちの教義を思い出してはならぬぞ。"}
+{"id": 187155, "en": ["\"Especially when flying high in the sky.", "  ...Inexperienced witches sometimes plummet to the earth.\""], "voix": "bea", "ja": "特に、高き空を飛んでいる時はな。 …墜落する未熟な魔女も時におる。」"}
+{"id": 187161, "en": ["\"...I-I accept things for what they appear to be...", "  I-I accept things for what they appear to be...\""], "voix": "geo", "ja": "「…あ、…あるがままを、受け入れる…。 あるがままを、受け入れる……。」"}
+{"id": 187166, "en": ["George repeated those words over and over."], "ja": "譲治はその言葉を何度か繰り返した。"}
+{"id": 187167, "en": ["...He must not deny magic, no matter what."], "ja": "……魔法を断じて否定してはならないのだ。"}
+{"id": 187173, "en": ["Denying that would be like throwing away what might be his first and last chance to revive Shannon."], "ja": "それを否定することは、紗音を蘇らせる最初で最後かもしれないこのチャンスを、 自ら捨てることと同じなのだから。"}
+{"id": 187178, "en": ["However, compared to Beato, who was elegantly drifting like smoke, George's movements clearly resembled someone underwater."], "ja": "しかし、煙のように優雅に漂うベアトのそれに比べると、譲治のそれは明らかに水中での動きに似ていた。"}
+{"id": 187181, "en": ["...Therefore, if he didn't act like he was kicking his feet in water every once in a while, he'd be caught by the force of gravity bit by bit."], "ja": "…だから、足で水を蹴るような仕草を時折しないと、少しずつ重力に引かれてしまう。"}
+{"id": 187189, "en": ["\"I must say you're doing better than when I first danced through the sky."], "voix": "bea", "ja": "「妾が初めて空を舞った時よりは、上出来であると褒めておこう。"}
+{"id": 187194, "en": ["  ...Here we go.", "  Come with me.\""], "voix": "bea", "ja": "……行くぞ。 ついてまいれ。」"}
+{"id": 187198, "en": ["When Beato beckoned to George, she gently flew into the stormy sky."], "ja": "ベアトは譲治を誘うと、ふわりと風雨の空へ飛び立つ。"}
+{"id": 187207, "en": ["...It was just like a scene from a fairy tale."], "ja": "……それはまるで、おとぎ話の一幕のよう。"}
+{"id": 187210, "en": ["The scene unfolding before George's eyes felt entirely like an extension of his dream."], "ja": "その光景に、譲治は目の前の光景は全て夢の延長のように感じられた。"}
+{"id": 187219, "en": ["\"...Being able to fly is...incredible, ...but so is the wind and the rain...\""], "voix": "geo", "ja": "「……空を飛べるのは、……すごいけど、……すごい風と雨だ…。」"}
+{"id": 187225, "en": ["\"What's this?  Are the wind and rain tormenting you...?", "  ...I could teach you magic to block against that, ", "but it may be too early for you, and it may be a misuse of time right now.\""], "voix": "bea", "ja": "「何だ、雨と風に苛まれるのか…？ 　……それを防ぐ魔法を教えても良いが、 今のそなたには早いし、今はそれを習う時間を割くのも惜しかろう。」"}
+{"id": 187231, "en": ["\".........Yes.", "  ...The magic I need...isn't that.\""], "voix": "geo", "ja": "「……………………えぇ。 …僕が必要としている魔法は、それじゃない。」"}
+{"id": 187235, "en": ["George wore a strong-willed gaze, refusing to let the wind and rain get to him."], "ja": "譲治は風雨に負けず、強い意志を持った眼差しを見せた。"}
+{"id": 187249, "en": ["\"The mansion is coming into sight.", "  ...Hold out just a little longer.", "  If you fall now, you'll hit the bushes in the rose garden.\""], "voix": "bea", "ja": "「見えてきたぞ、屋敷だ。 …もう少し頑張れよ。 今、落ちれば薔薇の茂みだぞ。」"}
+{"id": 187256, "en": ["The undulating rose garden was spread beneath the witch and George's gazes."], "ja": "魔女と譲治の眼下には、風雨に波打つ薔薇庭園が広がっている。"}
+{"id": 187257, "en": ["This illusion-like scene no longer surprised George."], "ja": "その幻想のような光景に、もはや譲治は驚かない。"}
+{"id": 187260, "en": ["Only the gradually approaching mansion was reflected in his eyes."], "ja": "その目には、次第に近付きつつある屋敷だけが映っている。"}
+{"id": 187270, "en": ["\"Shannon, ......wait for me...", "  ...I will definitely...revive you...!\""], "voix": "geo", "ja": "「紗音、………待ってて…。 ……必ず君を、蘇らせて見せる……！」"}
+{"id": 187296, "en": ["At that time,", " ...the cruel new witch could be seen staring at the guesthouse from a different location."], "ja": "その頃。 ……新しき残酷な魔女の姿は、それとは別の場所にあり、ゲストハウスを凝視していた。"}
+{"id": 187304, "en": ["\"......Now, all that's left is the seventh and eighth twilights.", "  Just two more, and my obligation to that old hag Predecessor is finished.", "  ......I'll kill Krauss and Natsuhi.", "  Let them die together like the good couple they are.\""], "ja": "「……………後、残すは第七、第八の晩だけね。 あと２人で、先代のババアの義理はおしまいだわ。 ………蔵臼と夏妃を殺す。 夫婦仲良くね。」"}
+{"id": 187321, "en": ["\"Nihi.", "  Where's the target nyeh?\""], "ja": "「にひ。 標的はどうかにぇ？」"}
+{"id": 187330, "en": ["\"...In the lobby on the first floor of the guesthouse, two targets and Ushiromiya Eva identified.", "  Measuring Anti-Magic Power Levels.", "  Data Link to 410.\""], "ja": "「……ゲストハウス１階ロビーにて、標的２名と右代宮絵羽を補足。 反魔法力測定。 ４１０へデータリンク。」"}
+{"id": 187338, "en": ["\"410, Data Received.", "  Anti-magic power levels are extremely low.", "  If Eva just goes outside, they're tuna and abalone on a chopping board.", "  Nihihihihi...!\""], "ja": "「４１０データ受領。 反魔法力は極めて小。 絵羽さえ席を外せば、まな板の上のマグロにアワビです。 にひひひひ…！」"}
+{"id": 187351, "en": ["\"What do you think, Great Lady Beatrice?", "  When you give the order, we shall snipe right away...!", "  Please, your orders...!\""], "ja": "「いかがしますか、大ベアトリーチェ卿。 ご命令を頂ければ、すぐにも狙撃いたします…！ 　どうかご命令を…！」"}
+{"id": 187368, "en": ["\"...You guys reeeally are convenient furniture."], "ja": "「…ほぉんとにあんたたちは便利な家具ね。"}
+{"id": 187371, "en": ["  Not at all like that old, second-hand furniture that's only useful for gouging corpses.", "  Right?\""], "ja": "死体をほじるしか能のない、中古家具どもとは大違いだわ。 ねぇ？」"}
+{"id": 187378, "en": ["\"............Nn...\""], "ja": "「…………………………く…。」"}
+{"id": 187384, "en": ["\"Chiester Sisters, please show me your skill once more.", "  ...Prepare to fire!", "  *giggle*giggle*giggle*giggle*giggle*!", "  And carry out the corpses again, got it?", "  'Cause I'll play with them a lot."], "ja": "「シエスタ姉妹、またあなたたちの手際を見せて頂戴。 …攻撃準備よ！ 　くすくすくすくすくす！ 　死体はまた運び出してね。 たっぷり遊んであげるんだから。"}
+{"id": 187389, "en": ["  No complaints from you, right, Ronove?\""], "ja": "文句はなしよ、ロノウェ？」"}
+{"id": 187397, "en": ["\"...Correct.", "  As you command.\""], "voix": "ron", "ja": "「……はい。 畏まりました。」"}
+{"id": 187404, "en": ["\"Nn...\""], "ja": "「ん……。」"}
+{"id": 187413, "en": ["At that moment, the witch noticed something."], "ja": "その時、魔女は何かに気付く。"}
+{"id": 187414, "en": ["...It was as though some presence had disappeared...", "  ...Was it her imagination...?"], "ja": "……何かの気配が去っていったかのような、 ……気のせい……？"}
+{"id": 187421, "en": ["\"......Was that someone's presence just now?", "  Did anyone feel it?\""], "ja": "「………今、何か気配を感じなかった？ 　誰か感じた人いる？」"}
+{"id": 187428, "en": ["\"M-My apologies, I haven't noticed anything, ...so please forgive me...!!\""], "ja": "「もッ、…申し訳ありません、私は何も気付きませんでした…、お許しを……！！」"}
+{"id": 187436, "en": ["\"We were in the middle of observing the guesthouse, so our peripheral surveillance was set to off.  Nihi."], "ja": "「私たち、ゲストハウスを観測中でしたから、周辺監視はオフにしてます。にひ。"}
+{"id": 187442, "en": ["  ...What about you, Lucifer-chaaan?", "  Did you feel any presence?\""], "ja": "…ルシファーちゃんはぁ？ 　何か気配感じた？」"}
+{"id": 187451, "en": ["\"......Nn-\""], "ja": "「………ん、」"}
+{"id": 187455, "en": ["For just an instant, Lucifer glanced at Ronove, asking whether she should answer honestly or not."], "ja": "ルシファーは一瞬だけ目線をロノウェに送り、正直に答えるべきかどうかを問う。"}
+{"id": 187460, "en": ["Ronove gave a small nod in response."], "ja": "それにロノウェは、小さく頷いて応えた。"}
+{"id": 187468, "en": ["\"No.", "  ...My apologies, Beatrice-sama.", "  We noticed nothing."], "voix": "ron", "ja": "「いいえ。 …申し訳ございません、ベアトリーチェさま。 私たちは何も。"}
+{"id": 187474, "en": ["  ......Forgive us the stupidity of us second-hand furniture.\""], "voix": "ron", "ja": "………中古家具ゆえ、愚鈍なことをお許しください。」"}
+{"id": 187482, "en": ["\"............\""], "ja": "「………………………。」"}
+{"id": 187489, "en": ["\"............\""], "voix": "ron", "ja": "「………………………。」"}
+{"id": 187495, "en": ["\"............", "...I see.", "  If a great demon like you says that, then it must've been my imagination.\""], "ja": "「………………………。 ……そう。 大悪魔のあなたがそう言うなら、きっと私の気のせいなんでしょうね。」"}
+{"id": 187499, "en": ["The witch persistently stared in the direction the presence had disappeared to."], "ja": "魔女は、気配の消え去った方角を執念深く凝視する。"}
+{"id": 187506, "en": ["...That was where the rose garden lay."], "ja": "……それは薔薇庭園の方角。"}
+{"id": 187507, "en": ["And beyond that, she could see the mansion's dark silhouette created by lightning."], "ja": "そしてその向こうには、雷光に黒いシルエットを浮かび上がらせる屋敷が見える。"}
+{"id": 187510, "en": ["...It took quite some time before she pushed her unsatisfied feelings aside...", "and once again faced the guesthouse."], "ja": "……釈然としない気持ちを押さえ、再びゲストハウスに向き直るまで、 彼女は短くない時間を掛けるのだった。"}
+{"id": 187532, "en": ["The guesthouse lobby was wrapped in silence."], "ja": "ゲストハウスのロビーは静寂に包まれていた。"}
+{"id": 187535, "en": ["The strings of tension binding Krauss, Natsuhi, and Eva had already loosened, and they were completely worn out, with their minds beginning to waver."], "ja": "蔵臼、夏妃、絵羽の３人はもはや緊張感の糸も弛み、疲れきって、意識を朦朧とさせている。"}
+{"id": 187538, "en": ["Every once in a while, they would stand up and walk around pointlessly, as though fighting their drowsiness."], "ja": "彼らは時折、席を立ち、無意味に歩き回ったりすることで眠気と戦っているようだった。"}
+{"id": 187546, "en": ["\"......Are you okay, Eva-san?", "  ...Please, do take it easy and rest.\""], "voix": "nat", "ja": "「………大丈夫ですか、絵羽さん。 …やはり無理をせず、休んでいてください。」"}
+{"id": 187553, "en": ["\"I told you, I'm fine...", "  ...The three of us are now the only adults...", "  There's no time to rest...", "  No matter what the cost, we must guard this place until the end...", "  ...Haah, ...haah...\""], "voix": "eva", "ja": "「大丈夫だって言ってるわ……。 …もう、大人は私たち３人しかいないのよ…。 休んでる暇なんかないわ…。 石にかじりついてでも、ここを死守するわよ……。 ……はぁ、……はぁ……。」"}
+{"id": 187558, "en": ["She spoke bravely, but she couldn't hide her rough breathing."], "ja": "勇ましい台詞を口にするが、荒い息は隠せていない。"}
+{"id": 187559, "en": ["...It seemed that the fever, which had been calmed with medicine for a short time, had returned."], "ja": "…一度は薬で落ち着いた熱だったが、再びぶり返してきたらしい。"}
+{"id": 187562, "en": ["It was very obvious that Eva's health was not good."], "ja": "絵羽の体調が悪いのは一目瞭然だった。"}
+{"id": 187569, "en": ["\"Take it easy.", "  At least close your eyes.", "  If something happens that you need to be awake for, we will definitiely wake you.\""], "voix": "kla", "ja": "「無理はするな。 せめて目を閉じていたまえ。 もし、起こさねばならぬ時は必ず起こしてやるから。」"}
+{"id": 187575, "en": ["\"I'm telling you I'm fine...!", "  Leave me alone...!!\""], "voix": "eva", "ja": "「だから平気だって言ってるわ…！ 　放っておいて……！！」"}
+{"id": 187582, "en": ["\"............\""], "voix": "nat", "ja": "「…………………………。」"}
+{"id": 187589, "en": ["It seemed she was already unwilling to budge."], "ja": "もはや意地になっているようだった。"}
+{"id": 187590, "en": ["...Krauss and Natsuhi realized that even if they talked to her any more when she was like this, it wouldn't reach her ears."], "ja": "……今の彼女には、これ以上、何を言っても耳に届かないだろうことを、蔵臼たちも悟る。"}
+{"id": 187593, "en": ["So without saying anything more, they decided to let her be."], "ja": "だからそれ以上は何も言わず、そっとしておくことにした。"}
+{"id": 187597, "en": ["To Eva right now, even having an argument like that would be burdensome."], "ja": "今の絵羽には、そんな口論すらも負担になっている。"}
+{"id": 187598, "en": ["It would probably be better for her body if she just sat there with her mouth closed."], "ja": "口を閉ざし、ただ静かに座っているだけの方が、まだ体に楽だろう。"}
+{"id": 187603, "en": ["In truth, Eva was just a step away from being beaten down by drowsiness."], "ja": "実際、絵羽はもう眠気に挫けようとしている。"}
+{"id": 187604, "en": ["...Perhaps she shot back at them with a temper because she was trying to rouse herself and throw off her sleepiness."], "ja": "…短気に言い返すのは、自らを鼓舞して眠気を飛ばすためなのかもしれない。"}
+{"id": 187611, "en": ["The clock would be pointing to 6:00 in the afternoon very soon."], "ja": "時計は、もうじき午後の６時を指そうとしている。"}
+{"id": 187614, "en": ["She'd had several snacks to distract herself from her drowsiness, so she didn't feel hungry, ", "but now her lack of sleep made it feel like it was 6:00 in the morning, not the afternoon."], "ja": "眠気を誤魔化すために、何度も間食を取ったせいで空腹感はなく、 むしろ寝不足のせいで、午後どころか明け方の６時のようにさえ感じられた。"}
+{"id": 187617, "en": ["...Even supposing that the boat came at precisely 9:00 in the morning tomorrow, ", "...they still had more than 12 full hours to go."], "ja": "……明日の朝の９時にぴったりに船が来てくれると仮定しても、 ……まだ１２時間以上たっぷりある。"}
+{"id": 187620, "en": ["...It was an overwhelmingly long stretch of time."], "ja": "…気の遠くなるような時間だった。"}
+{"id": 187633, "en": ["......Long."], "ja": "…………長い。"}
+{"id": 187634, "en": ["......Painful..."], "ja": "………辛い……。"}
+{"id": 187635, "en": ["...Hot..."], "ja": "……熱い…。"}
+{"id": 187638, "en": ["Even the sound of the clock torments my body now."], "ja": "時計の音さえ、今はこの身を苛む。"}
+{"id": 187641, "en": ["In times like this, ...when that person puts his hand on my forehead, the fever fades at once."], "ja": "こんな時はいつだって、……あの人が私の額に手を当ててくれれば、たちどころに熱が引いたのに。"}
+{"id": 187644, "en": ["...But that person no longer exists......"], "ja": "…でももう、あの人はいない………。"}
+{"id": 187647, "en": ["As Eva's mind grew foggy, she was once again gripped by a deep sadness..."], "ja": "絵羽は朦朧とした意識の中で、再び深い悲しみに囚われていた…。"}
+{"id": 187651, "en": ["She had already cried herself dry."], "ja": "もう涙は枯れ果てた。"}
+{"id": 187652, "en": ["Even so, the sadness of losing her beloved husband had not been exhausted..."], "ja": "それでも最愛の夫を失った悲しみが、尽き果てない…。"}
+{"id": 187662, "en": ["\"......I..."], "voix": "eva", "ja": "「……………私は、"}
+{"id": 187664, "en": ["...was wrong...\""], "voix": "eva", "ja": ":voicedelay 900^^……間違っていたんだわ…。」"}
+{"id": 187675, "en": ["\"...What do you mean?\""], "ja": "「…どうして？」"}
+{"id": 187680, "en": ["The new witch and Eva were fundamentally the same being."], "ja": "元々、新しき魔女は絵羽と一なる存在。"}
+{"id": 187681, "en": ["...If Eva talked to her, she would always respond..."], "ja": "…絵羽が話しかければ、いつだって返事を返す…。"}
+{"id": 187685, "en": ["\"...I thought that if I could gain the position of the Ushiromiya Family Head, ...that alone would be enough.", "  ...But then, as soon as I saw that mountain of gold, my greed grew.", "  ......I was struck by a desire to have that mountain all to myself...\""], "voix": "eva", "ja": "「……私は右代宮家の当主の座さえ得られれば、…それで満足のはずだった。 ……それが、あの黄金の山を見た途端に、欲が増えたの。 …………あの黄金の山を、独り占めしたい気持ちに駆られた……。」"}
+{"id": 187691, "en": ["\"That's nothing to be ashamed of."], "ja": "「それは恥じることでも何でもないわ。"}
+{"id": 187696, "en": ["  After all, it's your natural right as the Ushiromiya Family Head.", "  How could you give up even a bit of it to anyone else?\""], "ja": "だって、右代宮家の当主として、当然の権利じゃない。 他の誰にも、黄金の一欠けらだって譲るものかってのよ。」"}
+{"id": 187700, "en": ["\"......I was gripped by that temptation, ...which is why you were born.", "  ...While you are a young girl version of me, ", "...at the same time, you are also my self-centered evil heart.", "  ...Because of my foolish greed sprouted by that mountain of gold, ", " ...the shell of the egg that is my heart cracked, ...and you were born into this world...", "  ......I am responsible for your birth...!\""], "voix": "eva", "ja": "「…………私がその誘惑に囚われたから、…あなたが生まれてしまったんだわ。 ……あなたは私の少女時代の心であると同時に、 ……自分勝手でしかない、私の邪まな心でもあった。 ……そのあなたが、あの黄金の山によって芽生えた、私の愚かな欲望のせいで、 ……私の胸という卵の殻を破り、…この世に生まれ出てしまった…。 ………あなたを生んだのは私の責任……！」"}
+{"id": 187706, "en": ["\"In that case, when I killed Rosa and Maria, ", "and then Rudolf, Kyrie and Hideyoshi, you were responsible for that too.\""], "ja": "「なら、私が殺した楼座と真里亞も。 そして留弗夫と霧江と秀吉も、あなたの責任ってことになるわ。」"}
+{"id": 187710, "en": ["\"Why did you kill my husband too...?!", "  Why...?!!", "  Aaaaaaaagggghhhhh!!\""], "voix": "eva", "ja": "「どうしてうちの人まで殺したのよ…！ 　どうして……！！ 　うううぅううぅううぅ！！」"}
+{"id": 187716, "en": ["\"...I didn't want to kill Hideyoshi.", "  He was just so annoying and persistent."], "ja": "「…秀吉を殺す気はなかったわ。 だってうるさくてしつこかったんだもの。"}
+{"id": 187721, "en": ["  ...And that's our...no, your fault.", "  It's your fault for choosing a husband like that.\""], "ja": "…その意味では私たちの、いえ、あなたの責任ね。 あんなのを旦那に選んだあなたの責任だわ。」"}
+{"id": 187725, "en": ["\"A child like you cannot understand what made that man so wonderful!!", "  Oooooooooooooooohhhh, ...dear, ...aaaaaaaaaahhhhhh!\""], "voix": "eva", "ja": "「あなたみたいな子どもに、あの人の良さはわからないわよッ！！ 　ううぅううぅぅぅうう…、あなた………、うううぅぅ！」"}
+{"id": 187731, "en": ["\"......What the heck?", "  Our dreams were made real with magic, right?", "  We solved the riddle of the epitaph.", "  Then we found the gold and got the Head's Ring.", "  All of our dreams came fully true, right?", "  What more could you want...?\""], "ja": "「………何よ。 私たちは魔法で夢を叶えたのよ？ 　碑文の謎を解いたわ。 そして黄金を見つけ、当主の指輪を手にしたわ。 全ての夢を叶えきったわ？ 　それが何で不満なの…？」"}
+{"id": 187735, "en": ["\"Those weren't all of my dreams...!!", "  What about living a wonderful life with that person and giving George an excellent life...?!", "  I still have many dreams that haven't come true...as a wife, as a mother...!!", "  And yet, ...and yet...!\""], "voix": "eva", "ja": "「それだけが全ての夢なんかじゃないわ…！！ 　あの人と素敵な人生を歩んで、譲治に素晴らしい人生を託す…！ 　妻として、母として、…私にはまだ叶えなければならない夢がたくさんあるのよ…！！ 　それなのに、……それなのに……！」"}
+{"id": 187741, "en": ["\"...Those are just extra dreams you added after becoming an adult.", "  They aren't my dreams.\""], "ja": "「…それは、あなたが大人になってから、勝手に増やした夢だわ。 私たちの夢じゃない。」"}
+{"id": 187745, "en": ["\"That's because you're a child...!!", "  Do you only care about what's best for yourself?!", "  ...That's right, everything is my fault...!!", "  Back then, why did I resist doing what Rosa told me to?", "  Why couldn't I announce to all of the siblings that I'd found the gold...?", "  ...It's all because I'm so hideous!!", "  My evil heart, which sprouted from my desire to have all that gold for myself, ...caused you to hatch!!\""], "voix": "eva", "ja": "「だからあなたは子どもなのよ…！！ 　自分さえよければいいの？！ 　……そうよ、全て私が悪いのよ…！！ 　あの時、楼座の言うことにどうして私は反抗したの？ 　どうして兄弟みんなに、黄金を見つけたと発表できなかったの…？ 　……全て私が醜いから！！ 　黄金を独り占めしたくて芽生えさせた邪まな心が、……あなたを孵化させてしまった！！」"}
+{"id": 187751, "en": ["\"......Looks like you really hate me.", "  Even though we're both Ushiromiya Eva.\""], "ja": "「………ひどい嫌われようだわ。 私たちは二人で右代宮絵羽なのに。」"}
+{"id": 187756, "en": ["\"No, that isn't true anymore.", "  And it was you who said it.", "  I am Ushiromiya Eva.", "  And you are the Golden Witch, Beatrice...!!", "  So just disappear!", "  Witches are imaginary, illusions that only exist in fairy tales...!!", "  Things like you should just disappear!", "  Never appear in front of me again!!\""], "voix": "eva", "ja": "「いいえ、もう違うわ。 そしてそれはあなたが言ったのよ。 私は右代宮絵羽。 そしてあなたは黄金の魔女、ベアトリーチェよ…！！ 　だからもう消えて！ 　魔女なんておとぎ話の中にしか存在できない妄想よ、幻想よ…！！ 　あなたなんか消えてしまえッ！ 　二度と私の前に現れないでッ！！」"}
+{"id": 187762, "en": ["\"...Yeah, ...you're right.", "  ...I understand.", "  I'll disappear from in front of you."], "ja": "「…あぁ、……そう。 …わかったわ。 あなたの前から消えてあげるわ。"}
+{"id": 187767, "en": ["  ...And I am no longer Ushiromiya Eva.", "  From now on, I'm the Golden Witch, Beatrice.", "  ...So now I can play however I want.\""], "ja": "…そして私はもう右代宮絵羽じゃない。 これからは黄金の魔女ベアトリーチェよ。 …もう好き勝手に遊んでやるんだから。"}
+{"id": 187772, "en": ["\"I don't even care about you.", "  If only you'd just give up and die!\""], "ja": "あんたなんて知らないわ。 ヘソでも噛んで、勝手に死んじゃえばぁ？！」"}
+{"id": 187782, "en": ["After having a very childlike tantrum, the witch who had once been another Eva vanished."], "ja": "如何にも子どもらしい癇癪を起こして、かつてもうひとりの自分だった魔女は姿を消した。"}
+{"id": 187786, "en": ["...Only Eva was left behind in the darkness."], "ja": "……闇の中には絵羽だけが取り残される。"}
+{"id": 187787, "en": ["And she questioned herself..."], "ja": "そして自らに問う…。"}
+{"id": 187791, "en": ["\"Me...?", "  I...killed them...?", "  Did I kill...that person...?", "  ...Did I...kill...him......?\""], "voix": "eva", "ja": "「私なの……？ 　私が、……彼らを殺したの……？ 　あの人を、殺してしまったの……？ 　……私が、……殺して…しまったの…………？」"}
+{"id": 187795, "en": ["She could no longer answer that question herself..."], "ja": "その問い掛けに、もはや自らが答えることはなかった……。"}
+{"id": 187810, "en": ["\"...!  *cough*cough*cough*!!"], "voix": "eva", "ja": "^^!s0「…っ、ごほごほごほッ！！"}
+{"id": 187817, "en": ["  *cough*cough*cough*!!\""], "voix": "eva", "ja": "ごほっごほごほッ！！」"}
+{"id": 187833, "en": ["It seemed that, half-asleep, she had gotten some saliva caught in her windpipe just as she was dozing off."], "ja": "半分眠りこけて、舟を漕いだ拍子に唾が気管に入ってしまったらしい。"}
+{"id": 187834, "en": ["...Eva suddenly started coughing."], "ja": "…唐突に絵羽は咽こんだ。"}
+{"id": 187842, "en": ["\"Are you okay, Eva?"], "voix": "kla", "ja": "「大丈夫か、絵羽。"}
+{"id": 187848, "en": ["  ...Please Natsuhi, some water.\""], "voix": "kla", "ja": "…夏妃、水を頼む。」"}
+{"id": 187855, "en": ["\"Y-Yes...\""], "voix": "nat", "ja": "「は、はい…。」"}
+{"id": 187865, "en": ["\"I-I'm fine, okay...?", "  *cough*cough*cough*!"], "voix": "eva", "ja": "「だ、……大丈夫だってば…。 げほげほげほ！"}
+{"id": 187870, "en": ["  *co-ugh*cough*!!"], "voix": "eva", "ja": ":noclear_cw　げーっほげほッ！！"}
+{"id": 187875, "en": ["  I just...choked a bit...!", "  *cough*cough*cough*!\""], "voix": "eva", "ja": ":noclear_cw　ちょっと、…咽ちゃっただけなんだから……！ 　げほげほげほんッ！」"}
+{"id": 187887, "en": ["Eva pushed away Natsuhi's hand as she tried to rub her back...and unsteadily rose to her feet."], "ja": "絵羽は、背中を擦ろうとする夏妃の手を払い除け、よろよろと立ち上がる。"}
+{"id": 187895, "en": ["\"......I'm going to go wash my face.", "  ...Sorry, I fell asleep.", "  ...When I get back, I'll make some more coffee."], "voix": "eva", "ja": "「………顔を洗ってくるわ。 …ごめんなさいね、寝ちゃってたわ。 ……戻ってきたら、またコーヒーを入れるわね。"}
+{"id": 187901, "en": ["  ......Extra strong, so that I won't get drowsy until tomorrow morning.\""], "voix": "eva", "ja": "………特に濃い、明日の朝まで眠気が来なくなるようなやつを。」"}
+{"id": 187908, "en": ["\"Yes, please do.", "  ...Your coffee's more to my tastes than what Gohda makes.\""], "voix": "kla", "ja": "「うむ、頼む。 ……郷田の淹れるコーヒーより、お前が淹れるコーヒーの方が私の好みに合うからな。」"}
+{"id": 187915, "en": ["\"I'm glad to hear it, even if it's flattery..."], "voix": "eva", "ja": "「お世辞でも嬉しいわ…。"}
+{"id": 187921, "en": ["  *cough*cough*!"], "voix": "eva", "ja": "^^!s0ごほごほッ！"}
+{"id": 187927, "en": ["  ......I'll be back soon.\""], "voix": "eva", "ja": "^^!sd 　………すぐ戻るわ。」"}
+{"id": 187934, "en": ["Eva exited the lobby, heading for the bathroom."], "ja": "絵羽はロビーを出て、化粧室へ向かった。"}
+{"id": 187935, "en": ["Krauss and Natsuhi watched over her frail back..."], "ja": "その弱々しい背中を、蔵臼と夏妃が見守る…。"}
+{"id": 187944, "en": ["\"...So, you sometimes do show concern for Eva-san, even though you've always been so much at odds with her.\""], "voix": "nat", "ja": "「……あなたも、あれだけ犬猿の仲だった絵羽さんに気を遣うこともあるのですね。」"}
+{"id": 187950, "en": ["\".........", "...Isn't this how an older brother is supposed to be...?\""], "voix": "kla", "ja": "「……………………。 …本来、兄とはこういうものではないのかね…？」"}
+{"id": 187956, "en": ["\"...Yes.", "  I believe you're right.\""], "voix": "nat", "ja": "「……えぇ。 それで正しいと思います。」"}
+{"id": 187964, "en": ["\"It isn't just Eva.", "  ...There's Rudolf and Rosa too.", "  ...Instead of acting like an older brother to them, all I ever did was speak arrogantly and bully them.\""], "voix": "kla", "ja": "「絵羽に限らん。 ……留弗夫にも、楼座にも。 …私がした兄らしいことと言えば、それを横柄に語り、彼らを苛めただけだ。"}
+{"id": 187969, "en": ["\"......In my own way, I was frantic in my desire to be like Father.", "  ...But I could never match up, and I always vented my feelings on them...", "  But that is no excuse.", "  ...I probably gave Eva scars so deep that they still have not healed.", "  ...I regret it, but even if I apologized after all this time, it would do nothing to heal those wounds...\""], "voix": "kla", "ja": "………父のようになりたくて、私なりに必死だった。 …だが、いつもそれは及ばず、そのはけ口を彼らに向けてしまった…。 しかし、それは言い訳にならん。 …絵羽にも、未だ傷が癒えぬほどに、深い心の傷を負わせてしまっただろう。 ……悔いているが、今更それを詫びたところで、その傷が癒えるわけもない…。」"}
+{"id": 187976, "en": ["\"......If you can hold onto that feeling, instead of only letting it last for this moment,", " ...I'm sure your siblings will come to see it sooner or later.\""], "voix": "nat", "ja": "「………あなたがその気持ちを、今だけでなく、持ち続けることで。 …その気持ちはきっと、他の兄弟たちにも伝わりますよ。」"}
+{"id": 187983, "en": ["\"...Though, by now, Eva is the only sibling I have left.\""], "voix": "kla", "ja": "「……今となっては、他の兄弟も絵羽を残すのみだがね。」"}
+{"id": 187989, "en": ["\"......If only...you and your siblings hadn't been born into the Ushiromiya family, ", "...you might have had a more normal, a more fun sibling relationship...\""], "voix": "nat", "ja": "「……………もし、あなたとあなたのご兄弟が生まれた家が、右代宮家でさえなかったなら……。 ……もっともっと普通な、楽しい兄弟の関係であったでしょうに…。」"}
+{"id": 187995, "en": ["\"...You mustn't say that...", "  ......Eva will probably continue to hate me for her whole life.", "  And she has a right to."], "voix": "kla", "ja": "「…それを言ってはならん…。 ………絵羽は生涯、私を憎み続けるだろう。 そしてその資格がある。"}
+{"id": 187999, "en": ["  ...I...intend to resign myself to that fact and accept it.\""], "voix": "kla", "ja": "…私は、それを甘んじて受け止めるつもりだ。」"}
+{"id": 188005, "en": ["\".........Dear...\""], "voix": "nat", "ja": "「…………………あなた……。」"}
+{"id": 188013, "en": ["\"...Eva, "], "voix": "kla", "ja": "「……絵羽、"}
+{"id": 188015, "en": ["......I'm sorry.", "  ...Of course, you don't have to forgive me...\""], "voix": "kla", "ja": ":voicedelay 680^^………すまん。 ……もちろん、許さなくていい…。」"}
+{"id": 188026, "en": ["Of course I won't forgive you.  What are you talking about, after all this time?"], "ja": "もちろん許さないわ、何を今更。"}
+{"id": 188044, "en": ["\"Oh, so now you're feeling guilty?  If only you'd just give up and die right now!"], "ja": "「悪いと思ったなら、今すぐヘソでも噛んで死んじゃえばぁ？！"}
+{"id": 188050, "en": ["  Do it, Chiester Sisters!!\""], "ja": "やっちゃえ、シエスタ姉妹！！」"}
+{"id": 188114, "en": ["\"45, Firing Permission Received.", "  Reconfirming Firing Arc, Correcting for Weather Discrepancies.", "  Data Link to 410.\""], "ja": "「４５、射撃許可受領。 射撃曲線再確認、気候誤差修正。 ４１０へデータリンク。」"}
+{"id": 188123, "en": ["\"410, Data Received, Firing Permission Confirmed."], "ja": "「４１０データ受領、射撃許可確認。"}
+{"id": 188129, "en": ["  Nihihihihi, Firing!\""], "ja": "にひひひひ、射撃！」"}
+{"id": 188148, "en": ["Together, the sisters released the magical bowstring they had readied."], "ja": "姉妹が二人で引く魔法の弦を放つ。"}
+{"id": 188149, "en": ["A beautiful tail trailed behind the gold arrow, and it drew a lovely curve as it flew."], "ja": "黄金の矢が美しい尾を引き、美しい曲線を描きながら飛んでいく。"}
+{"id": 188153, "en": ["It was just like a gold snake."], "ja": "それはさながら、黄金の蛇。"}
+{"id": 188187, "en": ["It skillfully avoided a grove of trees and flew towards the front door of the guesthouse."], "ja": "それは器用に木立を避けて飛び、ゲストハウスの玄関を目指す。"}
+{"id": 188195, "en": ["Then it flew into the keyhole of the door and snuck into the guesthouse without any problem at all."], "ja": "そして扉の鍵穴に飛び込むと、何の問題もないかのようにゲストハウス内に侵入した。"}
+{"id": 188202, "en": ["The gold snake raced down the hall smoothly, yet as fast as an arrow."], "ja": "廊下をするすると、だけれども矢の如き素早さで黄金の蛇が疾駆する。"}
+{"id": 188209, "en": ["Right before it was the door to the lobby."], "ja": "その正面にはロビーの扉。"}
+{"id": 188217, "en": ["When it flew into the key hole, Krauss and Natsuhi were already..."], "ja": "その鍵穴に飛び込んだなら、そこにはもう蔵臼と夏妃が…。"}
+{"id": 188224, "en": ["For an instant, Krauss thought he saw a gold-colored sparkle in the keyhole on the door."], "ja": "蔵臼は、扉の鍵穴が一瞬、金色に輝いたような気がした。"}
+{"id": 188227, "en": ["However, at the same time as he strained his eyes to see what it was, that sparkle bent like a whip and attacked, ", "wrapping itself around Krauss's neck."], "ja": "しかし、それが何かと目を細めるのと同時に、その輝きが鞭のようにしなって襲い掛かり、 蔵臼の首にぐるぐるっと巻きつく。"}
+{"id": 188283, "en": ["\"......Ack, ......ah, nn-\""], "voix": "kla", "ja": "「……………がッ、………ッ、ッ、」"}
+{"id": 188288, "en": ["Just looking at it, the gold snake seemed very supple."], "ja": "見ただけなら、黄金の蛇はとてもしなやかそう。"}
+{"id": 188289, "en": ["However, it was as though a wire had tightened around Krauss's neck."], "ja": "しかし、蔵臼の首はまるで、針金で締め上げられるかのようだった。"}
+{"id": 188343, "en": ["And while that snake choked Krauss, it extended even more, and also tightened around Natsuhi's neck."], "ja": "そしてその蛇は蔵臼を締め上げたまま、さらに伸び、夏妃の首をも締め上げる。"}
+{"id": 188351, "en": ["Without even a chance to scream, their eyes bulged as they went into convulsions and then collapsed."], "ja": "二人は悲鳴すらあげられず、白目を剥いて痙攣し、がくりと脱力する。"}
+{"id": 188368, "en": ["\"45, Hit and Kill Confirmed.", "  Formulating Towing Curve, Revising Capture Points.", "  Data Link to 410.\""], "ja": "「４５、命中及び死亡確認。 牽引曲線形成、補正点修正。 ４１０へデータリンク。」"}
+{"id": 188374, "en": ["\"410, Data Received.", "  Initiating Corpse Towing."], "ja": "「４１０データ受領。 死体牽引開始。"}
+{"id": 188379, "en": ["  We got both of 'em nyeh, nihi!\""], "ja": "二匹も釣れたにぇ、にひ！」"}
+{"id": 188392, "en": ["The gold snake began to drag Krauss and Natsuhi's bodies back."], "ja": "黄金の蛇は、蔵臼と夏妃の二人の死体をずるずると引き摺り始める。"}
+{"id": 188398, "en": ["...They slipped through the door to the corridor, dragging the bodies, gradually increasing in speed, "], "ja": "……廊下への扉をすり抜けて死体を引き摺り、次第に速度を上げて、"}
+{"id": 188408, "en": ["and rapidly pulled them outside the guesthouse."], "ja": "あっという間にゲストハウスの外へ引っ張り出していく。"}
+{"id": 188414, "en": ["So, the lobby was silent, as though nothing had happened."], "ja": "だからロビーは、まるで何事もなかったかのように静寂だった。"}
+{"id": 188420, "en": ["...As though Krauss and Natsuhi had not been there since the beginning."], "ja": "…初めから蔵臼も夏妃もいなかったかのよう。"}
+{"id": 188423, "en": ["Only the sound of the wind and the rain remained, as if they were playing dumb and pretending to be the only ones there..."], "ja": "雨と風の音だけが、ここには自分たちだけしかいなかったと、素知らぬ顔をして居座っていた……。"}
+{"id": 188435, "en": ["\"...Sorry, I'm fine now.", "  ...I'll go make some coffee.\""], "voix": "eva", "ja": "「……ごめんなさい、もう大丈夫よ。 …今、コーヒーを淹れるわね。」"}
+{"id": 188440, "en": ["Eva returned from the bathroom."], "ja": "化粧室より絵羽が戻ってくる。"}
+{"id": 188441, "en": ["But no one was in the lobby."], "ja": "しかし、ロビーには誰もいない。"}
+{"id": 188448, "en": ["Even though they had supposedly been in that sofa until the moment she had choked and gone to the bathroom, ", "they were gone, as if they'd been an illusion from the very beginning."], "ja": "咽込んで化粧室に行ったその瞬間まで、彼らはそこのソファーにいたはずなのに、 まるでそれが幻であったかのようにいなくなっていた。"}
+{"id": 188455, "en": ["\"...How careless of them...", "  ...Where did those two go off to together?\""], "voix": "eva", "ja": "「…無用心ね…。 ……二人揃ってどこに行っちゃったの？」"}
+{"id": 188462, "en": ["Eva put her hand on the sofa as though acting out a scene from a detective novel."], "ja": "探偵小説の真似事っぽく、絵羽はソファーに手を当てる。"}
+{"id": 188467, "en": ["...She felt a warmth that meant that they'd been sitting there until a short while ago."], "ja": "……ついさっきまで彼らが座っていたことを示す温もりが感じられた。"}
+{"id": 188470, "en": ["Maybe they went to do the rounds or something."], "ja": "見回りにでも行っているのかもしれない。"}
+{"id": 188473, "en": ["For the time being, Eva sat down and waited for their return..."], "ja": "絵羽はとりあえず腰を下ろし、彼らの戻りを待つのだった…。"}
+{"id": 188505, "en": ["Beato and George could be seen in the parlor of the mansion."], "ja": "屋敷の客室には、ベアトと譲治の姿があった。"}
+{"id": 188506, "en": ["George was kneeling near Shannon's body as though praying..."], "ja": "譲治は紗音の遺体の脇に、祈るように跪いている…。"}
+{"id": 188507, "en": ["His face was serious, and there was even sweat on his forehead."], "ja": "その表情は真剣そのもので、額には汗さえ浮いていた。"}
+{"id": 188514, "en": ["However, Beato was the same."], "ja": "しかし、それはベアトも同じだった。"}
+{"id": 188515, "en": ["Now that she had handed her name over, most of her previous power had been lost."], "ja": "自らの名を譲り渡した彼女には、かつての魔力のほとんどが失われている。"}
+{"id": 188518, "en": ["...Of course, she still had more than enough power to be called a witch, but compared to the past, it was a very faint thing."], "ja": "…もちろん、それでも充分に魔女と呼べる魔力はあるが、かつてを思えば、あまりにささやかなものだ。"}
+{"id": 188524, "en": ["\"...Good.", "  Don't talk to her, don't touch her with your hand.", "  ...Call to her with the voice of your heart, and seek her with the hand of your heart.", "  ...Only your strong feelings can make my magic reach Shannon's lost soul.\""], "voix": "bea", "ja": "「……いいぞ。 声を掛けるな、手で触れるな。 …心の声で呼べよ、心の手で求めよ。 …そなたの強き想いだけが、紗音の失われた魂に妾の魔法を届かせる。」"}
+{"id": 188531, "en": ["\"............!\""], "voix": "geo", "ja": "「……………………………っ。」"}
+{"id": 188536, "en": ["George kept praying earnestly and silently."], "ja": "譲治はひたすらに念じ続ける。"}
+{"id": 188537, "en": ["He kept frantically yelling inside his heart, trying to call back the soul of the person he loved."], "ja": "愛しき人の魂を呼び戻そうと、心の中で必死に叫び続ける。"}
+{"id": 188540, "en": ["...He strongly envisioned his soul leaving his body...and searching for her as she wandered through the Land of the Dead."], "ja": "…自らの肉体より魂だけが抜け出して、冥府に迷い込んだ彼女を探すところを強くイメージした。"}
+{"id": 188548, "en": ["...Beato turned that strong force into magical power that supplemented her own magic."], "ja": "……その強い力を、ベアトは魔力に変換し、自らの魔法に加える。"}
+{"id": 188549, "en": ["This was magic that, in the past, she could have performed easily, without anyone's help."], "ja": "かつては誰の助けも借りずに、片手間で出来た魔法だ。"}
+{"id": 188552, "en": ["...But now, if she didn't rely on someone's assistance, she wouldn't be able to finish the chant, much less succeed."], "ja": "…しかし今は、助けを借りなければ、成功は愚か、詠唱を終えるには至らない。"}
+{"id": 188559, "en": ["\"......I'd forgotten for several centuries..."], "voix": "bea", "ja": "「………数百年近くも忘れておったわ…。"}
+{"id": 188568, "en": ["  ......Was magic..."], "voix": "bea", "ja": "………魔法とは、"}
+{"id": 188570, "en": ["was resurrection..."], "voix": "bea", "ja": ":voicedelay 1160^^……反魂とは、"}
+{"id": 188572, "en": ["always this difficult...?\""], "voix": "bea", "ja": ":voicedelay 1240^^…こんなにも辛い魔法であったか……。」"}
+{"id": 188576, "en": ["Beato was wearing an even more strained expression than George."], "ja": "ベアトは、譲治以上に辛い表情を浮かべている。"}
+{"id": 188580, "en": ["...It had slipped her mind, but originally, the magic to revive a life was the ultimate hidden art."], "ja": "…彼女はまだ失念しているが、本来、命を蘇らせる魔法は究極の秘術だ。"}
+{"id": 188581, "en": ["The abnormal thing was her previous magical power, which could be used over and over with a snap of her fingers."], "ja": "それを指を鳴らすだけで何度でも扱えたかつての魔力の方が逸脱しているのだ。"}
+{"id": 188585, "en": ["So, the heavy burden on her body and mind was, fundamentally speaking, extremely natural..."], "ja": "だから、彼女が感じる肉体と精神への強い負担は、本来、極めて正当なもの…。"}
+{"id": 188593, "en": ["\"...However, ......this man's power..."], "voix": "bea", "ja": "「……しかし、………こやつめの力、"}
+{"id": 188595, "en": ["  ...Even though he doesn't know magic, it's nothing to be laughed at.", "  ...I see, so he truly is Kinzo's grandchild...\""], "voix": "bea", "ja": ":voicedelay 4010^^…魔法を知らぬと言うのに、かなりのもの。 ……なるほど、さすがは金蔵の孫といったところか…。」"}
+{"id": 188599, "en": ["The strong energy pouring from George was large enough to act as magical power."], "ja": "譲治より注がれる強い力は、魔力としても通じるほどの大きなもの。"}
+{"id": 188604, "en": ["...At first, Beato thought it must be the blood of Kinzo, the sorceror."], "ja": "…ベアトは初め、それは魔術師であった金蔵の血によるものだろうと思った。"}
+{"id": 188608, "en": ["...However, that probably wasn't it."], "ja": "……しかし、多分、それは違う。"}
+{"id": 188609, "en": ["...She had a feeling that Battler had already told her what it was."], "ja": "…戦人に、それを教えられたような気がする。"}
+{"id": 188611, "en": ["It had been born from the power of George's sadness at the death of the person he loved, ...and from the way he had tried his hardest throughout his life, ", "from the warm time spent together with Shannon, to the size of the dream they swore to protect in the future."], "ja": "譲治の、想い人の死を悲しむ力は、……それまでの彼の一生懸命だった人生と、 紗音との温かな時間、そして将来を誓い合った夢の大きさから生まれるのだ。"}
+{"id": 188618, "en": ["Is it really possible for humans to take life so seriously, even though they only have a single one?"], "ja": "人は、たったひとつの命に、ここまでも真剣に生きるものなのか。"}
+{"id": 188622, "en": ["...It was only natural."], "ja": "……当然だ。"}
+{"id": 188623, "en": ["To her, a life didn't mean anything more than the difference between the top and bottom of an Othello piece."], "ja": "自分にとって命というものは、オセロの表と裏程度の意味しかない。"}
+{"id": 188626, "en": ["If the black represented death, then she thought all you had to do was flip it over again and make it white."], "ja": "黒が死を示すなら、また裏返して白にすればいいだけのものとしか思わなかった。"}
+{"id": 188631, "en": ["However, it was just like that broken vase."], "ja": "しかし、あの割れた壷と同じ。"}
+{"id": 188634, "en": ["...To humans in a world without magic, where they cannot return things to their original form,", " ...it is very, very natural for them to bet their life and soul."], "ja": "……二度と元の姿に戻せない、魔法のない世界の人間ならば、 ……そのたったひとつの命に、全身全霊を賭けるのは、とてもとても当り前なことなのだ。"}
+{"id": 188642, "en": ["\"......So, is an Endless Witch, who can do as she pleases even with life and death...", "inferior to a limited Human who can't even surpass the mountain of death...?\""], "voix": "bea", "ja": "「………生死すら自在にする無限の魔女が、 ……死の山さえ越えられぬ有限のニンゲンに、劣ることもあるというのか……。」"}
+{"id": 188647, "en": ["This time, the witch acknowledged it."], "ja": "魔女は、今こそ認める。"}
+{"id": 188650, "en": ["He was able to hold a magical power that could never reside in witches who didn't understand the value of a life."], "ja": "命の価値を理解できない魔女には宿せない魔力を、彼は持ち得ている。"}
+{"id": 188653, "en": ["...Why does this thing called the Endless Magic exist?"], "ja": "……無限の魔法とは、何のためにあるんだったか。"}
+{"id": 188656, "en": ["...Even though I called myself the Endless Witch,", " did I forget what the Endless Magic means for a thousand years......?"], "ja": "…妾は、無限の魔女を名乗りながら、 無限の魔法の意味を、…千年間も忘れていたのではないのか………。"}
+{"id": 188663, "en": ["She looked at George's expression again."], "ja": "譲治の表情を改めて見る。"}
+{"id": 188664, "en": ["......His surging earnestness was like a lightning bolt."], "ja": "………迸る真剣さは稲妻のよう。"}
+{"id": 188667, "en": ["...Right now, even if George's body had been burned or smashed by a waterfall, ", "he would probably continue to pray for his beloved without minding it, without noticing it."], "ja": "…今の譲治なら、たとえその身を焼かれようとも、滝に打たれようとも、 気にもせず、気付きもせず、愛する者への祈りを続けるだろう。"}
+{"id": 188670, "en": ["For the first time, ...she showed respect for that power."], "ja": "魔女は初めて、…その力に敬意を表した。"}
+{"id": 188673, "en": ["So in that instant, all magical resistance was lost, and the enormous power of George's feelings turned into magical energy in its complete form..."], "ja": "だからその瞬間、全ての魔法抵抗が失われ、譲治の膨大な想いの力が完全な形で魔力に変換される……。"}
+{"id": 188694, "en": ["The vase was very beautiful, rich with history and value."], "ja": "それは、とてもとても美しくて、価値と歴史のある素晴らしい壷でした。"}
+{"id": 188699, "en": ["Even as young as I was, it still forced me to take a deep breath when I witnessed its beauty."], "ja": "幼い私が見ても、その美しさにため息が堪えられないほどに。"}
+{"id": 188700, "en": ["...But that just made me want to touch it."], "ja": "……でも、だから触れてみたかったのです。"}
+{"id": 188708, "en": ["But the vase easily fell and smashed into pieces."], "ja": "しかし、壷はあっさりと落ちて割れて粉々に。"}
+{"id": 188711, "en": ["...Like a bubble that had popped,", " it felt as though the time it possessed a form had been just an illusion."], "ja": "…割れてしまったシャボン玉がそうであるように、 形あった時のそれがまるで幻であったかのように感じてしまう。"}
+{"id": 188714, "en": ["Lives are just that fragile, just that easily...lost."], "ja": "それくらいにあっさりと儚く、……失われてしまった、命。"}
+{"id": 188719, "en": ["I realized that my foolish curiosity had led to something that couldn't be undone."], "ja": "私は、自らの愚かな好奇心が取り返しのつかないことをしてしまったことを悟りました。"}
+{"id": 188724, "en": ["No matter how much I regretted it, no matter how much I apologized."], "ja": "いくら後悔しても、いくら謝っても。"}
+{"id": 188725, "en": ["The smashed vase wouldn't return back to its original form..."], "ja": "砕けてしまった壷は元の姿に戻ってはくれません…。"}
+{"id": 188726, "en": ["A lost life will not return to normal no matter what happens."], "ja": "失われた命は、どのようなことがあっても、元に戻らない。"}
+{"id": 188729, "en": ["I was frightened that, even though my actions had been thoughtless and careless, ", "...they had stolen away a life that could never be revived again."], "ja": "私は自らの軽率な行為が、軽率であるにもかかわらず、 …二度と蘇れない形で命を奪ってしまうことに恐怖しました。"}
+{"id": 188734, "en": ["Then, I pitied that lost life and cried."], "ja": "そして、失われた命を哀れんで、泣きました。"}
+{"id": 188735, "en": ["I was frightened of myself, the one responsible for its loss, and cried even more."], "ja": "失わせた自らに恐怖して、さらに泣きました。"}
+{"id": 188739, "en": ["I'm sure Grandfather will also cry at the loss of his precious vase."], "ja": "お祖父さまも、大切な壷が失われたことを、きっと泣くでしょう。"}
+{"id": 188740, "en": ["I'm sure that all the people who love Grandfather and see him like that will cry."], "ja": "それを見て、お祖父さまを大切に思う人たちもみんな、きっと泣くでしょう。"}
+{"id": 188744, "en": ["With the loss of a single life, the whole world can be filled with so much sadness."], "ja": "たったひとつの命が失われただけで、世界中はこんなにも悲しみに染まるのです。"}
+{"id": 188745, "en": ["...I cried even more at how terrible that was."], "ja": "……その恐ろしさに、私はさらに泣きました。"}
+{"id": 188757, "en": ["Beatrice appeared...and spoke."], "ja": "ベアトリーチェが現れて、言いました。"}
+{"id": 188762, "en": ["\"Then, Milady,", " let us revive that vase with magic.", "  If that will make everyone happy, the vase and the magic and the spirits...", "will happily lend you their power and return it to its original form."], "voix": "wal", "ja": "「ならばお嬢様。 この壷を、魔法で蘇らせましょう。 それで皆が幸せになれるなら、壷も魔法も精霊たちも、 喜んでその為に力を貸し、元の姿を取り戻すでしょう。"}
+{"id": 188768, "en": ["  Come, Milady.", "  Close your eyes and chant with me...\""], "voix": "wal", "ja": "さぁさ、お嬢様。 目を閉じて、私と一緒にお唄を詠いましょう…。」"}
+{"id": 188779, "en": ["\"Come, try closing your eyes.", "  And try to remember.", "  What form did you have?", "  It was surely a very, very beautiful form.", "  Please, show me that form one more time...\""], "voix": "bea", "ja": "「さぁさ、目を閉じて御覧なさい。 そして思い出して御覧なさい。 あなたがどんな姿をしていたのか。 それはきっと、とてもとても美しい姿。 どうか私に、あの姿をもう一度見せておくれ…。」"}
+{"id": 188807, "en": ["Those words of power knocked forcefully on the door to the Land of the Dead."], "ja": "力ある言葉が、冥府の扉を力強く叩く。"}
+{"id": 188808, "en": ["The magic of her old self had performed that same forceful knock."], "ja": "かつての彼女の魔法も、同じように冥府の扉を力強く叩いた。"}
+{"id": 188811, "en": ["...However, doing it that way was horribly violent...and earned the displeasure of the peacefully sleeping dead..."], "ja": "……しかし、それはひどく乱暴で、…安らかに眠る死者たちのひんしゅくを買うものだった…。"}
+{"id": 188815, "en": ["But this time was different."], "ja": "しかし、今は違う。"}
+{"id": 188816, "en": ["...It was very forceful...and yet gentle and loving."], "ja": "…とても力強いのに、…とてもやさしくて慈しみのあるもの。"}
+{"id": 188824, "en": ["The dead near the door opened their eyes...", "and called out to the others that there was a voice calling for someone to come back."], "ja": "扉の近くの死者たちが目を覚まし、 ……戻ってくることを呼び掛ける声があることを、他の死者たちに呼び掛ける。"}
+{"id": 188830, "en": ["...The sadness of that voice calling from the outside touched the hearts of the dead, ", "and, trying to respond as quickly as possible, they searched for Shannon's lost soul..."], "ja": "…死者たちは、外より呼び掛けるその声の悲しさに胸を打たれ、 一刻も早く応えてやろうと、紗音の失われた魂を探す…。"}
+{"id": 188841, "en": ["And then, "], "ja": "そして、"}
+{"id": 188843, "en": ["......they found it."], "ja": "^^!d800………見つける。"}
+{"id": 188845, "en": ["They found the casket in which Shannon was peacefully sleeping."], "ja": "安らかに眠る紗音の棺を見つける。"}
+{"id": 188850, "en": ["It truly was Shannon's soul, sleeping in the land of the dead."], "ja": "それはまさに、死者の国に眠る紗音の魂そのもの。"}
+{"id": 188851, "en": ["...Inside the casket that was covered with rose flowers frozen with frost, she was sleeping in peace..."], "ja": "……霜と凍った薔薇の花で埋められた棺の中で、安らかに眠っている…。"}
+{"id": 188857, "en": ["The dead silently lifted that casket up."], "ja": "死者たちはその棺を静かに担ぎ上げる。"}
+{"id": 188860, "en": ["...While at a glance, it looked like a funeral march, it had the complete opposite meaning."], "ja": "…それは一見、葬送行列に似ていながら、意味はまったく異なるもの。"}
+{"id": 188865, "en": ["It was solemn, but filled with joy."], "ja": "厳かだけれど、喜びに満ちていて。"}
+{"id": 188868, "en": ["...The long-forgotten dead were made to remember that they were loved after their deaths,", " ...and they were all given a warm sense of peace..."], "ja": "…忘れ去られて久しい死者たちに、 自分たちは死してなお、愛され続けていることを思い出させてくれて、 ……彼ら全てに温かな安寧を与えるのだ……。"}
+{"id": 188872, "en": ["Then, ...as though guided by a warm light from the heavens, ...Shannon's body floated up out of the casket..."], "ja": "そして…、天上よりの温かな光に招かれるように、…棺より紗音の体が、浮かび上がる…。"}
+{"id": 188876, "en": ["The dead watched her go."], "ja": "死者たちはそれを見送る。"}
+{"id": 188877, "en": ["...They squinted at that warm light, ", "offering their respect to this unknown member of the living...who had not lost his love for a person even after their death..."], "ja": "……その温かな光に目を細め、 死者への愛を変わらず持ち続けてくれる、見知らぬ生者に敬意を送るのだった…。"}
+{"id": 188893, "en": ["Shannon's body was enveloped in the light from the heavens and began to disappear..."], "ja": "紗音の体が、天上の光の中に、飲み込まれて消えていく…。"}
+{"id": 188897, "en": ["In the jet-black darkness of the land of the dead, the faint flickering of gold butterflies could be seen."], "ja": "死者の国の漆黒の闇の中に、わずかに黄金の蝶が瞬いたのが見えた。"}
+{"id": 188898, "en": ["...It reminded them of the gentle stars in the night sky, which they had long forgotten..."], "ja": "…それは、彼らが忘れて久しい、やさしい夜空の星を思い出させた…。"}
+{"id": 188911, "en": ["\"............!\""], "voix": "geo", "ja": "「……………………っ！」"}
+{"id": 188915, "en": ["George remembered being told that he must not say anything, and he hurriedly covered his mouth."], "ja": "譲治は、声を出してはならないと言われていることを思い出し、慌てて自らの口を塞ぐ。"}
+{"id": 188919, "en": ["However, it felt like his heart was trying to jump into his throat."], "ja": "しかし、喉から心臓が飛び出そうだった。"}
+{"id": 188920, "en": ["...Because he had seen Shannon's eyelids shake slightly."], "ja": "……紗音の瞼が、わずかに震えたのを見たからだ。"}
+{"id": 188927, "en": ["Then, ...those eyelids slowly opened."], "ja": "そして、…ゆっくりとその瞼が開く。"}
+{"id": 188928, "en": ["Shannon's eyes were there, but they were still wrapped in the fog of the land of the dead."], "ja": "そこには紗音の瞳があったが、まだ死者の国の霜が降りたままだった。"}
+{"id": 188932, "en": ["However, ...the human world's warmth..."], "ja": "しかし、……人の世の、…いや。"}
+{"id": 188933, "en": ["...No, her lover's warmth, which had called back her soul, slowly dissolved that fog,", " ......and her eyes gradually regained their sparkle."], "ja": "……彼女の魂を呼び戻した想い人の温かさで、ゆっくりと溶かされていき、 ………次第に、輝きを取り戻していく。"}
+{"id": 188937, "en": ["Then, ......her eyes moved...and recognized George."], "ja": "そして、………その瞳が動き、…譲治の姿を認める。"}
+{"id": 188943, "en": ["\"...George...san......\""], "voix": "sha", "ja": "「……譲治……さん……………。」"}
+{"id": 188951, "en": ["As her lips shook weakly, "], "ja": "紗音が、弱々しく唇を震わせ、"}
+{"id": 188953, "en": ["...Shannon definitely said that."], "ja": "^^!d500……確かにそう言った。"}
+{"id": 188957, "en": ["The words were very faint."], "ja": "それは言葉としてはあまりに弱々しい。"}
+{"id": 188958, "en": ["So much so that they normally wouldn't have reached his ears."], "ja": "普通なら耳にも届かないほどに。"}
+{"id": 188961, "en": ["...However, George clearly heard them."], "ja": "……しかし、譲治にははっきりと聞き取れた。"}
+{"id": 188964, "en": ["......He heard the person he cared for, his fiancée, the one he loved most and who should have been dead,", " call his name once again..."], "ja": "………死んだはずの想い人が、婚約者が、もっとも愛しい人が、 再び自分の名を呼んでくれたのを聞いた…。"}
+{"id": 188978, "en": ["\"Shannon, "], "voix": "geo", "ja": "^^!s1「紗音、"}
+{"id": 188980, "en": ["......Shannon, "], "voix": "geo", "ja": ":voicedelay 950^^………紗音…………、"}
+{"id": 188982, "en": ["...do you..."], "voix": "geo", "ja": ":voicedelay 1030^^僕が、"}
+{"id": 188984, "en": ["...know who I am......?\""], "voix": "geo", "ja": ":voicedelay 650^^……わかるかい………？」"}
+{"id": 188999, "en": ["\"...George-sa...n, ", "......is this...a dream......?\""], "voix": "sha", "ja": "「……譲治さ…ん……。 ……………これは、……夢なの………？」"}
+{"id": 189005, "en": ["\"No.", "  This isn't a dream.", "  ...C'mon, see here...  ...Even if I pinch you, you won't wake up.\""], "voix": "geo", "ja": "「いいや。 これは夢じゃないよ。 ……だからほら、……抓っても、醒めないよ。」"}
+{"id": 189009, "en": ["As George said that, he softly pinched Shannon's cheek."], "ja": "譲治はそう言い、紗音の頬をやさしく抓るような仕草をする。"}
+{"id": 189014, "en": ["...It was how George had always responded in the past, when Shannon had been surprised by something and had asked if she was dreaming."], "ja": "……それはかつて、紗音が何かを驚き、夢かと問う時に必ず譲治が返した仕草。"}
+{"id": 189019, "en": ["When Shannon felt the warm touch of George's finger on her cheek..."], "ja": "紗音は、自分の頬に触れた譲治の指の温かな感触に。"}
+{"id": 189020, "en": ["...And when George realized that the warmth of the living had already returned to his beloved person's cheek..."], "ja": "……そして譲治は、愛しい人の頬に、すでに生きる者の温もりが戻っていることに。"}
+{"id": 189021, "en": ["...They both cried."], "ja": "……二人は涙する。"}
+{"id": 189027, "en": ["...What words should a pair of lovers separated by death celebrate with when they are reunited?"], "ja": "…死別した愛し合う二人は、その再会をどんな言葉で祝しあうのだろう。"}
+{"id": 189028, "en": ["...The words of the human world are not enough."], "ja": "……それを祝いあう言葉は、人の世の狭き言葉では足りない。"}
+{"id": 189031, "en": ["In short, they had no need of the words of this world..."], "ja": "つまり、人の世の言葉など、二人には何の必要もない…。"}
+{"id": 189042, "en": ["George simply hugged Shannon, who was sitting up, without talking."], "ja": "譲治は、上体を起こした紗音と、ただ言葉もなく抱き締め合った。"}
+{"id": 189045, "en": ["Shannon's strength was still feeble...and putting her arms around George's back took all she had, ", "...so George hugged her tightly to make up for that."], "ja": "紗音の力はまだ弱々しくて、譲治の背中に手を回すのが精一杯だったから、 ……譲治はその分、きつく抱き締めた。"}
+{"id": 189048, "en": ["To stop each other from going once more to a place the other's hand couldn't reach,", " they hugged each other so tightly, and yet so gently..."], "ja": "彼女が二度と自分の手の届かないところに行ってしまわないように、 きつくきつく、だけれどもやさしくやさしく、抱き締めた……。"}
+{"id": 189052, "en": ["As Shannon's fingers curled around George's back,", " ...on her ring finger, the engagement ring George had given her definitely shone."], "ja": "譲治の背中に回す紗音の指には、 ……その薬指に、譲治が贈った婚約指輪が確かに光っていた。"}
+{"id": 189056, "en": ["That strong glint certainly wasn't just the sparkle of diamond."], "ja": "その強い輝きは、決してダイヤの輝きだけではない。"}
+{"id": 189057, "en": ["...There definitely was a magical power that only the two lovers could possibly feel."], "ja": "……愛する二人にしか感じ得ない魔力が、確かにあった。"}
+{"id": 189060, "en": ["It was because that strong light existed...that they had been able to find her casket in the land of the dead."], "ja": "その強い輝きがあったからこそ、…死者の国で、彼女の棺は見つけてもらえたのだ。"}
+{"id": 189069, "en": ["Beato understood."], "ja": "ベアトは理解する。"}
+{"id": 189072, "en": ["...That ring, ...no."], "ja": "……その指輪が、……いや。"}
+{"id": 189075, "en": ["......The feelings of the pair, embodied in that ring, were a miracle made real."], "ja": "…………指輪の形をした、二人の想いが、この奇跡を実現させたのだ。"}
+{"id": 189082, "en": ["In that moment, George definitely used magic."], "ja": "譲治はあの瞬間、確かに魔法を使った。"}
+{"id": 189083, "en": ["Beato had done nothing more than help him along."], "ja": "ベアトはその手助けをしたに過ぎない。"}
+{"id": 189084, "en": ["That magic had a power that could only reside in those who knew of the importance of life, who knew what it meant to try with all one's might."], "ja": "その魔法には、命の大切さと一生懸命を知る者にしか宿しえない魔力があった。"}
+{"id": 189088, "en": ["It was the power of a miracle, one that the Endless Witch couldn't possibly know of...", "  A miracle that only the power of the finite could give rise to."], "ja": "無限の魔女には知ることのできない、……有限の力にしか起こせない、奇跡の力。"}
+{"id": 189092, "en": ["By now, she had no choice but to accept it."], "ja": "今こそ認めざるを得ない。"}
+{"id": 189093, "en": ["...She had to accept that true magic, true magical power..."], "ja": "……本当の魔法とは、魔力とは。"}
+{"id": 189096, "en": ["...Exists in the place furthest away from she who called herself a Great Witch."], "ja": "…大魔女を名乗った彼女と、もっとも遠く離れたところにあったことを、認めなければならない。"}
+{"id": 189105, "en": ["\"......Beatrice...sama...\""], "voix": "sha", "ja": "「………ベアトリーチェ…さま……。」"}
+{"id": 189111, "en": ["\"...She brought you back to life..."], "voix": "geo", "ja": "「……彼女が君を生き返らせてくれたんだ…。"}
+{"id": 189117, "en": ["  Thank you, Beatrice...!\""], "voix": "geo", "ja": "ありがとう、ベアトリーチェ…！」"}
+{"id": 189124, "en": ["\"No.", "  I did nothing."], "voix": "bea", "ja": "「いいや。 妾は何もできなかった。"}
+{"id": 189130, "en": ["  ...What revived Shannon...was your magical power.", "  It was your magic.", "  ......The Ushiromiya blood, which makes miracles come true, ...surely saw you through.\""], "voix": "bea", "ja": "……紗音を蘇らせたのは、そなたの魔力。 そなたの魔法。 …………奇跡を成し遂げる右代宮の血、…確かに見届けさせてもらったぞ。」"}
+{"id": 189138, "en": ["\"......George-san...revived me...?\""], "voix": "sha", "ja": "「………譲治さんが、……私を……？」"}
+{"id": 189144, "en": ["\"...Indeed.", "  ......It was an incredible display of magical power, one that I could not hope to compete with."], "voix": "bea", "ja": "「…うむ。 ………妾など足元にも及ばぬほどの、凄まじき魔力であったぞ。"}
+{"id": 189149, "en": ["  ...So, I am still nothing more than an apprentice.", "  ...Now I finally know my place.\""], "voix": "bea", "ja": "……妾など、まだまだ見習いの域を出ぬか。 …今こそ身の程を知ろうぞ。」"}
+{"id": 189156, "en": ["Beato staggered backwards."], "ja": "ベアトはふらりと後へよろめく。"}
+{"id": 189157, "en": ["...Her physical strength was clearly exhausted."], "ja": "…明らかに体力を消耗しきっていた。"}
+{"id": 189160, "en": ["She had humbly said that George's power alone had revived Shannon, but Beato had also used all of her magical and physical strength."], "ja": "譲治の力だけで蘇らせたと謙遜しているが、ベアトも全身の魔力と体力を使い切っていた。"}
+{"id": 189163, "en": ["...And she reflected upon how difficult it was to revive a single life, something she'd been able to play around with however she wanted to in the past."], "ja": "…そして、かつて、自由自在に弄んでいた命を、たったひとつ蘇らせるだけで、 これほどの重みがあるのかと、…それを噛み締めている。"}
+{"id": 189167, "en": ["The couple kept on embracing each other tightly."], "ja": "二人はいつまでも、力強く抱擁を交し合う。"}
+{"id": 189168, "en": ["...By doing that, those feelings that couldn't be communicated with a billion words...were shared..."], "ja": "…百億の言葉でも伝えられない気持ちを、そうして伝え合っていた…。"}
+{"id": 189178, "en": ["\"Thank you, Beatrice.", "  ...We're in your debt...\""], "voix": "geo", "ja": "「ありがとう、ベアトリーチェ。 …君は僕たちの恩人だ…。」"}
+{"id": 189185, "en": ["\"...Thank you very much, Beatrice-sama.", "  ...I'll never forget the debt I owe you for bringing me to George again.\""], "voix": "sha", "ja": "「…ありがとうございます、ベアトリーチェさま。 ……再び譲治さまに会わせて下さったこのご恩を、…決して忘れません。」"}
+{"id": 189192, "en": ["\"...Stop that, stop that.", "  Being thanked by a pair of lovers is far too embarrassing for one who has been feared as a monster of a person."], "voix": "bea", "ja": "「……よせよせ。 愛し合う二人に感謝されては、外道の極みと恐れられた妾にはくすぐった過ぎるというものよ。"}
+{"id": 189197, "en": ["  ...Don't worry...about me.", "  ...Celebrate your reunion together......to the fullest......\""], "voix": "bea", "ja": "……妾のことは、…気にするな。 …存分に、………再会を、祝い合え………。」"}
+{"id": 189206, "en": ["Beato, who was leaning with her back against the wall, slid down the wall and sat."], "ja": "壁に背中をもたれ掛けるベアトは、そのままずるりと壁を背負ったまま、座り込む。"}
+{"id": 189207, "en": ["How many centuries had it been since she last grew this tired from using magic?"], "ja": "こんなにも魔法で疲労したのは何百年ぶりなのか。"}
+{"id": 189210, "en": ["...I probably haven't been this tired since the time I first succeeded in magic."], "ja": "……多分、初めて魔法を成し遂げた時以来。"}
+{"id": 189213, "en": ["......Didn't Teacher praise me that time?"], "ja": "………その時は、お師匠さまが褒めてくれたっけなぁ。"}
+{"id": 189216, "en": ["Oh, but didn't I kill that same Teacher who praised me?"], "ja": "あぁ、でも、褒めてくれるお師匠様は、自分で殺しちまったんだっけ。"}
+{"id": 189219, "en": ["...Don't be so naive, Beatrice."], "ja": "……甘えんなよ、ベアトリーチェ。"}
+{"id": 189222, "en": ["...Isn't that what killing means...?"], "ja": "…モノを殺すってのはつまり、そういうことじゃねぇかよォ…。"}
+{"id": 189233, "en": ["\"...Finally.", "  ...It seems you've finally remembered how to use magic.\""], "voix": "wal", "ja": "「……ようやく。 …魔法の使い方を、思い出したようですね。」"}
+{"id": 189239, "en": ["\"......My head...feels parched and suffocated, ...and I can't even remember..."], "voix": "bea", "ja": "「……………頭ン中、酸欠でカラカラで、……思い出すもヘチマもねェぜ…。"}
+{"id": 189245, "en": ["  ...More importantly, ...didn't I kill you?", "  You shouldn't be appearing...\""], "voix": "bea", "ja": "…それよりアンタ、…殺したじゃねぇかよ。 現れるんじゃねぇよ…。」"}
+{"id": 189252, "en": ["\"You are still allowing me to live even now.", "  That is why I can appear like this.", "  ...However, I did not come just to pat your head.\""], "voix": "wal", "ja": "「あなたが未だに私を生かしていますよ。 だからこうして現れられます。 ……もっとも、あなたの頭を撫でに来たわけでもありませんが。」"}
+{"id": 189258, "en": ["\"...Did you come to sneer at how pathetic I am?"], "voix": "bea", "ja": "「……無様な妾を、わざわざ嘲笑いに来たかよ。"}
+{"id": 189263, "en": ["  ...Anyway, ...if I have my head patted by a retired witch after all that's happened, the other witches will laugh at me...\""], "voix": "bea", "ja": "……それに、隠居までした魔女が、…今更頭なんか撫でられちゃ、他の魔女の笑い者だぜ……。」"}
+{"id": 189269, "en": ["\"That's right.", "  ...According to your bragging, you were not only a full adult, but a retired one,", " and yet only now have you learned how to use magic.  That certainly does sound too embarrassing to tell anyone.\""], "voix": "wal", "ja": "「そうですね。 ……一人前どころか、現役を退いたと豪語するあなたなのに、 今頃になって魔法の使い方を覚えたなど、恥ずかしくて誰にも言えませんね。」"}
+{"id": 189275, "en": ["\"......Yeah, tell me about it.", "  ...Keep it a secret, okay, Teacheer...?\""], "voix": "bea", "ja": "「…………だなァ。 ……内緒にしてくれよォ、お師匠様…。」"}
+{"id": 189279, "en": ["Beato gazed at the couple hugging each other with a sense of pleasant despondency."], "ja": "ベアトは心地よい虚脱感の中、抱き合う二人を見つめるのだった。"}
+{"id": 189287, "en": ["\"Love, is it?"], "voix": "bea", "ja": "「愛、かァ。"}
+{"id": 189292, "en": ["  ......I'm no match...\""], "voix": "bea", "ja": "……………勝てねぇなァ…。」"}
+{"id": 189308, "en": ["\"45, Data Received.", "  Firing Preparations Concluded.", "  Ammo Type Selected and Loaded.\""], "ja": "「４５データ受領。 射撃準備完了。 弾種選定、装填。」"}
+{"id": 189350, "en": ["\"410, Firing.", "  Nihi!\""], "ja": "「４１０、射撃。 にひ！」"}
+{"id": 189409, "en": ["The gold snake arrow fired by the Chiesters..."], "ja": "シエスタ姉妹の放つ、黄金の蛇の矢が、"}
+{"id": 189417, "en": ["weaved its way through the bushes in the rose garden, "], "ja": "^^!s0薔薇庭園の茂みを縫い、!d800"}
+{"id": 189426, "en": ["weaved its way through the hedges, "], "ja": "垣根を縫い、!d800"}
+{"id": 189435, "en": ["and climbed the stone steps towards the mansion's entrance, "], "ja": "石段を登って屋敷の玄関を、!d1000"}
+{"id": 189444, "en": ["aiming for the keyhole."], "ja": "その鍵穴を目指す。"}
+{"id": 189453, "en": ["It weaved through the corridors..."], "ja": "それは廊下を縫い、!d900"}
+{"id": 189462, "en": ["and flew into the keyhole on the door to the parlor...!"], "ja": "客間の扉の鍵穴に飛び込む…！"}
+{"id": 189478, "en": ["\"...Aaaaaaaaaaaaaaaaaaaaaaahhhh?!?!\""], "voix": "bea", "ja": "「……ああああああぁああぁッ？！？！」"}
+{"id": 189482, "en": ["It happened in an instant."], "ja": "一瞬の出来事だった。"}
+{"id": 189484, "en": ["...One could hardly blame Beato, who was completely worn out, for not noticing it beforehand."], "ja": "…疲労しきったベアトに、それを事前に気付けというのは困難な話だった。"}
+{"id": 189541, "en": ["Right before Beato's eyes, the gold snake flew in through the keyhole,", " ...surrounded the two lovers, "], "ja": "ベアトの眼前で、鍵穴より飛び込んできた黄金の蛇が、 愛し合う二人をぐるぐるっと取り囲んで、"}
+{"id": 189543, "en": ["and pierced the two hearts in a blink of an eye."], "ja": "^^!d800二人の心臓を瞬時に貫通した。"}
+{"id": 189546, "en": ["...Furthermore, the gold snake faithfully pierced a hole through Shannon's chest once more..."], "ja": "……しかも律儀に、紗音の胸の穴にもう一度、黄金の蛇を貫かせた…。"}
+{"id": 189551, "en": ["The two hearts were pierced by that gold snake...", "no, by that gold sewing thread of the new brutal witch's furniture,", " ......and it had happened in an instant, mocking the amount of effort it had taken to revive Shannon...!"], "ja": "二人は黄金の蛇に、 …いや、新しき残忍な魔女の家具の、黄金の縫い糸によって、心臓を打ち抜かれて、 ………蘇らせるのに掛けた手間と、あまりに見合わないほどの一瞬で…！"}
+{"id": 189578, "en": ["Before Beato's shocked eyes, the two fell over and landed on the floor..."], "ja": "呆然とするベアトの目の前で、二人は倒れ、床に横たわる…。"}
+{"id": 189589, "en": ["\".........G-"], "voix": "bea", "ja": "^^!s1「………じょ、"}
+{"id": 189591, "en": ["George, "], "voix": "bea", "ja": ":voicedelay 630^^……譲治……、"}
+{"id": 189593, "en": ["......Shannon......\""], "voix": "bea", "ja": ":voicedelay 1370^^………紗音……………。」"}
+{"id": 189613, "en": ["\"...Thank you, "], "voix": "geo", "ja": "^^!s1「……ありがとう、"}
+{"id": 189615, "en": ["...Beatrice...", "  ...For letting us meet, "], "voix": "geo", "ja": ":voicedelay 790^^…ベアトリーチェ……。 …わずかの間でも、"}
+{"id": 189617, "en": ["...even just for a short while, "], "voix": "geo", "ja": ":voicedelay 1380^^…会わせてくれて、"}
+{"id": 189619, "en": ["...thank you......\""], "voix": "geo", "ja": ":voicedelay 1080^^……ありがとう………。」"}
+{"id": 189631, "en": ["George spent his last breath thanking Beato...and died alongside the one he loved."], "ja": "譲治は最後の息を、ベアトに感謝することに費やし、愛しき人と肩を並べて絶命する。"}
+{"id": 189636, "en": ["The gold snake, which still sewed the two in place, spun like a large cyclone, revolving around the inside of the parlor."], "ja": "その二人を今尚縫い止めたままの黄金の蛇は、大きく渦を巻くように、ぐるぐるっと客間内を旋回する。"}
+{"id": 189639, "en": ["......It was searching for further prey in that room."], "ja": "………さらなる室内の獲物を探っているのだ。"}
+{"id": 189674, "en": ["Then, the tip of the snake met Beato's gaze..."], "ja": "そしてその蛇の先端とベアトの目が合う…。"}
+{"id": 189675, "en": ["In that instant, Beato was prepared to die."], "ja": "ベアトはその瞬間、死を覚悟した。"}
+{"id": 189685, "en": ["At that moment, Virgilia stood in front of her, the fingers of both her hands drawing a seal."], "ja": "その時、ワルギリアがその前に立ちはだかり、両手の指で印を描く。"}
+{"id": 189695, "en": ["Instantly, gold-colored gold leaf buried the inside of the parlor."], "ja": "その瞬間、黄金色の金箔が客間の中を埋め尽くした。"}
+{"id": 189696, "en": ["It was like a blizzard of gold..."], "ja": "それはさながら黄金の吹雪…。"}
+{"id": 189705, "en": ["\"Beato, run while you can!!"], "voix": "wal", "ja": "「ベアト、今の内に逃げてッ！！ 　シエスタの黄"}
+{"id": 189706, "en": ["  ~ib~No one can escape~ib~", " from the Chiesters' golden bow!!!\""], "voix": "wal", "ja": "金弓からは^~ib~^誰も逃れられない^~ib~^ッ！！！」"}
+{"id": 189719, "en": ["\"410, Target Lost!!", "  Nihyah, it's magical chaff!!\""], "ja": "「４１０、標的失探！！ 　にひゃっ、魔法欺瞞紙ッ！！」"}
+{"id": 189725, "en": ["\"45, roger that...!"], "ja": "「４５了解…！"}
+{"id": 189730, "en": ["  Modifying Search Algorithm, Switching to Anti-Personnel Image-Based Tracking.", "  Target Lock Reacquired, Data Link to 410.\""], "ja": "索敵変更、対人画像追尾方式。 標的再補足、４１０へデータリンク。」"}
+{"id": 189736, "en": ["\"410, Data Received.", "  Too slow, Predecessor-sama!"], "ja": "「４１０データ受領。 すっトロいにぇ、先代さまぁッ！！"}
+{"id": 189743, "en": ["  Coming, coming, coming, "], "ja": "来た来た来たぁ、"}
+{"id": 189745, "en": ["...impact!!\""], "ja": ":voicedelay 1590^^…着弾ッ！！」"}
+{"id": 189762, "en": ["Prey targeted by the Chiester Sisters' golden bow did not escape.", "  It could not be blocked."], "ja": "シエスタ姉妹の黄金弓は、狙った獲物を逃さない。 防がせない。"}
+{"id": 189765, "en": ["...No magical barrier could even dream of blocking it without being multilayered."], "ja": "…魔法的なあらゆる障壁も、多層でなければ防ぐことを夢見ることさえ許さない。"}
+{"id": 189774, "en": ["The gap opened during that instant of confusion caused by Virgilia's deception magic was Beato's only chance to escape."], "ja": "ワルギリアが放った欺瞞魔法により、一瞬だけ混乱したその隙だけが、ベアトが逃げ去るチャンス。"}
+{"id": 189777, "en": ["And, it was the only chance to make the sisters confuse Virgilia for Beato."], "ja": "そして、姉妹がワルギリアをベアトと誤解する唯一のチャンス。"}
+{"id": 189785, "en": ["As Virgilia spread her arms wide, blocking the way to her beloved disciple, the gold snake pierced straight through her heart..."], "ja": "両手を広げて愛弟子を庇うワルギリアの心臓の位置を正確に、黄金の蛇が打ち抜く…。"}
+{"id": 189794, "en": ["After sneaking in through the keyhole, the snake shot through George, Shannon, and then Virgilia in an instant, ", "completely failing to notice Beato as she used that instant to escape..."], "ja": "鍵穴より侵入し、譲治と紗音の二人を撃ち抜き、さらにワルギリアまでも撃ち抜いた黄金の蛇は、 その瞬間に逃げ去ったベアトについては完全に気付けなかった…。"}
+{"id": 189817, "en": ["As soon as Virgilia saw that Beato had gotten away, she died."], "ja": "ワルギリアは、ベアトが逃げ切れたことを見届けると、事切れる。"}
+{"id": 189827, "en": ["...The strength left her body, and like gold dust drifting with the wind, her form was erased..."], "ja": "……がくりと脱力し、その姿をさらさらと風に飛ぶ砂金のようにして、姿を消していった…。"}
+{"id": 189839, "en": ["Beato completely erased all traces of her magical power,", " became gold butterflies, and passed through the wall, escaping to the wind and rain outside..."], "ja": "ベアトは魔力の痕跡を完全に消し去り、 黄金の蝶になって、壁をすり抜けて風雨の戸外へ逃げ去る……。"}
+{"id": 189847, "en": ["\".........Damn it, "], "voix": "bea", "ja": "「………………くそ、"}
+{"id": 189849, "en": ["......damn it, damn it...", "  ...You bitch, "], "voix": "bea", "ja": ":voicedelay 1590^^………くそくそ…。 ……おのれ、"}
+{"id": 189851, "en": ["...you biiiiiiiiiiiiiiiiiiiitch...!!\""], "voix": "bea", "ja": ":voicedelay 1190^^……おのれぇええぇぇぇッ…！！」"}
+{"id": 189858, "en": ["Beato felt regret from the bottom of her heart."], "ja": "ベアトは心の底から悔しがる。"}
+{"id": 189863, "en": ["Why?"], "ja": "何に？"}
+{"id": 189864, "en": ["Because she had been attacked by the new witch?"], "ja": "新しき魔女に襲われたから？"}
+{"id": 189867, "en": ["Probably not."], "ja": "多分、違う。"}
+{"id": 189870, "en": ["Of course, she hated losing her teacher."], "ja": "師匠を失ったことももちろん悔しい。"}
+{"id": 189873, "en": ["And even more importantly, Beato was enraged at the barbarism that had boorishly stolen away the reunion between two lovers."], "ja": "そしてそれ以上に、再会できた愛し合う二人の逢瀬を無粋に奪った蛮行に、ベアトは憤った。"}
+{"id": 189884, "en": ["...Beato had poured out almost all of her magical power to reunite them."], "ja": "……二人を再会させるために、ベアトは魔力のほとんどを注ぎ込んだ。"}
+{"id": 189885, "en": ["...Even though the result had been a miracle, "], "ja": "…その末に至った奇跡なのに、"}
+{"id": 189887, "en": ["...the time it took to steal that away had been so ridiculously short...!"], "ja": "^^!d600……それを奪い去る時間はあまりに一瞬…！"}
+{"id": 189890, "en": ["Beato trembled at the barbarous cruelty that had brought about such an abrupt end."], "ja": "その呆気ないまでの蛮行の残酷さに、ベアトは打ち震える。"}
+{"id": 189894, "en": ["...Besides, ...this was the true form of the acts she herself had committed up until that point..."], "ja": "……そしてそれは、自らが犯してきた行為の正体でもあるのだ…。"}
+{"id": 189895, "en": ["So just as strongly as Beato hated the new witch, she also looked at her previous self with disgust."], "ja": "だからベアトは、新しき魔女を憎むのと同じだけ、かつての自らを嫌悪した。"}
+{"id": 189905, "en": ["But now, she had to escape..."], "ja": "だが、今は逃げなければ…。"}
+{"id": 189906, "en": ["...If she was targeted next, she would probably lose her life."], "ja": "……次に狙われれば命を落とすだろう。"}
+{"id": 189909, "en": ["To think that a chess player had descended, thinking they were like a god,", " ...only to be attacked by the pieces."], "ja": "チェスのプレイヤーが、神様気取りで降臨し、駒に討ち取られたなんて、 笑い話にもならないのだから。"}
+{"id": 189925, "en": ["\"45, Impact Confirmed, Target Scattered.", "  ...W-Without a doubt, we crushed the Predecessor-sama...!\""], "ja": "「４５、着弾確認、標的四散。 ……ま、間違いなく、先代さまを撃破しました…！」"}
+{"id": 189930, "en": ["\"Looks like our pile of kill medals is gonna get bigger again nyeh.", "  Nihi!\""], "ja": "「まぁた私たちの撃墜記章が増えちまうにぇ。 にひ！」"}
+{"id": 189940, "en": ["\"What was that about loving couples?", "  You get to enjoy tearing the two apart by death, reuniting them, and then tearing them apart again, right?"], "ja": "「愛し合う二人、……何だっけ？ 　引き裂いて一度、会わせて二度、もう一度引き裂いて三度楽しめる、だっけ？"}
+{"id": 189943, "en": ["  *cackle*  Hihihihihihhihi!\""], "ja": "くっくくひひひひひっひひ！"}
+{"id": 189948, "en": ["\"And along with that, I get to say goodbye to that damn fussy old hag.", "  ...Ronove, you don't have any complaints, right?\""], "ja": "そのついでにあのクソ五月蝿いババアまでさよならできて、最高にご機嫌よ。 ……ロノウェ、文句ないわよね？」"}
+{"id": 189955, "en": ["\"...I do not, ", "Beatrice-sama.\""], "voix": "ron", "ja": "「……ございませんとも。 ベアトリーチェさま。」"}
+{"id": 189961, "en": ["\"That person interfered with the ceremony of the witch's epitaph, you see?", "  She revived a sacrifice from the first twilight without permission, obstructing my ceremony.", "  She's got no right at all to complain.\""], "ja": "「あいつは、魔女の碑文の儀式を妨害したのよ？ 　第一の晩の生贄を勝手に蘇らせて、私の儀式を妨害したわ。 文句言われる筋合いなんか、なぁんにもないわよ。"}
+{"id": 189966, "en": ["\"Kuhhihihihhyahyahyahya...!", "  But it sucks that she didn't leave a corpse behind.", "  ...And I thought I'd be able to torture that old hag to death over and over again endlessly.", "  Kuhhihihyahyahya...!!\""], "ja": "くっひひひっひゃひゃひゃひゃ…！ 　しかしズルイなぁ、あいつは死体を残さないのね。 ……あのババァも、思いっきり何度も無限に虐め殺して遊んでやろうと思ったのに。 くっひひひゃひゃひゃ…！！」"}
+{"id": 189973, "en": ["\"............\""], "voix": "ron", "ja": "「……………………。」"}
+{"id": 190008, "en": ["\"G-George did...?!", "  No, I didn't see him.  When did he come down?!\""], "voix": "eva", "ja": "「じょ、譲治が…？！ 　来てないわよ、いつ降りたのよ？！」"}
+{"id": 190016, "en": ["\"...Wh-When, you say...?", "  Uh, what hour was that, again...?\""], "voix": "but", "ja": "「……い、いつって…。 あれは何時位だったっけ…？」"}
+{"id": 190024, "en": ["\"I think...it was probably around 4:00 or 5:00.", "  ...At the very least, it was more than an hour ago...\""], "voix": "jes", "ja": "「確か、…４時か５時くらいだったかなぁ。 …最低でも１時間以上は前だよ…。」"}
+{"id": 190031, "en": ["\"We got sleepy...and probably dozed off after that..."], "voix": "but", "ja": "「俺たち、眠くなってその後は多分、居眠りしてたし…。"}
+{"id": 190037, "en": ["  But I think it's probably like Jessica says.", "  About one or two hours ago.\""], "voix": "but", "ja": "でも多分、朱志香の言う通りだと思うぜ。 １時間か２時間くらい前だった。」"}
+{"id": 190045, "en": ["\"I-I also remember something from around that time.", "  I was asked if I wanted more coffee...\""], "voix": "nan", "ja": "「わ、私もそのくらいの頃だと記憶しています。 コーヒーのお代わりはいるかと聞かれましたからな…。」"}
+{"id": 190051, "en": ["Something hard to believe had happened..."], "ja": "信じ難いことが起きた…。"}
+{"id": 190054, "en": ["Apparently, when Aunt Eva had left for a second to wash her hands, ", "Uncle Krauss and Aunt Natsuhi had disappeared."], "ja": "絵羽伯母さんが、ちょっとお手洗いに行っている間に、 蔵臼伯父さんと夏妃伯母さんがいなくなってしまったというのだ。"}
+{"id": 190064, "en": ["There's no way they went hiding somewhere."], "ja": "どこかに隠れているわけもない。"}
+{"id": 190065, "en": ["Of course, the doors and windows had all been rigorously checked, and all were locked from the inside.", "  Not one of them was broken."], "ja": "もちろん、戸締りは全て厳重で、内側から鍵が掛けられている。 破られているものはひとつもない。"}
+{"id": 190069, "en": ["And that wasn't just true for the first floor.  The second floor was the same."], "ja": "それは１階だけじゃない、２階も同様だ。"}
+{"id": 190070, "en": ["Again, all the doors and windows had locks built in a way that made it impossible to lock them from the outside."], "ja": "また、全ての扉や窓について、その構造上、外からは掛けられない形の鍵を有している。"}
+{"id": 190076, "en": ["...In other words, there was no way that Uncle Krauss and Aunt Natsuhi had gone outside."], "ja": "…つまり、蔵臼伯父さんたちが外へ出たわけもないのだ。"}
+{"id": 190077, "en": ["...And yet, they couldn't be found."], "ja": "……にもかかわらず、その姿がない。"}
+{"id": 190080, "en": ["Furthermore, they weren't the only ones who had disappeared.  ...So had George-aniki, of all people."], "ja": "そして、姿を消したのは二人だけではなく、……何と譲治の兄貴もだった。"}
+{"id": 190087, "en": ["George-aniki had left saying he was going to get more coffee, "], "ja": "譲治の兄貴は、コーヒーのお代わりを取りに行くと言い残し、"}
+{"id": 190092, "en": ["and had gone downstairs more than an hour earlier."], "ja": "１時間以上は前に、下へ降りていったきりだ。"}
+{"id": 190098, "en": ["We'd assumed that he was having a conversation with Aunt Eva and the rest, ", "...but Aunt Eva, who had been in the lobby the whole time, said that no one had come down."], "ja": "きっと、絵羽伯母さんたちと会話が弾んでいるのだろうと思い込んでいたのだが、 ……ずっとロビーにいた絵羽伯母さんは、誰も降りてこなかったと話す。"}
+{"id": 190101, "en": ["Since all the doors and windows were locked from the inside,", " ...it was unthinkable that they had gone outside."], "ja": "全ての扉と窓が内側から施錠されている以上、 …彼らが外へ出て行ったとは考えられない。"}
+{"id": 190104, "en": ["...However, three humans had evaporated from this barricaded guesthouse, which had become a perfect closed room..."], "ja": "……しかし、この完全な密室と化した篭城のゲストハウスから、人間が３人も蒸発したのだ……。"}
+{"id": 190107, "en": ["In a situation like this, we couldn't imagine that this was because they were playing hide-and-seek and trying to scare us with a prank."], "ja": "このような状況下で、驚かすなんて悪戯のために、彼らが隠れん坊をする理由など考えられない。"}
+{"id": 190110, "en": ["...It was probably reasonable to assume that they'd been caught up in this crime..."], "ja": "……事件に巻き込まれたと考えるのが妥当だろう…。"}
+{"id": 190115, "en": ["When Aunt Eva had learned that her only son was missing,", " she had gone half insane, running from room to room and yelling his name."], "ja": "絵羽伯母さんは、一人息子が失踪していたことを知り、 半狂乱になって、部屋から部屋へ大声でその名を呼びながら駆け回っている。"}
+{"id": 190118, "en": ["...And Jessica, who had suddenly lost both of her parents, had chased after her."], "ja": "…そして、唐突に両親を失った朱志香も後に続く。"}
+{"id": 190123, "en": ["Cries of `George, George' and `Mom, Dad' had continued to echo through the guesthouse for some time..."], "ja": "ゲストハウスの中には、譲治譲治という声と、父さん母さんという声が、いつまでも木霊し続けている…。"}
+{"id": 190128, "en": ["I think George said something about wanting to see Shannon's dead face."], "ja": "譲治の兄貴は、紗音ちゃんの死に顔を見たい、というようなことを口にしていたと思う。"}
+{"id": 190131, "en": ["...It would be reasonable to assume that he snuck out of the guesthouse and went to the mansion."], "ja": "……こっそりとゲストハウスを抜け出して、屋敷へ行ったと考えるのが妥当だった。"}
+{"id": 190135, "en": ["...But I didn't have a clue about Uncle Krauss and Aunt Natsuhi."], "ja": "…だが、蔵臼伯父さんたちについてはわからない。"}
+{"id": 190136, "en": ["...Did they see him leave...and then go to the mansion to search for him...?"], "ja": "…それを察して、屋敷へ探しに行ったのだろうか…？"}
+{"id": 190139, "en": ["Without even telling Aunt Eva...?"], "ja": "絵羽伯母さんに声も掛けずに…？"}
+{"id": 190142, "en": ["At this rate, it's only a matter of time before we start planning to leave the guesthouse to go search for them."], "ja": "このままでは、ゲストハウスを出て彼らを探しに行こうという話になるのも、時間の問題だろう。"}
+{"id": 190145, "en": ["......When that time comes, I'll agree."], "ja": "………この期に及んでは、俺もそれに賛成だ。"}
+{"id": 190152, "en": ["We'd thought staying holed up in the guesthouse would be safe,", " which was why our big, happy group of 12 people locked themselves up here this morning."], "ja": "ゲストハウスに閉じ篭ってれば安全だと言って、 俺たちは今朝、１２人もの大所帯でここに閉じ篭ったはずなんだ。"}
+{"id": 190156, "en": ["And yet, now there's only four of us left."], "ja": "なのにそれが、今やここには４人しかいない。"}
+{"id": 190157, "en": ["...That means staying here is no guarantee of safety..."], "ja": "……つまり、ここにいることが安全を意味したりはしないのだ…。"}
+{"id": 190164, "en": ["However, ...there's one thing we can't afford to forget."], "ja": "だが、…その前に忘れてはならないことがある。"}
+{"id": 190165, "en": ["All the doors and windows were locked from the inside."], "ja": "全ての扉と窓が内側から閉ざされているということだ。"}
+{"id": 190168, "en": ["...This is a closed room."], "ja": "……ここは密室なのだ。"}
+{"id": 190171, "en": ["How did they manage to vanish from this place?"], "ja": "どうやって彼らはここから姿を消したというのか。"}
+{"id": 190186, "en": ["We searched around thoroughly."], "ja": "俺たちは徹底的に探し回った。"}
+{"id": 190187, "en": ["However, we couldn't find any traces of someone hiding."], "ja": "しかし、誰かが隠れている痕跡は見つけられなかった。"}
+{"id": 190190, "en": ["...The three of them had almost certainly been taken outside the guesthouse."], "ja": "…ほぼ間違いなく、彼ら３人はゲストハウスの外へは連れ出されている。"}
+{"id": 190199, "en": ["\"......I wonder how it was done...", "  You don't think...there might be something like a hidden door?\""], "voix": "nan", "ja": "「………どうやってでしょう…。 まさか、……隠し扉とかがあるとか。」"}
+{"id": 190207, "en": ["\"A hidden door...?\""], "voix": "but", "ja": "「隠し扉…？」"}
+{"id": 190213, "en": ["\"...The doors and the windows were built in a way that makes them impossible to lock from the outside.", "  Even using a fish line, it would probably be impossible with the way they're constructed."], "voix": "nan", "ja": "「…扉も窓も、外から閉めることは構造上、不可能です。 釣り糸の類を使っても、この構造では無理でしょうな。"}
+{"id": 190218, "en": ["  So, it may be reasonable to assume that they left via something other than a door or a window...\""], "voix": "nan", "ja": "となれば、扉や窓以外から出たと考えるのが妥当でしょう…。」"}
+{"id": 190224, "en": ["\"......You're right.", "  That does make logical sense.", "  ...No one can be sure that no hidden doors exist.\""], "voix": "but", "ja": "「………確かに。 そういう論法にもなるだろうよ。 ……隠し扉が存在しないなんて断言は誰にもできない。"}
+{"id": 190229, "en": ["\"...However, before leaping to that conclusion, I suspect a much simpler possibility.\""], "voix": "but", "ja": "…しかし、そういう発想に飛躍する前に、俺はもっとシンプルな可能性も疑ってる。」"}
+{"id": 190235, "en": ["\"And...what would that be...?\""], "voix": "nan", "ja": "「と、…申しますと……？」"}
+{"id": 190241, "en": ["For some time, Battler had been opening windows, opening shutters, and checking outside,", " repeating this for each window."], "ja": "戦人はさっきから、窓を開け、鎧戸を開けては外を確かめる仕草をして、 それを次々に繰り返していた。"}
+{"id": 190248, "en": ["\"......Hmm.", "  ...This window's pretty quiet."], "voix": "but", "ja": "「………ん。 …この窓は静かだな。"}
+{"id": 190253, "en": ["  ...I see, unlike the other windows, because of how the building's shaped, the wind doesn't blow into this one.\""], "voix": "but", "ja": "…なるほど、この窓は他と違って建物の構造上、風が吹き込まないわけか。」"}
+{"id": 190260, "en": ["\"It appears that way...", "  It feels strange that no wind or rain comes in, even though there is so much of it outside.\""], "voix": "nan", "ja": "「そのようですな…。 こんなにも外は風雨なのに、雨も風も入ってこないとは不思議な気持ちです。」"}
+{"id": 190268, "en": ["\"Doctor Nanjo,", " ...when I opened the window just now, did you hear a sound?\""], "voix": "but", "ja": "「南條先生。 …今、窓を開けた時、音を感じたかい？」"}
+{"id": 190274, "en": ["\"Huh?", "  ...No, I did not notice it...", "  I believe it is well oiled.\""], "voix": "nan", "ja": "「え？ 　……いえ、気にはなりませんでしたな…。 よく油が効いてると思います。」"}
+{"id": 190280, "en": ["\"In other words, ", "it's possible to slink through a window in the hallway when no one is looking.", "  Furthermore, the wind doesn't blow in through this window, ", "so the air pressure wouldn't cause the curtains or a door to make a sound.", "  It'd be quiet.\""], "voix": "but", "ja": "「つまり。 誰も見ていない廊下の窓から、ひょろっと抜け出すことは可能なわけだ。 しかも、この窓なら風も吹き込まないから、 風圧でカーテンや扉が音を立てることもない。 ……静かなもんさ。」"}
+{"id": 190288, "en": ["Battler leaned forward and looked at the ground below."], "ja": "戦人は身を乗り出し、下の地面を見る。"}
+{"id": 190289, "en": ["...He was searching for some sign that George had jumped down."], "ja": "…譲治が飛び降りたかもしれない跡を探しているのだ。"}
+{"id": 190292, "en": ["...But at a glance, he didn't see any mark like that on the grass in the middle of the pouring rain."], "ja": "……しかし、降りしきる雨の中の芝生には、一見、そういう痕跡は残っていないように思えた。"}
+{"id": 190301, "en": ["\"...There might also be a window like this on the first floor.", "  It'd be possible to go outside without anyone noticing.\""], "voix": "but", "ja": "「……こういう窓が、１階にもあるのかもしれない。 誰にも気付かれずに表へ出ることは可能だぜ。」"}
+{"id": 190307, "en": ["\"However, not only the doors, but the windows too are all locked, and the shutters are even down as well, correct...?", "  It may be possible to go out through them, but you couldn't lock them afterwards...\""], "voix": "nan", "ja": "「しかし扉は愚か、窓は全て施錠されて鎧戸まで閉まっていましたぞ…？ 　出ることは可能でも、閉めることは不可能だ…。」"}
+{"id": 190313, "en": ["\"Sure you can lock them.", "  Just like this, *click*\""], "voix": "but", "ja": "「閉められるぜ？ 　こうやって、カチャンとな。」"}
+{"id": 190320, "en": ["Battler closed the window and locked it, as though this was perfectly obvious."], "ja": "戦人は、何を当り前なことをという仕草で、開いた窓を閉め、施錠する。"}
+{"id": 190326, "en": ["\"......B-Battler-san, you aren't saying.........\""], "voix": "nan", "ja": "「…………ま、……まさか、戦人さんは……………。」"}
+{"id": 190332, "en": ["\"If someone inside locked it afterwards, this closed room is as easy as pie.\""], "voix": "but", "ja": "「最後に、中の人間が鍵を閉めれば、こんな密室は朝飯前だ。」"}
+{"id": 190340, "en": ["\"B-But that means", "......that means, ", "...ooooooohhhh...\""], "voix": "nan", "ja": "「し、しかしそれでは、 ………それでは、 ……おおおぉぉ……。」"}
+{"id": 190345, "en": ["Nanjo turned pale and shook his head several times."], "ja": "南條は青ざめながら首を何度も横に振る。"}
+{"id": 190346, "en": ["...Because the thing Battler had said had forced him to face a fact that was frightening even to imagine..."], "ja": "…戦人が口にしたそれは、想像するのも恐ろしいある事実を突きつけているからだ…。"}
+{"id": 190352, "en": ["\"...That's only if the trick I'm thinking of actually happened, okay?"], "voix": "but", "ja": "「……俺の想像したトリックならな？"}
+{"id": 190357, "en": ["  However, with this trick, only a very limited number of people can be suspected.\""], "voix": "but", "ja": "しかし、こんなトリックを使えば、怪しまれる人物は極めて限定される。」"}
+{"id": 190361, "en": ["He didn't want to say it in front of Nanjo, ...but after eliminating Jessica, who had been with him the whole time, ", "only Nanjo...and Eva could have done it."], "ja": "南條の前でそれを口にしたくないが、…戦人とずっと一緒にいた朱志香を除けば、 …それが出来るのは南條と、…絵羽しかいない。"}
+{"id": 190369, "en": ["\"I-I did not do anything of the sort...!", "  Y-Yes, I swear it...!!\""], "voix": "nan", "ja": "「わ、…私はそんなことをしませんぞ…！ 　え、えぇ、誓ってもいい…！！」"}
+{"id": 190375, "en": ["\"...In this case, it becomes a battle between Aunt Eva and Doctor Nanjo for an alibi.", "  ...We just have to suspect both of you, ", "and confine the two of you separately.\""], "voix": "but", "ja": "「……となると、絵羽伯母さんと南條先生のアリバイ合戦ってことになる。 …俺たちは、二人とも怪しんで、 それぞれを別々に監禁すればいいだけの話。"}
+{"id": 190380, "en": ["\"......To say it the other way around, the more survivors there are, the more effective this trick might be, ", "but since our numbers have shrunk so much, it isn't effective at all.\""], "voix": "but", "ja": "………逆に言えば、このトリックは、もっと生存者が多ければ有効かもしれないが、 これだけ人数が減った状況下では、大して有効ではないんだ。」"}
+{"id": 190384, "en": ["...No, on the contrary, there'd be a chance of having your own neck strangled by using it."], "ja": "…いや、それどころか、自分の首を絞める可能性だってある。"}
+{"id": 190387, "en": ["...It would have been more advantageous to make it look like the culprit was outside,", " to intentionally leave a door unlocked or break a window..."], "ja": "……むしろ、外に犯人がいるように見せ掛けるため、 わざと鍵を開け放したり、窓を破ったりした方が好都合なはずなのだ…。"}
+{"id": 190393, "en": ["\"......If this disappearance drama had taken place midday today,", " I'd be able to claim this theory with full confidence.", "  ...However, at this stage, I'm not confident at all.", "  ......What's going on here?", "  ...What in the world does it mean?", "  ......This `closed room'...\""], "voix": "but", "ja": "「…………もしこの失踪劇が、今日の昼にでも起これば、 俺は自信満々にこの説を発表しただろうよ。 …だが、この段階に至っては全然自信が持てないぜ。 …………何なんだ、こいつは。 …一体何を意味してやがるんだ。 ………この“密室”はよ……。」"}
+{"id": 190399, "en": ["\"...Y-You don't think, umm......\""], "voix": "nan", "ja": "「や、……やはりその………。」"}
+{"id": 190405, "en": ["\"Hmm?", "  What is it, Doctor Nanjo?"], "voix": "but", "ja": "「ん？ 　何だい、南條先生。"}
+{"id": 190410, "en": ["  ...Even if it's just a thought, please say it.\""], "voix": "but", "ja": "…思いつきでもいいから言ってくれよ。」"}
+{"id": 190414, "en": ["Nanjo looked like he was trying to swallow his words, even though he'd thought of something, so I urged him on."], "ja": "何かを思いついたようなのに、その言葉を飲み込んだように見えた為、俺はそれを促す。"}
+{"id": 190417, "en": ["After Doctor Nanjo refused several times, saying that it was just a foolish idea, he finally said it out loud."], "ja": "南條先生は、いえいえ下らない話ですと何度か断った挙句、ようやく口にした。"}
+{"id": 190427, "en": ["\"...Well, umm,", " ......don't you think this might actually be..."], "voix": "nan", "ja": "「……いえその。 …………やはりこれは本当に、"}
+{"id": 190429, "en": ["...the work of the witch...?\""], "voix": "nan", "ja": ":voicedelay 2020^^……魔女の仕業ではないのか、と…。」"}
+{"id": 190435, "en": ["\"R-Ridiculous."], "voix": "but", "ja": "「ば、…馬鹿馬鹿しい。"}
+{"id": 190440, "en": ["  There's no way witches exist.\""], "voix": "but", "ja": "魔女なんているわけがねぇぜ。」"}
+{"id": 190446, "en": ["\"...The witch is trying to make her case to us.", "  ...Specifically because she's doing things that humans cannot do, ", "...she must be trying to make us accept her as a witch.", "  ...To me, this disappearance from the closed room of the entire guesthouse...feels like that kind of message from the witch...", "  ......It's something I must not think of.", "  Surely, it cannot mean anything.", "  ...Oooh, ...I...I am frightened...\""], "voix": "nan", "ja": "「……魔女は、私たちに訴えたいのです。 …人間には出来ないことをやってのけるからこそ、 …自分を魔女だと認めさせたいに違いないのです。 …私はこのゲストハウス全体の密室からの失踪は、……そういう、魔女からのメッセージだと感じています……。 …………考えてはならないのです。 意味なんてきっとないのです。 …おぉ、……わ、…私は恐ろしい……。」"}
+{"id": 190453, "en": ["As Doctor Nanjo shook with fear, it looked like he was trying to erase the fearsome thoughts that he kept imagining one after the other."], "ja": "南條先生はわなわなと震えながら、沸き起こる恐ろしい想像を次々に掻き消しているようだった。"}
+{"id": 190467, "en": ["...When we went down the stairs, Aunt Eva and Jessica were enraged, ", "and were each persistent in their desire to leave this place and search for their respective families."], "ja": "……下へ降りると、絵羽伯母さんと朱志香は憤り、 それぞれの家族を探すためにここを出ようと気炎を上げていた。"}
+{"id": 190470, "en": ["It was a desire that naturally hits those who can no longer see their family."], "ja": "家族の姿が見えなくなれば、駆られて当然の欲求だ。"}
+{"id": 190473, "en": ["Aunt Eva told Doctor Nanjo and me to stay here, but I shook my head and started walking."], "ja": "絵羽伯母さんは、俺と南條先生にここに残るように言うが、俺は首を横に振り、歩み出た。"}
+{"id": 190480, "en": ["\"......I've been shut up inside for a long time already.", "  ...I've started wanting to breathe some outside air.\""], "voix": "but", "ja": "「………もう、引き篭もりはたくさんだぜ。 …俺も外の空気を吸いたくなってきた。」"}
+{"id": 190487, "en": ["\"Yeah, if we're going, let's go quickly...!!", "  There's no way I'm gonna keep myself shut up in a place like this any more...!!", "  Let's go and find Mom, Dad, and George nii-san right now...!!\""], "voix": "jes", "ja": "「あぁ、行くならさっさと行こうぜ…！！ 　もうこんなところに閉じこもってるのは真っ平さ…！！ 　早く父さんや母さんや、譲治兄さんを探しに行こう…！！」"}
+{"id": 190492, "en": ["The blood had all risen to Jessica's head."], "ja": "朱志香はすっかり頭に血が上ってしまっている。"}
+{"id": 190493, "en": ["...I hope it doesn't set off her asthma."], "ja": "…喘息の発作にならなければいいのだが。"}
+{"id": 190501, "en": ["\"If anyone wants to stay, go ahead and stay.", "  We'll be searching outside...!\""], "voix": "eva", "ja": "「残りたい人は勝手に残ってればいいわ。 とにかく私たちは表を探してくるわ…！」"}
+{"id": 190508, "en": ["\"What about you, Doctor Nanjo...?", "  Will you watch the place by yourself...?\""], "voix": "but", "ja": "「南條先生はどうする…？ 　ひとりで留守番してるかい…？」"}
+{"id": 190514, "en": ["\"N-No...", "  Allow me to join you...\""], "voix": "nan", "ja": "「い、いえ…。 私もご一緒させてください…。」"}
+{"id": 190520, "en": ["Rather than holing up alone in a guesthouse whose security was by no means guaranteed, ", "it would be better to enter a danger zone as a group of four people."], "ja": "安全がまったく保証されていないゲストハウスにひとりで篭るくらいなら、 危険地帯ではあっても４人一緒の方がまだマシだろう。"}
+{"id": 190524, "en": ["Aunt Eva had a gun."], "ja": "絵羽伯母さんは銃を持っている。"}
+{"id": 190525, "en": ["Moving separately from her was almost like asking to be made into the next victim."], "ja": "彼女と行動を別にするのは、自分を次の犠牲者にしてくれと名乗り出るようなものだ。"}
+{"id": 190533, "en": ["In this way, the four of us decided to leave the guesthouse."], "ja": "こうして俺たち４人はゲストハウスを出ることになった。"}
+{"id": 190536, "en": ["...Even though it should have been safe to barricade ourselves here, ...we lost eight people after doing so."], "ja": "……ここに篭城すれば安全と言って俺たちは篭り、……そして８人を失った。"}
+{"id": 190539, "en": ["It was almost as though this was a holding cell from which the sacrifices could be killed one after another."], "ja": "それはまるで、生贄を順番に殺すための控え室でしかなかったかのようだ。"}
+{"id": 190547, "en": ["We removed the chain, unlocked the front door and opened it."], "ja": "チェーンを外し、鍵を開けて玄関の扉を開く。"}
+{"id": 190551, "en": ["It was already pitch black."], "ja": "もう辺りは真っ暗だ。"}
+{"id": 190552, "en": ["While there were some lights outside that dimly lit the pathway, ", "...they didn't have enough power to pierce the darkness that some suspicious person might be hiding in."], "ja": "表には、一応、外灯があり、足元をそこそこには照らしてくれるが、 ……不審者が潜んでいそうな暗闇を照らし出すほどの力はない。"}
+{"id": 190560, "en": ["\"I'm going...!", "  If you fall behind, you're on your own, okay...?!\""], "voix": "eva", "ja": "「行くわよ…！ 　遅れても知らないんだからね…？！」"}
+{"id": 190566, "en": ["Still holding her gun, Aunt Eva dashed out without an umbrella."], "ja": "絵羽伯母さんが、銃を構えたまま、傘も差さずに飛び出していく。"}
+{"id": 190571, "en": ["Jessica followed after her."], "ja": "朱志香もその後に続く。"}
+{"id": 190577, "en": ["After glancing at each other, Doctor Nanjo and I chased after them."], "ja": "俺と南條先生は顔を見合わせてから、二人のあとに続き、駆け出すのだった。"}
+{"id": 190589, "en": ["...What in the world is happening in this mansion, on this island?"], "ja": "…一体、この屋敷では、この島では、何が起こってるっていうんだ。"}
+{"id": 190593, "en": ["I've just been shut up in the guesthouse with the rest of the cousins since yesterday."], "ja": "俺はいとこみんなで、昨日からずっとゲストハウスのいとこ部屋に篭っているだけだ。"}
+{"id": 190594, "en": ["So I don't know anything about what's going on outside."], "ja": "だからその外のことは何もわからない。"}
+{"id": 190600, "en": ["Just what is happening that I don't know about..."], "ja": "一体、俺の知らない、部屋の外では、屋敷では、 そしてこの島では何が起こっているっていうんだ。"}
+{"id": 190601, "en": ["outside this room, in the mansion, on this island?"], "ja": "一体、俺の知らない、部屋の外では、屋敷では、 そしてこの島では何が起こっているっていうんだ。"}
+{"id": 190604, "en": ["...Everything is happening, everything is proceeding, ", "...and everything is ending without my knowing it."], "ja": "……俺に与り知れないうちに全てが起こり、全てが進み、 …そして、全てが終わろうとしている。"}
+{"id": 190609, "en": ["Somewhere in my heart, I've already started giving up."], "ja": "俺は心のどこかで、すでに諦め始めていた。"}
+{"id": 190612, "en": ["...Most likely, ...not one of us will see tomorrow morning."], "ja": "…俺たちはおそらく、……誰一人、明日の朝を迎えられはしないだろう。"}
+{"id": 190615, "en": ["When the seagulls cry, nobody will be left alive..."], "ja": "うみねこのなく頃に、誰も生き残れはしない…。"}
+{"id": 190653, "en": ["\"Dad, ...Mom...!!", "  Who would do something like this...?!!", "  Waaaaaaaaaaaaaaaahhh...!!\""], "voix": "jes", "ja": "「父さん…、……母さん……！！ 　誰がこんなことを…！！ 　ううあああああぁああぁあぁあ…！！」"}
+{"id": 190657, "en": ["Jessica's woeful voice echoed throughout the rose garden..."], "ja": "朱志香の悲しい声が、薔薇庭園に木霊した…。"}
+{"id": 190664, "en": ["Perhaps it was the intuition of a person who lived on this island."], "ja": "やはり、この島に住んでいる人間の勘なのだろう。"}
+{"id": 190667, "en": ["...After checking the part of the rose garden where Aunt Rosa and Maria had fallen and seeing nothing, ", "Jessica went to look in the arbor next."], "ja": "…朱志香は薔薇庭園の、楼座叔母さんたちが倒れていた場所を見て、 何もないことを確かめると、次に東屋を見に行った。"}
+{"id": 190674, "en": ["Normally, the arbor was probably a wonderful location to enjoy tea peacefully while appreciating the roses on a good sunny day."], "ja": "東屋は、本来なら天気の良い日に薔薇を愛でながらお茶をするのに最高のロケーションだろう。"}
+{"id": 190677, "en": ["...Maybe even Uncle Krauss and Aunt Natsuhi...", "had days when they relaxed and enjoyed their tea together here."], "ja": "……案外、あの蔵臼伯父さんと夏妃伯母さんにも、 そこで二人でお茶を飲んでくつろぐ日もあったのかもしれない。"}
+{"id": 190691, "en": ["...In that arbor lay their corpses."], "ja": "……その東屋に、蔵臼伯父さんと夏妃伯母さんの遺体が横たわっていた。"}
+{"id": 190695, "en": ["At least they aren't drenched in the rain like Aunt Rosa and Maria had been, ", "but there was no way I could say that out loud to Jessica at the moment..."], "ja": "楼座叔母さんたちの時と違い、せめて雨曝しになっていないのだけが幸いだろうが、 そんなこと、今の朱志香に口にできるわけもない…。"}
+{"id": 190703, "en": ["\"...What do you think, Doctor Nanjo?\""], "voix": "but", "ja": "「……どうなんだ、南條先生。」"}
+{"id": 190709, "en": ["\"...St-Strangulation, I believe."], "voix": "nan", "ja": "「こ、…絞殺ですな。"}
+{"id": 190715, "en": ["  ...Come, take a look at this.", "  On their necks, there are distinct markings that something thin was used to strangle them.\""], "voix": "nan", "ja": "…ほら、御覧なさい。 首に、くっきりと何か細いもので絞めた跡が残っている。」"}
+{"id": 190722, "en": ["\"Right. ", "...I doubt those things were the primary cause for their deaths.\""], "voix": "but", "ja": "「だな。 ……まさかこっちが、主たる死因のわけはねぇだろうよ。」"}
+{"id": 190728, "en": ["Right there...lay two stake-like weapons decorated with an occult design, ", "which had been found driven into Uncle Krauss's thigh area...", "and near Aunt Natsuhi's calf."], "ja": "…そこに転がる２本のオカルト意匠の施された杭状の凶器は、 発見時には、蔵臼伯父さんの太股付近に、 夏妃伯母さんのふくらはぎ付近に、それぞれ打ち込まれていた。"}
+{"id": 190731, "en": ["When we found these sticking out of my parents' forehead and chest, ", "we decided to preserve the crime scene and leave them for the police, ", "...but Jessica didn't care about such matters and immediately pulled the stakes out of her parents' forsaken bodies."], "ja": "親父たちの額やら胸やらに突き刺さっていた時は、 警察が来るまでの現場保全のためにと、抜くことさえ許されなかったが、 ……もはや朱志香はそんなことは構わず、痛々しい姿の二人のために、すぐに抜き取った。"}
+{"id": 190740, "en": ["\"...By now, bodies gouged in the head, chest, stomach, knee, and leg have been found.\""], "voix": "eva", "ja": "「……これで、頭、胸、腹、膝、足の５つを抉られた死体が出たわけね。」"}
+{"id": 190747, "en": ["\"Aaaaaaaaahh, damn it, damn it, damn it!!", "  I'll kill that murderer, kill him!!", "  Uwaaaaaaaaaahhh...!!\""], "voix": "jes", "ja": "「ううぅううぅうぅ、くそくそくそ！！ 　犯人め、殺してやるッ、殺してやるッ！！ 　うわああぁあぁぁぁぁ…！！」"}
+{"id": 190754, "en": ["\"...With this, the eighth twilight has been completed.", "  ...Is this going to continue onto the ninth twilight?", "  ...The witch shall be revived, and none shall be left alive.\""], "voix": "eva", "ja": "「……第八の晩まではこれで終わったわ。 …続くは第九の晩なの？ 　……魔女は蘇り、誰も生き残れはしない。」"}
+{"id": 190763, "en": ["\"Bring it on...", "  ...If the witch revives, "], "voix": "jes", "ja": "「上等だぜ…。 ……魔女が蘇るってことは、"}
+{"id": 190765, "en": ["...that means the culprit is gonna make his grand appearance, right?!"], "voix": "jes", "ja": ":voicedelay 1800^^…犯人が堂々と姿を現してくれるってことなんだろ？！"}
+{"id": 190772, "en": ["  No one's going to be left alive?  Bullshit...", "  ...I'll kill him...!", "  I'll definitely kill the culprit who killed Dad and Mom with my own hands...!!\""], "voix": "jes", "ja": "何が誰も生き残れないだ…。 ……私が殺してやる…！ 　父さんと母さんを殺した犯人を、この手で絶対に殺してやる…！！」"}
+{"id": 190777, "en": ["Jessica let her emotions flow out as she howled furiously."], "ja": "朱志香は感情をむき出しにして吼え猛る。"}
+{"id": 190778, "en": ["...To avoid being crushed by grief, she could do nothing but resist it with anger."], "ja": "……悲しみに押し潰されないためには、怒りでそれに抗う他がないのだ。"}
+{"id": 190785, "en": ["\"...We still...haven't found George.", "  ...Jessica, you children had better stay here.", "  I'll go into the mansion.\""], "voix": "eva", "ja": "「………まだ、…譲治が見つかってないわ。 …朱志香ちゃんたちは、ここにいたければいるといい。 私は屋敷へ行くわ。」"}
+{"id": 190794, "en": ["\"E-Eva-san, we mustn't split up...!! ", "It's dangerous if we do not all stick together...!\""], "voix": "nan", "ja": "「え、絵羽さん、バラバラに行動してはいけない…！！ 　みんなで一緒に行動しなくては危険です…！」"}
+{"id": 190800, "en": ["\"There's nothing we can do for Nii-san or his wife."], "voix": "eva", "ja": "「兄さんたちはもうどうしようもないわ。"}
+{"id": 190806, "en": ["  But George may be still alive somewhere...!", "  I have no time to waste here...!!\""], "voix": "eva", "ja": "でも譲治はまだどこかで生きてるかも知れない…！ 　ここで時間を潰してる暇はないのよ…！！」"}
+{"id": 190811, "en": ["As Aunt Eva screamed this, Jessica glared at her."], "ja": "絵羽伯母さんがそう叫ぶと、朱志香はぎょろりと睨みつける。"}
+{"id": 190816, "en": ["...Eva had no more time to bother about the dead."], "ja": "…彼女にはもはや、死者にこれ以上構う暇はないのだ。"}
+{"id": 190817, "en": ["She was more concerned for the safety of her only son, who had yet to be seen."], "ja": "まだ姿の見えない一人息子の安否の方が気がかりなのだ。"}
+{"id": 190825, "en": ["\"Jessica-chan, you should stay by your father and mother's side.", "  I'll make a short trip to the mansion.", "  Battler-kun and Doctor Nanjo, you two can stay here as well.\""], "voix": "eva", "ja": "「朱志香ちゃんはここでお父さんとお母さんの傍にいるといい。 私はちょっと屋敷に行ってくるわ。 戦人くんも南條先生もここにいてくれていい。」"}
+{"id": 190833, "en": ["After arbitrarily saying this, Aunt Eva rushed out of the arbor."], "ja": "絵羽伯母さんは、それだけを一方的に言うと、東屋を飛び出していく。"}
+{"id": 190841, "en": ["I called out to stop her, but there was no way she would listen."], "ja": "俺が、待てよと声を掛けるが、足を止めるわけもなかった。"}
+{"id": 190845, "en": ["...However, being alone in this situation meant nothing short of death."], "ja": "…しかし、この状況下でひとり孤立することは、今や死を意味する。"}
+{"id": 190850, "en": ["If we silently watched her leave, it would be the same as letting her die."], "ja": "黙って行かせれば、それは見殺しを意味するのだ。"}
+{"id": 190851, "en": ["Since Aunt Eva was unwilling to stop, we had no choice but to follow her."], "ja": "絵羽伯母さんが足を止めない以上、俺たちは彼女を追うしかない。"}
+{"id": 190856, "en": ["...And, while it may be cruel to say so, ", "Uncle Krauss and Aunt Natsuhi were already dead, ", "so there was nothing more we could do for them..."], "ja": "……それに、残酷ではあるが、 蔵臼伯父さんたちはすでに死んでいて、 これ以上できることは何もない…。"}
+{"id": 190862, "en": ["In the end, we had no choice but to console Jessica and head for the mansion together."], "ja": "結局、俺たちは、朱志香を慰めて、全員で屋敷に行く他なかった。"}
+{"id": 190867, "en": ["...Fortunately, Jessica stood up."], "ja": "…幸い、朱志香は立ち上がってくれた。"}
+{"id": 190871, "en": ["Perhaps she had been able to break free from her grief."], "ja": "悲しみに一区切りがついたのだろう。"}
+{"id": 190872, "en": ["...But...what had surfaced in its place was an expression like a demon's."], "ja": "……しかし、代わりに浮かべている形相はまるで鬼のそれだ。"}
+{"id": 190878, "en": ["\"...I'll kill that person with my own hands, ...I'll definitely avenge them......"], "voix": "jes", "ja": "「…私がこの手でぶっ殺して、……必ず仇を取ってやる………。"}
+{"id": 190884, "en": ["  ...Let's go, Battler.", "  If we find the culprit, don't get in my way.", "  I'm definitely gonna kill them...!!\""], "voix": "jes", "ja": "……行こうぜ、戦人。 犯人を見つけたら邪魔をするなよ。 私が絶対に殺す…！！」"}
+{"id": 190893, "en": ["\"......I've got my own parents to avenge.", "  Sorry, but this is first come, first serve.\""], "voix": "but", "ja": "「………俺も親父たちの仇があるんだ。 悪ぃが早い者勝ちだぜ。」"}
+{"id": 190899, "en": ["\"...Yeah, ...that's right..."], "voix": "jes", "ja": "「…あぁ、…そうだな…。"}
+{"id": 190906, "en": ["  ...Let's kill them!\""], "voix": "jes", "ja": "……ぶっ殺してやろうぜッ！」"}
+{"id": 190911, "en": ["At my words, Jessica finally seemed to feel like we sympathized with her emotions."], "ja": "俺の言葉に、ようやく朱志香は自らの気持ちを共感してもらえたことを感じたのだろう。"}
+{"id": 190912, "en": ["She still had that dark expression, but I felt that Jessica had regained some of her sanity."], "ja": "物騒な表情ではあるが、少しだけ朱志香が正気に戻るのを感じた。"}
+{"id": 190921, "en": ["We took off."], "ja": "俺たちは駆け出す。"}
+{"id": 190922, "en": ["Chasing after Aunt Eva."], "ja": "絵羽伯母さんの後を追う。"}
+{"id": 190928, "en": ["Through the rose garden, ", "up the stone steps, ", "running at full speed towards the mansion, ...whose large, intimidating shadow flashed in the lightning."], "ja": "薔薇庭園を駆け抜け、 石段を駆け上がり、 ……稲光にその大きな黒い影で威圧するような、屋敷をまっしぐらに目指す。"}
+{"id": 190940, "en": ["...With this, the murders of the epitaph have reached the eighth twilight."], "ja": "……これで、碑文の殺人は第八の晩を終えた。"}
+{"id": 190944, "en": ["And then, on the ninth twilight, the witch shall revive."], "ja": "そして続く第九の晩に、魔女は蘇る。"}
+{"id": 190947, "en": ["...None shall be left alive."], "ja": "…誰も生き残れはしない。"}
+{"id": 190950, "en": ["I will most likely lose my life."], "ja": "俺は命を、恐らく失うだろう。"}
+{"id": 190954, "en": ["...But at the very least, I want to burn the truth into my eyes."], "ja": "……だがせめて、真相をこの目に焼き付けたい。"}
+{"id": 190955, "en": ["That's the only thing motivating me to move right now."], "ja": "それだけが、今の自分を動かす原動力だった。"}
+{"id": 190963, "en": ["We were able to meet up with Aunt Eva, who was having trouble with the lock to the front door."], "ja": "俺たちは、玄関で鍵開けに苦闘している絵羽伯母さんに何とか合流できた。"}
+{"id": 190968, "en": ["It seemed that all the blood had risen to Aunt Eva's head.", "  That was probably making her fingers clumsy."], "ja": "絵羽伯母さんは相当頭に血が上っているようだ。 それが指を不器用にさせてしまっているのだろう。"}
+{"id": 190969, "en": ["It looked like she couldn't even handle the simple task of inserting the key into the lock."], "ja": "ただ鍵穴に鍵を差し込むだけでも、うまく出来ないようだった。"}
+{"id": 190976, "en": ["...Then, there was a faint sound."], "ja": "…すると軽やかな音。"}
+{"id": 190980, "en": ["The sound of the door unlocking."], "ja": "鍵の開く音がする。"}
+{"id": 190981, "en": ["Just as though it had waited for all the survivors to unite before opening."], "ja": "まるで、全ての生き残りが揃ったのを見計らって開いたかのよう。"}
+{"id": 190986, "en": ["It felt to me as though the malicious mansion...", "was trying to swallow up all the remaining humans at once..."], "ja": "……悪意ある屋敷が、残った人間全てを一度に飲み込もうとしているかのように、 俺には見えるのだった…。"}
+{"id": 191010, "en": ["Perhaps the stench that erupted outwards the instant the door opened...", "couldn't be described as just a smell."], "ja": "扉を開けた途端に中より噴出した異臭は、 …果たして臭いだけで説明できるものだったのだろうか。"}
+{"id": 191013, "en": ["It wasn't just the charred smell from Grandfather."], "ja": "祖父さまの焼け焦げた臭いだけじゃない。"}
+{"id": 191016, "en": ["...I think it also may have contained the regrets of the servants and Dad's group,", " ...all of the dead."], "ja": "……多分、使用人の人たちや親父たちなどの、 何人もの死者たちの無念のようなものも含まれていたのではないかと思う。"}
+{"id": 191019, "en": ["...What did it mean as it floated out, overwhelming us?"], "ja": "…それがぶわっと溢れ出し、俺たちを仰け反らせたのはどういう意味なのか。"}
+{"id": 191022, "en": ["...Was it the cry of the dead, telling us not to enter?"], "ja": "……入るな、という死者たちの叫びなのか。"}
+{"id": 191026, "en": ["However, Aunt Eva didn't even flinch at something like that."], "ja": "しかし、絵羽伯母さんはそんなものには怯まない。"}
+{"id": 191033, "en": ["...And we who had to chase after her...", "were forced to step into the mansion, even after receiving that message..."], "ja": "……そして、彼女の背中を追わなければならない俺たちは、 そのメッセージを受け取りつつも、屋敷に踏み入らねばならない…。"}
+{"id": 191042, "en": ["\"George?!", "  George!!", "  If you can hear me, answer!", "  Geoooooorge!!\""], "voix": "eva", "ja": "「譲治？！ 　譲治！！ 　聞こえたら返事をしなさいッ！ 　譲治ぃいいぃ！！」"}
+{"id": 191046, "en": ["Aunt Eva shouted at the top of her lungs."], "ja": "絵羽伯母さんはあらん限りの声で叫ぶ。"}
+{"id": 191050, "en": ["...Considering the situation, it's probably far too optimistic to imagine that he's alive."], "ja": "……状況を考えれば、生きていると考えるのは、あまりに楽観が過ぎるだろう。"}
+{"id": 191063, "en": ["When we started following Aunt Eva's example and calling out George's name in loud voices..."], "ja": "絵羽伯母さんに習って、俺たちも大声で譲治の兄貴の名を呼んだ時。"}
+{"id": 191064, "en": ["...Aunt Eva spotted something...and stopped walking."], "ja": "…絵羽伯母さんが何かを見つけ、足を止めた。"}
+{"id": 191070, "en": ["She was standing in front of the door to the parlor."], "ja": "そこは客間の扉の前だった。"}
+{"id": 191076, "en": ["\"......What is this......?"], "voix": "eva", "ja": "「………これは………？"}
+{"id": 191082, "en": ["  D-Doctor Nanjo, could you come here for a second...?\""], "voix": "eva", "ja": "な、南条先生、ちょっと来てもらえるかしら……。」"}
+{"id": 191089, "en": ["\"Wh-What is it...?\""], "voix": "nan", "ja": "「な、何事ですかな……。」"}
+{"id": 191095, "en": ["I'd heard about the eerie magic circles written on doors, like the one on the parlor, from the adults."], "ja": "大人たちから、客間の扉などに、不気味な魔法陣が書かれている、という話は聞いていた。"}
+{"id": 191101, "en": ["...Eerie is the only word to describe that thing, ", "which was scribbled with a deep-red paint, reminiscent of blood, so that it slowly dripped down."], "ja": "……血を想起させる真っ赤な塗料で書きなぐられ、 だらりと滴り落ちるように描かれたそれは、不気味という言葉で言い表す他がない。"}
+{"id": 191104, "en": ["However, that had supposedly been there since this morning."], "ja": "しかし、それは朝から描かれていたはずだ。"}
+{"id": 191107, "en": ["...Wondering why Aunt Eva, who had supposedly seen it already, ", "would think it odd now, Jessica and I stared at the door..."], "ja": "……すでにそれを見ているはずの絵羽伯母さんが、 改めて不審に思う何があるのかと、俺と朱志香は扉を凝視した…。"}
+{"id": 191116, "en": ["\"...Certainly, ......I have no memory of numbers such as these being written here.\""], "voix": "nan", "ja": "「……確かに、………こんな数字が、書かれていた記憶はありません。」"}
+{"id": 191123, "en": ["\"Right, they weren't.", "  ...Eerie magical characters were written here, but not numbers.\""], "voix": "eva", "ja": "「えぇ、なかったわ。 ……不気味な魔法文字みたいなのは書かれていたけど、数字は書かれていなかった。」"}
+{"id": 191128, "en": ["From what the two of them said, only the magic circle had been there this morning."], "ja": "二人が言うには、朝の時点では、魔法陣だけが描かれていたという。"}
+{"id": 191129, "en": ["However, right now, there were eight digits written near the upper part of the magic circle."], "ja": "しかし、今そこの魔法陣には、その上辺りに、８桁の数字が新たに記されていた。"}
+{"id": 191141, "en": ["07151129."], "ja": "０７１５１１２９。"}
+{"id": 191144, "en": ["...I didn't know what it meant, ", "but I didn't even want to imagine what someone had been thinking when they wrote it."], "ja": "…何の意味があるのかわからないが、 何を思い、この数字を記したのか、想像したくもない。"}
+{"id": 191149, "en": ["It was drawn with the same paint as the magic circle,", " ...but it had clearly been written very recently."], "ja": "魔法陣を描いたのと同じ塗料だろうが、 …明らかについ最近、記されたものだ。"}
+{"id": 191152, "en": ["The way it had dried and the condition of the color was completely different from the magic circle part."], "ja": "魔法陣の部分と乾き方や色の具合がまったく違った。"}
+{"id": 191160, "en": ["\"......Heh.", "  I'm sure it just has some magical meaning.", "  No point wasting time thinking about it.\""], "voix": "jes", "ja": "「………へっ。 どうせ、魔法的な意味があるんだろうぜ。 深く考えたって、意味なんかあるわけもないさ。」"}
+{"id": 191164, "en": ["Jessica intentionally spat those words out in an attempt to push aside the eerie feel it gave off."], "ja": "朱志香は、不気味さを一蹴するかのように、わざと吐き捨てて言う。"}
+{"id": 191171, "en": ["\"It...could be a magic", "~ib~ square~ib~", ".", "  ...The idea that a ward against magic can reside in a certain sort of number play."], "voix": "nan", "ja": "「ま、…魔^~ib~^方^~ib~^陣、というものかもしれませんな。 ……ある種の数字遊びに魔除けが宿るという考え方です。"}
+{"id": 191178, "en": ["  I believe everyone has heard of the one where adding all of the numbers in each row leads to the same sum...\""], "voix": "nan", "ja": "どの列を足しても同じ数字になる、みたいなものを、皆さんも見聞きしたことがおありでしょう…。」"}
+{"id": 191184, "en": ["\"Wasn't that a group of numbers buried in a rectangle?", "  This is just a single row.", "  I don't have a clue what it could mean."], "voix": "eva", "ja": "「あれは、四角形の中に埋めた数字の話じゃなかった？ 　これは横一列だもの。 何の意味があるのかさっぱりだわ。"}
+{"id": 191190, "en": ["  ...What Jessica-chan said is probably correct.", "  There isn't any point in us wasting time thinking about it...\""], "voix": "eva", "ja": "……多分、朱志香ちゃんの言うのが正解よ。 私たちが深く考えたところで、意味なんか何もないわ…。」"}
+{"id": 191196, "en": ["Even though she said that, she probably suspected that it actually meant something."], "ja": "そうはいいつつも、ひょっとすると何か意味があるかもしれないと訝しがっているのだろう。"}
+{"id": 191199, "en": ["Aunt Eva was deftly writing that number down on an old receipt or something with a short ballpoint pen."], "ja": "絵羽伯母さんは、ポケットの中の古レシートか何かに、 その数字を短いボールペンで器用に記していた。"}
+{"id": 191202, "en": ["Unless it had some obvious pattern, it'd probably be tough to memorize a code made up of an eight-digit number."], "ja": "８桁の数字では、何か規則性でもない限り、ちょっと暗記では難しいだろうから。"}
+{"id": 191206, "en": ["............"], "ja": "……………………………。"}
+{"id": 191218, "en": ["\"...Could..."], "voix": "but", "ja": "^^!s1「……これ、"}
+{"id": 191220, "en": ["...this be a date, "], "voix": "but", "ja": ":voicedelay 560^^……日にちとか、"}
+{"id": 191222, "en": ["...or something?\""], "voix": "but", "ja": ":voicedelay 1130^^……な。」"}
+{"id": 191237, "en": ["\"A date...?", "  What are you talking about...?\""], "voix": "eva", "ja": "「日にち…？ 　何の話…？」"}
+{"id": 191245, "en": ["\"Well, ...it's probably a coincidence, ", "but my birthday......"], "voix": "but", "ja": "「いや、…偶然だろうけどな。 俺の誕生日、"}
+{"id": 191251, "en": ["is July 15."], "voix": "but", "ja": "７月１５日なんだ。"}
+{"id": 191257, "en": ["  ...Once I thought that 0715 might refer to July 15,", " I figured that if 1129 stood for November 29, maybe that'd fit perfectly...\""], "voix": "but", "ja": "…０７１５が７月１５日を示すのかなって思ったら、 １１２９もほらその、１１月２９日って読んだら、ちょうどゴロがいいかなって思ってよ…。」"}
+{"id": 191266, "en": ["\"......Why would your birthday be written in a place like this?  And what's up with November 29...?\""], "voix": "jes", "ja": "「…………何で戦人の誕生日がこんなとこに書いてあるんだよ。 そして１１月２９日って何だよ…。」"}
+{"id": 191272, "en": ["\"That's what I wanna know...", "  Still, ...it's probably just a coincidence.", "  When I thought about it, it started to feel a little creepy."], "voix": "but", "ja": "「俺が知りてぇぜ…。 まぁその、…たまたまの偶然だろうけどな。 そう考えたら何だか不気味になっちまったぜ。"}
+{"id": 191277, "en": ["  ...What if someone's birthday was November 29?", "  That's not the birthday of anyone else in my family, not Dad or Kyrie-san or Ange.", "  And of course, it isn't my Mom's either.\""], "voix": "but", "ja": "……１１月２９日が、誰かの誕生日だったりとかするのか？ 　うちの家族は違うぜ、親父も霧江さんも縁寿も違う。 もちろん俺のお袋もだ。」"}
+{"id": 191285, "en": ["\"Nothing comes to mind...", "  ...I don't believe it's Kinzo-san's or Genji-san's birthday.\""], "voix": "nan", "ja": "「心当たりがありませんな…。 …金蔵さんの誕生日でも、源次さんの誕生日でもないはずだ。」"}
+{"id": 191292, "en": ["\"It isn't from my family either.", "  And it isn't Rosa's or Maria-chan's.\""], "voix": "eva", "ja": "「うちの家族も違うわよ。 楼座や真里亞ちゃんでもないわ。」"}
+{"id": 191299, "en": ["\"It can't be anyone in my family...", "  And it isn't Kanon-kun's or Shannon's."], "voix": "jes", "ja": "「うちの家族だって違うぜ…。 嘉音くんも違うし、紗音も違う。"}
+{"id": 191305, "en": ["  ...I always give the servants presents on their birthdays, so I know it for all of them,", " but I don't know anyone who was born on November 29...\""], "voix": "jes", "ja": "……私、使用人の人の誕生日にはちゃんとプレゼント渡してるから、みんな知ってるけど、 １１月２９日に誕生日の人間なんて知らないぜ…。」"}
+{"id": 191313, "en": ["Once we started imagining that the eight digits weren't meaningless,", " but actually two dates written together, it really started to look that way."], "ja": "無意味だと思っていた８桁の数字も、 日にちが二つ書いてあると思い込めば、そういう風にも見えてくる。"}
+{"id": 191317, "en": ["...However, its true meaning may be something completely different, or there may be no meaning at all."], "ja": "……しかし、実際の意味は全然違うかもしれないし、意味なんかないかもしれない。"}
+{"id": 191318, "en": ["Anyway, since we don't have any real clues, it's probably pointless to stand around here worrying about it."], "ja": "とにかく、心当たりがない以上、これ以上をここで悩んでも仕方ないだろう。"}
+{"id": 191325, "en": ["...The inside of the parlor's much more important."], "ja": "……それよりも重要なのは、この客間の中だ。"}
+{"id": 191328, "en": ["This morning, behind each of the doors with a magic circle drawn on them...had been the body of a victim."], "ja": "今朝、魔法陣が描かれた６つの扉の中には、いずれも犠牲者の遺体が横たわっていた。"}
+{"id": 191332, "en": ["...So, if something new has been added to this door, "], "ja": "…そして、新しく数字が書き加えられた客間に"}
+{"id": 191336, "en": ["does that mean something new ", "~ib~has been added~ib~", " inside the parlor?"], "ja": "は、何が新しく^~ib~^増えているのか^~ib~^。"}
+{"id": 191347, "en": ["When Aunt Eva tried to open it, she felt the resistance of the lock."], "ja": "絵羽伯母さんが開けようとすると施錠の手応え。"}
+{"id": 191348, "en": ["She immediately took out a master key and put it in the keyhole."], "ja": "すぐにマスターキーを取り出し、それを鍵穴に当てる。"}
+{"id": 191360, "en": ["As soon as she opened the door, ...Aunt Eva let out a high-pitched scream and ran inside."], "ja": "扉を開けると、……すぐに絵羽伯母さんが鋭い悲鳴をあげて、中に駆け込んだ。"}
+{"id": 191363, "en": ["That alone was enough to tell us what had happened inside the room..."], "ja": "もう、それだけで、室内の状況は理解できた…。"}
+{"id": 191366, "en": ["Doctor Nanjo and I looked at each other, and I shook my head slightly as we entered the parlor..."], "ja": "俺は南条先生と顔を見合わせ、首を小さく横に振りながら客間に入る…。"}
+{"id": 191373, "en": ["\"George!!"], "voix": "eva", "ja": "^^!s0「譲治！！"}
+{"id": 191378, "en": ["  Geooooorge!!"], "voix": "eva", "ja": ":noclear_cw　譲治ぃ！！"}
+{"id": 191383, "en": ["  Hang in there...!!", "  Geoooooooooorge!!", "  Doctor Nanjo, quickly!!\""], "voix": "eva", "ja": ":noclear_cw　しっかりして…！！ 　譲治ぃいいいぃ！！ 　南條先生、早くッ！！」"}
+{"id": 191394, "en": ["George-aniki lay there crumpled alongside Shannon-chan's corpse."], "ja": "譲治の兄貴は、紗音ちゃんの遺体と一緒に倒れていた。"}
+{"id": 191397, "en": ["His chest was stained bright red.", "  And judging by his still-opened eyes,", " ...I'd hate to say it to Aunt Eva, "], "ja": "胸が真っ赤に染まっている。 そして見開いたままの瞳からは、 …絵羽伯母さんには悪いが、"}
+{"id": 191405, "en": ["...but I couldn't pick up any signs of life."], "ja": "……生きている気配を感じることはできなかった。"}
+{"id": 191411, "en": ["After moving to take George's pulse, "], "ja": "南條先生は脈を取るような仕草をした後、"}
+{"id": 191416, "en": ["...Doctor Nanjo shook his head, wordlessly reporting that George was dead."], "ja": "…首を横に振り、もはや死んでいることを無言で告げる。"}
+{"id": 191424, "en": ["Brushing him aside, Aunt Eva once again crouched beside George-aniki...", "and started crying at the top of her lungs..."], "ja": "それを押しのけ、絵羽伯母さんは再び譲治の兄貴にしがみ付くと、 あらん限りの声を張り上げて泣き叫んだ…。"}
+{"id": 191429, "en": ["With Aniki's death, ...one thing is certain."], "ja": "この、…兄貴の死で、ひとつ確実にわかったことがある。"}
+{"id": 191432, "en": ["The murders hadn't ended on the eighth twilight."], "ja": "殺人は、第八の晩まででは終わらない。"}
+{"id": 191435, "en": ["The epitaph was being carried out in its complete form, including the ninth twilight, `And none shall be left alive'..."], "ja": "第九の晩の、“そして誰も生き残れない”までを含めて、全て完全な形で実行されるのだ…。"}
+{"id": 191438, "en": ["I was really starting to lose track of things."], "ja": "俺はもう何が何やらわからなくなる。"}
+{"id": 191441, "en": ["...For some reason, Aunt Eva's half-crazed cries actually made me cool down..."], "ja": "…絵羽伯母さんの半狂乱な泣き声が、なぜかかえって、俺を冷めさせた…。"}
+{"id": 191451, "en": ["...Crestfallen and exhausted, I flopped onto the sofa and plunked my feet on top of the table."], "ja": "…がっくりと脱力した俺は、どさりとソファーに腰を落とし、 どっかりと足をテーブルの上に投げ出した。"}
+{"id": 191455, "en": ["Maybe all these murders numbed my heart."], "ja": "何度も繰り返される殺人に、俺の心は麻痺してしまったんだろうか。"}
+{"id": 191456, "en": ["Instead of just being frightened, I felt completely confused."], "ja": "……恐ろしいというよりも、訳がわからないという気持ちの方が強い。"}
+{"id": 191460, "en": ["Dad and Kyrie-san are dead, and people have been killed off one by one, starting with the servants."], "ja": "親父も霧江さんも死に、使用人の人たちを皮切りに、次々、次々に殺された。"}
+{"id": 191461, "en": ["...And there's been a hell of a lot of them by now."], "ja": "…そりゃあもうすげぇ勢いでだ。"}
+{"id": 191464, "en": ["I don't know when the first murder happened,", " ...but they might have been killed at a rate of about one person per hour by now."], "ja": "最初の殺人が何時の時点で始まったか知らねぇが、 …それこそ、時速１人くらいのスピードで殺されてるんじゃねぇだろうか。"}
+{"id": 191472, "en": ["We believe that the boat will come for us around 9:00 tomorrow."], "ja": "明日の９時くらいに、船が迎えに来てくれると俺たちは信じている。"}
+{"id": 191473, "en": ["...There's still a full 12 hours until then."], "ja": "……それまで、まだ１２時間以上もたっぷりあるんだぞ。"}
+{"id": 191476, "en": ["...How many more sacrifices to the witch will there have to be for us to survive...?"], "ja": "…あと、魔女の生贄が何人いてくれりゃ、俺たちは生き残れるってんだ…。"}
+{"id": 191479, "en": ["With the four of us, if one goes each hour, ...we won't last any longer than four hours.", "  We don't even know if we'll last until midnight tonight..."], "ja": "俺たち４人じゃ、１時間に１人で、…４時間しかもたない。 今夜の２４時だって、もはや迎えられるかわからないのだ…。"}
+{"id": 191485, "en": ["...Yesterday, after lunch, we came into this parlor."], "ja": "……昨日、この客間には、昼飯の後に入った。"}
+{"id": 191490, "en": ["Just as they started talking about serving some tea Aunt Rosa had bought, ", "we kids decided to take a walk."], "ja": "楼座叔母さんが買ってきたとかいう紅茶を淹れようという話になった辺りで、 ちょうど俺たちは散歩に行こうって話になったんだ。"}
+{"id": 191496, "en": ["...Maria was jumping around, wasn't she?"], "ja": "……真里亞がはしゃいでたな。"}
+{"id": 191501, "en": ["...Didn't Shannon-chan bring us some cookies?"], "ja": "…紗音ちゃんが、クッキーを持ってきてくれたっけ。"}
+{"id": 191506, "en": ["She said Kumasawa-san had baked them, or something."], "ja": "熊沢さんが焼いたとか言ってたな。"}
+{"id": 191512, "en": ["...It would've been hilarious if she'd baked some mackerel into them, wouldn't it?"], "ja": "……サバの焼いたのでも本当に入ってりゃあ笑えたのになぁ。"}
+{"id": 191513, "en": ["......That's right, I'll never hear Kumasawa baa-chan's mackerel jokes again, will I...?"], "ja": "…………そっか、熊沢の婆ちゃんのサバネタも、もう聞けねぇんだなぁ。"}
+{"id": 191516, "en": ["...Oh, right, if I only remember stuff about Kumasawa baa-chan, that wouldn't be fair to everyone else..."], "ja": "…おっと、熊沢の婆ちゃんのことだけしか思い出さなかったら、他の人たちに申し訳ねぇや…。"}
+{"id": 191524, "en": ["......Why did Dad and Kyrie-san...even go outside?"], "ja": "…………親父も霧江さんも、…どうして表になんか出たんだ。"}

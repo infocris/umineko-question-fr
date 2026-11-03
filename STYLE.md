@@ -199,3 +199,39 @@ Tu/vous : en cas de doute, le niveau de politesse du japonais fait foi.
 | ママは… (Rosa parlant d'elle) | « Maman » à la 3e personne (comme Maria → « Maria ») |
 | 母さん / 父さん (George, Jessica) | Maman / Papa |
 | 悪魔の証明 | la preuve du diable ; « 悪魔を証明した » = prouver l'existence du diable |
+
+## Épisode 3 (Banquet of the Golden Witch) — compléments
+
+Fichiers : `work/ep3/NN.en.jsonl` → `work/ep3/NN.fr.txt`, contrôle `python3 -I tools/tlcheck.py work/ep3/NN`.
+Nouvelles voix : wal Virgilia, lam Lambdadelta, ber Bernkastel, enj Ange.
+
+| Anglais (japonais) | Français |
+|---|---|
+| Virgilia | Virgilia |
+| Teacher (お師匠様, Beatrice → Virgilia) | Maîtresse (« Oui, Maîtresse. ») ; « my teacher » → ma maîtresse / mon maître selon la phrase |
+| princess (姫様, Virgilia → Beatrice) | Princesse |
+| the Predecessor / the previous Beatrice (先代) | la Précédente / la précédente Beatrice |
+| Lady X (卿, titre de sorcière) | Dame X (Dame Lambdadelta, Dame Bernkastel, Dame Beatrice) |
+| Great Witch (大魔女) | grande sorcière |
+| Witch of Certainty (絶対の魔女) | la Sorcière de l'Absolu |
+| Witch of Miracles (奇跡の魔女) | la Sorcière des Miracles |
+| the senate (元老院) | le Sénat |
+| Endless Witch / Endless Magic | la Sorcière de l'Infini / la Magie de l'Infini |
+| Seven Sisters (of Purgatory) (七姉妹) | les Sept Sœurs (du Purgatoire) ; les pieux restent « pieux » |
+| Chiester Sisters (Corps) / Chiester 410, 45, 00 | les sœurs Chiester (le corps des sœurs Chiester) / Chiester 410, 45, 00 |
+| "Data Received", "Target Lock Acquired"… (jargon militaire des Chiester) | « Données reçues. », « Cible verrouillée. »… (style télégraphique) |
+| Shoulder War Towers (双肩の戦塔) | les Tours de guerre des épaules |
+| goats / goat-headed (山羊) | les chèvres / à tête de chèvre |
+| Hempel's Raven | le Corbeau de Hempel |
+| the Headship / Successor (to the Headship) | la succession / le successeur (au titre de chef de famille) |
+| Repeat it. (復唱要求, défi en rouge) | « Répète-le. » ; « Je refuse de répéter. » |
+| Battleer / Battlerrr (戦人ぁ) | Battleer (garder l'allongement) |
+| Nee-chan (Battler à une inconnue) | ma jolie / la demoiselle ; « nee-chans » des Sept Sœurs → les demoiselles |
+| Asumu | Asumu (première femme de Rudolf) |
+
+Registres épisode 3 : Virgilia vouvoie tout le monde, ton serein et maternel ; Beatrice enfant
+la vouvoie (« Maîtresse »). Beatrice tutoie toujours Battler, Ronove, les Sept Sœurs ; elle
+vouvoie avec une déférence ironique Lambdadelta et Bernkastel (« Dame »). Les Sept Sœurs
+vouvoient Beatrice mais tutoient Battler (moqueuses : あんた, 戦人くぅん). Eva sorcière garde le tutoiement envers Battler, Battler la
+vouvoie (« Tante Eva ») sauf colère où le japonais devient familier (お前). Les Chiester
+vouvoient tout le monde (410 traînante, 45 timide, 00 sèche).

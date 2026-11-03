@@ -1,0 +1,720 @@
+174210|...Si Eva disait sentir de la magie émaner de sa main, alors, pour l'instant, c'était très bien ainsi...
+174220|"......Je me demande si la magie existe vraiment."
+174222|"Ouais.‖  Elle existe.‖  Seulement, y a que ceux qui y croient qui peuvent le savoir.‖  ...Y a plus de magie de ce genre dans le monde qu'on le pense, tu sais."
+174230|"...Si la magie existe vraiment, ...alors je me demande si les sorcières existent, elles aussi."
+174232|"Hein ?‖  Tu veux parler de la sorcière de la forêt, Beatrice ?‖  Pour ceux qui y croient, elle existe sûrement.‖  C'est comme les dieux.‖  Ils se montrent qu'à ceux qui ont une foi solide."
+174238|"......Moi aussi, tu sais ?‖  ...Autrefois, je savais me servir de la magie."
+174244|"Oh ?‖  C'est vrai ?‖  Alors toi aussi, t'étais une sorcière."
+174249|"...J'avais...des rêves que je voulais à tout prix voir se réaliser.‖  Quand je le souhaitais très fort et que je me donnais du mal, ils se réalisaient toujours, sans exception.‖  ...Grâce à ma magie, j'avais toujours les meilleures notes, je suis même devenue présidente du conseil des élèves...et je suis entrée par mon propre mérite dans l'université que je voulais.‖  ...Tous mes souhaits, quels qu'ils soient, se sont toujours réalisés."
+174254|"C'est vrai.‖  Ta magie a toujours été quelque chose de redoutable...‖  T'es une sorcière, pas de doute.‖  ...Et tu travailles plus dur que n'importe qui.‖  ...Ça, je le sais mieux que personne."
+174260|"......Tu sais...‖depuis que je suis toute petite, il y a toujours eu une autre moi au fond de mon cœur, qui m'encourageait sans cesse.‖  ...Et cette autre moi était une sorcière."
+174263|"......Je n'ai jamais cru à Beatrice, la sorcière de la forêt.‖  J'ai toujours été persuadée que s'il existait une sorcière de Rokkenjima, c'était la sorcière qui vivait dans mon cœur.‖  ......Je suis tellement reconnaissante envers cette sorcière en moi.‖  ...Je lui ai toujours été reconnaissante...de m'avoir menée jusqu'à toi..."
+174270|"......T'es bien trop fragile quand t'es malade.
+174275|  ...Dis rien pour le moment.‖  ...Je vais rester comme ça tout le temps qu'il faudra, jusqu'à ce que ta fièvre tombe."
+174292|"...Oui.
+174293|  ...Ne retire pas ta main...
+174295|surtout pas.‖  ......J'ai comme
+174297| ...l'impression de devenir quelqu'un d'autre que moi,
+174299| ...et ça me fait peur depuis tout à l'heure.‖  ...J'ai l'impression que la sorcière en moi...
+174301|a été réveillée par Beatrice...et qu'elle devient de plus en plus forte.‖  ...J'ai comme l'impression qu'elle va finir par m'engloutir tout entière."
+174313|"T'en fais pas.‖  Tant que je suis avec toi, t'as rieeen à craindre !‖  Tu te souviens, la fois où on était partis dans ce pays un peu craignos et où tout le bus s'était fait braquer ?‖  C'est moi qui les avais fait fuir !"
+174317|"...Tu leur as juste donné ta montre en or en les suppliant de partir, non ?‖  ...C'était pas très glorieux, ...mais tu étais beau..."
+174322|"......Ne retire pas ta main...‖surtout pas...‖  ...Même si je m'endors.‖  ...Et si quelque chose de sinistre se glisse ici,
+174324|...protège-moi..."
+174330|"Ouais, compte sur moi.‖  ...Alors je te dis d'arrêter de t'inquiéter et de dormir.‖  Parce que le médicament et ma magie vont faire effet très vite..."
+174334|Eva finit par apaiser son cœur et ferma les yeux.
+174345|...C'est alors qu'on entendit, du côté du hall, le bruit d'une porte qu'on ouvrait violemment.
+174350|Apparemment, Maria faisait un caprice, ‖car on entendait des cris de « uu-uu- », accompagnés des réprimandes hurlées par Rosa.
+174355|...Cela devait sans doute écorcher les oreilles d'Eva.
+174356|À moins que ça n'aggrave son mal de tête.
+174357|Eva gémit comme si elle souffrait et s'enfouit sous les couvertures.
+174361|Il était facile de deviner ce qui se passait.
+174362|Maria avait dû piquer une crise pour une raison quelconque, descendre dans le hall,‖ et se disputer avec Rosa, qui avait alors grondé sa fille.
+174365|...Puis, sans doute parce que les regards des autres membres de la famille étaient devenus trop pénibles, Rosa avait emmené Maria dans le couloir.
+174372|...Hideyoshi n'avait aucune envie de se mêler des histoires de Rosa et de Maria.
+174373|...Mais pour l'instant, vu l'état d'Eva, il aurait aimé qu'elles aillent faire leur raffut ailleurs.
+174382|"...Attends une seconde.‖  Je vais leur demander de faire moins de bruit."
+174384|"......R-Reviens vite..."
+174390|"T'en fais pas, je sortirai pas de cette chambre."
+174402|Hideyoshi retira la chaîne, ouvrit la porte et passa la tête dans le couloir.‖  Son regard croisa aussitôt celui de Rosa.
+174407|"...Tout va bien, Rosa-san ?"
+174414|"Je suis désolée, tout ce bruit vous a réveillés... ?"
+174416|"Uu-uu- !
+174422|  Uu-uu-uu-uu- !!!"
+174446|"...Maria-chan, désolé.‖  Tante Eva est pas bien, et elle essaie de dormir.‖  Tu pourrais faire un peu moins de bruit... ?"
+174454|La demande d'Hideyoshi ne changea rien au ton de Maria.
+174455|Elle continuait de crier « uu-uu- » et de répéter : « La rose de Maria, la rose de Maria ».
+174464|Rosa gifla Maria, puis la souleva en lui couvrant la bouche,‖ et l'entraîna vers l'entrée, pour au moins l'éloigner de la chambre d'Hideyoshi.
+174470|...Elle ferait sans doute encore du bruit un moment, mais il avait au moins mis Rosa en garde.
+174471|Comptant sur Rosa pour se montrer à la hauteur de son rôle de mère, Hideyoshi referma la porte.
+174480|"......Maria-chan qui fait encore un caprice ?"
+174486|"On dirait bien.‖  ...C'est dur pour Rosa-san aussi.
+174491|  ...Quand on y pense, notre George est presque trop parfait pour être vrai.‖  On devrait s'estimer heureux."
+174501|"......C'est vrai.‖  ......Mmh, ‖...ta main."
+174503|"Oh, pardon, pardon.‖  ...Tiens, voilà la main magique."
+174507|Il posa de nouveau la main sur le front d'Eva.
+174511|...Peut-être que cette main renfermait vraiment un pouvoir magique.
+174512|Un air profondément apaisé se dessina sur le visage d'Eva, et peu à peu, elle commença à glisser vers le pays du sommeil.
+174515|Comme il l'avait promis, Hideyoshi garda la main posée sur son front...
+174533|Près de l'entrée, la main toujours plaquée sur la bouche de Maria, Rosa ne savait plus quoi faire.
+174536|Elle n'avait pas pu supporter les regards de tout le monde dans le hall,‖ et, après avoir crié aux enfants de monter à l'étage, elle s'était précipitée hors de la pièce.
+174539|Puis, une fois dans le couloir, voilà qu'Hideyoshi lui reprochait de faire trop de bruit.
+174543|Où suis-je censée aller, maintenant ?
+174544|...Où suis-je censée emmener cette enfant qui pique une crise ?
+174547|Elle sentait des larmes de dépit sur le point de jaillir...
+174550|Tandis que Maria continuait à se débattre pour crier, Rosa approcha sa bouche de son oreille...‖et tenta de la raisonner d'une voix aussi calme que possible.
+174558|"......Maria, tu tiens vraiment tant que ça à voir cette rose... ?"
+174565|Maria hocha la tête plusieurs fois en geignant « uu-uu- ».
+174571|"...Pourquoi tu veux la voir à ce point ?‖  Maman va t'écouter, alors tu veux bien lui expliquer calmement ?‖  Si tu cries, je te frappe."
+174577|"......La rose de Maria...‖  Beatrice l'a fait revivre.‖  ...Elle s'est peut-être encore cassée...‖  ...Maria s'inquiète pour ça...‖  Maria peut pas dormir tant qu'elle est pas sûre..."
+174583|Apparemment, elle se tracassait encore pour cette rose marquée la veille.
+174586|Rosa sentit de nouveau son mal de tête lancer,‖ mais elle fut au moins un peu soulagée que Maria ait enfin cessé de hurler.
+174592|"Écoute, en ce moment, tout le monde passe un moment difficile.‖  Alors n'embête pas Maman et les autres.‖  ...Tu pourras t'occuper de cette rose autant que tu veux demain, quand il aura arrêté de pleuvoir.‖  Alors, pour l'instant, sois raisonnable... !"
+174598|"Non.‖  ...Non non non non.‖  C'est la rose de Beatrice à Maria...‖...uuuu, ...uu-uu-.‖  Ouaaaaaaaaaaaaaah !!"
+174608|Rosa lui couvrit la bouche par réflexe.
+174609|Elle avait parlé un peu trop durement et l'avait de nouveau mise dans tous ses états...
+174612|Rosa se rendit compte qu'elle y était en partie pour quelque chose et claqua la langue, dégoûtée d'elle-même.
+174615|Mais Maria crut que c'était dirigé contre elle, et ses pleurs redoublèrent de violence...
+174621|"...Je t'en prie, tais-toi...‖  Qu'est-ce que je dois faire pour que tu arrêtes de pleurer ?‖  Qu'est-ce que je dois faire pour que tu écoutes ce que Maman te dit ?"
+174627|"......"
+174632|D'un coup.‖  Maria cessa de pleurer, si brusquement que ça en paraissait anormal.
+174633|...Puis elle se retourna...et murmura.
+174640|"......
+174644|Si Maria peut voir sa rose, Maria restera sage jusqu'à demain."
+174650|"C'est vrai ?"
+174657|"Oui.‖  ...Si on va dans la roseraie voir la rose de Maria, Maria sera sage."
+174664|"........."
+174670|"C'est promis, Maman."
+174676|"............"
+174687|Si cela suffisait à faire tenir Maria tranquille pour le moment, Rosa se dit que même sortir sous ce vent et cette pluie était un prix bien modeste.
+174694|Elle se demanda, pour la forme, si ce n'était pas un peu imprudent.
+174695|......Mais au bout du compte, il n'y avait eu aucun meurtre, ni rien de ce genre.
+174699|Toute l'agitation depuis ce matin n'était qu'une farce montée par Kinzo et les autres.
+174700|Si l'on réfléchissait bien à cette série de chambres closes, il était évident que tout cela n'était qu'une mise en scène...
+174710|"...Tu seras vraiment sage, une fois que tu auras vu la rose ?"
+174716|"Oui.‖  C'est promis, Maman.
+174721|  ...Kihihi."
+174727|"............"
+174735|"Aïe."
+174740|Rosa ne laissa pas passer ce rire sinistre et donna à Maria un petit coup de poing sur la tête.
+174741|Puis elle haussa les épaules, comme si elle capitulait.
+174748|"...D'accord.‖  Juste un coup d'œil, et après, tu te tiens tranquille.‖  Compris ?"
+174754|"Oui, Maman.‖  Promis.‖  ...Kihihihihihihihihihihihihihihi."
+174764|Une fois encore, Rosa soupesa son fusil.
+174768|...Tout ira bien.‖  Ce n'est qu'une farce.
+174769|Il n'y a jamais eu de meurtrier sur cette île, de toute façon...
+174786|"Merde, attendez, Tante Rosa... !!‖  Tante Rosa et Maria...ce sont les victimes du deuxième crépuscule ?!‖  Merde, merde, merde, que quelqu'un les remarque, qu'on les arrête !!‖  Qu'est-ce qu'ils foutent, ceux du salon, et nous, les gamins ?!!"
+174792|"En effet.‖  Par égard pour la pénible relation entre Rosa et sa fille...ils s'efforcent de changer de sujet.‖  Ton groupe et toi êtes montés au premier étage...et vous parlez d'autre chose en regardant la télévision."
+174799|"Bande d'enfoirés !!
+174802|  Que quelqu'un les remarque !‖  Qui est le plus près, c'est Oncle Hideyoshi ?!‖  Je vous en prie, remarquez qu'elles sortent par la porte d'entrée, aaaaaaaaaaaaaaah !!"
+174808|"Ça ne les atteindra pas, ça ne les atteindra pas, *ricanement* !‖  Ne dérange donc pas leur petit moment ensemble.‖  Fu ha ha ha ha ha ha ha... !"
+174817|Hideyoshi continuait de lui parler avec douceur, la main sur le front d'Eva.
+174818|Il ne remarqua pas le moins du monde que Rosa et Maria sortaient par la porte d'entrée.
+174824|Dans ces conditions, ceux qui se trouvaient dans le hall, encore plus loin, ne pouvaient en aucun cas s'en apercevoir.
+174825|Encore moins ceux qui étaient dans la chambre des cousins, au premier étage... !
+174831|"Pourquoi t'affoler ainsi ?‖  Ne m'as-tu pas vaincue par ce coup audacieux, en affirmant que le coupable était mort accidentellement au premier crépuscule ?"
+174836|"...Cela ne signifie-t-il pas qu'il n'y a plus aucun coupable sur cette île... ?‖  *ricane*ricane*ricane*  Qu'y a-t-il donc de si inquiétant... ?"
+174843|"La ferme, ton jeu est cousu de fil blanc !!
+174848|  Que quelqu'un les arrête, elles vont se faire tuer !!‖  Que quelqu'un les arrêêêêêêêêêêêêête, aaaaaaaaaaaaaaah !!"
+174865|...Le cri muet de Battler ne pouvait en aucun cas atteindre Rosa ni Maria.
+174868|Toutes deux se trouvaient dans la roseraie.
+174871|La pluie était toujours aussi violente, mais par chance, le vent s'était un peu calmé.
+174875|...Non, ce n'était peut-être pas une chance.
+174876|Car si le vent avait été un peu plus violent, Rosa aurait sans doute hésité à sortir...
+174884|"...Uu-, uu-, uu-...
+174889|  ......La voilà... !"
+174895|Maria trouva sa rose ornée du galon doré et la contempla avec tendresse.
+174898|Rosa avait accepté la promesse à condition que Maria se contente d'un seul coup d'œil, ‖mais elle ne voulait pas que Maria se plaigne plus tard que ça n'avait pas suffi, ‖aussi décida-t-elle de lui tenir compagnie jusqu'à ce qu'elle soit satisfaite.
+174904|...Elle était persuadée qu'il n'y avait pas de coupable,‖ mais si jamais elle se trompait, elles se trouvaient à présent dans une position extrêmement dangereuse.
+174907|Rosa en avait vaguement conscience.
+174911|En cas de danger, elle jetterait son parapluie et épaulerait son fusil.
+174912|...Laissant Maria à sa joie innocente, Rosa scrutait les alentours avec méfiance.
+174923|..................?
+174924|...Ses yeux étaient-ils simplement fatigués ?
+174927|Alors qu'il ne devait y avoir personne, elle crut voir quelque chose scintiller dans l'obscurité de la roseraie.
+174931|...De couleur dorée... ?
+174932|Ce ne pouvait être que son imagination.
+174935|Car Rosa avait eu l'impression de voir des papillons dorés danser entre les rosiers...
+174954|"...Ça va, Eva... ?‖  ...Force pas...  Je devrais peut-être appeler le docteur Nanjo, finalement... ?!"
+174963|"Je......je vais bien.‖  ...Ne retire pas ta main...‖  ...Je t'en supplie, ...ne retire pas ta main..."
+174968|Eva respirait avec peine.
+174969|Des gouttes de sueur perlaient sur son front.
+174972|Certes, elle avait passé une nuit blanche, et la matinée avait été agitée dès l'aube.‖  Il n'y avait rien d'étonnant à ce que son corps ne suive plus.
+174975|...Bien qu'il le comprenne,‖ Hideyoshi ne pouvait s'empêcher de soupçonner que cette fièvre soudaine était le signe d'une maladie grave.
+174981|À plusieurs reprises, Hideyoshi proposa d'appeler le docteur Nanjo, mais Eva refusa obstinément, ‖...le suppliant plutôt de ne surtout pas retirer sa main...
+174987|"D'accord...‖  Mais tu te fais examiner par le docteur Nanjo avant midi, hein.‖  Si tu me le promets, je reste ici tout le temps à te tenir la main.‖  Bien fort, comme ça."
+174991|"...Merci...‖  ...Je vais bien...‖  La magie de ta main va forcément faire tomber cette fièvre..."
+174995|Elle avait beau dire, la respiration haletante d'Eva ne s'améliorait pas le moins du monde.
+175013|"...Haah,
+175015|...haah,
+175017|...haahh...‖  ...Ne me lâche pas,
+175019|...ne me lâche pas,
+175021|...haah,
+175023|...haahh, ‖......aaaaaaaaaaaaaaaaaaah !!"
+175048|"...Q-Qui est là... ?!"
+175054|Elle vit un parapluie bouger derrière le rosier.
+175060|Rosa jeta son parapluie et brandit brusquement son fusil...
+175063|Alors, la silhouette derrière le buisson...se montra.
+175070|"......Uu- ?‖  ...Tante Eva......‖  ...... ?"
+175078|"...Tu m'as fait peur.‖  C'est toi, Nee-san ?
+175083|  ......Tu me veux quelque chose ?‖  ...Tu veux reprendre notre discussion de tout à l'heure ?"
+175090|"............
+175097|...Oui, c'est ça.‖  Notre discussion sur l'or de Père."
+175103|"...Je t'en prie, retiens-toi devant Maria.‖  Je tiens parole, d'accord ?‖  Je ne me mettrai pas en travers de tes manigances."
+175109|"......Mes manigances ?‖  De quoi tu parles ?"
+175115|"......Ce que tu as en tête, ça te regarde.‖  Je n'ai aucune intention de te gêner.‖  Alors, je t'en prie, pas devant Maria.‖  Du moment que j'ai ma part, ça me suffit."
+175121|"Ta part ?
+175124|  Héhéhéhéhé, ahahahahahahahahahahahahahahaha."
+175130|Eva se mit à rire d'une voix sinistre...
+175131|Rosa sursauta, mais Maria la regardait d'un air ahuri.
+175138|......Puis Maria ne dit qu'une seule chose.
+175151|"...Uu-... ?‖  ...Madame,
+175153|...qui es-tu... ?"
+175161|"Hahahahahaha, ah ha ha hahahahahahahahahahahahahahaha !!
+175165|  Ta part ?!‖  Qui irait te la donner... ?!‖  Tout ça est à moi !‖  Tout appartient à moi, la Sorcière dorée, Beatrice... !!!"
+175184|"Aaaaaaaaaaaaaaaaaaaaaaah... !"
+175198|"Eva !  Ça va, Eva ?!
+175201|  Eva !‖  Eva !!"
+175204|"Tiens-moi... !!‖  Ne me lâche pas !!‖  Ne laisse pas quelqu'un qui n'est pas moi m'emporter... !!‖  Tiens-moi la main...‖  Ne me lâche paaaaaaaaaaaaas... !!!"
+175225|"Qu'est-ce que tu as jamais fait comme efforts, toi ?!‖  Tu n'as jamais fait le moindre effort !‖  Tu t'es toujours cachée dans notre ombre, à te défiler !‖  Tu as toujours fui d'ombre en ombre sans jamais te battre, ‖et tu te crois vraiment en droit de me réclamer quoi que ce soit sur l'or de la famille Ushiromiya... ?!
+175230|Tout ça est à moi !‖  À moi seule, chef de la famille Ushiromiya et nouvelle Sorcière dorée, héritière du nom de Beatrice !!"
+175239|"......Beatrice.
+175245|  ......C'est Beatrice !!
+175249|  Maman, c'est Beatrice !"
+175254|Maria se jeta sur sa mère, folle de joie.
+175255|...Rosa la repoussa sans ménagement et brandit haut son fusil.
+175262|"...Dis, c'est toi, Nee-san... ?‖  ...C'est bien toi, Nee-san, hein... ?"
+175268|"Non.‖  ...Je ne suis plus celle qui était ta sœur."
+175275|"Alors qui es-tu ?!!‖  Tu vas me dire que tu es Beatrice ?!‖  C'est impossible !‖  Tu es morte il y a 19 ans !!!
+175281|Oui, tu étais bel et bien morte, j'ai vu de mes propres yeux ta tête fendue en deux.‖  Je revois encore ce qu'il y avait dedans se répandre, comme si c'était hier !
+175285|  Comment tu peux être en vie et ici, maintenaaaaaaaant ?!?!"
+175298|"La notion de mort n'existe pas pour une Sorcière dorée.‖  La Sorcière dorée et le nom de Beatrice se transmettront pour l'éternité.
+175302|La Beatrice que tu connaissais a peut-être connu la mort, mais ce nom est désormais le mien... !‖  Et il est donc infini !
+175306|  La notion de mort n'existe pas pour Beatrice !!"
+175319|"......Tout ce que je vois, c'est que l'or t'a rendue folle.‖  ...Tu me fais pitié, Nee-san... !"
+175326|"Je te dis que je ne suis plus ta sœur.‖  ...Bien, en tant que nouvelle Beatrice, il me revient de poursuivre ma propre cérémonie de résurrection.
+175331|......Ronove !‖  Qu'est-ce que je dois faire ?!"
+175339|"Comme il vous plaira.‖  Vous possédez désormais le pouvoir de réaliser tout ce que vous désirez.‖  Vous vous y habituerez après quelques essais."
+175345|"...Toi, mon ancienne sœur, bonne à rien.‖  Estime-toi honorée d'avoir été choisie comme le premier sacrifice que j'offre en tant que sorcière.‖  Au deuxième crépuscule, je déchirerai de mes propres mains les deux qui sont proches... !!"
+175360|La première chose que souhaita la nouvelle Beatrice...‖non, la première magie qu'elle voulut employer, fut de dépasser les limites imposées aux humains.
+175363|...À savoir, la gravité.
+175366|Elle voulait prendre pleinement conscience de sa transformation en sorcière en se libérant de ces chaînes.
+175373|Alors que la sorcière et Rosa restaient immobiles...
+175377|...le sol s'éloigna de lui-même...loin en dessous d'elles.
+175378|À présent, leurs pieds ne touchaient plus terre.
+175391|Rosa comprit enfin que ce n'était pas le sol qui s'éloignait en dessous d'elles, ‖mais qu'elle et la sorcière étaient aspirées dans le ciel pluvieux.
+175399|"......Hein... ?‖  .........Iiiiih... ?!"
+175406|"O-Ooooooooooh...  Génial... !"
+175412|Pour un humain enchaîné au sol par la gravité, rien n'est plus angoissant que de sentir ses pieds quitter la terre ferme.
+175415|...Mais pour Beatrice, qui, devenue la nouvelle sorcière, avait découvert la joie d'être libérée de la gravité,‖ c'était de quoi faire trembler tout son corps de plaisir.
+175422|"...Dis, Rosa.‖  Tu te souviens, autrefois, quand on était petites, on parlait de devenir des sorcières et de voler dans le ciel ?
+175428|  ...Ce rêve s'est réalisé, pas vrai ?‖  Je suis devenue une vraie sorcière, et je l'ai réalisé pour toi."
+175434|"...A-Arrête, ......si c'est un rêve, réveille-moi..."
+175440|"C'est toi qui l'as dit.‖  Tu as dit que tu avais volé dans le ciel en rêve.‖  Et tu as dit aussi que tu ne voulais pas te réveiller.‖  Tu m'en as même voulu quand je t'ai réveillée, pas vrai ?
+175445|  ...Ne t'en fais pas.‖  Cette fois, tu ne te réveilleras pas, d'accord ?
+175448|  Héhéhéhéhéhéhéhéhéhéhéhéhé !!"
+175463|Viens, danse avec moi dans l'immensité du ciel pluvieux.
+175466|Ne souhaitions-nous pas toutes les deux voler dans le ciel comme les mouettes...‖et fuir cette île de Rokkenjima, étriquée et ennuyeuse... ?
+175469|Maintenant, je vais faire de ce rêve une réalité, pour toi.
+175472|Cette joie, je ne veux la partager qu'avec toi, et personne d'autre... !
+175480|"Ah ha ha ha, ah ha ha ha ha ha !!
+175483|  C'est trop drôle, Rosa, c'est trop drôle !!
+175497|  Regarde en bas !‖  Regarde comme notre manoir est petit.‖  Je me demande combien de temps on a passé dans un endroit aussi petit.‖  ...Maintenant, je suis vraiment sidérée de voir à quel point il est étriqué et minuscule."
+175507|"Alors, ressens.‖  Profite.‖  Réjouis-toi... !‖  Ce pouvoir dont on rêvait, le pouvoir de parcourir le ciel à sa guise !‖  Allez, dansons, Rosa !‖  Sous la pluie, dans le vent !‖  Volons partout comme si on dansait !
+175510|  Les éclairs vont nous illuminer et nous bénir !!
+175513|  Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha !!"
+175523|La sorcière et Rosa étaient comme des feuilles virevoltant dans un tourbillon.
+175524|Tandis que la pluie martelait chaque parcelle de leurs corps, et que les éclairs les illuminaient par moments, elles tremblaient de la joie d'être libérées du sol.
+175528|...Du moins, ce n'était le cas que pour la sorcière.
+175529|Rosa se tenait la tête entre les mains, poussant sans relâche un cri muet.
+175538|"Arrêêêêêêêêêêêêête !!
+175542|  Pardonne-moiiiiii, fais-moi descendreeeeeee !!"
+175556|"...Tu as raison, il sied mieux aux Humains de ramper sur le sol.‖  Alors pourquoi ne pas y retourner ?"
+175561|Une expression légèrement contrariée se dessina sur le visage de la sorcière lorsqu'elle comprit que sa joie n'était pas partagée.
+175562|Puis elle décida d'accéder à la requête de son ancienne sœur.
+175569|"...... ?!
+175572|  ......Aaaaaaaaaaaaaaaaaaaaaaaaaah !!"
+175576|Le tourbillon qui faisait virevolter Rosa faiblit, puis cessa.
+175579|Autrement dit, Rosa était de nouveau soumise aux contraintes de la gravité, en tant qu'Humaine.
+175582|...Obéissant aux lois qui étaient à l'origine les bonnes, Rosa se mit à descendre vers le sol, la tête la première.‖  Non, elle se mit à tomber.
+175589|"Oups...
+175594|  C'est vrai, si je ne la fais pas descendre correctement, voilà ce qui arrive !"
+175599|La sorcière n'avait pas eu l'intention de précipiter Rosa dans le vide.
+175600|Mais elle n'avait pas encore l'habitude de se servir de la magie.
+175615|Après une chute d'une centaine de mètres dans un rosier, ‖et comme une conséquence on ne peut plus naturelle, Rosa mourut sur le coup.
+175623|Mais la sorcière n'avait pas eu l'intention de la tuer.
+175624|Alors elle souhaita que Rosa ne soit pas morte.
+175631|Aussitôt, des papillons dorés s'enroulèrent autour du corps de Rosa, ramenant cette vie à elle, exactement comme la sorcière l'avait souhaité.
+175638|Le corps de Rosa, qui aurait dû s'étaler comme un tapis de sang frais, redevint rapidement normal.
+175644|Les os brisés et broyés redevinrent normaux.
+175650|La chair déchirée et écrasée redevint normale.
+175656|...Comme il est facile de briser les choses en ce monde, et comme il est difficile de les réparer...
+175659|N'importe qui peut prendre une vie.
+175662|Mais aucun Humain ne peut ramener une vie perdue !‖  Dépasser l'irréversible, c'est prouver qu'on a dépassé l'Humanité.
+175665|...Cela lui fit sans doute prendre conscience de sa condition de sorcière bien, bien davantage que le fait de voler dans le ciel.
+175674|"......Génial...
+175677|  Je peux même ramener...une vie qui s'est éteinte... !"
+175684|"Bien entendu.‖  Beatrice-sama est désormais la Sorcière de l'Infini.
+175690|  ...Vivre et mourir.‖  Faire vivre et tuer, tout cela se répète à l'infini.‖  La reine qui gouverne ce cycle de la vie et de la mort, c'est vous, Beatrice-sama, la Sorcière de l'Infini."
+175696|"Ahaha, aha.‖  Une fois, j'ai fait tomber un bocal à poissons.‖  Le joli bocal si fragile s'est brisé, et je n'ai jamais pu le recoller.‖  Le mignon petit poisson rouge aux yeux globuleux ne s'est plus jamais remis à nager, après avoir heurté le sol.
+175701|......J'avais beau pleurer, les domestiques secouaient la tête en disant qu'on ne pouvait jamais faire revivre ce qui était cassé ni ce qui était mort.
+175706|...C'est là que j'ai appris quelque chose.‖  Il ne faut pas casser les choses, il ne faut pas tuer les gens.
+175709|  Parce qu'on ne peut pas les réparer !!"
+175718|"Alors, si on peut les réparer,
+175720|...on ne se fait pas gronder quand on les casse, pas vrai... ?‖  Haha, ahahahaha, ......génial...‖  Génial, génial, génial... !!
+175723|  Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha !!"
+175733|Pendant un moment, la sorcière se grisa de l'horreur et de la splendeur du pouvoir dont elle avait hérité.
+175736|Son rire était pur, innocent et cruel.
+175746|"......Uuuuuu...aah..."
+175751|Bien qu'elle ait été ramenée à la vie, Rosa gémissait de douleur après sa chute.
+175752|La sorcière se posa alors près d'elle et lui tendit la main.
+175758|"Hahahahahaha, désolée, Rosa.‖  Je ne pensais pas que voler dans le ciel serait aussi amusant.‖  Pardon, je suis vraiment désolée.
+175763|Et je ne savais pas que les Humains mouraient si facilement.‖  Mais je t'ai ramenée à la vie, alors on est quittes.‖  Alors lève-toi, d'accord ?‖  Joue encore un peu avec moi, d'accord ?
+175767|  *glousse*glousse*glousse*  Héhéhé ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha !!"
+175779|Quels étaient ces rêves que tu me racontais quand tu étais petite... ?‖  Vas-y, raconte-les-moi tous, sans te retenir.
+175782|Telle que je suis maintenant, je peux tout réaliser, même le plus absurde... !
+175785|Même te noyer dans une mer de gelée !‖  Même te faire engloutir par une montagne de gâteaux !‖  Je peux même te faire pousser des ailes de papillon pour que tu voltiges dans le jardin, tu sais ?!
+175788|Je vais les réaliser l'un après l'autre.  Commençons par l'océan de gelée, d'accord... ?!
+175793|"A-Arrête,
+175798|......urgh !!"
+175811|Rosa fut de nouveau projetée haut dans le ciel pluvieux.
+175812|Mais le ciel n'était pas rempli de gouttes de pluie : il était rempli de gouttes de jus d'orange.
+175816|En regardant en bas, Rosa n'en crut pas ses yeux.
+175817|La roseraie avait disparu, et le sol qui s'étendait sous elle ressemblait à un puzzle aux couleurs pastel.
+175833|...C'était un océan de gelée, comme celui dont elle avait rêvé et parlé quand elle était petite.
+175840|La partie noire était de la gelée de café.
+175844|  La rouge était à la fraise,
+175848| la jaune à l'ananas,
+175852| et la verte au melon.
+175856|Et la blanche, c'était quoi, de la pomme... ?
+175859|......Rosa avait-elle seulement le temps de penser à ce genre de choses ?
+175862|Rosa tomba vers cet océan multicolore...
+175873|...Et elle s'enfonça profondément dans une mer violette au goût de raisin.
+175887|C'était vraiment un océan de gelée.‖  Il n'avait pas de fond.
+175891|Tout en s'enfonçant, Rosa contemplait, hébétée, un banc de poissons transparents qui nageaient dans l'océan de gelée au raisin.
+175892|Ils devaient être faits de pulpe de raisin.
+175900|Puis elle s'enfonça encore et encore, de plus en plus profond, aussi profond que la fosse des Mariannes,‖ ...écrasée par la pression de l'océan de gelée...
+175904|tandis que ses côtes craquaient, crac, crac, que sa colonne vertébrale craquait, crac, crac.
+175910|...Pour finir, elle ne fut plus qu'une petite boulette de viande toute molle.
+175924|"Ah ha ha ha ha ha ha ha ha ha !
+175935|  Se noyer dans un océan de gelée, quelle expérience merveilleuse... !!‖  C'est un rêve que personne d'autre ne peut imiter !!‖  Je l'ai réalisé pour toi, ahhya hya hya hya !!"
+175941|À l'instant où j'ai claqué des doigts, la boulette de viande qui avait été Rosa a été projetée dans le ciel.
+175952|Et après avoir été enveloppée d'un éclat doré, elle reprit sa forme d'origine.
+175956|C'était aussi simple et facile que de réhydrater des algues séchées, n'importe qui pouvait le faire.‖  À condition d'être une sorcière !
+175957|Cet air hébété sur le visage de Rosa, c'est forcément la joie de voir se réaliser ce rêve auquel elle avait renoncé enfant.‖  Sûrement.  Probablement.
+175964|Ensuite, la montagne de gâteaux.
+175965|En un instant, le ciel se couvrit...et devint noir et blanc, comme un échiquier.
+175969|Cette partie blanche, presque transparente, c'était son gâteau préféré, un cheesecake cru.
+175970|L'élégante partie noire, c'était un gâteau au chocolat légèrement amer.
+175973|Cela devint un plafond, devint une montagne, ...et des milliards de gâteaux s'abattirent sur Rosa.
+175976|Si on empilait tous ces gâteaux, ils seraient sûrement plus hauts que le mont Everest.
+175979|Donc, ils devaient peser...‖...je ne sais pas trop, mais sûrement plus lourd que tous les gâteaux du Japon réunis.
+176001|Comme cela s'abattit comme un plafond et engloutit Rosa,
+176003|...et comme une conséquence on ne peut plus naturelle, Rosa mourut écrasée.
+176008|En moins d'une seconde, ‖tous les os de son corps se brisèrent et ses entrailles furent écrasées et expulsées,
+176012|*splotch*ploc*sploutch*.
+176019|Et pourtant, des gâteaux s'empilaient encore par-dessus, toujours plus nombreux,‖ ...si bien que Rosa finit en couche de confiture prise entre eux.
+176022|Elle devint aussi fine qu'un cheveu...et dut s'étaler sur la surface d'un court de tennis.
+176029|Ce monde englouti par les gâteaux fut à son tour englouti par un éclat doré.
+176042|Alors, comme si tout cela n'avait été qu'un rêve, Rosa fut de nouveau ramenée à la vie.
+176046|...Bien entendu, ce n'était absolument pas un rêve.
+176047|Elle avait été ramenée à la vie après être morte.
+176050|À ce stade, la mort, que la plupart des Humains ne connaissent qu'une seule fois après leur naissance,‖ Rosa l'avait déjà connue à plusieurs reprises.
+176053|Autrement dit, elle avait vécu ce qu'aucun Humain ne peut vivre : la précieuse expérience de mourir plus d'une fois.
+176061|"Ah ha ha ha ha ha ha ha ha, kyah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha !!
+176067|  C'est drôle, hein, Rosa, c'est drôle, hein ?!‖  Maintenant, les papillons, regarde... !!"
+176069|"P-Pitié, pardonne-moi, ......aaaaaaaaaaaaaaaaaah !!"
+176076|"Hors de questiooon !‖  On joue encore, on joue encore... !!
+176084|  Kyahihihihahahahahahahahaha !!"
+176092|Riant innocemment, elle pointa son sceptre doré vers Rosa, qui implorait sa pitié.
+176093|Aussitôt, Rosa se mit à scintiller d'or et rapetissa à vue d'œil.
+176100|Elle rapetissa jusqu'à la taille d'un vrai papillon.
+176101|Puis des ailes dorées lui poussèrent dans le dos, ...et elle rejoignit ses semblables, les papillons dorés.
+176110|Mais si un corps humain pouvait résister à ce vent, il en allait autrement pour un corps de papillon.
+176113|Rosa, devenue papillon doré...fut invitée à danser par chaque bourrasque, l'une après l'autre, et tournoya en tous sens au-dessus de la roseraie.
+176117|"Non, ...nooooooooooooooooooooooooooon !!
+176123|  ......Ah... !"
+176128|Épuisée par la danse, elle fut recueillie par un lit bien doux.
+176129|C'était un hamac souple, tissé dans l'ombre sous le toit de la tonnelle.
+176136|...Le propriétaire de ce hamac apparut d'un pas lourd, accueillant l'hôte inattendue qui s'était égarée chez lui en cette nuit de tempête...
+176139|Ce propriétaire, qui aurait dû être assez petit pour être écrasé dans le creux de la main,‖ paraissait désormais à Rosa plus grand que le ciel d'un lit à baldaquin.
+176152|"Gyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !!!"
+176172|"Kyah ha ha ha kyah ha ha ha ha ha !
+176175|  Quelle empotée, tu t'es fait prendre dans une toile d'araignée !‖  Ah ha ha ha, ah ha ha ha ha ha !!
+176181|Cette fois, c'est une danse avec une araignée.‖  Ça me rappelle des souvenirs.  Tu te souviens, quand on trouvait une toile d'araignée et qu'on s'amusait à lui jeter des cailloux ?‖  On m'a dit que les araignées ne mâchent pas leurs proies, ‖mais leur injectent leur venin, et quand l'intérieur a fondu en une soupe gluante, elles l'aspirent.
+176186|...Dis, Rosa, tu te souviens ?‖  Tu te souviens, quand on lançait exprès des papillons dans les toiles d'araignée pour s'amuser à regarder comment l'araignée les attaquait ?
+176192|Kyah ha ha ha ha ha ha,
+176196|tu ne t'en souviens pas, hein ?  Tu n'étais même pas encore entrée à l'école primaire... !!‖  Cette fois, regarde bien, d'accord ?‖  Regarde de très près.
+176200|  Kyahihihahahahahahakyaa-hahahahahahahahahahahahahaha !!"
+176219|"Noooooooooooooooooooooooooooooooooooooooon,
+176221|pitié, Nee-san,
+176223|au secours, Nee-san !!
+176240|  Iiiiiiiiiiiiiiiiiiiiih
+176246|gaaaaaaaaaaaaaaah
+176252|grrrrrrrrrrrrrk
+176258|bwargh
+176264|ahggggg
+176269|ergorblahgehmolgeeaaarg ga,
+176277|ga...
+176279|ga...
+176281|gyuuboh !!"
+176313|"Elle se débrouille pas mal, celle-là.  Elle manie vraiment la magie comme elle l'entend !
+176316|  Hii hyah ha ha ha ha ha kku hi hi hie hie hya hya hya !!
+176322|  Amusant, amusant, vraiment amusant !‖  Toi aussi, ça te fait rire, pas vrai, Battleeeeeeer ?!"
+176329|"Te fous pas de moi !!!
+176334|  Arrête çaaaaaaaaaaaaa !!‖  Qu'est-ce qu'il y a de drôle, t'es folle, t'es complètement folle !!!‖  Qu'est-ce qu'il y a de drôle à faire un truc pareil ?!?!"
+176341|"Elle a l'air de bien s'amuser, non ?‖  Rien d'étonnant, la magie, c'est amusant !!‖  Je m'en souviens, quand j'ai commencé à savoir me servir de la magie, je me suis drôlement amusée, moi aussi !‖  ...Aaah, je comprends, je comprends, je comprends ce genre de jeu du fond du cœur !
+176346|...On dirait que je ne pourrai pas partager cette joie et cette émotion avec toi, Battler.  Aah, quel dommage, quel dommage !!‖  Si tu m'acceptes, je t'apprendrai la magie quand tu voudras, tu sais ?!‖  La joie qu'on ressent à l'instant où l'on se libère des chaînes de l'Humanité est indescriptible !
+176351|Je veux te la faire connaître, cette joie, cette émotion !‖  J'aimerais absoluuument voir le monde magique que tu ferais naître, ne serait-ce qu'une fois !
+176354|  Kihhi hi hi hi hi, hyah hyah ha ha ha ha ha ha ha ha ha ha !!
+176359|Ça commence à devenir amusant, non ?‖  Tu commences à avoir envie de te servir de la magie, pas vrai ?!‖  C'est plutôt amusant d'être une sorcière, tu sais ?!‖  Pour toi, et toi seul, je t'apprendrai tout !‖  La joie de voler ensemble dans le ciel, la joie de plonger ensemble au fond de la mer !
+176365|Je veux te faire connaître l'émotion qui naît à l'instant où l'on dépasse les limites des Humains ‖et où l'on découvre à quel point le monde est vaste !‖  Ce serait amusant, non,
+176369|wah hya hya ha ha ha ha ha ha ha ha ha ha ha !!"
+176374|Il n'y avait aucune malveillance sur le visage de Beato.
+176377|...C'était difficile à croire, mais elle prenait un plaisir sincère à ce spectacle cruel.
+176381|Et elle voulait partager ce plaisir avec Battler.
+176382|...Battler fut sidéré par ce fossé désespérant entre leurs valeurs.
+176393|"T'es folle !!‖  Arrête ça, bon sang de merdeeeeeee !!‖  Virgilia, fais cesser cette farce démente !!‖  Qu'est-ce que je dois faire ?!!"
+176400|"......Nous existons en dehors de l'échiquier.‖  Nous ne pouvons pas toucher l'échiquier lui-même."
+176406|Virgilia secoua la tête d'un air navré.
+176407|...Elle avait déjà été « tuée ».
+176408|Cela voulait-il dire qu'elle ne pouvait intervenir d'aucune manière... ?
+176415|Tandis que Beatrice continuait de s'amuser comme une folle, Battler l'empoigna par le col et lui hurla dessus.
+176423|"Arrête, arrête, arrêêêêêêêêêêêêêêêête !!!
+176426|  Arrête tes conneries, sorcière !!‖  Tu veux me faire croire que c'est Tante Eva ?!
+176432|  C'est impossible !!
+176435|  La Tante Eva que je connais peut être un peu méchante parfois,‖ mais c'est absolument impossible qu'elle soit du genre à faire quelque chose d'aussi cruel !!
+176440|Tout ça, c'est une de tes illusions !!‖  Ne te joue pas de Tante Rosa !!‖  Ne te joue pas de Tante Eva !!‖  Arrête cette farce tout de suiiiiiiiiiiiiiiite !!"
+176446|"Je te l'ai dit, ce n'est plus moi qui joue avec Rosa.‖  Je te dis que c'est la nouvelle Beatrice.
+176452|C'est vraiment si atroce que ça, pour que tu brailles comme ça ?‖  Au fond, toi aussi, tu aimes bien ce genre de choses, pas vrai ?!‖  En vrai, tu commences à t'intéresser un petit peu à la magie, et
+176470|......aïe !
+176482|  Q-Qu'est-ce qui te prend... ?"
+176487|Pour la première fois, Battler gifla Beato.
+176493|...Beatrice ne comprenait pas pourquoi il lui avait fait ça, et la surprise se peignit sur son visage.
+176496|C'était justement cette expression que Battler ne pouvait pas pardonner, et il rugit.
+176511|"Aaaaaaaaaaah ?!
+176515|  Tu trouves ça amusant ?!‖  Qu'est-ce qui cloche dans ta tête ?!!‖  Crève !
+176524|  Va te découper la tête en rondelles et regarde dedans, tu verras qu'il y a rien du tout !!!‖  Arrête ça tout de suite, arrête cette farce écœurante !!‖  Je te pardonnerai pas !!‖  Comment t'as pu faire un truc aussi cruel ?!!‖  J'ai parfois pensé que tu pouvais être un peu drôle, mais je referai plus jamais cette erreur !‖  T'es qu'un monstre cruel jusqu'au bout des ongles !!!‖  Montre-toi plus devant moi !!‖  Plus jamais !!‖  Je te reconnaîtrai pas, je te parlerai pas, je veux même plus voir ta tête !!‖  T'as compris ?!!‖  Montre-toi plus devant moi, ‖DISPARAIIIIIIIIIIIIIIIIIIIS !!!"
+176553|À l'instant où Battler hurla, la force qui rejetait la sorcière devint un mur rouge et projeta Beato, qui tomba sur les fesses.
+176559|"...Aïe aïe aïe...‖  ...Qu'est-ce que tu racontes, ce n'est pas un spectacle amusant... ?"
+176563|Elle avait parlé pour se justifier, mais Battler, à qui ces mots étaient destinés, n'était plus là.
+176564|Sa silhouette avait soudain disparu dans les ténèbres...
+176567|...Mais Beatrice, la moue boudeuse, continua de chercher à se justifier.
+176573|"...J-Je ne dis pas que je ne comprends pas du tout ton point de vue,‖ ...mais ce n'est qu'une farce innocente, non... ?‖  Peu importe comment on les tue, ils finissent toujours par revenir à la vie, pas vrai ?‖  ...Je croyais que les Humains étaient des créatures pour qui tout est bien qui finit bien... ?!
+176578|D-Dites, Maîtresse,‖ il n'y avait pas de quoi bouder à ce point, n'est-ce pas... ?!"
+176587|Elle espérait son approbation, mais Virgilia lui opposa simplement un visage impassible.
+176588|...Pour Beato, à cet instant, même un air exaspéré aurait sans doute été préférable.
+176595|"......Je n'ai rien de particulier à dire.‖  Si vous trouvez cela amusant, vous pouvez continuer à regarder aussi longtemps que vous le voudrez.‖  ...Appelez-moi quand ce sera terminé.‖  D'ici là, je disparais moi aussi."
+176601|À la suite de Battler, Virgilia disparut dans les ténèbres...
+176604|Beato, restée seule, sans rien comprendre à ce qui se passait, avait l'impression qu'on faisait d'elle la méchante.
+176618|"............‖...C'est quoi, ce cirque ?‖  C'est un spectacle amusant, non... ?!‖  C-C'est peut-être un peu de mauvais goût, ...mais c'est plutôt intéressant, non... ?!!‖  Dis, Ronove... ?!‖  Il n'y a pas de quoi se mettre dans une telle colère, pas vrai... ?!"
+176624|"Pu ku ku ku.‖  ...Ce qui est amusant pour vous, Mademoiselle, ne l'est pas forcément pour Battler-sama."
+176629|"Il me...déteste donc à ce point ?
+176633|  ...Bon, certes, nous sommes ennemis, adversaires dans cette partie, ‖...mais nos rapports sont-ils si mauvais que nous ne puissions même pas rire ensemble de ce divertissement... ?!‖  ......Puisque nous avions pu applaudir ensemble, Battler et moi, je pensais qu'on pourrait au moins rire ensemble à gorge déployée...‖  ...Il me rejette au point que même ça, c'est impossible... ?"
+176638|...Qu'il refuse d'admettre que je suis une sorcière, soit.‖  C'est l'enjeu de notre partie, après tout.
+176643|  Mais ne plus me regarder, ne plus me parler,‖ ...et sans doute tout faire pour m'ignorer...‖  Suis-je donc détestée à ce poiiiiiint... ?!"
+176649|"Les coups que vous avez joués jusqu'ici suffisaient amplement à vous attirer sa haine.‖  Même un démon tel que moi peut comprendre un peu ce que ressent Battler-sama.
+176654|...Peut-être ne pouvez-vous pas le comprendre parce que vous êtes particulièrement obtuse, Mademoiselle.‖  Pu ku ku ku ku ku."
+176660|"T-Tais-toi, tais-toi, tais-toi, tais-toi !!‖  Disparais, toi aussi !!"
+176666|"À vos ordres.‖  ...Sur ce, si vous voulez bien m'excuser."
+176674|Ronove lui-même disparut dans les ténèbres, et Beatrice resta seule.
+176677|Toute seule dans la roseraie sous la pluie.
+176680|Personne ne joue jamais avec une sorcière solitaire.
+176683|Et c'est justement parce que personne ne joue avec elle qu'elle est une sorcière solitaire.
+176689|"......‖...C'est quoi, ce cirque ?‖  ...Pourquoi personne ne veut jouer avec moi... ?
+176694|  ......Je suis si bizarre que ça, si cruelle que ça... ?‖  ......Que quelqu'un me répondeeeeeeeeee !!"
+176709|"Kyah ha ha ha ha ha ha ha, c'est drôle, hein, Rosa, c'est drôle, hein ?!
+176714|  Dis, à quoi on joue, maintenant ?‖  Bien sûr, on va jouer avec Maria aussi, d'accord ?
+176719|  Allons nous promener tous ensemble, bien gentiment, d'accord ?‖  Allons nager dans une marmite de chocolat bouillant, allons pique-niquer dans un four où lèvent les gâteaux !
+176722|  Ahahaha, *glousse*glousse*glousse*glousse* !!"
+176731|"......D-Dis, nouvelle Beatrice."
+176735|Derrière la sorcière qui poursuivait son banquet dément, Beato fit son apparition.
+176739|...Son expression était très inhabituelle chez elle.
+176740|Elle avait quelque chose de gêné, de peu assuré, de pitoyable.
+176746|"Oh, mais c'est la précédente Beatrice-sama.‖  Vous regardiez ?
+176751|  Le pouvoir de la magie est vraiment merveilleux !‖  Jamais je n'avais pensé qu'il serait si amusant de renaître en sorcière.‖  C'est comme une récréation qui ne finit jamais... !‖  Venez, jouons ensemble, Madame la Précédente... !!
+176756|Mais d'abord, attendez une seconde, d'accord ?!‖  Je les ai fait cuire à mort dans un four, toutes les deux, alors je dois de nouveau les ramener à la vie !
+176763|Elles gonflent comme du pain avec de la levure !‖  Comme des biscuits qui gonflent dans le four !
+176764|  *glousse*glousse*glousse* !!"
+176778|"É-Écoute ce que je te dis...
+176782|  ...Euh, eh bien, ‖ça ne suffit pas, pour le sacrifice du deuxième crépuscule ?‖  ...Certes, rien n'est imposé quant à la manière de les tuer, mais,‖ euh, ‖...tu ne devrais peut-être pas t'amuser avec elles davantage..."
+176788|"Que dites-vous là, Madame la Précédente ?‖  Ronove m'a raconté, tout à l'heure.‖  Votre magie n'était-elle pas bien, bien plus merveilleuse, cruelle et folle ?!
+176793|Cette fête d'Halloween où des bonbons jaillissaient du ventre de six personnes, c'était vraiment merveilleux !‖  Alors moi, je vais peut-être mettre en scène le thé d'Alice... !‖  J'inviterai tout le monde à un thé pour fêter un non-anniversaire, et je les régalerai un par un avec ma magie !
+176798|Est-ce que j'arriverai à faire ça aussi merveilleusement que vous ?
+176801|  Est-ce que j'arriverai à être cruelle à ma façon, dans un style pop et mignon ?!
+176805|  Quand j'y pense, les contes de fées sont tous cruels, n'est-ce pas ?‖  Maintenant que je suis moi-même devenue la sorcière d'un de ces contes, je comprends enfin.
+176808|  Kyah ha ha ha ha ku kyah hya fu hya ha ha ha ha !!"
+176818|"......Moi aussi, euh,
+176820|...je me suis parfois dit qu'autrefois,
+176822|...j'étais peut-être allée un peu trop loin.
+176827|  ...Enfin, je pense qu'en tant que Sorcière dorée, mieux vaut faire preuve d'un peu d'élégance..."
+176833|"...... ???‖  Je ne comprends pas ce que vous dites, Madame la Précédente.
+176838|  Mais il y a une chose que je comprends.‖  J'ai beau faire de mon mieux, pour l'instant, je n'arrive pas à la cheville de votre cruauté.‖  Je dois faire bien, bien plus d'efforts.‖  Je dois devenir plus cruelle, et devenir une excellente Sorcière dorée... !"
+176844|"J-Je te dis que tu en as déjà assez fait... !‖  B-Bref, c'est un ordre de moi, ta prédécesseure.‖  Ça suffit pour le deuxième crépuscule.
+176849|  Je vais te montrer comment on fait.‖  Recule et regarde..."
+176855|"Oui, Madame la Précédente.‖  J'ai hâte de voir quelle méthode atroce, cruelle et répugnante vous allez employer pour les tuer."
+176861|La nouvelle sorcière saisit les pans de sa jupe et fit une gracieuse révérence,‖ puis recula, le regard plein d'attente.
+176864|...Elle s'attendait à une magie encore plus cruelle, qui la surpasserait elle-même.
+176871|"......Eh bien, à ce propos...‖  Tant qu'on ne sait tuer que de cette façon, on n'est qu'une demi-sorcière.‖  ...Je vais te montrer une manière élégante de tuer, digne de la Sorcière dorée..."
+176882|Lorsque Beato agita sa pipe, une fumée aux sept couleurs s'en échappa et ramena Rosa et Maria à la vie.
+176886|...Comparé à la façon dont la nouvelle Beatrice l'avait fait un peu plus tôt, c'était légèrement plus doux.
+176887|...Sans doute plus doux, même, que la façon dont Beato elle-même l'avait fait jusque-là.
+176891|La conscience de Rosa s'était déjà troublée sous la douleur de tant de morts répétées.
+176892|...Mais malgré tout, elle implorait qu'on épargne sa fille...
+176901|"...Pitié...épargne-nous...‖  ...Même si...ce n'est que Maria, ...épargne-la..."
+176903|"Ouaaaaaaaaaaaaaaaah, Maman, Mamaaaaaan !!"
+176910|"......Désolée.‖  Ma disciple s'est...euh...un peu trop laissée aller.
+176918|  ...Euh,
+176920| ......pardonne-moi."
+176927|"B-Beatriiiiiiiiiiiiiiiiice !!
+176934|  Ouaaaaaaaaaaah, ouaaaaaaaaaaaaaaaaaaaaaaaaaah !!"
+176938|Quand Maria comprit que c'était la vraie Beatrice, elle se jeta sur elle.
+176944|"...Tu l'as promis, hein, Beato ?!‖  Tu as promis d'emmener Maria à la Terre dorée, hein ?!‖  Là-bas, Maria s'entendra bien avec Maman, et tout le monde rira ensemble... !‖  Tu as promis de l'y emmener, hein ?!"
+176956|"......C-
+176958|C'est que...‖  ...Je ne peux plus...
+176960|tenir cette promesse.‖  ......Parce que quelqu'un capable de résoudre l'énigme est apparu,
+176962|...je ne suis plus la Sorcière dorée, Beatrice.
+176968|  ...Alors, désolée.‖  ...Je ne peux plus tenir la promesse que je t'ai faite..."
+176980|"Pourquoi... ?‖  Pourquoi... ?‖  Beato avait promis..."
+176986|"...Je suis désolée.‖  ...Vraiment désolée...‖  ......Alors, au moins...pour me faire pardonner de ne pas avoir tenu ma promesse..."
+176993|......je vais t'offrir un sommeil paisible...
+176995|que plus rien ne viendra jamais troubler...
+176998|Beato serra Maria dans ses bras, le visage empreint de tendresse...
+177006|Alors, ......doucement, une marque rouge apparut sur le cou de Maria.
+177007|C'était une marque très douce.
+177018|...Sa rougeur s'accentua peu à peu, ...et lorsqu'elle eut nettement pris la forme d'une main...
+177022|...la tête de Maria bascula soudain sur le côté.
+177023|...Paisiblement, comme si elle s'était endormie.
+177033|"M-Maria...
+177039|  ...Mariaaaaaaaaaaaaaaa !!"
+177053|"...Désolée.‖  ...Je ne m'excuserai pas que tu sois un sacrifice du deuxième crépuscule.‖  C'est simplement ton destin.
+177058|  En revanche, je dois m'excuser pour la manière vulgaire dont tu as été offerte en sacrifice...‖  ...Ceci est ton dernier sommeil.‖  ...Plus jamais il ne sera troublé..."
+177065|Beato leva doucement, délicatement le doigt, comme pour toucher le vide devant son nez.
+177068|...Aussitôt, une brise légère se leva et fit voltiger le corps de Rosa, léger comme une plume.
+177075|Puis le corps de Rosa flotta doucement...
+177077|...et juste là se trouvait la grille du jardin, avec ses pointes en forme de lance.
+177102|La lance de la grille transperça le bulbe rachidien de Rosa.
+177106|...Avec miséricorde, sans jouer avec elle, d'un seul coup.
+177107|La vie de Rosa fut tranchée net.
+177110|Comparée aux événements innocents mais cruels de tout à l'heure, cette fin sembla bien trop rapide.
+177114|...On aurait dit une simple poupée à l'image de Rosa, appuyée contre la grille.
+177115|...Mais elle avait rendu l'âme.
+177125|"......B-Bon, voilà qui devrait faire l'affaire."
+177130|Beato prit un air fier, mais la nouvelle sorcière affichait une mine impassible, presque déçue.
+177131|Puis elle le dit tout haut.
+177138|"C'est un peu fade...‖  ...Rien à voir avec Madame la Précédente dont Ronove m'a parlé."
+177144|"...Eh bien, ...il faut utiliser la magie avec dignité, tu vois... ?‖  Si c'est trop...euh...indigne, ce n'est pas très élégant..."
+177150|"............‖...Alors qu'on a la chance d'avoir une magie qui permet de faire des choses merveilleuses à l'infini...‖  ...Quel ennui."
+177156|"Allons, ne te plains pas... !‖  Rome ne s'est pas faite en un jour, et la Sorcière dorée non plus.‖  Tant que tu n'as pas achevé le dixième crépuscule, tu n'es qu'une apprentie...‖  Pour l'instant, tais-toi et suis mes instructions.‖  ...Compris... ?!"
+177162|"............"
+177168|"Q-Qu'est-ce que tu attends pour répondre ?‖  Réponds... !"
+177173|"............
+177176|......Ouiii."
+177184|"...Bien, ça ira.‖  ...Enfin, la cérémonie de résurrection est encore loin d'être terminée.‖  Tu dois encore tuer cinq personnes...‖  Fais-le sans trop jouer avec elles, avec beauté et dignité,
+177186|...et avec au moins un peu de retenue, d'accord... ?‖  Ce que Ronove t'a raconté sur ma façon de faire...c'était un mauvais exemple.‖  Tu ne dois pas t'en inspirer.‖  Grave-le dans ton cœur."
+177192|"......Oui, Madame la Précédente."
+177199|"Bonne réponse.‖  ...Ronove, Sept Sœurs du Purgatoire, paraissez... !"
+177207|"...Oui, Mademoiselle.‖  Moi, Ronove, je suis là."
+177215|"Lucifer de l'Orgueil, à vos ordres."
+177225|"...Jusqu'ici, euh, je me suis montrée un peu tape-à-l'œil, mais...‖euh,
+177227|...enfin, la dignité de la Sorcière dorée importe aussi,
+177229|et à ce sujet..."
+177235|Tout en riant des propos bien peu dignes d'elle qu'une Beato embarrassée bafouillait, Ronove les résuma pour elle.
+177241|"Entendu.‖  Désormais, nous veillerons à agir avec la distinction qui sied au nom de la Sorcière dorée.‖  ...Les Sept Sœurs du Purgatoire, elles aussi, cesseront leurs mauvaises farces d'antan,‖ et s'appliqueront à accomplir leur tâche par les moyens les plus directs.‖  ...Cela vous convient-il, Mademoiselle ?"
+177247|"C-Certes.‖  C'est à peu près ça.‖  Tenez-vous-le pour dit, tous !‖  Compris... ?!"
+177254|"Oui.‖  À vos ordres."
+177260|"C'est tout ce que j'avais à dire.‖  ...Vous pouvez disposer."
+177266|"Entendu.‖  Si vous voulez bien nous excuser."
+177274|"Veuillez nous excuser."
+177287|"............"
+177293|"Bon, ...c'est tout ce que j'avais à dire.‖  Alors, sois prudente pour la suite, compris ?‖  Agis avec dignité, et...euh, avec retenue, d'accord ?‖  ...Donne le meilleur de toi-même.‖  Je veille sur toi."
+177300|Gauche jusqu'au bout, Beato laissa ce message et se changea aussitôt en une nuée de papillons dorés, disparaissant dans le vide.
+177304|Il serait peut-être plus juste de dire qu'elle s'était éclipsée en hâte, faute de savoir comment poursuivre la conversation.
+177308|Il ne resta plus que le cadavre de Maria, étendu sous la pluie battante,‖ celui de Rosa, appuyé contre la grille, les yeux levés vers le ciel...
+177309|...Et la silhouette de la sorcière.
+177315|".........De la retenue, ...hein... ?"
+177319|Son expression semblait un tout petit peu ennuyée.
+177323|Il y eut un bruit sec.
+177324|...C'était sans doute elle qui claquait la langue.
+177330|"..................
+177335|............Quelle rabat-joie."
+177342|Sur ces derniers mots, elle disparut à son tour dans le vide...
+177364|".........zzzzz..."
+177371|".........Ouf.‖  ...On dirait qu'elle s'est enfin calmée..."
+177376|Hideyoshi s'essuya le front.
+177377|...Pendant un temps, Eva avait semblé faire un terrible cauchemar, mais elle avait apparemment fini par s'endormir.
+177382|Comme promis, il lui tenait toujours la main.
+177383|...Il s'était dit qu'il pourrait bientôt la lâcher, mais il continua fidèlement de la tenir.
+177386|De temps en temps, sa main se fatiguait et il passait de la droite à la gauche,‖ mais malgré tout, comme promis, il ne lâcha pas sa main...
+177393|C'est alors qu'on frappa lourdement à la porte.
+177394|Eva venait enfin de s'endormir, aussi Hideyoshi fronça-t-il les sourcils un bref instant.
+177401|"...Aneki, Hideyoshi-san, désolé.‖  Rosa est avec vous... ?"
+177405|C'était la voix de Rudolf.‖  ...Que se passait-il ?
+177409|Hideyoshi se dirigea vers la porte à pas feutrés, pour ne pas réveiller Eva.
+177413|...C'était bien la voix de Rudolf, mais par précaution, il ouvrit la porte sans retirer la chaîne.
+177422|"Qu'est-ce qu'il y a ?‖  Il est arrivé quelque chose à Rosa-san ?"
+177429|"On ne trouve plus Rosa ni Maria-chan.‖  Je me suis dit qu'elles étaient peut-être avec vous."
+177435|"...Je l'ai entendue gronder Maria-chan dans le couloir.‖  Après, ça s'est calmé, alors j'ai cru qu'elles étaient retournées dans le hall, ...c'est pas le cas... ?"
+177440|"......Cette idiote..."
+177444|Rudolf claqua la langue.
+177452|On apercevait d'autres personnes dans le couloir.
+177453|Rosa n'était pas revenue depuis un bon moment après être sortie dans le couloir, alors ils avaient commencé à s'inquiéter.
+177456|Devant la porte d'entrée, Natsuhi montrait la chaîne, qui n'était pas mise.
+177466|"...La chaîne n'est pas mise.‖  Elles sont sûrement sorties voir cette rose, finalement."
+177473|"Sortir en laissant la porte ouverte, quelle imprudence.‖  Elle est vraiment pénible."
+177481|"...Je m'inquiète surtout pour Rosa-san et Maria-chan elles-mêmes."
+177488|"C'est vrai.‖  ...Hé, les gamins.‖  Elle était où, cette rose de Maria ?!"
+177496|"Je crois bien...que c'était dans le parterre en plein milieu de la roseraie..."
+177503|"Si elles sont là-bas, on devrait les repérer assez vite en y allant."
+177511|"...P'pa, on devrait pas les ramener ici au plus vite... ?"
+177519|"Évidemment.‖  On va les ramener et leur flanquer une bonne fessée.‖  Je fais un saut là-bas et je reviens.‖  Fermez la porte à clé dès que je serai sorti."
+177526|"...P'pa, je viens avec toi."
+177533|"Dis pas de bêtises.‖  C'est bien connu, les gamins gardent la maison avec Maman."
+177549|"......Qu'est-ce qu'il y a... ?‖  Il s'est passé quelque chose... ?"
+177557|"Désolé, je t'ai réveillée... ?‖  ...On dirait que Rosa-san a emmené Maria-chan dehors.‖  ...Quelle imprudence."
+177565|"Rosa et Maria-chan sont...
+177567|...dehors... ?‖  Dans la roseraie... ?!"
+177573|"C'est ça.‖  ...Oh, tu as entendu ?‖  Maria-chan faisait tout un raffut parce qu'elle voulait voir cette rose."
+177588|"...Il ne faut pas...
+177590|  ...Il ne faut pas qu'elles aillent dans la roseraie... !‖  Dis à Rosa de s'arrêter... !"
+177592|"Im-Impossible de lui dire de s'arrêter maintenant, on dirait qu'elles sont parties depuis un moment.‖  ...Franchement, quelle imprudence."
+177602|"......Ce n'est pas ça...‖  ...Pas la roseraie...‖  ...Il y a une sorcière là-bas,
+177604|...et elle attend un sacrifice... !‖  Rosa, il ne faut pas y aller,
+177606|...ooooooooooooh..."
+177611|...Eva se recroquevilla de nouveau, la tête entre les mains.
+177612|...Elle avait très mauvaise mine.
+177619|"Qu'est-ce qu'il y a ?‖  La fièvre t'a fait faire un mauvais rêve ?"
+177628|"......C'est un rêve,
+177630|...hein...‖  ......Dans la roseraie, la sorcière qui fait ça à Rosa et à Maria-chan...‖  ......C'est ça.‖  ...C'est un rêve...
+177632|  Forcément..."
+177638|"Calme-toi.‖  Je suis là, dans cette chambre.‖  Et la chaîne est mise.‖  Les volets de la fenêtre sont fermés, et on a même un fusil.‖  Cette chambre, c'est une vraie forteresse.‖  Y a rien à craindre."
+177642|Hideyoshi se frappa la poitrine pour la rassurer, mais l'air inquiet d'Eva ne changea pas.
+177645|...Sous les couvertures, Eva ne cessait de prier pour que l'horrible cauchemar qu'elle venait de faire ne soit qu'un rêve...
+177682|"Au centre de la roseraie, Rudolf a identifié les cadavres de Rosa et de Maria.‖  Ensuite, il est retourné à la maison d'hôtes, a appelé à l'aide, et toutes deux ont été transportées dans la maison d'hôtes."
+177688|"Si l'on se fie à l'examen de Nanjo, Rosa est morte le bulbe rachidien transpercé par la pointe de la grille.‖  Quant à Maria, sa mort serait due à un étranglement à mains nues.‖  Toutefois, en vertu de la `preuve du diable', on ne peut exclure une erreur de diagnostic."
+177695|"...Je vais le dire en rouge.
+177698|  #ff0000Rosa et Maria sont mortes</i>.
+177701|  #ff0000Les causes de leur mort sont celles que Nanjo a établies</i>.
+177707|  ...Elle n'a pas été dévorée par une araignée, ni écrasée sous une montagne de gâteaux.‖  Sois tranquille."
+177714|"......Donc, ton argument, c'est qu'après avoir joué à ce point avec leur mort, tout va bien parce que le cadavre est propre et net... ?‖  Je te pardonnerai jamais.
+177720|...Toutes ces horreurs que tu as fait subir à Tante Rosa, je les oublierai jamais,‖ alors je te pardonnerai pas..."
+177727|"...J-Je te répète que ce n'était pas moi...‖  ...Je crois leur avoir offert une mort bien plus paisible que ce qu'elle leur a fait subir..."
+177733|"Ferme-la.‖  Je te parle pas."
+177738|"......Il a été affirmé qu'il n'y a pas plus de 18 personnes sur cette île, et puisque huit sont déjà mortes,‖ le nombre de suspects se réduit à dix.‖  L'un d'eux a sans doute tué ces deux-là.
+177743|...À moins que ce soit aussi une mort accidentelle ?‖  Par exemple, Maria fait un caprice,‖ et en essayant de l'empêcher de pleurer, Tante Rosa dose mal sa force et la tue sans le vouloir.‖  Puis, bouleversée, elle glisse, tombe sur la grille et, pas de chance, elle meurt.
+177748|...Qu'est-ce que t'en dis ?‖  Comme ça, pas besoin de sorcière ni de magie."
+177755|"...Eh bien, ce n'est pas tout à fait ça.‖  En fait, Rosa et Maria..."
+177762|"Ferme-la.‖  Je t'ai dit que je te parlais pas, non ?‖  Tu me sors par les yeux, alors disparais.‖  Espèce de monstre."
+177766|Battler avait dit cela sans colère, ...mais d'une voix horriblement froide.
+177770|...Cette étrange attitude, Beato l'avait remarquée d'emblée.
+177771|Dans une dispute, chacun aurait pu s'en prendre à l'autre sans retenue.
+177774|Mais lui refusait même de monter sur le ring.‖  Elle sentait cette froideur.
+177780|Beato ne trouvait pas ça drôle.
+177781|...Elle songea à s'emporter, mais se retint.
+177784|Peut-être que, malgré son innocence et sa puérilité,‖ elle avait assez de jugeote pour comprendre qu'il ne fallait pas chercher la bagarre.
+177790|"......‖......Ah oui ?‖  Alors je disparais.‖  ...Ronove, prends la suite à ma place."
+177796|"Entendu.‖  ...Cela vous convient-il, Battler-sama ?"
+177809|"......Sa proposition ne pose aucun problème.‖  Si Battler-kun ne veut plus voir le visage de Beato, c'est peut-être une solution."
+177816|"Faites ce que vous voulez.‖  ...Du moment que je n'ai plus à voir cette tête de monstre, le reste m'est égal."
+177827|"...Hé, attends une seconde.‖  ...Tu n'arrêtes pas de me traiter de monstre, ce n'est pas une façon cruelle de parler de moi ?
+177832|  ...Pourquoi me détestes-tu autant, d'instinct, Battler ?‖  Alors que rien de tout ça n'était de moi, que tout était l'œuvre de ma disciple..."
+177838|"......C'est pas seulement ce qui vient de se passer qui me met en colère.‖  C'est comme ça depuis le tout début."
+177844|"Dis, Battleer.‖  Ne te méprends pas, d'accord... ?‖  Nous ne sommes que deux joueurs qui s'affrontent au travers d'une partie, non ?‖  ...Nous cherchons chacun les coups qui feront souffrir l'autre, mais..."
+177850|"Te méprends pas.‖  Je te déteste pas parce que tu es mon adversaire dans cette drôle de partie où il s'agit de savoir si je t'accepte comme sorcière ou pas.‖  ...C'est juste ta cruauté gratuite que je peux pas pardonner."
+177856|"Enfin, cette partie repose sur des meurtres en série...‖  Il est sans doute impossible d'éviter un peu de cruauté..."
+177862|"Je parle pas seulement de ce qui vient de se passer.‖  Il y a eu la dernière fois, et celle d'avant aussi.‖  ...Éventrer tout le monde pour les bourrer de bonbons, leur labourer le visage...‖  À quoi ça servait, tout ça ?"
+177870|"......C'est que...
+177872|enfin..."
+177878|"Les meurtres en chambre close, les astuces, les alibis,‖ je veux bien te les passer.‖  Tu veux prétendre que ce sont des meurtres commis par magie,‖ alors j'admets, à contrecœur, qu'il faut que des crimes aussi compliqués se produisent.
+177883|...Mais à quoi peuvent bien servir tous ces meurtres grotesques ?"
+177891|"......Eh bien, euh,
+177893|......à rien de spécial..."
+177901|"Exactement.‖  Ils servent à rien.‖  Tu t'amuses juste à mutiler les cadavres, pour le plaisir.‖  Ça n'a rien à voir avec le fait que tu sois une sorcière, ou que ce soit faisable ou non par magie.
+177906|Tu explores juste les profondeurs de la cruauté pour t'amuser.‖  C'est pas une question de savoir si t'es une sorcière ou quoi que ce soit.‖  C'est juste qu'il y a des choses que je peux pas pardonner, en tant qu'être humain."
+177915|"......Q-
+177917|Qu'est-ce que ça veut dire, en tant qu'être humain... ?"
+177925|"Par exemple,‖ ...les six personnes du premier crépuscule de cette partie.‖  ...Bon, mis à part Grand-père, carbonisé,‖ les autres ont été tués d'une manière normale, sans outrage inutile envers les morts.‖  ...On sait pas bien si l'arme était une lance ou un fusil, mais en tout cas, pour des meurtres, c'était acceptable.‖  C'était bien mieux que l'horreur grotesque et absurde du premier crépuscule de la dernière fois, ou de celle d'avant."
+177933|"Et cette fois, il y avait six chambres closes reliées les unes aux autres pour former une chaîne de chambres closes.‖  ...C'était plutôt intéressant.
+177939|Quand on se renvoyait la balle là-dessus, pour être tout à fait honnête, j'ai trouvé ça un petit peu amusant.
+177945|...Toi, tu faisais tout pour me faire accepter ton existence, et moi, je faisais tout pour la nier.‖  ...On donnait tous les deux tout ce qu'on avait."
+177954|"Ça va peut-être paraître bizarre, mais j'ai ressenti entre nous comme un vague esprit sportif.
+177959|  ...On est dans deux camps opposés, ‖mais je me suis vaguement dit qu'on n'était peut-être pas complètement incapables de comprendre l'existence de l'autre.
+177965|......Mais tout à l'heure, ce sentiment s'est envolé sans laisser de traces."
+177972|"C-C'est là que tu te méprends... !‖  Ce n'était pas moi-"
+177978|"C'est pas ça.‖  C'est pas de ça que je parle !
+177983|  ...Tu as regardé Tante Rosa se faire tuer horriblement, encore et encore, ‖et tu as ricané comme si c'était un spectacle amusant."
+177990|...En voyant ça, j'ai été profondément déçu par toi.
+177993|Quand j'ai compris que si tu avais choisi de les tuer d'une façon un peu moins horrible cette fois, ce n'était qu'un vague caprice,‖ ...et que rien n'avait changé dans ta nature cruelle, j'ai été profondément déçu.
+177999|Pire encore, tu prenais sincèrement plaisir à ces morts atroces.
+178000|Tu ne faisais pas juste la cruelle pour m'embêter.
+178004|...Tu aimes vraiment, sincèrement, la cruauté.
+178005|C'est dans ta nature d'y prendre plaisir.
+178014|Tu as dit que je trouverais sûrement amusant de voir Tante Rosa se faire tuer atrocement encore et encore.
+178017|Tu ne plaisantais pas.‖  Tu t'amusais du fond du cœur, tu voulais que je partage ça, et tu as dit que je trouverais sûrement ça amusant.
+178024|...À cet instant, j'ai perdu tout respect pour toi et j'ai compris la vérité.
+178030|"Le problème, c'est pas de savoir si t'es une sorcière ou pas.‖  ...Je pardonnerai pas ta cruauté.‖  Et je peux pas la comprendre !‖  Je peux pas non plus la pardonner !‖  Malgré tout, je vais continuer cette partie où il s'agit d'accepter ou de nier les sorcières.‖  Je vais pas abandonner en reconnaissant ma propre défaite."
+178035|"Mais ta cruauté gratuite n'a absolument rien à faire dans cette partie.‖  Alors j'ai décidé de ne plus te reconnaître comme adversaire.‖  Ronove est cent fois mieux.‖  Il n'a pas ton goût pour la cruauté.‖  Et même s'il l'a, il n'a pas le mauvais goût de l'étaler devant moi.
+178040|...C'est ça, t'as un goût exécrable.‖  T'es sans cœur et cruelle, alors tu peux pas comprendre.‖  C'est désagréable chez un adversaire.‖  Alors je veux plus jamais voir ta tête."
+178048|Tandis que Battler déroulait son discours sans lui laisser placer un mot, Beato resta longtemps muette de stupeur.
+178051|Peut-être ne comprenait-elle pas ce qu'on lui disait,‖ ou peut-être était-ce le signe qu'elle faisait tout son possible pour comprendre.
+178064|Pendant un moment, elle passa tour à tour d'une expression furieuse à une expression vexée, puis à une expression effrontée,‖ ...comme si elle-même ne savait pas quelle attitude adopter.
+178069|Pour finir, elle afficha un air détaché, comme si elle était revenue à elle, ‖et haussa les épaules d'un air las.
+178078|".........‖......Dans ce cas, fais comme tu veux.‖  Désormais, je poursuivrai cette partie par l'intermédiaire de Ronove.‖  ...Tant que je ne me montre pas, tu n'as rien à redire, n'est-ce pas ?"
+178084|"...Pour le moment.‖  Mais toutes les cruautés que tu as commises jusqu'ici, je te les pardonnerai jamais.‖  Et je t'accepterai jamais.‖  Raison de plus pour pas me défiler devant la bagarre que tu m'as cherchée.‖  Et je perdrai pas, c'est certain.‖  ...C'est tout."
+178091|"......Beato,‖ vous aurez beau multiplier les excuses, son opinion ne changera pas.
+178096|  ...J'aurai à vous parler plus tard.‖  D'ici là, retirez-vous."
+178102|".........C-Certes...‖  ...Entendu.
+178107|  ...Alors je disparais jusqu'à ce que vous m'appeliez..."
+178114|L'air esseulé, Beato leur tourna le dos et disparut.
+178120|...Battler la regarda partir, l'air légèrement contrarié.
+178123|Il pensait que ses arguments étaient justes, mais pour une raison ou une autre, il ne se sentait pas mieux.
+178132|"...Elle est...
+178134|idiote."
+178141|"......C'est vrai.‖  Idiote, et franche."
+178147|"Cette idiote a regardé Tante Rosa se faire tuer horriblement avec moi,‖ puis elle s'est retournée avec un immense sourire aux lèvres.
+178152|  ...Elle croyait vraiment qu'elle pourrait rire avec moi de ce spectacle cruel.‖  ...Elle croyait vraiment que je pourrais partager ce sentiment..."
+178158|"En voyant ce sourire innocent, je me suis senti minable.‖  ...Ça aurait été bien mieux si elle me l'avait dit avec sa tête de peste habituelle...‖  ...Bon sang..."
+178165|"Mademoiselle n'a jamais eu d'amis.‖  ...De plus, personne ne lui a sans doute jamais parlé avec autant de force."
+178171|"Madame et moi sommes à son service.‖  Quoi que nous disions, cela ne parvient pas à ses oreilles.‖  Pour Mademoiselle, ceci est aussi-"
+178177|"Te fous pas de moi.‖  Je me rappelle pas être devenu son ami."
+178183|"...C'est bien vrai.‖  Veuillez m'excuser."
+178189|".........
+178195|...Il y a une chose pour laquelle je voudrais vous remercier.‖  ...Merci de ne pas avoir abandonné la partie de cette enfant."
+178203|C'étaient des mots de gratitude, mais pour une raison ou une autre, Battler fit une mine contrariée.
+178204|Puis il eut un petit rire, comme pour se moquer de lui-même.
+178210|"Si même les sorcières et les démons se mettent à me remercier, je suis fichu.
+178217|  ...Reprenons la partie.‖  Bien sûr, j'ai pas l'intention de te faire de cadeau."
+178224|"Je n'en demandais pas moins.‖  Contrairement à Mademoiselle, je ne m'emporte pas."
+178230|"...J'ai déjà joué mon coup.‖  Si on suppose que Tante Rosa est la coupable et qu'elle est morte accidentellement, je peux nier la sorcière.‖  ...J'ai pas envie de soupçonner Tante Rosa, mais je peux me résoudre à admettre cette hypothèse si ça permet d'écraser Beato."
+178236|"Je vais le nier en rouge.
+178239|  #ff0000La mort de Rosa et celle de Maria sont des homicides</i>."
+178245|"D'accord.‖  ...Partons de là.
+178250|  ......Bon sang, j'arrive vraiment pas à m'y mettre."
+178279|Avec la mort de Rosa et de Maria, il était désormais évident que le coupable se cachait toujours quelque part,‖ cherchant à ajouter d'autres meurtres à cette série.
+178282|En pleurant, Rudolf reprocha à plusieurs reprises au cadavre de Rosa son imprudence,‖ mais Rosa ne lui répondrait plus jamais.
+178286|Ils décidèrent de placer les deux corps dans l'une des chambres d'amis...et de la sceller jusqu'à l'arrivée de la police...
+178289|Le deuxième meurtre...non, le meurtre du deuxième crépuscule avait porté un rude coup à tout le monde.
+178292|Il avait balayé l'optimisme que certains entretenaient,‖ la pensée : `il n'y a pas vraiment eu de crime, tout cela n'est qu'un jeu ou une farce de Kinzo et des domestiques'.
+178297|Pour tenter d'oublier la perte de ceux qu'ils aimaient, ‖George et Jessica avaient passé toute la matinée à envisager toutes les possibilités.
+178302|...Et ils avaient apaisé leurs cœurs en supposant que ces meurtres n'étaient peut-être qu'une mise en scène,‖ et que Shannon et Kanon faisaient seulement semblant d'être morts.
+178307|Le nouveau meurtre avait anéanti cette idée,‖ ...et les avait de nouveau mis face au fait que la personne qu'ils aimaient avait bel et bien été tuée...
+178310|Les larmes qu'ils croyaient taries se remirent à couler, et Battler ne trouva rien à leur dire...
+178320|Ensuite, tous les adultes vérifièrent, par précaution, que toutes les pièces étaient sûres et fermées à clé.
+178323|Ils s'assurèrent que les volets de toutes les fenêtres étaient baissés et verrouillés, et vérifièrent que personne de suspect ne se cachait nulle part.
+178326|En outre, ils vérifièrent encore une fois leurs armes...‖et s'assurèrent mutuellement qu'ils étaient prêts, mentalement, à tirer les premiers sans hésiter s'ils apercevaient la silhouette d'un inconnu.
+178331|Le fusil de Rosa avait été retrouvé près du lieu du crime.
+178336|Quelqu'un avait pris la peine de le laisser là, si bien que tout le monde soupçonnait un piège, ‖mais quand Hideyoshi, se servant adroitement d'un tisonnier, fit des tirs d'essai, l'arme tira sans incident.
+178360|Ainsi, comme les cinq cartouches chargées avaient été tirées sans problème,‖ ils le rechargèrent et le confièrent au seul homme adulte qui n'était pas armé, Hideyoshi.
+178366|Cependant, le fait qu'on ait pu tirer cinq coups fit naître une certaine paranoïa.
+178370|Ce Winchester à canon court ne pouvait contenir que cinq cartouches.
+178371|Autrement dit, Rosa n'avait pas tiré une seule fois.
+178374|Et pourtant, les deux victimes avaient sans doute été tuées à mains nues.
+178377|Cela signifiait qu'il était possible que le crime ait été commis par quelqu'un qu'elles connaissaient...
+178386|"...Quand le premier meurtre a eu lieu,‖ j'ai envisagé en mon for intérieur la possibilité que tout ça ne soit qu'une mise en scène.
+178393|  ...Que le docteur Nanjo me pardonne, mais s'il avait en fait été complice,
+178395|je me suis dit que la mort de tous les domestiques pouvait être une immense mise en scène, montée de toutes pièces par Père."
+178402|"...Après tout, la situation de chambre close dans laquelle ils se trouvaient ne pouvait s'expliquer qu'en supposant que tout cela était joué."
+178413|"...Nous aussi...
+178415|nous l'avons soupçonné.‖  ...Non,
+178417|...je veux toujours croire que c'est le cas."
+178424|"......Je suis navré, ...mais il n'en est rien.‖  ...Je suis bien vieux.‖  Il se peut que je commette une erreur de diagnostic.

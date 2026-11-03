@@ -1,0 +1,671 @@
+{"id": 178430, "en": ["  ...However, I would never mistake whether they were alive or dead...\""], "voix": "nan", "ja": "……しかし、生き死にを間違えるようなことは絶対にない…。」"}
+{"id": 178437, "en": ["\"I get it!"], "voix": "jes", "ja": "^^!s0「わかってるよッ！"}
+{"id": 178453, "en": ["  Don't go out of your way to say it out loud, Doctor Nanjo...!\""], "voix": "jes", "ja": "わざわざそれを口に出すなよ、南條先生…！」"}
+{"id": 178460, "en": ["\"...My apologies...\""], "voix": "nan", "ja": "「……すみません…。」"}
+{"id": 178467, "en": ["They had no way of knowing,", " but Beato had already used the red to proclaim the deaths of the six...", "no, the deaths of all victims so far in this game."], "ja": "彼らには与り知れないことだが、 ベアトは赤で、彼ら６人の、 …いや、今回、すでに出ている犠牲者全員の死亡を宣言している。"}
+{"id": 178470, "en": ["That faint dream that it was all a farce, that the victims were actually alive...", "  I'm sorry to say it, but that's impossible..."], "ja": "全てが茶番で、犠牲者たちは実は生きているという淡い夢は、 ……気の毒だが、ありえないのだ…。"}
+{"id": 178481, "en": ["\"...In that case, it makes more sense to assume it's someone familiar with the mansion,", " someone hiding around and carrying out a really well-polished crime.", "  So, ever since the typhoon came to this island and sealed it off from the outside world, there's been more than 18 people here.\""], "voix": "rud", "ja": "「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、 練りに練った犯行を実行したと考える方が自然だろうよ。 つまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ。」"}
+{"id": 178488, "en": ["Of course, there was no way for them to know about that either."], "ja": "そしてこれももちろん与り知れないこと。"}
+{"id": 178492, "en": ["That claim of Rudolf's has also been denied in red."], "ja": "留弗夫のこの主張もまた、赤で否定されている。"}
+{"id": 178493, "en": ["There are no more than 18 humans on this island..."], "ja": "この島には１８人を超えた人間は存在しない…。"}
+{"id": 178505, "en": ["\"I might have a way to look at it that keeps things consistent, at least a little.", "  ...Simply put, this person in hiding is someone who shouldn't really be on this island right now.", "  And yet, there's a likelihood that they were someone Rosa-san knew, someone she'd let her guard down around.\""], "voix": "kir", "ja": "「こう考えると少しは辻褄が合うのかしら。 ……つまり隠れ潜んでいる何者かは、本来は今、島にいるはずのない人物。 にもかかわらず、楼座さんが油断するような顔見知りの人物である可能性よ。」"}
+{"id": 178516, "en": ["\"...S-"], "voix": "nat", "ja": "^^!s1「……そ、"}
+{"id": 178518, "en": ["So, for example, "], "voix": "nat", "ja": ":voicedelay 220^^それは例えば、"}
+{"id": 178520, "en": ["could it be...a servant who wasn't on this two-day shift...?\""], "voix": "nat", "ja": ":voicedelay 1460^^この二日間のシフトに当たっていない使用人など、ですか…？」"}
+{"id": 178534, "en": ["\"Hmm...", "  ...It's hard to be certain about that one.", "  When our servants finish their work and leave the island, it isn't as though we punch their ticket or something to make sure.", "  If we're supposing that a servant on a shift from a few days ago only pretended to leave the island and actually stayed here,", " that would be hard to deny...\""], "voix": "kla", "ja": "「ふむ……。 …それを言われると弱いな。 我々は勤務を終えた彼らが離島するのを、切符切りのように確認しているわけではない。 数日前のシフトの使用人が、離島したフリをして島内に留まっていたかもしれないと仮定したら、 否定するのは難しいね…。」"}
+{"id": 178542, "en": ["\"...I don't think Rosa-san is such a fool.", "  If a servant who wasn't supposed to be here popped up in front of you, who wouldn't be on their guards...?\""], "voix": "hid", "ja": "「……楼座さんもアホちゃうと思うで。 いるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…。」"}
+{"id": 178548, "en": ["\"......I'm not even sure we should be assuming that it was someone she recognized.", "  ...Maybe they suddenly attacked Rosa from the darkness and were about to steal her gun.", "  Then Rosa fell, hit her head against the fence, and stopped moving.", "  The guesthouse was nearby and they wanted to avoid the sound of gunfire, so they killed Maria-chan with their bare hands...\""], "voix": "eva", "ja": "「……………顔見知りの犯行と決め付けるのもどうかと思うわ。 …暗がりから突然楼座が襲われて、銃を奪われそうになった。 そしたら楼座が転んで柵に頭を打ち、動かなくなった。 ゲストハウスが近かったので、銃声を嫌い、素手で真里亞ちゃんを殺した…、とか。」"}
+{"id": 178555, "en": ["\"...There's also that possibility.", "  ...Still, even if that is the case,"], "voix": "rud", "ja": "「……そういう可能性もあるな。 …ただ、そうだとしてもだ。"}
+{"id": 178562, "en": [" would they really intentionally leave Rosa's gun at the scene of the crime?", "  We don't know what the culprit's armed with, but they've got to feel insecure about our guns.", "  ...Wasn't that a perfect chance for them to thin out our supply?", "  Why would they intentionally leave it at the scene of the crime?\""], "voix": "rud", "ja": "現場にわざわざ楼座の銃を残していくだろうか。 犯人が何を武装しているか知らねぇが、こちらの銃は不安要素のはずだ。 …その一丁を間引けるチャンスだったはずだぜ？ 　なぜわざわざ現場に残したんだ。」"}
+{"id": 178570, "en": ["\"At first, I thought that gun was a trap.", "  ...That's what chessboard thinking says it should be.", "  By purposefully leaving it, they wanted to make one of us touch it.", "  And they must have wanted to make us pull the trigger.", "  ...I was sure that something dangerous had been done to it...to make it explode and cause massive injuries.\""], "voix": "kir", "ja": "「私は初め、その銃を罠だと思ったの。 ……チェス盤思考だとそうなる。 わざわざ残した以上、私たちの誰かに手に取らせたい。 そして引き金を引かせたいに違いない。 …てっきり暴発して大怪我を負わせるような、危険な仕掛けがされてるに違いないと思ってたわ。」"}
+{"id": 178577, "en": ["\"But, it was actually okay."], "voix": "hid", "ja": "「でも、現に大丈夫や。"}
+{"id": 178584, "en": ["  ...The culprit probably panicked.", "  I'll bet that right now, they're regrettin' that they missed their chance to steal a gun...!\""], "voix": "hid", "ja": "……恐らく、犯人も焦っとったんとちゃうか。 今頃、銃を奪うチャンスを逃したことを後悔しとるに決まっとるで…！」"}
+{"id": 178591, "en": ["\"......I don't like it.", "  It ticks me off, like it's a message from the witch, saying she isn't even scared of guns.\""], "voix": "but", "ja": "「………何だか不愉快だな。 銃なんか怖くもないって言う、魔女のメッセージみたいでムカつくぜ。」"}
+{"id": 178599, "en": ["\"...However, in any event, this is truly a fearsome opponent.", "  Even at a glance, they should have been able to tell that Rosa had a gun."], "voix": "nat", "ja": "「…しかし、いずれにせよ恐ろしい相手ですね。 楼座さんが銃を持っていることは傍目にもわかったはず。"}
+{"id": 178605, "en": ["  To think that they attacked her despite that.", "  ...The fact that they are unafraid of guns should not be taken lightly.\""], "voix": "nat", "ja": "にもかかわらず、襲い掛かるとは。 ……銃を恐れないという点を、私たちは軽視するべきではありません。」"}
+{"id": 178612, "en": ["\"Indeed...", "  It's as Natsuhi says.", "  ...We should probably be even more cautious than we have been.\""], "voix": "kla", "ja": "「うむ…。 夏妃の言う通りだ。 ……これまで以上に用心すべきだろう。」"}
+{"id": 178620, "en": ["\"This is just for peace of mind, but...", "...at the time we think Rosa-san was attacked outside,", " where was everyone...?\""], "voix": "kir", "ja": "「念の為なんだけど…。 ………楼座さんたちが外に出たと思われる頃。 みんなはどこにいたのかしら…？」"}
+{"id": 178627, "en": ["\"Natsuhi and I were here, along with Rudolf and Kyrie-san.", "  I can guarantee their alibis.\""], "voix": "kla", "ja": "「私と夏妃、そして留弗夫と霧江さんはここで一緒だった。 私がアリバイを保証する。」"}
+{"id": 178636, "en": ["\"Eva and I were together.", "  I can guarantee that.\""], "voix": "hid", "ja": "「わしと絵羽も一緒だったで。 わしが保証するわ。」"}
+{"id": 178643, "en": ["\"George-aniki, Jessica, and I were together.", "  ...When Aunt Rosa yelled at us to return to the second floor, ", "we retraced our steps back to the cousins' room, all dejected.\""], "voix": "but", "ja": "「俺と譲治の兄貴、朱志香も一緒だったぜ。 ……楼座叔母さんに、２階へ戻ってろと怒鳴られ、 すごすごといとこ部屋へ引き返したさ。」"}
+{"id": 178653, "en": ["\"...Back then, "], "voix": "jes", "ja": "「……あの時、"}
+{"id": 178655, "en": ["...if we hadn't let Maria go...\""], "voix": "jes", "ja": ":voicedelay 830^^…真里亞を行かせなければ…。」"}
+{"id": 178662, "en": ["\"Saying that isn't going to change anything...\""], "voix": "geo", "ja": "「それを言っても、もうどうしようもないよ…。」"}
+{"id": 178670, "en": ["\"......Doctor Nanjo?\""], "voix": "eva", "ja": "「…………南條先生は？」"}
+{"id": 178676, "en": ["\"I-I was reading a book in a room on the second floor."], "voix": "nan", "ja": "「わ、私は２階の部屋で本を読んでおりました。"}
+{"id": 178682, "en": ["  ...I was by myself, so no one can verify my alibi, ", "but I believe everyone saw me return to the second floor with the children.\""], "voix": "nan", "ja": "……ひとりでおりましたので、誰にもアリバイは証明できませんが、 子どもたちと一緒に２階へ戻ったのは、皆さんも見ているはずです。」"}
+{"id": 178688, "en": ["\"...Once I say this, it'll never end, ", "but what if you jumped out the window, attacked Rosa,", " then climbed back up using a rain gutter or something...?\""], "voix": "rud", "ja": "「…これを言い出したら切りがないが、 窓から飛び降りて楼座を襲って、 雨どいでもよじ登ってまた戻ってきたとかな…？」"}
+{"id": 178695, "en": ["\"D-D-Don't be absurd...", "  How could I perform a feat such as jumping down from the second story or climbing up with this old body...?\""], "voix": "nan", "ja": "「めめ、滅相もない…。 この老体に、２階から飛び降りたり、よじ登ったり等という芸当、できるわけもありません…。」"}
+{"id": 178702, "en": ["\"...Let us stop suspecting each other..."], "voix": "nat", "ja": "「……やめましょう。 互いを疑うのは…。"}
+{"id": 178708, "en": ["  It's more important that we trust each other and, for the children's sakes as well, defend this place until the very end.\""], "voix": "nat", "ja": "それよりも、互いを信頼し合って、子どもたちの為にも、ここの安全を死守することの方が先決です。」"}
+{"id": 178715, "en": ["\"You're right...", "  ...It's like Natsuhi-san says.", "  ......For now, let's stop suspecting each other.\""], "voix": "rud", "ja": "「そうだな…。 …夏妃さんの言う通りだ。 ………今は、内部を疑い合うのを止めよう。」"}
+{"id": 178721, "en": ["\"That's right.", "  We may be useless as far as searching for the culprit is concerned."], "voix": "kir", "ja": "「そうね。 …犯人探しなんて、私たちには無用かもしれないわ。"}
+{"id": 178727, "en": ["  ...We can only stay alive until tomorrow, inform the police, and follow their instructions.", "  Because the police will definitely expose who the culprit is.\""], "voix": "kir", "ja": "……ただ明日まで生き残り、警察に通報してその指示に従うだけ。 犯人が誰かなんて、警察が必ず暴き出してくれるのだから。」"}
+{"id": 178740, "en": ["\"......What is it, Eva?", "  ...Is your body still feelin' bad...?\""], "voix": "hid", "ja": "「………どうしたんや、絵羽。 …まだ体調が悪いんとちゃうか…？」"}
+{"id": 178747, "en": ["\"M-Mother, what's wrong?", "  Are you okay...?\""], "voix": "geo", "ja": "「か、母さん、どうしたの。 大丈夫…？」"}
+{"id": 178754, "en": ["\"...Sorry.", "  ...It looks like my fever is still strong.", "  I'll be fine, so leave me alone...\""], "voix": "eva", "ja": "「…ごめんなさい。 …まだ熱が高いみたいなの。 大丈夫だから放っておいて…。」"}
+{"id": 178759, "en": ["When they looked, they saw Eva staring at the floor, her breathing harsh again."], "ja": "見れば、絵羽が再び呼吸を荒くして俯いていた。"}
+{"id": 178760, "en": ["...She had been able to act firm for a time, due to the urgency of their situation, ", "but it seemed her body wasn't at its best after all..."], "ja": "…緊急事態ということで一時的に気丈に振舞えたようだが、 やはり体の具合は芳しくないらしい…。"}
+{"id": 178773, "en": ["\"Yeah.", "  I killed those two.", "  Now, we're the only ones who know about the gold.", "  I won't give up even a scrap to the other siblings.\""], "ja": "「えぇ。 あの二人は私が殺した。 これで黄金のことを知っているのは、私たちだけ。 他の兄弟たちには、カケラひとつだって譲りはしないの。」"}
+{"id": 178780, "en": ["\"......What have you done...?!", "  There was so much of that gold, right?!", "  Giving Rosa and the others their share wouldn't have been a problem at all, right...?!\""], "voix": "eva", "ja": "「…………何てことを……！ 　あれだけの莫大な黄金なのよ？！ 　楼座たちに分け前をあげたって、まったく問題はなかったでしょうに…！」"}
+{"id": 178786, "en": ["\"It would.", "  ...That gold is to be passed on only to the Head of the Ushiromiya family.", "  That's because it, as a whole, represents no more or less than the honor of the Head.\""], "ja": "「あるわよ。 …あれは右代宮家の当主だけが引き継げる黄金なの。 だからこそそれは、全て丸ごと当主の栄誉そのものなの。"}
+{"id": 178791, "en": ["\"...To wound that even a tiny bit...", "is definitely not something that I, the new Golden Witch, Beatrice, will permit."], "ja": "……それにわずかほどでも傷をつけることは、 この私、新しき黄金の魔女、ベアトリーチェが絶対に許さないわ。"}
+{"id": 178794, "en": ["  ...*giggle*giggle*giggle*giggle*giggle*!\""], "ja": "……くすくすくすくすくす！」"}
+{"id": 178800, "en": ["\"...Do you plan to continue these murders according to the witch's epitaph...?", "  Do you actually plan to become a murderer five more times...?\""], "voix": "eva", "ja": "「…あなたは魔女の碑文通りに殺人を続けるつもりなの…？ 　まさか、あと５人も人殺しを続けるつもりなの…？」"}
+{"id": 178806, "en": ["\"Yeah.", "  If I don't finish that annoying ceremony, it seems my power as a witch won't become complete."], "ja": "「えぇ。 その面倒な儀式を終えないと、私の魔女としての力は完全なものにならないらしいの。"}
+{"id": 178811, "en": ["...Hey, `me'."], "ja": "……ねぇ“私”。"}
+{"id": 178816, "en": ["  ...The power of the witch is really awesome.", "  It really can make all the crazy things we imagine become reality.", "  The power to make dreams more than just dreams...!", "  Now that I've learned of this power, I can no longer stop being a witch.", "  If I can finish the ceremony and make my power complete, I'm sure I'll be able to teach you that feeling too."], "ja": "…この魔女の力は本当にすごいわ。 私たちが妄想してきた全てが、本当に実現できる。 夢が夢でなくなる力なの…！ 　この力を知ってしまったら、もう魔女はやめられない。 儀式を完全に終えて私の力が完全なものになれば、きっとそれをあなたにも教えてあげられるわ。"}
+{"id": 178819, "en": ["  *giggle*giggle*giggle*, *cackle*cackle*cackle*cackle*cackle*!\""], "ja": "くすくすくす、くっくくくくくくくくく！」"}
+{"id": 178823, "en": ["\"Stop acting like an fool...!", "  Haven't you played at being a witch enough?", "  We found the gold.", "  And we've even been promised the position of the Successor.", "  We'll probably need to tightrope walk just a bit, but by now, that's a dream that will definitely come true.", "  ...Beyond that, what more could you wish for...?!\""], "voix": "eva", "ja": "「馬鹿なことは止めて…！ 　魔女ごっこはもう充分でしょう？ 　私たちは黄金を見つけたわ。 そして次期当主の座だって約束されてるわ。 ほんの少しの綱渡りは必要だろうけど、もうそれは絶対に叶う夢。 ……なのにこれ以上、あなたは何を望むというの…？！」"}
+{"id": 178832, "en": ["\"I wanted to become a witch.\""], "ja": "「私は魔女になりたかったわ。」"}
+{"id": 178834, "en": ["\"I don't give a damn about that dream...!\""], "voix": "eva", "ja": "「私、そんな夢なんか知らないわよ…！」"}
+{"id": 178840, "en": ["\"That's right.", "  Because I kept holding onto that dream, I've lived at this age forever.", "  ...When you became an adult, you threw that dream away.\""], "ja": "「そうよ。 その夢を持ち続けてるから、私はこの歳のままで生き永らえているの。 ……あなたはその夢を、大人になることで捨てたわ。"}
+{"id": 178845, "en": ["\"...No matter how long you wait, the rabbit holding a clock won't visit you,", " and you won't be able to meet Humpty Dumpty.", "  Of course, you definitely won't be invited to the land of cards.", "  Because you gave up and accepted all that, you became an adult.\""], "ja": "……いくら待てども、時計を持ったウサギなど訪れないし、 ハンプティダンプティにも会えはしない。 もちろんトランプの国に招かれたりも絶対にない。 あなたはそう、諦めてしまったから、大人になったのよ。"}
+{"id": 178850, "en": ["\"So you don't want to become a witch or anything like that anymore.", "  ...You've even forgotten that it truly was your own dream at one point.\""], "ja": "だからもう、魔女になりたいなんて思わない。 …それが本当の自分の夢であったことも忘れてしまったの。」"}
+{"id": 178854, "en": ["\"...Anyway, stop it!", "  I've already gotten my hands on two dreams!", "  The gold and the position of Head.", "  That's more than enough!", "  So please, your dream has nothing to do with me!", "  Stand down...!!\""], "voix": "eva", "ja": "「……とにかくやめて！ 　私はもう、２つの夢を手に入れている！ 　黄金と当主の座。 それでもう充分なの！ 　だからお願い、あんたの夢なんて知ったことじゃない！ 　大人しくしてて…ッ！！」"}
+{"id": 178861, "en": ["\"......No waaay.", "  Magic's too interesting."], "ja": "「………嫌ぁよ。 魔法、面白いもの。"}
+{"id": 178866, "en": ["  ...Also, those two dreams of yours both came true because of my magic.", "  It wouldn't be fair if my dream didn't come true too.\""], "ja": "………それに、あなたの２つの夢は、私の魔法のお陰で叶ったのよ。 なのに私の夢は叶えてはいけないなんて不公平よ。」"}
+{"id": 178870, "en": ["\"I'm grateful for your magic, and I acknowledge that you're a real witch.", "  ...So just  stand down and return to the inside of my heart!", "  And never appear again!!\""], "voix": "eva", "ja": "「あなたの魔法には感謝してるし、あなたこそが本当の魔女だと私は認めてるわ。 ……だからもう、大人しく私の胸の中に帰って！ 　そして二度と現れないでッ！！」"}
+{"id": 178876, "en": ["\"No wa-y.", "  ...We're both misunderstanding each other, aren't we?", "  That's right, I am not you anymore.", "  You are Ushiromiya Eva.", "  I am the Golden Witch, Beatrice."], "ja": "「嫌ぁ。 ……私たち、お互いに勘違いしてるわね。 そうよ、私はもう、あんたじゃないの。 あんたは右代宮絵羽。 私は黄金の魔女ベアトリーチェ。"}
+{"id": 178881, "en": ["  So it's not my responsibility to go back inside your heart.", "  ...I guess I feel like a butterfly who's broken out of her cocoon, meaning you.\""], "ja": "だから、あんたの胸の中に帰る義理はないの。 ……さながら、あなたという殻を脱皮して蝶になったような気分かしらぁ。」"}
+{"id": 178893, "en": ["\"......Haah, "], "voix": "eva", "ja": "^^!s1「…………はぁ、"}
+{"id": 178895, "en": ["...haah...", "...urg, "], "voix": "eva", "ja": ":voicedelay 2950^^……はぁ……。 …く、"}
+{"id": 178897, "en": ["...the fever..."], "voix": "eva", "ja": ":voicedelay 770^^……熱で、"}
+{"id": 178899, "en": ["is making my mind cloudy...\""], "voix": "eva", "ja": ":voicedelay 3000^^…意識が朦朧とする……。」"}
+{"id": 178910, "en": ["\"My inexperience with magical power is forcing me support it with your vitality.", "  Until I finish the ceremony and become a full witch, you might have to bear the burden.", "  I'll take that as payment for making two of your dreams come true.\""], "ja": "「私の魔力が未熟な分を、あなたの生気で補ってるの。 私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。 それくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ。"}
+{"id": 178915, "en": ["\"...It's fine, don't worry, okay?", "  For the remaining five sacrifices, I'll avoid your family.\""], "ja": "……大丈夫、安心して？ 　残る５人の生贄については、あんたの家族は外してあげるわ。"}
+{"id": 178921, "en": ["\"Let's see, Rudolf, Kyrie, Krauss, Natsuhi."], "ja": "そうね、留弗夫、霧江、蔵臼、夏妃。"}
+{"id": 178924, "en": ["  ...After that, what about that old geezer Nanjo?", "  Perfect, I'll kill those five people.", "  *giggle*giggle*  Could you call this a murder announcement revealed only to yoouu?", "  *giggle*giggle*giggle*giggle*!!\""], "ja": ":noclear_cw…あとは老いぼれの南條なんかどう？ 　ちょうどいいわ、この５人を殺すわね。 くすくす、あなただけに明かす殺害予告ってところかしらぁ。 くすくすくすくす！！」"}
+{"id": 178937, "en": ["Eva finally crouched down.", "  Hideyoshi rushed up to her and lent her his shoulder..."], "ja": "とうとう絵羽はしゃがみ込んでしまう。 慌てて秀吉が駆け寄り、肩を貸す…。"}
+{"id": 178944, "en": ["\"...Are you okay?", "  ...Let's take it easy and rest!\""], "voix": "hid", "ja": "「……大丈夫か。 …無理せんと休もう！」"}
+{"id": 178952, "en": ["\"Are you all right...?", "  Doctor Nanjo, take a look at Eva...!\""], "voix": "kla", "ja": "「大丈夫かね…。 南條先生、絵羽を…！」"}
+{"id": 178956, "en": ["When Nanjo and George tried to approach, Eva made a gesture to stop them."], "ja": "南條と譲治が近寄ろうとすると、絵羽はそれを制するような仕草をする。"}
+{"id": 178965, "en": ["\"...Thank you.", "  I'm fine, Doctor Nanjo.", "  I'm taking medicine.", "  ...I apologize for saying this during such an extreme situation, ", "...but let me rest a little longer...\""], "voix": "eva", "ja": "「…ありがとう。 大丈夫よ、南條先生。 薬なら飲んでるの。 ……こんな非常事態で申し訳ないけど、 …もう少しだけ休ませてもらうわ…。」"}
+{"id": 178972, "en": ["\"Mom, ...I'll lend a hand too...\""], "voix": "geo", "ja": "「母さん…、僕も肩を貸すよ…。」"}
+{"id": 178979, "en": ["\"Thank you,", " but I'll be fine as long as your father watches over me.", "  ...Go back to the second story cousins' room and don't come out no matter what.", "  ...Understood...?", "  No matter what happens, you must not leave the guesthouse..."], "voix": "eva", "ja": "「ありがとう。 お父さんが見ててくれるから平気よ。 ……あなたは２階のいとこ部屋に戻って、決して出てこないように。 …いいわね…。 何があってもゲストハウスを出ちゃ駄目よ……。"}
+{"id": 178990, "en": ["  ...Outside, "], "voix": "eva", "ja": "…外には、"}
+{"id": 178992, "en": ["...that...witch will..."], "voix": "eva", "ja": ":voicedelay 1800^^……あの、魔女が……、"}
+{"id": 178994, "en": ["uuuu...\""], "voix": "eva", "ja": ":voicedelay 1550^^ううぅ…。」"}
+{"id": 179001, "en": ["\"Don't talk anymore...!"], "voix": "hid", "ja": "「もう喋るなや…！"}
+{"id": 179007, "en": ["  Sorry, everyone, but I'll be watching over Eva in our room.", "  Tell us if something happens.\""], "voix": "hid", "ja": "みんなすまんな、わしは絵羽を部屋で看病しとる。 何かあったら呼んでや。」"}
+{"id": 179015, "en": ["Hideyoshi and Eva retreated from the lobby."], "ja": "秀吉と絵羽はロビーを退出する。"}
+{"id": 179019, "en": ["...However, Eva wasn't the only one who wasn't feeling good."], "ja": "…もっとも、体調が悪いのは絵羽だけではない。"}
+{"id": 179020, "en": ["They hadn't gotten a wink of sleep since the previous night...and had been pressed by tension since that morning."], "ja": "昨夜から一睡もしておらず、朝からずっと緊張を強いられている。"}
+{"id": 179023, "en": ["...They were mustering their energy to protect their families,", " but if they relaxed even a little, surely everyone would be down and out..."], "ja": "…家族を守るために気力を振り絞っているが、 わずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。"}
+{"id": 179042, "en": ["\"...Everything has gone as planned until now, but from here on out, it will become difficult, you see?\""], "voix": "bea", "ja": "「……ここまでは順調であるが、ここからが難しいぞ？」"}
+{"id": 179049, "en": ["\"Difficult, meaning...?\""], "ja": "「難しい、とは…？」"}
+{"id": 179054, "en": ["\"Indeed.", "  Normally, as the ceremony progresses and the victims increase in number, they begin to tighten their guard,", " and in most cases, they hole up in one place and stop moving.", "  That is extremely inconvenient for us.\""], "voix": "bea", "ja": "「うむ。 大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、 多くの場合、一所に固まって動かなくなるのだ。 それは我らにとって非常に都合が悪い。」"}
+{"id": 179060, "en": ["\"...Are you saying that we witches are inferior to a bunch of Humans in a group...?\""], "ja": "「…それは、私たち魔女が群れたニンゲンに劣るということですか…？」"}
+{"id": 179066, "en": ["\"Witches are never inferior to Humans...", "  However, perhaps you could say that times change, and that Humans have gotten their hands on a poison..."], "voix": "bea", "ja": "「魔女がニンゲンに劣ることはない…。 ただ、時代が変わり、ニンゲンが毒を持つようになったというべきか…。"}
+{"id": 179071, "en": ["  ...This wasn't a problem long ago, when people believed in witches,", " but just like that annoyance Battler, people in the current era deny magic on a fundamental level.\""], "voix": "bea", "ja": "……大昔の、魔法が信じられていた時代は問題なかったのだが、 現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する。"}
+{"id": 179076, "en": ["\"In other words, their existence itself is anti-magical.", "  As a result, at some point, they grew to possess a toxin inside their bodies that denies magic.\""], "voix": "bea", "ja": "つまり、存在自体が反魔法的なのだ。 その結果、彼らはいつの間にか体内に、魔法を否定する毒素を有するようになった。」"}
+{"id": 179082, "en": ["\"In other words, you're saying that the more Humans there are, ", "the stronger that magic-resisting toxin gets, and the greater the disadvantage is for us witches?\""], "ja": "「つまり、ニンゲンの数が多ければ多いほど、 その反魔法の毒素が強くなって、私たち魔女には不利だと仰られるのですか。」"}
+{"id": 179088, "en": ["\"...The combined amount of power in their hearts that denies magic...in other words, their magic resistance power, becomes the denominator in the equation of your magic's power...", "  Understand?", "  Is that a bit too difficult for you...?\""], "voix": "bea", "ja": "「……彼らの魔法を否定する心の力、即ち対魔法抵抗力の合計値が、そのまま魔法力の分母となるわけだ…。 わかるか？ 　そなたにはちと難しいか…？」"}
+{"id": 179094, "en": ["\"You're joking.", "  Actually, I understand it easily.", "  ...In other words, you're saying that the more people there are who don't believe in magic,", " and the stronger their will is, the more the effects of our magic are divided.", "  ...Yeah, if it's so formulaic, I'll have to rethink my method of attack.\""], "ja": "「ご冗談を。 実に簡単にわかります。 …つまり、魔法を信じない人間が多ければ多いほど。 そしてその意思が強ければ強いほど、魔法は効果を劇的に除算されると仰っておられるのですね。 ……なるほど、そのような計算式ならば、攻め方を考え直さなければなりません。」"}
+{"id": 179105, "en": ["Fundamentally, magic possesses a vast power."], "ja": "魔法は本来、絶大な力を持つ。"}
+{"id": 179108, "en": ["It can even make a rain of fire fall from the heavens or divide a sea, and reviving a lost life isn't impossible either."], "ja": "天上より火の雨を降らすこともできれば、海を割ることも、失われた命を蘇らせることさえ不可能ではない。"}
+{"id": 179111, "en": ["However, that power is extremely weak against the toxin that rejects it."], "ja": "しかし、その力を拒絶する毒素に極めて弱いのだ。"}
+{"id": 179114, "en": ["And that toxin started piling up in Humans since the time they forgot to respect things sacred,", " ...until finally, this earth was covered with enough toxin that the miracles of magic could not be displayed."], "ja": "そしてその毒素は、ニンゲンたちが神聖なるものへの敬いを忘れた頃から体内に蓄えられるようになり、 …ついにはこの大地を、魔法の奇跡が示せぬほどの毒素で覆い尽くしてしまった。"}
+{"id": 179119, "en": ["Thus, witches from across the world were chased from their dwellings."], "ja": "その為、世界中の魔女たちは住処を追われた。"}
+{"id": 179122, "en": ["...They had been forced to choose to throw away their magic and live as Humans, or else live in hiding in remote areas where the toxin of Humans didn't reach."], "ja": "…魔法を捨て、ニンゲンとして生きるか、ニンゲンの毒素の及ばない僻地に隠居するかを選ばなければならなかった。"}
+{"id": 179127, "en": ["In that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches."], "ja": "その意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。"}
+{"id": 179130, "en": ["And even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest."], "ja": "そしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。"}
+{"id": 179136, "en": ["...In other words, by permeating the island with the fear that a witch might exist,", " the magic-resisting toxin from the Humans was weakened."], "ja": "…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、 ニンゲンたちの反魔法の毒素が弱まっていたことだ。"}
+{"id": 179140, "en": ["A small population...and room for them to acknowledge magical beings."], "ja": "少ない人口と、魔法的存在を認めうる余地。"}
+{"id": 179141, "en": ["In other words, minds that were only weakly anti-magical."], "ja": "即ち、低い反魔法的精神。"}
+{"id": 179144, "en": ["...Only by existing in the valley where those two converged...could a witch live in modern times..."], "ja": "…この２つの狭間だけが、現代の魔女が生きていける場所なのだ…。"}
+{"id": 179156, "en": ["\"I see...", "  ...So, using this formula, we can arrive at several rules for how a witch can use her power efficiently.\""], "ja": "「なるほど…。 ……つまりその計算式によるならば、魔女が効率よく力を振るうにはいくつかのルールがあることになりますね。"}
+{"id": 179161, "en": ["\"The first is presentation.", "  Create a murder scene that couldn't conceivably have been done by Humans, decorate it in an occult way, ", "make it look very much like a witch exists, and permeate people with fear to make them believe that witches exist.", "  As a result, the anti-magic power and the denominator for our magical power will be decreased.", "  ...I see, so this is why the creepy magic circles of the first twilight were created?\""], "ja": "１つは演出。 ニンゲンの仕業とは思えない殺人を演出し、オカルト的な装飾を施して、 彼らに魔女の存在を強くアピールし、浸透させることによって、彼らは魔女の存在を信じるようになり、 その結果、反魔法力が減少して魔法力の分母の減少も図られる。 ……なるほど、第一の晩の不気味な魔法陣の演出などは、これに当たるわけですか。」"}
+{"id": 179168, "en": ["\"Th-That's right, exactly...!", "  The gaudy scenes for the first twilight in each game are all for that reason."], "voix": "bea", "ja": "「そ、そうよ、その通り…！ 　毎回の第一の晩のドギツイ演出は全て、その為のものなのだ。"}
+{"id": 179173, "en": ["  It's definitely not as though I like being cruel or am doing it for fun...\""], "voix": "bea", "ja": "別に決して、妾が残酷なのが好きで面白半分でやっていたわけではないのだぞ…。」"}
+{"id": 179179, "en": ["\"...In that case, Predecessor-sama,", " you failed this time around.", "  You killed them in a very plain way.", "  It doesn't look like anything more than a simple mystery.\""], "ja": "「…だとしたら先代さま。 今回のは失敗ですね。 殺し方が非常に地味でした。 ただのミステリーにしか見えません。"}
+{"id": 179184, "en": ["\"......I heard about last time and the time before that from Ronove.", "  You should've damaged the corpses more grotesquely, like you did then, making it look more like fantasy and instilling fear in those people.\""], "ja": "………ロノウェに聞いていますが、前回や前々回のように、遺体をもっとグロテスクに損壊して、 ファンタジーに見せ掛け、彼らに恐怖心を植え付けるべきでしたね。」"}
+{"id": 179190, "en": ["\"......W-Well, about that.", "  ...I thought it wouldn't be artful to do that every time, you see...?", "  Don't think too deeply on it, it's just a whim...!\""], "voix": "bea", "ja": "「………ま、…まぁそのだな。 …毎回それでは芸がないと思ってな…？ 　深く考えるでない、気紛れだ…！」"}
+{"id": 179196, "en": ["Actually, it really had been her whim."], "ja": "実際、それは本当に彼女の気紛れだ。"}
+{"id": 179197, "en": ["After what Battler had said to her, she couldn't say it out loud anymore,", " but she really had decided her methods of killing based on mere whims."], "ja": "戦人にあのようなことを言われた後ではもはや口にはできないが、 ほんの気紛れで決めた殺し方に過ぎない。"}
+{"id": 179201, "en": ["No, would it be better to say that she had halfheartedly let Ronove decide?"], "ja": "いや、適当にロノウェに決めさせたと言った方が正しいか。"}
+{"id": 179202, "en": ["After all, she left the closed rooms of this game's first twilight to him."], "ja": "今回の第一の晩の密室は、彼に一任させたのだから。"}
+{"id": 179205, "en": ["But if she'd had a cruel idea, then she would surely have explored the limits of atrocity even worse than in the previous game..."], "ja": "しかしもしも、ベアトに残酷なアイデアがあったなら、前回をはるかに超えた残虐非道を尽くしていたに違いない…。"}
+{"id": 179211, "en": ["\"............", "You told me to show some restraint when deciding Rosa's and Maria's deaths too,", " but that wasn't a course of action beneficial to us witches either, was it?\""], "ja": "「………………………。 楼座と真里亞の殺し方についても、先代さまは自重するように仰られましたが、 それも私たち魔女に利する行為ではありませんね？"}
+{"id": 179216, "en": ["\"In actuality, by now, none of them believe one bit that a witch actually exists.", "  They're totally sure that it's a mystery, not a fantasy.", "  This turn of events is a failure from a witch perspective.", "  ...For some reason, you keep doing things in a kinda lukewarm way, Predecessor-sama.\""], "ja": "実際、彼らは現時点では、魔女が実在するなんて、これっぽっちも信じてません。 ファンタジーでなく、完全にミステリーだと確信しています。 私たち魔女にとって失敗した展開です。 ……先代さまが、どういうわけかヌルいやり方を繰り返したせいです。」"}
+{"id": 179221, "en": ["\"Aah, ...l-like they say, things you learn when you're young will definitely help you out in the future...!", "  This is a test passed on from my predecessor to you.", "  Take it on with respect.", "  Wahahaha...!\""], "voix": "bea", "ja": "「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！ 　先代からそなたへの、これは試練である。 謹んで挑むが良いぞ。 わっはっはっは…！」"}
+{"id": 179225, "en": ["Beato tried to laugh heartily,", " but it was obviously the fake laugh of someone trying to cover something up, ", "and the new witch shrugged with a sigh."], "ja": "ベアトは豪快そうに笑ったつもりだが、 何かを誤魔化すための空笑いであることはとっくにバレバレで、 新しき魔女はため息混じりに肩を竦める。"}
+{"id": 179231, "en": ["\"............", "...At this stage, it's probably too late to create a scene and reduce the anti-magic power.", "  ...In that case, there's another move.", "  Getting the Humans to split up should work.\""], "ja": "「……………………。 …この段階から、演出によって反魔法力を減ずるのは、多分、手遅れでしょうね。 …となれば、もう１つの手。 ニンゲンの分散が良いでしょう。」"}
+{"id": 179237, "en": ["\"Indeed, that is probably the most effective way.", "  The smaller the number of Humans, the more the denominator shrinks.", "  As a result, the magical power functions instantaneously.", "  In other words, it all begins from one point: how to destroy this barricade situation and have them split up into small groups.\""], "voix": "bea", "ja": "「うむ、それがもっとも効果的であろうぞ。 ニンゲンの人数が少なければ少ないほど、分母の数は減るわけだ。 その結果、魔法力は覿面となる。 …つまり、この篭城状態を如何に崩して、少人数に分散させるかがここからのポイントとなるわけだな。"}
+{"id": 179242, "en": ["\"However, they are already very cautious.", "  The barricade won't be destroyed easily, right...?", "  Both the barricade in Kinzo's study two games ago and the barricade in the parlor last time were very stubborn.", "  Furthermore, most of the cunning adults still remain this time.\""], "voix": "bea", "ja": "しかし、彼らはもはや用心深い。 容易には篭城を崩せぬぞ…？ 　前々回の金蔵の書斎での篭城、前回の客間での篭城、何れも手強かった。 増してや今回は、老獪な大人勢がほとんど残った状態での篭城となっておる。"}
+{"id": 179247, "en": ["\"The situation is more difficult than all the ones before it, understand?", "  ...If you wish, I could give you some special advice...\""], "voix": "bea", "ja": "状況はこれまで以上に困難であるぞ？ 　……そなたが望むなら、特別に助言を与えてやっても良いのだがな…。」"}
+{"id": 179253, "en": ["In a closed circle, when the first murder case occurs, the survivors always hole up, ", "gathering together to observe each other and ensure their safety."], "ja": "クローズドサークルで最初の殺人事件が起これば、必ず生存者たちは一堂に集まり、 安全確保と相互監視のために篭城する。"}
+{"id": 179256, "en": ["...Funnily enough, not only do mystery authors and murder culprits worry about how to break that situation apart, ", "but so do witches, who supposedly exist at the other end of the spectrum."], "ja": "……それを崩すのが殺人犯とミステリー作家の悩みなのだろうが、 それの対極に位置するはずの魔女が、まったく同じ悩みを共有しているというのは、何とも滑稽な話だった。"}
+{"id": 179259, "en": ["For a while, the new witch poked her cheek with her pointer finger, ", "and after acting as though she was planning something, she spoke."], "ja": "新しき魔女は、しばらくの間、立てた人差し指を頬に当て、思案するような仕草をした後、言った。"}
+{"id": 179265, "en": ["\".........", "...No, I'm fine.", "  After all, it is a test.", "  ...I won't borrow your moves.\""], "ja": "「………………………。 ……いいえ、結構です。 試練ですから。 ……先代さまの手は借りません。」"}
+{"id": 179271, "en": ["\"Nn, ...really...?", "  ...Still, it will be rather difficult to defeat this barricade, right...?\""], "voix": "bea", "ja": "「む、…そうか…？ 　…しかしだな、篭城を崩すのはなかなかに難しいぞ…？」"}
+{"id": 179277, "en": ["\"I've already made my move.", "  I'm pretty sure it'll work.", "  And it'll definitely work on someone smart.\""], "ja": "「すでに手は打ってあります。 きっと引っ掛かるはずです。 頭のいいヤツなら、むしろ必ず。」"}
+{"id": 179283, "en": ["\"I-Is that so...?", "  You really are excellent...", "  I'm pleased to see that my disciple won't be causing me much trouble.\""], "voix": "bea", "ja": "「そ、そうか……。 そなたは優秀であるな…。 手の掛からぬ弟子で、妾は嬉しいぞ。」"}
+{"id": 179289, "en": ["\"My motto is to study things myself before asking other people.", "  ...Then, if you would excuse me.", "  I have to wait for my prey to get lured out.\""], "ja": "「私、人に聞く前に自分で勉強するがモットーなので。 ……それでは失礼します。 獲物がのこのこと誘い出されるのを、待たねばなりませんので。」"}
+{"id": 179295, "en": ["\"Indeed.", "  ...Well then, handle it with care.\""], "voix": "bea", "ja": "「うむ。 …それではしっかりな。」"}
+{"id": 179312, "en": ["As the new witch lowered her head, her face blank, she turned into gold butterflies and vanished."], "ja": "新しき魔女は淡白に頭を下げると、黄金の蝶になって姿を消した。"}
+{"id": 179316, "en": ["...Beato didn't look happy at all."], "ja": "……ベアトはどうもちょっぴり面白くない様子。"}
+{"id": 179317, "en": ["She seemed to be lonely because of how little she was being relied on."], "ja": "自分がまったく頼られないのが寂しいようだった。"}
+{"id": 179328, "en": ["\"......Not one of them gives a fig for me."], "voix": "bea", "ja": "「……………どいつもこいつも、妾のことなど構いもせぬわ。"}
+{"id": 179333, "en": ["  ......Hmm.", "  You witch apprentice, acting so smart...", "  ...I'll bet she makes some painful mistake and starts crying.\""], "voix": "bea", "ja": "………ふん。 魔女見習いめ、天狗になりおって。 …今に手痛いミスをして泣き言を言うに違いないぞ。"}
+{"id": 179338, "en": ["\"Then, without a doubt, she'll finally realize my greatness and beg me to teach her!", "  *cackle*  Until then, I shall watch from on high.\""], "voix": "bea", "ja": "その時こそ、ようやく妾の偉大さを理解し、教えを乞おうとするに違いないのだ！ 　くっくっく、それまで妾は高みの見物よ。」"}
+{"id": 179343, "en": ["She laughed loudly on the outside, but a laugh no one can hear is completely pointless."], "ja": "高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。"}
+{"id": 179348, "en": ["Beato gave up and quickly stopped laughing."], "ja": "ベアトは虚しくなり、すぐに笑うのを止める。"}
+{"id": 179351, "en": ["...Ronove chose that time to show himself."], "ja": "…それを見計らった頃に、ロノウェが姿を現した。"}
+{"id": 179364, "en": ["\"Excuse me, Milady.", "  ...The game of the second twilight with Battler-sama has ended.\""], "voix": "ron", "ja": "「失礼いたします、お嬢様。 ……戦人さまとの第二の晩のゲームが終了いたしました。」"}
+{"id": 179370, "en": ["\"...Nn, I see.", "  Good work.", "  What was the result?\""], "voix": "bea", "ja": "「……む、…そうか。 ご苦労であった。 首尾はどうであったか。」"}
+{"id": 179376, "en": ["\"My sincere apologies.", "  I was forced to resign.", "  ...By saying in red that `both deaths were homicides', ", "I made Battler-sama revise his claim of `Rosa strangled Maria to death, then died in an accident',", " ...but I could not repel his chain of moves placing Eva as the principal offender.\""], "voix": "ron", "ja": "「申し訳ございません。 リザインさせていただきました。 ……戦人さまの、“楼座が真里亞を絞殺、その後に事故死”は、 赤にて“両名他殺”で切り替えしたのですが。 …絵羽を主犯に据えられた一連の指し手を切り返せませんでした。」"}
+{"id": 179390, "en": ["\"Wasn't Eva sleeping in her room the whole time as Hideyoshi cared for her?\""], "voix": "bea", "ja": "「絵羽は秀吉にずっと看病されて部屋で寝ていたであろうが。」"}
+{"id": 179396, "en": ["\"...He put forth the possibility that Hideyoshi was an accomplice, and that the two worked together to create an alibi.\""], "voix": "ron", "ja": "「…秀吉も共犯で、両名でアリバイを作った可能性を提示されました。」"}
+{"id": 179402, "en": ["\"He even suspects Hideyoshi...?!", "  Couldn't you have struck back by saying in red that he was in the guest room at the time of the murder?\""], "voix": "bea", "ja": "「秀吉まで疑うか…！ 　殺害時には客室にいたと赤にて叩き斬ってやれば良いではないか。」"}
+{"id": 179409, "en": ["\"...I also thought of that, but multiple important pieces might have been taken several moves later.", "  ...And, because this move might be connected to the new Beatrice-sama's strategy,", " I acted out of respect to her.", "  ...My apologies.\""], "voix": "ron", "ja": "「……それも考えましたが、何れにせよ、数手先でいくつかの大駒を奪われてしまうかもしれません。 …それに、この手が新しきベアトリーチェさまが打たれた布石の可能性もありますので、 それを尊重することと致しました。 …申し訳ありません。」"}
+{"id": 179415, "en": ["\"Strategy, you say?", "  ......Her mind does seem to be sharp."], "voix": "bea", "ja": "「布石か。 ………あやつ、頭が切れるようだからのぅ。"}
+{"id": 179420, "en": ["  ...Hmph, we can let her do as she pleases.", "  It will be quite a show to see how far she can go.\""], "voix": "bea", "ja": "…ふん、好きにさせておくが良い。 どこまでやれるか見物だ。」"}
+{"id": 179426, "en": ["\"Pukukukuku.", "  I thought you would say that.", "  ...I see that the un-cuteness of your disciple has left you in a bad mood.\""], "voix": "ron", "ja": "「ぷっくくくく。 そう仰ると思いました。 ……弟子が可愛くないので、ご機嫌斜めとお見受けしますよ。」"}
+{"id": 179432, "en": ["\"That's none of your business.", "  I wonder how that one plans to destroy this barricade going forward.", "  I shall keep a close eye on her."], "voix": "bea", "ja": "「余計なお世話だ。 あやつめ、ここからの篭城をどう崩していくつもりなのか。 妾もじっくり拝見させてもらうとするぞ。"}
+{"id": 179437, "en": ["  ......Oh, and...", "...h-how was Battler's mood?\""], "voix": "bea", "ja": "……………あー、それで…。 …ば、…戦人の機嫌の方はどうなのか。」"}
+{"id": 179443, "en": ["\"It appeared as though he had calmed himself down.", "  He did say that he couldn't get fired up after all, without you as his opponent.\""], "voix": "ron", "ja": "「落ち着いておられるように見えました。 やはりお嬢様が相手でないと盛り上がらないと仰っておいででしたよ。」"}
+{"id": 179449, "en": ["\"R-Really, well that's no surprise, no surprise at all!", "  If I don't return for the fourth twilight and after, Battler will probably be lonely himself...!\""], "voix": "bea", "ja": "「そ、そうか、そうであろうそうであろう！ 　第四の晩以降は、やはり妾が復帰しないと戦人も寂しかろうな…！」"}
+{"id": 179455, "en": ["\"Pu ku ku ku...", "  And with that, if you would excuse me.", "  ...I need to go bake some delicious cookies.", "  I must at least enliven the discussion between you and Battler-sama, Milady.\""], "voix": "ron", "ja": "「ぷっくっくっく…。 それでは私はこれで失礼させていただきます。 …美味しいクッキーを焼かねばなりません。 せめてお嬢様と戦人さまのお話が弾みますように。」"}
+{"id": 179461, "en": ["\"Indeed!", "  That guy really was munching your cookies, wasn't he?", "  It's no surprise that a boy can eat so much.", "  Make a lot of them...!\""], "voix": "bea", "ja": "「うむ！ 　あいつ、お前のクッキー、ぼりぼり食ってたなぁ。 やはり男の子だからお腹が空くのであろう。 多めに焼いてやれ…！」"}
+{"id": 179467, "en": ["\"Certainly.", "  I shall make enough cookies to bury the table.\""], "voix": "ron", "ja": "「畏まりました。 クッキーでテーブルを埋めてご覧に入れましょう。」"}
+{"id": 179473, "en": ["\"That sounds great...!\""], "voix": "bea", "ja": "「それが良いぞ…！」"}
+{"id": 179501, "en": ["\"...What's going on?", "  What did you want to talk about...?\""], "voix": "rud", "ja": "「……何だよ、どうした。 話って何だ…？」"}
+{"id": 179506, "en": ["Kyrie called Rudolf out into the corridor."], "ja": "霧江が留弗夫を廊下へ呼び出す。"}
+{"id": 179507, "en": ["It was obvious that she wanted to talk about something that she didn't want the others to hear."], "ja": "他の人間たちに聞かれたくない話をしようとしているのは明白だった。"}
+{"id": 179514, "en": ["\"Umm, I...\""], "voix": "kir", "ja": "「あのね、私。」"}
+{"id": 179520, "en": ["\"Yeah?\""], "voix": "rud", "ja": "「おう。」"}
+{"id": 179527, "en": ["\"......I want to go outside.\""], "voix": "kir", "ja": "「………表へ出たいの。」"}
+{"id": 179564, "en": ["\"...Certainly, the body cannot last with nothing more than a small breakfast, but...\""], "voix": "kla", "ja": "「……確かに、わずかばかりの朝食では体が持たないが、しかし…。」"}
+{"id": 179570, "en": ["\"Of course, we understand."], "voix": "rud", "ja": "「もちろんわかってるさ。"}
+{"id": 179576, "en": ["  Still, as time passes, it'll get darker and darker out.", "  It's probably at its brightest now.", "  It's the most convenient time.\""], "voix": "rud", "ja": "だがな、時間を置けばどんどん暗くなってくる。 多分、今が一番明るい。 今が一番都合がいいんだ。」"}
+{"id": 179584, "en": ["\"Only about an hour has passed since Rosa-san was attacked.", "  This is simply too reckless...!\""], "voix": "nat", "ja": "「楼座さんたちが襲われてから、まだ１時間も経ったかどうかですよ。 いくら何でも無用心です…！」"}
+{"id": 179589, "en": ["It was only natural that Natsuhi was yelling about recklessness."], "ja": "夏妃が無用心だと叫ぶのも無理はない。"}
+{"id": 179590, "en": ["...After all, Rudolf had said he was going to the mansion to get food."], "ja": "…留弗夫が、屋敷に食料を取りに行くと言い出したからだ。"}
+{"id": 179593, "en": ["Certainly, on top of their fatigue, their hunger was tormenting them."], "ja": "確かに彼らは疲労に加え、空腹感にも苛まれていた。"}
+{"id": 179596, "en": ["In the beginning, a mild level of hunger had been just what they needed to fight off drowsiness.", "  However, it now just made their minds hazy, since it was still only midday, and their bodies felt like they were reaching their limits."], "ja": "初めの内こそ、ほどよい空腹感は眠気と戦えてちょうど良かったが、 今は逆に意識を朦朧とさせ、まだ昼だと言うのに、もう体力の限界を感じさせている。"}
+{"id": 179599, "en": ["The thought of going to the kitchen in the mansion and bringing back some food certainly was attractive."], "ja": "屋敷の厨房へ行き、何か食料を持ってこようという話は、確かに魅力的だった。"}
+{"id": 179606, "en": ["\"I am opposed to this.", "  It may be a little rough, but we definitely shouldn't leave this place.\""], "voix": "nat", "ja": "「私は反対です。 多少は辛いでしょうが、断じてここを出るべきではありません。」"}
+{"id": 179614, "en": ["\"...Don't worry about us,", " but it would pain my heart to keep the children hungry...", "  I must be responsible as a parent.\""], "voix": "kla", "ja": "「……私たちはいい。 だが子どもたちにひもじい思いをさせるのは心が痛む…。 親として責任を負わねばなるまい。」"}
+{"id": 179621, "en": ["\"D-Dear...!", "  Now that Father is dead, you are the Ushiromiya Family Head.", "  It is not permissible for you to take on such a danger...!\""], "voix": "nat", "ja": "「あ、あなた…！ 　お父様が亡くなられた今、右代宮家の当主はあなたです。 そのような危険を冒すことは許されません…！」"}
+{"id": 179629, "en": ["\"......You're right.", "  It's like Natsuhi-san says.", "  Krauss-san, you should remain here, as our leader.\""], "voix": "kir", "ja": "「………そうね。 夏妃さんの言う通りよ。 蔵臼さんはリーダーとしてここに残るべきね。」"}
+{"id": 179638, "en": ["\"...Then who will go to the mansion?\""], "voix": "kla", "ja": "「……なら、誰が屋敷へ行くんだね？」"}
+{"id": 179644, "en": ["\"I think it should be Kyrie and me, and Hideyoshi-san too."], "voix": "rud", "ja": "「俺と霧江、あと秀吉兄さんの３人で行こうと思う。"}
+{"id": 179651, "en": ["  Hideyoshi-san and I have guns.", "  They shouldn't be able to lay a hand on us that easily.\""], "voix": "rud", "ja": "俺と秀吉兄さんは銃を持ってる。 そう簡単に向こうも手出しはできないはずだ。」"}
+{"id": 179659, "en": ["\"Rosa-san also had a gun, but she was attacked.", "  ...Won't it be dangerous?\""], "voix": "nat", "ja": "「楼座さんも銃を持っていましたが襲われました。 …危険ではありませんか？」"}
+{"id": 179666, "en": ["\"...When I went out to check on Rosa and Maria-chan, I had a gun, but I was alone.", "  And yet, I wasn't attacked.", "  ...Maybe they'll be cautious if their opponent is a man.\""], "voix": "rud", "ja": "「…楼座たちの様子を確かめに出た時、銃を持っていたが俺はひとりだった。 だが襲われなかった。 ……男が相手なら、向こうも慎重なのかもしれないぜ。」"}
+{"id": 179675, "en": ["\"We'll have two men.", "  And even two guns.", "  Those two will act as guards, and I'll transport our cargo using a cart.", "  I believe the situation will be significantly different than it was for Rosa-san.\""], "voix": "kir", "ja": "「男性が二人。 そしてさらに銃も２丁。 二人には護衛役に徹してもらって、荷物は台車で私が運ぶわ。 楼座さんの時とは状況が明らかに異なるはずよ。」"}
+{"id": 179681, "en": ["\"If you're countin' on me 'cause I'm a man, I'd be happy to help."], "voix": "hid", "ja": "「わしを男と見込んでの話なら、喜んで協力させてもらうで。"}
+{"id": 179687, "en": ["  I may not look it, but I'm built up pretty strong from pushin' food stands around.", "  Leave the heavy liftin' to me!\""], "voix": "hid", "ja": "こう見えても、屋台を引いて鍛えた体や。 力仕事は任せてな！」"}
+{"id": 179693, "en": ["\"You men can devote yourselves to guarding.", "  There's a folding cart in the servant room, and using that, I should be able to handle carrying the food."], "voix": "kir", "ja": "「男性は護衛役に徹してくれていいの。 使用人室に折り畳み式の台車があったから、それを使えば私ひとりでも充分に食料が運べるわ。"}
+{"id": 179699, "en": ["  ...Of course, we'll be careful.", "  And if we can succeed in this adventure just once, ", "there won't be any need for us to take risks again.\""], "voix": "kir", "ja": "……もちろん用心はする。 そして、この冒険を一度だけ成功させれば、もう二度と、 私たちはここを出る危険を冒す必要はないの。」"}
+{"id": 179707, "en": ["\"......Is there any way I can get you to rethink this?", "  It may be painful for everyone to deal with empty stomachs, ...but even so, we do not know what is happening outside now...\""], "voix": "nat", "ja": "「…………何とか考え直せませんか。 皆さんに空腹を強いるのは心苦しいですが、…ですがしかし、今の外は何が起こるかわかりません…。」"}
+{"id": 179715, "en": ["\"We'll take care.", "  ...And Eva's feelin' pretty darn bad right now.", "  We can't let her stay hungry.", "  If her stomach's empty, she can't take her medicine.", "  I have to go out for Eva's sake as well.\""], "voix": "hid", "ja": "「用心するで。 ……それに絵羽はだいぶ体調が悪いんや。 空腹には出来ん。 胃袋が空っぽじゃ、飲める薬も飲めんわ。 絵羽の為にも、わしは出掛けにゃならんのや。」"}
+{"id": 179722, "en": ["\"How is Eva?\""], "voix": "kla", "ja": "「絵羽の具合はどうなんだね。」"}
+{"id": 179728, "en": ["\"Looks like she's finally gotten to sleep.", "  ...She has a high fever.", "  If we just leave her be for a while...\""], "voix": "hid", "ja": "「ようやく寝入ってくれたとこや。 …熱も高い。 しばらくそっとしたってや…。」"}
+{"id": 179734, "en": ["\"...You can't just stand still when it comes to your wife's health..."], "voix": "kla", "ja": "「……妻の体調があっては、座してもいられんか…。"}
+{"id": 179740, "en": ["  ......Understood.", "  I'll give you permission to go outside.\""], "voix": "kla", "ja": "………わかった。 外出を許可しよう。」"}
+{"id": 179748, "en": ["\"Then, we'll take a little trip there and back.", "  A speed contest."], "voix": "rud", "ja": "「じゃあ、俺たちはさっくりと行って来るぜ。 スピード勝負だ。"}
+{"id": 179753, "en": ["  Canned food's okay, right?", "  You at least have a can opener here, don't you?\""], "voix": "rud", "ja": "缶詰はＯＫだよな？ 　缶切りくれぇこっちにあるよな？」"}
+{"id": 179760, "en": ["\"Y-Yes.", "  We have a can opener and a bottle opener...\""], "voix": "nat", "ja": "「は、はい。 缶切りと栓抜きはあります…。」"}
+{"id": 179769, "en": ["\"There's running water in the guesthouse, so we won't need anything to drink.", "  We need to get ten people's worth, so no being picky about what you get.\""], "voix": "kir", "ja": "「ゲストハウスに水道があるから、飲み物は不要よね。 １０人分もあるんだから、好き嫌いは言わせないわ。」"}
+{"id": 179776, "en": ["\"All right!", "  Why don't we dash out and bring it back quickly?", "  There's no time to open umbrellas...!\""], "voix": "hid", "ja": "「よっしゃ。 ダダッと走ってって、さっさと持って来ようやないか。 傘なんて差してる暇、あらへんで…！」"}
+{"id": 179784, "en": ["\"See you, Aniki.", "  I'll trust you to look after this place.\""], "voix": "rud", "ja": "「じゃ、兄貴。 留守番を頼むぜ。」"}
+{"id": 179791, "en": ["\"...Take care.", "  ...Under normal circumstances, I'd want to go too."], "voix": "kla", "ja": "「……気をつけてな。 …本当ならば自分も行きたい。"}
+{"id": 179797, "en": ["  ...Being a man, I despise how this title of the oldest brother prevents me from lending a hand in an emergency like this.\""], "voix": "kla", "ja": "…男に生まれながら、このような急場で力を貸せぬ長男の肩書きが恨めしい。」"}
+{"id": 179804, "en": ["\"This is about the only time we get to show off.", "  Sit back and take it easy every once in a while, Aniki."], "voix": "rud", "ja": "「こういう時くらいしか俺らには見せ場がないのさ。 たまには譲って兄貴はのんびりしてろい。"}
+{"id": 179810, "en": ["  Okay, Natsuhi-san.", "  Wait here and get some towels ready or something.", "  We aren't using umbrellas, so we'll be soaked to the bone when we get back.\""], "voix": "rud", "ja": "じゃな、夏妃さん。 タオルの準備でもして待っててくれ。 傘はささねぇから濡れ鼠で帰ってくるぜ。」"}
+{"id": 179817, "en": ["\"U-Understood.", "  ...Take care.\""], "voix": "nat", "ja": "「わ、わかりました。 …お気をつけて。」"}
+{"id": 179824, "en": ["Rudolf, Kyrie, and Hideyoshi, ", "each leaving their own brave words behind, left the lobby..."], "ja": "留弗夫と霧江、そして秀吉の３人は、 それぞれに勇ましい言葉を残し、ロビーを出て行くのだった…。"}
+{"id": 179851, "en": ["Compared to the time Rosa and Maria had gone outside, the winds were much stronger."], "ja": "楼座たちが表に出た時に比べると、再び風は強くなっていた。"}
+{"id": 179854, "en": ["Rudolf's group of three people jogged through the rose garden without umbrellas, holding their guns and a folded cart."], "ja": "留弗夫たち３人は、傘をささず、銃や折り畳んだ台車を抱え、小走りに薔薇庭園を駆け抜けていく。"}
+{"id": 179861, "en": ["If everything had been still and quiet, without the wind and the rain, they would probably have kept their ears open and moved with caution."], "ja": "もしも雨も風の音もしない静寂だったなら、３人は耳を澄まし慎重に行動したかもしれない。"}
+{"id": 179862, "en": ["But in this rain, even if some suspicious person was hiding nearby, it would be difficult to notice them."], "ja": "しかしこの雨では、近くに不審者が潜んでいたとしても、その気配を気取ることは困難だ。"}
+{"id": 179865, "en": ["Because of that, it had been Rudolf's plan to instead dash through the dangerous area."], "ja": "それならばむしろ、危険地帯を駆け抜けた方が良いだろうという留弗夫の提案だった。"}
+{"id": 179869, "en": ["...If there was a chance that their opponent was equipped with a gun, ", "then walking slowly with their guard up would only make them targets."], "ja": "……相手が銃で武装している可能性があるならば、 固まってゆっくり歩くのは的にしてくれと言っているようなものだ。"}
+{"id": 179870, "en": ["Taking swift action was probably the correct choice."], "ja": "迅速な行動はおそらく正しい判断だろう。"}
+{"id": 179879, "en": ["\"......The rose garden.", "  It feels like we're just askin' to be attacked...!\""], "voix": "hid", "ja": "「………薔薇庭園や。 鴨がネギ背負って来たと思うとるかもしれんで…！」"}
+{"id": 179887, "en": ["\"Please, let nobody come out of there...\""], "voix": "rud", "ja": "「頼むぜ、誰も出てきてくれるなよ…。」"}
+{"id": 179891, "en": ["Even as Rudolf and Hideyoshi continued to run, they looked around restlessly, vigilant of their surroundings."], "ja": "留弗夫と秀吉は、走り続けながらも、神経質にきょろきょろしては辺りを警戒した。"}
+{"id": 179899, "en": ["Rosa and Maria's deaths had not been caused by a projectile weapon."], "ja": "楼座と真里亞の死因は飛び道具ではない。"}
+{"id": 179900, "en": ["...However, it was easy to suspect that the servants had been killed in such a manner."], "ja": "……しかし、使用人たちの死因はそれを疑えるものだった。"}
+{"id": 179906, "en": ["Will they come flying out of the dark?"], "ja": "暗がりから飛び掛って来るか。"}
+{"id": 179907, "en": ["Or will they take careful aim and snipe from the shadows?"], "ja": "それとも狙いを済まして闇から狙撃してくるか。"}
+{"id": 179910, "en": ["...Either way, they couldn't relax their tension for even an instant."], "ja": "……いずれにせよ、緊張感を解くことは一瞬たりともできない。"}
+{"id": 179915, "en": ["But even so, when they reached the overhang in front of the entrance to the mansion and escaped the reach of the raindrops,", " they felt themselves breathing a sigh of relief."], "ja": "しかしそうではあっても、屋敷の玄関の軒下に辿り着き、雨粒から逃れられると、 ほーっと安堵の息が漏れるのを感じるのだった。"}
+{"id": 179923, "en": ["\"No problems for the first step.", "  ...Unlike how it was for Rosa-san.", "  Maybe they can't get their hands on us easily.\""], "voix": "hid", "ja": "「まずは問題なしやな。 ……楼座さんの時とは違う。 迂闊に手は出せんやろ。」"}
+{"id": 179930, "en": ["\"I'd like to believe that.", "  Kyrie, unlock the door while we keep a lookout.\""], "voix": "rud", "ja": "「そう信じたいね。 霧江、俺たちが見張ってる間に鍵を開けてくれ。」"}
+{"id": 179937, "en": ["\"Sure.", "  Returning home to the mansion with a pair of SPs makes me feel just like an executive.\""], "voix": "kir", "ja": "「えぇ。 ＳＰが二人もついてお屋敷に帰宅だなんて、実にエグゼクティブな気分よ。」"}
+{"id": 179944, "en": ["\"Wahahahaha.", "  If we had a welcoming party of servants with a red carpet, it'd be perfect.\""], "voix": "hid", "ja": "「わっはっはっは。 赤絨毯で召使のお出迎えがあれば完璧や。」"}
+{"id": 179950, "en": ["\"A welcoming party, huh?"], "voix": "rud", "ja": "「お出迎えか。"}
+{"id": 179957, "en": ["  ...You never know.", "  Be careful.\""], "voix": "rud", "ja": "…あるかもな。 用心しようぜ。」"}
+{"id": 179965, "en": ["As the two cautiously surveyed their surroundings, "], "ja": "二人が用心深く辺りを警戒する中、"}
+{"id": 179969, "en": ["Kyrie unlocked the entrance with the master key she had been given."], "ja": "霧江は預かったマスターキーで玄関を開錠する。"}
+{"id": 179980, "en": ["\"It's open.\""], "voix": "kir", "ja": "「開いたわ。」"}
+{"id": 179987, "en": ["\"Hideyoshi-san,", " could you take the front?", "  I'll keep an eye on the rear.\""], "voix": "rud", "ja": "「秀吉兄さん。 先頭を頼めるか。 俺は背後を警戒するぜ。」"}
+{"id": 179993, "en": ["\"Understood.", "  Kyrie-san, try not to move from my shadow."], "voix": "hid", "ja": "「了解や。 霧江さん、わしの影から出ないようにな。"}
+{"id": 179999, "en": ["  ...Okay, let's break in!\""], "voix": "hid", "ja": "……ほな、突入するで！」"}
+{"id": 180008, "en": ["\"Rear guard, roger that.  Covering...!\""], "voix": "rud", "ja": "「後方了解、援護するぜ…！」"}
+{"id": 180022, "en": ["\"...Ah, men.", "  Even in a situation like this, you're just playing around, aren't you?\""], "voix": "kir", "ja": "「……男の人って嫌ぁね。 この状況をちょっぴり楽しんでるでしょ。」"}
+{"id": 180028, "en": ["\"Give it up, that's how men are."], "voix": "rud", "ja": "「諦めろよ、それが男ってモンだぜ。"}
+{"id": 180034, "en": ["  ...Seriously though, that stench is awful.\""], "voix": "rud", "ja": "……しかし、相変わらず酷ぇ臭いだな。」"}
+{"id": 180042, "en": ["...It felt like the air in the mansion was stagnant with a gloomy silence."], "ja": "…屋敷内の空気は、重苦しい静寂で澱んでいるように感じられた。"}
+{"id": 180045, "en": ["And on top of that, it was still thick with the stench from Kinzo's burnt corpse in the boiler room, ", "and they were struck with an uncontrollable desire to leave the mansion."], "ja": "そしてそれ以上に、ボイラー室からの金蔵の焼死体の異臭は未だに濃厚で、 頼まれなくても屋敷を出たい気持ちに駆られた。"}
+{"id": 180053, "en": ["\"No problems in the front.", "  Just a short dash to the kitchen.\""], "voix": "hid", "ja": "「前方、問題ないで。 厨房まで一っ走りや。」"}
+{"id": 180060, "en": ["\"Let's finish this quickly and head home.", "  This suit'll get fumigated with Dad's stench.\""], "voix": "rud", "ja": "「とっとと済ませて引き揚げよう。 スーツが親父の臭いで燻蒸されちまうぜ。」"}
+{"id": 180066, "en": ["The three of them dashed towards the kitchen..."], "ja": "３人は厨房へ向かって駆けて行く…。"}
+{"id": 180082, "en": ["And after they disappeared from the entrance hall, ...the new witch appeared there."], "ja": "そして彼らが姿を消した後の玄関に、……新しき魔女が姿を現す。"}
+{"id": 180088, "en": ["\"They were lured out just as planned.", "  ...Just as planned, they got caught in my trap.\""], "ja": "「まんまと誘い出されたわね。 ……私の罠に、まんまと引っ掛かってくれた。」"}
+{"id": 180092, "en": ["The witch grinned."], "ja": "魔女はにやりと笑う。"}
+{"id": 180095, "en": ["...Thinking about it now, no matter how unbearable their hunger had grown,", " it hadn't even been a few hours since Rosa and Maria had been attacked and had lost their lives."], "ja": "……今にして考えれば、いくら耐え難い空腹感があったとはいえ、 楼座たちが襲われて命を落としてから数時間も経っていない。"}
+{"id": 180098, "en": ["In that case, why had they needed to recklessly leave the guesthouse...?"], "ja": "にもかかわらず、なぜ彼らは無用心にもゲストハウスを出なければならなかったのだろう…。"}
+{"id": 180101, "en": ["Until that question could be dealt with, the only answer was that they had been called out by the witch's magic..."], "ja": "その疑問が埋められない内は、魔女の魔法の力で呼び出されたということにする他ない…。"}
+{"id": 180107, "en": ["\"What reckless people.", "  ...They'll never leave this mansion alive."], "ja": "「無用心なヤツら。 ……もう生きてこの屋敷から出しはしないわ。"}
+{"id": 180112, "en": ["  Seal yourself, lock.  Seal yourself, mansion!\""], "ja": "閉じよ、鍵よ。屋敷よ！」"}
+{"id": 180116, "en": ["The instant she proclaimed that..."], "ja": "そう宣言した瞬間。"}
+{"id": 180123, "en": ["The mansion was sealed off into a separate world."], "ja": "屋敷は異空間に切り取られた。"}
+{"id": 180126, "en": ["...Unless her barrier was undone, no longer would anyone be able to exit this mansion or enter it."], "ja": "……もう、彼女が結界を解かない限り、誰も屋敷からは出られない、入れない。"}
+{"id": 180135, "en": ["\"...Spectacular.", "  To think that even though barely half a day has passed since you succeeded the Endless Witch, you can use magic this well."], "voix": "ron", "ja": "「……お見事です。 無限の魔女を継承してから、まだ半日も経たないのに、それほどまでに魔法を使いこなされるとは。"}
+{"id": 180141, "en": ["  ...That talent surprises me.", "  It's almost as though you were born a witch.\""], "voix": "ron", "ja": "……その才能に驚きます。 まるであなたは、生まれながらにしての魔女のようだ。」"}
+{"id": 180147, "en": ["\"Well, I have been a witch since the time of my birth."], "ja": "「だって私、生まれた時から魔女だもの。"}
+{"id": 180153, "en": ["  ...Who taught you how to blink?", "  That's what using magic is like for me.\""], "ja": "……あなたは瞬きの仕方を誰かに習うの？ 　私が魔法を使えるのは、そういうことよ。」"}
+{"id": 180160, "en": ["\".........", "...What a fearsome person.\""], "voix": "ron", "ja": "「…………………。 …恐ろしいお方だ。」"}
+{"id": 180165, "en": ["The witch's face twisted with brutality."], "ja": "魔女の顔が残忍に歪む。"}
+{"id": 180166, "en": ["...She just couldn't help looking forward to toying with someone's life again."], "ja": "……再び命が弄べるのが楽しみで仕方ないのだ。"}
+{"id": 180174, "en": ["\"Well then..."], "ja": "「さてさて。"}
+{"id": 180180, "en": ["  ...Gehehehehhihhihihihihihihyahya!", "  First up is Rudolf and Kyrie, but in what cruel way should I kill them...?!\""], "ja": "……くふふふふふふひっひひひひひひゃひゃ！ 　まずは留弗夫と霧江なわけだけど、どんな残酷な殺し方をしてやろうかしら…！」"}
+{"id": 180190, "en": ["\"...If you don't mind me saying,", " your Predecessor-sama has left instructions that you are to restrain yourself from committing murders of unnecessary cruelty.", "  And, there is an etiquette for offering the sacrifices from the fourth twilight onwards.", "  For that, you must borrow the power of the Seven Sisters of Purgatory.\""], "voix": "ron", "ja": "「……失礼ながら。 先代さまより、不必要な残酷なる殺害は控えるようご指示を賜っております。 そして、第四の晩以降は、生贄の捧げ方に作法がございます。 それには煉獄の七姉妹の力を借りねばなりません。」"}
+{"id": 180196, "en": ["\"...Oh, really?", "  Now that you mention it, that's right.", "  I could only play as I like with that second twilight.", "  .........Boring.", "  Just when I thought I could play to my heart's content like I did with Rosa.\""], "ja": "「……あら、そうだったの？ 　そういえばそうだったわね。 好き勝手に遊べるのはさっきの第二の晩までなのね。 ………………つまんないわ。 また楼座の時みたいに思い切り遊べると思ったのに。"}
+{"id": 180201, "en": ["\"...But, that only counts for how they're killed in the end, right?\""], "ja": "……でも、それは最後の殺し方、という意味でしょう？」"}
+{"id": 180207, "en": ["\"Meaning...?\""], "voix": "ron", "ja": "「と、申しますと…。」"}
+{"id": 180213, "en": ["\"I could just kill them however I want over and over again, revive them,", " and then follow the epitaph during the last time I kill them, right?\""], "ja": "「私が何度、どれほどの殺し方をしようとも、生き返らせて、 最後に碑文の殺し方に沿えばいい訳でしょ？"}
+{"id": 180218, "en": ["\"...So, in the end, no matter how I play, it isn't a problem.", "  ...Who'd act well-behaved with an entertaining power like this...?!"], "ja": "……つまり、私がどう遊ぼうと、結局は問題ないってことになるわ。 ……こんなに面白い力、誰が大人しくなんかするもんか…！"}
+{"id": 180221, "en": ["  Kuhhihihihihihihi!\""], "ja": "くっひひひひひひひひ！」"}
+{"id": 180226, "en": ["Her absurd argument was, for an Endless Witch, an extremely valid one."], "ja": "彼女の暴論は、無限の魔女としては極めて正論。"}
+{"id": 180227, "en": ["The etiquette that controlled the manner of killing the sacrifices of the fourth twilight and onward was represented by lines like `gouge the head'."], "ja": "第四の晩以降の生贄は、“頭を抉れ”に代表されるように殺し方の作法が決まっている。"}
+{"id": 180230, "en": ["However, that referred to the way those people died in the end."], "ja": "しかし、それは最終的な死に方を示したものだ。"}
+{"id": 180237, "en": ["In other words, ...in the process leading up to that, she was free to tease and kill them however she wanted."], "ja": "つまり、……それまでの過程でどう甚振り、どう殺そうとも、自由。"}
+{"id": 180238, "en": ["She just had to keep on reviving them...and follow the rules only when she killed them the final time."], "ja": "何度でも蘇らし、最後の殺し方だけルールに従えばいいのだろうという話なのだ。"}
+{"id": 180241, "en": ["Though Ronove felt that her innocent cruelty was part of her talent as a witch,", " he was beginning to notice a innately brutal side of her."], "ja": "その無邪気な残酷さに、ロノウェは魔女の才能の一端を感じつつも、 彼女の生来の残忍な一面に気付き始めるのだった。"}
+{"id": 180248, "en": ["\"...They do say that apprentices are the most brutal of witches, and now I see this may be true."], "voix": "ron", "ja": "「……魔女は見習いがもっとも残忍と申しますが、本当のようですね。"}
+{"id": 180253, "en": ["  ......Do as you wish...is what I would like to say, ", "but here, it may actually be wiser to show restraint.", "  They have guns.", "  Weapons with a high anti-magic power, such as guns, are the natural enemies of witches and demons.\""], "voix": "ron", "ja": "………ご随意に、と申し上げたいところですが、 ここはやはり自重なさった方が賢明でしょう。 彼らは銃を持っています。 銃のような反魔法力の高い武器は、魔女や悪魔の天敵です。」"}
+{"id": 180257, "en": ["The witch stared blankly at this demon butler, who was surprisingly afraid of guns."], "ja": "意外にも銃を恐れる悪魔の執事に、魔女はきょとんとした表情を浮かべる。"}
+{"id": 180263, "en": ["\"......That can't be right.", "  Shouldn't witches be able to take a shot from a bullet easily?\""], "ja": "「………話が違うわ。 魔女は弾丸なんか射掛けられても、へっちゃらじゃないのかしら？」"}
+{"id": 180269, "en": ["\"No.", "  It would be just as fatal for a witch as it would be for a normal Human.", "  ...To prevent that weak point from being noticed, ", "most witches rigorously strengthen their guard with a defense of protective barriers and furniture.\""], "voix": "ron", "ja": "「いいえ。 普通のニンゲンとまったく同じように致命傷となります。 …その弱点を気取らせない為に、 多くの魔女は厳重に防御結界や家具の守備によって身辺を固めるのです。」"}
+{"id": 180275, "en": ["\"Do I have any of those protective barrier things?\""], "ja": "「私に、その防御結界というのはあるの？」"}
+{"id": 180281, "en": ["\"...Constructing a barrier to make even gun bullets ineffective requires much in the way of preparation and ceremonies.", "  I am afraid to say that Beatrice-sama currently has none of those.", "  Furthermore, you are currently ill prepared to summon furniture strong enough to block a bullet.\""], "voix": "ron", "ja": "「……銃弾をも無効にする結界の構築には、充分な準備と儀式が必要です。 残念ながら、今のベアトリーチェさまにはございません。 また、銃弾を防げるほどの家具の召喚も、現在はその準備がありません。」"}
+{"id": 180287, "en": ["\"So even though I've become a Great Witch with this much magical power, I really do have to be afraid of lead bullets."], "ja": "「これほどの魔力を持つ大魔女になりながら、それでもやはり鉛弾に怯えなければならないのね。"}
+{"id": 180292, "en": ["  ......It's annoying, but I don't have a choice.", "  So, in that case, should I call some furniture to act as my arms and legs?\""], "ja": "………不愉快だけど、仕方がないわ。 となれば、家具を呼び出して私の手足とすればいいわけね？」"}
+{"id": 180298, "en": ["\"Yes.", "  Leaving everything to your servants while not exposing yourself to danger is also a part of a witch's refined tastes.", "  Beatrice-sama, leave this to the furniture and hide in a safe place.\""], "voix": "ron", "ja": "「はい。 危険に身を晒さず、家具に全てを任すのもまた、魔女の優雅なる嗜みでございます。 ここは家具に任せ、ベアトリーチェさまは安全なところへお隠れを。」"}
+{"id": 180304, "en": ["\"......I get it."], "ja": "「……………わかったわ。"}
+{"id": 180310, "en": ["  ...I call on the Seven Sisters of Purgatory.", "  I don't care who, any two...!\""], "ja": "…煉獄の七姉妹。 誰でもいいわ、適当に２人…！」"}
+{"id": 180314, "en": ["Leviathan and Belphegor responded to that call."], "ja": "その呼び出しに、レヴィアタンとベルフェゴールが応じる。"}
+{"id": 180328, "en": ["\"Leviathan of Envy, right here.\""], "ja": "「嫉妬のレヴィアタン、ここに。」"}
+{"id": 180330, "en": ["\"Belphegor of Sloth, right here.\""], "ja": "「怠惰のベルフェゴール、ここに。」"}
+{"id": 180338, "en": ["\"Show me your power.", "  Your targets are Rudolf and Kyrie.", "  Don't attack Hideyoshi.", "  ...Come on, show me just how cruel you can be, furniture.\""], "ja": "「あんたたちの力を見せてもらうわ。 標的は留弗夫と霧江。 秀吉はダメよ。 ……さぁ、あなたたちがどれだけ残酷な家具なのか、私に見せてみて。」"}
+{"id": 180345, "en": ["\"...My apologies,", " but we've received orders from the Predecessor-sama to refrain from unnecessarily cruel actions.\""], "ja": "「……恐れながら。 先代さまより、不要なる残酷行為は控えるようご命令を賜っております。」"}
+{"id": 180352, "en": ["\"Buuut, I think the Predecessor-sama's order does give us some leeway to tease them.", "  Do you still wanna go through with it?\""], "ja": "「でもぉ、先代さまのご命令の範囲内で、甚振ることはできると思います。 それでもよろしいですか？」"}
+{"id": 180360, "en": ["\"Hmph.", "  I get it, I'll compromise."], "ja": "「ふん。 わかった、それで妥協するわ。"}
+{"id": 180365, "en": ["  ...Don't let them die easily.", "  Thoroughly corner them and let them taste the fear of death before killing them.", "  ...Will that be okay, Ronove?\""], "ja": "……簡単に殺しては駄目よ。 徹底的に追い詰めて、死の恐怖を味わわせてから殺すのよ。 ……それでいいのかしら、ロノウェ？」"}
+{"id": 180373, "en": ["\"Yes.  Depending on the degree, I do not believe there will be a problem.\""], "voix": "ron", "ja": "「はい。程度をお考え頂ければ問題ないかと思います。」"}
+{"id": 180379, "en": ["\"......Then, go!\""], "ja": "「……………なら、お行きなさい！」"}
+{"id": 180388, "en": ["\"\"Yes, leave it to us...!\"\""], "ja": "「「はいっ、お任せを…！」」"}
+{"id": 180396, "en": ["\"Your opponents are armed with guns.", "  ...For those such as you, dodging them should be easy, "], "voix": "ron", "ja": "「相手は銃で武装しています。 …あなたたちほどの者ならば、かわすことは容易いでしょうが、"}
+{"id": 180398, "en": ["...but if you are hit, the wound will be fatal.", "  Proceed with an appropriate level of caution.\""], "voix": "ron", "ja": ":voicedelay 4180^^…もしも当たれば致命傷ですよ。 くれぐれも用心を。」"}
+{"id": 180405, "en": ["\"Don't worry.", "  We aren't that incompetent.\""], "ja": "「ご心配なく。 そのような無様は晒しません。」"}
+{"id": 180414, "en": ["The two Sisters of Purgatory vanished."], "ja": "煉獄の七姉妹の二人は姿を消す。"}
+{"id": 180417, "en": ["Ronove bowed and vanished himself."], "ja": "ロノウェも一礼してから姿を消す。"}
+{"id": 180429, "en": ["\"......There are even rules on how to kill them.", "  ......Why do I have to be constrained by my Predecessor-sama?", "  ......It's so rigid and boring.\""], "ja": "「………殺し方にまでルールがね。 ………何で私が先代さまに気兼ねしなくちゃならないの？ 　…………窮屈でつまらない。」"}
+{"id": 180444, "en": ["As the witch looked up at the portrait of the Predecessor Beatrice hung in the hall, she cursed..."], "ja": "魔女はホールに掲げられた先代ベアトリーチェの肖像画を見上げながら、悪態をつくのだった…。"}
+{"id": 180455, "en": ["The three people had already arrived at the kitchen and were gathering food supplies."], "ja": "３人はすでに厨房に到着し、食料を集めていた。"}
+{"id": 180456, "en": ["Considering the possibility of poison, they gave up on the alluring fruits and vegetables...", "and gathered a whole cardboard box full of only the safe canned foods."], "ja": "毒が混ぜられているかもしれない可能性も考え、魅力的な野菜や果物の類を諦め、 安全な缶詰だけをダンボールまるまる一箱分集めた。"}
+{"id": 180459, "en": ["It was very heavy, but by piling it on the cart, they could carry it well enough."], "ja": "かなりの重量だが、台車に積めば何とか運べる。"}
+{"id": 180465, "en": ["This should be more than enough for ten people to hold out until tomorrow's breakfast.", "  That should carry them until the boat arrives."], "ja": "これだけあれば、１０人なら明日の朝食まで余裕が持てる。 船を待つにはそれで充分だ。"}
+{"id": 180469, "en": ["The two men were supposed to be focused solely on guard duty, but the weight of the load was tough on Kyrie even with the cart."], "ja": "男２人は護衛役に専念のはずだったが、この重さの荷物では台車であっても霧江には辛い。"}
+{"id": 180470, "en": ["Hideyoshi, who wanted to show off his power, switched to be the cart-pusher, and Rudolf and his wife took up the task of guard duty."], "ja": "力自慢を自称する秀吉が台車役を代わり、護衛役は留弗夫夫妻が勤めた。"}
+{"id": 180476, "en": ["\"With all this, even George and the kids will be full."], "voix": "hid", "ja": "「これだけあれば、譲治たちも満腹やろ。"}
+{"id": 180482, "en": ["  The trip back'll be a picnic, so let's go...!\""], "voix": "hid", "ja": "帰るまでが遠足や、行くで…！」"}
+{"id": 180490, "en": ["When Hideyoshi vigorously announced their departure, Kyrie frowned and seemed to be gazing into the distance."], "ja": "秀吉が威勢よく出発を宣言した時、霧江が表情をしかめ、遠くを見るような目をした。"}
+{"id": 180494, "en": ["...There was a wall in that direction."], "ja": "……その方向には壁がある。"}
+{"id": 180495, "en": ["...No, if her gaze could go through that, there was the main hall beyond it..."], "ja": "…いや、視線が貫けるならば、その向こうにはホールがある…。"}
+{"id": 180503, "en": ["\"......What is it, Kyrie?\""], "voix": "rud", "ja": "「………どうした、霧江。」"}
+{"id": 180512, "en": ["\"...It's vague,", " ......but I've got a bad feeling gnawing at me.\""], "voix": "kir", "ja": "「…チリチリするの。 ………嫌な予感がするわ。」"}
+{"id": 180516, "en": ["Kyrie stopped walking and narrowed her eyes even further."], "ja": "霧江は足を止め、なおも目を細めるような仕草をする。"}
+{"id": 180522, "en": ["\"......Women's intuition?\""], "voix": "rud", "ja": "「………女の勘か？」"}
+{"id": 180527, "en": ["At times like this, Kyrie's intuition often rang true, even when she didn't have a logical reason."], "ja": "こういう時の霧江の勘は、理屈抜きに当たる。"}
+{"id": 180528, "en": ["...Rudolf believed in that intuition."], "ja": "…留弗夫はその勘を信じた。"}
+{"id": 180535, "en": ["\"Yes.", "  Someone's probably waiting to ambush us.", "  ...I didn't sense them before,", " ...but just now, I felt it."], "voix": "kir", "ja": "「えぇ。 多分、私たちは待ち伏せされてる。 ……さっきまではその気配はなかったの。 …でも、たった今、感じたわ。"}
+{"id": 180539, "en": ["  ...Just now someone..."], "voix": "kir", "ja": "……たった今、私たちは、"}
+{"id": 180543, "en": ["~ib~set up an ambush for us~ib~", ".\""], "voix": "kir", "ja": "^~ib~^待ち伏せられた^~ib~^。」"}
+{"id": 180550, "en": ["\"...Then there's no reason to go back the way we came."], "voix": "rud", "ja": "「……なら、来た道を戻る義理はねぇな。"}
+{"id": 180556, "en": ["  There's a back door over there, right?", "  Let's leave that way.\""], "voix": "rud", "ja": "そこに勝手口があるじゃねぇか。 そっちから出よう。」"}
+{"id": 180562, "en": ["Rudolf made to unlock the back door."], "ja": "留弗夫は勝手口の扉の鍵を開けようとする。"}
+{"id": 180565, "en": ["When goods were carried into the kitchen, they never passed through the part of the mansion that the family came and went from."], "ja": "厨房への荷物の運び込みは、家人たちが出入りする屋敷内を決して通りはしない。"}
+{"id": 180568, "en": ["So outside the back door, there was probably a ramp used to carry things in.", "  Surely, they would be able to leave through there with the cart."], "ja": "だから、勝手口の外には搬入用のスロープもあるだろう。 きっと台車はここから出られる。"}
+{"id": 180584, "en": ["\"...What the heck?", "  ...It's stuck.", "  ...Damn, what's going on?\""], "voix": "rud", "ja": "「……何だこりゃ。 …固ぇ。 …クソ、どうなってんだ。」"}
+{"id": 180591, "en": ["\"Can't you open it?\""], "voix": "kir", "ja": "「開かないの？」"}
+{"id": 180598, "en": ["\"Nope.", "  Is it broken?", "  It isn't giving an inch...\""], "voix": "rud", "ja": "「あぁ。 壊れてんのかな。 びくともしねぇぜ…。」"}
+{"id": 180614, "en": ["Rudolf tried various things, first using force, then coaxing it,", " but the lock was as hard as stone and didn't even budge."], "ja": "留弗夫は、力任せにしたり、あるいは宥めすかしたり、色々と試すのだが、 鍵は岩のように固まり、びくともしなかった。"}
+{"id": 180623, "en": ["\"...Don't force it.  Let's leave through the front entrance.", "  Right now, it'll be even worse if we stand around wasting time.\""], "voix": "hid", "ja": "「…無理せんと、玄関から出ようや。 モタモタ時間を潰す方が、今は惜しいで。」"}
+{"id": 180630, "en": ["\"............\""], "voix": "kir", "ja": "「…………………………。」"}
+{"id": 180638, "en": ["\"...You think this is a trap?\""], "voix": "rud", "ja": "「……これが罠だってのか？」"}
+{"id": 180645, "en": ["\"...I don't know.", "  Be careful.\""], "voix": "kir", "ja": "「…わからない。 用心して。」"}
+{"id": 180652, "en": ["With strained expressions, the three of them returned to the hall again and headed for the entrance..."], "ja": "３人は緊迫の面持ちで、再びホールへ戻り、玄関を目指す…。"}
+{"id": 180664, "en": ["\"Wh-Who is it?!!\""], "voix": "rud", "ja": "「だ、……誰だッ！！」"}
+{"id": 180670, "en": ["The instant they exited into the hall, Rudolf noticed a suspicious shadow right in front of them and yelled..."], "ja": "ホールに出た途端に、留弗夫が真っ先に不審な人影を認めて叫んだ…。"}
+{"id": 180673, "en": ["In that instant, a storm of gold leaf started blowing, and gold butterflies covered the area with a gold color."], "ja": "その瞬間、金箔の嵐が巻き起こり、黄金の蝶たちが空間を黄金色に染めた。"}
+{"id": 180694, "en": ["\"......I can't believe it.", "  A lowly Human predicted our ambush?\""], "ja": "「…………信じられん。 ニンゲン如きが、我らの待ち伏せを予見したか。」"}
+{"id": 180701, "en": ["\"I-It isn't my fault.", "  I was hiding my presence...!\""], "ja": "「わ、私のせいじゃないわよ。 気配は消してたもん…！」"}
+{"id": 180712, "en": ["\"Don't hesitate!!  Fire!!!\""], "voix": "kir", "ja": "「躊躇しないでッ！！　撃ってッ！！！」"}
+{"id": 180730, "en": ["The two guns spouted fire."], "ja": "二人の銃が火を噴く。"}
+{"id": 180733, "en": ["The lead bullets blasted right through the magical defense of the pair as easily as though it were a wet paper wall,", " ...but the two figures that should have been there had disappeared."], "ja": "鉛の弾丸は二人が持つ魔法防御を、濡れた障子紙のようにあっさり撃ち抜きながら迫るが、 ……そこにあったはずの二人の姿は掻き消える。"}
+{"id": 180736, "en": ["Certainly, guns were frightening objects for them."], "ja": "確かに銃は彼女らにとっても恐れるものかもしれない。"}
+{"id": 180740, "en": ["...But there was no need to fear as long as they weren't hit."], "ja": "…しかし当たらなければ怯える必要はない。"}
+{"id": 180741, "en": ["They at least had enough speed to dodge those."], "ja": "彼女らにはそれをかわせるだけの素早さがあった。"}
+{"id": 180749, "en": ["\"Wait a sec!", "  You won't even give us a chance to say our names?!"], "ja": "「ちょっとぉ！ 　名乗りも上げさせないつもりぃ？！"}
+{"id": 180753, "en": ["  This is why I hate Humans!\""], "ja": "これだからニンゲンは嫌なのよぅ！」"}
+{"id": 180757, "en": ["Leviathan was a full 10 meters from where she had supposedly been, popping her head out from behind the pillars in the shadow of the staircase and protesting."], "ja": "レヴィアタンは、本来いたはずの場所から１０ｍ以上も離れた、階段の影の柱からひょっこりと顔をのぞかせて抗議する。"}
+{"id": 180763, "en": ["\"In accordance with Beatrice-sama's orders, we will hunt you down!", "  Our orders tell us to make it take some time and to tease you.", "  You are free to resist, but know that it will be useless...!\""], "ja": "「ベアトリーチェさまのご命令により、貴様らを討つ！ 　時間を掛けて甚振れとのご命令だ。 抵抗は自由、されど無駄と知れ…！」"}
+{"id": 180773, "en": ["That voice came from overhead."], "ja": "その声は頭上から。"}
+{"id": 180774, "en": ["Belphegor could be seen on top of the hall chandelier."], "ja": "ベルフェゴールの姿はホールのシャンデリアの上にあった。"}
+{"id": 180775, "en": ["Elegantly looking down upon them, she proclaimed their execution with a cruel smile."], "ja": "優雅に見下ろしながら、残酷な笑みで処刑を宣告する。"}
+{"id": 180785, "en": ["\"...Wh-"], "voix": "hid", "ja": "「……な、"}
+{"id": 180787, "en": ["What are these girls...?!\""], "voix": "hid", "ja": ":voicedelay 570^^……何なんや、この姉ちゃんたちは…？！」"}
+{"id": 180793, "en": ["\"Forget the cart!!", "  We have two opponents, so if we split up, they can't chase all of us!\""], "voix": "kir", "ja": "「台車は忘れてッ！！ 　相手は二人よ、散開すれば全員を追うことはできないわ！」"}
+{"id": 180798, "en": ["All three of them were well acquainted with the inside of the mansion."], "ja": "３人は全員、屋敷内には精通している。"}
+{"id": 180799, "en": ["In case of a crisis, they had planned to run off in separate directions,", " returning to the guesthouse by breaking windows or leaving through a back door."], "ja": "それぞれに逃げて、窓を破るなり勝手口を出るなりしてゲストハウスへ逃げ帰ることで、緊急時の打ち合わせは済んでいる。"}
+{"id": 180802, "en": ["Fighting was forbidden.", "  ...As long as they could fully escape."], "ja": "戦いは厳禁。 ……逃げ切れる限り。"}
+{"id": 180809, "en": ["\"Hahaha, in a tight spot, escaping is victory...!\""], "voix": "rud", "ja": "「はっははッ、三十六計、逃げるが勝ちだぜ…！！」"}
+{"id": 180819, "en": ["The three of them ran into the depths of the mansion at full tilt."], "ja": "３人は屋敷の奥へ一目散に逃げ出す。"}
+{"id": 180820, "en": ["That pair of furniture calmly watched them go."], "ja": "家具の二人は悠然とその背中を見送る。"}
+{"id": 180832, "en": ["\"...I'll kill the woman.", "  You take the man!\""], "ja": "「……私は女の方を殺るわ。 あんたは男を！」"}
+{"id": 180839, "en": ["\"Understood.\""], "ja": "「了解した。」"}
+{"id": 180849, "en": ["The furniture in the shadows of the pillars and on the chandelier made their figures explode,", " and, leaving behind only the sound of a hopping beetle knocking against the wall, they pursued their respective targets."], "ja": "柱の影とシャンデリア上の２人の家具は、人の姿を弾けさせ、 飛び跳ねる甲虫が壁にぶつかるような音だけを残しながら、各々の標的を追跡する。"}
+{"id": 180852, "en": ["Their speed was overwhelming, and they easily blocked the others' paths of retreat."], "ja": "その速度は圧倒的で、容易に彼らの退路を断ってしまうのだ。"}
+{"id": 180860, "en": ["\"......Let's see what this furniture's got.", "  I hope they're at least able to amuse me...\""], "ja": "「…………家具のお手並み、拝見させてもらうわ。 楽しませてくれるといいのだけど。」"}
+{"id": 180867, "en": ["\"Beatrice-sama, it may not be prudent for you to reveal your form unnecessarily...\""], "voix": "ron", "ja": "「ベアトリーチェさま、濫りに姿を現されない方がよろしいかと…。」"}
+{"id": 180876, "en": ["\"And you don't unnecessarily move your king away from the center.", "  That's part of a monarch's..."], "ja": "「キングは濫りに中央を動かないものよ。 それが王者の、"}
+{"id": 180878, "en": ["...and a witch's dignity!\""], "ja": ":voicedelay 1840^^…魔女の貫禄よ！」"}
+{"id": 180894, "en": ["Belphegor was already blocking the way in front of Rudolf, who had boldly tried to escape to the second floor."], "ja": "大胆にも２階へ逃れようとした留弗夫の前には、もうベルフェゴールが立ち塞がっていた。"}
+{"id": 180900, "en": ["\"It's useless to try and resist or escape.", "  ...You don't need to think about anything."], "ja": "「抵抗も、そして逃走も無駄だ。 ……お前は何も考えなくていい。"}
+{"id": 180905, "en": ["  Just close your eyes.", "  I'll gently end it all for you.\""], "ja": "ただ目を閉じているだけでいい。 私が全て、やさしく終わらせてやる。」"}
+{"id": 180913, "en": ["\"You'd make a good wife.", "  Husbands love to hear that kind of thing when they come home all tired.\""], "voix": "rud", "ja": "「あんた、いい嫁さんになれるな。 疲れて帰ってくる旦那はそういうの喜ぶぜ。」"}
+{"id": 180919, "en": ["\"To think you're still relaxed enough to speak with such insolence at a time like this...!"], "ja": "「この期に及んで不埒な話をする余裕があるとは…！"}
+{"id": 180928, "en": ["  Beatrice-sama, thank you for this excellent prey!", "  Die!!!\""], "ja": "良き獲物っ、ベアトリーチェさま、感謝します！ 　死ねッ！！！」"}
+{"id": 180939, "en": ["Rudolf shot first."], "ja": "先制射撃は留弗夫。"}
+{"id": 180951, "en": ["But even before that bullet could hit her, Belphegor had already moved behind Rudolf's back."], "ja": "しかし、その銃弾が着弾するより、ベルフェゴールが留弗夫の背後を取る方が早い。"}
+{"id": 180958, "en": ["She then raised a purple curve springing out from her arm..."], "ja": "そこには腕より伸びる紫色の奇跡を振り上げる姿が。"}
+{"id": 180980, "en": ["However, incredibly, before that arm could decapitate Rudolf, he had swung his gun behind him."], "ja": "しかし、その腕が留弗夫の首を撥ねるより、信じられないことに、留弗夫が背後に銃を振る方が早い。"}
+{"id": 180983, "en": ["The barrel remained pointing behind his back...from the same motion with which he had reloaded the sawed-off gun one-handedly."], "ja": "ソードオフ銃を片手でリロードするアクションからそのまま、銃口が背後へ伸びていた。"}
+{"id": 180987, "en": ["It was pointing right at Belphegor's chest..."], "ja": "それはぴったりとベルフェゴールの胸元に突きつけられている…。"}
+{"id": 180992, "en": ["*click*, *cha-clunk*...!"], "ja": "チン、カランコロン…！"}
+{"id": 180993, "en": ["It was the sound of the ejected empty cartridge finally hitting the wall after the reload."], "ja": "それはリロードで排莢された空薬莢が今更壁を叩く音だった。"}
+{"id": 180997, "en": ["In other words, it meant that the next shot was already fully loaded."], "ja": "つまりそれはすでに次弾装填が終了しているということ。"}
+{"id": 181003, "en": ["Without turning around, his gun pointing right at Belphegor's chest, Rudolf grinned."], "ja": "振り返りもせず、ベルフェゴールの胸元に完全に銃を突きつけている留弗夫はニヤリと笑う。"}
+{"id": 181012, "en": ["\"......Not bad......", "  ...For a middle-aged man...!!\""], "ja": "「………やるな………。 …中年男の分際で…ッ！！」"}
+{"id": 181018, "en": ["\"Don't look down on the generation that loves old Westerns, okay?", "  You brats don't know anything about the refinement of a lever-action.\""], "voix": "rud", "ja": "「西部劇世代を舐めるんじゃねぇぜ？ 　ガキどもにレバーアクションの渋みは語らせねぇ。」"}
+{"id": 181035, "en": ["Just like Rudolf, Kyrie was also confronting a demon stake in the first floor corridor."], "ja": "留弗夫と同じように霧江もまた、１階廊下にて悪魔の杭と対峙していた。"}
+{"id": 181045, "en": ["\"What a moron.", "  You could've just escaped with your husband.", "  You do know that was your final farewell just now, right...?"], "ja": "「間抜けなヤツね。 夫と一緒に逃げればよかったのに。 さっきのが今生の別れになったわよ…？"}
+{"id": 181049, "en": ["  *giggle*giggle*giggle*!\""], "ja": "くすくすくす！」"}
+{"id": 181056, "en": ["\"Don't worry.", "  This kind of thing is my husband's specialty.", "  I'm sure he'll come for me on a white horse soon."], "voix": "kir", "ja": "「大丈夫よ。 ウチの人、こういうのとても得意なの。 すぐに白馬で迎えに来てくれるわ。"}
+{"id": 181062, "en": ["  Because he's never failed to come and save me when I'm in trouble.", "  ...Not even when Asumu-san was around.", "  Heheh.\""], "voix": "kir", "ja": "私が困った時、彼が助けに来てくれなかったことはないんだから。 ……明日夢さんがいた頃であってもね？ 　ふふ。」"}
+{"id": 181068, "en": ["\"Heheheheheheheh!", "  What a happy couple.", "  I'm jealous.", "  ......I am Leviathan of Envy...!", "  Envy itself is my power.", "  My anger, my lifeblood!\""], "ja": "「ふっふふふふふふ！ 　本当に仲の良い夫婦ね。 嫉妬するわ。 ………私は嫉妬のレヴィアタン…！ 　嫉妬こそ我が力。 我が怒り、我が源泉！」"}
+{"id": 181074, "en": ["\"I agree.", "  Envy is the source of a woman's power.", "  ...And if that is power, I won't lose to a girl like you.\""], "voix": "kir", "ja": "「同感ね。 嫉妬は女の力の原点よ。 …それが力だと言うなら、あなた如きお嬢ちゃんになんか負けないんだから。」"}
+{"id": 181080, "en": ["\"Hahhahahahahahahahaha!", "  Imagine saying that to the one who governs envy!", "  You actually think I'd let you two be reunited...?!!"], "ja": "「はっははははははははは！ 　嫉妬を司る私によくも言えたわね！ 　お前たち夫婦を再会などさせるものか…！！"}
+{"id": 181089, "en": ["  Ahhahahahaha, I'll give you a tragic farewell!!\""], "ja": "あっははははは、悲劇的な別れを与えてやるわッ！！」"}
+{"id": 181098, "en": ["The arm Leviathan swung was trailed by a purple curve."], "ja": "レヴィアタンの振る腕は紫色の軌跡を引く。"}
+{"id": 181099, "en": ["It was a magic blade that cut with the power of malice."], "ja": "それは悪意で切断する魔法の刃。"}
+{"id": 181110, "en": ["Kyrie blocked it with her gun."], "ja": "霧江はそれを銃で庇い防ぐ。"}
+{"id": 181113, "en": ["...Even though the magic blade should have cut through the metal like butter, the `gun', with its extremely high magic resistance power, ", "was able to block the blade as easily as if it were a rolled up newspaper."], "ja": "……魔法抵抗力の極めて高い「銃」は、鉄であってもバターのように切断するはずの魔法の刃を、 まるで丸めた新聞紙のチャンバラを受け止めるように防ぐことができる。"}
+{"id": 181116, "en": ["Rapidly, two times, three times.", "  It blocked all of them."], "ja": "素早く二度三度。 それを全て防ぎ切る。"}
+{"id": 181157, "en": ["And, without missing the opening created when that purple curve took a swing upward,", " Kyrie kicked Leviathan in the stomach with her heel."], "ja": "そしてその紫の軌跡が、大振りに振りあがった隙を逃さず、 霧江の踵がレヴィアタンの下腹を蹴り押す。"}
+{"id": 181161, "en": ["Leviathan was knocked away like a lightly dancing feather."], "ja": "レヴィアタンはまるで羽のように軽く、舞うように吹き飛ぶ。"}
+{"id": 181165, "en": ["...Before the demon stake's feet touched ground again..."], "ja": "…悪魔の杭の足が、再び地に着ける前に。"}
+{"id": 181171, "en": ["Kyrie was already pointing her gun directly at Leviathan in midair."], "ja": "もう霧江の銃口は空中にてレヴィアタンを完全に捕らえていた。"}
+{"id": 181174, "en": ["From that position, the two women who had called envy a form of power met each other's gaze."], "ja": "その中空で、嫉妬は力だと言葉を交し合った二人の女の目線が交差する。"}
+{"id": 181187, "en": ["\"...C-Can you do it?", "  Can you pull that trigger...?!!\""], "ja": "「……う、撃てるぅ？ 　その引き金…！！」"}
+{"id": 181202, "en": ["\"I can be brutal when my husband isn't around.\""], "voix": "kir", "ja": "「私、夫のいないところでは残酷よ？」"}
+{"id": 181233, "en": ["\"Owowowowowowow!!\""], "voix": "rud", "ja": "「うわったたたたたッ！！」"}
+{"id": 181238, "en": ["Rudolf tumbled down the staircase."], "ja": "階段をごろごろと留弗夫が転げ落ちてくる。"}
+{"id": 181239, "en": ["He'd been gradually cornered by Belphegor...and had been pushed back into the main hall they'd started from."], "ja": "ベルフェゴールに徐々に追い詰められ、元のホールへ再び押し戻されたのだ。"}
+{"id": 181248, "en": ["\"......The Predecessor-sama's furniture is pretty good.", "  They aren't very flashy though!\""], "ja": "「………先代さまの家具もなかなかやるわね。 派手さに欠けるけど！」"}
+{"id": 181259, "en": ["\"Beatrice-sama...!", "  It isn't over yet, and it's dangerous to show yourself...!\""], "ja": "「ベアトリーチェさま…！ 　まだ終わっていませんっ、姿を現されては危険です…！」"}
+{"id": 181268, "en": ["\".........Don't tell me you're..."], "voix": "rud", "ja": "「……………………お前、"}
+{"id": 181270, "en": ["...Eva?\""], "voix": "rud", "ja": ":voicedelay 1000^^……まさか、絵羽なのか。」"}
+{"id": 181276, "en": ["\"That used to be my name.", "  But it's different now, Rudolf.\""], "ja": "「それはかつて私の名だった。 でも今は違うわよ、留弗夫。」"}
+{"id": 181283, "en": ["\"You don't have to tell me.", "  You're gonna say you're the Golden Witch, Beatrice, right?\""], "voix": "rud", "ja": "「言わなくてもわかってるさ。 黄金の魔女、ベアトリーチェだって言うんだろ？」"}
+{"id": 181288, "en": ["\"Ehheheheheh, ahhahahahaha!", "  How did you know?\""], "ja": "「ふっふふふふふふ、あっははははは！ 　どうしてわかったの？」"}
+{"id": 181294, "en": ["\"...Since the time Rosa was killed, I had a vague idea."], "voix": "rud", "ja": "「……楼座が殺された時から、想像はついてたさ。"}
+{"id": 181300, "en": ["  ......Rosa, forgive me.", "  Forgive me for sending the sister you hated down to the hell you're in...!!\""], "voix": "rud", "ja": "………楼座、許しな。 お前の地獄に、お前の大嫌いな姉を送っちまうことをよ…！！」"}
+{"id": 181313, "en": ["\"Beatrice-sama, look out!!!\""], "ja": "「ベアトリーチェさまッ、危ない！！！」"}
+{"id": 181318, "en": ["Rudolf mercilessly pointed the barrel of his gun at the witch who claimed to have once been his sister."], "ja": "留弗夫が容赦なき銃口をかつての姉を名乗る魔女に向ける。"}
+{"id": 181319, "en": ["But Belphegor would not permit that and attacked savagely."], "ja": "しかしベルフェゴールはそれを許すまじと猛然と襲い掛かる。"}
+{"id": 181333, "en": ["She dashed, disappeared, and headed for Rudolf's back..."], "ja": "飛び掛れば消えて留弗夫の背後に。"}
+{"id": 181352, "en": ["...She dodged that shot and again headed for Rudolf's back..."], "ja": "その一撃をかわせば再び留弗夫の背後に。"}
+{"id": 181363, "en": ["...And vanished over and over, instantly moving into Rudolf's blind spots."], "ja": "次々に姿を消しては留弗夫の死角に瞬間移動する。"}
+{"id": 181388, "en": ["It was almost like she was a fairy."], "ja": "それはまるで妖精のよう。"}
+{"id": 181389, "en": ["As she blinked in and out of vision, Belphegor incessantly drove towards Rudolf."], "ja": "瞬くように姿を消しながら、ベルフェゴールは間断なく留弗夫を攻め立てるのだ。"}
+{"id": 181397, "en": ["\"Maybe this is kinda fun.", "  Rudolf, let me sit back and watch to see how long your brave efforts last you."], "ja": "「これはこれで楽しいかもしれない。 留弗夫、あなたの健闘がどこまで続くか、ゆっくり見物させてもらうわぁ。"}
+{"id": 181400, "en": ["  *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!\""], "ja": "くっくくくくくくくくくくくくく！」"}
+{"id": 181410, "en": ["At that time, there was a dull tearing sound, along with Rudolf's cry of anguish."], "ja": "その時、鈍い引き裂く音と留弗夫の苦悶の声が混じった。"}
+{"id": 181413, "en": ["Rudolf's reaction to the dance of the purple curve that pressed upon him had finally been too slow,", " and he'd let it lightly cut his flank."], "ja": "襲い来る紫の軌跡とのダンスに、ついに留弗夫の反応が遅れ、 脇腹を薄く裂かせることを許してしまったのだ。"}
+{"id": 181419, "en": ["That single wound slowed him down just once."], "ja": "ひとつの傷はひとつの行動を遅らせる。"}
+{"id": 181437, "en": ["That led to a new wound, which slowed his actions again."], "ja": "それは新しい傷を呼び、新しい行動を遅らせる。"}
+{"id": 181480, "en": ["Belphegor's dance began to swallow Rudolf whole..."], "ja": "ベルフェゴールのダンスが、留弗夫を飲み込み始める…。"}
+{"id": 181483, "en": ["Watching Rudolf's body gradually get carved up, his former sister let out a shrill laugh."], "ja": "次第に体を切り刻まれていく留弗夫を見て、かつての姉は高らかに笑うのだった。"}
+{"id": 181502, "en": ["Leviathan could no longer hide her irritation that Kyrie hadn't suffered a single fatal wound."], "ja": "レヴィアタンは、一向に致命傷を許そうとしない霧江に苛立ちを隠せなくなっていた。"}
+{"id": 181508, "en": ["\"......I really am a moron.", "  ...Among the Seven Sisters, I was always the slowest to grow.", "  I was always slow, always weak, always stupid.\""], "ja": "「………私は本当に愚鈍よね。 …七姉妹の中で、いつも一番成長が遅かったわ。 いつも私が遅くて、弱くて、間抜けだったわ。"}
+{"id": 181514, "en": ["\"...That inferiority complex became envy, ", "and when I convert that into power, I gain a strength greater than that of any of the sisters.\""], "ja": "……その劣等感が嫉妬となり、 それを力として変換した時、私は姉妹の誰にも負けない力を得たのよ。」"}
+{"id": 181522, "en": ["\"It's important for young girls to have a moderate inferiority complex.", "  It teaches women about cosmetics and hard work.\""], "voix": "kir", "ja": "「少女時代の程よい劣等感は大事よ。 女に化粧と努力を教えてくれるわ。」"}
+{"id": 181530, "en": ["\"I don't like having to use the limits of my power against mere Humans,", " ...but I can turn my envy of your ability to trust completely in your husband into power.\""], "ja": "「ニンゲン如きに、その力の限りを尽くすのは気に入らないけれど。 ……夫に全幅の信頼を寄せるあなたへの嫉妬を、私は力に変える。"}
+{"id": 181536, "en": ["\"...I don't like it.", "  Why are you so relaxed when you're fighting for your life?\""], "ja": "……気に入らないのよ。 何で命のやり取りをしてるのに、あんたはそんなに余裕なの？」"}
+{"id": 181548, "en": ["\"...*giggle*", "  I wonder?\""], "voix": "kir", "ja": "「……くす。 どうしてかしらね？」"}
+{"id": 181554, "en": ["\"......I get it.", "  You're fully convinced that your husband will come to your rescue and save you."], "ja": "「…………わかってるのよ。 必ず夫が助けに来てくれて自分を助けてくれるって、信じきってるのよ。"}
+{"id": 181559, "en": ["  ......Isn't it incredible, that trust of yours?", "  It's enough to make me jealous.\""], "ja": "………すごいじゃない、その信頼。 嫉妬に値するわ。」"}
+{"id": 181569, "en": ["What kind of trust did we sisters have for each other?"], "ja": "私たち姉妹にどんな信頼が？"}
+{"id": 181572, "en": ["The sisters are always looking down on each other, trying to thoroughly lambast each other when things already look bad...!"], "ja": "弱り目に祟り目を徹底的に扱き下ろしてやろうと、いつも姉妹たちは互いを見下げあっている…！"}
+{"id": 181580, "en": ["\"I've always been bullied by my sisters.", "  I've always wanted just one person to take my side."], "ja": "「いつも姉妹たちに虐められてきたわ。 誰かひとりだけでも味方になってほしいとずっと思ってたわ。"}
+{"id": 181585, "en": ["  ...So when I see you with a single ally who's completely trustworthy, ", "I feel the strongest envy...\""], "ja": "……だから、そのひとりだけの味方がいて、 全幅の信頼を寄せることができるあなたに、私は最上の嫉妬を感じるの…。"}
+{"id": 181590, "en": ["\"......Aaah, that confident expression of utter belief in your husband...!", "  I can feel it giving me power...!!", "  ......I might even surpass that."], "ja": "…………あぁ、その夫を信じきった余裕ある表情…！ 　嫉妬が力を与えてくれるのを感じるわ…！！ 　………これは超えちゃうかもね。"}
+{"id": 181593, "en": ["  The speed of sound!!!\""], "ja": "音速ッ！！！」"}
+{"id": 181604, "en": ["Leviathan turned herself into a stake, and the speed of her flight as she attacked was proportional to the strength of her envy."], "ja": "レヴィアタンが杭に姿を変え、襲い掛かる時の飛翔速度は、その嫉妬の力に比例する。"}
+{"id": 181657, "en": ["\"Since the day my sisters looked down on me,", " I was jealous from the bottom of my heart of the other six, who grew quickly!", "  I was jealous for seven days and seven nights!!", "  You can see the power I gained as a result in my speed...!!", "  Die, Ushiromiya Kyrieeeeeeeeeeee!!!\""], "ja": "「姉妹たちに見下されたあの日。 私は成長の早い他の６人を心の底から嫉妬した！ 　七日七晩をかけて嫉妬したわ！！ 　その末に得た私の力と速度を見るがいい…！！ 　死ねッ、右代宮霧江ええええぇッ！！！」"}
+{"id": 181743, "en": ["The demon stake exposed her true form, leaping about at a terrible speed."], "ja": "悪魔の杭がその本来の姿を晒し、凄まじい速度にて跳ね回る。"}
+{"id": 181744, "en": ["The noise from her bouncing off the walls sounded like a machine gun."], "ja": "壁を打ち反射する音はまるで機関銃の音にも聞こえた。"}
+{"id": 181747, "en": ["By now, Kyrie probably couldn't tell if it was a single stake or a swarm of beetles flying and bouncing around."], "ja": "霧江の目にはもはや、それが１本の杭なのか、群れ飛び弾け回る甲虫の群なのか、識別が付かないだろう。"}
+{"id": 181750, "en": ["Leviathan was over 100% certain of her victory, believing in it from the bottom of her heart...!"], "ja": "レヴィアタンは１００％を超えた絶対の勝利を心より確信する…！"}
+{"id": 181756, "en": ["Then, Kyrie spoke with an unbelievably calm voice."], "ja": "すると霧江が、信じられないくらいに落ち着いた声で言った。"}
+{"id": 181765, "en": ["\"......I was the one who went out with Rudolf-san first.", "  ...Asumu-san blatantly cut in between us...", "and shrewdly got pregnant.\""], "voix": "kir", "ja": "「………留弗夫さんと、最初から付き合っていたのは私だったのよ。 ……明日夢さんが、白々しく間に入り込んできて、 …ちゃっかりと懐妊したのよ。"}
+{"id": 181770, "en": ["\"...I don't blame Rudolf-san.", "  That woman used her body as a weapon to seduce him, and then acted even more repulsively,", " cornering Rudolf-san and forcing him to get engaged to her.\""], "voix": "kir", "ja": "……留弗夫さんは悪くないわ。 あの女が、体を武器にして誑し込んで、さらに嫌らしく立ち回って、 留弗夫さんに婚約せざるを得ないよう追い詰めたのよ。」"}
+{"id": 181775, "en": ["Asumu-san had been carrying Battler-kun."], "voix": "kir", "ja": "明日夢さんは戦人くんを身篭ってたわ。"}
+{"id": 181778, "en": ["And at the same time, I was also carrying a boy."], "voix": "kir", "ja": "そして同じ頃、私もまた男の子を身篭ってた。"}
+{"id": 181781, "en": ["...As fate would have it, our delivery dates were on the same day."], "voix": "kir", "ja": "…運命的なことに、私たちの出産日は共に同じ日だったわ。"}
+{"id": 181787, "en": ["\"Then, Asumu-san gave birth to Battler-kun.", "  ...But I had a miscarriage.", "  ......I think about it, sometimes.", "  What if Asumu-san had had the miscarriage...and I had been the one to give birth?", "  ...Would Rudolf-san have broken off his engagement and married me?", "  ...But I couldn't give birth to my child.", "  So until Asumu-san died, ", "and until I got pregnant with Ange, I cursed Asumu-san and was jealous.\""], "voix": "kir", "ja": "「そして明日夢さんは戦人くんを出産したわ。 …だけれど私は流産したの。 ………思ったことがあるわ。 もし流産したのが明日夢さんで、出産したのが私だったなら。 ……留弗夫さんは婚約を解消して、私と結婚してくれたかしら？ 　……でも私は子どもを産めなかった。 だから明日夢さんが死ぬまで。 そして縁寿を懐妊するまで、私は明日夢さんを呪ったわ、嫉妬したわ。」"}
+{"id": 181793, "en": ["Let Asumu-san die."], "voix": "kir", "ja": "明日夢さんなんか死んでしまえ。"}
+{"id": 181796, "en": ["Then, I want him to marry me.  In my envy, I kept cursing like that, over and over, until Asumu-san finally died."], "voix": "kir", "ja": "そして私と再婚してほしいって、ずっとずっと嫉妬して呪って、そしてやっと明日夢さんが死んだ。"}
+{"id": 181799, "en": ["I was certain."], "voix": "kir", "ja": "私は確信したわ。"}
+{"id": 181802, "en": ["I was certain that I'd used the power of magic to curse and kill Asumu-san."], "voix": "kir", "ja": "私には魔法の力があって、それが呪いとなって明日夢さんを殺したんだって確信したわ。"}
+{"id": 181805, "en": ["But that didn't quell the flames of my envy."], "voix": "kir", "ja": "でも、私の嫉妬の炎は治まらない。"}
+{"id": 181808, "en": ["Don't tell anyone, okay?"], "voix": "kir", "ja": "内緒よ？"}
+{"id": 181812, "en": ["Every time I look at Battler-kun, I remember that woman."], "voix": "kir", "ja": "戦人くんを見る度にね、あの女を思い出しちゃうの。"}
+{"id": 181815, "en": ["Every single time I look at him,", " ...I think that if only my child had been born, he would be the same age."], "voix": "kir", "ja": "そして戦人くんを見る度にね。 …もし私の子が生まれていたら、同じ歳だっただろうなって思ってしまうの。"}
+{"id": 181819, "en": ["I'm still jealous of her, tormented by her."], "voix": "kir", "ja": "私は今でも彼女を嫉妬し、苛まれてる。"}
+{"id": 181820, "en": ["Even now, and from now on.", "  Into the future, for all eternity."], "voix": "kir", "ja": "今も、これからも。 未来、永劫にね。"}
+{"id": 181829, "en": ["\"You say you were jealous of your sisters for seven days and seven nights...?\""], "voix": "kir", "ja": "「七日七晩、姉妹を嫉妬したですって…？」"}
+{"id": 181839, "en": ["\"...Th-That's right...\""], "ja": "「そ、……そうよ…。」"}
+{"id": 181861, "en": ["Don't make me laugh, little girl."], "voix": "kir", "ja": "笑わせるなよ小娘が。"}
+{"id": 181880, "en": ["\"......How could you understand the madness of a woman whose man was stolen from her, "], "voix": "kir", "ja": "^^!s1「………てめぇに男を寝取られて、"}
+{"id": 181882, "en": ["and who's burned with envy for 18 years...?!!\""], "voix": "kir", "ja": ":voicedelay 2009^^１８年間嫉妬し続ける女の狂気がわかるかよ…ッ！！」"}
+{"id": 181906, "en": ["\"...U-Uuowaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!!!\""], "ja": "^^!s0「ぅ、……うぉあわああああああぁあああああああああぁああぁッ！！！！」"}
+{"id": 181932, "en": ["If Leviathan had the power of 24 hours x 7 days, or 168 hours of speed..."], "ja": "レヴィアタンの力が、２４時間×７日で１６８時間分の速度を持つならば。"}
+{"id": 181942, "en": ["Then the power that Kyrie had piled up..."], "ja": "^^!s0　霧江の積み重ねた力は、"}
+{"id": 181944, "en": ["was 24 hours in 1 day, "], "ja": "^^!d400１日が２４時間で、"}
+{"id": 181946, "en": ["365 days in 1 year, "], "ja": "^^!d600それが３６５日で１年で、"}
+{"id": 181948, "en": ["and 18 whole years..."], "ja": "^^!d800それがさらに１８年で……。"}
+{"id": 181957, "en": ["Even without counting leap years, "], "ja": "閏年をカウントしなくても、"}
+{"id": 181961, "en": ["that was 157680 hours."], "ja": "１５７６８０時間。"}
+{"id": 181964, "en": ["...Compared to Leviathan's power and speed, "], "ja": "…それはレヴィアタンの力と速度の、"}
+{"id": 181968, "en": ["it was more than 938 times greater."], "ja": "９３８倍を超える。"}
+{"id": 181972, "en": ["So then, even if Leviathan could soar at the speed of sound, 1225 km/h,", " ...to Kyrie's eyes, it only looked like "], "ja": "つまり、レヴィアタンが仮に音速１２２５ｋｍで飛翔していたとしても、 ……霧江の目にはその"}
+{"id": 181976, "en": ["1/938 of that."], "ja": "９３８分の１にしか見えない。"}
+{"id": 181983, "en": ["Which means, which means...1225÷938 is..."], "ja": "^^!s0　つまりつまり、１２２５÷９３８は、"}
+{"id": 181984, "en": ["...a speed of..."], "ja": "^^!d400…………時速、"}
+{"id": 181996, "en": ["1.30 km/h."], "ja": "１．３０ｋｍ。"}
+{"id": 182006, "en": ["...They say a human's walking speed is 4 km/h, so it was even less than half of that."], "ja": "…人の歩行速度が時速４ｋｍと言われるのだから、その半分すらも下回る。"}
+{"id": 182007, "en": ["This is almost the same speed as a baby crawling on the floor."], "ja": "これは赤ん坊が床を這うのとほぼ同じ速度。"}
+{"id": 182010, "en": ["Which means, which means, which means...!"], "ja": "つまりつまりつまり…！"}
+{"id": 182022, "en": ["In the time it took the demon stake to move at a pace so slow that you could count all the bits of dust floating through the air, ", "Kyrie looked at it with pity."], "ja": "宙を舞う埃の数を、完全に数え切れるくらいに鈍りきった鈍足の単位時間の中で、 霧江は憐れむように悪魔の杭を見る。"}
+{"id": 182028, "en": ["She pitied the slowness at which it came towards her."], "ja": "自分に向かってくる、その遅さを憐れむ。"}
+{"id": 182040, "en": ["Then, she lazily raised the barrel of her gun."], "ja": "そして面倒臭そうに銃口を向けた。"}
+{"id": 182041, "en": ["Almost as though she was trying to swallow the demon stake up with the gun barrel."], "ja": "まるで、銃口で悪魔の杭を飲み込もうとするかのように。"}
+{"id": 182047, "en": ["\"You're completely lacking in both romance and envy."], "voix": "kir", "ja": "^^!s0「恋も嫉妬も、あなた全然足りないわ。"}
+{"id": 182060, "en": ["...Try harder next time, little girl.\""], "voix": "kir", "ja": "……出直してらっしゃい、お嬢ちゃん。」"}
+{"id": 182111, "en": ["\"Rudolf, what happened to all that vigor from a couple seconds ago?", "  You're supposed to slice up a fish while it's still flopping around.", "  After it dies, it isn't interesting anymore."], "ja": "「留弗夫、先ほどまでの威勢はどこへぇ？ 　生き造りは魚が跳ねてる内がいいわ。 死んだら面白みも何もない。"}
+{"id": 182117, "en": ["  That's enough.", "  Why not kill you now?!\""], "ja": "もう充分よ。 殺しちゃえばぁ？！」"}
+{"id": 182125, "en": ["\"......Nng, ...damn it...\""], "voix": "rud", "ja": "「………く、……畜生……。」"}
+{"id": 182133, "en": ["\"I'm surprised you managed to endure this long after being carved up."], "ja": "「そこまで刻まれて、よくぞここまで堪えた。"}
+{"id": 182143, "en": ["  ...That's enough.", "  From now on, you don't need to think about anything.", "  I'll steal away your life painlessly...!\""], "ja": "……もう充分だ。 後は何も考えなくて良い。 痛みなく生を奪い去ってやる…！」"}
+{"id": 182149, "en": ["\"Wait, ...there's a favor I wanna ask.", "  At the very end, I wanna do one of those...\""], "voix": "rud", "ja": "「待ってくれ…、頼みがある。 最後にアレがやってみてぇ…。」"}
+{"id": 182156, "en": ["\"...What do you mean, one of those?\""], "ja": "「……アレとは何か。」"}
+{"id": 182164, "en": ["\"You know, that thing you see in all the Westerns.", "  We start with our backs together, walk three steps, and then *bang*.\""], "voix": "rud", "ja": "「西部劇名物のアレだよ。 背中を向け合ってから三歩歩いてズドンってヤツ。」"}
+{"id": 182170, "en": ["\"......Ah, a duel."], "ja": "「…………決闘か。"}
+{"id": 182175, "en": ["  Very well.", "  If that will satisfy your regrets in this world, I'll accept.\""], "ja": "良かろう。 それにて今生の未練が尽きるならば受けてやる。」"}
+{"id": 182188, "en": ["Rudolf moved his wound-covered body and turned his back to her."], "ja": "留弗夫は傷だらけの体を起こし、背中を向ける。"}
+{"id": 182197, "en": ["Belphegor responded and turned her back to his."], "ja": "ベルフェゴールもそれを受け、背中を向かい合わせる。"}
+{"id": 182200, "en": ["...Belphegor had an honest nature that was uncommon in a witch's furniture."], "ja": "…ベルフェゴールには魔女の家具らしくない律儀さがあった。"}
+{"id": 182211, "en": ["\"Let me warn you.", "  Even if you press the barrel of your gun between my eyebrows,", " I can move instantaneously, even faster than you could pull the trigger and have the bullet reach my skull.\""], "ja": "「言っておく。 例え、私の眉間に銃口を付きつけたとしても。 私はお前が引き金を引き、私の頭蓋骨に弾丸が至るよりも早く、瞬間移動することができる。」"}
+{"id": 182220, "en": ["\"...Yeah, I can feel that already.", "  ...You're faster than a bullet.\""], "voix": "rud", "ja": "「……あぁ、そいつはもう骨身に染みてるぜ。 …お前は銃弾より速い。」"}
+{"id": 182231, "en": ["\"I have agreed to this out of respect for your courage in challenging me to a duel despite that knowledge.", "  Thank me.\""], "ja": "「それを知りつつ決闘を挑むお前の度胸に敬意を表し、付き合うのだ。 感謝せよ。」"}
+{"id": 182240, "en": ["\"...Well, you're an honest and principled person.", "  And a good woman.", "  You might just steal my heart away.\""], "voix": "rud", "ja": "「……お前は律儀なヤツだな。 いい女だ。 惚れそうだぜ。」"}
+{"id": 182249, "en": ["\"Let's begin.", "  Three steps will do fine, yes?"], "ja": "「始めるぞ。 ３歩で良いのだな？"}
+{"id": 182266, "en": ["  ......First, one step.\""], "ja": "………まずは１歩。」"}
+{"id": 182281, "en": ["\"...Two steps.\""], "voix": "rud", "ja": "「……そして２歩。」"}
+{"id": 182295, "en": ["\"...Three steps.", "  Is that okay?\""], "ja": "「……３歩だ。 これでいいのか？」"}
+{"id": 182305, "en": ["\"Yep.", "  ...And, since you still haven't noticed after walking three whole steps,", " ...it's my victory, miss.\""], "voix": "rud", "ja": "「あぁ。 ……そして、３歩も歩いてまだ気付かねぇなら。 ……俺の勝ちだな、お嬢ちゃん。」"}
+{"id": 182315, "en": ["\"What...?!"], "ja": "「何ぃ……ッ？"}
+{"id": 182325, "en": ["  ............Ah...!\""], "ja": "………………………あ…ッ…！」"}
+{"id": 182341, "en": ["Rudolf turned around and fired a bullet."], "ja": "留弗夫が振り返り、銃弾を放つ。"}
+{"id": 182344, "en": ["...However, Belphegor could easily see through the speed and trajectory of a bullet like that."], "ja": "……もっとも、ベルフェゴールにとって、そんな弾丸など、速度も軌道も全て見切れている。"}
+{"id": 182347, "en": ["It should have been no problem at all to dodge it."], "ja": "かわすことなんて造作もないはずだった。"}
+{"id": 182369, "en": ["But a spray of fresh blood flew about."], "ja": "しかし鮮血の飛沫が飛び散る。"}
+{"id": 182372, "en": ["...Belphegor had set up an adequate magical defensive barrier."], "ja": "……ベルフェゴールにも充分な魔法的防御結界が張られている。"}
+{"id": 182375, "en": ["But before an incarnation of anti-magic power such as that bullet, it was completely meaningless."], "ja": "しかし反魔法力の結晶である銃弾の前には何の意味もなかった。"}
+{"id": 182383, "en": ["\"......What are you doing?", "  Why'd you get hit...?!\""], "ja": "「………何やってんのよ。 何、当たっちゃってんの…！」"}
+{"id": 182391, "en": ["The bullet had hit Belphegor right in the chest."], "ja": "ベルフェゴールの胸部に、弾丸は命中していた。"}
+{"id": 182392, "en": ["...The pain from the lead caused her to grimace, as did the pain from the denial of magic..."], "ja": "…その鉛の痛みと、魔法を否定する痛みに、彼女は顔を歪める…。"}
+{"id": 182400, "en": ["\"...Forgive me.", "  I'm a coward of a man.\""], "voix": "rud", "ja": "「……許せ。 俺は卑怯な男だ。」"}
+{"id": 182410, "en": ["\"......Nnnggg..."], "ja": "^^!s1「………………く、"}
+{"id": 182412, "en": ["...ggghh...\""], "ja": ":voicedelay 360^^……………ぅ…。」"}
+{"id": 182430, "en": ["\"Wh-What a killjoy.", "  To think that furniture of a witch could be defeated by a Human...!"], "ja": "「きょ、…興醒めだわ。 魔女の家具ともあろう者が、ニンゲンに敗れるなんて…！"}
+{"id": 182435, "en": ["  Know your shame.", "  Worthless, pathetic...!", "  If only you'd just grovel and die!!\""], "ja": "恥を知りなさいよ。 情けない、見っとも無い…！ 　勝手に這いつくばって死んじゃえばぁ？！」"}
+{"id": 182442, "en": ["\"......Quit it, Aneki.", "  ...She could've dodged it.", "  But she didn't.\""], "voix": "rud", "ja": "「………やめな、姉貴。 …こいつはかわせたんだ。 だがかわさなかった。"}
+{"id": 182449, "en": ["\"...She realized that you were in the line of fire, Aneki.", "  So this faithful girl took it without dodging, protecting you.", "  At the very end, she saw that I was pinning the rook and the king.\""], "voix": "rud", "ja": "……射線上に姉貴がいることに気付いたのさ。 だから律儀なこいつは、かわさずに受けて、姉貴を庇ったんだ。 王手飛車取りに、最後に気付いたんだ。」"}
+{"id": 182471, "en": ["\"...S-Spectacular......\""], "ja": "「み、………見事…………。」"}
+{"id": 182478, "en": ["\"Don't hate me for it.", "  ...I planned to resign if you noticed it while you were taking those three steps.\""], "voix": "rud", "ja": "「悪く思うな。 …お前が３歩歩く間にそれに気付けたら、俺は観念するつもりだったんだ。」"}
+{"id": 182488, "en": ["\"......You added those three steps..."], "ja": "^^!s1「…………あの３歩は、"}
+{"id": 182490, "en": ["out of consideration..."], "ja": ":voicedelay 3560^^…私への、"}
+{"id": 182492, "en": ["...for me, didn't you...?"], "ja": ":voicedelay 990^^…手心だったか…。"}
+{"id": 182502, "en": ["  ......I didn't even try to think about it.", "  ...I..."], "ja": "………考えようともしなかった。 ……私は、"}
+{"id": 182504, "en": ["was..."], "ja": ":voicedelay 900^^……怠惰だ、"}
+{"id": 182506, "en": ["lazy......\""], "ja": ":voicedelay 860^^…った………。」"}
+{"id": 182528, "en": ["\"...You were a good woman.", "  Go to heaven before me and get yourself all made up.", "  I'll definitely come and chat you up.\""], "voix": "rud", "ja": "「……お前はいい女だったぜ。 先に天国で化粧して待ってろ。 きっと口説きに行くからな。」"}
+{"id": 182539, "en": ["As Belphegor slowly fell over, ...she lost even the power that kept her in human form,", " and she grew small, like gold dust, melting into thin air..."], "ja": "ベルフェゴールはゆっくりと倒れると、…人型を形作る力をも失い、 砂金のように細かくなって、宙に溶けていく…。"}
+{"id": 182545, "en": ["At that point, Kyrie dashed in."], "ja": "そこへ霧江が駆け込んでくる。"}
+{"id": 182546, "en": ["It seemed that she had somehow defeated her pursuer by her own hands."], "ja": "どうやら、自身の追っ手を自らの手で倒したらしい。"}
+{"id": 182549, "en": ["As she pointed the barrel of her gun straight at the witch, she ran up to the wound-covered Rudolf."], "ja": "銃口を真っ直ぐに魔女に向けながら、傷だらけの留弗夫の元へ駆け寄った。"}
+{"id": 182557, "en": ["\"...Are you okay?", "  Were you chatting someone up just now?\""], "voix": "kir", "ja": "「……大丈夫？　 今、誰か口説いてなかった？」"}
+{"id": 182563, "en": ["\"Yep, a good woman.", "  ...No match for you, of course."], "voix": "rud", "ja": "「あぁ、いい女だったぜ。 …もちろんお前の次程度にさ。"}
+{"id": 182570, "en": ["  ......Sorry, Aneki."], "voix": "rud", "ja": "…………悪いな、姉貴。"}
+{"id": 182575, "en": ["  It's checkmate.\""], "voix": "rud", "ja": "チェックメイトだぜ。」"}
+{"id": 182579, "en": ["The two of them pinned the witch down the barrels of their guns."], "ja": "二人の銃口が魔女を捉える。"}
+{"id": 182588, "en": ["\"......Worthless furniture.", "  ...To think they'd be beaten by Human opponents.", "  ...Worthless.", "  Stupid.", "  ...Boring...!\""], "ja": "「…………情けない家具たちね。 …ニンゲン相手に遅れを取るなんて。 …情けない。 下らない。 …つまらない…！」"}
+{"id": 182596, "en": ["\"Beatrice-sama, we should retreat for now.", "  ...There is no furniture or barrier to guard against bullets here.\""], "voix": "ron", "ja": "「ベアトリーチェさま、ここは退くべきです。 ……銃弾を防ぐ結界も家具もここにはありませんよ。」"}
+{"id": 182609, "en": ["\"Eheheheh, "], "ja": "「ふっふふふ、"}
+{"id": 182611, "en": ["...*cackle*cackle*cackle*cackle*!\""], "ja": ":voicedelay 2650^^……くっくくくくっくっくっく！」"}
+{"id": 182618, "en": ["The witch began to let out a muffled laugh."], "ja": "魔女はくぐもった笑い声を漏らし始める。"}
+{"id": 182623, "en": ["...It surprised not only Rudolf and Kyrie, but Ronove as well."], "ja": "…それは留弗夫や霧江だけでなく、ロノウェをも驚かすものだった。"}
+{"id": 182626, "en": ["......Because a situation like this, with two guns pointed at her, ", "was not one that even a witch could just laugh off."], "ja": "………２丁の銃を向けられた今の状況は、 例え魔女であっても断じて笑い飛ばせるものではないからだ。"}
+{"id": 182629, "en": ["But the witch laughed with pleasure."], "ja": "しかし魔女は愉快だと笑う。"}
+{"id": 182636, "en": ["\"......Well, it's only natural that the Predecessor-sama's worn out furniture couldn't do it."], "ja": "「………そりゃあ、先代さまの使い古しの家具じゃ無理で当然ね。"}
+{"id": 182641, "en": ["  ...I need to get new furniture that's suitable for me.", "  I used them out of obligation,", " ...but I've always hated second-hand stuff.\""], "ja": "……私には私に相応しい、新しい家具じゃないと駄目よ。 私、義理で使ったけど。 ……元々、お古は嫌いなの。」"}
+{"id": 182645, "en": ["As she said that, she looked down at Belphegor's remains, which had already finished turning into a pile of gold dust, with disgust."], "ja": "そう言い放ちながら、もはや砂金の山と成り果ててしまったベルフェゴールの遺骸を汚らわしく見下ろす。"}
+{"id": 182657, "en": ["\"I don't know what you're talking about.", "  Be a good girl and put your hands up.\""], "voix": "rud", "ja": "「何の話をしてるかわからねぇぜ。 大人しく両手を上げやがれってんだ。」"}
+{"id": 182665, "en": ["...Then, the witch obediently raised her hands."], "ja": "…すると魔女は素直に手を上げた。"}
+{"id": 182668, "en": ["But instead of raising her hands because a gun was being pointed a her,", " it looked more like she was a conductor facing an orchestra, waving her conductor's baton."], "ja": "しかしそれは銃を突きつけられて両手を挙げるという仕草よりは、 まるで指揮者がオーケストラボックスに向けて指揮棒を振り上げる時の仕草によく似ていた。"}
+{"id": 182678, "en": ["\"Come, arise, furniture suitable for me...!!", "  Not that cheap furniture, much stronger ones!", "  Cruel ones!!"], "ja": "「さぁさお出でなさい、私に相応しき家具たち…！！ 　あんな安っぽい家具じゃなくて、もっともっと強力な！ 　残酷なッ！！"}
+{"id": 182682, "en": ["  Ahhahahahahahahahahahahyahhyahhya!!!\""], "ja": "あっはははははははははひゃっひゃっっひゃッ！！！」"}
+{"id": 182690, "en": ["\"Stop this bizarre act...!", "  I'll pull the trigger...\""], "voix": "kir", "ja": "「妙な真似は止めて…！ 　引き金を引くわ…！」"}
+{"id": 182701, "en": ["In response to the witch's call, the hall was once again buried with the color of gold."], "ja": "魔女の呼びかけに応じ、再びホールが金色で埋め尽くされる。"}
+{"id": 182704, "en": ["As the brilliantly radiant gold butterflies danced,", " ...it felt as though they were being sucked into an ocean of gold leaf."], "ja": "それはあまりにも眩しい黄金蝶たちの乱舞で、 …まるで金箔の海に飲み込まれたようにさえ感じた。"}
+{"id": 182707, "en": ["Ronove was shocked at that upsurge in magical power...", "  After all, it far surpassed that of his former master."], "ja": "その魔力の高まりに、ロノウェは呆然とする…。 それはかつての主さえも遥かに超えるからだ。"}
+{"id": 182713, "en": ["As their eyes were dazzled amidst this golden flash, a gunshot could be heard.", "  Either Rudolf or Kyrie had fired a round."], "ja": "その目も眩む黄金の輝きの中、銃声が聞こえた。 留弗夫か霧江のどちらかが発砲したのだ。"}
+{"id": 182721, "en": ["...Then, when the golden flash subsided, at the very least the witch was standing there, looking cool and composed."], "ja": "……そして、その黄金の輝きが収まった後には、少なくとも平然とした魔女の姿があった。"}
+{"id": 182724, "en": ["The bullet?", "  Kyrie must have fired it into her."], "ja": "弾は？ 　霧江は確かに撃ち込んだはず。"}
+{"id": 182727, "en": ["But the witch had not been hit anywhere on her body."], "ja": "しかしそれは魔女の体のどこにも撃ち込まれてはいない。"}
+{"id": 182733, "en": ["There it is.", "  ...The bullet had been fastened in midair right in front of the witch's chest."], "ja": "あった。 …弾は魔女の胸の直前で虚空に縫い止められていた。"}
+{"id": 182742, "en": ["\"...A-A bullet-proof barrier......!\""], "voix": "ron", "ja": "「ぼ、……防弾結界ッ………。」"}
+{"id": 182747, "en": ["In an instant, a barrier that would require a significant amount of preparation even for the Predecessor had been...", "  Ronove's face was twisted in shock."], "ja": "先代ですら充分な準備を必要とした結界を、瞬時に…。 ロノウェの顔は今や驚愕に歪む。"}
+{"id": 182748, "en": ["And, the surprises did not end there..."], "ja": "そして、その驚きはそれだけに留まらない……。"}
+{"id": 182760, "en": ["The cloud of gold butterflies had created two humanoid forms."], "ja": "黄金の蝶たちの群が、２つの人型を生み出す。"}
+{"id": 182771, "en": ["...It was a furniture summoning."], "ja": "……それは家具の召喚。"}
+{"id": 182778, "en": ["The butterflies peeled off and flew away, and beneath them, furniture in the shape of girls showed themselves."], "ja": "蝶たちが剥がれ飛び、その下より、少女たちを模した家具が姿を現す。"}
+{"id": 182789, "en": ["\".........The Chiester Sisters Corps...", "  ......Even the Predecessor..."], "voix": "ron", "ja": "「………………シエスタの姉妹兵…。 ………先代さまでも、"}
+{"id": 182791, "en": ["...wasn't able to summon Pendragon's Memorial Troops on a moment's notice, and to do it so easily...!\""], "voix": "ron", "ja": ":voicedelay 1280^^……おいそれと呼び出せなかった、ペンドラゴンの記念兵を、いとも容易く…！」"}
+{"id": 182807, "en": ["\"Chiester 410.  Riiight here.\""], "ja": "「シエスタ４１０。ここにぃ。」"}
+{"id": 182814, "en": ["\"Chiester 45.  Right here.\""], "ja": "「シエスタ４５。ここに。」"}
+{"id": 182823, "en": ["\"...You two are suitable furniture for me, I take it?\""], "ja": "「…私に相応しい家具なんでしょうね、あんたたちは？」"}
+{"id": 182830, "en": ["\"From reading a picture book out aloud, to going on a date, to shooting down meteorites,", " we'll take care of anything.  Nihihi.\""], "ja": "「絵本の朗読から同伴デートに隕石撃墜まで、 幅広くお応えしますよ。にひひ。」"}
+{"id": 182837, "en": ["\"I-If we don't take care of it, Pendragon-sama will get mad at us...!", "  Please, your orders, Great Lady Beatrice!\""], "ja": "「おっ、お応えしないと竜王さまに怒られます…！ 　何卒ご命令を、大ベアトリーチェ卿！」"}
+{"id": 182848, "en": ["\"......Rudolf-san,", " let's run for it.", "  We're no match for these ones...!\""], "voix": "kir", "ja": "「………留弗夫さん。 逃げましょう。 こいつらは駄目だわ……！」"}
+{"id": 182855, "en": ["\"...S-Sure!\""], "voix": "rud", "ja": "「お、………おうッ！」"}
+{"id": 182861, "en": ["Kyrie definitely heard warning sirens going off in her head, ", "thanks to the same feeling that had alerted her to the ambush by the Seven Sisters of Purgatory."], "ja": "煉獄の七姉妹の待ち伏せを予見したのと同じ直感が、 悲鳴にも似た警鐘を鳴らすのを霧江は確かに聞いた。"}
+{"id": 182865, "en": ["Without hesitation, they escaped."], "ja": "霧江たちは躊躇することなく逃げ出す。"}
+{"id": 182871, "en": ["As the witch elegantly watched them leave, she commanded her new furniture."], "ja": "魔女はその背中を優雅に見送りながら、新しき家具たちに命ずる。"}
+{"id": 182877, "en": ["\"...This is an order.", "  Kill the two who ran away."], "ja": "「…命令よ。 逃げた２人を殺して。"}
+{"id": 182882, "en": ["  Then bring the corpses back here.", "  I'll bring 'em back to life and play with them over and over."], "ja": "そして死体をここへ持ち帰りなさい。 そしたら生き返らせて、何度も遊ぶのよ。"}
+{"id": 182886, "en": ["  ...*cackle*cackle*cackle*cackle*cackle*!!\""], "ja": "…くっくくくくくくくくく！！」"}
+{"id": 182890, "en": ["The witch's expression twisted into an evil smile."], "ja": "魔女の表情が邪悪な笑みで歪む。"}
+{"id": 182893, "en": ["Even though she feared that expression, Lucifer appeared and spoke."], "ja": "その表情を恐れながらも、ルシファーが現れて進言する。"}
+{"id": 182901, "en": ["\"F-Forgive my presumption,", " ...but the Predecessor-sama asked that you avoid brutal actions of that sort...\""], "ja": "「お、…恐れながらっ。 …先代さまよりそのような残酷行為は慎むようにと…、」"}
+{"id": 182909, "en": ["When the witch stared at her with those terrifying eyes, Lucifer was struck dumb."], "ja": "魔女がぎょろりと恐ろしい目で睨みつけると、ルシファーは閉口する。"}
+{"id": 182913, "en": ["...She was frustrated."], "ja": "…不満なのだ。"}
+{"id": 182914, "en": ["It was so boring, not being able to let her own power and cruelty run wild."], "ja": "自らの持つ力と、自らの持つ残酷さを存分に解放できないことが退屈なのだ。"}
+{"id": 182917, "en": ["...This annoying furniture of the Predecessor kept telling her to show restraint, bringing her irritation to a peak."], "ja": "……それを自重しろという先代の家具は鬱陶しく、彼女の不満は頂点だった。"}
+{"id": 182924, "en": ["\"Oh, it's Lucifer of Pride.", "  Long time no see nyeh, how ya doin'?", "  Let's play together again sometime.", "  Nihhihihihihihi!\""], "ja": "「傲慢のルシファーちゃんじゃない。 お久し振りにぇ、元気ぃ？ 　また今度一緒に遊びましょうね。 にっひひひひひひ！」"}
+{"id": 182932, "en": ["\"Y-You mustn't whisper, 410, you'll get in trouble...!", "  Let us carry out the Great Lady Beatrice's order at once...!\""], "ja": "「よ、４１０、私語は駄目です、怒られます…！ 　大ベアトリーチェ卿のご命令を迅速に遂行を…！」"}
+{"id": 182938, "en": ["\"Nihi.", "  Well, yeah, we are on the job right now nyeh."], "ja": "「にひ。 お仕事の時間だにぇ。"}
+{"id": 182946, "en": ["  ...410, roger that.", "  Preparing for Sniping Pursuit Combat.\""], "ja": "……４１０了解。 追撃狙撃戦準備。」"}
+{"id": 182957, "en": ["\"Accumulating Terrain Data, Accumulating Data for Firing.", "  Data Link with 410.\""], "ja": "「地形データ収集、射撃用データ収集。 ４１０へデータリンク。」"}
+{"id": 182967, "en": ["\"410, Data Received.", "  Target Lock Acquired.", "  Commencing Terrain Calculation Error Correction.", "  Formulating Firing Curve, Supplemental Control Point Calculations Complete.", "  Data Link to 45.\""], "ja": "「４１０データ受領。 標的を捕捉。 地形誤差修正。 射撃曲線形成、制御点補正完了。 ４５へデータリンク。」"}
+{"id": 182977, "en": ["\"45, Data Received.", "  Checking Hazard Zone...ah, that's no good!\""], "ja": "「４５データ受領。 危険区域確認、……あ、そこはダメです！」"}
+{"id": 182986, "en": ["\"Lucifer-chan, better get out from behind us, ", "or you'll get roasted by the backblast.  Nihi!\""], "ja": "「後ろ邪魔だよルシファーちゃん、 バックファイアで焼けるよ？　にひ！」"}
+{"id": 182993, "en": ["\"......Nng...\""], "ja": "「………う…、」"}
+{"id": 183000, "en": ["Thanks to their paired measurements, ", "the Chiester Sisters were able to instantly calculate the terrain throughout the mansion and the coordinates of their targets,", " as well as a firing curve to reach them."], "ja": "シエスタの姉妹は相互測量により、 瞬時に屋敷内の地形と標的の座標、そしてそこへ至る射撃曲線を計算する。"}
+{"id": 183005, "en": ["...That's right, their shots could be guided to follow a curved line."], "ja": "…そう、彼女らの射撃は曲線を描き誘導できる。"}
+{"id": 183006, "en": ["None could escape."], "ja": "如何なる者も逃れることはできない。"}
+{"id": 183009, "en": ["The precision guidance used by the Seven Sisters of Purgatory was nothing more than a cheap knockoff of the ability these two held."], "ja": "煉獄の七姉妹の精密誘導能力は、彼女たちの能力の廉価版でしかないのだ。"}
+{"id": 183028, "en": ["\"45, Firing Preparations Concluded.", "  Ammo Type Selected and Loaded.\""], "ja": "「４５、射撃準備完了。 弾種選定、装填。」"}
+{"id": 183032, "en": ["As the two of them faced each other,", " it was as though they were both pulling back a bowstring together..."], "ja": "彼女たち二人が向かい合うように。 そしてまるで、ひとつの弓を互いに引き合うように。"}
+{"id": 183038, "en": ["...A dazzling gold arrow was readied there."], "ja": "…そこに眩い黄金の矢が構えられる。"}
+{"id": 183047, "en": ["\"410, nihi.", "  Firing.\""], "ja": "「４１０、にひ。 射撃。」"}
+{"id": 183051, "en": ["After giving that announcement, they released a single arrow together."], "ja": "彼女たちが射撃を宣言すると、二人で一本の矢が放たれる。"}
+{"id": 183065, "en": ["As the path taken by the gold-sparkling snake of light drew a curve,", " it followed the direction that Rudolf and Kyrie had escaped to in rapid pursuit."], "ja": "黄金色に輝く光の蛇が美しい曲線の軌跡を描きながら、 それは留弗夫たちが逃げた方へ高速で追跡していく。"}
+{"id": 183069, "en": ["It turned through the corridors, crawled over the floor, chasing them as it drew a beautiful curve."], "ja": "廊下を曲がり、床を這い、美しい曲線を描きながら追って行く。"}
+{"id": 183112, "en": ["No one could block the guided shots of the Chiester Sisters."], "ja": "シエスタ姉妹の誘導弾は誰も防げない。"}
+{"id": 183113, "en": ["No one could escape from them."], "ja": "逃れられない。"}
+{"id": 183114, "en": ["And their strength could pierce all physical and magical defenses."], "ja": "そして物理的魔法的なあらゆる防御を強力に貫通できる。"}
+{"id": 183117, "en": ["...It was quite a merciless guided weapon of certain death."], "ja": "……それはあまりに無慈悲な必殺の誘導兵器。"}
+{"id": 183121, "en": ["However, among mythical-class soldiers, it was a weapon used by pretty much everyone."], "ja": "しかし、神話級の兵士ならば、誰もが割りと持つ武器なのだ。"}
+{"id": 183122, "en": ["It was very commonplace for them...and very extraordinary for those of the everyday world."], "ja": "彼女らにとってはあまりに平凡で、…そして俗世にある者にとってあまりに非凡。"}
+{"id": 183131, "en": ["\"Wh-What the...?!\""], "voix": "rud", "ja": "「な、何だ…！？」"}
+{"id": 183135, "en": ["When he noticed something rapidly chasing them and turned around..."], "ja": "何かが高速で追ってくることに気付き、振り返った時。"}
+{"id": 183191, "en": ["The exact position of Rudolf's heart was pierced by the gold snake.", "  It all happened in an instant."], "ja": "その黄金の蛇によって、留弗夫は心臓の位置を正確に撃ち抜かれた。 一瞬の出来事だった。"}
+{"id": 183199, "en": ["\"R-Rudolf-san...?!\""], "voix": "kir", "ja": "「る、留弗夫さん……？！」"}
+{"id": 183203, "en": ["After the gold snake pierced Rudolf, ", "it swooped down to the floor, drawing a beautiful spiral, coiled itself around Kyrie's legs, and crawled up to her chest."], "ja": "黄金の蛇は留弗夫を貫いた後、 美しい螺旋を描きながら床に舞い降りて、霧江の足に絡みつくようにして胸まで這い登る。"}
+{"id": 183257, "en": ["And just like Rudolf, it pierced the exact location of her heart."], "ja": "そして留弗夫と同じく心臓の位置を正確に撃ち抜いた。"}
+{"id": 183261, "en": ["...And all of that happened in an instant."], "ja": "…それは何れも一瞬の出来事。"}
+{"id": 183262, "en": ["It pierced Rudolf, and then Kyrie."], "ja": "留弗夫を貫き、霧江を貫く。"}
+{"id": 183266, "en": ["So they died, dropped to their knees, and fell over at almost the exact same time."], "ja": "だから二人はほぼ同時に絶命し、同時に膝を落として同時に倒れた。"}
+{"id": 183288, "en": ["\"...What's thiiis?", "  Talk about overwhelming, ahhahahahahahahahahahahaha!", "  Ridiculously easy, isn't it?"], "ja": "「……何これぇ？ 　圧倒的じゃない、あっははははははははははは！ 　馬鹿馬鹿しいくらいにあっさりね。"}
+{"id": 183291, "en": ["  Kuhhihihyahyahyahyahya!", "  This is the kind of furniture I need.", "  Way different from Predecessor-sama's second-hand furniture!\""], "ja": "くっひひひゃひゃひゃひゃひゃ！ 　私にはこういう家具が向いてるわ。 先代さまの中古家具とは大違い！"}
+{"id": 183297, "en": ["\"Come on, bring their corpses here.", "  I'll keep reviving them until I'm bored, and I'll try killing them in as brutal a way as I can think of.", "  Aaah, to think being a witch could be so much fun, ", "that taking a life could be so much fun, ahhahahahahahahahahahaha!\""], "ja": "さぁ、二人の死体をここへ。 飽きるまで何度でも蘇らせて、思いつく限りの残虐な殺し方を試してやるの。 あぁ、魔女がこんなにも楽しいなんてッ、 命を奪うことがこんなにも楽しいなんてッ、あっははははははははははは！」"}

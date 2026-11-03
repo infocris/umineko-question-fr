@@ -1,0 +1,593 @@
+{"id": 148493, "en": ["\"Indeed.", "  You should never underestimate Father.", "  ...Father's madness can't be understood by normal people.\""], "voix": "kla", "ja": "「うむ。 親父殿に関してだけは、見くびらん方がいい。 ……親父の狂気は、常人の思考では理解にも及ばん。」"}
+{"id": 148500, "en": ["I wouldn't put it past `that' Kinzo."], "ja": "“あの”金蔵ならやりかねない。"}
+{"id": 148503, "en": ["...As long as you stick to this phrase, a considerable amount of credibility can dwell in any absurd story."], "ja": "…この枕詞が付く限り、どんな荒唐無稽な話にも少なからずの信憑性が宿った。"}
+{"id": 148506, "en": ["However, that didn't cause the importance of what Kyrie had said to waver."], "ja": "しかし、それでも霧江の言い分は揺るぐものではない。"}
+{"id": 148509, "en": ["This was different from stealthily raising a kitten in a cardboard box and keeping it a secret from your parents."], "ja": "こっそりと、親に内緒で段ボール箱に猫を飼うのとはわけが違う。"}
+{"id": 148512, "en": ["Taking care of a person in secret over a period of 30 years would be an incalculably massive task..."], "ja": "人間ひとりを３０年にもわたって秘密に世話するなんて、その手間は計り知れないくらいに膨大だろう…。"}
+{"id": 148519, "en": ["\"...After all, Father's Legend of the Gold started before he gained possession of Rokkenjima.", "  That'd mean his relationship with his mistress was over 30 years long..."], "voix": "hid", "ja": "「……お父さんの黄金伝説は、六軒島を取得する前からや。 となると、その愛人との縁は３０年以上ということになるな…。"}
+{"id": 148524, "en": ["  How old would that make her?", "  In the worst case, she could be as old as us or older, right?\""], "voix": "hid", "ja": "ってことは、今はいくつなんや ？　下手をしたら、わしらと同じかそれ以上の年齢とちゃうか？"}
+{"id": 148530, "en": ["\"...By that age, the body starts to break down.", "  I don't care what the mansion's like, I wouldn't use the word `agreeable' to describe livin' in a place where people's eyes can't reach, almost like she was under house arrest...\""], "voix": "hid", "ja": "…体にもボロが出る年頃のはずや。 どんな屋敷か知らんが、人目に触れんような、ほとんど軟禁に近い生活は、そう快適とは言えんやろなぁ…。」"}
+{"id": 148537, "en": ["\"That's right.", "  ...If what Father told us about Beatrice is true, then that relationship has lasted for over 30 years."], "voix": "eva", "ja": "「そうね。 …お父様が語るベアトリーチェについての話が正しいなら、その縁は３０年以上。"}
+{"id": 148543, "en": ["  ...She might've been a charming young woman at the time, but it probably makes sense to assume she's an old bag like us now.", "  I can easily imagine that, given the contents of that letter.\""], "voix": "eva", "ja": "……当時は魅惑的な若い女性だったかもしれないけど、今は私たちと同格の、タフな食えない女と考えるのが妥当でしょうね。 手紙の内容からもそれは容易に想像できるわ。」"}
+{"id": 148549, "en": ["\"You should talk.", "  Heheheh.\""], "voix": "kla", "ja": "「お前が言うか。 くっくっく。」"}
+{"id": 148553, "en": ["Krauss laughed as if none of this applied to him."], "ja": "自分のことを棚に上げて、とでも言うように蔵臼が笑う。"}
+{"id": 148554, "en": ["Of course, Eva was offended, but she didn't strike back."], "ja": "絵羽はもちろんカチンと来たようだが、買い言葉は返さなかった。"}
+{"id": 148560, "en": ["\"Quit it, Aniki.", "  ...So if everything we're thinking's true, then she should be joining in on Dad's inheritance problem with her head held high."], "voix": "rud", "ja": "「よせよ兄貴。 ……そして俺たちの想像が本当なら、親父の遺産問題に彼女は胸を張って参加したいはずなんだ。"}
+{"id": 148566, "en": ["  After all, ...there's a good chance their love was mutual, unlike with Mom.", "  Even if she knows she's his mistress, she might also be proud to be his true wife.\""], "voix": "rud", "ja": "何しろ、…お袋と違い、相思相愛だった可能性が高いからな。 本人には、愛人の自覚と同時に、正妻としての誇りもあるかもしれない。」"}
+{"id": 148574, "en": ["\"......That is an insult to Mother.\""], "voix": "nat", "ja": "「………それはお母様への侮辱に当たりますよ。」"}
+{"id": 148580, "en": ["\"Yeah, sorry."], "voix": "rud", "ja": "「あぁ、すまん。"}
+{"id": 148586, "en": ["  ...However, everyone knows that it was a political marriage decided on by the elders among his relatives.", "  ...Because of that, it definitely wouldn't be strange for Dad to have a mistress.\""], "voix": "rud", "ja": "…だが、親父とお袋が、親戚の長老たちによる政略結婚だったことは誰もが知ってる。 …だからこそ、親父に愛人がいてもおかしくないと確信できるわけだがな。」"}
+{"id": 148597, "en": ["The family sank after the Great Kanto Earthquake, and Father was set up as the Ushiromiya Family Head against his will."], "ja": "関東大震災でお家が傾き、金蔵は望まずして右代宮家の当主に担ぎ出された。"}
+{"id": 148601, "en": ["However, in the beginning, the elder relatives treated Kinzo like a dummy and influenced him powerfully, almost like he was a puppet."], "ja": "しかし、当初の金蔵は、それを傀儡にしようという親戚の長老たちの強い影響下にあり、操り人形も同然だった。"}
+{"id": 148604, "en": ["He wasn't permitted to decide anything by himself, not even his marriage partner..."], "ja": "自分では何も決めることが許されず、婚姻の相手すらも拒めなかった…。"}
+{"id": 148606, "en": ["...Ever since he met that Golden Witch Beatrice in those distant days,", " Kinzo's Legend of the Gold was quickly embellished into something dramatic."], "ja": "……金蔵の黄金伝説は、そんな灰色の日々に、 黄金の魔女ベアトリーチェに出会うことにより、急にドラマチックなものに彩られていく。"}
+{"id": 148614, "en": ["In other words, "], "ja": "^^!s0　それはつまり、"}
+{"id": 148616, "en": ["...it could mean..."], "ja": "^^!d800…金蔵が本当に愛する女性に出会った、"}
+{"id": 148618, "en": ["that Kinzo really did find a woman he loved."], "ja": "^^!d900ということなのかもしれない。"}
+{"id": 148628, "en": ["If she also knew the whole story, ", "even if they weren't marriage partners, it wouldn't have been odd for her to consider herself his true wife inside her heart."], "ja": "その経緯を彼女も知るならば、 婚姻関係にはなくても、心の中では正妻の自覚を持っていたとしても何の不思議もない。"}
+{"id": 148631, "en": ["...And now, the person registered as his true wife was already dead..."], "ja": "…そして、戸籍上の正妻はもう死んでいる…。"}
+{"id": 148642, "en": ["\"...Which means she might feel confident staking her claim, not just for the rights to his assets, but regarding the battle over the Headship too.\""], "voix": "hid", "ja": "「…となると、財産権どころか、家督争いにも食い込む気、満々ってことになるで。」"}
+{"id": 148649, "en": ["\"......I see.", "  I'm starting to see the purpose of this letter.", "  The Headship goes to the one who solves the riddle of the epitaph...", "  Is that what it means...?\""], "voix": "kla", "ja": "「………なるほどな。 この手紙の趣旨が少しだけ見えてきたよ。 碑文の謎を解く者に家督を…。 そういう意味か。」"}
+{"id": 148656, "en": ["\"Even if that mistress was added into the family ranking system, she isn't a direct relative of Father, so she'd be inferior even to the children."], "voix": "eva", "ja": "「仮に、その愛人が右代宮家に序列を得ていたとしても、その序列はお父様の血を直接引かない以上、子どもに劣る。"}
+{"id": 148662, "en": ["  ...In other words, she'd be one step below Rosa in rank.", "  That wouldn't be a good position to enter the battle for the Headship from.\""], "voix": "eva", "ja": "…つまり、序列は楼座より１つ下ね。 とても家督争いに加われるようなレベルじゃないわ。」"}
+{"id": 148670, "en": ["\"I see, so that's it.", "  ...If someone can solve the witch's riddle, they'll get the Headship regardless of rank.", "  In other words, it's the most advantageous condition Beatrice could possibly get, since she's got no chance otherwise.\""], "voix": "rud", "ja": "「そういうことか。 …魔女の碑文を解けば、序列に関係なく家督が継げる。 つまり、まったく可能性のないベアトリーチェにとってもっとも有利な条件ってわけだ。」"}
+{"id": 148678, "en": ["The revival of the Ushiromiya family was made possible by the gold Beatrice had bestowed."], "ja": "右代宮家の復興は、ベアトリーチェが黄金を授けたことによって成し遂げられた。"}
+{"id": 148679, "en": ["...That was quite a distinguishing service she had provided."], "ja": "…つまり、彼女の手柄ということになる。"}
+{"id": 148682, "en": ["She had built that wealth together with Kinzo, so it was natural that she would think of herself as the one who should inherit it...", "  It would also be natural for her to despise the thought of giving it up to the children of the wife Kinzo never loved."], "ja": "自分と金蔵の二人で築いた財産なのだから、それを引き継ぐのは自分だと考えるのは自然な流れ…。 愛のない妻から生まれた子どもたちに、ビタ一文譲るものかと考えるのも、これもまた自然な流れだろう。"}
+{"id": 148691, "en": ["\"H-How could she be so impudent...?!", "  Even if such a mistress actually exists, joining in on the battle for the rights to the Head's inheritance would be a reckless action far above her place!", "  What disregard for her own position...!\""], "voix": "nat", "ja": "「ず、図々しいにもほどがあります…！ 　仮に愛人が実在したとしても、当主継承権を争おうなど、身の程を弁えぬ暴挙です！ 　何という身の程知らず…！」"}
+{"id": 148695, "en": ["Natsuhi turned red, her fist quivering."], "ja": "夏妃は真っ赤になって握り拳を振るわせた。"}
+{"id": 148701, "en": ["...She had also come into the Ushiromiya register due to complicated circumstances."], "ja": "…彼女もまた、右代宮家への入籍は複雑な事情がある。"}
+{"id": 148702, "en": ["Those who knew that understood more or less why she was so angry for the sake of Kinzo's dead wife."], "ja": "それを知る人間たちは、亡き金蔵の妻の肩を持つ彼女の気持ちを、何となく理解できるのだった。"}
+{"id": 148710, "en": ["\"...Well, thanks to that reckless action of hers, we all have an even chance now, right?"], "voix": "eva", "ja": "「…まぁ、その暴挙のお陰で私たちにも公平にチャンスがあるわけなんだけど、ねぇ？"}
+{"id": 148714, "en": ["  Father has even given it his silent approval.", "  ...Will the person who succeeds the Ushiromiya family be his mistress Beatrice, or one of us, the relatives he doesn't love?", "  Maybe he wants to make us struggle over that to see who's worthy.\""], "voix": "eva", "ja": "それに、お父様はこの暴挙を黙認されている。 ……右代宮家を継ぐのは愛人ベアトリーチェか、愛はなくとも血を受け継ぐ私たちか。 それを争わせて確かめたいというのでしょうね。」"}
+{"id": 148718, "en": ["As Eva giggled roguishly, Krauss shrugged his shoulders and looked away."], "ja": "絵羽が悪戯っぽくくすりと笑いかけると、蔵臼は肩を竦めて目線を逸らす。"}
+{"id": 148727, "en": ["\"...However, since she's the one who brought this rule to light in the first place, ", "maybe that means it gives her a significant advantage.\""], "voix": "kir", "ja": "「……でも、その条件を向こうが出してきたということは、 向こうは充分な勝算があるということじゃないのかしら。」"}
+{"id": 148733, "en": ["\"Th-That's right.", "  ...In the first place, if Beatrice meant that letter literally, then she's Father's alchemist.", "  In other words, she's the manager of his gold.", "  It wouldn't be strange at all if she knew where it was hidden, would it?!\""], "voix": "hid", "ja": "「そ、それもそうや。 …第一、ベアトリーチェはあの手紙の文面通りなら、お父さんの顧問錬金術師。 つまり、黄金の管理者や。 その隠し場所を知っていても何の不思議もないやないか！"}
+{"id": 148741, "en": ["\"Isn't that harsh?", "  It's like she's giving us a riddle she knows the answer to!", "  She'll probably show up rudely, say `Hey, here's the answer, I'll take the Headship now',", " and snatch everything away from us!\""], "voix": "hid", "ja": "こりゃひどい話やで。 答えを知っているなぞなぞを出してきたも同じや！ 　これでしゃあしゃあと現れて、これが答えや、家督はいただきやで、なんて言われたら、 わしら、全てを掻っ攫われちまうわ！」"}
+{"id": 148748, "en": ["\"............", "...That's right."], "voix": "eva", "ja": "「……………………。 …そうね。"}
+{"id": 148754, "en": ["  The person who brings up a riddle always knows the answer.", "  There's a good chance that this is all a trap to steal everything from us.\""], "voix": "eva", "ja": "なぞなぞの出題者は、常に正解を知っているものよ。 これは、私たちから全てを奪うために作られた罠の可能性が高いわ。」"}
+{"id": 148762, "en": ["\"...If you think about it like that, don't you start to doubt whether she really had any gold in the first place?", "  Why would she tell us about it?", "  All she has to do is keep quiet and embezzle it.\""], "voix": "kla", "ja": "「…そこまで考えると、そもそも彼女が本当に黄金を持っているかどうかは怪しいと思わんかね？ 　なぜ我々にその存在を教える。 黙って着服すれば良いものを。」"}
+{"id": 148769, "en": ["\"It really is...", "strange.\""], "voix": "rud", "ja": "「確かに。 …おかしな話だな。」"}
+{"id": 148775, "en": ["That certainly was the case."], "ja": "確かにその通りだった。"}
+{"id": 148778, "en": ["If the epitaph showed the way to the hidden gold, why would she challenge them to try and solve it?", "  If they actually did solve it, wouldn't the gold all be stolen from her...?"], "ja": "碑文が黄金の隠し場所を示しているなら、なぜそれを解いてみろなどと挑発を？ 　仮に解かれたら、黄金を奪われてしまうではないか…。"}
+{"id": 148781, "en": ["Could it be that this person was trying to stir the siblings up so they'd solve the epitaph,", " and then planned to steal it away at the last second...?", "  It was an extremely logical possibility."], "ja": "ひょっとして、碑文を解くように焚き付けて、 脇から掻っ攫おうと考えているのでは…。 それは極めて妥当な想像だった。"}
+{"id": 148789, "en": ["\"......No, ", "if you spin the chessboard around, there might be a pretty good chance that they actually do have the gold.\""], "voix": "kir", "ja": "「…………いえ。 チェス盤を引っ繰り返して考えれば、黄金を実際に持っている可能性は低くないかもしれない。」"}
+{"id": 148796, "en": ["\"Why are you so certain?\""], "voix": "eva", "ja": "「どうしてそんなことが断言できるのよぅ？」"}
+{"id": 148802, "en": ["\"...Wait, Aneki."], "voix": "rud", "ja": "「…待て姉貴。"}
+{"id": 148808, "en": ["  ...Kyrie, please keep talking.", "  Why do you think that?\""], "voix": "rud", "ja": "……霧江、続きを話してくれ。 どうしてそう思うんだ？」"}
+{"id": 148817, "en": ["\"After all, do they really think we'll let go of the Ushiromiya Family Headship...", "just because someone tells us the answer to the riddle in the witch's epitaph?", "  That we'll be so impressed by their answer...that we'll just give up?\""], "voix": "kir", "ja": "「だって、私たちは魔女の碑文なんて言うなぞなぞの答えを教えられたくらいで、 本気で右代宮家の家督を明け渡す気？ 　なぞなぞの答えに感服して降参を？」"}
+{"id": 148826, "en": ["\"...Well, "], "voix": "hid", "ja": "「……そらまぁ、"}
+{"id": 148828, "en": ["...that's true.", "  No way they're so naive that they assumed we'd just give up after being told the answer to a riddle, ", "that we'd just say `Here you go' and hand it over.\""], "voix": "hid", "ja": ":voicedelay 2350^^……それもそうやな。 なぞなぞの答えを教えられたくらいで、わしらがあっさり降参して、 家督をハイどうぞと渡すかっちゅうたら、そら甘い話やな。」"}
+{"id": 148837, "en": ["\"Of course.", "  The Headship of the Ushiromiya family is not something that can be handed over so easily!\""], "voix": "nat", "ja": "「当然です。 右代宮家の家督を、そんな程度のことで譲ることがあるわけがない！」"}
+{"id": 148844, "en": ["\"That's it exactly.", "  No matter how Beatrice might one-sidedly propose a game like this, even if she were to spectacularly show us the answer,", " there's no way we'd obediently hand over the Headship.", "  ...In other words, unless she has a compelling force in the form of challenging us to a game with equal conditions for us all,", " this won't truly count as a game.\""], "voix": "kir", "ja": "「そういうことよ。 いくらベアトリーチェが一方的にこんなゲームを提案しても、そして見事その答えを示して見せたとしても。 私たちは家督を素直に譲るわけもない。 ……つまり、私たちがこのゲームに対等な条件で挑まなくてはならないという、強制力がない限り、 このゲームは成立しないのよ。」"}
+{"id": 148852, "en": ["\"You're right."], "voix": "rud", "ja": "「そうだな。"}
+{"id": 148858, "en": ["  ...Unless the losers have no choice but to give up on the Headship"], "voix": "rud", "ja": "……負けた時、家督を譲ることに"}
+{"id": 148864, "en": [" ~ib~because of a compelling force~ib~", ", this won't really count as a game.\""], "ja": "^~ib~^強制力を持たせなきゃ^~ib~^、このゲームは成立しない。」"}
+{"id": 148872, "en": ["\"And what might this compelling force be?", "  Would they bind us in chains and threaten us into handing over the Headship?\""], "voix": "kla", "ja": "「その強制力というのはどういう意味だね？ 　我々を鎖で縛って、家督を譲るよう脅迫でもしようというのかね？」"}
+{"id": 148879, "en": ["\"......I see.", "  I get it.", "  ...They'd just have to do something to make us want to give up the Headship willingly."], "voix": "eva", "ja": "「………なるほどね。 わかったわ。 ……私たちが、喜んで家督を放棄したくなるようにすればいいわけね。"}
+{"id": 148885, "en": ["  Yes, I see.", "  ...To do that, Beatrice would have to own 10 tons of gold...!\""], "voix": "eva", "ja": "なるほど。 …ならば確かに、ベアトリーチェは１０ｔの黄金を持っていなければならない…！」"}
+{"id": 148891, "en": ["\"I-I see, I get it too!"], "voix": "hid", "ja": "「そ、そうか、わしにもわかったで！"}
+{"id": 148897, "en": ["  In other words, ...it's a trade?!\""], "voix": "hid", "ja": "つまり、…取り引きっちゅうわけやな？！」"}
+{"id": 148904, "en": ["\"Huh?", "  Wh-What do you mean...?", "  A trade?", "  Trade what?!\""], "voix": "nat", "ja": "「え？ 　ど、どういう意味ですか…。 取り引き？ 　何を？！」"}
+{"id": 148912, "en": ["\"The Ushiromiya Family Headship for the hidden gold.", "  ...Beatrice surely plans to tell us the location of the 10 tons of gold...and use that as a bribe to gain the Ushiromiya Family Headship.\""], "voix": "kir", "ja": "「右代宮家の家督と隠し黄金をよ。 …ベアトリーチェはきっと１０ｔの黄金の所在を明かし、それで右代宮家の家督を買収するつもりなのよ。」"}
+{"id": 148917, "en": ["\"R-Ridiculous!!\""], "voix": "nat", "ja": "^^!s0「ばッ、馬鹿馬鹿しい！！」"}
+{"id": 148935, "en": ["\"They want to trade the Headship of the glorious Ushiromiya family for...m-money?!", "  That's blasphemy!!", "  Blasphemy against the Ushiromiya family!!\""], "voix": "nat", "ja": "「栄光ある右代宮家の家督を、…お、お金でやり取りしようというのですか？！ 　冒涜です！！ 　右代宮家への冒涜ですッ！！」"}
+{"id": 148941, "en": ["\"...Please listen without getting mad.", "  ...About how much wealth does this glorious Ushiromiya family have right now?", "  Are we really that affluent?\""], "voix": "kir", "ja": "「……怒らずに聞いて。 …その栄光ある右代宮家には今、どの程度の財産があるの？ 　私たちはそんなにも裕福なの？」"}
+{"id": 148947, "en": ["\"Th-The definition of affluence is not dependent on property.", "  It is about heart!", "  Our financial situation has nothing to-\""], "voix": "nat", "ja": "「ゆ、裕福の定義とは財産で決まるのではありません。 心の持ちようで決まります！ 　私たちの財産状況が一体何の、」"}
+{"id": 148953, "en": ["Krauss interrupted Natsuhi as she started to go on and on emotionally."], "ja": "感情的にまくし立てる夏妃を、蔵臼が制する。"}
+{"id": 148956, "en": ["In this situation, the more she went on like that, the worse it would actually sound."], "ja": "今の状況では、彼女が感情的にまくし立てればまくし立てるほど、それは逆に聞こえた。"}
+{"id": 148966, "en": ["\"...Me aside, I hear your current situations are...quite unfavorable.\""], "voix": "kla", "ja": "「………私はともかく、お前たちの状況は芳しくないと聞いているよ。」"}
+{"id": 148973, "en": ["\"Oh, really?", "  I've heard that your financial situation's really bad too."], "voix": "eva", "ja": "「あぁら、そう？ 　兄さんの財政状況だって、相当に芳しくないと聞いているわよぅ？"}
+{"id": 148978, "en": ["  Offering up more and more as collateral for new money to gamble with.", "  Repeatedly dabbling in new gambles, unable to accept your losses.", "  ...If we count what's going on behind the scenes, you're in even bigger financial straits than the rest of us.\""], "voix": "eva", "ja": "次々担保に入れて新しい博打の掛け金にして。 負けを認めないために次々新しい博打に手を出して。 …内情の話をしたら、この中で兄さんほど火の車の人間は存在しないわ。"}
+{"id": 148985, "en": ["\"Just how much money have you lost, Nii-san?"], "voix": "eva", "ja": "どれだけ損失を出してんのよ、兄さんは。"}
+{"id": 148986, "en": ["  You have no talent!\""], "voix": "eva", "ja": "^^!s0才能ないのよ！」"}
+{"id": 149004, "en": ["\"Wh-Who are you saying has no talent?!!", "  And what do you mean, financial straits?!!\""], "voix": "nat", "ja": "「だ、誰の才能がないというのですかッ！！ 　言うに事欠き、火の車とは！！」"}
+{"id": 149008, "en": ["Natsuhi became indignant once more, but Krauss raised his hand again and interrupted her."], "ja": "再び夏妃が激昂するが、蔵臼もまた再び手を上げてそれを制した。"}
+{"id": 149015, "en": ["\"...It seems you are making a small mistake.", "  Business is not something that can be judged based on current progress alone.", "  For someone with a long-term outlook on business such as myself,", " it may sometimes appear at a glance that I have suffered significant short-term losses.\""], "voix": "kla", "ja": "「……多少の誤解があるようだ。 ビジネスは経過で判断できるものではない。 私のような長期的視野でのビジネスともなると、 時に短い単位期間では一見、大きな損失を出しているようにも見えるものだ。」"}
+{"id": 149022, "en": ["\"Aniki,", " we've been collecting evidence.", "  Your position right now isn't one to be proud of."], "voix": "rud", "ja": "「兄貴。 裏は取れてんだぜ。 今は見栄を張ってる場合じゃない。"}
+{"id": 149028, "en": ["  ...So this is what Kyrie's trying to say.", "  ...Every one of us has got money trouble.", "  And Beatrice has 10 tons of gold.\""], "voix": "rud", "ja": "……つまり霧江はこう言いたいのさ。 ……俺たちは全員が全員、カネに困ってる。 そしてベアトリーチェは１０ｔの黄金を持っている。」"}
+{"id": 149035, "en": ["\"...As the only person who knows the location of the 10 tons of gold, Beatrice is planning on using it to force us to sell the Headship.", "  ...About how much is 10 tons of gold worth?\""], "voix": "kir", "ja": "「……ベアトリーチェは、自分だけが在り処を知る１０ｔの黄金で、私たちに家督を売らせるつもりなのよ。 …１０ｔの黄金の価値はどのくらい？"}
+{"id": 149042, "en": ["\"At a rough estimate, ...let's say 2 billion yen?", "  ......No, 20 billion yen.", "  With that much piled up, we'd be ecstatic to accept her as the Successor.\""], "voix": "kir", "ja": "ざっと見積もって…、２０億？ 　………いえ、２００億ね。 これだけを積まれたら、私たちは狂喜して彼女を次期当主に認めるわ。」"}
+{"id": 149053, "en": ["The scene returned to silence."], "ja": "シンと静まり返る。"}
+{"id": 149057, "en": ["In fact, the rain and wind felt even noisier now."], "ja": "いや、むしろ風雨の音が賑やかにさえ感じた。"}
+{"id": 149058, "en": ["...It was probably the sound of the windstorm racing through the insides of their minds..."], "ja": "…それは多分、彼らの心の中を掻き乱す暴風の音でもあるかもしれない…。"}
+{"id": 149066, "en": ["\"......Th-This isn't funny.", "  ...To think we'd give up the Headship to some woman of doubtful origin...", "...just because she had a little money stored up...\""], "voix": "eva", "ja": "「…………じょ、…冗談じゃないわよ。 …多少お金を積まれたくらいで…、 ……どこの馬の骨とも知れない女に家督を譲るなんて……。」"}
+{"id": 149073, "en": ["\"Don't be stupid...!", "  The Headship wasn't even yours in the first place, right...?!", "  We've got nothin' to lose and money to gain.", "  We'll have to calculate our profit and loss, but it's somethin' worth listenin' to...!\""], "voix": "hid", "ja": "「アホ抜かせ…！ 　元々お前に家督なんぞ行かんやないか…！ 　わしらは何も失わずに、カネだけをもらえる話やで。 そら、損得勘定は必要やろが、聞くに値する話や…！」"}
+{"id": 149081, "en": ["They knew that Krauss had eaten up much of the Ushiromiya family's assets."], "ja": "右代宮家の財産は、かなりが蔵臼に食い潰されていることがわかっている。"}
+{"id": 149085, "en": ["So, it was dregs that remained of that inheritance, ...versus `the cost of being accepted as the Head' that Beatrice would pay."], "ja": "その残り滓の遺産分配と、ベアトリーチェが支払う“家督を認める対価”。"}
+{"id": 149086, "en": ["It was a shame, but honestly, the former was less enticing than the latter."], "ja": "残念だが、前者より後者の方が期待できるというのが本音だった。"}
+{"id": 149093, "en": ["\"...Well, it probably wouldn't end up as four equal portions.", "  Since Aniki would be giving up his position of Successor, his portion would have to be larger.", "  ...Makes me feel kinda jealous, you know?\""], "voix": "rud", "ja": "「…まぁ、四等分とはならねぇだろうな。 次期当主を降りることになる兄貴に、取り分が多くなるのは止むを得ねぇだろうよ。 …羨ましい話だぜ？」"}
+{"id": 149100, "en": ["\"............\""], "voix": "kla", "ja": "「………………………………。」"}
+{"id": 149107, "en": ["\"Dear...!", "  The amount of money isn't the problem, right?!", "  Your cowardly younger siblings are trying to sell the glory of the Ushiromiya family for money, don't you see?!", "  Why aren't you displaying your dignity as the oldest son?!\""], "voix": "nat", "ja": "「あなた…！ 　金額の問題じゃないでしょう？！ 　不甲斐ない弟たちは、お金で右代宮家の栄光を売り払うつもりなのですよ？！ 　ここで長男の威厳を示さずして何とするのですッ！」"}
+{"id": 149114, "en": ["\"......Natsuhi, ", "stay quiet for a while.\""], "voix": "kla", "ja": "「………夏妃。 しばらく黙っていなさい。」"}
+{"id": 149121, "en": ["\"Dear?!?!\""], "voix": "nat", "ja": "「あなたッ？！？！」"}
+{"id": 149132, "en": ["\"...This is a dizzying proposal.", "  ...We were each planning on getting 250 million yen out of Aniki.", "  If the witch treats us with ten percent of those 10 tons, "], "voix": "rud", "ja": "「……こりゃあ、くらっと来る話だぜ。 ……俺たちは兄貴から２億半ずつ引っ張ろうと思ってた。 もし魔女さまが俺たちに、１０ｔの内の１割も弾んでくれたなら…、"}
+{"id": 149134, "en": ["...ummm-\""], "voix": "rud", "ja": ":voicedelay 5680^^……えぇと、」"}
+{"id": 149141, "en": ["\"That's 2 billion.\""], "voix": "kir", "ja": "「２０億ね。」"}
+{"id": 149148, "en": ["\"...Yeah.", "  That'd mean she's treating us with ten times our original goal.", "  That alone would be more than enough for us.", "  ...It's not like I've got any attachment to the Ushiromiya name.", "  I'd be happy to sell it off...\""], "voix": "rud", "ja": "「…あぁ。 俺たちは当初の見積もりの１０倍も弾まれちまうことになる。 そんだけあれば俺たちは充分だぜ。 ……どうせ、右代宮なんて名前に未練はねぇんだ。 喜んで売っ払ってやらぁ…。」"}
+{"id": 149155, "en": ["\"Even if 10 tons is a slightly optimistic figure,", " ......yes, it'd still be a fascinating prospect for us.", "  ...We were trying to form an alliance among the siblings to kick this outsider called Beatrice out.\""], "voix": "kir", "ja": "「１０ｔ全てを提供してくれるかは、さすがに皮算用だとしても。 ………なるほど、私たちにとって魅力的な話になるわね。 …私たちは、ベアトリーチェなどという余所者を弾き出すために兄弟同盟を組もうとしていた。"}
+{"id": 149162, "en": ["\"...But, if this is her plan, "], "voix": "kir", "ja": "……しかし、彼女の目論みがこうならば、"}
+{"id": 149164, "en": ["...it'll tear apart the unity between us.", "  ...Yeah, by this point we can state it clearly.", "  ...The goal of Beatrice's letter was to disturb our alliance.\""], "voix": "kir", "ja": ":voicedelay 2880^^……私たち兄弟の団結はバラバラにされるわ。 …えぇ、今こそはっきり断言できる。 ……ベアトリーチェの手紙の目的は、私たちの結束を掻き乱すことなのよ。」"}
+{"id": 149179, "en": ["If the three younger siblings, who never had anything to do with the inheritance,", " were paid enough money to satisfy them, they would happily accept Beatrice as the next Head."], "ja": "そもそも当主継承権と関係のない蔵臼以外の兄弟は、 納得できるカネが支払われれば、喜んでベアトリーチェの当主継承を認めるだろう。"}
+{"id": 149182, "en": ["A moat had been dug all around Krauss."], "ja": "本丸の蔵臼以外の堀は全て埋まるわけだ。"}
+{"id": 149185, "en": ["In that case, the negotiations would be one-on-one between her and Krauss."], "ja": "そうなれば、交渉は彼女と蔵臼の一対一になる。"}
+{"id": 149190, "en": ["He tried to look strong, but Krauss's financial and political situation was extremely weak."], "ja": "強気を装ってはいるが、蔵臼の財政状況も非常に悪い。"}
+{"id": 149191, "en": ["...He might bluff in front of his siblings, but on the inside, he was considering entering negotiations, depending on the sum of money involved."], "ja": "…兄弟たちの前では、虚勢を張っているが、内心は、金額次第では交渉に応じても良いと思っているだろう。"}
+{"id": 149197, "en": ["In order to bury his losses, Krauss had taken advantage of the fact that Kinzo had shut himself up in his room...and had embezzled Kinzo's personal assets."], "ja": "蔵臼は損失を埋めるため、金蔵が引き篭もっているのをいい事に、金蔵の個人資産を着服していた。"}
+{"id": 149199, "en": ["Therefore, when Kinzo died and the inheritance was distributed, Krauss's situation would probably be investigated."], "ja": "だから、金蔵が逝去して遺産分配になれば、その責任を追及されることになるだろう。"}
+{"id": 149204, "en": ["But if he gave up his seat as the Head to Beatrice, ", "she would also receive rights to the assets, and as a result, the distribution of the inheritance to the siblings would not occur."], "ja": "しかし、ベアトリーチェに当主の座を譲るなら、 同時に財産権も譲ることになり、その結果、兄弟たちに対する遺産分配は行なわれない。"}
+{"id": 149207, "en": ["...In other words, Krauss' embezzlement might not have to be made known to the other siblings..."], "ja": "……つまり、蔵臼の着服は、兄弟たちに知られずに済むかもしれないのだ…。"}
+{"id": 149211, "en": ["Of course, the siblings were frightened of Kinzo, but it was doubtful whether they still actually respected him as a father."], "ja": "兄弟たちは、金蔵を恐れてこそいるが、父としての尊敬の念を今も持っているかは怪しい。"}
+{"id": 149212, "en": ["By this time, they each had their own families, their own wealth, and their own lives."], "ja": "今ではそれぞれが自分の家族を持ち、自分の財産も生活も持っている。"}
+{"id": 149215, "en": ["If they were paid enough money in exchange for Rokkenjima, the wreckage of Kinzo's dreams,", " ...there was a significant likelihood that they'd relinquish the Ushiromiya family name..."], "ja": "金蔵の夢の残骸である六軒島と引き換えに、充分なカネが払われるなら、 ……彼らは右代宮家の名を手放す可能性が、充分にあったのだ……。"}
+{"id": 149222, "en": ["In other words, Beatrice's victory was already guaranteed in this `game'."], "ja": "つまり、この“ゲーム”は、すでにベアトリーチェの勝ちで決まっているのだ。"}
+{"id": 149225, "en": ["Not as the winner of `Beatrice's game', ", "...but as the winner of `Kinzo's game'."], "ja": "“ベアトリーチェのゲーム”の勝者という意味ではない。 …“金蔵のゲーム”の勝者という意味でだ。"}
+{"id": 149228, "en": ["...Kinzo once ordered that the epitaph be put on display.", "  And until today, no one had solved it."], "ja": "…金蔵は碑文を掲示した。 そして今日まで誰も解けなかった。"}
+{"id": 149231, "en": ["So Beatrice `solved' it."], "ja": "だからベアトリーチェが“解いた”。"}
+{"id": 149234, "en": ["In other words, this is less of a game and more like Beatrice's declaration of victory..."], "ja": "ならばつまり、これはゲームというより、ベアトリーチェの勝利宣言のようなものなのか…。"}
+{"id": 149239, "en": ["However, Kyrie still thought there might be a catch."], "ja": "しかし、霧江はまだ少し引っ掛かると考えていた。"}
+{"id": 149244, "en": ["If this was a declaration of victory, Beatrice would only have had to display the gold openly and state her intent to buy the inheritance."], "ja": "もし勝利宣言ならば、勝者らしく、黄金を堂々と示し、家督を買い取ると宣言すればいいだけの話だ。"}
+{"id": 149247, "en": ["And yet, she had gone to all of this trouble, telling the siblings to try and solve the epitaph.", "  Why did she set up this `new game', where she agreed to hand over all of the gold and the inheritance to the epitaph solver?"], "ja": "なのに、わざわざこの期に及んで、碑文を解いてみろ、 解けたら家督と黄金を全て引き渡そうと、“新たなゲーム”を仕掛けてくる意味が、どこにあるというのか。"}
+{"id": 149253, "en": ["Kyrie tried spinning the chessboard around several times."], "ja": "霧江は何度かチェス盤を引っ繰り返して考えた。"}
+{"id": 149254, "en": ["...She searched for the sort of ideal strategy Beatrice might be after, something that could lead to this kind of thinking."], "ja": "…どういう最善手ならば、その思考に至るのかを探った。"}
+{"id": 149257, "en": ["...In the end, ...she reached a single conclusion."], "ja": "…その末、…ひとつの結論に辿り着く。"}
+{"id": 149272, "en": ["\"......Could it be..."], "voix": "kir", "ja": "「……………驕り、"}
+{"id": 149274, "en": ["arrogance?", "  Or maybe..."], "voix": "kir", "ja": ":voicedelay 600^^…なのかしら。 あるいは、"}
+{"id": 149276, "en": ["she's playing...?\""], "voix": "kir", "ja": ":voicedelay 740^^……遊び……？」"}
+{"id": 149283, "en": ["\"...What are you talking about?\""], "voix": "eva", "ja": "「…何の話？」"}
+{"id": 149289, "en": ["\"The witch sent us a letter of challenge, forcing us to try and solve the epitaph.", "  She might be taking us lightly, thinking we could never solve it.", "  ...However, at the very least, there ought to be an extremely small chance that we do solve it.\""], "voix": "kir", "ja": "「魔女は、碑文を解いてみろと私たちに挑戦状を送ったわ。 どうせ解けないだろうと、タカを括ってるでしょうけどね。 ……でも、何万分の一かの確率で、私たちが解いてしまう可能性もあるはず。"}
+{"id": 149295, "en": ["\"After all, we have here four of Father's children by blood, right?", "  The questioner called together four blood relatives who, if they tried frantically to work together and avoid having those assets stolen from them,", " might come across the answer of the riddle by chance.\""], "voix": "kir", "ja": "何しろ、ここにはお父さんの血を引く子どもが４人もいるのよ？　 出題者の血縁者が４人も揃い、財産を奪われまいと死に物狂いで知恵を出し合ったなら、 偶然にも謎が解けてしまうこともあるかもしれない。」"}
+{"id": 149301, "en": ["The reason the witch had a superior position in negotiations compared to the siblings...was that only she knew the location of the hidden gold."], "ja": "魔女が４兄弟に対し交渉で優位に立てるのは、彼女が唯一、黄金の隠し場所を知っているからだ。"}
+{"id": 149305, "en": ["But if that hiding place was exposed to someone other than her, the witch's advantage would crumble."], "ja": "だがもし、その隠し場所を彼女以外の人間が暴けたなら、魔女の優位は崩れる。"}
+{"id": 149314, "en": ["\"In short, Beatrice gains nothing but risk by writing this witch's letter of challenge."], "voix": "kir", "ja": "「つまり、魔女の手紙に書かれている挑発文は、ベアトリーチェにとってリスクにしかならないのよ。"}
+{"id": 149319, "en": ["  ...Of course, it might have had the effect of splitting apart the siblings' alliance,", " but if that was her only goal, why would she take this risk, however slight it might be...?", "  That seems reckless to me.\""], "voix": "kir", "ja": "……確かに、兄弟の連帯を分断するという効果はあったけれど、 それを狙うためだけに、わずかとは言えこのようなリスクを……？ 　私は無用心だと思う。"}
+{"id": 149325, "en": ["\"...But if we keep in mind a certain type of emotion, that risk becomes comprehensible.\""], "voix": "kir", "ja": "…でもね、ある種の感情を念頭に置いた時、このリスクは理解可能になるのよ。」"}
+{"id": 149331, "en": ["\"........."], "voix": "eva", "ja": "「………………。"}
+{"id": 149338, "en": ["...And you're saying it's arrogance?\""], "voix": "eva", "ja": "…それが、驕りだというの？」"}
+{"id": 149345, "en": ["\"Yes, that's right.", "  ...When people have an overwhelming advantage, they tend to get arrogant.", "  And when they do, they want to show off that advantage to the losers, so they sometimes take on small risks.", "  ...A moderate amount of risk adds a little spice to the joy of victory.", "  It'd be boring to win without any risk.\""], "voix": "kir", "ja": "「えぇ、そうよ。 ……圧倒的な優位に立つと、人は驕るわ。 すると敗者に対し、その優位性をひけらかすために、微小なリスクをわざと背負うことがある。 …適度なリスクは、勝利の喜びを引き立たせるスパイスだもの。 リスクなき勝利ほど退屈なものはない。」"}
+{"id": 149352, "en": ["\"......I understand.", "  I like that kind of thing too.", "  ...Yeah, I understand it well.\""], "voix": "eva", "ja": "「……………わかるわ。 私もそういうの、好きだもの。 …よくわかるわ。」"}
+{"id": 149364, "en": ["\"I thought of a few plausible explanations for the true motive behind Beatrice's letter,", " ...but I think this really might be the truth.", "  ...The emotion hidden behind that letter was..."], "voix": "kir", "ja": "「ベアトリーチェの手紙の真意を、もっともらしく色々と解釈してみたけれど、 ……実はこれが真実かもしれない。 ……あの手紙の裏に潜む感情は、"}
+{"id": 149366, "en": ["...arrogance.\""], "voix": "kir", "ja": ":voicedelay 2320^^………驕りなのよ。」"}
+{"id": 149368, "en": ["\"......Arrogance.\""], "voix": "eva", "ja": "「…………驕り。」"}
+{"id": 149376, "en": ["\"She's trying to throw her weight around, looking down on us, as if there's no way we could figure out such a difficult epitaph.", "  ...It might even be possible, if surprising, that the epitaph wasn't written by Father, but by her.\""], "voix": "kir", "ja": "「難解な碑文が、お前たちに解けるものかと、私たちを見下して威張り散らしたいのよ。 …案外、ひょっとすると、碑文はお父さんじゃなく、彼女が作ったのかもしれないわね。」"}
+{"id": 149383, "en": ["\"...Sounds great.", "  ...Solve the riddle of the epitaph, she says?\""], "voix": "eva", "ja": "「……上等じゃないの。 ……碑文の謎が解けるか、ですって？」"}
+{"id": 149393, "en": ["If only I solved it, I would be made the Head, right...?"], "ja": "もしも解いたなら、私を当主にしてくれるのね…？"}
+{"id": 149399, "en": ["...I'll solve it...", "  I'll accept the witch's challenge."], "ja": "…解いてやる…。 魔女の挑戦を受けてやるわ。"}
+{"id": 149400, "en": ["As if those other idiot siblings could solve it."], "ja": "他の間抜けな兄弟たちに解けるものか。"}
+{"id": 149403, "en": ["I'll solve it by myself, and then I'll prove that I'm the one who's fit to succeed the Ushiromiya family..."], "ja": "私ひとりが解いて、私こそが右代宮家を引き継ぐに相応しいということを証明してやるわ……。"}
+{"id": 149413, "en": ["\"I'll take that challenge.", "  ...I will..."], "voix": "eva", "ja": "「その挑戦、乗ったわ。 ……私が、"}
+{"id": 149415, "en": ["solve the riddle...\""], "voix": "eva", "ja": ":voicedelay 1720^^……謎を解いてやる……。」"}
+{"id": 149449, "en": ["\"...I see...", "  So she's not a witch, but a mistress named Beatrice, who lived on the island..."], "voix": "but", "ja": "「…なるほどな…。 魔女じゃなく、ベアトリーチェという名の愛人が島に存在していたわけか…。"}
+{"id": 149455, "en": ["  ...So there can be more than 18 people!", "  Which means I can defeat the line of reasoning that says any crime impossible for all 18 people must involve magic.", "  ...That's a big scoop.\""], "voix": "but", "ja": "……つまり人間は１８人以上居得る！ 　ということは、１８人全員に不可能だから魔法犯罪である、という図式は崩せるわけだ。 ……これは大きい情報だぜ。」"}
+{"id": 149466, "en": ["\"Pardon me.", "  Battler-sama, would you like some black tea and cookies?\""], "voix": "ron", "ja": "「失礼いたします。 戦人さま、紅茶とクッキーはいかがですか？」"}
+{"id": 149470, "en": ["Beato's butler, who called himself Ronove, appeared out of nowhere."], "ja": "どこからともなく、あのロノウェとか名乗ったベアトの執事が現れる。"}
+{"id": 149473, "en": ["A plate set on a silver tray that he held was filled with delicious-looking, steaming black tea and cookies."], "ja": "手に持つ銀のトレーには、美味しそうに湯気を立てる紅茶とクッキーを盛り付けた皿が置かれていた。"}
+{"id": 149478, "en": ["...I really don't like this guy's smile."], "ja": "…どうもこいつの笑みは好かないぜ。"}
+{"id": 149479, "en": ["For some reason, it doesn't look like a smile used to warmly greet a guest."], "ja": "何というのか、客を歓待する笑みじゃない。"}
+{"id": 149480, "en": ["It feels like he's mocking me somehow."], "ja": "どこか小馬鹿にしたような、そんな笑いなのだ。"}
+{"id": 149483, "en": ["...I don't know if he really takes me for an idiot,", " or if it's just a joke or something, but it's really irritating me."], "ja": "…それが文字通り馬鹿にしているのか、 それとも冗談程度のレベルなのかわからないのが、何ともイラつくが。"}
+{"id": 149491, "en": ["\"...I don't need any.", "  I'm busy now.", "  Leave me alone.\""], "voix": "but", "ja": "「……いらねぇよ。 俺は今、取り込み中なんだ。 放っておいてくれ。」"}
+{"id": 149496, "en": ["\"Oh, my.", "  Such a shame, and the cookies were so delicious too.", "  Cooked so wonderfully they would be wasted on a mere Human.\""], "voix": "ron", "ja": "「おやおや。 それはそれは美味しく焼けたクッキーなのに、とても残念です。 ニンゲン如きには勿体無いくらいに素敵に焼きあがった、それはそれは素敵なクッキーなのに。」"}
+{"id": 149503, "en": ["\"I'll eat some when I feel like it.", "  Just set it down somewhere and get out of here.\""], "voix": "but", "ja": "「気が向いたら食ってやるぜ。 その辺に置いて、とっとと失せな。」"}
+{"id": 149509, "en": ["\"Will that be acceptable?", "  Then I shall do so.", "  You may eat them when they get cold and stale, and then regret to the fullest that you did not eat them while they were fresh.\""], "voix": "ron", "ja": "「左様でございますか。 それではそのようにいたしますよ。 冷めてからお召し上がりになって、焼きたてを召し上がらなかったことを存分に後悔なされると良いでしょう。」"}
+{"id": 149515, "en": ["\"......You really are annoying.", "  ...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear.\""], "voix": "but", "ja": "「………いちいち、うるさいヤツだな。 …まぁ、耳元で気色悪くケラケラ笑うベアトのヤツよりゃ数段マシだがよ。」"}
+{"id": 149521, "en": ["\"Yes, yes, that is quite true.", "  There are times when Milady's laughter becomes quite undignified.", "  Every time I hear it, I find it painful to comprehend ", "why such a noble demon as myself must serve such a Master.", "  Pu ku ku ku...\""], "voix": "ron", "ja": "「いえいえまったく。 お嬢様の笑い声は時折、実に品がありません。 それを聞く度に、なぜ私ほどの高貴な悪魔が、 あのような者を主にしなければならないのか、理解に苦しむのでございますよ。 ぷっくっくっく…。」"}
+{"id": 149527, "en": ["\"...Man, you're weird.", "  If you don't like it, then couldn't you just not work for her?\""], "voix": "but", "ja": "「……変なヤツだな。 そんなに嫌なら仕えなきゃいいだろうが。」"}
+{"id": 149533, "en": ["\"And yet, to continue serving is furniture's joy.", "  If we do not serve, we would hardly be furniture.\""], "voix": "ron", "ja": "「それでも尚お仕えするのが、家具の喜びなのでございますよ。 それでなくては家具は務まりません。"}
+{"id": 149538, "en": ["\"...Setting that aside,", " how has the game been proceeding?", "  Just now, you seemed to have found some useful information that quite pleased you.", "  Well now, I wonder what your shallow wit has conjured up.\""], "voix": "ron", "ja": "……それはさておき。 ゲームの方はいかがでございますか？ 　先ほど、良い情報を見つけたようなことを言われ、お喜びになられていたようですが。 はてさて、どのような浅知恵が思いついたやら。」"}
+{"id": 149542, "en": ["As Ronove mocked me and giggled,", " he followed my earlier words literally and placed the black tea and cookies in a random spot nearby."], "ja": "ロノウェはくすくすと小馬鹿にするように笑いながら、 俺に言われた通りの文字通りに、適当なその辺に紅茶とクッキーを配膳する。"}
+{"id": 149548, "en": ["\"...In any case, it appears you are now more confident in the existence of a 19th person, yes?", "  Would you be gracious enough to allow me to hear your opinion?\""], "voix": "ron", "ja": "「……大方、１９人目の存在に自信を深めたからでございましょう？ 　よろしければ、ぜひご高説をお聞かせ願えますか？」"}
+{"id": 149554, "en": ["\".........", "...Yeah, sure.", "  I'm just going to say it again in front of Beato anyway.", "  No reason to hide it."], "voix": "but", "ja": "「………………。 ……あぁ、いいぜ。 どうせベアトの前で改めて言うしな。 隠す必要もないさ。"}
+{"id": 149559, "en": ["  ...Basically,", " it looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.", "  So, the question that's been torturing me about whether there are 18 or 19 people...can be easily resolved.\""], "voix": "but", "ja": "……いいか。 この島に隠し屋敷があって、愛人を住まわせていたらしいんだ。 となりゃ、俺を苦しめてきた１８人なのか１９人なのかって疑問は簡単に決着する。」"}
+{"id": 149565, "en": ["\"You have driven yourself into a corner because of the dead-end that you yourself have created.", "  Even though you deny the witch, Battler-sama, you hold a double standard, and refuse to accept that the culprit is one of the 18.\""], "voix": "ron", "ja": "「戦人さまは魔女を否定するくせに、 １８人の中にも犯人を求められないダブルスタンダードの袋小路に、自らを追い込まれました。」"}
+{"id": 149572, "en": ["\"...The easiest way to deny the witch would be to suspect one of the 18.", "  ...It isn't easy to gather alibis for every one of them.", "  You always find at least one person with a fragile alibi.", "  ...I could probably continue to deny the witch forever if I just used that person as a scapegoat.\""], "voix": "but", "ja": "「…魔女を否定するもっとも簡単な方法は、１８人の誰かを疑うことだ。 ……１８人全員のアリバイは、そう簡単には揃わない。 常にひとりくらいはアリバイの脆い人間が生まれる。 ……俺はそいつを生贄にすることで、常に魔女を否定し続けることもできるだろう。」"}
+{"id": 149577, "en": ["\"However, I refuse to do that!!", "  Aah, it's useless, it's all useless!", "  Every one of those 18 people is either a parent, a relative or a cousin to me!", "  And those reliable servants, who are sometimes serious and sometimes fun to be with.", "  I won't let myself use any one of them as a scapegoat!!\""], "voix": "but", "ja": "「しかし、それは断固拒否するッ！！ 　あぁダメだぜ、全然ダメだ！ 　１８人はみんな俺にとって親たちや親戚たちやいとこたち！ 　そして真面目だったり面白かったりする頼もしい使用人の人たちだ。 俺はその人たちの誰を生贄にすることも許せないッ！！"}
+{"id": 149582, "en": ["\"In the past, my resolve wavered.", "  That's how Beato hit me where my heart was weak.\""], "voix": "but", "ja": "かつて俺はその決意があやふやだった。 だからその心の弱さをベアトに突かれたんだ。」"}
+{"id": 149589, "en": ["\"...Ah, accepting and understanding one's own weaknesses.", "  It is not something that can often be accomplished.", "  Battler-sama, you use this theory about a 19th person as a spear.", "  ...Or should I say, a shield?\""], "voix": "ron", "ja": "「……自らの弱点を認め、理解する。 なかなか出来ることではありません。 戦人さまは１９人目が存在する説を槍にする。 …槍というよりは楯、でしょうかな。"}
+{"id": 149594, "en": ["\"In any event, in contrast to how unprepared you were in the previous games,", " the fact that you now have a compass bearing on how to fight... ...is a dramatic leap forward, let us say.", "  With this, you can suspect a 19th person and pursue your theory that the culprit is a human,", " without having to doubt any of the 18 you love and respect.\""], "voix": "ron", "ja": "何れにせよ、これまでのゲームでの無策と違い、 戦い方に指針を持たれるのは、劇的飛躍と申せましょう。 これで戦人さまは、敬愛する１８人を疑わずに、 存分に１９人目を疑い、人間犯人説を追求できるわけでございます。」"}
+{"id": 149600, "en": ["\"That's it exactly.", "  Like in the first game, when Kanon-kun was killed in the boiler room,", " ...there were plenty of tricks I could've mentioned without hesitation, ", "as long as a 19th person existed.\""], "voix": "but", "ja": "「そういうことさ。 最初のゲームの、嘉音くんが殺されたボイラー室とか、 …他にも他にも、 １９人目が存在していたなら、迷う必要なんかないトリックはいくつもある。」"}
+{"id": 149606, "en": ["In the very first game, Kanon-kun was killed in the boiler room."], "ja": "一番最初のゲームで、嘉音くんはボイラー室で殺された。"}
+{"id": 149609, "en": ["One might think he was attacked by Kumasawa-san, who had gone down into the boiler room with him,", " or maybe that someone who had appeared to be dead earlier was actually faking and had ambushed him.", "  Either way, it was a move that forced me to suspect one of the 18."], "ja": "普通に考えたなら、一緒にボイラー室に下りた熊沢さんが襲ったとか、 あるいは死んだように見えた誰かが実は偽装で、 ボイラー室で嘉音くんを待ち伏せたとか、 何れにせよ、１８人の誰かを疑わなければならない指し手だった。"}
+{"id": 149612, "en": ["However, by simply proposing that a 19th person existed,", " there was no longer any need to suspect one of the 18 for that murder in the boiler room."], "ja": "しかし、１９人目が存在することをあっさりと仮定するだけで、 このボイラー室の殺人について１８人の誰も疑う必要はない。"}
+{"id": 149619, "en": ["\"In short!", "  I can at least deny the line of reasoning saying that...", "if something is impossible for every one of the 18, therefore the culprit is a witch.\""], "voix": "but", "ja": "「つまり！ 　１８人の誰にも無理だから＝犯人は魔女、 という図式だけは否定することができるわけさ。」"}
+{"id": 149622, "en": ["Using this argument, it's easy to explain, for example, the problematic case that has already occurred in this game,", " `who gave Maria the letter?'"], "ja": "この論法なら例えば、今回のゲームでもすでに問題提起されている、 “真里亞に手紙を渡したのは誰か？” という問いも簡単に説明できる。"}
+{"id": 149625, "en": ["Even if all 18 people have alibis,", " I could easily explain everything by saying that a 19th person must've visited her and given her the letter."], "ja": "１８人全員にアリバイがあろうとも、 ゆえに１９人目の人物が訪れて手紙を渡したと、実に簡単に説明できるのだ。"}
+{"id": 149632, "en": ["\"......Hmm, hmm.", "  I'd say that's quite a good move.", "  Now, how would I strike back against it?\""], "voix": "ron", "ja": "「………ふむふむ。 とても良い一手だと思いますよ。 私だったらどう切り返しましょうか。"}
+{"id": 149636, "en": ["\"...You still have plenty of weak points, even if you are aware of them.", "  Maybe the `18 person attack' would be an effective move.", "  To judge the strength of your defense, it may be amusing to contest that point again.\""], "voix": "ron", "ja": "……例え戦人さまが理解されたとしても、未だに弱点は健在。 “１８人攻め”は有効は手でしょうね。 戦人さまの守りがどの程度か確かめる意味でも、改めてそこを突くのも面白いかもしれません。」"}
+{"id": 149642, "en": ["\"Then how will you do it,", " demon butler...?!\""], "voix": "but", "ja": "「ならどう来る。 悪魔の執事…！」"}
+{"id": 149655, "en": ["\"...I believe it would be appropriate to ambush the piece representing this 19th person that you mentioned."], "voix": "ron", "ja": "「……戦人さまが指された、１９人目の駒を迎え撃つのが妥当でございましょう。"}
+{"id": 149660, "en": ["  Battler-sama, you have never met this 19th person, yes?", "  Would you please show some proof that this 19th person exists?\""], "voix": "ron", "ja": "戦人さまは１９人目にお会いしておりませんね？ 　１９人目が存在する証拠をお願いできますかな？」"}
+{"id": 149666, "en": ["\"How naive.", "  Of course, I knew you'd probably try that move...!\""], "voix": "but", "ja": "「甘ぇぜ。 もちろん、その指し手で来るだろうことは読んでいる…！」"}
+{"id": 149672, "en": ["\"My, my.", "  Please respond to it.\""], "voix": "ron", "ja": "「それはそれは。 受け手をお願いいたします。」"}
+{"id": 149678, "en": ["\"Witches and demons and the like...", "  There's no more fitting move for you guys to use.", "  ...It's one of those "], "voix": "but", "ja": "「魔女だの悪魔だの。 お前らにこれほど相応しい一手はないぜ。 ……それがこいつっ、"}
+{"id": 149699, "en": ["`Devil's Proofs'!\""], "voix": "but", "ja": "^^!s0“悪魔の証明”さッ！」"}
+{"id": 149723, "en": ["When you try to make some claim to humans like us, we always counterattack by telling you to show some proof."], "ja": "俺たち人間は、何かを示されると、必ず証拠を示せと反論する。"}
+{"id": 149724, "en": ["Because that's a human move."], "ja": "それが人間の指し手だからだ。"}
+{"id": 149728, "en": ["But I'm fighting with a witch."], "ja": "だが、俺は魔女と戦っている。"}
+{"id": 149729, "en": ["I'm taking part in a battle with someone who isn't human!"], "ja": "人ならざる者との戦いに臨んでいる！"}
+{"id": 149731, "en": ["And some moves exist that can only be used in a game against a witch.", "  There are cheap moves!"], "ja": "だから、魔女とのゲームでしか使えない手がある。 卑劣な一手がある！"}
+{"id": 149735, "en": ["And that's what this `Devil's Proof' is."], "ja": "それがこの“悪魔の証明”。"}
+{"id": 149736, "en": ["Because it's impossible to prove!"], "ja": "ゆえに、証拠は不要！"}
+{"id": 149742, "en": ["Let's assume that there's a hidden mansion on Rokkenjima, separate from the Ushiromiya family mansion,", " and that a woman named Beatrice lives there."], "ja": "六軒島には、右代宮家の屋敷以外にも秘密の屋敷があり、 そこにベアトリーチェという女性が住んでいるという仮定。"}
+{"id": 149745, "en": ["In order to prove this, one must find this mansion and actually bring Beatrice out of it."], "ja": "これを実証するには、その屋敷を見つけ、ベアトリーチェを実際に連れて来なければならない。"}
+{"id": 149748, "en": ["That's called actual proof in the human world."], "ja": "それが人の世での実証だ。"}
+{"id": 149754, "en": ["However, if we follow the rules of the `Devil's Proof', you can't deny that she exists, even if there's no proof that she does."], "ja": "しかし、“悪魔の証明”に則るならば、例え何の証拠もなくとも、彼女の存在を否定できない。"}
+{"id": 149755, "en": ["Because it's impossible to prove that something doesn't exist."], "ja": "存在しないことは証明不能だからだ。"}
+{"id": 149758, "en": ["...That's right, I'm finally able to turn the tables using this `Devil's Proof', which tormented me so much before."], "ja": "……そう、これまでに、さんざん苛まれてきた“悪魔の証明”を逆手に取ったことになる。"}
+{"id": 149761, "en": ["Those guys were always trying to force me to accept the existence of the witch with it."], "ja": "ヤツらは常に“悪魔の証明”で魔女の存在を無理やり認めさせようとしてきた。"}
+{"id": 149764, "en": ["After all, it was physically impossible for me to show any proof that `witches don't exist' and deny Beato's claims."], "ja": "魔女はいると自称するベアトに対し、 俺は“魔女はいない”という証拠を示すことが物理的にできない。"}
+{"id": 149767, "en": ["That's why I kept getting hit with the reckless argument that witches do exist...and was unable to counterattack."], "ja": "だからこそ、魔女は存在するという暴論を反撃不能で突き付けられてきた。"}
+{"id": 149783, "en": ["And that's why I'll spin the chessboard around right now!"], "ja": "だからここでチェス盤を引っ繰り返す！"}
+{"id": 149786, "en": ["If I can't disprove the existence of witches, then that means..."], "ja": "魔女が存在することを否定できないならば、それはつまり、"}
+{"id": 149791, "en": ["if I suggest that a 19th human exists, you can't deny that either."], "ja": "１９人目の人間が存在すると俺が言い出しても、それもまた否定できないわけだ。"}
+{"id": 149794, "en": ["In other words, because this problematic and mysterious mistress is craftily hiding herself, it'd be perfectly natural if you never found her no matter how hard you looked."], "ja": "つまり、問題の謎の愛人は狡猾に隠れているわけだから、どんなに探しても見付からないのは当然。"}
+{"id": 149797, "en": ["So, you can't say that your inability to find this 19th person proves that she doesn't exist."], "ja": "だから、１９人目が見付からないこと＝１９人目はいない、とはならないわけだ。"}
+{"id": 149801, "en": ["Therefore, it's impossible to deny the 19th person's existence."], "ja": "ゆえに、１９人目の否定は不可能。"}
+{"id": 149802, "en": ["Beato used the `Devil's Proof' to make denying her own existence impossible,", " but this time it's become my weapon."], "ja": "ベアトが自らの存在を否定不能とした“悪魔の証明”が、 今度はそのまま俺の武器になったわけだ。"}
+{"id": 149807, "en": ["If we can get away with this argument, then forget just a 19th person,", " this island could be full of people we don't know about,", " and even if there were 10 or 100 of them, she still couldn't deny that they existed."], "ja": "この論法が罷り通るなら、１９人目どころか、 島には俺らの与り知れない人間が、 それこそ１０人、１００人隠れていたとしても、その存在を否定することはできない。"}
+{"id": 149810, "en": ["In the last game and the one before that, among the murder scenes that showed up, ", "there were several that were extremely intricate and must've taken a lot of effort to set up."], "ja": "前回、前々回のゲームで登場した殺害現場の中には、非常に手の掛かる凝った現場がいくつか登場する。"}
+{"id": 149813, "en": ["It's really hard to imagine a single culprit setting up all of those."], "ja": "それらは単独の犯人が構築したと考えようとすると、非常に困難になってしまう。"}
+{"id": 149816, "en": ["However, if not just a 19th person, but 10 or 100 people were hidden somewhere, that wouldn't be any problem at all."], "ja": "しかし、１９人目どころか、１０人も１００人も隠れていたならまったく何の問題もない。"}
+{"id": 149819, "en": ["If they all split up the work, they could handle any job in a short period of time."], "ja": "全員で手分けして作業すれば、どんな作業も短時間にこなせてしまうだろう。"}
+{"id": 149823, "en": ["Of course, doubts will naturally arise as to whether a large group of people like that could sneak around the mansion without being noticed,", " but those are all settled by the `Devil's Proof'."], "ja": "それだけの大勢の人間が、あの屋敷内に気配もなく潜んでいたのかという疑問は当然、出るだろうが、 これも“悪魔の証明”で決着できる。"}
+{"id": 149826, "en": ["You can't deny that even 100 people were there just because they weren't seen or noticed."], "ja": "気配がなかった・姿を見なかった＝屋敷内に１００人いたことの否定、にはならないからだ。"}
+{"id": 149831, "en": ["Even though I'm saying it myself, it's such a stupid argument that it makes me wanna throw up!", "  However, because it's such a dirty move, it's a perfect one to use against a witch."], "ja": "自ら口にしておきながら何て暴論だろうな、反吐が出るぜ！ 　だが、そんなド汚ぇ一手だからこそ、魔女への一手に相応しいんだ。"}
+{"id": 149834, "en": ["Well, this is just my imagination,", " ...but what if about 100 suspicious men wearing goat masks were hiding in the shadows...", "  Something like that's worse than laughable, almost like they're cockroaches."], "ja": "まぁ、想像だけにせよ、 …山羊の仮面被った不審な男たちが、１００人も物陰にササッと隠れてて……、 何てのは、笑えるを超えて、ゴキブリみたいだよな。"}
+{"id": 149837, "en": ["If you see one, it means there's 100 more hiding somewhere."], "ja": "１匹見たら物陰には１００匹隠れてるってわけだ。"}
+{"id": 149844, "en": ["\"...Well, I do think it's a ridiculous argument that's horribly twisted.", "  If my opponent were human, I'm sure they'd yell at me like I was out of my mind."], "voix": "but", "ja": "「……まぁ、屁理屈まみれの暴論だとは思うぜ。 相手が人間だったなら、寝言を言うなと怒鳴られるところだろうよ。"}
+{"id": 149849, "en": ["  ...But my opponent is a witch.", "  And after all, that's the kind of competition we're having, isn't it?", "  I'll use any kind of reckless argument to explain it using humans and deny the witch!!\""], "voix": "but", "ja": "……だが、俺の相手は魔女だ。 そして、俺たちがやってるのはそういう勝負なんだろう？ 　どんな暴論であろうとも、人間で説明を付け、魔女を否定する！！」"}
+{"id": 149854, "en": ["\"...Anyway, with this move, I won't have to doubt any of the 18 who are close to me again.", "  I won't suffer a defeat like last time again...!!\""], "voix": "but", "ja": "「……とにかく、この一手で俺は二度と親しい１８人のみんなを疑わなくて済む。 俺は二度とッ、前回の失敗は繰り返さないッ…！！」"}
+{"id": 149860, "en": ["\"...I see.", "  You have learned from your previous defeat.", "  That is good.", "  It's no surprise that you've become so devious now that you're in your third game.\""], "voix": "ron", "ja": "「……なるほど。 前回の失敗を学ばれているのですね。 良いことですよ。 さすがに三度もゲームを重ねると要領がよくなるものです。"}
+{"id": 149865, "en": ["\"......You first strengthen your own defense.", "  That is truly a solid first step.", "  Quite a spectacular move, I would say.\""], "voix": "ron", "ja": "………まずは自陣の守りを固める。 実に堅実な初歩です。 なかなかの妙手と思いますよ。」"}
+{"id": 149871, "en": ["\"Well, even if we do assume that there's a 19th person,", " there are still a few tricks left that I can't resolve, like the actual number of master keys, no matter how many humans I add.", "  ...Still, it isn't bad as a first step, for the time being.\""], "voix": "but", "ja": "「まぁ、１９人目の人物を仮定したとしても、 マスターキーの本数などのように、何人、人間を増やしてもクリアできないトリックも残ってる。 …しかし、とりあえずの初手としては悪くないはずだ。」"}
+{"id": 149878, "en": ["\"Battler-sama, your trump card is the important piece called the 19th person.", "  ...You countered my move of asking where the proof was by using the `Devil's Proof'.", "  ...A good skirmish.", "  Although I must apologize for making a move by myself when Milady isn't here,", " ......I find that I too am growing slightly interested.", "  ...I wonder if you will allow me to make yet another move on Milady's behalf?\""], "voix": "ron", "ja": "「戦人さまの切り札、１９人目の人物という大駒。 ……証拠はあるのかとの私の一手に、戦人さまは“悪魔の証明”で反撃。 ……良い攻防です。 お嬢様のおられないところで、勝手に手を進めてしまうのは申し訳ないのですが。 ………私も少し、面白くなってきてしまったところです。 …お嬢様に代わり、さらに一手進めさせていただきましょうか。」"}
+{"id": 149882, "en": ["\"...Let's have it.", "  I've got no shortage of opponents, be they witches or demons!\""], "voix": "but", "ja": "「……来いよ。 魔女だろうと悪魔だろうと、相手に不足はねぇ！」"}
+{"id": 149889, "en": ["\"This move you presented called the `Devil's Proof'...", "  It's a specialty of us demons, but there are also various other moves available to us.", "  ...Do you know of a move called `Hempel's Raven'?\""], "voix": "ron", "ja": "「戦人さまの指された一手“悪魔の証明”。 これは私ども悪魔の十八番でございますが、他にも私どもにはいくつもの手がございます。 ……“ヘンペルのカラス”という一手はご存知ですかな？」"}
+{"id": 149895, "en": ["\"Hempel's Raven...??", "  What are you talking about?\""], "voix": "but", "ja": "「ヘンペルのカラスぅ…？？ 　何の話だ？」"}
+{"id": 149906, "en": ["\"...*cackle*cackle*"], "voix": "bea", "ja": "^^!s1「…くっくっくっく。"}
+{"id": 149908, "en": ["  Ah-hahahahahahahahah-hahahahah-hah-ha...!\""], "voix": "bea", "ja": ":voicedelay 2530^^あっははははははははははははっはっは…！」"}
+{"id": 149920, "en": ["Just then...aah, that enraging laugh I've heard so many times started echoing."], "ja": "その時、…あぁ、何度聞いても腹立たしいあの笑い声が木霊してくる。"}
+{"id": 149940, "en": ["The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared."], "ja": "部屋が眩い黄金の蝶たちで満たされ、その金色の旋風の中に、あの黄金の魔女が姿を現す。"}
+{"id": 149946, "en": ["\"If it isn't Milady.", "  Good morning.\""], "voix": "ron", "ja": "「これはこれはお嬢様。 おはようございます。」"}
+{"id": 149952, "en": ["\"I thought you might be doing something interesting while I was away."], "voix": "bea", "ja": "「妾のいないところで、何やら面白そうなことをしていると思えば。"}
+{"id": 149957, "en": ["  ...`Hempel's Raven', was it?", "  Such a familiar old move I could almost laugh.", "  To think the day has come when I get to show it off to Battler.", "  It's a classic move to use against a `Devil's Proof'.\""], "voix": "bea", "ja": "……“ヘンペルのカラス”か。 何とも笑える懐かしい一手よ。 よもや戦人に披露する日が来ようとはな。 それは“悪魔の証明”に並ぶ古典的一手だ。"}
+{"id": 149963, "en": ["\"...Ronove, I will make this move.", "  Do not get in the way of my fun.\""], "voix": "bea", "ja": "……ロノウェ、それは妾が指す一手ぞ。 妾の楽しみを減らしてくれるな。」"}
+{"id": 149970, "en": ["\"So you've finally shown up, you guffawing witch.", "  I see you're laughing like a freak just as usual."], "voix": "but", "ja": "「出やがったな、ゲラゲラ魔女め。 相変わらず下品に笑いやがって。"}
+{"id": 149975, "en": ["  ...This guy was talking behind your back just now, telling me how undignified you look when you do that.", "  Right?\""], "voix": "but", "ja": "……こいつもお前のこと、笑い方に品がねぇって陰口言ってたぜ。 なぁ？」"}
+{"id": 149984, "en": ["\"How rude.", "  Is that true?\""], "voix": "bea", "ja": "「それは心外な。 本当か。」"}
+{"id": 149990, "en": ["\"Nonsense.", "  Why would I speak such gossip about Milady, ", "whom I regard with such sincere respect?\""], "voix": "ron", "ja": "「滅相もない。 心より尊敬申し上げているお嬢様に、 この私めがどうしてそのような陰口を申せましょうか。」"}
+{"id": 149997, "en": ["\"...I can't believe you'd say something so shameless.", "  Doesn't look like we'll be getting along well together...\""], "voix": "but", "ja": "「…よくもしゃあしゃあと言えるもんだなぁ。 お前とは仲良くなれそうにないぜ…。」"}
+{"id": 150003, "en": ["\"*cackle*cackle*cackle*", "  Well, that is fine.", "  Let us return to the point at hand.", "  `Hempel's Raven' is used to show actual proof using the contrapositive."], "voix": "bea", "ja": "「くっくっくっくっく。 まぁ良い。 話を戻そう。 “ヘンペルのカラス”は、実証を対偶的に行なってみせる。"}
+{"id": 150008, "en": ["  ...In other words, it is a move like this...", "  What must you do to prove that ravens are black?\""], "voix": "bea", "ja": "……つまりこういう手だ。 カラスが黒いことを証明するにはどうすればいい？」"}
+{"id": 150014, "en": ["\"Huh?", "  What are you talking about??", "  Prove that ravens are black..."], "voix": "but", "ja": "「は？ 　何の話だ？？ 　カラスが黒いことを証明って…。"}
+{"id": 150018, "en": ["  ...Wouldn't you just have to catch a raven and check to see if it's black?\""], "voix": "but", "ja": "…カラスを捕まえてきて、色が黒いことを確認すりゃいいだけの話だろ。」"}
+{"id": 150024, "en": ["\"That's right.", "  You must simply prove that `a raven = black'."], "voix": "bea", "ja": "「その通り。 “カラス＝黒い”、を証明すれば良い。"}
+{"id": 150029, "en": ["  Do you see that, if you instead prove that `birds that aren't black = not ravens', you would reach the same argument?", "  If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black,", " then as a result, you can claim that `therefore, black birds are ravens'.", "  This is called an argument by the contrapositive.", "  ...Is that too difficult for you?\""], "voix": "bea", "ja": "ということは、“黒くない鳥＝カラスではない”、を証明しても、同じ論法になるのがわかるかな？ 　世界中の、カラスでない鳥を全て調べ、それらが黒くないことを証明すれば、 それは結果的に、“ゆえに黒い鳥はカラスである”となるわけだ。 これを対偶論法という。 …そなたには難しいか？」"}
+{"id": 150035, "en": ["\"Yeah, no kidding.", "  ...I've got no idea what you're saying.\""], "voix": "but", "ja": "「あぁまったく。 …何言ってやがるのかさっぱりだ。」"}
+{"id": 150042, "en": ["\"Battler-sama,", " what about this example?", "  Let us say that you have two boxes, and one of them is a winner, with a cookie inside.", "  Of course, the other one is a loser and is empty.\""], "voix": "ron", "ja": "「戦人さま。 こういう例え話はいかがでしょう。 ２つの箱があり、片方はアタリでクッキーが入っているといたします。 もちろん、もう片方はハズレで空っぽです。」"}
+{"id": 150048, "en": ["For example, here are two boxes,", " where one has a cookie inside and means you win...while the other is empty and means you lose."], "ja": "例えば、ここに２つの箱があり、 片方はアタリで中にクッキーがあり、もう片方はハズレで空っぽだとする。"}
+{"id": 150051, "en": ["At this moment, `it has a cookie inside = you win',", " which implies that `you do not win = it had no cookie inside'."], "ja": "この時、“クッキーが入っている＝アタリ”となり、 同時に“アタリでない＝クッキーが入っていない”ともなるわけだ。"}
+{"id": 150054, "en": ["When such a relationship exists, the latter is called the contrapositive..."], "ja": "この関係にある時、後者を対偶と呼ぶ…。"}
+{"id": 150057, "en": ["When `if A then B' is true, then `if not B then not A' is also true."], "ja": "“ＡであるならＢ”である時、それは同時に“ＢでないならＡではない”でもあるわけだ。"}
+{"id": 150064, "en": ["\"...Well, that's obvious.", "  If the one you guessed was the loser, then you'd automatically know that the other one was the winner.\""], "voix": "but", "ja": "「…そりゃ当然だろうよ。 もし選んだ方がハズレだったなら、もう片方は自動的にアタリってことになる。"}
+{"id": 150069, "en": ["\"...In other words, if you choose the box at random, whether it's the winner or the loser,", " you'll be able to figure out which box has the cookie in it after your first move.\""], "voix": "but", "ja": "…つまり、箱を適当に選び、アタリを引こうとハズレを引こうと、 最初の一手でどっちの箱にクッキーが入っているか、特定できるわけだ。」"}
+{"id": 150075, "en": ["\"That is correct.", "  If the cookie is in the box you open, then the `Devil's Proof' is satisfied.", "  You can directly prove that `this box is the winner = this box has a cookie in it'."], "voix": "bea", "ja": "「その通り。 開けた箱にクッキーが入っていたなら“悪魔の証明”を満たす。 “この箱はアタリ＝この箱にはクッキーが入っている”をまさに実証できるわけだ。"}
+{"id": 150080, "en": ["However, if the box you open is empty, then the reverse, Hempel's Raven, is satisfied.", "  In other words `this box does not have a cookie in it = this box isn't the winner.\""], "voix": "bea", "ja": "しかし、開けた箱が空っぽだったなら、この時は逆に“ヘンペルのカラス”を満たす。 “この箱にクッキーが入っていない＝この箱はアタリではない”となるのだから。"}
+{"id": 150086, "en": ["\"And as long as we accept the premise that there are no more than two boxes,", " the contrapositive shows that the other box is automatically the winner.\""], "voix": "bea", "ja": "そしてそれは、箱が２つしかないことを前提としている限り、 それはもう片方の箱が自動的にアタリであることを対偶的に示している。」"}
+{"id": 150092, "en": ["\"...Well, I think I'm starting to see your reasoning.", "  Only poison can stop poison, and only twisted logic can stop twisted logic."], "voix": "but", "ja": "「……まぁ、何となく理屈はわかったぜ。 毒を制するには毒、屁理屈には屁理屈ってわけだ。"}
+{"id": 150097, "en": ["  ...Then what?", "  How does that overturn my claim that, `because there's definitely a 19th human hidden on this island,", " even if all 18 people have alibis,", " I still won't have to accept witches'...?\""], "voix": "but", "ja": "…それで？ 　俺の、“島には１９人目の人間が隠れているに違いないから、 １８人全員にアリバイがあっても、 それは魔女を認めることにはならない”をどう切り替えしてくれるってんだ……？」"}
+{"id": 150103, "en": ["\"Very well.", "  I will teach you about my move.", "  First of all, you are stating that `the culprit is not among the 18 = the culprit is a 19th person'.", "  *cackle*cackle*!", "  ...So if you use the contrapositive, it ends up like this."], "voix": "bea", "ja": "「良かろう。 妾の手は教えよう。 まずそなたは、“１８人の中に犯人はいない＝ならば犯人は１９人目”としている。 くっくっくっく！ 　…ならば対偶として、こうなるわけだ。"}
+{"id": 150109, "en": ["  In short, `the culprit is not a 19th person = the culprit is one of the 18'!\""], "voix": "bea", "ja": "つまり、“犯人は１９人目ではない＝ならば１８人の中に犯人がいる”！」"}
+{"id": 150115, "en": ["\"Huuuh?!", "  What the, what do you mean?!\""], "voix": "but", "ja": "「はぁ？！ 　何だと、そりゃどういう意味だッ？！」"}
+{"id": 150121, "en": ["\"Only that I've countered your move.", "  Let's try and keep things simple."], "voix": "bea", "ja": "「そなたの指し手を逆手に取っただけだがな。 そう難しい話ではあるまいに。"}
+{"id": 150126, "en": ["  Ronove, explain.", "  It seems you've made things easy enough for Battler to understand with your cookie in a box analogy.\""], "voix": "bea", "ja": "ロノウェ、説明せよ。 そなたのさっきのクッキーの箱の例えは戦人にわかりやすいらしい。」"}
+{"id": 150134, "en": ["\"Then forgive my presumption.", "  Allow me to explain my earlier example once more.\""], "voix": "ron", "ja": "「それでは僭越ながら。 先ほどの例え話でもう一度ご説明させていただきます。」"}
+{"id": 150140, "en": ["Allow me to repeat my earlier story about two treasure boxes,", " one of which has a cookie in it."], "ja": "先ほどの、２箱の宝箱があり、 どちらかにクッキーが入っているという話をもう一度繰り返させていただきます。"}
+{"id": 150144, "en": ["In this situation, you have an `18 person box' and a `19th person box'."], "ja": "この場合、片方の箱は“１８人”を示し、もう片方の箱は“１９人目”を示します。"}
+{"id": 150145, "en": ["So the cookie represents the culprit."], "ja": "ならばクッキーはつまり“犯人”を示すわけです。"}
+{"id": 150149, "en": ["Battler-sama, let's say you open the 18 person box."], "ja": "戦人さまは、１８人の箱を開けられます。"}
+{"id": 150150, "en": ["Because the cookie is not there, ", "you have paradoxically proven that `therefore, the cookie is in the 19th person box'."], "ja": "そしてクッキーがそこになかった為、 “＝クッキーは１９人目の箱に入っている”と逆説的に証明されたわけでございます。"}
+{"id": 150153, "en": ["That lets us make an even more paradoxical claim."], "ja": "ならばそれはさらに逆説的にこうも申し上げられます。"}
+{"id": 150156, "en": ["In other words, if it was first shown that the 19th person box was empty,", " it would prove at the same time that `the cookie is in the 18 person box'."], "ja": "つまり、１９人目の箱が空っぽであることを先に示したならば、 “１８人の箱の中にクッキーが入っている”ことを同様に実証してしまうわけです。"}
+{"id": 150159, "en": ["Battler-sama played this move in order to avoid having to doubt any of the 18,", " but it's now been used to prepare an `18 person attack'...!\""], "ja": "戦人さまが１８人を疑わなくて済むために打たれた一手が、 逆に“１８人攻め”の布石に使われてしまった…！"}
+{"id": 150169, "en": ["\"...Nngg, "], "voix": "but", "ja": "^^!s1「……んな、"}
+{"id": 150171, "en": ["...what the hell...?\""], "voix": "but", "ja": ":voicedelay 510^^……何だとぉ………。」"}
+{"id": 150184, "en": ["\"*cackle*cackle*cackle*cackle*!", "  If I go first and prove that the inside of the 19th person box is empty,", " you will automatically have to accept that ", "the cookie is in the 18 person box.", "  All I've done is say it the other way around, yes?\""], "voix": "bea", "ja": "「くっくくくくくく！ 　妾が１９人目の箱の中身が空っぽであることを先に証明すれば、 そなたは自動的に、 １８人の箱の中にクッキーがあることを認めなければならないということになる。 そなたは、それを逆の言い方で口にしたに過ぎんのだぞ？」"}
+{"id": 150190, "en": ["\"So, ...that move I was so confident in...was actually a double-edged sword?\""], "voix": "but", "ja": "「つまり、……俺の自信満々の一手は、同時に諸刃の剣でもあるってわけか。」"}
+{"id": 150196, "en": ["\"That's right.", "  As soon as you played that move and attempted to explain everything with a 19th person,", " you'd already taken on a risk that you might be forced to accept that the culprit was one of the 18.\""], "voix": "bea", "ja": "「その通りよ。 そなたの１９人目で全てを説明する一手は、それが破られた時、 １８人でしか説明できないことを認めざるを得ないリスクを背負っている。」"}
+{"id": 150206, "en": ["I see...", "  `Hempel's Raven'."], "ja": "なるほどな…。 “ヘンペルのカラス”。"}
+{"id": 150207, "en": ["...So this is a countering technique?!"], "ja": "……つまりは返し技ってことなのか？！"}
+{"id": 150210, "en": ["...Wait, if I really think about it, this counter is really disadvantageous for me."], "ja": "…いや、よくよく考えれば、これは俺にばかりやたらと不利な返し技だ。"}
+{"id": 150214, "en": ["This isn't a cookie we're talking about."], "ja": "クッキーという言い方がいけない。"}
+{"id": 150215, "en": ["If I imagine that the `loser' treasure chest actually has a bomb in it, it gets even clearer."], "ja": "宝箱の中に爆弾というハズレが１つだけ入っていると考え直してみると、さらによくわかる。"}
+{"id": 150218, "en": ["And there aren't just two treasure chests, ", "but 18 plus 1 more for the 19th person.", "  If you think of it as a total of 19 boxes, it gets even easier to picture."], "ja": "そして宝箱の数を２つではなく、 １８人分＋１９人目用ということで、 合計１９箱用意して考えれば、さらにわかりやすくなる。"}
+{"id": 150221, "en": ["First off, one of the premises of the human culprit theory is that the bomb will definitely be in one of these boxes."], "ja": "まず、人間犯人説は、必ずどれかの箱に爆弾が入っているという前提を成立させる。"}
+{"id": 150224, "en": ["I didn't want to place the bomb in the boxes for any of the 18, so I used the `Devil's Proof'...", "and created the 19th person box so I could throw the bomb in there.", "  ...That much was fine."], "ja": "俺は、その爆弾を１８人の誰の箱にも入れたくない為、“悪魔の証明”を使い、 １９人目の箱を生み出して、その中に爆弾を放り込んだわけだ。 ……ここまではいい。"}
+{"id": 150227, "en": ["But then, Beato struck back."], "ja": "しかし、ベアトはこう返した。"}
+{"id": 150230, "en": ["Now, if the contents of the 19th person box are empty, ", "that'll automatically mean that the bomb's in one of the other 18 boxes."], "ja": "ならば、１９人目の箱の中身が空っぽだったなら、 その時点で自動的に、１８人の誰かの箱の中に爆弾が入っていることが確定すると。"}
+{"id": 150233, "en": ["If I could examine what's inside all 18 of those boxes,", " then as long as I can show that the bomb isn't in any of them,", " I'll be able to safely show that the 18 are innocent."], "ja": "俺は１８人の箱の中身全てを調べ、 どの箱にも爆弾が入っていなかったことを証明すれば、 無事に１８人の無実を証明できるだろう。"}
+{"id": 150235, "en": ["If that were possible, I'd have nothing to fear!"], "ja": "これが可能ならば、俺は心強い！"}
+{"id": 150238, "en": ["However, in reality, that'll be almost absolutely impossible."], "ja": "しかし、それは現実には限りなく不可能なのだ。"}
+{"id": 150249, "en": ["The police wouldn't come here in this typhoon."], "ja": "ここには台風で警察が来られない。"}
+{"id": 150250, "en": ["We don't have access to scientific investigations or experts or anything."], "ja": "科学捜査も鑑識も何もない。"}
+{"id": 150251, "en": ["In short, we can't prove anything decisively!"], "ja": "つまり、何も確定的に示せない！"}
+{"id": 150254, "en": ["It'll be impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give."], "ja": "俺には１８人が口々に主張するアリバイを鵜呑みにする以上の検証が不可能なのだ。"}
+{"id": 150260, "en": ["That means I personally have to prove their innocence, and I have to do it perfectly."], "ja": "ならば、俺個人が彼らの無実を完全に確認しきらなければならない。"}
+{"id": 150263, "en": ["Like by staying with them the whole time, never letting them out of my sight for a second."], "ja": "例えば、ずっと一緒にいて一秒も漏らさず監視してるとか。"}
+{"id": 150266, "en": ["By doing that, I could probably be sure of that person's innocence, ", "sure that the bomb isn't in their box."], "ja": "そういうことをすれば、その人物に関してだけは無実を、 箱の中に爆弾がないと確認できたことになるだろう。"}
+{"id": 150270, "en": ["...However, in practical terms, that'll be impossible!"], "ja": "…しかし、そんなことは現実的に不可能だ！"}
+{"id": 150272, "en": ["In other words, I'd have to expend an incredible effort just to check the contents of one box."], "ja": "つまり、俺にはたった１箱でも、その中身を確認するには膨大な手間を必要とするわけだ。"}
+{"id": 150275, "en": ["And there are 18 of them!", "  In other words, unless I bound all 18 of them in chains and watch over them,", " it'll be impossible to prove that all of them have empty boxes."], "ja": "しかもそれを１８箱分も！ 　つまり、１８人全員を鎖で縛って監禁するくらいじゃなきゃ、 全員の完全な空箱証明は不可能だ。"}
+{"id": 150278, "en": ["However, Beato only has to open one box, the 19th person box,", " and show that it's empty to prove that the bomb's in one of the other 18 boxes.", "  (Furthermore, there's no need for her to show `which' of the 18 boxes has the bomb!)"], "ja": "しかし、ベアトは１９人目の箱を、たった１箱だけ開けて見せ、 それが空っぽだと証明するだけで、１８人の箱に爆弾があることを証明できてしまう。 （しかも、１８人の“どの”箱に入っているかを実証する必要がない！）"}
+{"id": 150281, "en": ["I've got 18 times more work to do to explain my pet theory than Beatrice does for hers..."], "ja": "俺とベアトでは、持論を説明する手間が１８倍も違うのだ……。"}
+{"id": 150293, "en": ["\"When a `Devil's Proof' exists in the world,", " it takes a vast amount of effort to argue against it, and there are many cases in which it is impossible to do because of the situation."], "voix": "bea", "ja": "「世の中には、“悪魔の証明”がそうであるように、 反論に膨大な手間が掛かり、事実上不可能であるケースが少なくない。"}
+{"id": 150299, "en": ["  However, `Hempel's Raven' turns that problem around...and makes it possible to prove things easily!\""], "voix": "bea", "ja": "しかし、“ヘンペルのカラス”はその問題を逆手に取り、容易に実証することを可能とする！」"}
+{"id": 150305, "en": ["\"By using `Hempel's Raven', various reckless arguments become possible to prove true or false."], "voix": "ron", "ja": "「“ヘンペルのカラス”を使えば、様々な暴論が実証可能なのです。"}
+{"id": 150310, "en": ["  ...For example, let us say I make the proposition `All humans except me = foolish'.", "  Normally, I would have to examine all of humanity except myself and show that they are all foolish."], "voix": "ron", "ja": "……例えば、“私以外の人間＝愚かである”という命題があったとします。 これを証明するには本来、私を除く全人類を調べ、愚かであることを証明しなければなりません。"}
+{"id": 150316, "en": ["...However, in reality, it would be impossible to investigate billions of people.", "  It's just the same sort of effort you'd need to open all 18 boxes.\""], "voix": "ron", "ja": "…しかし、何十億人も調べるなど、現実には不可能でしょう。 戦人さまの１８箱を開ける手間とまったく同じです。」"}
+{"id": 150322, "en": ["\"*cackle*cackle*!", "  However, by using `Hempel's Raven', the contrapositive of that proposition would change it into this.", "  If you, to use your phrase, spin the chessboard around on the claim that `All humans except me = foolish', ", "you would have to do nothing more than prove that `not foolish = me'.", "  ...And what do you think that means?\""], "voix": "bea", "ja": "「くっくっく！ 　しかし“ヘンペルのカラス”ならば、その命題は対偶的にこう変換される。 つまり“私以外の人間＝愚かである”を、そなた風に言うならば、 チェス盤を引っ繰り返し、“愚かではない＝私”として証明しても良いということだ。 ……つまりどういうことだと思う？」"}
+{"id": 150327, "en": ["\"*cackle*cackle*!"], "voix": "bea", "ja": "「くっくっくっく！"}
+{"id": 150332, "en": ["  As soon as I know the fact that `I am wise', ", "I will be able to show in an instant that every one of the billions of people in the human race is foolish.", "  In less than a second, I could finish proving that the entire human race is more foolish than me!!\""], "voix": "bea", "ja": "“妾が聡明である”という事実を知るだけで、 全人類は愚かであることの何十億人分もの証明が直ちに終了してしまうわけだ。 全人類が妾よりも愚かであることを、わずか１秒も掛けずに証明終了できる！！"}
+{"id": 150338, "en": ["\"It truly is the strongest and fastest QED in the world,", " this "], "voix": "bea", "ja": "世界最強最速のＱＥＤ。 これぞ"}
+{"id": 150344, "en": ["`Hempel's Raven'!\""], "voix": "bea", "ja": "“ヘンペルのカラス”ッ！」"}
+{"id": 150351, "en": ["\"Wha......What a ridiculous argument......!!!\""], "voix": "but", "ja": "「なッ、………何つぅ暴論だよ………！！！」"}
+{"id": 150357, "en": ["\"It is a very, very convenient move.", "  Not only demons, but gods also use it.", "  When they propose that `the blessed = the servants of a god',", " the contrapositive is `a human is not a servant of a god = he must not be blessed'.\""], "voix": "ron", "ja": "「これはとてもとても便利な一手ですよ。 悪魔どころか、神々も好む一手です。 “幸福である＝神の僕”を命題とする時、 対偶は“神の僕でない人間＝幸福であってはいけない”となります。」"}
+{"id": 150362, "en": ["\"So in order to prove that servants of gods are blessed with divine protection,", " they only have to bring ill fortune down upon those people who don't receive such protection.\""], "voix": "ron", "ja": "「つまり、神の僕がその加護によって幸福であることを実証する為には、 その加護を受けぬ人々が不幸であることを実証すればいいわけです。"}
+{"id": 150368, "en": ["\"......So, by bringing misfortune down upon those who don't believe in them,", " they prove their blessedness.\""], "voix": "ron", "ja": "………そして彼らは、 自らの神を信じない人々を不幸に突き落とすことで、自らの幸福を実証する。」"}
+{"id": 150375, "en": ["\"An enormous cost is required to give humans happiness.", "  ...However, it takes a lot less to bring humans misfortune."], "voix": "bea", "ja": "「人に幸福を与えるには莫大なコストが掛かる。 …しかし、人を不幸にするのに必要なコストははるかに安上がりだ。"}
+{"id": 150381, "en": ["  *cackle*cackle*cackle*cackle*cackle*", "  So by using `Hempel's Raven', gods are actually giving believers the joy of divine protection for cheap.\""], "voix": "bea", "ja": "くっくくくくくくくくく。 つまり、“ヘンペルのカラス”を使えば、神々は実に低コストで信者に加護の喜びを与えられるわけよ。」"}
+{"id": 150388, "en": ["\"...Y-You demon.", "  It's a demon's argument...", "  ...That's crazy...!!!\""], "voix": "but", "ja": "「あ、……悪魔だ。 悪魔の理論だ…。 …滅茶苦茶だ…！！！」"}
+{"id": 150394, "en": ["\"It seems we've gone off-topic.", "  Let us get back to the point.\""], "voix": "bea", "ja": "「話が逸れてしまったようだな。 そろそろ話を戻そうぞ。"}
+{"id": 150399, "en": ["\"The move for my counterattack is complete.", "  ...And now, in response to your claim of `the 19th person is the culprit, therefore, the 18 are innocent and the witch doesn't exist,' ", "I say `therefore, if I can prove that the culprit is not some 19th person,", " we can be sure that the culprit is either one of the 18 or a witch, ", "right?'\""], "voix": "bea", "ja": "妾の反撃の一手は以上だ。 ……そなたの、“１９人目が犯人だから、１８人は無実で魔女も存在しない”への反撃は、 “ならば、１９人目が犯人でないことを証明できたら、 １８人か魔女のどちらかが犯人ということで確定するぞ？” との確認だ。」"}
+{"id": 150412, "en": ["For a while, I just stood there, shocked, completely forgetting to close my mouth..."], "ja": "俺はしばらくの間、呆然となり開いた口を閉じることも忘れていた…。"}
+{"id": 150415, "en": ["Just when I'd thought I'd countered one of their strong points,", " their counterattack had been this reckless argument that I couldn't possibly have anticipated...!"], "ja": "ヤツらの得意手を逆手に取って、してやったりと思ったら、 その反撃は俺の想像をはるかに超えるさらに暴論…！"}
+{"id": 150420, "en": ["Is this...gonna be impossible after all...?!"], "ja": "やはり、…無理なのか…？！"}
+{"id": 150421, "en": ["To continue denying the witch on an island with no more than 18 people...", "and still believe in the innocence of those 18 people...", "  ...Is that just a delusion?!", "  Am I just trying to escape reality?!"], "ja": "１８人しかいないこの島で、魔女を否定しつつ、 にもかかわらず、１８人の無実を信じるなんて、 ………そんなのは妄想なのか？！ 　現実逃避でしかないのか？！"}
+{"id": 150431, "en": ["Not yet...", "  ...Don't give up this desperate struggle yet."], "ja": "まだだ…。 ……悪足掻きを止めるな。"}
+{"id": 150435, "en": ["Who cares about `Whoever's Raven'?"], "ja": "何が“何たらのカラス”だ。"}
+{"id": 150436, "en": ["They're just trying to confuse me by bringing up weird bits of trivia..."], "ja": "おかしな豆知識で煙に撒かれるな…。"}
+{"id": 150440, "en": ["I used the `Devil's Proof'."], "ja": "こっちは“悪魔の証明”で仕掛けた。"}
+{"id": 150441, "en": ["Don't feel uncertain about something you've used once."], "ja": "一度仕掛けた手に不安を持つな。"}
+{"id": 150442, "en": ["Believe in the spear you've drawn."], "ja": "繰り出した槍を信じろ。"}
+{"id": 150446, "en": ["And then, forcefully...gouge it in...!"], "ja": "さらに力強く、……抉り出せ……！"}
+{"id": 150454, "en": ["\"...We're still in the opening part of the game.", "  Do you plan to keep thinking on this level?\""], "voix": "bea", "ja": "「……まだまだ序盤だぞ。 この程度で長考するつもりか？」"}
+{"id": 150461, "en": ["\"........."], "voix": "but", "ja": "「……………………。"}
+{"id": 150471, "en": ["Ah, "], "voix": "but", "ja": "あ、"}
+{"id": 150473, "en": ["...wait a sec, "], "voix": "but", "ja": ":voicedelay 400^^……いや待て、"}
+{"id": 150475, "en": ["I want to be sure."], "voix": "but", "ja": ":voicedelay 480^^確認するぞ。"}
+{"id": 150480, "en": ["  I'll admit I talked about a 19th person to keep it simple,", " but if we're gonna use the `Devil's Proof' to raise the number of people above 18,", " then we'd have no way of knowing if there were 10 people, 100 people, or an indeterminate number of people."], "voix": "but", "ja": "確かに俺は、わかりやすく１９人目という言い方をしたが、 “悪魔の証明”によって１８人以上人間を増やせるなら、 それは１０人いるか１００人いるかもわからない、不特定多数ということだ。"}
+{"id": 150482, "en": ["  ~ib~There's always one more than you assume~ib~", "."], "voix": "but", "ja": "^~ib~^お前が想定する人数より常に１人多い^~ib~^。"}
+{"id": 150484, "en": ["  ...Get it?\""], "voix": "but", "ja": "…わかるか？」"}
+{"id": 150492, "en": ["They countered my twisted logic with something even more twisted."], "ja": "俺の屁理屈に、ヤツも飛び切りの屁理屈で返してきた。"}
+{"id": 150493, "en": ["So the only thing that could counter that...would be even crazier twisted logic...!"], "ja": "ならばそれに反撃できるのも、さらにぶっ飛んだ屁理屈だけなんだ…！"}
+{"id": 150502, "en": ["\"Hmm, I see.", "  ......Even if I somehow prove an alibi for the 19th person,", " as soon as I do, you will think up a 20th person and claim that they are the culprit.", "  By repeating this endlessly, you would make it so I kept searching for their alibis for all eternity.", "  ...I see, I see, *cackle*cackle*!", "  Just like a demon king summoning a plague of locusts.", "  I wouldn't expect anything less from Kinzo's grandchild.", "  It looks like you have been gifted with a talent in summoning.\""], "voix": "bea", "ja": "「ふむ、なるほど。 ………妾が１９人目のアリバイを何らかの方法で証明したとしても。 その瞬間にそなたは２０人目を生み出し、犯人だと主張する。 これを無限に繰り返すことによって、妾は永遠に彼らのアリバイの証明が終えられないというわけか。 ……なるほどなるほど、くっくっくっく！ 　さながら蝗の大群を呼び出す魔王よな。 さすがは金蔵の孫よ。 召喚術の才能には恵まれていると見える。」"}
+{"id": 150509, "en": ["\"...In short!", "  It's impossible to always prove an alibi for each person X outside of the first 18!", "  ...How do you like that, Beato...?!", "  Now that I know we're having a battle with twisted logic, I won't lose!\""], "voix": "but", "ja": "「……つまり！ 　１８人以外の存在Ｘは、常にアリバイを証明することが不可能なんだ！ 　……どうだベアト…！ 　屁理屈合戦だとわかれば俺も負けねぇぜ！」"}
+{"id": 150518, "en": ["\"*cackle*cackle*cackle*cackle*cackle*cackle*!!", "  How foolish...", "  Who do you think I am?", "  I am the Endless Witch!", "  The thought that you could challenge me endlessly is just absurd."], "voix": "bea", "ja": "「くっくくくくくくくくくくくくくく！！ 　愚かしいぞ…。 妾を誰と心得る？ 　妾こそは無限の魔女！ 　その妾に無限にて挑むとは片腹痛いわ。"}
+{"id": 150523, "en": ["  Endless control means that I am able to kill endlessly.\""], "voix": "bea", "ja": "無限を操ることはつまり、無限を殺すこともできるということ。」"}
+{"id": 150528, "en": ["\"...When your 19th person folds, you will summon a 20th,", " and when your 20th person folds, you will summon a 21st,", " and when your 21 person folds and your 22nd person folds,", " you will summon a 23rd person, a 34th person, a 64358223579673204th person!", "  Did you think you'd have me at your mercy for all eternity?!\""], "voix": "bea", "ja": "「……妾が１９人目を斬れば、そなたは２０人目を呼び、 ２０人目を斬れば２１人目を呼び、 ２１人目を斬れば２２人目を斬れば、 ２３人目を呼び３４人目を呼び６４３５８２２３５７９６７３２０４人目を呼びッ、 妾を永遠に翻弄できるとでも？！"}
+{"id": 150534, "en": ["\"I laugh at `infinite regress'!"], "voix": "bea", "ja": "“無限後退”とは笑わせるッ、"}
+{"id": 150541, "en": ["  The `infinite' doesn't work against me!!\""], "voix": "bea", "ja": "妾に無限は通じぬわ！！」"}
+{"id": 150558, "en": ["\"Well then, how will you kill my `endless'?  Just try and show me!!\""], "voix": "but", "ja": "「ほぅ、ならばどうやってこの俺の“無限”を殺すんだよ、見せてみろよ！！」"}
+{"id": 150580, "en": ["\"#ff0000I have the power to speak the truth in red</i>!!!\""], "voix": "bea", "ja": "^^!s0「妾には真実を赤で語る力があろうがッ！！！」"}
+{"id": 150593, "en": ["\".........!!", "  ......Here it comes......\""], "voix": "but", "ja": "「…………………ッ！！ 　………来やがったなぁ…………。」"}
+{"id": 150598, "en": ["\"When I speak in red, it will contain absolutely no illusions.", "  If I say once in red that there are no more than 100 people on this island,", " you will no longer be permitted to create a 101st person."], "voix": "bea", "ja": "「妾が赤で語る時、そこには一切の幻想がない。 妾がこの島には１００人しかいないと一言赤で語れば、 そなたにはもはや１０１人目を生み出すことは叶わぬのだ。"}
+{"id": 150603, "en": ["*cackle*cackle*!", "  See, Battleeer?", "  What truth shall I tell in red this time?", "  Where shall I strike for the kill and force you into hopelessness?", "  *cackle*cackle*cackle*!", "  Come, show me your usual frightened face...\""], "voix": "bea", "ja": "くっくっくっく！ 　ほぅら、戦人ぁ。 今度はどんな真実を赤で語ってみせようか？ 　どんな拠り所を叩き斬って、そなたを絶望に突き落としてやろうか？ 　くっくっくっくっく！ 　そら、いつもの怯えた顔を見せてみるがいい……。」"}
+{"id": 150614, "en": ["\".........\""], "voix": "but", "ja": "「…………………………。」"}
+{"id": 150616, "en": ["\".........What?\""], "voix": "bea", "ja": "「………………何？」"}
+{"id": 150624, "en": ["\"...Ihihihihi.\""], "voix": "but", "ja": "「……いっひっひっひっひ。」"}
+{"id": 150626, "en": ["\"...Why...are you laughing...?\""], "voix": "bea", "ja": "「…そなた、…笑うか…。」"}
+{"id": 150633, "en": ["I wonder what kind of creepy look I had on my face as I laughed right then."], "ja": "俺は今、どんな薄気味悪い顔で笑ってるんだろうな。"}
+{"id": 150634, "en": ["That red sure is scary.", "  ...Every time it jumps out, I'm driven into the depths of hopelessness."], "ja": "赤は怖ぇさ。 …こいつが飛び出す度に、俺は絶望の底へ叩き込まれる。"}
+{"id": 150637, "en": ["But...I've already realized something.", "  ...There's no need to be overly afraid of the red."], "ja": "しかし、……もう俺は気付いたのさ。 …赤は、不必要に恐れる必要がないんだ。"}
+{"id": 150644, "en": ["\"......You've brought out your trump card again."], "voix": "but", "ja": "「………また抜きやがったな、伝家の宝刀だ。"}
+{"id": 150649, "en": ["  So...?", "  How and for what will Beatrice-sama use the red this time?\""], "voix": "but", "ja": "それで…？ 　今度はベアトリーチェさまは、何をどう赤で語って下さるってんだ？」"}
+{"id": 150656, "en": ["\"...Hoh.", "  What do you mean by that?", "  Suddenly looking so relaxed...\""], "voix": "bea", "ja": "「……ほぉ。 それはどういう意味か。 急に余裕を見せおって…。」"}
+{"id": 150662, "en": ["\"Sorry, but I was waiting for you to take out that blood-red treasured sword of yours.", "  ...Let's see, what'll you proclaim in red this time?"], "voix": "but", "ja": "「悪ぃが、その真っ赤な宝刀は、俺も抜いてくれるのを待ってたんだ。 ……さて、お前は今度は何を赤で宣言してくれるんだ？"}
+{"id": 150667, "en": ["You aren't going to say `the culprit was one of those 18 people', are you?", "  Be careful, since that'd mean self-destruction for you, right?", "  That'd be the same as throwing away your own witch theory yourself.", "  A complete resignation.\""], "voix": "but", "ja": "“犯人は１８人の中にいる”とでも言ってくれるのか？ 　言っとくが、そいつは自爆だぜ？ 　その時点で、お前は魔女説を自ら捨てたも同然。 まさに投了だ。」"}
+{"id": 150673, "en": ["That's right,", " the red wasn't always a weapon that worked in Beato's favor alone.", "  It was the other way around.", "  If she used it the wrong way, it was dangerous enough that she could bring about her own death."], "ja": "そうさ。 赤は常にベアトの武器になるとは限らない。 それどころか、誤って使えば、自らをも死に至らしかねないほどに危険なのだ。"}
+{"id": 150676, "en": ["If she used it carelessly and said something that ended up denying herself, that'd be exactly the same as self-destructing."], "ja": "もし迂闊に使い、自らを否定するようなことを言ってしまえば、それはまさに自爆も同然。"}
+{"id": 150682, "en": ["\"Of course, it'd be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.", "  ...No matter who the culprit actually was, I'd definitely have to deal with some tough emotions...\""], "voix": "but", "ja": "「確かに俺にとっても、１８人の中に犯人がいると赤で言われることは、受け容れたくない悲しい事実さ。 ……例え誰が犯人であっても、俺はきっと辛い気持ちになるだろうぜ…。"}
+{"id": 150688, "en": ["\"But before that, it would mean your defeat!"], "voix": "but", "ja": "^^!s0　だが、それはそれ以前にお前の敗北も意味するッ！"}
+{"id": 150695, "en": ["  Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!", "  If you wanted us to finish each other off in a simultaneous clash, I'd say that's a pretty interesting move.", "  However, this particular battle will end in my victory!!\""], "voix": "but", "ja": "^^!sd 　人間が犯人だとお前が赤で語ることは、お前の投了宣言にも等しい！！ 　お前が、俺と刺し違えても相打ちにしたいってんなら、それも面白い一手だろうぜ。 だが、この勝負は俺の勝ちで終わるッ！！」"}
+{"id": 150702, "en": ["Beatrice's red was her true trump card."], "ja": "ベアトリーチェの赤は、まさに伝家の宝刀。"}
+{"id": 150705, "en": ["When that person speaks in red, it's definitely the truth, and no amount of proof or counterarguments can change that."], "ja": "ヤツが赤で語ったことは証拠も反論の余地もなく、それが真実となって確定してしまう。"}
+{"id": 150708, "en": ["Until now, she's used that to severely wound me, and each time, the tiny foundations supporting my heart get split in half."], "ja": "それらは俺を何度も叩き斬り、わずかな心の拠り所をいつも真っ二つにしてきた。"}
+{"id": 150711, "en": ["However, if she uses it carelessly, then I can also gleam a little information about the truth."], "ja": "だが、迂闊に使えばそれは俺に真相を探る情報とされてしまうこともある。"}
+{"id": 150714, "en": ["...In the last game, I used that to my advantage, especially during the chapel's closed room trick,", " and almost completely got her boxed in at one point."], "ja": "…俺は前回、特に礼拝堂の密室トリックの時、それを逆手に取り、 一度はぎりぎりまで追い詰めたはずだ。"}
+{"id": 150720, "en": ["But she was pretty sly herself."], "ja": "だがヤツもなかなかに狡猾。"}
+{"id": 150721, "en": ["She learned from experience, and since then, she's started using discretion in the timing of her red..."], "ja": "それに懲り、以来、慎重に赤を使うタイミングを計るようになった…。"}
+{"id": 150724, "en": ["This feeling of tension was almost literally like a battle with real swords."], "ja": "この緊張感はまるで、文字通りの真剣勝負のようだ。"}
+{"id": 150729, "en": ["...This is a high-level intellectual battle."], "ja": "…こいつは高度な知能戦。"}
+{"id": 150730, "en": ["...No, not an intellectual battle."], "ja": "……いや、知能戦じゃない。"}
+{"id": 150731, "en": ["This really is twisted logic."], "ja": "やっぱり屁理屈だ。"}
+{"id": 150734, "en": ["This was the world's craziest and worst battle of twisted logic...!!"], "ja": "こいつは、世界で最凶最悪の屁理屈合戦だ…！！"}
+{"id": 150742, "en": ["\"Okay, now it's time to hear your plan.", "  ...That's right.", "  To use your `Hempel's Raven', ", "first, you'll have to confirm in red how many humans there are other than the 18.", "  And after that, if you proclaim in red that none of the people in this group are the culprit...", "that's right, that might be a fatal wound to me.\""], "voix": "but", "ja": "「さぁ、今度はお前の手番だぜ。 ……そうさ。 お前の“ヘンペルのカラス”を使うには、 まず、１８人以外に何人の人間がいるのかを、赤で確定させる必要がある。 その上で、それらの人間についてさらに赤で犯人でないことを宣言したならば、 ……なるほど、こいつは俺にとって致命傷になるだろうぜ。」"}
+{"id": 150748, "en": ["\"......I'm surprised that you no longer have even an atom of fear for the red, which once terrified you so much..."], "voix": "bea", "ja": "「………あれほど怯えていた赤を、もはや微塵も怯えぬとはな…。"}
+{"id": 150753, "en": ["  You're quite resilient.\""], "voix": "bea", "ja": "逞しいヤツよ。」"}
+{"id": 150759, "en": ["\"Try taking it out.", "  That treasured sword, that trump card of yours.", "  This time, you might be able to make me surrender with a single stroke, right...?\""], "voix": "but", "ja": "「抜いてみろよ。 伝家の宝刀。 ……バッサリ決まって、今度こそ俺を屈服できるかもしれねぇぜ…？」"}
+{"id": 150766, "en": ["\"...*cackle*cackle*cackle*", "  ...Interesting.", "  I wouldn't have it any other way...\""], "voix": "bea", "ja": "「……くっくっくっくっくっく。 …面白い。 こうでなくてはな…。」"}
+{"id": 150774, "en": ["Agitate her.", "  Challenge her."], "ja": "煽る。 挑発する。"}
+{"id": 150775, "en": ["Drive her into a corner to make her speak in red..."], "ja": "ヤツに赤で語らせるよう、追い詰めるんだ…。"}
+{"id": 150780, "en": ["Of course her red's always wiping out my only rays of hope."], "ja": "確かにヤツの赤は、いつも俺の一縷の望みをぶった斬ってきた。"}
+{"id": 150781, "en": ["But...don't be afraid of that."], "ja": "しかし、……それを恐れるな。"}
+{"id": 150787, "en": ["On this island overcome with falsehoods and illusions, the only thing I can trust is...", "the information she speaks in red."], "ja": "この、虚偽と幻想で侵食された島で、たったひとつ信じることができるのが、 ヤツが語る赤の情報だけなのだ。"}
+{"id": 150790, "en": ["It's my only way across the chasm of hell.", "  Just a single tightrope."], "ja": "落ちれば奈落という、崖と崖の間に見出す唯一の活路。 たった一本の綱渡り。"}
+{"id": 150795, "en": ["Her merciless blood-red blade is the only way I can survive."], "ja": "ヤツの慈悲無き真っ赤な刃こそが、唯一の生きる道なのだ。"}
+{"id": 150798, "en": ["...This isn't just walking on a tightrope, it's like literally walking on the edge of a blade..."], "ja": "…それは文字通り、綱渡りどころか、刃の上を歩くようなもの…。"}
+{"id": 150802, "en": ["Of course I'm afraid."], "ja": "もちろん、俺は恐れている。"}
+{"id": 150803, "en": ["Because my victory condition is the denial of witches, then, to use her contrapositive logic, the culprit must be human."], "ja": "俺の勝利条件である魔女否定は、ヤツの言う対偶では、＝犯人は人間、となる。"}
+{"id": 150807, "en": ["But I didn't want to search for a culprit amid the 18."], "ja": "でも俺は、１８人の中に犯人を求めたくない。"}
+{"id": 150808, "en": ["...That's what made me stick to a weak position, since I had to claim both that it couldn't be a witch and that it couldn't be one of the 18.", "  Last time, I was unable to understand that, so that's where she hit me, leaving me tattered and defeated."], "ja": "…だからこそ、魔女も１８人も同時に否定しなければならないという弱点を抱え、 にもかかわらずそれを理解できず、そこを突かれて前回はボロボロに負けた。"}
+{"id": 150814, "en": ["...But that's okay."], "ja": "……しかし、それでいい。"}
+{"id": 150815, "en": ["Let her hit me.", "  Let her attack.", "  No problem..."], "ja": "突かせろ。 攻めさせろ。 上等だ…。"}
+{"id": 150819, "en": ["Someone said it once in an old sword-fighting movie."], "ja": "古いチャンバラ映画で誰かが言ってたぜ。"}
+{"id": 150820, "en": ["That `A good fortress has one, and only one, intentionally weak point'."], "ja": "「良い城には一箇所だけ、わざと弱い部分がある」ってな。"}
+{"id": 150824, "en": ["The enemy would gather there.", "  They would be lured there."], "ja": "敵はそこに群がる。 誘き出される。"}
+{"id": 150825, "en": ["And that would be where the actual battle took place."], "ja": "そしてそこが決戦場となる。"}
+{"id": 150829, "en": ["...As long as I understood my weak points,", " and as long as she wanted to attack those weak points,", " ...it was as if I were luring her into launching an attack there..."], "ja": "…俺が弱点を理解し、 ヤツが俺のこの弱点を攻めたいと思う限り、 ……それはつまり、そう攻めるよう俺が誘導したのと同じことなんだ…。"}
+{"id": 150832, "en": ["Gauge the distance between us with care, ...retreating step by step.", "  Make them move forward."], "ja": "間合いを慎重に計りながら、…じりじりと後退するんだ。 向こうに先に抜かせるんだ。"}
+{"id": 150846, "en": ["The more she recklessly flourished that red, the more chances I would get to strike back."], "ja": "ヤツが闇雲に赤を振り回せば振り回すほど、俺に反撃のチャンスは増える。"}
+{"id": 150850, "en": ["Don't be afraid of the red."], "ja": "赤に怯えるな。"}
+{"id": 150851, "en": ["Keep her cornered, so that she'll have no choice but to refute me with the red...!"], "ja": "むしろ、赤で反論せざるを得ないよう、追い詰めろ……！"}
+{"id": 150854, "en": ["No matter how oppressively she speaks in red,", " ...that's right, that red itself is the same as fresh blood leaking from her wounds."], "ja": "ヤツがどんなに高圧に赤を語ろうとも、 ……そう、その赤こそは、ヤツの傷口より噴出す血潮も同じなのだ。"}
+{"id": 150865, "en": ["\"So,", " ...what's wrong?", "  ...First of all, why don't you tell me how many people are on this island total?", "  If you don't, your raven can't cut me up...!\""], "voix": "but", "ja": "「さぁ。 …どうしたよ。 ……まずはこの島に合計で何人いるのか、赤で語ってもらおうじゃねぇか。 さもないと、お前のカラスは俺に斬り込めないぜ……！」"}
+{"id": 150871, "en": ["\".........Hmph.", "  ...How surprising that you can be this desperate and yet this difficult.", "  ...One cannot make light of someone putting their life on the line, no matter what the era."], "voix": "bea", "ja": "「…………………ふ。 …破れかぶれが、こうもやり難いとは。 …捨て身というヤツは、いつの時代も侮れんな。"}
+{"id": 150880, "en": ["  ...It's no surprise you're Kinzo's grandchild."], "voix": "bea", "ja": "……やはり金蔵の孫か。"}
+{"id": 150881, "en": ["  The more cornered you are,"], "voix": "bea", "ja": "^^!s1追い詰められれば追い詰められるほどに、"}
+{"id": 150883, "en": [" ......the bolder you become!\""], "voix": "bea", "ja": ":voicedelay 2810^^…………不敵！」"}
+{"id": 150896, "en": ["\"...Ihihihi...\""], "voix": "but", "ja": "「…いっひっひっひ…。」"}
+{"id": 150904, "en": ["Ronove cleared his throat."], "ja": "ゴホンとロノウェが咳払いをする。"}
+{"id": 150912, "en": ["\"It appears to be a stalemate.", "  That black tea I worked so hard to make is getting cold, "], "voix": "ron", "ja": "「膠着しましたね。 せっかくの紅茶も冷めてしまいますよ、"}
+{"id": 150914, "en": ["Milady.\""], "voix": "ron", "ja": ":voicedelay 2520^^お嬢様。」"}
+{"id": 150920, "en": ["\"......Nng.\""], "voix": "bea", "ja": "「………く。」"}
+{"id": 150924, "en": ["Ronove, who was supposed to be her ally, roguishly rushed her into making her next move."], "ja": "味方のはずのロノウェが、主に悪戯っぽく次の手を急かす。"}
+{"id": 150927, "en": ["Beato probably thought she'd managed to smile back and appear confident, ...but she couldn't hide the sweat building up on her forehead."], "ja": "ベアトは笑いを返し、余裕をアピールしたつもりだったろうが、……額に浮かぶ汗を隠せない。"}
+{"id": 150930, "en": ["By now, she had completely lost the confident feeling that had allowed her to turn her nose up at her worthless opponent."], "ja": "格下の相手を鼻であしらってやろうという余裕は、今や完全に失われていた。"}
+{"id": 150934, "en": ["Of course, she probably wouldn't be cornered by something like this."], "ja": "もちろん、ヤツもこの程度で追い詰められているわけではないだろう。"}
+{"id": 150935, "en": ["...She's just being cautious."], "ja": "…ただただ、…慎重なだけなのだ。"}
+{"id": 150939, "en": ["Until now, I've been inexperienced."], "ja": "これまでは俺が不慣れだった。"}
+{"id": 150940, "en": ["I didn't know how to fight, and I wasn't strong enough to be her opponent."], "ja": "戦い方がよくわからず、対戦相手として力量不足だった。"}
+{"id": 150943, "en": ["However, now that we've reached the third game, she's realized that I'm starting to become more skilled,", " and she's grown more cautious, thinking every move over carefully..."], "ja": "しかし、俺が三度目のゲームともなり、手練れ始めていることに気付き、 より慎重に、そして一手一手に熟考を始めたのだ……。"}
+{"id": 150948, "en": ["Sure, that's just fine, Beatrice."], "ja": "あぁ、それでいいぜ、ベアトリーチェ。"}
+{"id": 150949, "en": ["Sorry to keep you waiting."], "ja": "そして待たせたな。"}
+{"id": 150950, "en": ["Are you happy now...?"], "ja": "これで満足だろ…？"}
+{"id": 150958, "en": ["\"...Now it's starting to get interesting, huh...?", "  Hihihihi!\""], "voix": "but", "ja": "「……面白くなってきたぜ……？ 　ひっひっひっひ！」"}
+{"id": 150964, "en": ["\"*cackle*cackle*cackle*!", "  ...Battleeeeeeeeer...\""], "voix": "bea", "ja": "「くっくっくっくっく！ 　…戦人ぁぁぁ……。」"}
+{"id": 150977, "en": ["\"This isn't getting us anywhere...", "  Then, should we get to the heart of the matter and go with the usual?\""], "voix": "but", "ja": "「埒が明かねぇな…。 なら、ズバっと気持ちよく、いつものヤツで行こうじゃねぇか。」"}
+{"id": 150983, "en": ["\"...Hoh.", "  The usual, you say?", "  ...Then, by all means.", "  If I don't hear you say that, I guess I just won't feel like starting...\""], "voix": "bea", "ja": "「……ほぅ。 いつものヤツとな。 …ならば頼もうではないか。 あれを聞かぬと、やはり始まった気がせぬわ…。」"}
+{"id": 150987, "en": ["The first move was mine..."], "ja": "初手は、俺からだ……。"}
+{"id": 150994, "en": ["\"Here I go, Beato."], "voix": "but", "ja": "「行くぜベアト。"}
+{"id": 151015, "en": ["  Repeat it.", "  ...`On this island, there are only 18 people'.\""], "voix": "but", "ja": "復唱要求。 ……“この島には、１８人しかいない”。」"}
+{"id": 151023, "en": ["\"............\""], "voix": "bea", "ja": "「…………………。」"}
+{"id": 151029, "en": ["\"...If I hear you say this in red, I'll have no choice but to suspect one of the 18.", "  ...I won't be able to say a 19th person did it, so all doors will be closed to me."], "voix": "but", "ja": "「…こいつを赤で言われちまったら、俺は１８人の誰かを疑わざるを得ない。 ……１９人目の仕業にはもうできず、八方塞さ。"}
+{"id": 151035, "en": ["  ......However, I believe the culprit definitely isn't one of the 18!", "  There's no way any of those 18 could commit such brutal murders...!!\""], "voix": "but", "ja": "………だが、俺は１８人の中に犯人が絶対にいないと信じてる！ 　あんな残酷な殺人を、１８人の誰にも起こせるものか…！！」"}
+{"id": 151041, "en": ["\".........\""], "voix": "bea", "ja": "「…………………。」"}
+{"id": 151047, "en": ["\"I'll say it again."], "voix": "but", "ja": "「繰り返すぞ。"}
+{"id": 151054, "en": ["  Repeat it!", "  `On this island, there are only 18 people'.\""], "voix": "but", "ja": "復唱要求！ 　“この島には、１８人しかいない”。」"}
+{"id": 151060, "en": ["\"............"], "voix": "bea", "ja": "「…………………………。"}
+{"id": 151065, "en": ["......I refuse.", "  I won't say why.\""], "voix": "bea", "ja": "………拒否する。 理由は明かさない。」"}
+{"id": 151072, "en": ["Whew...!"], "ja": "ふぅっ…！"}
+{"id": 151073, "en": ["I'd avoided what would've been the worst red for me."], "ja": "俺にとって、最悪の赤は回避された。"}
+{"id": 151076, "en": ["If she'd repeated that, ", "I'd be faced with those two worst choices of accepting the witch or suspecting one of the 18,", " like last time all over again..."], "ja": "もしこれを復唱されていたら、 俺は魔女を認めるか１８人の誰かを疑うのかの、最悪の二択を迫られ、 前回の二の舞となってしまう…。"}
+{"id": 151082, "en": ["But Beato hadn't proclaimed my ultimate and greatest weakness in red."], "ja": "だが、ベアトはこの究極最大の俺の弱点を、赤で宣言しなかった。"}
+{"id": 151083, "en": ["She refused to repeat it, even though there was no reason for her not to strike, even though it was a weakness she should've been drooling at."], "ja": "突かない理由のない、よだれが出そうな弱点なのに、復唱を拒否した。"}
+{"id": 151084, "en": ["She hadn't sliced me up with red by using that move, which should've been as good as forking a rook and the king...!"], "ja": "王手飛車取りにも等しいこの一手を、赤で斬れなかった…！"}
+{"id": 151088, "en": ["...This was a big sign of my advantage."], "ja": "……これは、俺にとってあまりに有利な幸先だ。"}
+{"id": 151094, "en": ["That's right.", "  The culprit isn't one of the 18."], "ja": "そうさ。 １８人の中に犯人などいない。"}
+{"id": 151095, "en": ["I won't suspect anyone...!"], "ja": "俺は誰も疑わない…！"}
+{"id": 151098, "en": ["And since the culprit isn't a witch either,", " ......it means a 19th person exists on this island."], "ja": "そして犯人は魔女でもないのだから、 ………つまりこの島に１９人目が存在するということ。"}
+{"id": 151104, "en": ["And that's you."], "ja": "それがお前だ。"}
+{"id": 151107, "en": ["A person who, as Grandfather's mistress of 30 years, ", "has been secretly living in a hidden mansion in the forest for a long, long time."], "ja": "祖父さまの３０年来の愛人で、 ずっとずっと森の中の隠された屋敷に、ひっそりと隠れ住まっていた人物。"}
+{"id": 151113, "en": ["The `human' Beatrice......!!"], "ja": "“人間”の、ベアトリーチェ………！！"}
+{"id": 151120, "en": ["\"That's right.", "  You aren't a witch or anything like it.", "  ...You're just a human...who's been living on this island in hiding for several decades...!\""], "voix": "but", "ja": "「そうさ。 お前は魔女なんかじゃない。 ……この島に何十年も隠れ住んできた、…ただの人間なんだッ…！」"}
+{"id": 151126, "en": ["\"......*cackle*cackle*", "  *cackle*cackle*cackle... ", "...Did you just call me, the Endless Witch who has lived for over one thousand years, a human?", "  ...*cackle*cackle*cackle*cackle*cackle*cackle*!\""], "voix": "bea", "ja": "「………くくくく。 くっくっくっくっく…。 …千年を経た無限の魔女の妾を、ただの人間呼ばわりしたか。 ……くっくくくくくくくくくくく！」"}
+{"id": 151130, "en": ["For a while, Beatrice continued to laugh unpleasantly and gloatingly...or maybe spitefully."], "ja": "ベアトリーチェはしばらくの間、小気味よく、あるいは悔し紛れに、気持ち悪く笑い続けた。"}
+{"id": 151138, "en": ["\"...Are you ready?  I'll keep going.", "  ...Again, repeat it."], "voix": "but", "ja": "「…いいか、続けるぜ。 …続けて復唱要求。"}
+{"id": 151147, "en": ["  `There are 19 people or more on this island'!\""], "voix": "but", "ja": "“この島には、１９人以上がいる”！」"}
+{"id": 151154, "en": ["\"............\""], "voix": "bea", "ja": "「…………………………。」"}
+{"id": 151158, "en": ["Beatrice fell silent once again."], "ja": "ベアトリーチェは再び沈黙する。"}
+{"id": 151161, "en": ["She'd probably remain extremely cautious as long as confirming the number of humans on this island might give her some large disadvantage, ", "depending on the situation."], "ja": "この島に存在する人間の数を確定することが、 場合によっては何かの大きな不利になるかもしれなことを感じ取り、 相当、慎重になっているのだろう。"}
+{"id": 151166, "en": ["The red has already become a foothold for my counterattacks."], "ja": "もはや、赤は俺にとって反撃の足掛かり。"}
+{"id": 151167, "en": ["Now that we know this, it makes the red very risky for the witch."], "ja": "そこまでわかっているなら、赤は魔女にとってリスクあるものになる。"}
+{"id": 151170, "en": ["But if she couldn't repeat this, her `Hempel's Raven' wouldn't be effective."], "ja": "しかし、もしこれを復唱できないなら、ヤツの“ヘンペルのカラス”は有効にならない。"}
+{"id": 151173, "en": ["To break my `Devil's Proof',", " she would need to settle the existence and number of people outside the 18 in red."], "ja": "俺の“悪魔の証明”を打ち破るには、 １８人以外の人間の存在と人数を、 事前に赤で確定する必要があるのだから。"}
+{"id": 151176, "en": ["That's right.", "  She couldn't break the existence of a 19th person unless she used red."], "ja": "そう。 １９人目の存在は、赤以外では打ち破れない。"}
+{"id": 151179, "en": ["  I've ~ib~closed Beato in~ib~, "], "ja": "俺はベアトを、赤を使う他ないように"}
+{"id": 151183, "en": ["giving her no choice but to speak in red...!"], "ja": "^~ib~^追い詰めた^~ib~^…！"}
+{"id": 151191, "en": ["There really is..."], "ja": "^^!s0　この魔女とのゲーム…、"}
+{"id": 151193, "en": ["...a way to fight..."], "ja": "^^!d800………戦い方は、"}
+{"id": 151195, "en": ["in this witch's game!"], "ja": "^^!d600……確かにあるッ！"}
+{"id": 151214, "en": ["\"It's okay to refuse.", "  ...If you can't say it in red, that means there's a total of 18+X people on this island.\""], "voix": "but", "ja": "「拒否してもいいんだぜ。 …お前が赤で言えないなら、この島の合計人数は１８＋Ｘってことになる。"}
+{"id": 151219, "en": ["\"...That X is a pretty massive piece to lose on your first move, right?", "  After all, from now on, all of the tricks that were impossible for the 18...", "can be explained with a human X who isn't in that group.", "  ...This huge piece can break open all the rooms you said were closed because everyone had an alibi...!\""], "voix": "but", "ja": "……このＸは、初手で許すには相当デカい大駒だぜ？ 　何しろ、以後、１８人の誰にも不可能だった、という根拠のトリックは、 全て１８人以外の人間Ｘで説明可能になる。 ……全員アリバイ系の密室を、全て打ち破れる大駒だ…！」"}
+{"id": 151222, "en": ["It was just like how a chess bishop can cut a thin line through enemy forces as long as there's a slight gap."], "ja": "それはさながら、 敵陣にわずかの隙間があれば鋭く食い込める、チェスのビショップのようなもの。"}
+{"id": 151225, "en": ["It could only be effectively used on squares of the same color, but it was very good at controlling territory on the board."], "ja": "同じ色のマスにしか効果を発揮しないが、その盤上の支配力は大きい。"}
+{"id": 151231, "en": ["\"............", "......Nng.\""], "voix": "bea", "ja": "「…………………………。 ………………く。」"}
+{"id": 151234, "en": ["It looked like Beato also noticed her current plight."], "ja": "ベアトも、現在の窮状をよく理解しているようだった。"}
+{"id": 151238, "en": ["She couldn't just let such an important piece go, especially this close to the beginning of the game..."], "ja": "これほどの大駒を、これほどの序盤に見捨てられるわけもない…。"}
+{"id": 151239, "en": ["If she pulled out her red treasured sword, it wouldn't be that difficult to save herself from this."], "ja": "赤き宝刀を抜けば、それを救うことは難しくないだろう。"}
+{"id": 151243, "en": ["...But Beato was completely aware that I was expecting it."], "ja": "……しかしベアトは、むしろ俺がそれを待ち受けていることも、充分に察している。"}
+{"id": 151244, "en": ["She was afraid that a careless red truth might end up strangling her own neck...!"], "ja": "迂闊な赤き真実が、自らの首を絞めることになるかもしれないと怯えている…！"}
+{"id": 151247, "en": ["Because...in the first place, a witch is something that ought to be denied in red."], "ja": "なぜなら、…本来、魔女は赤で否定されべき存在だからだ。"}
+{"id": 151253, "en": ["Believe.", "  Don't doubt!", "  Witches don't exist!"], "ja": "信じろ。 疑うな！ 　魔女などいない！"}
+{"id": 151254, "en": ["Something like that couldn't exist in this world."], "ja": "この世にそんなもの、存在するわけもない。"}
+{"id": 151258, "en": ["They can only exist in the valleys between truths."], "ja": "それが存在できるのは、現実の狭間だけ。"}
+{"id": 151259, "en": ["...They have a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth,", " and they can only barely exist like a mirage by surviving on falsehoods and illusions."], "ja": "…その隙間にて、真実の暴風から必死に身を守って縮こまり、 虚偽と幻想で食い繋いでいる時だけ、蜃気楼のように細々と存在できる脆弱な存在なのだ。"}
+{"id": 151268, "en": ["In other words, the red, which only witches can use, is the reality that might easily deny their very being."], "ja": "つまり、魔女だけが使える赤は、自らを否定しかねない現実そのもの。"}
+{"id": 151272, "en": ["...The more they brandish their red words, ", "...the more they begin to lose bit by bit that crack in truth inside which they can endure."], "ja": "……赤を振りかざせば振りかざすほどに。 / 魔女はわずかずつだが、自らの凌げる現実の隙間を失っていく。"}
+{"id": 151275, "en": ["That's why they don't want to use red words and carelessly lose that crack in truth, which is based on fuzzy information...", "or illusions, in other words."], "ja": "だからこそ、あやふやな情報、 ……つまり、幻想の余地ある現実の隙間を、無用心に赤で失いたくないのだ。"}
+{"id": 151279, "en": ["That's because they understand that they're gradually being cornered."], "ja": "それが徐々に自分を追い詰めていくと理解しているから。"}
+{"id": 151285, "en": ["Of course, that bastard will never admit it."], "ja": "もちろん、ヤツはそれを認めないだろう。"}
+{"id": 151286, "en": ["Because, if she did,", " it'd be the same as admitting that she's something that can't exist in this world, like an imaginary number."], "ja": "それを認めれば、 自分がこの世に存在してはならない虚数的存在であることを認めたも同然になってしまうのだから。"}
+{"id": 151290, "en": ["Don't be afraid.", "  Stay strong...!"], "ja": "怯えるな。 強気でいろ…！"}
+{"id": 151291, "en": ["I know that she's the one who's really been pierced to the bone."], "ja": "ヤツが一番骨身に染みてわかってるんだ。"}
+{"id": 151295, "en": ["After all, her red treasured sword can't be used without a lot of preparation...!"], "ja": "赤き宝刀は、相当の覚悟がなければ容易には使えないのだということを…！"}
+{"id": 151304, "en": ["\"...What's wrong?", "  I'll say it again.", "  ...Repeat it!"], "voix": "but", "ja": "「…どうしたよ。 繰り返すぜ。 ……復唱要求！"}
+{"id": 151323, "en": ["  `There are 19 people or more on this island'!\""], "voix": "but", "ja": "^^!s0　“この島には、１９人以上がいる”！」"}
+{"id": 151340, "en": ["\"........."], "voix": "bea", "ja": "「……………………。"}
+{"id": 151350, "en": ["...Hmph.", "  ...I refuse.\""], "voix": "bea", "ja": "……ふ。 …拒否する。」"}
+{"id": 151354, "en": ["At the end of Beato's worrying,", " ...she took a single deep breath and quietly announced her refusal."], "ja": "ベアトは悩みに悩みぬいた末。 ……深いため息をひとつ漏らしながら、静かに拒否を宣言した。"}
+{"id": 151356, "en": ["...I thought she'd use it."], "ja": "……使うと思ってた。"}
+{"id": 151358, "en": ["But Beato refused to speak in red, even though it would cost her victory in the opening part of the game."], "ja": "だがベアトは、序盤の勝ちを譲ってまで赤を使うことを拒否した。"}
+{"id": 151364, "en": ["\"You refused...?"], "voix": "but", "ja": "「拒否したな……？"}
+{"id": 151369, "en": ["  Which means that, from now on,", " I can create as many fictional character Xs outside of the 18 as I want...?\""], "voix": "but", "ja": "ということは、今後、 俺は１８人以外の架空人物Ｘを何人でも使い放題ってことになるぜ…？」"}
+{"id": 151377, "en": ["\"Do as you wish.", "  ...I have refused to repeat what you have told me.", "  Isn't that enough for now?", "  ...The reason for my refusal is..."], "voix": "bea", "ja": "「好きにするがよい。 …妾はそなたの復唱を拒否した。 今はそれで充分であろう？ 　……拒否の理由は、"}
+{"id": 151379, "en": ["...", "...no, I won't tell you yet.", "  Anyway, you'll know soon enough.\""], "voix": "bea", "ja": ":voicedelay 1410^^………。 …いや、今はまだ明かさぬ。 いずれすぐにわかる。」"}
+{"id": 151385, "en": ["\"...Ihihi.", "  Still acting tough, I see...\""], "voix": "but", "ja": "「…いっひっひ。 もったいぶりやがってよ…。」"}
+{"id": 151391, "en": ["\"...Choosing not to use the red is another way of using it.", "  You called it my red treasured sword.", "  A pleasant metaphor.", "  I will use it too.", "  ...A treasured sword is at its best when it is sheathed.", "  In fact, there are times it can instill even more fear because it is sheathed.\""], "voix": "bea", "ja": "「……敢えて使わぬ赤もまた、赤らしい使い方よ。 そなたは赤き宝刀と呼んだな。 愉快な例えよ。 妾も使おう。 ……宝刀は抜かぬ内が花よ。 むしろ抜かぬことによって醸せる畏怖というものもある。」"}
+{"id": 151397, "en": ["\"That's right.", "  ...As I fight, I always have to keep in mind whether you might spin everything around with those red words.", "  It's some pretty serious pressure.\""], "voix": "but", "ja": "「そうだな。 …俺はお前がいつ赤で引っ繰り返してくるか、常に念頭に置いて戦わなければならない。 こいつは偉ぇプレッシャーだ。"}
+{"id": 151402, "en": ["\"...And there are also times when you make things pretty tough by refusing to repeat after me.", "  ...Those times, I can't tell if you can't repeat because my guess was right, ", "or if you're just misleading me and letting me flounder about."], "voix": "but", "ja": "……それに、復唱を拒否される方が辛い場合もある。 …何しろ、俺の読みが正しいから拒否できないのか、 ミスリードにはまって泳がされてるのか区別がつかないからな。"}
+{"id": 151407, "en": ["  If you think of it that way, yeah.", "  It's a sheathed treasured sword.\""], "voix": "but", "ja": "…そういう意味では、なるほど。 抜かずの宝刀ってわけだ。」"}
+{"id": 151413, "en": ["\"......So what?", "  If I'm going to push you off a cliff anyway, best to let you climb a bit higher first.", "  ...We have still barely begun.", "  Much is left to come...\""], "voix": "bea", "ja": "「…………なぁに。 同じ突き落とすなら、少しでも高いところに行かせてからに限る。 …まだ始まったばかりよ。 まだまだな…。"}
+{"id": 151418, "en": ["\"I'll resign from this challenge.", "  ...Go and get drunk on your faint victory for now.", "  ...But only for now.\""], "voix": "bea", "ja": "この勝負は、今は妾がリザインする。 …淡き勝利に今は酔え。 ……今はな。」"}
+{"id": 151435, "en": ["Practically speaking, the early part of the game ended with her being a sore loser."], "ja": "その負け惜しみが、事実上、序盤戦のピリオドとなったらしい。"}
+{"id": 151436, "en": ["Even so, I couldn't relax my guard at all."], "ja": "にもかかわらず、まったく気は抜けない。"}
+{"id": 151439, "en": ["...That tension didn't fade one bit...until I was greeted by the sound of Ronove's applause..."], "ja": "…ロノウェが乾いた拍手の音を聞かせてくれるまで、俺の緊張感は緩まなかった…。"}
+{"id": 151446, "en": ["\"...Spectacular, Battler-sama.", "  Perhaps you have started this game with an advantageous development.\""], "voix": "ron", "ja": "「……お見事です、戦人さま。 まずは序盤は、戦人さま有利の展開でスタートというところでしょうか？」"}
+{"id": 151452, "en": ["\"Who knows...", "  I still don't know whether I've taken a piece by my move,", " or whether she guided me into taking it."], "voix": "but", "ja": "「さぁな…。 この駒が、俺の手でもぎ取ったものなのか、 取るよう誘導されたものかはまだわからねぇな。"}
+{"id": 151457, "en": ["  ...After all, knowing you...", "  You probably know I'm being led into a trap, and that clapping is just you mocking me openly, right...?\""], "voix": "but", "ja": "……どうせお前のことだ。 俺が罠にはまり始めてるのを知ってて、白々しく拍手をしてるんだろ…？」"}
+{"id": 151463, "en": ["\"How could you think that?", "  I am innocently celebrating your ability, which has enabled you to take one shot at Milady, even though it is only the first round."], "voix": "ron", "ja": "「まさか。 序盤とは言え、お嬢様より一本を奪った手腕を純粋に祝福いたしております。"}
+{"id": 151468, "en": ["  ...In any event, Milady is a person who is quick to become arrogant.", "  I believe that a little encouragement such as this can be good medicine every once in a while.\""], "voix": "ron", "ja": "…何しろお嬢様はすぐ増長するお方。 たまにはこのような刺激も良い薬かと思いますよ。」"}
+{"id": 151476, "en": ["\"...This butler of yours sure has a vicious tongue...\""], "voix": "but", "ja": "「…お前んとこの執事、ホント口悪ぃな…。」"}
+{"id": 151482, "en": ["\"He does, doesn't he?", "  Sometimes he ticks me off as well.\""], "voix": "bea", "ja": "「であろぅ？ 　たまに妾でもカチンと来るぞ。」"}
+{"id": 151489, "en": ["\"My, my, how incredibly rude of me."], "voix": "ron", "ja": "「それはそれは、大変に失礼いたしました。"}
+{"id": 151494, "en": ["  Well then, Milady, Battler-sama.", "  How would you like some more black tea?", "  The game has still barely begun.", "  Please allow me to prepare all the tea and snacks needed to adorn this game.", "  I ask that you continue your game without any reservations.\""], "voix": "ron", "ja": "さぁさ、お嬢様に戦人さま。 紅茶のお替りはいかがですかな？ 　まだゲームは始まったばかりでございます。 ゲームを彩るお茶とお菓子は、どうかこの私めにお任せを。 どうぞお気兼ねなく、ゲームをお進めになってください。」"}
+{"id": 151500, "en": ["\"I will.", "  Let's move forward.", "  Now is when it really starts.\""], "voix": "but", "ja": "「そうさせてもらう。 先を進めるぜ。 これからが本番だ。」"}
+{"id": 151506, "en": ["\"......Hmph.", "  Very well.", "  Let us advance the clock.", "  Ronove, black tea please.\""], "voix": "bea", "ja": "「…………ふ。 良かろう。 時計を進めようではないか。 ロノウェ、紅茶を頼む。」"}
+{"id": 151513, "en": ["\"Certainly.", "  How about a cookie?\""], "voix": "ron", "ja": "「かしこまりました。 クッキーは？」"}
+{"id": 151519, "en": ["\"I don't need one.", "  Give it to Beelzebub to keep her happy.", "  ......Remain silent for now.\""], "voix": "bea", "ja": "「いらぬ。 ベルゼブブにやれば喜ぼう。 …………しばし沈黙せよ。」"}
+{"id": 151527, "en": ["While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell silent."], "ja": "悪魔の執事が紅茶を注ぐ音を聞きながら、魔女は浅く目を瞑り黙り込む。"}
+{"id": 151530, "en": ["...For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes."], "ja": "……しばらくの間、沈思黙考したが、やがて悪戯っぽい何かを瞳に浮かべた。"}
+{"id": 151541, "en": ["\"Very well.", "  ......Why don't I inform you now as to why I refused to speak in red during that first move?\""], "voix": "bea", "ja": "「よかろう。 …………妾がどうして初手にて赤で語るのを拒否したのか、今よりわからせてやろうぞ。」"}
+{"id": 151547, "en": ["\"...What...?"], "voix": "but", "ja": "「……何ぃ…？"}
+{"id": 151552, "en": ["  Bring it on.", "  Show me what you've got.\""], "voix": "but", "ja": "上等じゃねぇかよ。 お手並み拝見と行くぜ。」"}
+{"id": 151559, "en": ["\"*cackle*cackle*...", "  Yes, that piece really was big enough that I'd hate to lose it."], "voix": "bea", "ja": "「くっくっく…。 やはり、見逃すには惜しい大駒よ。"}
+{"id": 151564, "en": ["  ...It may be hasty, but allow me to make my move.", "  I won't use the red, but from here on, Rosa will explain on my behalf.", "  Listen.\""], "voix": "bea", "ja": "……拙速かも知れぬが、動かせてもらおう。 赤は使わぬが、今よりそれを妾に代わって楼座が説明する。 聞くが良い。」"}
+{"id": 151600, "en": ["\"Of course, I think the same way.", "  Rosa does too, right?"], "voix": "eva", "ja": "「もちろん、私も同意よ。 楼座もそうでしょう？"}
+{"id": 151606, "en": ["  ......Rosa?\""], "voix": "eva", "ja": "……………楼座？」"}
+{"id": 151612, "en": ["\"Huh?  Ah, sorry..."], "voix": "ros", "ja": "「え、あっ、ごめんなさい…。"}
+{"id": 151618, "en": ["  M-Me too.", "  I think that too.\""], "voix": "ros", "ja": "わ、私も同じよ。 同意するわ。」"}
+{"id": 151625, "en": ["\"......What's wrong, Rosa-san?", "  ...You've been really quiet for a while now.", "  Are you feelin' sick...?\""], "voix": "hid", "ja": "「………どうしたんや、楼座さん。 …あんたさっきからずいぶん大人しいなぁ。 体調でも悪いんとちゃうか…？」"}
+{"id": 151629, "en": ["From the beginning, Rosa had never been one to cut in on the siblings' fights."], "ja": "楼座は、元々、兄弟喧嘩に進んで口を挟む性分ではない。"}
+{"id": 151631, "en": ["...But even so, she seemed unmotivated...", "and had said almost nothing during this night's conference."], "ja": "…しかしそれにしても、ずいぶんと消極的で、 今夜の会議ではまったくといっていいほど、発言していなかった。"}
+{"id": 151634, "en": ["The whole time, she had hung her head...and appeared to be thinking of something else..."], "ja": "ずっと俯いて、何か他のことを考えているようだった…。"}
+{"id": 151641, "en": ["\"You've been in a daze for a while now.", "  Do you think you can protect the inheritance like that?", "  You're also the mother of your child, so get a stronger hold on yourself.\""], "voix": "eva", "ja": "「あんた、さっきからぼんやりしてるわよ。 そんなので遺産が守れると思ってるの？ 　あんたも一児の母なんだから、もっとしっかりなさいよ。」"}
+{"id": 151648, "en": ["\"I-I'm sorry...\""], "voix": "ros", "ja": "「ご、ごめんなさい……。」"}
+{"id": 151656, "en": ["\"Did you wake up really early in the morning?", "  If you feel sick, you shouldn't overdo it.\""], "voix": "kla", "ja": "「朝がだいぶ早かったんじゃないかね？ 　体調が悪いなら無理をしない方がいいだろう。」"}
+{"id": 151663, "en": ["\"...The beds in our guest rooms have been prepared.", "  How about taking a rest?", "  I will guide you.\""], "voix": "nat", "ja": "「……客室にベッドの用意がありますよ。 お休みになってはいかがですか？ 　ご案内しますよ」"}
+{"id": 151670, "en": ["\"No, ...I'm fine.", "  Thank you.\""], "voix": "ros", "ja": "「いえ、…大丈夫です。 ありがとう。」"}
+{"id": 151677, "en": ["\"...What is it?", "  Is there something you're worrying about?\""], "voix": "rud", "ja": "「…どうしたんだ。 何か心配事でもあるのか？」"}
+{"id": 151683, "en": ["\"......No, not really......\""], "voix": "ros", "ja": "「………いえ、別に………。」"}
+{"id": 151690, "en": ["\"Is that so...?", "  It feels like your mind has been elsewhere this whole time."], "voix": "kir", "ja": "「そう…？ 　さっきからずっと、心ここに在らずという感じよ。"}
+{"id": 151696, "en": ["  ...I wonder if that has anything to do with what we've been talking about...?\""], "voix": "kir", "ja": "…そしてそれは、今、私たちがしている議題と、何か関係があるんじゃないかしら…？」"}
+{"id": 151704, "en": ["At those words, everyone stared at Rosa together."], "ja": "その言葉に、みんなが一斉に楼座に注目する。"}
+{"id": 151707, "en": ["As if in response, Rosa's shoulders quivered."], "ja": "それに応えるように、楼座もびくりと肩を震わせた。"}
+{"id": 151711, "en": ["Apparently, Kyrie's guess hadn't been wrong."], "ja": "霧江の指摘は間違っていないようだった。"}
+{"id": 151712, "en": ["...Rosa couldn't deny it either..."], "ja": "…楼座もまた、それを否定しない…。"}
+{"id": 151718, "en": ["\".........No, umm..."], "voix": "ros", "ja": "「………………いえ、あの…。"}
+{"id": 151723, "en": ["  ............\""], "voix": "ros", "ja": "……………………………。」"}
+{"id": 151727, "en": ["She swallowed whatever it was she had been trying to say and went silent again."], "ja": "何かを口にしようとしたが、それを飲み込み、再び沈黙してしまう。"}
+{"id": 151730, "en": ["Of course, the other siblings also began to realize that something about her appearance was different from usual..."], "ja": "さすがに他の兄弟たちも、彼女の様子が普段と違うことに気付き始めた…。"}
+{"id": 151738, "en": ["\"What is it?", "  ...You've been weird for a while.", "  Did you think of something...?\""], "voix": "rud", "ja": "「どうしたんだ。 …さっきからおかしいぞ。 何か思うことでもあるのか…？」"}
+{"id": 151745, "en": ["\"We all just swore to remain united, didn't we?", "  Don't hold back, worryin' by yourself.", "  We said we'd talk.\""], "voix": "hid", "ja": "「わしら全員で団結しようって誓い合ったばかりやないか。 ひとりで悩むなんて、水臭い話やで。 話したってぇな。」"}
+{"id": 151752, "en": ["\"...Rosa,", " tell us.\""], "voix": "kla", "ja": "「……楼座。 話しなさい。」"}
+{"id": 151761, "en": ["The men pressed her one after the other, and Rosa confessed resignedly and nervously..."], "ja": "男たちに次々と催促され、楼座は観念しおずおずと打ち明ける…。"}

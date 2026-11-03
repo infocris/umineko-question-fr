@@ -1,0 +1,653 @@
+{"id": 141517, "en": ["The vase was very beautiful, rich with history and value."], "ja": "それは、とてもとても美しくて、価値と歴史のある素晴らしい壷でした。"}
+{"id": 141521, "en": ["Even as young as I was, it still forced me to take a deep breath when I witnessed its beauty."], "ja": "幼い私が見ても、その美しさにため息が堪えられないほどに。"}
+{"id": 141523, "en": ["Of course, it was a member of Grandfather's favorite collection."], "ja": "もちろんそれは、お祖父さまにとってもっともお気に入りのコレクションのひとつ。"}
+{"id": 141526, "en": ["So that I didn't accidentally destroy its fragile beauty,", " I was always given strict orders never to touch it."], "ja": "その儚き美しさが、間違って欠けてしまうようなことがないように、 私には絶対触れてはならないと日頃から厳命されていました。"}
+{"id": 141528, "en": ["...But that just made me want to touch it."], "ja": "……でも、だから触れてみたかったのです。"}
+{"id": 141531, "en": ["It looked light...and yet so elegant that just glancing at it gave it an indescribable sense of dignity."], "ja": "このような透き通るようで、だけれども気品があって、軽やかに見えながら物言わぬ重厚感があり。"}
+{"id": 141534, "en": ["...I wanted to see what it felt like to touch a vase like that."], "ja": "…そんな壷に触れたなら、どんな手触りなのか、試してみたかったのです。"}
+{"id": 141536, "en": ["However, ...just as Grandfather had said, it was a thing that shouldn't be touched."], "ja": "しかし、…それはお祖父さまが言われた通り、触れてはならないものだったのです。"}
+{"id": 141538, "en": ["Something this beautiful should never be touched."], "ja": "これほどの美しさは、触れてはならぬものだからこそ。"}
+{"id": 141541, "en": ["Such beauty can only dwell in something so easily broken."], "ja": "触れれば壊れるほどに儚いものにしか宿らぬ美しさ。"}
+{"id": 141543, "en": ["Because of that, just the brush of a finger by someone like me would..."], "ja": "だからこそ、私如きの指が触れたなら、それはあっさりと。"}
+{"id": 141546, "en": ["Just like how a fun dream disappears with a `poof' when you wake up, "], "ja": "楽しい朝の夢が、ふぅっと消えて目が覚めてしまうように。"}
+{"id": 141551, "en": ["...it disappeared, fell, and broke into pieces."], "ja": "……消えて、落ちて、砕け散ってしまったのです。"}
+{"id": 141560, "en": ["I realized that, because of my own foolish curiosity, I had done something that couldn't be taken back."], "ja": "私は、自らの愚かな好奇心が取り返しのつかないことをしてしまったことを悟りました。"}
+{"id": 141563, "en": ["No matter how much I regretted it, no matter how much I apologized..."], "ja": "いくら後悔しても、いくら謝っても。"}
+{"id": 141564, "en": ["The broken vase would not be returned to its original form..."], "ja": "砕けてしまった壷は元の姿に戻ってはくれません…。"}
+{"id": 141567, "en": ["Grandfather will probably scold me."], "ja": "私はお祖父さまに叱られるでしょう。"}
+{"id": 141568, "en": ["Probably very harshly."], "ja": "とても厳しく叱られるでしょう。"}
+{"id": 141571, "en": ["I ended up breaking into tears and sobbing, frightened..."], "ja": "それに怯え、私はしくしくと、仕舞いにはわんわんと泣き出すのでした…。"}
+{"id": 141577, "en": ["As I did, I noticed something......beautiful.", "  Lightly dancing golden butterflies...", "were coming towards me."], "ja": "^^!s0　すると、…………美しく、!d800軽やかに舞う黄金の蝶が、!d700ふわりふわりとやって来るのに気付きました。"}
+{"id": 141587, "en": ["As mysteriously glowing golden dots shone in the air, the butterflies began to gather, one at a time."], "ja": "黄金の燐粉で幻想的に輝きながら、その美しき蝶が一匹、二匹と集まります。"}
+{"id": 141590, "en": ["Oh, it's Beatrice."], "ja": "あぁ、ベアトリーチェです。"}
+{"id": 141591, "en": ["Beatrice, that reliable Golden Witch, had arrived."], "ja": "頼もしき黄金の魔女、ベアトリーチェが来てくれたのです。"}
+{"id": 141609, "en": ["The butterflies kept gathering until they formed a cloud, ...and then she was there..."], "ja": "蝶が次々と集まって群となると、そこには彼女の姿が…。"}
+{"id": 141617, "en": ["She was always there for me."], "ja": "彼女はいつだって私の味方。"}
+{"id": 141618, "en": ["Whenever I was in trouble, she'd always appear and save me."], "ja": "私が困っていると、いつだって現れて助けてくれるのです。"}
+{"id": 141624, "en": ["\"Good day to you, princess.\""], "voix": "wal", "ja": "「御機嫌よう、お姫様。」"}
+{"id": 141628, "en": ["\"Beatrice!", "  ...Waaaah, hic, hic...!\""], "voix": "bea", "ja": "「ベアトリーチェ！ 　……ううぅ、ひっく、えっく…！」"}
+{"id": 141632, "en": ["\"Oh, my...", "  Why are you crying so, and on a day so well-suited for a tea party...?\""], "voix": "wal", "ja": "「おやおや…。 このような絶好のお茶会日和に、どうして姫様はそのように涙を零されているのですか…？」"}
+{"id": 141634, "en": ["\"...I broke Grandfather's precious vase...", "  Waah, Grandfather's gonna get mad at me.", "  ...I don't know what to do...", "  Hic...\""], "voix": "bea", "ja": "「…お祖父さまが大切にしていた壷を、壊してしまったの…。 うぅ、お祖父さまに怒られます。 …どうしたらいいかわからなくて…。 ひっく…。」"}
+{"id": 141638, "en": ["\"I see, that is worrying.", "  The Master really treasured this particular vase, didn't he?"], "voix": "wal", "ja": "「それは困りましたね。 これはお館様が大層お気に入りになられていた壷のはず。"}
+{"id": 141642, "en": ["  ...Hohohoho, imagining how he'll punish you scares even me, Beatrice.\""], "voix": "wal", "ja": "……ほほほほ、どのような折檻があるか、このベアトリーチェ、想像するのも恐ろしゅうございます。」"}
+{"id": 141647, "en": ["Grandfather was a very frightening person."], "ja": "お祖父さまはとても恐ろしい方です。"}
+{"id": 141650, "en": ["And when you failed to follow something he said even once, he would become so mad, with a rage that would make even the fallen angels in hell quiver."], "ja": "そして、一度言い聞かせたことが守られなかった時は、地獄の堕天使も震え上がるほどに怒り狂うのです。"}
+{"id": 141653, "en": ["Since I knew that down to my bones, I couldn't do anything but tremble and cry..."], "ja": "私はそれを骨身に染みてよく知っていましたから、こうして震えながら涙を零すしかないのです…。"}
+{"id": 141660, "en": ["\"I possess no magic that can scoop up your fallen tears, princess, ", "but if you need magic that will prevent the Master from scolding you, I might be able to manage something.\""], "voix": "wal", "ja": "「零してしまった姫様の涙を掬う魔法は持ち合わせておりませんが、 姫様がお館様から折檻を受けなくて済むようにする魔法なら、何とかなるかもしれません。」"}
+{"id": 141661, "en": ["\"R-Really...?\""], "voix": "bea", "ja": "「ほ、本当…？」"}
+{"id": 141665, "en": ["\"Yes, if you'll be gracious enough to believe in my power, princess.", " The power of belief is the source of magic.", "  ...Miracles only appear before those of great faith.\""], "voix": "wal", "ja": "「姫様が私の力をお信じ下されば、でございます。 魔法の力の根源は、信じる力。 ……奇跡は、それを強く信じる者の前にしか示されません。」"}
+{"id": 141667, "en": ["\"...I-I believe...", "  I believe in your power, Beatrice.", "  So please, fix this vase.", "  Please...!\""], "voix": "bea", "ja": "「し、…信じる…。 ベアトリーチェの魔法を信じます。 だからこの壷を直してください。 お願いします…！」"}
+{"id": 141671, "en": ["\"If that is what you want, princess.", "  ...Then leave it to me, Beatrice.\""], "voix": "wal", "ja": "「姫様がそれをお望みでしたら。 ……それではこのベアトリーチェに、お任せを。」"}
+{"id": 141676, "en": ["When she extended her index finger, a golden butterfly softly landed there and changed its form into her favorite cane."], "ja": "彼女が人差し指を立てると、そこにふわりと黄金の蝶が止まり、彼女が愛用するケーンに姿を変えます。"}
+{"id": 141678, "en": ["But even that was enough to give me a small glimpse at Beatrice's wonderful and awesome magic power."], "ja": "ただそれだけのことでも、私はベアトリーチェの素晴らしき、そして偉大なる魔法の力の一端を垣間見るのです。"}
+{"id": 141681, "en": ["She pointed her cane at the broken vase, and, just like a child's lullaby, she began speaking the magic words..."], "ja": "彼女は、砕けた壷にケーンを向け、まるで赤ん坊に子守唄を聞かせるように、魔法の言葉を語りかけます…。"}
+{"id": 141686, "en": ["\"Come, try closing your eyes.", "  And try to remember.", "  What form did you have?", "  It was surely a very, very beautiful form.", "  Please, show me that form one more time...\""], "voix": "wal", "ja": "「さぁさ、目を閉じて御覧なさい。 そして思い出して御覧なさい。 あなたがどんな姿をしていたのか。 それはきっと、とてもとても美しい姿。 どうか私に、あの姿をもう一度見せておくれ…。」"}
+{"id": 141689, "en": ["Were they words, or was it a song?"], "ja": "それは言葉なのか、唄なのか。"}
+{"id": 141692, "en": ["No, it had to be magic."], "ja": "いや、魔法に違いないのです。"}
+{"id": 141704, "en": ["After all, can't you see?", "  ...The pieces of the vase are rapidly gathering together,", " gently returning to the place where they'd been on display, ...reassembling into their original form."], "ja": "だってほら、みるみると壷の破片が寄り集まり、 …飾られていた場所にふわりふわりと戻っていって、……元の美しい姿に戻ったのですから。"}
+{"id": 141709, "en": ["\"...Incredible...\""], "voix": "bea", "ja": "「……すごい…。」"}
+{"id": 141713, "en": ["\"See?", "  Now it's back to normal.", "  This way, you won't have to get yelled at by the Master.\""], "voix": "wal", "ja": "「ほら。 これで元通りですよ。 これでお館様にお叱りを受けずに済みますね。」"}
+{"id": 141731, "en": ["\"Beatrice, you really are amazing.", "  You can fix broken vases like it's nothing.\""], "voix": "bea", "ja": "「ベアトリーチェはすごいね。 壊れた壷を直すなんて、造作もないんだね。」"}
+{"id": 141736, "en": ["\"That's not true.", "  Returning something broken to its original form is a very, very difficult thing to do.", "  My magic can only make it remember what it once was for a short time.\""], "voix": "wal", "ja": "「そんなことはありませんよ。 壊れてしまったものを、元に戻すのはとてもとても難しいことです。 私の魔法は、一時、それを思い出させるだけに過ぎませんよ。」"}
+{"id": 141738, "en": ["\"...?", "  But the vase really turned back to the way it was, right...?\""], "voix": "bea", "ja": "「……？ 　でも、壷はちゃんと元通りになったよ…？」"}
+{"id": 141742, "en": ["\"Correct.", "  But that doesn't mean the vase has avoided its fate of being broken.", "  All I did was temporarily get the broken vase to remember its form before it broke.", "  I have not yet attained the high levels of magical power that might be used to restore a broken fate to its original form.\""], "voix": "wal", "ja": "「そうですね。 ですがそれは、壷が壊れたという運命を回避させたわけではありません。 壊れた壷に、一時、壊れる前の姿を思い出させただけに過ぎません。 壊れた運命を、元の姿に修復するほどの魔力は、このベアトリーチェにも未だ至らぬ遥かな高みなのです。」"}
+{"id": 141748, "en": ["At that time, the high-pitched scream of a servant could be heard from inside the mansion."], "ja": "その時、お屋敷から使用人の甲高い悲鳴が聞こえました。"}
+{"id": 141753, "en": ["When I went to see what had happened,", " ...I noticed that several of the servants had gathered...and were cleaning up the remains of the broken vase."], "ja": "何事かと行ってみると、 ……使用人たちが何人か集まり、砕けてしまっている壷の後片付けをしているところでした。"}
+{"id": 141756, "en": ["From what they said, it seemed a black cat had sneaked in from somewhere and had climbed up on the vase, causing it to break."], "ja": "使用人たちが言うには、どこからか紛れ込んできた黒猫が、壷によじ登って倒してしまった、と言うのです。"}
+{"id": 141760, "en": ["I understood the meaning of Beatrice's words."], "ja": "私はベアトリーチェが言った意味を理解します。"}
+{"id": 141763, "en": ["...At the moment I broke the vase, `the vase was broken'."], "ja": "…私が壷を割ってしまった時点で、“壷は割れた”のです。"}
+{"id": 141765, "en": ["Beatrice let me see the vase being restored, but that was a temporary thing.", "  It didn't mean she'd changed the fate of `the vase being broken'."], "ja": "ベアトリーチェは、壷を蘇らせて見せたが、それは仮のもの。 “壷は割れた”という運命までも変えたわけではない。"}
+{"id": 141768, "en": ["And so, ...the vase remembered its true fate and `broke'."], "ja": "その結果、……壷は、本来の運命を思い出し、“割れた”。"}
+{"id": 141769, "en": ["However, the one who broke it wasn't me, but a cat that had snuck in..."], "ja": "しかし、割ったのは私ではなく、迷い込んだ猫に代わった…。"}
+{"id": 141775, "en": ["That's right.", "  Beatrice never said `Let's fix the vase'."], "ja": "そう。 ベアトリーチェは、壷を直しましょうとは言っていない。"}
+{"id": 141781, "en": ["She said she'd prevent the Master from scolding me."], "ja": "私が、折檻を受けずに済むようにしましょうと言ったのです。"}
+{"id": 141786, "en": ["The fate of the vase breaking hasn't changed, but the fact that I broke it certainly has..."], "ja": "壷が割れたという運命までは変えられなかったが、私が割ったという事実だけは、確かに変わった…。"}
+{"id": 141789, "en": ["Beatrice cleverly saved me from danger with that magic..."], "ja": "ベアトリーチェは、見事にその魔法で私の危機を救ってくれたのでした…。"}
+{"id": 141796, "en": ["\"It is very easy to break something.", "  After all, you didn't need magic to break that vase, princess.\""], "voix": "wal", "ja": "「物を壊すことは、とても容易なことです。 姫様が壷を割るのに、魔法を必要としなかったように。」"}
+{"id": 141798, "en": ["\"...Then, is fixing stuff really hard...?\""], "voix": "bea", "ja": "「…直すことは、とても難しいこと…？」"}
+{"id": 141802, "en": ["\"It is.", "  It's so hard that you broke down crying, unsure of what to do.\""], "voix": "wal", "ja": "「はい。 姫様が途方に暮れて泣き出してしまうほどに。」"}
+{"id": 141806, "en": ["\"...Does that mean magic is easier to use when doing terrifying things?", "  That breaking..."], "voix": "bea", "ja": "「……魔法というのは、恐ろしいことをする時の方が容易いの？ 　壊したり、"}
+{"id": 141808, "en": ["...and killing is really easy, ", "...but fixing and reviving things is really hard...?\""], "voix": "bea", "ja": ":voicedelay 1030^^……殺したりすることは簡単にできるのに、 直したり、蘇らせたりするのは、とても難しいと言うし…。」"}
+{"id": 141813, "en": ["\"...That's right.", "  With magic, it is far easier to break and kill.", "  That's why weak witches lose to temptation and become intoxicated with gathering easy power for themselves, neglecting their true magical training."], "voix": "wal", "ja": "「……そうですね。 魔法は、殺めたり、壊したりすることの方がとても簡単です。 ゆえに、誘惑に負ける弱き魔女たちは、安易に身に付けられる力に酔い、本当の魔法の修行を怠ってしまいます。"}
+{"id": 141817, "en": ["  ...Real magic is the power to repair, to revive.", "  To summon happiness that has disappeared, to summon love that has grown cold.", "  And, it can even summon a smile to the face of a princess who has forgotten how.\""], "voix": "wal", "ja": "……本当の魔法とは、直す力、蘇らせる力。 散ってしまった幸せを呼び戻し、冷めてしまった愛をも呼び戻す。 そして微笑を忘れてしまった姫様の顔に、笑顔を呼び戻せるのですよ。」"}
+{"id": 141819, "en": ["\"Then...Beatrice, since you managed to fix that vase, does that mean you're an incredible witch?\""], "voix": "bea", "ja": "「なら、……壷を直すことができたベアトリーチェは、すごい魔女ということ？」"}
+{"id": 141824, "en": ["\"My days of training are far from over.", "  After all, I couldn't make the vase forget its fate for even an hour.", "  I'm sure my teacher, who taught me magic, ", " would have been able to restore the vase to its original form forever.\""], "voix": "wal", "ja": "「私など、まだまだ修行の日々ですよ。 壷が割れるという運命を、私の魔法ではほんの一時間も忘れさせることが出来なかったのですから。 私に魔法を教えてくれたお師匠様ならきっと、永遠に。 壷を元の姿に蘇らせることができたでしょうね。」"}
+{"id": 141826, "en": ["\"So, if it kept breaking and breaking, she'd be able to fix it over and over again...?\""], "voix": "bea", "ja": "「壊れても壊れても、何度でも何度でも直せる…？」"}
+{"id": 141828, "en": ["\"Yes.", "  When one reaches that level, they are considered to be an Endless Witch.", "  That is the endless level that all witches ought to reach.", "  We offer the utmost respect to those witches and call them by that title.\""], "voix": "wal", "ja": "「えぇ。 その境地に達した時、無限の魔力が備わるでしょう。 それこそが、魔女の達するべき無限の境地。 私たちはその魔女を、最大の敬いをもってこう呼びます。」"}
+{"id": 141830, "en": ["\"An Endless Witch...\""], "voix": "bea", "ja": "「無限の魔女…。」"}
+{"id": 141832, "en": ["\"That's right.", "  ...To witches with the power to mend things endlessly, the concept of breaking doesn't even exist.", "  They are released from all the sadness caused by losing things and are promised eternal bliss.\""], "voix": "wal", "ja": "「そうです。 ……無限に直す力を持つ魔女にとって、壊れるという概念はもはや存在しない。 失うという全ての悲しみから解放され、永遠の至福を約束されるのです。」"}
+{"id": 141837, "en": ["Certainly, the human world is full of sadness caused by separation and loss."], "ja": "確かに、人の世は離別と喪失の悲しみでいっぱいだ。"}
+{"id": 141840, "en": ["To escape that sadness, people pray to gods and ask for the power to withstand their sadness, believing it to be a test..."], "ja": "その悲しみから逃れるために、神に祈り、それを試練だと信じて耐える力を乞う…。"}
+{"id": 141842, "en": ["In other words, a human's life is a journey, searching for a way to withstand sadness."], "ja": "つまり、人の人生とは、悲しみを如何にして堪えるかを探る旅なのだ。"}
+{"id": 141844, "en": ["In that case, a witch who could revive all things would be freed from all sadness in the world.", "  ...Simply put, that would mean eternal bliss..."], "ja": "だとしたら、万物を蘇らせることができる魔女は、この世の悲しみの全てから解き放たれている。 ……つまりそれは、永遠の至福…。"}
+{"id": 141849, "en": ["\"I wonder...if I could become a witch like you...and gain eternal happiness.\""], "voix": "bea", "ja": "「私も、……ベアトリーチェみたいな魔女になって、永遠に幸せになれるかな。」"}
+{"id": 141853, "en": ["\"You, princess...?"], "voix": "wal", "ja": "「姫様が、ですか…？"}
+{"id": 141857, "en": ["  Hohohoh.  ...It is a long, long, difficult path, you see?\""], "voix": "wal", "ja": "ほっほっほ…、それはそれは長い長い、大変な修行となりますよ？」"}
+{"id": 141861, "en": ["\"I want to become a witch.", "  ...I want to find happiness.", "  Beatrice, I want to become your disciple.\""], "voix": "bea", "ja": "「私、魔女になりたい。 ……幸せになりたい。 ベアトリーチェの弟子になりたい。」"}
+{"id": 141866, "en": ["\".........", "Do you have even a trace of doubt in that feeling?\""], "voix": "wal", "ja": "「……………。 そのお気持ちに、些かの揺らぎもありませんか？」"}
+{"id": 141867, "en": ["\"No.", "  I want to become a witch too.\""], "voix": "bea", "ja": "「はい。 私も、魔女になりたいです。」"}
+{"id": 141871, "en": ["\"...I understand.", "  Then, until you get tired of me, I will make you my disciple.", "  ...Will you call me Teacher?\""], "voix": "wal", "ja": "「……わかりました。 では、姫様がお飽きになるまで、私の弟子にして差し上げましょう。 …私のことを、お師匠様と呼べますか？」"}
+{"id": 141873, "en": ["\"Yes, Teacher.\""], "voix": "bea", "ja": "「はい、お師匠様。」"}
+{"id": 141878, "en": ["\"That's a good answer.", "  Then from now on, learn the depths of magic along with me.", "  I am also in training.", "  Let us both learn the proper use of magic, doing our best to reach that blissful level.\""], "voix": "wal", "ja": "「良い返事ですね。 ではこれからは私と一緒に、魔法の深淵を学んでいきましょう。 私とて修行の身。 共に魔法を正しく学び、至福の境地を目指して頑張りましょう。」"}
+{"id": 141879, "en": ["\"Yes, Teacher...!\""], "voix": "bea", "ja": "「はい、お師匠様…！」"}
+{"id": 141909, "en": ["\".........", "...Ah, a dream.", "  ...That face takes me back...\""], "voix": "bea", "ja": "「……………………。 …夢、か。 ……懐かしい顔だ。」"}
+{"id": 141912, "en": ["An Endless Witch, was it?"], "ja": "無限の魔女、か。"}
+{"id": 141914, "en": ["That rank I'd yearned for in the past as the highest possible achievement...was now just another one of my titles."], "ja": "かつては憧れた、最高の到達点の称号は今や、妾にとってほんの肩書きのひとつでしかない。"}
+{"id": 141917, "en": ["No, you might even call it my calling card."], "ja": "いや、代名詞とすら言っていいか。"}
+{"id": 141928, "en": ["\"...Every once in a while, being called that can be quite satisfying.", "  I trained so many days to achieve that rank."], "voix": "bea", "ja": "「…たまには、その呼び名に充足を感じるのも乙なものかも知れぬな。 長き修行の日々の果てに得たものではないか。"}
+{"id": 141932, "en": ["  ...It'd be a bit of a waste if I never got a chance to appreciate it.", "  ...*cackle*cackle*cackle*.\""], "voix": "bea", "ja": "…たまには有難味を感じねば、少々勿体無いというものよ。 ……くっくくくくく。」"}
+{"id": 141937, "en": ["She shook her head lightly."], "ja": "緩やかに頭を振る。"}
+{"id": 141941, "en": ["If it's the highest possible level, that means there's nothing higher."], "ja": "最高の到達点とは曰く、それ以上がないということ。"}
+{"id": 141942, "en": ["An eternal dead end, the beginning of eternal boredom."], "ja": "永遠の行き止まり、永遠の退屈の始まりだ。"}
+{"id": 141947, "en": ["\"I remember what Teacher told me.", "  When one is released from all sadness, it is the same as eternal bliss."], "voix": "bea", "ja": "「お師匠様は言っていたな。 全ての悲しみから解き放たれることが即ち、永遠の至福だと。"}
+{"id": 141951, "en": ["  ...That's what makes me think..."], "voix": "bea", "ja": "……だからこそ、故に思う。"}
+{"id": 141953, "en": ["that Teacher ~ib~couldn't ever have reached that level~ib~.\""], "voix": "bea", "ja": "お師匠様は^~ib~^その域に至れなかった^~ib~^とな。」"}
+{"id": 141962, "en": ["Eternal bliss means eternal boredom."], "ja": "永遠の至福とはつまり、永遠の退屈。"}
+{"id": 141963, "en": ["...And that's the beginning of eternal torture."], "ja": "…これは永遠の拷問の始まりなのだ。"}
+{"id": 141965, "en": ["But it all depends on how you look at it."], "ja": "しかし、物は考えようか。"}
+{"id": 141969, "en": ["Eternal boredom is the same as a sketchbook that doesn't run out of pages."], "ja": "永遠の退屈とはつまり、ページの尽きぬスケッチブックのようなものだ。"}
+{"id": 141970, "en": ["It means you can draw whatever you want, can try to have as much fun as you want."], "ja": "好きに描き、好きに楽しむ努力がいくらでも出来るということだ。"}
+{"id": 141972, "en": ["Boredom is the worst sort of poison, which kills all witches."], "ja": "退屈は全ての魔女を殺す最悪の毒。"}
+{"id": 141976, "en": ["...Even those Great Witches who are given the title `Lady' fear it."], "ja": "……卿の称号を持つ大魔女とて恐れるほどの。"}
+{"id": 141977, "en": ["It's the eternal poison that tortures them because of the eternal bliss they've reached..."], "ja": "永遠の至福に辿り着いた故に苛む、永遠の毒…。"}
+{"id": 141987, "en": ["\"Now that I've earned the name of Endless Witch, I truly wish I could speak with Teacher again.", "  ...Is `happiness' really what lay at the end of our training?", "  And just what is `happiness'?  I wish I could talk with her about that now.\""], "voix": "bea", "ja": "「無限の魔女の名を得た今だからこそ、再びお師匠様と語らいたいものよ。 ……我等の修行の果てにあったのは、本当に“幸せ”だったのか。 そして本当の“幸せ”とは何なのか、今こそ語り合いたいものよ。」"}
+{"id": 141991, "en": ["`Training has no end.", "  When you think you've reached the eternal level, that's exactly the time to bemoan your own immaturity.'"], "ja": "“修行に終わりはありませんよ。 永遠の境地に辿り着いた、と思った時こそが、その未熟さを悔いる時なのです。”"}
+{"id": 141993, "en": ["...I recalled those words as though she'd answered me directly."], "ja": "……自分の言葉に答えるかのように、そんなことを言っていたのを思い出す。"}
+{"id": 141998, "en": ["\"*cackle*cackle*, hahhahahahahahahahaha..."], "voix": "bea", "ja": "「くくくく、はっははははははははは…。"}
+{"id": 142002, "en": ["  I see, ...so I'm immature, am I?!", "  How amusing, how truly amusing.", "  *cackle*cackle*cackle*cackle*...!\""], "voix": "bea", "ja": "なるほど、……妾は未熟、か！ 　それは良い、それは良い。 くっくっくっくっく…！」"}
+{"id": 142012, "en": ["The sound of painfully shrill laughter rang out."], "ja": "黄色い耳障りな哄笑が聞こえてくる。"}
+{"id": 142015, "en": ["It was coming from my furniture.", "  ...What, did they break their toy again?"], "ja": "妾の家具たちのものだ。 …また玩具を壊したか。"}
+{"id": 142024, "en": ["\"Beatrice-sama,", " this guy's stopped moving again.\""], "ja": "「ベアトリーチェさまぁ。 こいつ、また動かなくなっちゃいましたぁ。」"}
+{"id": 142031, "en": ["\"And I haven't had nearly enough fun yet.", "  What a pathetic man.\""], "ja": "「まだ私、全然遊び足りないのにぃ。 情けない男ぉ。」"}
+{"id": 142038, "en": ["\"But I haven't gotten a chance to play at all yet!", "  Let me play, let me plaaay!\""], "ja": "「私なんか全然遊んでないのにぃー！ 　私にも遊ばせて遊ばせてぇー！」"}
+{"id": 142045, "en": ["\"Be silent, filth!"], "ja": "「お黙りなさい、屑どもが！"}
+{"id": 142050, "en": ["  If you keep devouring him like starving dogs, of course he'll keep breaking right away, no matter how well Beatrice-sama fixes him up.\""], "ja": "お前たちが飢えた犬みたいにがっつくから、いくらベアトリーチェさまが直しても、すぐ壊しちゃうのよ。」"}
+{"id": 142057, "en": ["\"You broke him the most, Satan-nee.", "  You just don't know what holding back means.\""], "ja": "「サタン姉が一番壊してるよ。 加減を知らないから。」"}
+{"id": 142065, "en": ["\"My apologies, Beatrice-sama.", "  Please forgive my stupid little sisters.\""], "ja": "「申し訳ございません、ベアトリーチェさま。 愚妹どもをどうかお許し下さい。」"}
+{"id": 142072, "en": ["\"Fix him quicklyyy!", "  I'm next, I'm neeext!\""], "ja": "「早くこいつを直してー！ 　次は私、次は私ぃー！」"}
+{"id": 142089, "en": ["\"Aaah, must you keep up that infernal racket?!?!\""], "voix": "bea", "ja": "「静かにせぬか、やかましいッ！！」"}
+{"id": 142094, "en": ["\"\"\"\"\"\"\"Eeep!!\"\"\"\"\"\"\""], "voix": "mix", "ja": "「「「「「「「ひぃッ！！」」」」」」」"}
+{"id": 142112, "en": ["A single yell was all it took to make the noisy Sisters of the Seven Stakes vanish."], "ja": "一括しただけで、騒がしき七杭の姉妹は姿を消して隠れてしまう。"}
+{"id": 142116, "en": ["All they do is mess around, having as much fun as they want breaking him."], "ja": "好きなだけ騒いで、遊んで壊して。"}
+{"id": 142117, "en": ["They only come to me to clean up afterwards.", "  ...Truly, this furniture never leaves me bored."], "ja": "後始末だけは妾に押し付ける。 …まったく退屈させない家具たちだ。"}
+{"id": 142125, "en": ["Once the furniture hid themselves, ...all that remained was a sloppy mess, the last remnants of a broken toy."], "ja": "家具たちが姿を消した後には、…ぐちゃぐちゃに壊れた玩具の残骸が残されている。"}
+{"id": 142128, "en": ["It had no form anymore."], "ja": "もはや原型を留めてはいなかった。"}
+{"id": 142134, "en": ["\"...It's hard even for me to remember its original form in this state.", "  Better to make it remember for itself, perhaps.", "  ...Oh, well.\""], "voix": "bea", "ja": "「…このザマでは、妾とて元の姿を思い出すのも難しい。 当の本人に思い出させるのが一番か。 ……やれやれ。」"}
+{"id": 142137, "en": ["I waved my golden pipe."], "ja": "妾は黄金の煙管を振り上げる。"}
+{"id": 142140, "en": ["Then I spoke.", "  I chanted.", "  I made it remember."], "ja": "そして告げる。 詠う。 思い出させる。"}
+{"id": 142145, "en": ["\"...Come, try to remember.", "  What form did you have?", "  ...After all, right now, you pretty much look like a huge lump of scrap meat."], "voix": "bea", "ja": "「……さぁさ、思い出して御覧なさい。 あなたがどんな姿をしていたのか。 …何しろ妾には、今のそなたは肉の残骸の山にしか見えぬのでな。"}
+{"id": 142149, "en": ["  I've no idea which part is your arm and which is your leg.", "  Unless you remember, I won't even be able to recall your face.", "  *cackle*cackle*cackle*!\""], "voix": "bea", "ja": "どれが腕やら足やら見当もつかぬ。 そなたが思い出してくれなければ、妾にはそなたの面影も思い出せぬ。 くっくくくく！」"}
+{"id": 142155, "en": ["By the power of magic, the pitiful pieces of meat began to remember what their form had been."], "ja": "哀れな肉片が、魔法の力によって、自分たちがどのような姿をしていたのか、思い出し始める。"}
+{"id": 142158, "en": ["Which part should go with which part, and where should join with where?"], "ja": "誰が誰と繋がっていたのか。どことどこがどう組みあがっていたのか。"}
+{"id": 142163, "en": ["That's right, just like that."], "ja": "そうそう、その調子。"}
+{"id": 142168, "en": ["...No, no, you should be a finger on the left hand."], "ja": "…違う違う、お前は左手の指だろう。"}
+{"id": 142173, "en": ["  That's the right hand."], "ja": "そちらは右手だ。"}
+{"id": 142178, "en": ["  That's it, good, good, *cackle*."], "ja": "そうそう、よしよし、くっくっく。"}
+{"id": 142184, "en": ["\"...Good morning.", "  Have you woken up, Ushiromiya Battler?", "  How ironic, that your true nightmare begins after you awaken.\""], "voix": "bea", "ja": "「…おはよう。 目が覚めたか、右代宮戦人ぁ。 もっとも、目が覚めた方が悪夢の中とは実に皮肉な話だがな。」"}
+{"id": 142190, "en": ["\"...*cough*...*cough*...", "  ......Nngg...owowow...\""], "voix": "but", "ja": "「………げほ、…げほっ…。 ………っく、…痛ててて……。」"}
+{"id": 142195, "en": ["\"If you would just accept that I am a witch, you'll quickly wake up from this nightmare, and I'll send you to heaven.", "  I am the king of Mount Purgatory.", "  There's no escape from this hell without my approval.\""], "voix": "bea", "ja": "「妾を魔女と認めさえすれば、すぐにそなたの悪夢を覚まし、天国へ誘ってやろうぞ。 妾こそは煉獄山の王。 妾の許し無しにこの地獄より抜け出す方法はないのだ。」"}
+{"id": 142200, "en": ["\"Heh, ...hehehehe.", "  You call this hell?  That's just useless.", "  Aah, it's all useless.\""], "voix": "but", "ja": "「へ、…へへへへ。 この程度で地獄かよ、駄目だな。 あぁ、全然駄目だぜ。」"}
+{"id": 142206, "en": ["\"I'm impressed you can still talk like that, after experiencing the pain of death not once, like any normal human,", " but more times than I could count with all of my fingers.", "  *cackle*", "  This is why I never get bored.", "  I never get bored of you.\""], "voix": "bea", "ja": "「人ならば一度しか味わわずに済む死の苦しみを、 もう両手の指では数え切れぬほど与えられたというのに、よくもそれだけの減らず口を叩けるものよ。 くっくっく！ 　だからこそ飽きぬ。 そなたには飽きぬのよ。」"}
+{"id": 142212, "en": ["\"Yeah, no boredom problem here.", "  After all, I get my pick of those massive tit Nee-chan's with the dazzling asses in my harem.", "  Thanks to that, I'm not likely to get bored for a while now.\""], "voix": "but", "ja": "「あぁ、全然飽きねぇぜ。 何しろ、太股の眩しいデカ乳姉ちゃんたちが選り取り見取りのハーレム状態なんだからよ。 お陰様でまるで退屈しねぇぜ。」"}
+{"id": 142217, "en": ["\"*cackle*cackle*, *cackle*cackle*cackle*!", "  That's splendid.", "  Otherwise I would get bored too."], "voix": "bea", "ja": "「くくくくく、くっくくくくくく！ 　それはよかった。 そうでなくては妾も退屈だ。"}
+{"id": 142221, "en": ["  So, my furniture,", " I've fixed him, so you can play as much as you want.\""], "voix": "bea", "ja": "それ、家具ども。 直してやったぞ、また存分に遊ぶが良い。」"}
+{"id": 142229, "en": ["\"Thank you very much!", "  Kyaha, all mine!\""], "ja": "「ありがとうございますぅ！ 　きゃっはッ、私がいただきぃ！」"}
+{"id": 142236, "en": ["\"I told you, your turn's over, I'm next!"], "ja": "「だからあんたは終わりよ終わり、次は私なのぉ！"}
+{"id": 142240, "en": ["  Get away from him, waaah!\""], "ja": "退きなさいよ、わあん！」"}
+{"id": 142247, "en": ["\"Heheheheheh.", "  Wonderful, isn't it, Battler-kuuun?", "  Look how popular you are.\""], "ja": "「うっふふふふ。 素敵よね、戦人くぅん？ 　モテモテじゃない。」"}
+{"id": 142253, "en": ["\"Popular guys have it rough.", "  Get in line, freaks.\""], "voix": "but", "ja": "「モテる男は辛いぜ。 畜生ども、順番に並びやがれってんだ。」"}
+{"id": 142261, "en": ["\"If you just stayed obedient instead of acting tough, this would go much easier.\""], "ja": "「虚勢など張らずに素直になれば、もっと楽になれるのに。」"}
+{"id": 142268, "en": ["\"Nah, he's good like this.", "  His screams feel so much better.\""], "ja": "「いいのよこれで。 その方が悲鳴が気持ちいいもの。」"}
+{"id": 142276, "en": ["\"Okay, let's not break him so quickly this time.", "  Did you all hear me?!\""], "ja": "「さぁ、今度は簡単に壊すんじゃないわよ。 いいわね、返事は？！」"}
+{"id": 142286, "en": ["\"You aren't running this show!"], "ja": "「あんたが仕切るんじゃないわよ！"}
+{"id": 142293, "en": ["  Battler-kun,", " let's continue where we left off, okay?", "  After they locked Jessica-chan's room with the master key, how did they return the key to the corpse's pocket, which was inside the room?\""], "ja": "さぁ、戦人くん。 さっきの続きよ？ 　マスターキーで朱志香ちゃんの部屋を施錠した後、どうやって室内の死体のポケットに鍵を戻したというの？」"}
+{"id": 142299, "en": ["\"...Well, maybe...", "  ...That's it, they used a fishing line or something, sending just the key into the room through the crack of the door...\""], "voix": "but", "ja": "「……例えばよぅ。 …そうさ、釣り糸か何かを使って、鍵だけを扉の隙間から室内に戻して…。」"}
+{"id": 142306, "en": ["\"Kyahhahahahahahaha!!", "  Wrooong!\""], "ja": "「きゃっはははははははッ！！ 　ハーズレぇ！」"}
+{"id": 142312, "en": ["\"So naive."], "ja": "「甘いな。"}
+{"id": 142316, "en": ["  Of all of the doors that exist on Rokkenjima, none has a crack through which a key can slip", ".\""], "ja": "六軒島に存在する全ての扉は、鍵が通り抜けられる隙間などない。」"}
+{"id": 142323, "en": ["\"He was wrong, right, right?", "  Okay, this time it's me, my turn!", "  Wheeere should I strike?!\""], "ja": "「ハズレたね、ハズレたねぇ？！ 　さぁ今度は私よ、私の番なのよ！ 　どぉこを貫いちゃおっかなぁ！」"}
+{"id": 142331, "en": ["\"Me, back of the hand!\""], "ja": "「私、手の甲！」"}
+{"id": 142344, "en": ["\"No faaair!", "  Okay, then I've got the back of his other hand!\""], "ja": "「ずるいぃ！ 　じゃあ反対の手の甲！」"}
+{"id": 142357, "en": ["\"I'll take the tip of his nose!\""], "ja": "「私は鼻の頭をもらっちゃおっと！」"}
+{"id": 142375, "en": ["\"Why, why?  Let me do it too, let me strike too!", "  Waaah!!\""], "ja": "「何で何で、私にもやらせて、私にも貫かせてぇ！ 　わあん！！」"}
+{"id": 142382, "en": ["\"Don't be so slow, Levia-nee!  We've always done first come, first serve!", "  Okay, I'll take the top of his foot!\""], "ja": "「レヴィア姉はトロいのよ、いつだって私たちは早い者勝ちでしょうが！ 　じゃあ私は足の甲をいただいちゃおっと！」"}
+{"id": 142397, "en": ["\"Waaah!!", "  Me too, me too!", "  I'll take his shoulder, okay?!\""], "ja": "「わぁん！！ 　私も私もぉー！ 　私は肩をもらっちゃうからいいもん！」"}
+{"id": 142414, "en": ["\"Keh...", "  You're sisters right?  Play nice with each other, okay...?", "  ...Gwaaa...aggh......nn...\""], "voix": "but", "ja": "「け…。 姉妹なんだろ、仲良くしやがれってんだ。… …ぐぅおお、……ぉ、………ッ…。」"}
+{"id": 142429, "en": ["\"...I can't believe you're still resisting.", "  Why haven't you realized that your false courage actually gets us fired up?\""], "ja": "「……よくも堪えるものだな。 お前のその痩せ我慢が、むしろ私たちを楽しませているだけだと、なぜ気付かない？」"}
+{"id": 142433, "en": ["\"Sorry, but...", "false courage and being stubborn are my specialties.", "  No matter how you all try to confuse the issues, I definitely won't accept witches and magic...!\""], "voix": "but", "ja": "「生憎だなぁ。 痩せ我慢と意地の張り合いは俺の十八番なんだ。 お前らがどう俺を煙に撒こうとも、俺は絶対に魔女も魔法も認めねぇ…！」"}
+{"id": 142438, "en": ["\"Even though you can't explain anything with human tricks?", "  Are you stupid?!"], "ja": "「人間とトリックで何も説明できないくせに？ 　馬ッ鹿じゃないの？！"}
+{"id": 142447, "en": ["  Know your place!\""], "ja": "この身の程知らずが！」"}
+{"id": 142452, "en": ["\"It's okay, we don't have to force him to accept it.", "  Soon, he'll wanna accept it so hard he'll start crying."], "ja": "「いいのよ、無理に認めさせなくても。 今に泣きながら認めたくなるわ。"}
+{"id": 142457, "en": ["  Even now, he really wants to kneel down on the ground pitifully and beg our forgiveness!\""], "ja": "今だって、本当は哀れに土下座しながら許しを乞いたいくせにぃ！」"}
+{"id": 142476, "en": ["\"Ugaah, guahgehgehgyahh...!!\""], "voix": "but", "ja": "「うぐぉッ、ぐごげげげがぎゃがッ…！！」"}
+{"id": 142491, "en": ["\"Aaaah, he's broken already!", "  Beatrice-sama!\""], "ja": "「あーん、もう壊しちゃったぁ！ 　ベアトリーチェさまぁー！」"}
+{"id": 142496, "en": ["\"...Ah, well.", "  Since they know I can revive him over and over, my furniture won't even hesitate to break him.", "  Good grief.\""], "voix": "bea", "ja": "「……やれやれ。 妾がいくらでも蘇らせられることを知っているから、家具どもも壊すことに躊躇がない。 困ったものよ。」"}
+{"id": 142499, "en": ["Giving eternal rebirth and eternal death at will."], "ja": "無限の蘇生は、無限の死をも自在にする。"}
+{"id": 142502, "en": ["Before the Endless Witch Beatrice, all death and life has no meaning."], "ja": "無限の魔女ベアトリーチェの前には、全ての生き死には意味をなさない。"}
+{"id": 142503, "en": ["Even death can't become the key to escape from my cage."], "ja": "死すらも、妾の檻から逃れる鍵にはなり得ないのだ。"}
+{"id": 142509, "en": ["\"Come, Battler.", "  Remember your original form again.", "  I'll toy with you to my heart's content, understand?"], "voix": "bea", "ja": "「さぁ、戦人。 再び元の姿を思い出すがいい。 何度でも弄んでやるぞ？"}
+{"id": 142513, "en": ["  I see, I see, how truly pleasant to have a toy to play with for all eternity.", "  ...Ah, could this be the endless bliss witches gain at the endless level?\""], "voix": "bea", "ja": "なるほどなるほど、永久に遊べる玩具とは実に愉快よ。 ……なるほどな、これが無限の境地に至った魔女が得る至福の境地とやらなのか。"}
+{"id": 142517, "en": ["\"I see, I see.", "  Yes, this bliss certainly is amusing.", "  *cackle*cackle*cackle*cackle*!", "  Wahhahahahahahahahahahaha!!", "  I'll revive you over and over, kill you over and over!", "  Let's see, what kind of murder play will unfold on the next game board?", "  Come, bring it in.  Let the next game begin, Ushiromiya Battleeer!!\""], "voix": "bea", "ja": "なるほどなるほど。 これは確かに愉快で至福だ。 くっくくくくくくくく！ 　わっははははははははははは！！ 　何度でも蘇らせてやる、何度でも殺してやるッ！ 　さぁて、次なるゲーム盤ではどのような殺人劇を繰り広げよう？ 　さぁ、新しきゲーム盤を持て。次なるゲームを始めようではないか、右代宮戦人ぁ！！」"}
+{"id": 142566, "en": ["\"Dang,", " too bad Aneki hates cigarettes so much.\""], "voix": "rud", "ja": "「やれやれ。 姉貴の煙草嫌いにも参ったもんだな。」"}
+{"id": 142572, "en": ["\"Sorry.", "  She's been pretty grumpy since last night.", "  Please don't hold it against her.\""], "voix": "hid", "ja": "「すまんなぁ。 昨夜からカリカリしとるんや。 気にせんでやってくれんか。」"}
+{"id": 142577, "en": ["Rudolf and Hideyoshi went out onto the deck and took out some cigarettes."], "ja": "留弗夫と秀吉は甲板に出て、煙草を取り出す。"}
+{"id": 142579, "en": ["Eva had always hated the smell of cigarettes, but when she was in a bad mood, she got even more sensitive to them."], "ja": "絵羽が煙草の臭いを嫌うのは昔からのことだが、不機嫌になるとさらにそれが過敏になる。"}
+{"id": 142582, "en": ["When they decided to smoke casually until they reached the island, the two of them had gotten yelled at and chased out onto the deck."], "ja": "島に着くまでをのんびり喫煙して過ごそうとした二人はそれを咎められ、甲板に追い出されたのだ。"}
+{"id": 142585, "en": ["Hideyoshi tried to use his lighter, but the strong winds gave him some trouble."], "ja": "秀吉はライターを灯すが、甲板の強風でうまく付かない。"}
+{"id": 142586, "en": ["Rudolf took out a Zippo with a smooth gesture and let Hideyoshi borrow the flame."], "ja": "留弗夫は、洒落た仕草でジッポを取り出すと、秀吉に火を貸すのだった。"}
+{"id": 142592, "en": ["\"When did you start smoking cigarettes, Hideyoshi nii-san?\""], "voix": "rud", "ja": "「秀吉兄さんはいつ頃から煙草を？」"}
+{"id": 142597, "en": ["\"Just after the war.", "  In the beginnin', I was rollin' 'em."], "voix": "hid", "ja": "「戦後すぐや。 最初は煙草を転がしとってなぁ。"}
+{"id": 142602, "en": ["  Then I started usin' what I sold.", "  Wahahahahahahaha.\""], "voix": "hid", "ja": "自分の売り物に手を付けてしまったわけや。 わははははははは。」"}
+{"id": 142608, "en": ["\"So you were already smoking when you met Aneki.", "  Bet she's always telling you to stop.\""], "voix": "rud", "ja": "「じゃあ、姉貴と会った時にはもう吸ってたわけだ。 姉貴には、ずいぶん止めろ止めろと言われたでしょう。」"}
+{"id": 142614, "en": ["\"I never listened to her, so she's already completely given up on that.", "  Wahaha, men gotta be stubborn, times like these.\""], "voix": "hid", "ja": "「わしが聞く耳持たんもんだから、あれももうすっかり諦めよった。 わはは、やはり男は強情でなくてはあかんな。」"}
+{"id": 142619, "en": ["Hideyoshi laughed heartily, but Rudolf snickered."], "ja": "秀吉は豪快そうに笑って見せるが、留弗夫はくすりと笑う。"}
+{"id": 142622, "en": ["After being scolded by Eva, they'd escaped to the deck together with their tails between their legs.", "  There was little doubt who had gotten her way in that exchange."], "ja": "絵羽に表で吸えと叱られて、一緒にすごすごと甲板に逃げ出してきたのだ。 尻に敷かれているに、ほぼ間違いあるまい。"}
+{"id": 142631, "en": ["\"...She isn't usually so short-tempered.", "  ...In fact, she's usually a more gentle, quiet woman.", "  Every year, she changes when this day comes.\""], "voix": "hid", "ja": "「…普段はあそこまで短気じゃないんや。 ……いいや、普段はもっと温和な、大人しい女なんやで。 毎年毎年、この日になると人が変わりよるんや。」"}
+{"id": 142634, "en": ["\"Is that so?", "  To me, she looks just like the Aneki we've all known so long.\""], "voix": "rud", "ja": "「そうなんですか？ 　俺らがよく知る昔っからの姉貴そのものに見えますがねぇ。」"}
+{"id": 142638, "en": ["\"...That's just it.", "  She's back to bein' Eva of the Ushiromiya family.", "  ...But that ain't the Eva I know.\""], "voix": "hid", "ja": "「……そうや。 右代宮家の絵羽に戻るんや。 …でも、それはわしと一緒の絵羽とは違うんや。」"}
+{"id": 142641, "en": ["\".........", "Well, I know why she's grumpy.", "  ...This family conference is gonna be a pain.\""], "voix": "rud", "ja": "「………………。 まぁ、カリカリする気持ちもわかります。 …今回の親族会議は面倒だ。」"}
+{"id": 142644, "en": ["\"...Got that right.", "  There's that plan to threaten money out of Krauss nii-san...", "  We may call it a family conference, but it's gonna be just a sibling fight at this rate.\""], "voix": "hid", "ja": "「……そやな。 …あの蔵臼兄さんから、カネを脅し取ろうっちゅう計画や。 親族会議なんて名ばかりの、こりゃただの兄弟喧嘩や。」"}
+{"id": 142651, "en": ["Before the family conference, three of the siblings had made a secret pact without Krauss."], "ja": "親族会議を前に、蔵臼を除く３人の兄弟は密約を結んでいた。"}
+{"id": 142654, "en": ["They were all facing urgent situations and needed a lot of money fast."], "ja": "彼らには互いに差し迫った状況があり、取り急ぎ莫大なカネが必要なのだ。"}
+{"id": 142657, "en": ["And the only one they could turn to was Krauss, who spoke for the Ushiromiya Head now that Kinzo spent his time shut up in his study."], "ja": "そしてそのアテは、書斎に閉じ篭った金蔵に代わって、右代宮家の当主を代行する蔵臼しかない。"}
+{"id": 142663, "en": ["For a long time now, they'd vaguely sensed that Krauss was taking advantage of the fact that Kinzo had lost interest in his own wealth,", " and they suspected that he'd started embezzling that wealth to suit his own purposes."], "ja": "蔵臼が、金蔵が財産に関心を失ったのをいい事に、 それを私物化し摘み食いをしていることは、ずいぶん前から薄々と感付いていた。"}
+{"id": 142665, "en": ["Despite being disgusted by this, they'd turned a blind eye to it while everything was still going smoothly for them,", " ...but now that they needed money, they really couldn't afford to let it slide."], "ja": "自分たちが軌道に乗っている時は、憎々しく思いながらも、見て見ぬふりをしていたが、 …自分たちにもカネがいる今の状況では、それはとても黙認できるものではない。"}
+{"id": 142668, "en": ["Eva had asked Rudolf and Rosa to form an alliance, and they were now scheming to take that money away from Krauss."], "ja": "絵羽は、留弗夫と楼座に連帯を呼び掛け、それを突く事で蔵臼からカネを引き出そうと企んでいる…。"}
+{"id": 142674, "en": ["\"......Rudolf-kun, both you and I are company presidents.", "  We're responsible for the livelihood of our employees.\""], "voix": "hid", "ja": "「………わしも、そして留弗夫くんも社長や。 社員の生活を背負っとる身や。」"}
+{"id": 142679, "en": ["\"Rosa's a president too.", "  Well, as a hobby.\""], "voix": "rud", "ja": "「楼座も社長ですよ。 まぁ、道楽ですが。」"}
+{"id": 142684, "en": ["\"That's right, sorry."], "voix": "hid", "ja": "「そうやな、失礼。"}
+{"id": 142688, "en": ["  ...Basically, we've all got responsibilities.\""], "voix": "hid", "ja": "……つまり、わしらは誰もが、背負うモノを持っとるっちゅうことや。」"}
+{"id": 142693, "en": ["\"...Now that I've thrown down the gauntlet in front of the executive board, I've gotta bring in the money, even if it means getting down on my knees or drinking mud.\""], "voix": "rud", "ja": "「…俺も、幹部連中の前で啖呵を切った以上、土下座しても、泥を啜ってでもカネを引っ張ってこなきゃならない。」"}
+{"id": 142699, "en": ["\"Same here.", "  ...I can't betray the employees who've trusted me and followed me for so long.", "  ...That's why I need to get some money out of Krauss nii-san, even if I have to grab him by the neck.\""], "voix": "hid", "ja": "「お互い様や。 …わしも、わしを信じて付いて来てくれた社員たちを裏切れん。 ……それこそ、蔵臼兄さんの首根っこを引っ掴んででも、カネを引っ張り出さんといかんのや。」"}
+{"id": 142705, "en": ["\"Aneki and Aniki have always been at each other's throats.", "  ...And now she's gotta challenge Aniki head on.", "  It's no wonder she's on edge.\""], "voix": "rud", "ja": "「姉貴は、昔っから兄貴とは犬猿だ。 …その兄貴と全面対決しなくちゃならねぇんだから。 そりゃあカリカリもするだろうよ。」"}
+{"id": 142710, "en": ["\"So, Eva really has had a bad relationship with Krauss nii-san since long ago...?\""], "voix": "hid", "ja": "「やっぱり、絵羽は蔵臼兄さんとは昔っから仲が悪かったんか…？」"}
+{"id": 142715, "en": ["\"Hasn't she talked about it?", "  They were always at each other's throats.\""], "voix": "rud", "ja": "「本人、話しませんか？ 　そりゃあもう、盛大に。」"}
+{"id": 142720, "en": ["\"She never talks about the past, even if I ask.", "  ...She probably doesn't want to remember.\""], "voix": "hid", "ja": "「昔の話は、聞いても話してくれんのや。 ……思い出したい話がないんやろな。」"}
+{"id": 142729, "en": ["\"...She's always been brainy and shrewd.", "  Her grades were good too.", "  Compared to that, Aniki was just average.", "  ...The simple fact she existed would've been pressure enough, but she kept boasting about it and driving him into a corner.\""], "voix": "rud", "ja": "「…姉貴は昔っから、要領も良くて頭が良かった。 成績も良かった。 それに比べ、兄貴は凡才だった。 …ただ、側にいるだけでも充分にプレッシャーだったろうに、姉貴はわざわざそれを誇示してして兄貴を追い詰めていた。」"}
+{"id": 142732, "en": ["\"...That fool...", "  Why drive him into a corner so openly?", "  I'd hardly call that shrewd.\""], "voix": "hid", "ja": "「……あほやなぁ…。 何でそない敵愾心剥き出しで追い詰めるんや。 そういうのは要領がいいとは言わん。」"}
+{"id": 142738, "en": ["\"Hahaha, no kidding."], "voix": "rud", "ja": "「ははは、確かに。"}
+{"id": 142742, "en": ["  ......Aneki...regretted being born a woman.", "  ...So, she probably couldn't forgive Aniki, since he was chosen to succeed the Head just because he was a man.", "  ...She'd always boast to Dad, letting him see that she was better at every little thing.\""], "voix": "rud", "ja": "………姉貴は、女に生まれたことを悔やんでた。 …だから、男というだけの理由で、当主を継ぐことが決まっている兄貴が、多分、許せなかったんだ。 …だからことあるごとに自分の方が優秀であると親父に誇示していたっけ。」"}
+{"id": 142748, "en": ["\"Father really is an old-fashioned person.", "  Gender discrimination was part of his system of values."], "voix": "hid", "ja": "「お父さんは古いタイプのお人や。 男女には差別的な価値観を持っとった。"}
+{"id": 142752, "en": ["  ...I'll bet Eva's eagerness to prove herself made him dislike her a bit...\""], "voix": "hid", "ja": "…自己顕示の強い絵羽は、少々嫌われてたんとちゃうか…。」"}
+{"id": 142757, "en": ["\"............\""], "voix": "rud", "ja": "「………………………。」"}
+{"id": 142783, "en": ["\"Wouldn't you say schooling for women is like sugar in black tea?", "  The taste is dull and flat without it, but too much ruins the whole thing.\""], "voix": "kla", "ja": "「女の学力は、紅茶の砂糖にも似ていると思わないかね？ 　ないのも味気ないが、過ぎれば紅茶の味わいを大いに損なう。」"}
+{"id": 142786, "en": ["...Since you can still drink black tea without sugar,", " he was in effect saying that there was no need for women to study."], "ja": "…紅茶は、砂糖がなくとも飲めることを思えば、 これはつまり、女に学問は不要だと言っているのとまったく同じだ。"}
+{"id": 142789, "en": ["Those infuriating words were what Nii-san hurled at me in my despair,", " when I asked to go to college only to be denied by Father."], "ja": "この腹立たしい言葉は、私が大学院を希望したが父に拒否され、失意の私に兄が吐いた暴言だ。"}
+{"id": 142794, "en": ["I protested that I needed to build up proper dignity and an education as the oldest daughter in the Ushiromiya family, making college an essential next step."], "ja": "私は、自分が右代宮家の長女として相応しい品格と教養を身につける上で、大学院進学は必要なものだと訴えた。"}
+{"id": 142797, "en": ["But when it came down to it, Father's and Nii-san's answers were exactly the same."], "ja": "しかし、父と兄の返事はどちらも要約するとまったく同じ。"}
+{"id": 142800, "en": ["`How conceited for a woman.'"], "ja": "“女のクセに生意気だ”、だった。"}
+{"id": 142803, "en": ["I've never taken the Ushiromiya name lightly, not once since I was born into it."], "ja": "私は右代宮の家に生まれたその時から、その名を軽んじたことなど、一度もない。"}
+{"id": 142804, "en": ["And I've been even more careful not to take my father's name, Ushiromiya Kinzo, lightly."], "ja": "そしてそれ以上に、父である右代宮金蔵の名を軽んじたことなど、ただの一度もない。"}
+{"id": 142809, "en": ["Our family is an old one, with many traditions, ", "but it lost its wealth and businesses in the Great Kanto Earthquake, pushing it to the brink at one point."], "ja": "伝統ある旧家ではあるが、関東大震災であらゆる財産や事業を失い、一度は傾きかけた。"}
+{"id": 142810, "en": ["That was when Father took control with his ingenious talent, reviving it to be even greater than it had been before."], "ja": "それを父は天才的才能を発揮して、かつて以上に復興させて見せたのだ。"}
+{"id": 142813, "en": ["Not once did I forget that I was the daughter of that great Ushiromiya Kinzo."], "ja": "その、偉大なる右代宮金蔵の娘であることの意味を忘れたことなど、ただの一度もない。"}
+{"id": 142817, "en": ["That's why I always made every effort to become worthy of that name."], "ja": "だからこそ、それに相応しくあろうと私は常に努力してきた。"}
+{"id": 142820, "en": ["I needed dignity worthy of the Ushiromiya family.", "  Schooling.", "  Manners.", "  And leadership."], "ja": "右代宮家に相応しい品格。 学力。 立ち居振る舞い。 そしてリーダーシップ。"}
+{"id": 142823, "en": ["Even if I couldn't quite reach Father's level, I deepened my knowledge in economics and finance, trying to improve myself so I could be of use to him at any time."], "ja": "父には到底及ばなくても、金融や経済に学識を深め、いつでもその手伝いができるよう自分を研磨してきたはずだった。"}
+{"id": 142828, "en": ["...However, in the end, Father never acknowledged my efforts."], "ja": "……しかし、それが父に認められることはついになかった。"}
+{"id": 142829, "en": ["To Father, a woman was only meant to support a man, and nothing further than that was permissable."], "ja": "父にとって、女は男を支えるものでしかなく、それ以上であることを許さなかったからだ。"}
+{"id": 142832, "en": ["When was it that I came to understand that?"], "ja": "それを、私はいつ理解したのだろう。"}
+{"id": 142833, "en": ["...It may have been as early as my childhood years."], "ja": "……少女時代にはもう、理解していたのかもしれない。"}
+{"id": 142836, "en": ["...But, I was going to have to wait until I grew up before I could truly accept it."], "ja": "…でも、それを本当の意味で受け容れるには、成人を待たなければならなかった。"}
+{"id": 142841, "en": ["Compared to me, you couldn't have said that Krauss, my older brother of two years, ", "worked hard at all to become deserving of the Ushiromiya family name."], "ja": "２つ年上の兄、蔵臼は、私に比べたらまったくと言っていいほど、 右代宮家に相応しくあろうという努力をしているとは言えなかった。"}
+{"id": 142843, "en": ["He told me many times since my early childhood that he would naturally succeed Father, simply because he was born a man."], "ja": "兄は、自分が男に生まれたというだけで、自分が父の後を継ぐのが当然であると、幼少の頃から何度も口にしてきた。"}
+{"id": 142846, "en": ["...He kept on repeating that, as though it formed an uncrossable gap between us."], "ja": "…それが、私との絶対的な差であるとでも言うように、何度も繰り返してきた。"}
+{"id": 142850, "en": ["I couldn't stand it.", "  Even though I always got better grades than Nii-san,", " even though I became class president when he never managed more than vice-president,", " ...even so, Nii-san was considered to be the appropriate successor to the Ushiromiya family just because he was a man."], "ja": "私は悔しかった。 兄よりも常に良い成績を残しているのに、 兄は副会長止まりだった生徒会も、私は会長にまでなったのに、 …それでも右代宮家の跡継ぎには男であるというだけの理由で、兄が相応しいとされていたからだ。"}
+{"id": 142853, "en": ["Of course, you could find gender discrimination everywhere in those days."], "ja": "確かに、男女差別が罷り通っていた時代だった。"}
+{"id": 142854, "en": ["No, it was even considered a virtue in that era."], "ja": "いや、それが美徳とさえされている時代だった。"}
+{"id": 142857, "en": ["During that despicable time, people said that when a woman is born, she obeys her parents, when she gets married, she obeys her husband, and when she gets old, she obeys her children."], "ja": "女は、生まれては親に従い、嫁いでからは夫に従い、老いては子に従えと言われた、蔑まれた時代だった。"}
+{"id": 142860, "en": ["But that was exactly why I wanted to turn that on its head."], "ja": "でも、だからこそ私は、それを覆したかった。"}
+{"id": 142861, "en": ["...Innocently, I kept trying to prove that I was the most fit."], "ja": "……純粋に、自らがもっともそれに相応しくあるように努力を重ねたのだ。"}
+{"id": 142864, "en": ["...However, I eventually realized that all of my efforts had been doomed from the beginning."], "ja": "……しかし、結局、初めから認められない努力だった。"}
+{"id": 142871, "en": ["\"Wouldn't you say schooling for women is like sugar in black tea?", "  The taste is dull and flat without it, but too much ruins the whole thing.\""], "voix": "kla", "ja": "「女の学力は、紅茶の砂糖にも似ていると思わないかね？ 　ないのも味気ないが、過ぎれば紅茶の味わいを大いに損なう。」"}
+{"id": 142879, "en": ["\"...What do you mean by that, Nii-san?\""], "voix": "eva", "ja": "「…それはどういう意味よ、兄さん。」"}
+{"id": 142884, "en": ["\"Just as there are roles that only men can fill, there are also roles that can only be filled by women, correct?", "  I do believe giving birth to children, raising them, and supporting the master of the house are roles that can only be filled by women.\""], "voix": "kla", "ja": "「男には、男にしか勤められないことがあるように、女とて、女にしか勤められないことがあるんじゃないかね？ 　子を産み、育て、一家の主を支えるのは、女でなければ出来ぬ勤めだと思うがね。」"}
+{"id": 142888, "en": ["\"Are you trying to say there's no need for a woman to work or study?\""], "voix": "eva", "ja": "「女には、勉強や仕事をする必要がないと言いたいの？」"}
+{"id": 142894, "en": ["\"I wouldn't go that far.", "  Talking to an unschooled woman is tiring and nothing more.", "  ...However, women are even more tiring when they're too smart.", "  I do believe that a woman as violently assertive as you would bring no end of hardship to her future husband.\""], "voix": "kla", "ja": "「そこまでは言わんよ。 無学な女など、話していても疲れるだけだ。 …だが、あまり頭が良過ぎる女はもっと疲れる。 お前のように、自己主張の激しい女では、未来の夫もさぞや苦労すると思うのだがね。」"}
+{"id": 142899, "en": ["\"Are you trying to say that a woman has to marry and hide in the shadow of her husband?"], "voix": "eva", "ja": "「女は結婚して夫の影にいろと、そう言いたいの？"}
+{"id": 142900, "en": ["  That's none of your business!\""], "voix": "eva", "ja": "^^!s0　余計なお世話よ！」"}
+{"id": 142917, "en": ["\"Though you're my younger sister, I can look up to you for the respect you hold for Father and your desire to become a daughter worthy of him.", "  Even I am capable of feeling respect for such noble sentiments.\""], "voix": "kla", "ja": "「お前が親父殿を尊敬していて、その娘として相応しくありたいと思う気持ちは、我が妹ながら見上げたものだよ。 私にも尊敬できることだ。」"}
+{"id": 142923, "en": ["\"That's just disgusting.", "  What's this about `noble sentiments'?", "  I'd call that flowery prose, coming from you.", "  Are you pretending to be the Head already?\""], "voix": "eva", "ja": "「気持ち悪い。 何が“私”よ。 この間まで“俺”だったくせに。 もう当主気取りなの？」"}
+{"id": 142941, "en": ["\"The decision that I should succeed the Headship has been established from the very beginning.", "  And yet, you seem to be laboring under the illusion that you might become the Head, hence the useless and reckless efforts you've expended thus far.\""], "voix": "kla", "ja": "「当主は“私”が継ぐことに最初から決まっている。 にもかかわらず、お前は自分も当主になれるかのように錯覚して、無駄かつ暴走した努力をしているに過ぎんのだよ。」"}
+{"id": 142947, "en": ["\"Reckless efforts...?!", "  Is it really that bizarre for me to say I want to go to college?!\""], "voix": "eva", "ja": "「暴走した努力ですって…？！ 　私が大学院に進みたいと言い出すのが、そんなにもおかしいって言うの？！」"}
+{"id": 142954, "en": ["\"Yes, it is bizarre.", "  You undoubtably are the oldest daughter of the glorious Ushiromiya family.", "  One day, you will support that family crest by being wed to the partner most valuable for Father.", "  ...However, excessive learning is not what's being asked of you.", "  What you need are gentle feelings that will allow you to care for your husband, the ability to handle housework, and a humble demeanor that will reflect well on the master of your household.", "  These are all skills you lack utterly.", "  In the end, can you really call yourself a suitable daughter of the Ushiromiya Family?\""], "voix": "kla", "ja": "「あぁ、おかしいね。 お前は確かに栄光ある右代宮家の長女だよ。 やがてはその家紋を背負って、父にとってもっとも価値ある相手と婚約することになるだろう。 …だが、そこで求められるのは過剰な学識ではない。 夫を労わるやさしい気持ちと家事能力、そして一家の長を立てる控えめな態度だ。 お前にはそれが完全に欠落している。 それは右代宮家の令嬢として、果たして相応しいことなのかね？」"}
+{"id": 142959, "en": ["\"I have no intention of being some secluded lady!", "  I just want to become the person most capable of assisting Father at his work!\""], "voix": "eva", "ja": "「私は深窓の令嬢のつもりなんかないわよ！ 　お父様の仕事を手伝ってあげられる最高の人間でありたいと思っただけよ！」"}
+{"id": 142964, "en": ["\"Then shouldn't you do so in a manner befitting an Ushiromiya Family daughter...?", "  What is it with you?", "  You're still mannish even at your age, and you've never learned how to wear makeup in a way that will please men, much less how to cook and do housework.", "  I hear you've even been learning how to brawl.\""], "voix": "kla", "ja": "「なら、それは右代宮家令嬢として相応しくあるべきではないのかね…？ 　お前と来たら何だね。 いい年をして未だに男勝りで、家事炊事は愚か、男を喜ばせる化粧ひとつ身に付けていないじゃないか。 最近は喧嘩の稽古までしてるというじゃないかね。」"}
+{"id": 142972, "en": ["\"Th-That's rude!!"], "voix": "eva", "ja": "^^!s0「し、失礼なッ！！"}
+{"id": 142985, "en": ["  The martial arts aren't brawling, they're a perfect way to train and discipline the mind.", "  And when it's needed, I take more than enough care to act as a woman should!!", "  What are you trying to say?", "  That women should be slaves who work for men, so I mustn't be so forward?!\""], "voix": "eva", "ja": ":noclear_cw　喧嘩じゃないわよ、武道は心の修練に最適なのよ。 それに、然るべき場に出る時は、充分、女として気を遣ってるわよ！！ 　何が言いたいのよ。 女は男に仕える奴隷であれと、しゃしゃり出るなと、そう言いたいわけ？！」"}
+{"id": 142989, "en": ["\"It isn't elegant to say it out loud,", " but I think a few unpleasant words are necessary in order to correct your mistake.", "  So let me say it plainly.", "  Women exist to serve men.", "  And men exist to provide for women.", "  A woman's job is to protect a man's back, to protect his house and raise his children.\""], "voix": "kla", "ja": "「それを認めるのはエレガントではないが、 お前の勘違いを正すには、少々毒のある言葉も必要かと思うよ。 だから言い切ろう。 女は男に仕えるために存在する。 そして男は女を養うために存在する。 女の仕事は、男の背中を守り、家庭を守って子を育てることだ。"}
+{"id": 142991, "en": ["\"Most women realize this without being told.", "  They realize it on their own.", "  ...But even after all these years, you still haven't realized that about yourself.", "  So I've decided to clear away that misunderstanding for you before you leave this family.", "  You ought to thank me.\""], "voix": "kla", "ja": "それは本来、言葉で気付かされることではない。 自ずと気付くことだ。 …しかしお前は、いくつになってもそれを自覚しなかったな。 だから社会に出る前に、兄である私がその誤解を解くのだよ。 感謝して欲しいものだね。」"}
+{"id": 142998, "en": ["\"Th-This is an insult to all women...!!", "  No, wait, ...I-I have never thought of myself as a woman, and I've never depended on anyone because I'm a woman!!", "  How am I inferior to you, Nii-san?!", "  In grades and accomplishments...in everything...I'm better, so how can you look down on me when you have nothing I lack, except the fact that you're a man?!!\""], "voix": "eva", "ja": "「そ、それは全ての女への侮辱よ…！！ 　いや、…いいえ、…わ、私は自分のことを女だと思ったことなどないし、女だからと甘えたことなど一度もない！！ 　私のどこが兄さんに劣っているというの？！ 　成績も経歴も、何もかも私の方が勝っていて、ただ男である以上の何も持たない兄さんが、私の何を見下せるって言うのよ！！」"}
+{"id": 143005, "en": ["\"It's about knowing one's place.", "  Every day, I have been raised with the readiness of one who will be Head.", "  In the future, that preparation will surely become essential.", "  But you are different.", "  Even though you will marry and lose the Ushiromiya family name, you're being trapped by this unnecessary illusion.\""], "voix": "kla", "ja": "「身の程を弁えているか否かだよ。 私は次の当主としての心構えを日々養っている。 それは将来、必ず必要になることだ。 だがお前は違う。 嫁ぎ、右代宮の籍を失うことが決まっているくせに、見る必要のない幻を見ている。"}
+{"id": 143009, "en": ["\"...What's your complaint?", "  Even if you had been born a man, the successor to the Headship still probably wouldn't have been you.", "  Why are you so unsatisfied that you insist on attacking me even now?\""], "voix": "kla", "ja": "……何がそんなに不満なんだ。 仮に男に生まれようとも、当主を継ぐのはお前ではないだろうに。 お前は何がそんなにも不満で私に突っかかってくるのか。」"}
+{"id": 143016, "en": ["\"What's my complaint, you say?!?!"], "voix": "eva", "ja": "^^!s0「何が不満か、ですってッ？！？！"}
+{"id": 143029, "en": ["  Nii-san, you're always, always..."], "voix": "eva", "ja": "^^!sd 　兄さんはいつもいつも、"}
+{"id": 143031, "en": ["always, always like that...!", "  Looking down on me because you'll succeed the Head, "], "voix": "eva", "ja": ":voicedelay 1760^^……いつもいつもいつも…ッ！ 　自分は当主跡継ぎだからと、私を見下して、"}
+{"id": 143033, "en": ["...even though..."], "voix": "eva", "ja": ":voicedelay 3380^^……そのくせ…、"}
+{"id": 143035, "en": ["aaaaaaaaaaaaaaaaaahh!!\""], "voix": "eva", "ja": ":voicedelay 2060^^……ううううぅううううううぅッ！！」"}
+{"id": 143052, "en": ["What's my complaint, you say...?"], "ja": "何が不満か、だって…？"}
+{"id": 143055, "en": ["I've got a billion of them.", "  Grudges, hard feelings, humiliations that I'll never forget kept floating through the back of my mind."], "ja": "百億の不満、恨み辛み、忘れえぬ屈辱がいくらでも脳裏を過ぎる。"}
+{"id": 143058, "en": ["They all built up at the same time, coming out of my throat as a shameful moan."], "ja": "そしてそれらが一度にせり上がって来るものだから、喉の奥から出てくるのは情けない呻き声だけだった。"}
+{"id": 143069, "en": ["\"...What's all this noise?"], "voix": "kin", "ja": "「……何事か、騒々しい。"}
+{"id": 143074, "en": ["  God isn't the only one who holds silence as a virtue.\""], "voix": "kin", "ja": "沈黙を尊ぶのは神だけではないぞ。」"}
+{"id": 143081, "en": ["\"Father.\""], "voix": "kla", "ja": "^^!s1「お父さん。」"}
+{"id": 143084, "en": [" \"Father!\""], "voix": "eva", "ja": ":voicedelay 820^^「お父様！」!sd"}
+{"id": 143089, "en": ["He'd probably overheard our sibling fight."], "ja": "兄弟喧嘩を聞かれたのだろう。"}
+{"id": 143090, "en": ["Father entered with a clearly unhappy face."], "ja": "明らかに不愉快な顔をした父が入ってきた。"}
+{"id": 143100, "en": ["\"Krauss,", " are you fighting with your siblings again?", "  Why don't you have the dignity to act as a leader for your brother and sisters?"], "voix": "kin", "ja": "「蔵臼。 また兄弟喧嘩か。 お前にはなぜに弟や妹たちを率いる貫禄が宿らぬのか。"}
+{"id": 143104, "en": ["  How shameful!", "  I'm embarrassed to hear this from my eldest son!\""], "voix": "kin", "ja": "情けない！ 　長男が聞いて呆れるぞ！」"}
+{"id": 143111, "en": ["In a flash, he struck Krauss's face."], "ja": "間髪入れずにその頬をびしゃりと打つ。"}
+{"id": 143114, "en": ["...I readied myself to be struck in the same way, but I wasn't hit."], "ja": "…私も同じように打たれるだろうと身を固くしたが、私は打たれなかった。"}
+{"id": 143119, "en": ["\"...M-My apologies, ", "Father.\""], "voix": "kla", "ja": "「も、……申し訳ありません。 お父さん。」"}
+{"id": 143124, "en": ["\"Dignity isn't the only thing you lack.", "  There's much more.", "  You're immature in everything!", "  And even so, you pretend like you're an adult!", "  Realize that it's a hundred years too early for you to talk like that, and devote yourself to your studies!", "  Don't make me lament my son's incompetence any more...!\""], "voix": "kin", "ja": "「お前に足りぬのは貫禄だけではない。 まだまだ足りぬ。 何もかもが未熟だ！ 　にもかかわらず一人前を気取っておる！ 　それを語るには百年早いことを肝に銘じ、研鑽に努めよ！ 　わしをこれ以上、息子の不出来で嘆かせるでないぞ…！」"}
+{"id": 143129, "en": ["\"Yes.", "  ...I will continue to strive so that I can become a person worthy of succeeding you, Father...\""], "voix": "kla", "ja": "「はい。 …お父さんの後を継ぐに相応しい人間になれるよう、さらに努力します…。」"}
+{"id": 143133, "en": ["It was as if those words were directed at me."], "ja": "その言葉は、まるで私に当て付けるかのよう。"}
+{"id": 143137, "en": ["Even when he was being yelled at by Father, he was still bragging to me about how he was special, "], "ja": "父に怒られているその時さえ、自分は特別な存在、"}
+{"id": 143139, "en": ["...about how he was the successor."], "ja": "^^!d800……跡継ぎであることを私に誇示しているのだ。"}
+{"id": 143145, "en": ["I just couldn't stand it...and finally spoke what was on my mind."], "ja": "私は堪らなくなり、とうとう胸の内を吐露してしまう。"}
+{"id": 143146, "en": ["Even though I realized that it would be improper for a member of the Ushiromiya family to do such a thing."], "ja": "それが、右代宮家の人間として相応しいことではないと理解しつつ。"}
+{"id": 143152, "en": ["\"Father...!!", "  Please, tell me how I'm inferior to him!!", "  I've tried so hard, studied so hard to become a person who won't bring shame to your name...!", "  Please, tell me how I'm inferior...!", "  How can I improve myself enough to earn your acknowledgement...?!!\""], "voix": "eva", "ja": "「お父様…！！ 　教えて下さい、私の何が劣っているというのですか！！ 　私はお父様の名に恥じない人間になれるよう、今日まであらゆる勉強と努力を重ねてまいりました…！ 　どうか私にも、何が劣っているのかお教えください…！ 　私はこれ以上、何を身に付けたならお父様に認めていただけるのですか…！！」"}
+{"id": 143160, "en": ["\"That again?!!"], "voix": "kin", "ja": "「またその話かッ！！"}
+{"id": 143164, "en": ["  How many times do I have to say it before you'll understand?", "  I expect nothing from you!", "  Women should be women and just learn how to cook and sew!!", "  You aren't prepared at all as a woman!", "  In you, I don't see a trace of the mindset needed to serve one's husband, to earnestly devote one's self to a man's needs!!\""], "voix": "kin", "ja": ":noclear_cw　お前には何度言えばわかるのだ。 お前に期待していることなど何もないッ！ 　女は女らしく、料理や裁縫を学んでおればいい！！ 　貴様には女の心構えがないのだ！ 　夫に仕えようとする気心が、男に尽くそうという甲斐甲斐しさがまったく感じられぬ！！"}
+{"id": 143168, "en": ["\"What good are you as a woman?!", "  Don't you realize that you're a daughter of the Ushiromiya family?!!", "  And yet, you only want to learn things so that you can act like a man!", "  Your duty is not to imitate Krauss!!", "  Don't you even understand your own duty?!!\""], "voix": "kin", "ja": "何の為の女なのか！ 　右代宮家の令嬢であることを自覚しておるのか！！ 　なのに、学びたがることは男の真似事ばかり！ 　お前の役割は蔵臼の真似事ではないのだぞッ！！ 　お前には自らの役割がわかっているのか！！」"}
+{"id": 143175, "en": ["\"A-As a member the Ushiromiya family, I won't bring shame to your na-\""], "voix": "eva", "ja": "「わ、私は右代宮家の人間として、お父様の名に恥ずかしくない、」"}
+{"id": 143186, "en": ["\"That's it, that's where you're already wrong!!", "  Your duty is to marry out of the family and bring me a man who is profitable to me!", "  And then, you will devote yourself to your husband, give birth to children and multiply!", "  Be a good wife who brings praise to your husband's family!!\""], "voix": "kin", "ja": "「えぇい、その時点でもう間違っておるわッ！！ 　貴様の役割は、家を出て嫁ぎ、わしにとって有益な男を連れてくることだ！ 　そして夫に尽くし、子を産み、増やせ！ 　夫の一族に褒め称えられる良妻であれ！！"}
+{"id": 143193, "en": ["\"Just what is it that you can do to please a man?", "  Do you think you can make tea?", "  Do you have any talent in cooking?", "  You have nothing!!", "  All you've done is to try and mimic Krauss, haven't you?!!", "  Krauss will succeed the Ushiromiya family!", "  If you are unsatisfied with that, then you are disobeying me!!\""], "voix": "kin", "ja": "お前に、男を喜ばせる何ができるというのか？ 　茶の作法があるというのか。 料理の才能があるというのか。 何もないッ！！ 　お前がやっているのはみんな蔵臼の真似事ばかりではないかッ！！ 　右代宮家は蔵臼が継ぐ！ 　お前がそれに不満を唱えるというのなら、それはこの私に逆らうということだ！！"}
+{"id": 143195, "en": ["\"Are you saying you'll refuse to listen to what I say, even though you're my daughter?!!!"], "voix": "kin", "ja": "お前は我が娘でありながら、父の言うことを聞けぬというのかッ！！！"}
+{"id": 143200, "en": ["  Get out!!", "  You're disinherited!!", "  I won't let you call yourself an Ushiromiya!!", "  Disinherited, disinherited!!"], "voix": "kin", "ja": "出て行け！！ 　勘当だ！！ 　お前に右代宮など語らせぬ！！ 　勘当だ勘当だッ！！"}
+{"id": 143205, "en": ["  Uu-, *cough*cough*!!\""], "voix": "kin", "ja": ":noclear_cw　うーッ、ゲホゲホゲホゲホ！！」"}
+{"id": 143223, "en": ["\"Father, hang in there.", "  Please calm down."], "voix": "kla", "ja": "「お父さん、しっかり。 落ち着いて下さい。"}
+{"id": 143227, "en": ["  ...Genji-san, could you bring some water?\""], "voix": "kla", "ja": "……源次さん、水を持ってきてもらえますか？」"}
+{"id": 143233, "en": ["\"...Yes.", "  Immediately.\""], "voix": "gen", "ja": "「……はい。 ただいま。」"}
+{"id": 143239, "en": ["\"Eva, leave this place.", "  He doesn't mean what he says.", "  I will calm him down.\""], "voix": "kla", "ja": "「絵羽、席を外せ。 本心ではないさ。 私がなだめておく。」"}
+{"id": 143245, "en": ["\"*cough*, *cough*cough*!!  "], "voix": "kin", "ja": "「ゲホゲホ、ゴホゴホゴホッ！！"}
+{"id": 143259, "en": ["Disinherited...  If you won't listen to me, you're disinherited!!"], "voix": "kin", "ja": "勘当だッ、私の言うことが聞けんなら勘当だー！！"}
+{"id": 143264, "en": ["  *cough*cough*, uugghh, *cough*cough*!!\""], "voix": "kin", "ja": "ゲホゲホゲホ、うーガハゴホガホ！！」"}
+{"id": 143278, "en": ["Father was coughing pretty badly, and Nii-san patted his back."], "ja": "すっかり咽こんでしまった父の背中を、兄がさすっている。"}
+{"id": 143282, "en": ["...As if it was a duty that was naturally his."], "ja": "…それが当然の義務であるかのように。"}
+{"id": 143283, "en": ["It was so vexing for me to let him take that duty all for himself right then."], "ja": "今の私には、それを独占させることさえ悔しく感じた。"}
+{"id": 143285, "en": ["If I carelessly approached Father at that moment, then I would probably be the one to get hit next."], "ja": "今の父に無用心に近付けば、私もまた打たれるかもしれない。"}
+{"id": 143288, "en": ["...However, I fearlessly tried to approach Father's back."], "ja": "…しかし、私はそれを恐れず、父の背中に近付こうとした。"}
+{"id": 143292, "en": ["Genji blocked me..."], "ja": "それを源次が制する…。"}
+{"id": 143298, "en": ["\"...Eva-sama, perhaps it would be better if you stepped outside for now.", "  The Master is not in a good mood today.\""], "voix": "gen", "ja": "「……絵羽さま、今は席をお外しになられた方がよいでしょう。 お館様は今日はご機嫌が良くありません。」"}
+{"id": 143301, "en": ["\"B-But...\""], "voix": "eva", "ja": "「で、でも……。」"}
+{"id": 143309, "en": ["\"*cough*cough*!!"], "voix": "kin", "ja": "「ゲホゲホゲホン！！"}
+{"id": 143323, "en": ["  Why are my children so incompetent?!", "  Krauss is lacking in dignity, Eva is always a stubborn tomboy!!", "  I have no son who's like a man, and not even a daughter who's like a woman!", "  Where did I go wrong raising them?!", "  Why Genji, when and where did I go wrong?!!\""], "voix": "kin", "ja": "なぜに私の息子たちはこうも不出来なのかッ？！ 　蔵臼は貫禄が足りず、絵羽はいつまで経ってもじゃじゃ馬だ！！ 　男らしい男はおらず、女らしい女もいない！ 　私の育て方がいつどこでどう間違ったのか？！ 　なぜだ源次、私は何をいつどこでどう間違えたというのかッ！！」"}
+{"id": 143328, "en": ["\"...Master, you haven't done anything wrong.", "  Krauss-sama has grown into a sturdy son, and Eva-sama into a lovely daughter.", "  You haven't made any mistakes...\""], "voix": "gen", "ja": "「……お館様は何もお間違えになってはおりません。 蔵臼さまは逞しいご子息に、絵羽さまは麗しいご令嬢に成長されました。 何もお間違えにはなっておりません…。」"}
+{"id": 143334, "en": ["\"How can you say that?!!"], "voix": "kin", "ja": "「あれのどこがッ！！"}
+{"id": 143338, "en": ["  What's so lovely about her?!!", "  Far from a lady, she's always acting like a man!!", "  *cough*cough*cough*!!"], "voix": "kin", "ja": ":noclear_cw　どこが麗しいというのか！！ 　淑女どころか、男の真似事ばかり！！ 　ゲホゲホゴホゴホ！！"}
+{"id": 143342, "en": ["  Disinherited, disinheriteeed!!", "  *cough*cough*!!\""], "voix": "kin", "ja": "勘当だッ、勘当だー！！ 　ゲホゲホゲホ！！」"}
+{"id": 143351, "en": ["\"Father, that's just what I'm always telling Eva.", "  Eva has promised that she will have a change of heart and act like a lady.", "  Couldn't you postpone that decision for just a little longer?\""], "voix": "kla", "ja": "「お父さん、それは私からよく絵羽に言い聞かせたところです。 絵羽もこれからは心を入れ替えて、レディとして振舞うと約束してくれました。 どうかもう少しの猶予をいただけませんか。」"}
+{"id": 143356, "en": ["\"Who's a lady?!!", "  *cough*cough*!!", "  Disinherited, disinherited, *cough*cough, uu-, *cough*cough*!\""], "voix": "kin", "ja": "「何がレディだ！！ 　ゲーホゲホゲホ！！ 　勘当だ勘当だ…、ゲホゲホゲホ、ウーッガハガハ！」"}
+{"id": 143362, "en": ["Go quickly and leave this to me."], "ja": "早く行け、この場は貸しにしておいてやる。"}
+{"id": 143365, "en": ["Krauss gave me a look telling me that..."], "ja": "蔵臼はそんな目配せを送ってくるのだった…。"}
+{"id": 143392, "en": ["...Did I take the wrong path, just like Father and Nii-san said?"], "ja": "……私は、父や兄が言うように、道を間違えていたのだろうか。"}
+{"id": 143395, "en": ["True, I never studied how to be a lady."], "ja": "確かに私は、淑女になろうと学んだことはない。"}
+{"id": 143396, "en": ["...Everything I've learned was done in the hopes that I could help Father someday."], "ja": "…父の手伝いができる人間になろうとだけ願い、学んできた。"}
+{"id": 143400, "en": ["......But...is that really true?"], "ja": "………いや、それは本当にそうだろうか。"}
+{"id": 143403, "en": ["Haven't I always been trying to compete with Nii-san, with whom I've had a bad relationship since I was a young girl,", " because I wanted to steal his position as successor and show him a thing or two?"], "ja": "幼少の頃から仲の悪かった兄に、ずっと対抗意識を燃やし、 当主跡継ぎの座を奪い取ってやることで鼻を明かしてやりたいと思っていたのではないだろうか。"}
+{"id": 143406, "en": ["Every chance he gets, Nii-san tells me that men should be manly and women should be womanly."], "ja": "ことある毎に兄に、男は男らしく、女は女らしくと言われた。"}
+{"id": 143407, "en": ["I've been tormented by this unfair discrimination just because of my gender, something people are born with and can't do anything about."], "ja": "生まれつきの、どうにもならない性別を理由に、理不尽な差別に苛まれた。"}
+{"id": 143409, "en": ["I resisted, endeavoring to this very day to study and prove that I'm not inferior, despite being a woman."], "ja": "私はそれに反発して、女であっても、何の遜色もない人間になって証明してやろうと今日まで勉強に励んできたのだ。"}
+{"id": 143412, "en": ["...But doesn't that mean my love of learning comes entirely from a stupid complex I've got against Nii-san?"], "ja": "…だとしたら、私の向学心の根底は、兄へのつまらぬコンプレックスだけではないか。"}
+{"id": 143416, "en": ["Father wanted me to become a lady with whom he could go out in public and not be embarrassed."], "ja": "父は私に、社交界へ連れて行っても恥ずかしくないレディを期待した。"}
+{"id": 143419, "en": ["...Did I betray his hopes, earning good grades and threating Nii-san just to satisfy a childhood resentment...?"], "ja": "…それを私が裏切って、兄を脅かす成績を当て付け、幼少の頃の恨み辛みを晴らしていただけ…？"}
+{"id": 143437, "en": ["\"That's not it.", "  You swore to me, saying `I will become the successor to the Ushiromiya family'.\""], "ja": "「違うわ。 私が右代宮家の跡継ぎになるんだって、あなたは私に誓ったわ。」"}
+{"id": 143440, "en": ["\"......You......\""], "voix": "eva", "ja": "「………あんたは………。」"}
+{"id": 143444, "en": ["The one whispering to me......was the `me' of my years as a young girl, born inside my heart on the day I made that oath."], "ja": "囁き掛けてきたのは、………そう誓った日に私の心の中に生まれた、あの少女の日の私だった。"}
+{"id": 143448, "en": ["...That's right.", "  `She' was my only ally."], "ja": "…そう。 “彼女”は、私の唯一の味方だった。"}
+{"id": 143450, "en": ["When things got difficult, when I felt like I was about to get crushed by it all, she would always quietly appear and support me."], "ja": "私が辛い時、挫けそうな時、いつもそっと現れて私に味方してくれた。"}
+{"id": 143453, "en": ["When I ran into roadblocks and despaired, she would always appear and support me."], "ja": "難問に躓き、頭を抱えた時には必ず現れて応援してくれた。"}
+{"id": 143456, "en": ["When I grew up and the memories of my childhood years faded, I also started to forget my conversations with `her'..."], "ja": "私が成長し、少女時代を忘れるに従い、私は“彼女”との対話を次第に忘れていった…。"}
+{"id": 143462, "en": ["\"I, Ushiromiya Eva, will definitely become the Head of the Ushiromiya family.", "  And I'll triumph over that irritating, arrogant Krauss.", "  ...On that day, we promised to do our best together to achieve that.\""], "ja": "「私、右代宮絵羽は、絶対に右代宮家の当主になるの。 そしてあのムカつく高慢ちきな蔵臼を見返してやるの。 …その為に一緒にがんばろうって、あの日、私たちは約束したわ。」"}
+{"id": 143465, "en": ["\"...That's right, we promised.", "  ...On that day, I promised that I would become the successor to the Ushiromiya Headship.\""], "voix": "eva", "ja": "「……そうね。約束したわ。 …私は右代宮家の当主跡継ぎになるって、あの日にね。」"}
+{"id": 143469, "en": ["On that day, when I had been overcome with sadness, wondering why I was even alive,", " ...you appeared from inside me and lent me your strength."], "ja": "悲しみに沈み、何の為に生きるのかわからなくなったあの日、 …あなたは私の内より現れて、私に力を貸してくれたわ。"}
+{"id": 143472, "en": ["\"...Father didn't accept me.", "  I wanted to teach Nii-san a lesson.", "  I believed that doing this...would let me say goodbye to the wretched creature I once was.\""], "voix": "eva", "ja": "「……お父様に認められたかった。 兄さんの鼻を明かしてやりたかった。 そうすれば、惨めな自分に決別ができると信じていたわ。」"}
+{"id": 143478, "en": ["For a time, I truly believed that my life had no purpose other than to be looked down upon by Nii-san."], "ja": "私の人生は、兄に見下されるためにあると本気で信じた日々があった。"}
+{"id": 143481, "en": ["...It's painful just remembering those days.", "  They're a wound, a crack inside my heart..."], "ja": "…それは思い出すだけで苦々しい日々。 私の心に入った、傷の裂け目…。"}
+{"id": 143485, "en": ["`She' taught me how to sew up that wound..."], "ja": "その傷の縫い方を、“彼女”は教えてくれた…。"}
+{"id": 143488, "en": ["I turned my anger into effort and improved myself,", " ...trying to become a person more worthy of the Headship than Krauss was,", " trying to triumph over him by making Father accept me.", "  It was my perfect revenge."], "ja": "怒りを、努力に換えて自分を磨き、 ……兄よりも当主に相応しい人間になって、 それをお父様に認めさせることで見返そうという、最高の形の復讐。"}
+{"id": 143490, "en": ["I was vaguely aware that a woman couldn't possibly become the Family Head."], "ja": "女は当主を継げないことは薄々知っていた。"}
+{"id": 143493, "en": ["But I thought that maybe, if I could prove myself valuable enough to overturn that premise,", " ...then surely even Father would select me to be his successor."], "ja": "でも、それを覆させるほどに自分を優秀にして見せれば、 …きっとお父様も私を跡継ぎに選んでくれるだろう。"}
+{"id": 143495, "en": ["If that happened, ...then I'd be able to have the greatest and most perfect revenge against Nii-san, ", "who always acted like his succession to the Headship was completely inevitable..."], "ja": "そうすれば、……当主を受け継ぐのがさも当然であるかのように振舞ってきた兄さんを、 最大最高最善の形で、復讐することができるのだ…。"}
+{"id": 143502, "en": ["\"That's right.", "  If we can manage that, the wounds in our heart will be healed.", "  ...We promised each other to do our best until that day comes."], "ja": "「うん。 そうすれば私たちの心の傷は癒えるの。 ……その日までがんばろうって、誓い合ったわ。"}
+{"id": 143508, "en": ["  And now you're saying you're gonna break that promise?", "  Scum.", "  Coward.", "  If only you'd just give up and die...\""], "ja": "なのに、あなたはその約束を破るの？ 　クズ。 意気地なし。 ヘソ噛んで死んじゃえば…？」"}
+{"id": 143523, "en": ["Even though she looked like me as a kid, she was still another me.", "  ...Her tongue was sharp because it was mine."], "ja": "少女時代の姿をしているとは言え、それはもうひとりの私。 …何しろ、私なのだから口が悪い。"}
+{"id": 143526, "en": ["\"...It makes me pretty mad hearing that, even from myself.", "  You have no right to speak of me like that.\""], "voix": "eva", "ja": "「…自分に言われても腹が立つわね。 そこまでボロクソに言われる筋合いはないわ。」"}
+{"id": 143531, "en": ["\"Then let's use that anger to fuel our learning.", "  ...Changing anger into power is my magic.", "  I've saved you from a bunch of tight spots with that power, letting you succeed when you shouldn't have.", "  As long as you have my magic, there's nothing you can't do.\""], "ja": "「ならば、その怒りを勉強に費やしましょうよ。 ……怒りを力に換えるのが私の魔法。 この力で、何度もあなたの窮地を救い、あなたは成せないはずのことを成し遂げてきた。 私の魔法がある限り、あなたに出来ないことなど有りはしないわ。」"}
+{"id": 143534, "en": ["\"...That's right.", "  Anger has always been my driving force.", "  I wonder when it was I forgot that...\""], "voix": "eva", "ja": "「……そうね。 怒りはいつも私の原動力だったわ。 いつからそれを忘れてしまったのかしら…。」"}
+{"id": 143539, "en": ["\"If you can remember me again, that magic will become ours once more.", "  Come on, let's turn that anger into power and study even harder, okay?", "  I know we've still got a lot to learn.\""], "ja": "「私を思い出せたなら、あの魔法の力は再び私たちのもの。 さぁ、その怒りを力に換えて、もっともっと勉強に励みましょう？ 　きっと、私たちにはまだまだ勉強が足りないのよ。"}
+{"id": 143543, "en": ["\"Let's go to college, study more and more, get excellent grades, and drive Krauss into a corner."], "ja": "大学院に進んで、もっといっぱい勉強して、優れた成績を出して、蔵臼を追い詰めてやりましょう。"}
+{"id": 143547, "en": ["  That guy acts like we're nothing, but I'm sure he feels pretty well cornered in the inside.", "  If only he'd just learn his place and die.", "  If he did, we could become the Head.", "  Rudolf won't take the job.", "  That kid can't go against us.\""], "ja": "あいつ、何でもなさそうな顔をしてるけど、きっと心は相当追い詰められてるわ。 早く身の程を思い知って死んじゃえばいいのに。 そうすれば、私たちが当主になれる。 留弗夫は辞退してくれるわ。 あの子は私には逆らえないもの。」"}
+{"id": 143550, "en": ["\"......Stop that.", "  ...No matter how much more I study, Father still won't accept me.\""], "voix": "eva", "ja": "「………よして。 …もう、これ以上、勉強しても、お父様は私を認めてくれないのよ。」"}
+{"id": 143555, "en": ["\"Why not...?\""], "ja": "「どうして…？」"}
+{"id": 143558, "en": ["\"Father told me to be womanly...", "  Because I'm a woman, no matter how hard I tried, Father wouldn't have passed the Headship on to me, even if I had been born before Nii-san...", "  No matter how much effort I put in, ...I can't become anything more than a woman.", "  I won't be acknowledged.", "  Nii-san doesn't try at all, but I can't surpass him.", "  He'll look down on me forever...\""], "voix": "eva", "ja": "「お父様は、私に女らしくしろと言っているのよ…。 私がどれだけ頑張ろうと、女である限り、例え私が兄さんより先に生まれていたとしても、私に当主を譲ることはないのよ…。 私がどれだけ努力を重ねようとも、……私は女以上の何者にもなれない。 認められない。 何の努力もしない兄さんを、超えられない。 永遠に見下され続ける…。」"}
+{"id": 143563, "en": ["\"...Father and Krauss are the worst kind of male supremacists.", "  If only they'd just die.\""], "ja": "「…お父様も蔵臼も、最低の男尊主義者だわ。 早く死んじゃえばいいのに。」"}
+{"id": 143569, "en": ["...She cursed them for my sake."], "ja": "……彼女は、私の代わりに悪態を付く。"}
+{"id": 143572, "en": ["Words that I couldn't say so easily, ...she said for me."], "ja": "私には滅多なことでは口にできない言葉を、…彼女が私に代わって口にしてくれる。"}
+{"id": 143574, "en": ["Even though I understand that she's just another part of myself inside of me,", " ...I feel like she's the only ally I have who can sympathize with me."], "ja": "…内なるもうひとりの自分であるとわかっていても、 …私にとっては、唯一同情してくれる味方なのだ。"}
+{"id": 143577, "en": ["However, while sympathy might do a lot to calm my heart, it won't do anything to improve my current situation.", "  ...In the end, she can only console me for however long it takes me to be dejected by reality...before I finally accept it."], "ja": "だが、同情は心を幾分か楽にしてくれるかもしれないが、現状を何も改善してはくれない。 ……結局、現実に落胆し、それを受け容れるのに必要な時間分だけ、心を慰めてくれるだけなのだ。"}
+{"id": 143583, "en": ["\"...Thank you.", "  You've done enough.", "  ...Now that it's come to this, I'll become such a good lady that it'll shock even Father...", "  I'll find an excellent man that Nii-san can't even compare to...\""], "voix": "eva", "ja": "「……ありがとう。 もう結構よ。 …こうとなったら、お父様が驚くような淑女になってやるわ…。 兄さんなんかとは比べ物にならない、立派な男を捜して…、」"}
+{"id": 143591, "en": ["\"You can't do that.\""], "ja": "「駄目、そんなの。」"}
+{"id": 143593, "en": ["\"......\""], "voix": "eva", "ja": "「…………。」"}
+{"id": 143596, "en": ["`She' rejected my timid thoughts."], "ja": "“彼女”は、私のいじけた考えを一蹴する。"}
+{"id": 143599, "en": ["...I understand.", "  ...Because `she' is me, I understand."], "ja": "…わかっているのだ。 ……“彼女”は私だからこそ、わかっているのだ。"}
+{"id": 143604, "en": ["\"All Father said was that he won't let a woman succeed the Headship `now'.", "  But even that's just a rule Father made up.", "  Since he made it, he can get rid of it.\""], "ja": "「お父様は、少なくとも“今”は、女に当主を継がせないと言っている。 でも、それすらも所詮はお父様が決めたルールでしかないの。 お父様が決めた以上、それを破棄出来るのもお父様。"}
+{"id": 143608, "en": ["\"......Human feelings can change far more often than the number of sand grains on a beach.", "  Krauss is such a stupid man that Father's eventually gonna realize it, even if we don't prove it for him.", "  ...When that happens, the wall that separates man from woman will be demolished by Father himself, who set it up in the first place.", "  That day will surely come.\""], "ja": "………人の気持ちなど、浜の真砂が尽きるより遥かに早く変わるわ。 蔵臼が愚鈍な男であることは、私たちが立証しなくても、やがてお父様も理解する。 …その時、男女の境の下らない垣根は、それを設けたお父様によって取り払われるの。 その日は必ず来るわ。」"}
+{"id": 143611, "en": ["\"...How can you be so sure?\""], "voix": "eva", "ja": "「……どうして必ずなんて言えるのよ？」"}
+{"id": 143619, "en": ["\"Because that's my...magic.\""], "ja": "「それが私の、魔法だから。」"}
+{"id": 143621, "en": ["\".........\""], "voix": "eva", "ja": "「…………………。」"}
+{"id": 143629, "en": ["\"If you just believe, this magic will surely summon a miracle.", "  ...The basis of my magic is nothing more than your believing heart.\""], "ja": "「あなたが信じてくれさえすれば、この魔法は必ず奇跡を呼ぶの。 ……私の魔法の源は、あなたの信じる心だけ。」"}
+{"id": 143631, "en": ["\"............\""], "voix": "eva", "ja": "「………………………。」"}
+{"id": 143637, "en": ["If I use this magic, ...then surely, I'll never have to doubt until the day I die...that I'll eventually become the Head."], "ja": "その魔法を使えば、……私はきっと永遠に、死ぬまで、自らがいつか当主になれる日が来ることを疑わずに済むだろう。"}
+{"id": 143640, "en": ["...But I don't know if that's the right thing for Ushiromiya Eva..."], "ja": "…しかし、それは右代宮絵羽として、正しいことなのか、わからない…。"}
+{"id": 143642, "en": ["Maybe I should aim to become the kind of lady Father wants, someone who can proudly participate in high society."], "ja": "お父様の期待するような、社交界に胸を張って出られる淑女を目指すべきなのではないだろうか。"}
+{"id": 143644, "en": ["And if I'm reborn, maybe Father will change his opinion of me.", "  ...Maybe I can find my own lifestyle, just as Nii-san has found his."], "ja": "お父様も、生まれ変わった私を見直してくれるかもしれない。 ……兄は兄、私は私で、それぞれの生き方を見つけられるかもしれない。"}
+{"id": 143647, "en": ["And anyway, I just can't imagine my stubborn father choosing a woman like me as the Head,", " especially if it means skipping over Krauss."], "ja": "それに、あの頑固なお父様が、女でも当主を継げるようにして、 しかも兄を飛ばして私を当主に選んでくれるなんて、……いくらなんでも考えられない。"}
+{"id": 143652, "en": ["\"......You don't believe?\""], "ja": "「………信じないの？」"}
+{"id": 143655, "en": ["\"U-Um, I was just thinking.", "  ......Maybe I can't succeed the Headship, but as a woman, I can have a child. And Nii-san still isn't engaged.", "  ...If Nii-san isn't able to father a child, and I gave birth to one, ...then wouldn't that make my child the next Head after Nii-san?", "  In other words, ...wouldn't that mean the same thing as stealing the Headship from Nii-san...?\""], "voix": "eva", "ja": "「あ、…あのね、私、思ったの。 ………私には当主は継げないかもしれないけれど、私は女で、子を産むことができるわ。そして兄さんには未だ縁談もない。 ……もし兄さんに子どもができず、私だけが子どもを産めたなら、…兄さんの次の当主は私の子どもということになるでしょう？ 　それはつまり、…私が兄さんから当主の座を奪うのと同じ意味にならないかしら…。」"}
+{"id": 143658, "en": ["\"......Are you serious?\""], "ja": "「…………本気で言ってるの？」"}
+{"id": 143661, "en": ["\"...Y-Yes, I'm serious.", "  ...True, it'll be very sad to abandon the resolve I've had since childhood.", "  ...It pains my heart to betray you, my younger self.", "  ...But this is my most realistic option...!\""], "voix": "eva", "ja": "「え、…えぇ。本気よ。 ……少女時代からの決意を捨てるのは、確かにとても悲しいこと。 …私の少女時代そのものであるあなたを裏切るのは、私も心苦しいわ。 ……でも、それが一番現実的なのよ…！」"}
+{"id": 143666, "en": ["\"Are you throwing away your dreams?", "  ...And me as well?\""], "ja": "「夢を捨てるの？ 　……そして、私も捨てるの？」"}
+{"id": 143673, "en": ["\"I'm not throwing anything away.", "  ...I'm an adult, and the day has come for me to part ways with you.\""], "voix": "eva", "ja": "「捨てるんじゃない。 ……私も大人になって、あなたと決別する日が来たということよ。」"}
+{"id": 143678, "en": ["\"That's right.", "  Eva's already become an adult.", "  She's even forgotten how to use magic,", " ...and now she's the mother of a single child.", "  She forgot all about how magic can grant one's own dreams, and now she's forcing those dreams onto her son.\""], "ja": "「そうね。 絵羽はもう大人になったわ。 魔法の使い方さえ忘れてしまった。 ……今は一児の母。 自ら夢を叶える魔法を忘れ去って、その夢を息子に押し付けている。"}
+{"id": 143682, "en": ["\"...Even though Father and Krauss ruined your life, you're trying to push your dreams onto your son, ruining his life.", "  ...Is that what you call being an adult?\""], "ja": "…自らの人生を、お父様や蔵臼によって滅茶苦茶にされたくせに、あなたも自らの夢を息子に押し付けて、滅茶苦茶にしようとしているの。 ……それが大人というものなの？」"}
+{"id": 143685, "en": ["\"G-George is a son I'm proud of, one who won't embarrass himself no matter where he goes...!", "  The dream I wasn't granted might come true for George...!", "  Jessica's a delinquent in both her grades and her behavior.", "  And she's a woman!", "  If only Jessica would step down, George would become the heir...!\""], "voix": "eva", "ja": "「じょ、譲治はどこに出しても恥ずかしくない自慢の息子よ…！ 　私には叶えられなかった夢を、譲治なら叶えられるかもしれない…！ 　朱志香なんて成績も品行も不良じゃない。 それに女なのよ！ 　朱志香さえ辞退してくれれば、譲治が跡継ぎになることだって…！」"}
+{"id": 143690, "en": ["Even saying it was painful."], "ja": "言っていて胸が痛む。"}
+{"id": 143692, "en": ["Am I just forcing my own regrets onto George?"], "ja": "私は自らの無念を、譲治に押し付けているだけではないのか。"}
+{"id": 143696, "en": ["It's not like I have any right to look on Jessica with scorn."], "ja": "朱志香を蔑む資格などありはしないのに。"}
+{"id": 143697, "en": ["Wasn't I just horrible for hitting her with the same words that had caused me so much suffering...?"], "ja": "そして、自らを苛んだのと同じ言葉を彼女にぶつけるなんて、最低ではないか…。"}
+{"id": 143699, "en": ["...I understand.", "  I understand..."], "ja": "…わかっている。 わかっている…。"}
+{"id": 143702, "en": ["The desire to triumph over my brother is part of my own personal revenge."], "ja": "兄を見返してやりたいのは私だけの復讐だ。"}
+{"id": 143703, "en": ["...I can't use George for that..."], "ja": "…それに譲治を使ってはいけないのだ…。"}
+{"id": 143710, "en": ["\"...So I'll take revenge myself.", "  I have a plan to cheat Nii-san out of some of his money, with Rudolf and Rosa as my allies.", "  I'll surely be able to get back at him.", "  ...In any case, I'm sure that Nii-san is embezzling Father's assets...\""], "voix": "eva", "ja": "「……だから、私自らが復讐するわ。 留弗夫と楼座を味方に、兄さんからカネをせしめようという計画があるの。 きっと一矢報いることができるわ。 …何しろ、兄さんがお父様の資産を摘み食いしているのは確かなんだから…。」"}
+{"id": 143718, "en": ["\"...What a boring plan.", "  Why don't you just give up on that and cry yourself to sleep...?\""], "ja": "「…つまんない計画。 そんなのさっさとやめて、泣き寝入りでもしちゃえば…？」"}
+{"id": 143720, "en": ["\"............\""], "voix": "eva", "ja": "「………………………。」"}
+{"id": 143725, "en": ["\"We will become the Ushiromiya Family Head.", "  ...Don't mistake what your dream is.", "  And believe me when I say it'll definitely come true.", "  Believe in my magic.\""], "ja": "「私たちは、右代宮家の当主になるの。 ……その夢を誤魔化さないで。 だから絶対に叶えられると、私を信じて。 私の魔法を、信じて。」"}
+{"id": 143729, "en": ["\"...If I believe, I wonder if any power will dwell in that magic.\""], "voix": "eva", "ja": "「…信じたら、魔法は力を持つのかしら。」"}
+{"id": 143734, "en": ["\"It will.", "  My magic can grant any wish with certainty.\""], "ja": "「うん。 私の魔法は、どんな願いも必ず叶えるの。」"}
+{"id": 143737, "en": ["\".........", "...I'll believe.", "  ...I'll believe, ...so create a miracle with that magic...", "  ...If you don't, ...the hole in my heart will never heal...\""], "voix": "eva", "ja": "「………………。 ……信じるわ。 ……信じるから、…その魔法で奇跡を起こして…。 ……そうでなくちゃ、……私の心の傷は、永久に癒されない……。」"}
+{"id": 143742, "en": ["\"Okay.", "  ...Then listen well.", "  Listen to my magic words.", "  ...And understand.  If we can solve the riddle, we can become the Ushiromiya Family Head.", "  ...So lend me your ears and listen carefully...\""], "ja": "「うん。 ……なら、よく聞いて。 私の魔法の言葉。 ……そしてそれを理解して。謎が解けたなら、私たちは右代宮家の当主になれるの。 ……だから耳を澄ましてよく聞いて…。」"}
+{"id": 143754, "en": ["Behold the sweetfish river running through my beloved hometown."], "ja": "懐かしき、故郷を貫く鮎の川。"}
+{"id": 143755, "en": ["You who seek the Golden Land, follow its path downstream in search of the key..."], "ja": "黄金郷を目指す者よ、これを下りて鍵を探せ……。"}
+{"id": 143788, "en": ["\"Eva nee-san,", " it looks like we're about to arrive.\""], "voix": "kir", "ja": "「絵羽姉さん。 そろそろ着くみたいですよ。」"}
+{"id": 143792, "en": ["When Kyrie shook her shoulders, Eva jumped and awoke from her doze."], "ja": "霧江に肩を叩かれ、絵羽は過敏に反応してまどろみから醒める。"}
+{"id": 143800, "en": ["\"......!", "  ......Ah, "], "voix": "eva", "ja": "「………ッ。 ………あ、"}
+{"id": 143802, "en": ["...I'm sorry."], "voix": "eva", "ja": ":voicedelay 390^^……ごめんなさいね。"}
+{"id": 143807, "en": ["  I was half asleep.\""], "voix": "eva", "ja": "寝惚けてたわ。」"}
+{"id": 143813, "en": ["\"Sorry to scare you.\""], "voix": "kir", "ja": "「驚かせてしまってごめんなさいね。」"}
+{"id": 143820, "en": ["\"Aunt Eva, you were out cold.", "  Did you get up early this morning?\""], "voix": "but", "ja": "「絵羽伯母さん、ぐっすりでしたね。 朝はだいぶ早かったんすか？」"}
+{"id": 143826, "en": ["\"...Maybe.", "  I let you all see something embarrassing.", "  I'm sorry.\""], "voix": "eva", "ja": "「……まぁね。 恥ずかしいところを見せちゃったわ。 ごめんなさい。」"}
+{"id": 143831, "en": ["\"Well, I'd say it's pretty impressive you were relaxed enough to sleep."], "voix": "jes", "ja": "「眠れるくらい余裕があるのは大したもんだぜ？"}
+{"id": 143836, "en": ["  Battler kept yelling `We're gonna faaall, we're gonna drooown!'", "  Can't get bored with this guy around.\""], "voix": "jes", "ja": "戦人なんか、ずっと落ちるーだの沈むーだの！ 　まったく退屈しないヤツだぜ。」"}
+{"id": 143842, "en": ["\"Sh-Shut up!", "  All humans have at least one thing they're weak against...!\""], "voix": "but", "ja": "「う、うるせーな。 人間誰しも苦手のひとつやふたつくらいあるもんだぜ…！」"}
+{"id": 143848, "en": ["Battler and Jessica came in, messing around."], "ja": "戦人と朱志香は、はしゃぎながら出て行く。"}
+{"id": 143849, "en": ["Rudolf also made a face as if asking, `Are you okay?'"], "ja": "留弗夫も、大丈夫か？　という表情を見せた。"}
+{"id": 143856, "en": ["\"Get ahold of yourself.", "  When you see Dad and the rest, all that sleepiness'll go right out the window.", "  Let's all give it our best, okay?\""], "voix": "rud", "ja": "「しっかりしろよ。 親父たちの顔を見れば、眠気もすっ飛ぶさ。 せいぜいお互い、頑張ろうぜ？」"}
+{"id": 143862, "en": ["\"...That's right.", "  We have to keep it together, especially this year...\""], "voix": "eva", "ja": "「…そうね。 特に今年は、しっかりしないとね…。」"}
+{"id": 143868, "en": ["\"That's it.", "  ...Let's all tighten our assholes and go.\""], "voix": "rud", "ja": "「だな。 …お互い、ケツの穴を引き締めて掛かろうぜ。」"}
+{"id": 143871, "en": ["Rudolf said these strict words in a small voice that only Eva could hear."], "ja": "絵羽にしか聞こえない小声で、留弗夫は厳しめの言葉を掛ける。"}
+{"id": 143876, "en": ["Failure would not be tolerated in this year's family conference."], "ja": "今回の親族会議では、負けは許されない。"}
+{"id": 143877, "en": ["...All of their companies were hanging in the balance."], "ja": "……自分たちの会社の命運がかかっているのだ。"}
+{"id": 143881, "en": ["Even Rudolf's face looked a little tense."], "ja": "留弗夫の顔も、わずかに緊張しているように見えた。"}
+{"id": 143882, "en": ["Eva's expression probably looked tense as well."], "ja": "多分、絵羽の表情も、緊張しているように見えるだろう。"}
+{"id": 143889, "en": ["\"Mom, I have our luggage.", "  Let's go up onto the deck.\""], "voix": "geo", "ja": "「母さん、荷物を持つよ。 甲板に上がろう。」"}
+{"id": 143895, "en": ["\"...Thank you.", "  You really are considerate, George.\""], "voix": "eva", "ja": "「…ありがとう。 譲治は本当に気が利くわね。」"}
+{"id": 143901, "en": ["\"Why are you thanking me so suddenly?", "  It's not like you, Mother.\""], "voix": "geo", "ja": "「どうして急にお礼なんか。 母さんらしくもない。」"}
+{"id": 143909, "en": ["\"Evaaa, Geooorge.", "  We're there.", "  Grab our luggage.\""], "voix": "hid", "ja": "「絵羽ぁ、譲治ぃ。 到着やで。 荷物をまとめるんや。」"}
+{"id": 143915, "en": ["\"Uu-!", "  We're there, we're there!", "  *giggle*!\""], "voix": "mar", "ja": "「うー！ 　到着到着！ 　きゃっきゃっきゃ！」"}
+{"id": 143921, "en": ["\"Hey, Maria!", "  Stop running or you'll trip!\""], "voix": "ros", "ja": "「こら、真里亞！ 　転ぶから走るのをやめなさい！」"}
+{"id": 143925, "en": ["It seemed Maria was already getting excited."], "ja": "真里亞は早くも興奮気味らしい。"}
+{"id": 143926, "en": ["She ran circles around Hideyoshi, escaping from Rosa, who was trying to catch her."], "ja": "秀吉の周りを、ぐるぐる回りながら、取り押さえようとする楼座から逃げ回っている。"}
+{"id": 143933, "en": ["\"............\""], "voix": "eva", "ja": "「…………………………。」"}
+{"id": 143938, "en": ["\"What is it, Mother?"], "voix": "geo", "ja": "「どうしたの、母さん。"}
+{"id": 143943, "en": ["  ...Do you feel sick...?\""], "voix": "geo", "ja": "…具合悪いの…？」"}
+{"id": 143950, "en": ["\"George,", " take our luggage and go on ahead.", "  Your mother's probably feeling anemic, so I'll lend her a hand.\""], "voix": "hid", "ja": "「譲治。 荷物を持って先に行ってなさい。 母さんは貧血だろ、わしが肩を貸すわ。」"}
+{"id": 143956, "en": ["\"Really...?", "  Okay, I'll head out first.\""], "voix": "geo", "ja": "「そう…。 わかったよ、先に行ってるよ。」"}
+{"id": 143962, "en": ["Something odd in Eva's expression told Hideyoshi that it hadn't been a pleasant awakening, so he made George go on ahead."], "ja": "秀吉は絵羽の表情の微妙な様子から、良い寝覚めではないことを察し、譲治を先に行かせた。"}
+{"id": 143969, "en": ["Rudolf's family and Rosa's family also went up onto the deck, leaving only Eva and Hideyoshi inside the boat."], "ja": "留弗夫一家も楼座一家も、甲板に上がっていき、船内には絵羽と秀吉だけが残される。"}
+{"id": 143972, "en": ["Eva had a vague expression on her face, as though she still hadn't been able to escape from her daydream."], "ja": "絵羽は、未だに白昼夢から逃れられぬような、ぼんやりとした表情を浮かべているのだった。"}
+{"id": 143978, "en": ["\"............\""], "voix": "eva", "ja": "「………………………。」"}
+{"id": 143983, "en": ["\"...What's wrong?", "  Why the meek face?\""], "voix": "hid", "ja": "「…どないしたんや。 神妙な顔して。」"}
+{"id": 143991, "en": ["\"......I wonder if I'm using George as a tool for my own revenge...", "  ...I wonder if my childish hostility towards Nii-san has caused me to treat that child's life like a toy...", "  Aah, what have I done, ...what have I...!\""], "voix": "eva", "ja": "「………私、…譲治を自分の復讐の道具にしてたんじゃないかしら…。 …私の兄さんに対する子ども染みた敵対心のせいで、あの子の人生を自分の玩具にしてしまってはいないかしら…。 あぁ、私は何てことを…、何てことを……！」"}
+{"id": 143996, "en": ["\"That isn't true.", "  George is our wonderful son, and he'll always perform admirably wherever he goes.", "  Eva, even if you let your own hopes get in the way a bit, everythin' turned out okay in the end, hasn't it?!"], "voix": "hid", "ja": "「そんなことあらへん。 譲治はどこに出しても恥ずかしゅうない、わしらの自慢の息子や。 仮に、絵羽の思惑が多少混じっとったとしても、結果オーライっちゅうもんやないか！"}
+{"id": 144000, "en": ["  You haven't done anythin' wrong.", "  In fact, George is grateful for the strict discipline you gave him, right?\""], "voix": "hid", "ja": "絵羽はなーんも悪ぅない。 むしろ、譲治は厳しく躾けてくれたと感謝しとるくらいやで？」"}
+{"id": 144009, "en": ["\"...Really?", "  Hey, really?!", "  George doesn't think I'm a terrible mother, does he...?!", "  Does he, does he, does he?!\""], "voix": "eva", "ja": "「…本当に？ 　ねぇ、本当？！ 　譲治は私のこと、嫌な母さんだと思ってないかしら…？！ 　ねぇ、ねぇねぇねぇ？！」"}
+{"id": 144014, "en": ["\"He's never said anythin' like that, not even once.", "  You're just worryin' too much.\""], "voix": "hid", "ja": "「そんなこと、ただの一度も口にしたことはあらへんで。 絵羽の杞憂や。」"}
+{"id": 144020, "en": ["\"Hideyoshi-sama,", " everyone has left the boat."], "voix": "kum", "ja": "「秀吉さま。 皆様、下船なさっておりますよ。"}
+{"id": 144025, "en": ["  ...Oh, did you lose something?", "  Do you need a hand?\""], "voix": "kum", "ja": "……おや、何か落し物ですか ？　お手伝いしましょうか？」"}
+{"id": 144029, "en": ["Kumasawa had come to check on them when they hadn't gone up to the deck."], "ja": "二人が甲板に上がってこないので、熊沢が様子を見にやって来た。"}
+{"id": 144030, "en": ["Hideyoshi hid Eva behind his back so that her expression wouldn't be seen."], "ja": "秀吉は、絵羽の表情を見られないようにその背で隠す。"}
+{"id": 144036, "en": ["\"Yeah, sorry.", "  My necktie pin just got a bit crooked!", "  We're fine, and we'll be out in a sec.", "  Wait outside for us!\""], "voix": "hid", "ja": "「あぁ、すまんなぁ。 ちょいとわしのネクタイピンがイカレてもうてな！ 　もう大丈夫や、すぐ行くで。 外で待っててや！」"}
+{"id": 144043, "en": ["\"Is that so?", "  ...Hohohoh.", "  Then I will wait outside...\""], "voix": "kum", "ja": "「そうですか？ 　……ほっほっほ。 それでは表でお待ちいたしております…。」"}
+{"id": 144048, "en": ["Even though she didn't really understand, Kumasawa realized that something had come up...and disappeared so that she didn't trouble them further."], "ja": "そのよくわからない言い訳に、熊沢は何か事情があったことを察し、それ以上は構わず姿を消してくれた。"}
+{"id": 144051, "en": ["If they stayed here any longer, they would probably make everyone else worry too."], "ja": "これ以上、ここに留まっていると、他のみんなを心配させてしまうだろう。"}
+{"id": 144057, "en": ["\"...It's about time to go.", "  We'll make George and the rest worry.\""], "voix": "hid", "ja": "「…そろそろ行こか。 譲治たちを心配させてまうで。」"}
+{"id": 144063, "en": ["\"......George...really doesn't despise me...?\""], "voix": "eva", "ja": "「……………私、……本当に譲治に恨まれてない……？」"}
+{"id": 144068, "en": ["\"Yeah.", "  Nothin' of the sort.", "  In fact, he's very grateful.\""], "voix": "hid", "ja": "「あぁ。 恨まれてなんかあらへん。 むしろ感謝しとるぞ。」"}
+{"id": 144073, "en": ["\"............\""], "voix": "eva", "ja": "「…………………………。」"}
+{"id": 144078, "en": ["\"...Did you have a nightmare?", "  Again?\""], "voix": "hid", "ja": "「…悪い夢でうなされたんか。 また。」"}
+{"id": 144084, "en": ["\"........."], "voix": "eva", "ja": "^^!s200「………………"}
+{"id": 144096, "en": ["Yes.\""], "voix": "eva", "ja": "^^!s0うん。」"}
+{"id": 144106, "en": ["Hideyoshi knew that Eva was often tormented by nightmares."], "ja": "絵羽が悪夢に苛まされるのは、秀吉にとって珍しいことではなかった。"}
+{"id": 144107, "en": ["And they always grew more marked on the days leading up to the family conference..."], "ja": "そしてそれは、親族会議が近付くと、毎年顕著になるのだ…。"}
+{"id": 144110, "en": ["Hideyoshi knew that Eva's relationship with Krauss was still full of antagonism to the point of being traumatic...", "and that she still couldn't let go of the feelings she'd had as a child."], "ja": "秀吉は、絵羽が未だに蔵臼に対して、トラウマとも呼べるほどの確執を持っていて、 子ども時代のそれを未だに決別できていないことを知っていた。"}
+{"id": 144119, "en": ["\"That was a dream.", "  ...I'm with you now.", "  If I grasp your hand like this, that dream'll go away."], "voix": "hid", "ja": "「それは夢や。 …わしが一緒にいる。 こうして手をぎゅーっと握っとったら、そんな夢もどっか行ってしまうで。"}
+{"id": 144123, "en": ["  Right?", "  Look.", "  I'm holdin' tight.\""], "voix": "hid", "ja": "な？ 　ほら。 ぎゅー。」"}
+{"id": 144128, "en": ["\"...*giggle*", "  That hurts.", "  ...Thank you.", "  I'm fine now...", "  ...Let's get off the boat.\""], "voix": "eva", "ja": "「……くす。 痛いわ。 …ありがとう。 もう平気よ…。 …降りましょ。」"}
+{"id": 144134, "en": ["\"Yeah.", "  Let's get off the boat.", "  Everyone's waitin' for us.\""], "voix": "hid", "ja": "「あぁ。 降りよか。 みんな待たせてるで。」"}
+{"id": 144139, "en": ["\"...Umm, ......I'm sorry.\""], "voix": "eva", "ja": "「…あの、………………ごめんなさい。」"}
+{"id": 144144, "en": ["\"Hmm?\""], "voix": "hid", "ja": "「ん？」"}
+{"id": 144153, "en": ["\"...I'm sorry..."], "voix": "eva", "ja": "「……さっき、"}
+{"id": 144155, "en": ["...that I yelled at you..."], "voix": "eva", "ja": ":voicedelay 950^^……あなたの煙草の煙のこと、"}
+{"id": 144157, "en": ["...about the smoke from your cigarettes just now...\""], "voix": "eva", "ja": ":voicedelay 2310^^……怒鳴ってごめんなさい……。」"}
+{"id": 144162, "en": ["\"Come on, you normally wouldn't apologize for that sort of thing.", "  ...You're all frail after havin' that dream.", "  ...Don't worry 'bout it.", "  I was wrong for not realizin' that the smoke was affectin' you.\""], "voix": "hid", "ja": "「普段ならそんなことで謝らんくせに。 …悪い夢、見た後のお前は気弱でいかん。 …気にするなや。 お前に煙が届いてることを気付かんかったわしが悪いんや。」"}
+{"id": 144167, "en": ["\"......Have you...started to hate me...?\""], "voix": "eva", "ja": "「…………私のこと、嫌いになった…？」"}
+{"id": 144173, "en": ["\"No way, no way.", "  Wahahahahahaha.", "  If I hated you after somethin' like that, we wouldn't have lasted three days.", "  Come on, stand up, stand up.", "  Let's get off the boat.\""], "voix": "hid", "ja": "「ならんならん。 わっはっはっはっはっは。 この程度で嫌いなんて言うとったら、三日持たんでぇ。 ささ、立った立った。 降りるで降りるで。」"}
+{"id": 144184, "en": ["\"Hideyoshi-sama, Eva-sama.", "  Is everything all right?", "  Are you not feeling well?\""], "voix": "goh", "ja": "「秀吉さま、絵羽さま。 大丈夫ですか？ 　お体が優れませんか？」"}
+{"id": 144188, "en": ["This time, it was Gohda.", "  It looked like they'd kept everyone waiting too long after all."], "ja": "今度は郷田がやってきた。 さすがに待たせすぎたに違いない。"}
+{"id": 144194, "en": ["Even Eva had to stand up without grumbling now."], "ja": "絵羽も、さすがに愚図らず立ち上がる。"}
+{"id": 144195, "en": ["...She had to stop forcing her bad mood onto her husband and causing him any more trouble."], "ja": "…これ以上、自分の不機嫌に夫を振り回し、迷惑を掛けることはできない。"}
+{"id": 144198, "en": ["...Because that wasn't someting a `good wife' would do."], "ja": "……それは“良妻”のすることではないのだから。"}
+{"id": 144204, "en": ["\"Is everything okay?", "  If it's a matter concerning your health, shall I call Doctor Nanjo?\""], "voix": "goh", "ja": "「大丈夫ですか？ 　体調が気になられるようでしたら、南條先生をお呼びしましょうか？」"}
+{"id": 144209, "en": ["\"Thanks,", " but I'm just feeling a little anemic.", "  I'm fine now.\""], "voix": "eva", "ja": "「ありがとう。 ちょっと貧血気味でね。 もう大丈夫よ。」"}
+{"id": 144215, "en": ["\"It's a woman's disease.", "  Don't worry about it.", "  Wahhahahahahaha.\""], "voix": "hid", "ja": "「婦人病っちゅうやっちゃ。 気にせんといてや。 わっはははははは。」"}
+{"id": 144220, "en": ["\"Come on...", "  Don't say stuff like that in front of people, it's embarrassing.\""], "voix": "eva", "ja": "「もう…。 そんなの人に言わないでよ、恥ずかしいわ。」"}
+{"id": 144225, "en": ["\"Oooh, sorry, sorry.\""], "voix": "hid", "ja": "「おう、すまんすまん。」"}
+{"id": 144229, "en": ["Eva elbowed Hideyoshi in the gut."], "ja": "絵羽が肘で秀吉の脇腹を小突く。"}
+{"id": 144230, "en": ["By that time, her normal expression had returned, which allowed Hideyoshi to relax a little."], "ja": "その時にはもう、いつもの表情に戻っていたので、秀吉は少し安心するのだった。"}
+{"id": 144243, "en": ["The bright sunlight outside almost made her dizzy."], "ja": "表の強い日差しに、本当に立ち眩みを覚えそうになる。"}
+{"id": 144246, "en": ["A small plank for getting off the boat was lowered, and Gohda was waiting there, smiling and ready to lend them a hand."], "ja": "船着場との間に掛けられた下船用の橋板の前で、郷田が手を貸そうと、にこやかに微笑みながら待っていた。"}
+{"id": 144255, "en": ["\"Please, Eva-sama.", "  Your hand.\""], "voix": "goh", "ja": "「どうぞ、絵羽さま。 お手を。」"}
+{"id": 144260, "en": ["\"Thank you.\""], "voix": "eva", "ja": "「ありがとう。」"}
+{"id": 144265, "en": ["\"Welcome to Rokkenjima.\""], "voix": "goh", "ja": "「六軒島へようこそいらっしゃいました。」"}
+{"id": 144274, "en": ["Welcome back."], "ja": "^^!s0　おかえりなさい。"}
+{"id": 144291, "en": ["\"...Huh?\""], "voix": "eva", "ja": "「……え？」"}
+{"id": 144295, "en": ["When she left the boat, ......it seemed to Eva as though she'd heard the voice of her young self."], "ja": "船着場に降り立った時、………絵羽は少女時代の自分の声で、おかえりと言われたような気がした。"}
+{"id": 144298, "en": ["No, it hadn't seemed that way.", "  ...Someone `had told' her \"Welcome back\"."], "ja": "気がした、じゃない。 …「おかえりなさい」と“言われた”のだ。"}
+{"id": 144303, "en": ["After becoming a shameless adult, "], "ja": "汚れた大人になってしまったから、"}
+{"id": 144305, "en": ["...the voice of her young self was distant."], "ja": "^^!d800…少女時代の声が、遠いのだ。"}
+{"id": 144311, "en": ["\"What am I living for...?", "  What can I do to release myself from this obsession...?\""], "voix": "eva", "ja": "「…私は何のために生きてるの……？ 　……何をどうすれば、…私はこの妄執から解き放たれるというの……。」"}
+{"id": 144314, "en": ["Hideyoshi heard her talking to herself."], "ja": "その独り言は秀吉に聞かれていた。"}
+{"id": 144317, "en": ["When Hideyoshi held on tightly to Eva's shoulders, his firmness alone told her that there was no need to say any more..."], "ja": "秀吉は絵羽の肩をぐっと抱き寄せると、その力強さだけで、それ以上を語る必要はないと伝えるのだった…。"}
+{"id": 144321, "en": ["Maybe it was because the typhoon was getting closer."], "ja": "台風が近付いているせいだろうか。"}
+{"id": 144322, "en": ["The lively cries of the seagulls, which usually greeted them when they arrived, couldn't be heard at all..."], "ja": "いつもなら賑やかに迎えてくれるはずのうみねこの鳴き声が、まったく聞こえなかった…。"}
+{"id": 144366, "en": ["\"...What, you mean six years ago?", "  I mean, I was still in elementary school back then, right?", "  It's pretty unfair to expect me to remember everything, don't you think?\""], "voix": "but", "ja": "「…６年前のことかぁ。 何しろ６年って言ったら、小学校まるまるひとつ分じゃねぇか。 覚えてろってのが酷な話だぜー？」"}
+{"id": 144372, "en": ["\"True.", "  Especially because we were so young, we've grown a lot in these six years.", "  If I hadn't been introduced, I might not even have remembered you.\""], "voix": "geo", "ja": "「そうだね。 特に、若かった僕たちにとっては大きな成長の６年間だったはずだからね。 案外、自己紹介がなかったら思い出せなかったんじゃないかい。」"}
+{"id": 144379, "en": ["\"Really?", "  I figured he was Battler right away.", "  And when he opened his mouth, I was sure.\""], "voix": "jes", "ja": "「そうかな。 私は戦人だって、すぐにわかったぜ？ 　口を聞いて、さらに確信できたぜ。」"}
+{"id": 144386, "en": ["\"Uu-.", "  I just met him for the first time.", "  Didn't know him six years ago.\""], "voix": "mar", "ja": "「うー。 真里亞、初めて会った。 ６年前、わかんない。」"}
+{"id": 144392, "en": ["\"That's right.", "  Maria-sama was only three years old then.\""], "voix": "sha", "ja": "「そうですよね。 真里亞さまはまだ３つでしたものね。」"}
+{"id": 144398, "en": ["\"Well, the same goes for me.", "  I only knew Maria when she was three years old, and since she's grown so big, of course I wouldn't recognize her.\""], "voix": "but", "ja": "「それを言われたら俺もだぜ。 ３歳の頃しか知らない真里亞が、こんなに大きく成長してるんだから、そりゃあわからねぇわけだぜ。」"}
+{"id": 144404, "en": ["After lunch, we had all gone out to the beach to walk around, talk, and take it easy."], "ja": "俺たちは昼食の後、浜辺へ出て散歩しながらのんびりお喋りを楽しんでいた。"}
+{"id": 144407, "en": ["Our parents were apparently having a suspicious, complicated discussion, so we ended up leaving them behind."], "ja": "親たちがどうにもキナ臭く、積もる話もあったようなので、席を外すことになったのだ。"}
+{"id": 144412, "en": ["...Well, just as I'd guessed from the start, the conversation focused on me, since I'd been away for six years."], "ja": "…まぁ、当初からの予想通り、６年ぶりとなる俺に話題は集中した。"}
+{"id": 144419, "en": ["\"Still, you've really gotten tall.", "  I wouldn't call myself short, but your height really surprised me.\""], "voix": "geo", "ja": "「しかし、本当に背が伸びたね。 僕も低いつもりはないけど、とにかくその身長には驚いたよ。」"}
+{"id": 144425, "en": ["\"That's right.  I remember well what Battler-sama was like six years ago, but I was surprised even so.\""], "voix": "sha", "ja": "「そうですね。６年前の戦人さまをよく覚えておりますが、それでも驚くくらいでした。」"}
+{"id": 144432, "en": ["\"Yeah, seriously.", "  I can hardly believe this is the same Battler we knew back then.\""], "voix": "jes", "ja": "「だなぁ。 ６年前の戦人からは想像がつかないくらいだったぜ。」"}
+{"id": 144438, "en": ["\"I'm surprised how much everyone remembers about it.", "  My memory's all hazy.\""], "voix": "but", "ja": "「みんな、案外、６年も前のことなんか覚えてるもんだな。 俺なんか、かなり記憶があやふやだってのによ。」"}
+{"id": 144443, "en": ["\"Yeah, I'll bet.", "  Looks like it's taking you a while to remember us."], "voix": "jes", "ja": "「だろうな。 私たちのことを思い出すのに、少し時間を掛けてたみたいだもんな。"}
+{"id": 144448, "en": ["  You know, that hurts a bit.\""], "voix": "jes", "ja": "あれはちょっと傷付くぜー？」"}
+{"id": 144454, "en": ["\"Come on, this was six years ago, right?", "  I'm the one who has it bad, being forced to remember...!\""], "voix": "but", "ja": "「いや、さすがに６年前だぜ？ 　覚えてろって方が無理があるぜ…！」"}
+{"id": 144460, "en": ["\"...Are you saying that you can't remember well because it was six years ago?"], "voix": "sha", "ja": "「…６年前のことですと、あまり覚えてはおられないのですか？"}
+{"id": 144465, "en": ["  I can remember it as clearly as if it happened yesterday...\""], "voix": "sha", "ja": "私は、つい昨日のことのように鮮明に覚えておりますが…。」"}
+{"id": 144470, "en": ["\"Well, your memory's great, after all."], "voix": "geo", "ja": "「紗音は記憶力がいいからね。"}
+{"id": 144475, "en": ["  You remember the kind of things Battler did and said back then pretty clearly, don't you?\""], "voix": "geo", "ja": "６年前に、戦人くんがどんなことをしていたとか、言っていたとか、よく覚えてるんじゃないかい？」"}
+{"id": 144482, "en": ["\"Come to think of it, that's right.", "  Shannon's memory can be incredible when you'd least expect it.\""], "voix": "jes", "ja": "「そういやそうだよな。 紗音って妙なところで記憶力がいいんだよな。」"}
+{"id": 144488, "en": ["\"Uu-.", "  I'm horrible at remembering.", "  I remember fun things, but can't remember boring things at all.", "  Uu-.\""], "voix": "mar", "ja": "「うー。 真里亞、覚えるの下手くそ。 楽しいことはすいすい覚えるけど、つまんないのは全然ダメ。 うー。」"}
+{"id": 144493, "en": ["We all laughed, saying that everyone was like that."], "ja": "誰だってそうさと、みんなが笑う。"}
+{"id": 144499, "en": ["\"Shannon.", "  By the way, what was Battler like six years ago?"], "voix": "jes", "ja": "「紗音。 ちなみに、６年前の戦人はどんなだったんだ？"}
+{"id": 144504, "en": ["  Remember any interesting episodes?\""], "voix": "jes", "ja": "何かエピソードを覚えてないのかよ？」"}
+{"id": 144509, "en": ["\"Let's see."], "voix": "sha", "ja": "「そうですね。"}
+{"id": 144513, "en": ["  ...I'm sure that he said something like this when he left."], "voix": "sha", "ja": "……確か、お帰りの際はこう仰っていました。"}
+{"id": 144519, "en": ["  `I'll be back, <i><see you again></i>."], "voix": "sha", "ja": "“また来るぜ、シーユーアゲイン。"}
+{"id": 144525, "en": ["  I'll surely come for you riding a white horse'.\""], "voix": "sha", "ja": "きっと白馬に跨って迎えに来るぜ。”」"}
+{"id": 144531, "en": ["\"Gyaaaaaaaaaaaaaaaaaaaahhh, "], "voix": "but", "ja": "^^!s0「ぎゃああああああああぁああぁあぁ、"}
+{"id": 144539, "en": ["stop iiiiiiiiit, so embarrassiiiiiiiiiiing!!\""], "voix": "but", "ja": "らめええぇえぇ、恥ずかすぃいいいいぃいいぃぃぃ！！」"}
+{"id": 144556, "en": ["\"Gyaaahahahahaha!!"], "voix": "jes", "ja": "「ぎゃーっはっはっはっはっはっは！！"}
+{"id": 144560, "en": ["  Sounds just like something you'd say!", "  Yeah, I remember you always used to be full of those stupid lines, Battler!"], "voix": "jes", "ja": "言いそう言いそう！ 　確かにそんな感じだった、６年前の戦人はそんな感じのバカっぽいセリフばかり言ってたぜ！"}
+{"id": 144565, "en": ["  Waaahahahhaha!!\""], "voix": "jes", "ja": "わーっはっはっはっはっは！！」"}
+{"id": 144572, "en": ["\"Hahahaha.", "  It really does sound like something Battler-kun would've said back then.\""], "voix": "geo", "ja": "「はっはっはっは。 確かに当時の戦人くんがいかにも言いそうだなぁ。」"}
+{"id": 144578, "en": ["\"Uu-.", "  Embarrassing?  Is that embarrassing?\""], "voix": "mar", "ja": "「うー。 恥ずかしい？恥ずかしい？」"}
+{"id": 144584, "en": ["\"...Yeah.", "  Horribly embarrassing..."], "voix": "but", "ja": "「……あぁ。 最高に恥ずかしいぜ…。"}
+{"id": 144587, "en": ["  Maria, I'm sure that when you're in middle school, you'll want to say embarrassing stuff like that...", "  When that happens, make sure you write it down and read it three times before saying it out loud.", "  If you don't, you'll definitely regret it...\""], "voix": "but", "ja": "真里亞もきっと、中学くらいになったら、そういう恥ずかしいことが口にしたくなるからな…。 そういう時は、口に出す前にチラシの裏に書いて、三度読み直してから口にすべきかどうか考えるんだぞ。 じゃねぇと、きっと後悔するからな…。"}
+{"id": 144592, "en": ["\"Still, everyone has to pass through that pitiful period...", "  That's right, that's how you learn your place, learn shame, and become an adult."], "voix": "but", "ja": "いや、誰しもがそういう痛々しい時代を潜り抜けていくのだ…。 そうさ、そうして身の程を知り恥を覚えて大人になるんだ。"}
+{"id": 144596, "en": ["  Yeah, it's one of those bittersweet things everyone does in adolescence as they transition to becoming adults, a memory you just wanna forget...", "  Aarrggwaaahhh...\""], "voix": "but", "ja": "そうさ、これは大人への過渡期なら誰もが犯す青春の甘酸っぱくて恥ずかしい、消し去りたい記憶なんだ…。 うおーぐおー…。」"}
+{"id": 144608, "en": ["After all, this was all stuff I'd let slip out without thinking, so I didn't remember the words exactly."], "ja": "何しろ俺は、深く考えずにポンポンと喋るものだから、いちいち内容は覚えてない。"}
+{"id": 144609, "en": ["But now that those words were being recited to me, they were as embarrassing as all hell."], "ja": "でも、その内容は後で復唱されると非常に恥ずかしいものばかりだ。"}
+{"id": 144611, "en": ["I only recently came to understand this weakness...and was working hard to avoid such careless outbursts, but..."], "ja": "その弱点を近年、ようやく理解し、不用意な発言を慎むように努力してはいるのだが……。"}
+{"id": 144614, "en": ["...I guess I was just born with the habit of speaking without thinking, and there's nothing I can do about it."], "ja": "…どうにも軽口は生まれ持った癖らしく、何ともしようがない。"}
+{"id": 144621, "en": ["\"Shannooon, do you remember any other embarrassing stuff?\""], "voix": "jes", "ja": "「紗音〜、他にも何か恥ずかしいことは覚えてないのかよ？」"}
+{"id": 144626, "en": ["\"Yes, well...  I remember a few other things, but..."], "voix": "sha", "ja": "「えぇ、まぁ…。他にも色々と覚えておりますけれど、その…。"}
+{"id": 144631, "en": ["since it looks like the person in question wants to forget them, I think I'll refrain from saying any more...\""], "voix": "sha", "ja": "……ご本人もお忘れになりたいことみたいなので、これ以上は遠慮させていただきたいと思います…。」"}
+{"id": 144638, "en": ["\"To be brutally honest, I don't remember this at all.", "  Please, don't make me remembeeer.\""], "voix": "but", "ja": "「ぶっちゃけると、俺はもう何も覚えてないんだ〜。 頼むから思い出させないでくれー。」"}
+{"id": 144643, "en": ["\"...Uu-.", "  Shannon's bullying Battler...?"], "voix": "mar", "ja": "「…うー。 紗音が戦人をいじめてる…？"}
+{"id": 144648, "en": ["  Uu-.", "  You can't.", "  You shouldn't bully people.\""], "voix": "mar", "ja": "うー。 だめー。 いじめはいけないの。」"}
+{"id": 144655, "en": ["\"Hahahahaha.  She isn't really bullying him.", "  Let's leave it at that, okay?"], "voix": "geo", "ja": "「ははははは。別にいじめてるわけじゃないんだよ。 この話はこれくらいにしようか。"}
+{"id": 144659, "en": ["  But Shannon, you'll have tell me all about it sometime Battler isn't around."], "voix": "geo", "ja": "でも紗音、後で戦人くんのいないところでこっそり教えてね。"}
+{"id": 144665, "en": ["  It sounds pretty interesting.\""], "voix": "geo", "ja": "何だか面白そうだから。」"}
+{"id": 144671, "en": ["\"Yes, certainly.\""], "voix": "sha", "ja": "「はい、かしこまりました。」"}
+{"id": 144678, "en": ["\"N-No, you can't, Shannon-chaaaaaaaaaan...!!\""], "voix": "but", "ja": "「そ、そりゃーねーぜぇ、紗音ちゃんよぉおおおぉ…！！」"}
+{"id": 144690, "en": ["For a while, George-aniki laughed at me, as though warming up for when Shannon-chan would tell him about more of my embarrassing misspeaks."], "ja": "しばらくの間、譲治の兄貴は、紗音ちゃんから俺の恥ずかしい失言を聞きだそうとする素振りをして、俺をからかうのだった。"}
+{"id": 144703, "en": ["George looked like he was flirting with Shannon,", " ...but he seemed somewhat open and frank about it."], "ja": "譲治の兄貴は、紗音ちゃんとつるむ様にしてふざけているわけだが、 ……何というか、とても気さくでフランクな感じだった。"}
+{"id": 144707, "en": ["He was always that way with his cousins, but he usually took on a reserved, gentlemanly attitude when he came in contact with the servants."], "ja": "彼は、いとこ相手にならフランクだが、使用人たちには節度ある紳士的態度で接していたはずだ。"}
+{"id": 144709, "en": ["...When I thought about it, I got the feeling he was being a bit overly friendly, which seemed strange."], "ja": "…それを思うと、何だかちょっぴり馴れ馴れしいようにも感じ、わずかの違和感を覚えた。"}
+{"id": 144714, "en": ["Maria started scribbling in the sand with a stick, and George-aniki and Shannon-chan joined in.", "  This left me and Jessica off to the side, so I asked her secretively."], "ja": "真里亞が砂浜に棒で落書きを始め、 それに譲治の兄貴と紗音ちゃんが加わるという形になり、俺と朱志香が浮いたので、それをこっそり聞いてみた。"}
+{"id": 144720, "en": ["\"...Hey, Jessica.", "  Is George-aniki...umm, going out with Shannon-chan?\""], "voix": "but", "ja": "「……よぉ、朱志香。 譲治の兄貴ってさ、……その、紗音ちゃんと付き合ってたりする？」"}
+{"id": 144725, "en": ["\"Ooooh?", "  What the, how'd you guess?!"], "voix": "jes", "ja": "「おおお？ 　何々、何でわかったんだよ？！"}
+{"id": 144730, "en": ["  Battler, you've got a keener eye for people than I thought.\""], "voix": "jes", "ja": "戦人お前、見掛けより人を見てんなぁ。」"}
+{"id": 144735, "en": ["\"Huh, ...whaaaaaaat?!"], "voix": "but", "ja": "「って、…えええぇ？！"}
+{"id": 144740, "en": ["  I was just kidding, ...but they're actually going out?!\""], "voix": "but", "ja": "俺、冗談で言ったつもりだったんだけど、…本当に付き合ってんのかよ？！」"}
+{"id": 144746, "en": ["\"Shhh!", "  Your voice is too loud!"], "voix": "jes", "ja": "「シー！ 　声が大きいって！"}
+{"id": 144751, "en": ["  ...It looks like they're keeping it secret for now, okay?", "  It'd be better if nobody found out about it, especially Aunt Eva.\""], "voix": "jes", "ja": "…一応、内緒の付き合いってことらしいぜ？ 　特に絵羽伯母さんの耳には入れない方がいいよ。」"}
+{"id": 144756, "en": ["\"I-I see...", "  Love with a servant, huh...?"], "voix": "but", "ja": "「な、なるほど…。 使用人との恋か…。"}
+{"id": 144764, "en": ["  ...Y-Yeah, but, since when?", "  Whew, I guess a lot can happen in six years...", "  But yeah, Aniki's an amazing person, and Shannon-chan seems to be kind and brave, "], "voix": "but", "ja": "……い、いやでも、いつの間に？ 　はー、６年ってすげぇなぁ……。 でも、確かに兄貴なら人間もできてるし、紗音ちゃんもやさしくて甲斐甲斐しそうだし、"}
+{"id": 144766, "en": ["...so they might make a pretty good match.\""], "voix": "but", "ja": ":voicedelay 6970^^……お似合いかもなぁ。」"}
+{"id": 144772, "en": ["Actually, six years ago, I remember taking notice of her just a little bit."], "ja": "実は６年前、ちょっぴり彼女を意識していたことを思い出す。"}
+{"id": 144775, "en": ["I see, she really fits well with George-aniki, nothing I can do about that.", "  ...Goodbye, my fleeting first love of six years ago..."], "ja": "そっかー、譲治の兄貴とじゃお似合いだよな、仕方ねぇよなぁ。 …さらば、俺の６年前の淡い初恋…。"}
+{"id": 144777, "en": ["......Which means that...the collection of embarrassing lines Shannon-chan had just held back on...", "probably had something to do with that...", "  Aaaaaaaaaaarrghh, I can't take it..."], "ja": "………ってことは、さっき紗音ちゃんが自重してくれた、俺の６年前の恥ずかしいセリフ集は、 ……それ関係って可能性が高いな…。 うぉおおおおぉおぉおぉ、ケツが痒くなってきたぜ…。"}
+{"id": 144783, "en": ["\"How long have they been going out?\""], "voix": "but", "ja": "「兄貴たち、付き合って、どのくらいになるんだ？」"}
+{"id": 144789, "en": ["\"That depends on what you call going out, but I think it's been at least a year."], "voix": "jes", "ja": "「どの段階から付き合ってると呼ぶのかにもよるだろうけど、確実に１年以上は続いてると思うぜ。"}
+{"id": 144794, "en": ["  But if you count the time they both had one-sided feelings, it'd probably be several years.\""], "voix": "jes", "ja": "双方片思い時代を含めると数年になるんじゃねぇのかな。」"}
+{"id": 144800, "en": ["Before I'd realized it, the two of them had separated themselves from the group and were walking down the beach, talking about something."], "ja": "いつの間にか二人っきりモードになって、何かを語り合いながら浜辺を歩く、譲治の兄貴と紗音ちゃん。"}
+{"id": 144803, "en": ["...They looked calm, ", "and rather than a light relationship between two lovers, it looked like a more serious one, as though they were already engaged."], "ja": "……その様子は落ち着きがあって、 恋仲という軽い関係よりは、婚約を交し合ったような真面目な関係に見えた。"}
+{"id": 144809, "en": ["\"...Six years ago, huh?", "  That's a long time."], "voix": "but", "ja": "「……６年か。 でっけぇ月日だなぁ。"}
+{"id": 144814, "en": ["  What did those six years mean to me?", "  I've just gotten taller.", "  It was just a waste of time, six years I spent obstinately fighting with my dad.\""], "voix": "but", "ja": "俺にとってのこの６年は何だったんだ？ 　図体がデカくなっただけだな。 親父との親子喧嘩で意地を張り合う内に６年も経っちまったってだけの、くだらない時間だったなぁ。」"}
+{"id": 144820, "en": ["\"What about you, Battler?", "  You got a girlfriend?\""], "voix": "jes", "ja": "「戦人の方こそどうなんだよ。 彼女とか出来たのかよー？」"}
+{"id": 144825, "en": ["\"Hmm, I wonder.", "  There's a few girls that I have fun with.", "  But there's no `only one'."], "voix": "but", "ja": "「さぁてどうだろうな。 一緒に遊ぶ女の子は何人かいるぜ。 だけどオンリーワンって関係はまだねぇな。"}
+{"id": 144830, "en": ["  ...I guess I'm just a kid.", "  I think it's more fun to be noisy with a large group of people than being alone with one person.\""], "voix": "but", "ja": "……俺がお子様なんだろうよ。 誰かと二人っきりでいるより、みんな大勢でわいわいやってる方が楽しいように思えるんだ。」"}
+{"id": 144835, "en": ["\"Aah, that's so you, Battler.", "  But take your relationships with your female friends seriously."], "voix": "jes", "ja": "「あー、そりゃ何とも戦人らしいぜ。 でも、女友達との関係はちゃんとしっかりしておけよ。"}
+{"id": 144840, "en": ["  When girls get wrong impressions or form a group, it can be scary, you know?", "  They might be having secret feuds over you behind your back, with people getting hurt or crying.\""], "voix": "jes", "ja": "女の思い込みとコミュニティは怖ぇぜ？ 　勝手に戦人を巡って暗闘が繰り広げられて、勝手に誰かが泣いたり傷付いたりしているかもしれないぜ？」"}
+{"id": 144846, "en": ["\"That's so weird.", "  I think I remember getting the same bit of advice from one of the girls in my class just last week.", "  ...What's this all about?", "  Why can't everyone just have fun together?", "  Do people really want to couple up that much?\""], "voix": "but", "ja": "「おっかしーな。 同じ忠告をつい先週、クラスの女から受けた気がするぜ。 ……何だってんだろうな。 どうしてみんなで楽しく過ごせねぇんだ。 そうまでして、つがいになりたいのかねぇ。」"}
+{"id": 144851, "en": ["\"...It's probably because you've never found a partner like that, Battler.", "  Well, you might run into someone sooner or later.", "  You've just gotta wait patiently!\""], "voix": "jes", "ja": "「…戦人がまだ、そういう相手にあったことがねぇからだろうぜ。 まぁ、追々そういう女に出会うこともあるだろうよ。 気長に待つこったな！」"}
+{"id": 144857, "en": ["\"What?", "  It almost sounds like you've already found a partner like that.", "  What about you?", "  Have you gotten a boyfriend?\""], "voix": "but", "ja": "「何だよ。 まるでお前にはもうそういう相手がいるみたいな言い方じゃねぇかよ。 お前はどうなんだよ。 彼氏とか出来たのかよ。」"}
+{"id": 144862, "en": ["\"Huh?!", "  M-Me?!", "  No, err, wahahahahaha...\""], "voix": "jes", "ja": "「え？！ 　わ、私かよ？！ 　いやその、わははははは……。」"}
+{"id": 144867, "en": ["\"Come on, that reaction's so easy to understand...", "  From the looks of it, there's some boy you're thinking about, but you haven't been able to confess to him yet, something like that.\""], "voix": "but", "ja": "「なんつー、わかりやすい反応だよ…。 見たところ、気になる男はいるけど、まだ告白もできてねーって、そういうところだろう。」"}
+{"id": 144872, "en": ["\"N-No, umm, that's not, umm, uh!", "  Sh-Shut up, who cares about that...!\""], "voix": "jes", "ja": "「いッ、いやその、そういうわけでは、あのその！ 　う、うぜーぜ、私のことなんかどうでもいいだろ…！」"}
+{"id": 144878, "en": ["\"If you're the one who brought up this subject, why are you yelling at me now?", "  Women are creatures who always ask questions, and yet almost never answer them.", "  What cruel creatures, seriously.\""], "voix": "but", "ja": "「話を振ってきたのはそっちのくせに、何で俺が逆ギレされなきゃならねぇんだ。 女って生き物は質問ばかりで、そのくせ、自分が質問に答えることは決してないんだよな。 ズルイ生き物だぜ、まったく。」"}
+{"id": 144886, "en": ["\"...W-Well, umm.", "  ...I did try..."], "voix": "jes", "ja": "「……ま、まぁそのよ。 …告白はさ、"}
+{"id": 144888, "en": ["to confess once.", "  Well, umm, I struck out pretty badly.\""], "voix": "jes", "ja": ":voicedelay 2190^^…一度はしたんだよ。 まぁその、盛大に空振りでさ。」"}
+{"id": 144891, "en": ["\"Did you get an `I'm sorry'?\""], "voix": "but", "ja": "「ごめんなさいってか？」"}
+{"id": 144894, "en": ["\"No, umm, ...", "...well, uh, my feelings were seriously one-sided, and they didn't really know how to respond, I guess...", "  It was like they didn't view me that way at all.\""], "voix": "jes", "ja": "「いいやその、……。 …まぁその、私がすごく一方的だったんで面食らわれたというのかな…。 そういう対象だとも思われてなかったという雰囲気。」"}
+{"id": 144897, "en": ["\"Well, I can understand that.", "  You talk like a man, after all.", "  If you don't act a bit more graceful, you won't be able to catch a boy's interest.\""], "voix": "but", "ja": "「そりゃあそうだろうよ。 お前の言葉遣いは男勝りだからな。 もうちょいお淑やかにしないと、男心をくすぐらないぜぇ？」"}
+{"id": 144906, "en": ["\"I-I-Is it really..."], "voix": "jes", "ja": "「やや、やっぱりその、"}
+{"id": 144908, "en": ["  ...Is the way I speak..."], "voix": "jes", "ja": ":voicedelay 2480^^……私みたいな言葉遣いじゃウケ、"}
+{"id": 144910, "en": ["really that bad?\""], "voix": "jes", "ja": ":voicedelay 6590^^…悪いかな。」"}
+{"id": 144917, "en": ["\"...Hmm?", "  Well, umm, how you talk isn't everything, but when people like you, who usually have a rough style of speech, ", "suddenly start working hard to talk more normally... well, there are guys out there whose heart'll skip a beat when they see how determined you are.\""], "voix": "but", "ja": "「…んん？ 　まぁその、言葉遣いが全てじゃないだろうが、お前みたいな、普段の言葉遣いが悪いヤツが、 急にまともな言葉で話すように努力し始めたらその、そういう気概みたいなもんでドキっと来ちまう男もいるかもなぁ。」"}
+{"id": 144924, "en": ["\"I-Is that really true...?", "  I see, "], "voix": "jes", "ja": "「そ、そうなんだ…？ 　そうか……、"}
+{"id": 144926, "en": ["...yeah...\""], "voix": "jes", "ja": ":voicedelay 1080^^……うん…。」"}
+{"id": 144930, "en": ["Jessica suddenly started talking more meekly, and then her face instantly went slightly red."], "ja": "朱志香は、急に神妙な言葉遣いになったかと思うと、ほんのりと頬を染めている。"}
+{"id": 144932, "en": ["...I see, even though her confession didn't go well, it looks like she still hasn't given up."], "ja": "…なるほど、告白は空振りしたが、どうやら諦めちゃいないらしい。"}
+{"id": 144936, "en": ["But still, I get it."], "ja": "でもまぁ、わかるなぁ。"}
+{"id": 144937, "en": ["After seeing how close George-aniki and Shannon-chan have gotten, I also kinda want to find a girlfriend."], "ja": "譲治の兄貴と紗音ちゃんの仲が進展するのを目の当たりにしてたら、自分も恋人を作らなくちゃって気持ちになってくるだろうよ。"}
+{"id": 144942, "en": ["Six years.", "  ...Six years of puberty are pretty important, and they went by pretty fast."], "ja": "６年か。 …青春時代の６年ってのは重く、そして早いもんだ。"}
+{"id": 144945, "en": ["As the typhoon approached, the clouds grew steadily grayer, but even so, I had this really refreshing feeling."], "ja": "台風が近付いているということで、空は灰色の度合いを強めているが、それでもなぜか、とても爽やかに感じられるのだった。"}
+{"id": 144948, "en": ["...Maybe I'll try thinking more seriously about the opposite sex, more than just the size of their boobs..."], "ja": "…俺も、たまには異性のことを、おっぱいのデカさ以外で真剣に考えてみることにするか…。"}
+{"id": 144953, "en": ["\"By the way,", " it looks like George-aniki's going out with a servant."], "voix": "but", "ja": "「ところで。 譲治の兄貴は、使用人の紗音ちゃんと付き合ってるわけだが。"}
+{"id": 144956, "en": ["  ...Don't tell me it's the same for you?\""], "voix": "but", "ja": "……まさか、朱志香までってことはないよなぁ？」"}
+{"id": 144963, "en": ["\"Huh, ...whaaaat?!?!"], "voix": "jes", "ja": "「え、…ええぇッ？！？！"}
+{"id": 144967, "en": ["  Wh-Wh-Wh-Wh-Why do you think that...?!\""], "voix": "jes", "ja": ":noclear_cw　どどどど、どうしてそう思うんだよ…？！」"}
+{"id": 144972, "en": ["\"Come to think of it, that kid Kanon-kun, who greeted us in the rose garden..."], "voix": "but", "ja": "「そういや、薔薇庭園で挨拶した嘉音くんって若い子。"}
+{"id": 144977, "en": ["  You were covering for him pretty intensely, considering he was just a little awkward at talking.\""], "voix": "but", "ja": "口下手だからって朱志香、やたらと庇ってたよなぁ？」"}
+{"id": 144982, "en": ["\"N-No, that's not...", "  Wahahahaha, now you're getting paranoid...!!\""], "voix": "jes", "ja": "「い、いやそんなことは…。 わはははは、勘繰り過ぎだって…！！」"}
+{"id": 144988, "en": ["\"Then tell me just one thing.", "  Right now,", " is the boy you're after within one kilometer of this spot?\""], "voix": "but", "ja": "「じゃあさ、これだけは教えろよ。 今この瞬間。 朱志香が狙ってる男は、半径１ｋｍ以内にいるか？」"}
+{"id": 144993, "en": ["\"W-Well about that, umm, ...I-I-I wonder...\""], "voix": "jes", "ja": "「い、いやそれはその、…どど、どうだろう…。」"}
