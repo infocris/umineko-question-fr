@@ -1,2 +1,5 @@
 {"id": 343139, "line": "    getparam %witchh7 : if %voiceVolume == 0 return"}
 {"id": 343155, "line": "    getparam %witchh7 : if %voiceVolume == 0 return"}
+{"id": 343111, "line": "    getparam %witchh7,$witchh11 : if %voiceVolume == 0 return"}
+{"id": 343119, "line": "    getparam %witchh7,$witchh11 : if %voiceVolume == 0 return"}
+{"id": 343127, "line": "    getparam %witchh7,$witchh11 : if %voiceVolume == 0 return"}
