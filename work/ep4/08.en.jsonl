@@ -1,0 +1,658 @@
+{"id": 230416, "en": ["As they had an animated discussion with ups and downs,", " the four kids headed for the guesthouse..."], "ja": "そんな甘酸っぱい話に花を咲かせながら、 戦人たち子ども４人は、ゲストハウスに向かっていくのだった……。"}
+{"id": 230420, "en": ["The annual family conference was extremely important to the Ushiromiya family,", " and this year seemed like it was going to be especially important."], "ja": "年に一度の親族会議は、右代宮家にとってとても重要なものだが、 今年の親族会議は特に重要なものらしかった。"}
+{"id": 230424, "en": ["Apparently, the Family Head, Kinzo, was personally going to be making a very serious announcement,", " and everyone other than the adults had been strictly ordered to leave."], "ja": "何でも、当主の金蔵から直々に、極めて重大な発表があるらしく、 大人以外は全員、屋敷から出て行くように厳命されたのだ。"}
+{"id": 230430, "en": ["Battler hadn't attended the family conference in six years, so he didn't really notice,", " but according to Jessica, there seemed to be a very tense atmosphere tonight,", " completely different from a normal year."], "ja": "戦人は６年間、親族会議にかかわらなかったからピンと来なかったが、 朱志香に言わせると、今夜はかなり緊張した空気があるらしく、 例年のそれとはまるで違う様子だという。"}
+{"id": 230433, "en": ["...Common sense made it clear that Kinzo, whose remaining life was short,", " was going to make some big announcement about the succession of the Headship and the distribution of his fortune..."], "ja": "……常識的に考えて、余命幾ばくの金蔵が、 当主の継承や財産の相続などについて、何か重大な発表をしようとしていることは明白だった……。"}
+{"id": 230445, "en": ["\"But I'm suprised.", "  ......To think that Grandfather's actually gonna make an appearance...\""], "voix": "but", "ja": "「しかし驚いたな。 ………まさか、本当に祖父さまが登場するとは……。」"}
+{"id": 230452, "en": ["\"...I see.", "  So, this is the witch's counterattack.\""], "voix": "enj", "ja": "「……なるほど。 これが魔女の反撃というわけね。」"}
+{"id": 230461, "en": ["\"*cackle*cackle*cackle*!"], "voix": "bea", "ja": "「くっくくくく！"}
+{"id": 230466, "en": ["  I wanted to leave the Joker called Kinzo face-down a little longer, but it's probably about time to turn it over.", "  Trump cards exist to be used.", "  *cackle*cackle*!\""], "voix": "bea", "ja": "金蔵というジョーカーはもう少し伏せていたかったところだが、そろそろ切るのが頃合であろう。 切り札は切るためにある。 くっくっくっく！」"}
+{"id": 230474, "en": ["\"Damn.", "  My theory that Grandfather was dead since the beginning, and a different 18th person had snuck in,", " ...is now suddenly torn apart.\""], "voix": "but", "ja": "「くそ。 祖父さまは最初から死んでて、その代わりに謎の１８人目が紛れ込んでるっていう俺の推理は、 ……ここに来ていきなりバッサリってわけか。」"}
+{"id": 230482, "en": ["\"I had foreseen that you'd begin to doubt Kinzo eventually...!", "  Yes, now your reasoning has all gone back to square one again, right?\""], "voix": "bea", "ja": "「いつかはそなたが金蔵を疑いに来ることは読めておったわ…！ 　さぁさぁ、これでそなたの推理は再びゼロに戻ったぞ？"}
+{"id": 230487, "en": ["\"With this, your theory that Kinzo was dead at the very beginning and I was hiding as the 18th person goes poof!", "  *cackle*cackle*cackle*!!\""], "voix": "bea", "ja": "金蔵は最初から死んでいて、その代わりに妾が１８人目として紛れ込んでいたという推理は、これでパーだ！ 　くーっくっくっくっく！！」"}
+{"id": 230494, "en": ["\"......Fuck...", "  But no way I'll lose heart."], "voix": "but", "ja": "「………くっそう…。 だが挫けねぇぞ。"}
+{"id": 230500, "en": ["  That's only one theory gone.", "  I'll attack you like a storm, like a tornado...\""], "voix": "but", "ja": "ひとつの推理が外れただけだ。 嵐のように、暴風のように襲い掛かってやる……。」"}
+{"id": 230507, "en": ["\"*cackle*cackle*!", "  I'd have it no other way!"], "voix": "bea", "ja": "「くっくっくっく！ 　そうでなくてはな、そうでなくてはな！"}
+{"id": 230513, "en": ["  Even the first twilight has not yet begun.", "  It is far too early to give up."], "voix": "bea", "ja": "まだまだ第一の晩さえ始まっていないぞ。 屈服にはあまりに早過ぎる。」"}
+{"id": 230521, "en": ["\"That's right.", "  And, it's not like it was denied with the red truth.", "  ......At this point in time, Battler's theory hasn't been defeated.", "  It's too early to say that you've won.\""], "voix": "enj", "ja": "「そうね。 そして、赤い真実で否定されたわけでもない。 ………今この瞬間の時点で、まだ戦人の説は破られたわけではない。 勝ったつもりになるのも、早過ぎるわよ。」"}
+{"id": 230528, "en": ["\"Nn, yeah, that's right.", "  ...It's still too early for me to just swallow her story.", "  ...Grandfather is supposed to finally appear, ", "but there's a chance that they'll talk about how his health has gotten worse, and he won't appear after all.\""], "voix": "but", "ja": "「ん、そうだな。 ……確かにあっさり鵜呑みにするにはまだ早いな。 …祖父さまがいよいよ登場する、ということにはなってるが、 やっぱり体調が悪くなった云々言って、現れない可能性だってある。"}
+{"id": 230534, "en": ["\"...Uncle Krauss might be trying desperately ", "to hide the fact that Grandfather really is dead until the last second.\""], "voix": "but", "ja": "……祖父さまは本当は死んでいるという事実を、 蔵臼伯父さんがぎりぎりまで苦し紛れで引き伸ばしているだけかもしれない。」"}
+{"id": 230541, "en": ["\"Ha...!", "  I see, I see, you could also think of it that way."], "voix": "bea", "ja": "「は…！ 　なるほどなるほど、そういう考え方もあるか。"}
+{"id": 230546, "en": ["  Do as you please.", "  It will be resolved soon.", "  Very soon...", "  *cackle*cackle*...!\""], "voix": "bea", "ja": "好きにするが良い。 すぐに決着する。 すぐにな…。 くっくっくっく……！」"}
+{"id": 230569, "en": ["All of the relatives and Nanjo could be seen in the dining hall."], "ja": "食堂には、親族たち全員と南條の姿があった。"}
+{"id": 230575, "en": ["Nanjo sat alone, quietly watching the wind and rain outside."], "ja": "南條はひとり、窓から静かに外の風雨を眺めていた。"}
+{"id": 230582, "en": ["Krauss sat down in the seat of his own rank, with Natsuhi standing motionlessly at his side."], "ja": "蔵臼は自分の序列の席に座り、夏妃がその脇にじっとしている。"}
+{"id": 230586, "en": ["The other siblings were gathered at the opposite end of the long table, whispering to each other..."], "ja": "それ以外の兄弟たちは、長いテーブルの反対側辺りに集まり、ひそひそと囁き合っていた……。"}
+{"id": 230595, "en": ["\"...Is that true?\""], "voix": "rud", "ja": "「……そりゃ、本当か。」"}
+{"id": 230603, "en": ["\"Yes.", "  ...Maria said...the person who gave her the umbrella..."], "voix": "ros", "ja": "^^!s1「えぇ。 ……真里亞は、傘をくれた人物を、"}
+{"id": 230609, "en": ["was Father.\""], "voix": "ros", "ja": ":voicedelay 2840^^……お父様だと言うのよ。」"}
+{"id": 230626, "en": ["\"What in the world...?", "  In other words, our strategy has collapsed from the roots...!\""], "voix": "hid", "ja": "「何ちゅうことや…。 ということはつまり、わしらの作戦は根底から崩れたっちゅうわけか…！」"}
+{"id": 230633, "en": ["\"Not just our strategy.", "  Since Father is healthy and has said that he'll make an announcement himself, our trivial bargaining with Nii-san was completely pointless.\""], "voix": "eva", "ja": "「作戦も何も。 お父様が健在で、自ら発表があると言った以上、もう兄さんとの下らない駆け引きは一切不要だわ。」"}
+{"id": 230639, "en": ["\"Yep."], "voix": "rud", "ja": "「だな。"}
+{"id": 230645, "en": ["  ...That old bastard.", "  Why couldn't he have just shown himself right away without making a show of it?", "  Thanks to that, we've just been quarreling with Aniki uselessly.\""], "voix": "rud", "ja": "……クソ親父め。 もったいぶらずにとっとと現れてくれりゃ良かったんだ。 お陰で俺たちは兄貴と無駄に揉めただけだ。」"}
+{"id": 230655, "en": ["\"......Or maybe he wanted to test us on that point."], "voix": "kir", "ja": "「…………それを試したかったのかもね？"}
+{"id": 230661, "en": ["  I might not be one to talk, since we aren't related by blood, but your Father is very intelligent, correct?\""], "voix": "kir", "ja": "血のつながってない私が言うのも何だけど、あなたたちのお父様、かなり頭はいいわよ？」"}
+{"id": 230670, "en": ["\"Our arguments during the day were probably overheard by one of the servants and reported to Father.", "  ......Incredible.", "  The fact that we were making a fuss with Father's inheritance as our goal is now right in the open...", "  ......Ah, just incredible...\""], "voix": "eva", "ja": "「日中のやりとりは多分、使用人の誰かに聞かれて、お父様に報告されてたのよ。 ………何てこと。 お父様の遺産が目当てで騒いでることは、もうバレバレってことじゃない…。 ………あぁ、何てことよ…。」"}
+{"id": 230675, "en": ["Eva uncharacteristically held her head, dejected."], "ja": "絵羽は頭を抱えて、らしくもなく消沈する。"}
+{"id": 230678, "en": ["If, as Kyrie had said, everything had been going according to Kinzo's plans from the beginning,", " and if this was a huge setup that had been kept up for over a year, trying to find the siblings' true intentions,", " then they had fallen for it completely..."], "ja": "霧江の言うとおり、これが最初から金蔵の目論見どおりで、 自分たちの本心を探り出すための、一年以上を掛けた大仕掛けだったとしたならば、 自分たちはまんまと引っ掛かったことになる…。"}
+{"id": 230687, "en": ["\"...We still don't know for sure that it's reached Father's ears.\""], "voix": "hid", "ja": "「……お父さんの耳に入ったと、まだ決まったわけやない。」"}
+{"id": 230694, "en": ["\"No, it definitely has!", "  ...Everyone but Nii-san claimed that Father was dead, and none of us believed in Father's good health...!"], "voix": "eva", "ja": "「いいえ、入ってるに決まってるわ！ 　……兄さん以外の全員が、お父様は死んでいると言い切り、お父様の健在を信じなかった…！"}
+{"id": 230699, "en": ["  Aaah, it's already over...", "  ...Father will make an announcement.", "  Nii-san will become the Successor, and he'll say we aren't even qualified to wear the One Wing..."], "voix": "eva", "ja": "あぁ、もう終わりだわ……。 ……お父様は宣言するのよ。 兄さんこそが跡継ぎで、私たちには片翼を身にまとう資格もないと宣告するのよ……。"}
+{"id": 230705, "en": ["  ...Oooh, I......\""], "voix": "eva", "ja": "^^!s0……あぁ、私は…………。」"}
+{"id": 230723, "en": ["\"Nee-san, ...get ahold of yourself...\""], "voix": "ros", "ja": "「姉さん……、しっかり……。」"}
+{"id": 230732, "en": ["\"...Rosa-san,", " I wonder if Maria really received that umbrella from Father.\""], "voix": "kir", "ja": "「……楼座さん。 真里亞ちゃんは本当に、お父様に傘をもらったのかしら？」"}
+{"id": 230738, "en": ["\"Huh?", "  What do you mean...?\""], "voix": "ros", "ja": "「え？ 　どういう意味……？」"}
+{"id": 230744, "en": ["\"...Maria-chan might have seen Father.", "  However, we haven't seen him."], "voix": "kir", "ja": "「……真里亞ちゃんはお父様に会ったかもしれない。 でも、私たちは会ってないわ。"}
+{"id": 230750, "en": ["  Maria-chan only claims to have seen him.\""], "voix": "kir", "ja": "真里亞ちゃんがそうだと主張しているだけよ。」"}
+{"id": 230757, "en": ["\"What are you saying...?", "  ...Are you saying Maria's lying?!\""], "voix": "ros", "ja": "「そんな……。 ……真里亞が嘘を吐いているというの？！」"}
+{"id": 230764, "en": ["\"Calm down, Rosa.", "  ...Maria-chan didn't necessarily lie.", "  Still, she's an innocent kid, right?\""], "voix": "rud", "ja": "「落ち着けよ、楼座。 ……真里亞ちゃんが嘘を吐くとは言ってねぇ。 だが、真里亞ちゃんは素直な子だろ？"}
+{"id": 230770, "en": ["\"...For example, if Genji-san came up to her and said something like `I was told by your Grandfather to hand this to you, Maria-sama',", " then even if Maria-chan hadn't met Dad, she still might say that she got an umbrella from him, right?\""], "voix": "rud", "ja": "……例えばだが、源次さん辺りが、“この傘はお祖父さまから真里亞さまに渡すように言われました”みたいなことを言ったら、 真里亞ちゃんは親父に会ったわけでなくても、お祖父さまに傘をもらったーって言うかも知れねぇぜ？」"}
+{"id": 230778, "en": ["\"...Th-That's right.", "  That trick could work...!\""], "voix": "eva", "ja": "「そ、……そうね。 その手が考えられるわ…！」"}
+{"id": 230785, "en": ["\"But what was it Maria-chan said?", " `Grandfather came and handed me the umbrella'.\""], "voix": "hid", "ja": "「だがな、真里亞ちゃんはこう言ったんやろ？ 　お祖父さまがやって来て、傘を渡してくれた、と。」"}
+{"id": 230792, "en": ["\"Yes, that's what she said.", " She clearly said that she received an umbrella directly from Grandfather.\""], "voix": "ros", "ja": "「えぇ、そう言ったわ。 お祖父さまから直接受け取ったとはっきり言ったわ。」"}
+{"id": 230800, "en": ["\"...Directly, huh?", "  Then we're stuck.\""], "voix": "rud", "ja": "「……直接、か。 お手上げだな。」"}
+{"id": 230808, "en": ["\"..............."], "voix": "kir", "ja": "「………………………。"}
+{"id": 230815, "en": ["They often say that bad thinking is no better than sleeping.", "  If you think about it a bit, all of this about the umbrella is a trivial problem.\""], "voix": "kir", "ja": "下手な考え、休むに似たりとはよく言ったものだわ。 ちょっと考えてみたら、傘がどうこうなんて、どうでもいい問題だわ。」"}
+{"id": 230823, "en": ["\"Why's that?", "  Couldn't Maria-chan have been bribed by Nii-san to lie and say something that made it seem like Father was in good health?!", "  There is no evidence that Father actually handed the umbrella to her...!\""], "voix": "eva", "ja": "「どうしてよ？ 　真里亞ちゃんが兄さんに買収されて、あたかもお父様が健在であるかのように、嘘を頼まれたかもしれないでしょ？！ 　傘が確かにお父様から渡されたなんて証拠、どこにもありはしない…！」"}
+{"id": 230829, "en": ["\"Regardless of whom Maria-chan received the umbrella from,", " assuming she was even given an umbrella in the first place,", " Father will appear very soon.", "  Once Father's in front of us, the problem with the umbrella will become completely trivial.\""], "voix": "kir", "ja": "「真里亞ちゃんが誰から傘をもらっていようとも。 あるいは傘なんかそもそももらっていなかったとしても。 お父様はもうじき現れる。 現れたお父様の前に、傘の問題なんてまったくどうでもいいこと。"}
+{"id": 230834, "en": ["\"......In other words, this is not the time to gossip about the umbrella issue.\""], "voix": "kir", "ja": "………つまり、傘の問題が取り沙汰されるのは、そうでない場合ということよ。」"}
+{"id": 230842, "en": ["\"What do you mean, this isn't the time?\""], "voix": "rud", "ja": "「そうでない場合ってのは何のことだ？」"}
+{"id": 230849, "en": ["\"......I see, ...I got it.", "  ...This is probably what Kyrie-san's sayin'."], "voix": "hid", "ja": "「…………そうか、…わかったで。 ……霧江さんが言いたいのはこういうことやろ。"}
+{"id": 230855, "en": ["  ......Father is supposed to come here very soon,", " but the chance still remains that he'll get mad again and won't show up, right...?\""], "voix": "hid", "ja": "………お父さん、もうすぐでやって来ることになっとるが、 また難癖をつけて、結局、現れん可能性がまだ残ってる、っちゅうことやろ……？」"}
+{"id": 230862, "en": ["\"...I-I see.", "  That's true..."], "voix": "eva", "ja": "「そ、………そうか。 そうよね…。"}
+{"id": 230868, "en": ["  Maybe Nii-san just said Father was going to appear at random in a desperate bid to buy time against our investigation.", "  Father really is dead already, ", "and Nii-san is still lying and saying he's healthy...!\""], "voix": "eva", "ja": "私たちの追及に、兄さんが苦し紛れの時間稼ぎで、お父様が現れると出任せを言ったのかもしれない。 やっぱりお父様はすでに亡くなっていて、 兄さんは今なお、まだ健在であると嘘を吐き続けている…！」"}
+{"id": 230876, "en": ["\"In short, if Father appears, then no schemes will be effective.", "  There's no need to even think about that case.", "  We're fish on the chopping board.", "  We'd have no choice but to leave fate to the heavens and negotiate directly with Father."], "voix": "kir", "ja": "「つまり、お父様が現れれば、全ての策は通用しない。 考える必要もない。 私たちは俎上の鯉。 運を天に任せて、お父様との直接交渉に臨むしかないわ。"}
+{"id": 230881, "en": ["  That means we'd have no choice but to let him clobber us with his fist, then prostrate ourselves and beg for money.\""], "voix": "kir", "ja": "それこそ、土下座とゲンコツを覚悟して、お金を無心するしかない。"}
+{"id": 230887, "en": ["\"...But on the other hand, if Father doesn't appear, then our primary strategy isn't hampered in the least.\""], "voix": "kir", "ja": "……でも逆に、お父様が現れなければ、私たちの当初の作戦は何も揺るがない。」"}
+{"id": 230896, "en": ["\"......I see.", "  In short, no matter which way it goes, there's absolutely no need to get flustered now.\""], "voix": "ros", "ja": "「………なるほど。 つまり、どっちに転ぼうとも、今さらあたふたする必要は何もないってことね。」"}
+{"id": 230902, "en": ["\"That's it.", "  If Father shows up, we just have to carry out the normal family conference."], "voix": "kir", "ja": "「そういうこと。 お父様が現れれば、本来の親族会議が行なわれるだけの話。"}
+{"id": 230906, "en": ["  ......If he doesn't, we just have to keep on investigating Krauss-san.\""], "voix": "kir", "ja": "………現れなければ、私たちは引き続き蔵臼兄さんを追及すればいいだけの話なのよ。」"}
+{"id": 230914, "en": ["\"We can't let him talk his way out of it,", " ...like if he says Father's mood has suddenly gotten worse.\""], "voix": "hid", "ja": "「お父さんの機嫌が急に悪くなって…、 みたいな、蔵臼さんの言い逃れを、決して許さんようにせんとな。」"}
+{"id": 230922, "en": ["\"...It seems what we really should be trying to figure out...", "is what scheme Nii-san is going to try and trick us with.", "  The way he just doesn't know how to give up is something I know better than anyone.\""], "voix": "eva", "ja": "「……どうやら、私たちが本当に検討すべきは、 兄さんがどんな策を弄して、この場を誤魔化そうとしてくるかよ。 往生際の悪さは私が一番よく知っているわ。」"}
+{"id": 230929, "en": ["\"If Father is well, ...we'll prostrate ourselves and beg for money.", "  ...If it's a farce of Krauss-san's, then we'll continue our ugly sibling fight."], "voix": "ros", "ja": "「お父様がお元気なら、……私たちは土下座してお金を無心し。 ……蔵臼兄さんの茶番だったなら、私たちは醜い兄弟喧嘩を再開し。"}
+{"id": 230935, "en": ["  ......It sounds like this year's family conference is going to be just wonderful.\""], "voix": "ros", "ja": "………今年も素敵な親族会議になりそうね。」"}
+{"id": 230942, "en": ["\"Yep.", "  So, bad thinking is no better than sleeping, huh?"], "voix": "rud", "ja": "「だな。 下手な考え、休むに似たりってわけか。"}
+{"id": 230948, "en": ["  It's almost 22:00.", "  ...Should we press Aniki?\""], "voix": "rud", "ja": "もうじき２２時だな。 ……兄貴に催促してみるか。」"}
+{"id": 230952, "en": ["Rudolf and the rest looked at Krauss."], "ja": "留弗夫たちは、蔵臼の様子をうかがう。"}
+{"id": 230959, "en": ["He was sitting down firmly...and looked like he was awaiting Kinzo's arrival with an air of composure."], "ja": "どっかりと腰を下ろし、悠然と、金蔵が来臨するのを待っているように見える。"}
+{"id": 230962, "en": ["...They couldn't tell if he really was composed, ...or if he was scheming about how to tie together his lie."], "ja": "……それが、悠然となのか、自らの嘘をどのように帳尻を合わせようと策を巡らしているのかは、わからない。"}
+{"id": 230970, "en": ["\"......Dear...\""], "voix": "nat", "ja": "「……………あなた……。」"}
+{"id": 230976, "en": ["\"...Calm yourself.", "  We won't get anywhere by making a fuss after all this.", "  ......Let's leave it to Genji-san.\""], "voix": "kla", "ja": "「……落ち着きなさい。 もう今さらじたばたしても始まらん。 ………源次さんに任せよう。」"}
+{"id": 230982, "en": ["\"It's almost...10:00, isn't it?\""], "voix": "nat", "ja": "「もうじき、……１０時ですね。」"}
+{"id": 230987, "en": ["That was the time that had been set for tonight's family conference to open."], "ja": "それは、今夜の親族会議の開催として定められた時刻だった。"}
+{"id": 230988, "en": ["And, it was the time that the Ushiromiya Family Head needed to appear..."], "ja": "そして同時に、右代宮家当主が現れなければならない時刻でもある……。"}
+{"id": 230999, "en": ["Right then, they heard the sound of footsteps approaching from the hall."], "ja": "その時、廊下から足音が近付いてくるのが聞こえた。"}
+{"id": 231000, "en": ["There were multiple sets."], "ja": "それも複数。"}
+{"id": 231003, "en": ["Natsuhi raised her head, relieved..."], "ja": "夏妃は、はっとして顔を上げる……。"}
+{"id": 231011, "en": ["But because of the sound of a knock, her expression was filled with disappointment."], "ja": "しかし、ノックの音だったため、その表情には失望が浮かぶのだった。"}
+{"id": 231012, "en": ["Because Kinzo probably wouldn't have knocked."], "ja": "なぜなら、金蔵だったなら、ノックなどしないだろうからだ。"}
+{"id": 231024, "en": ["\"...Please excuse us.", "  I have finished closing up the mansion for the night.\""], "voix": "goh", "ja": "「……失礼いたします。 戸締りの見回りが終わりました。」"}
+{"id": 231028, "en": ["It was Gohda and Kumasawa."], "ja": "郷田と熊沢だった。"}
+{"id": 231031, "en": ["Unlike the powerful Gohda, ", "it was rare for Kumasawa, with her old body, to be forced to work this late."], "ja": "体力のある郷田ならともかく、 老体の熊沢がこの時間にまだ勤務を強いられているのはとても珍しいことだった。"}
+{"id": 231034, "en": ["Of course, Krauss also seemed to know that."], "ja": "もちろん、それを蔵臼もわかっているようだった。"}
+{"id": 231043, "en": ["\"Indeed.", "  Good work.", "  ......My apologies for making you work at such a time, Kumasawa-san.\""], "voix": "kla", "ja": "「うむ。 ご苦労だった。 ………こんな時間まで申し訳ないね、熊沢さん。」"}
+{"id": 231050, "en": ["\"Oh, it's nothing.", "  I may not look it, but staying up late is still one of my specialties.", "  Hohohohoh...!\""], "voix": "kum", "ja": "「いいえぇ。 こう見えても、まだまだ夜更かしは得意でございますので。 ほっほっほっほ…！」"}
+{"id": 231058, "en": ["\"...Wouldn't it be okay to at least let Kumasawa leave without being an observer?", "  It really will be difficult on her body, I imagine.\""], "voix": "nat", "ja": "「……熊沢についてだけは、立会いを外させてもよいのでは。 さすがに体に堪えるでしょう。」"}
+{"id": 231064, "en": ["\"......The order was to gather all of the servants as well.", "  I cannot disobey.\""], "voix": "kla", "ja": "「…………使用人も全員揃えろとの命令だ。 逆らえん。」"}
+{"id": 231070, "en": ["Tonight's family conference was clearly different from normal."], "ja": "今夜の親族会議は、例年の親族会議とは明らかに違った。"}
+{"id": 231074, "en": ["On a normal year, no one was allowed to attend except family members."], "ja": "例年ならば、親族会議は親族以外、出席できない。"}
+{"id": 231075, "en": ["To have the servants present for such a thing...was unthinkable."], "ja": "使用人が居合わせるなど、ありえないことだ。"}
+{"id": 231080, "en": ["But this year was different."], "ja": "だが今年は違った。"}
+{"id": 231085, "en": ["All of the servants were told to attend."], "ja": "使用人全員を親族会議に出席させろというのだ。"}
+{"id": 231086, "en": ["Of course, they were not allowed to talk."], "ja": "もちろん発言権はない。"}
+{"id": 231087, "en": ["......They were there as observers."], "ja": "………立会人としてである。"}
+{"id": 231091, "en": ["Just what in the world was happening that needed to be observed by five servants?"], "ja": "使用人５人に立ち合わせてまで、一体、何があるというのか。"}
+{"id": 231092, "en": ["...Even Krauss didn't know."], "ja": "……蔵臼にも、わかっていなかった。"}
+{"id": 231099, "en": ["\"Hohohoh.", "  I don't look it, but I'm good at staying up late."], "voix": "kum", "ja": "「ほっほっほ。 徹夜はこう見えても強いんですよ。"}
+{"id": 231105, "en": ["  If you stuff yourself with mackerel too, Krauss-sama, you'll be more manly at night.\""], "voix": "kum", "ja": "旦那様も鯖をもりもり食べれば、夜ももっとたくましくなれますよ。」"}
+{"id": 231112, "en": ["\"Hahahaha.", "  I see you're still in high spirits.", "  I'm sure you'll be working in such high spirits until you're a hundred.\""], "voix": "kla", "ja": "「はははは。 なるほど、まだまだお元気でおられる。 百歳になっても元気でお勤めに違いない。」"}
+{"id": 231119, "en": ["\"Madam,", " forgive my arrogance, but I have prepared a light snack."], "voix": "goh", "ja": "「奥様。 勝手ながら、軽食の準備をさせていただきました。"}
+{"id": 231125, "en": ["  I can serve it at any time, so feel free to order it.\""], "voix": "goh", "ja": "いつでも配膳できますので、ご指示を頂戴できればと思います。」"}
+{"id": 231134, "en": ["\"Thank you.", "  You really are considerate.", "  ...Please offer refills of coffee to the others.\""], "voix": "nat", "ja": "「ありがとう。 やはりあなたは気が利きますね。 ……他の皆さんにコーヒーのお代わりを勧めて下さい。」"}
+{"id": 231141, "en": ["\"Certainly.\""], "voix": "goh", "ja": "「かしこまりました。」"}
+{"id": 231147, "en": ["After nodding, Gohda took the pot towards the relatives gathered at the other end of the table."], "ja": "郷田は会釈してから、テーブルの向こうでたむろしている親族たちの方へポットを持っていくのだった。"}
+{"id": 231152, "en": ["As he did, more footsteps approached from the hallway."], "ja": "するとまた廊下から足音が近付いてくる。"}
+{"id": 231156, "en": ["...It was a single set."], "ja": "……ひとりの足音。"}
+{"id": 231157, "en": ["And it was light."], "ja": "それは軽い。"}
+{"id": 231160, "en": ["Even before the knock, they could imagine who it was."], "ja": "ノックを待たずに、誰か想像がついた。"}
+{"id": 231170, "en": ["\"Excuse me..."], "voix": "sha", "ja": "「失礼いたします……。"}
+{"id": 231176, "en": ["  I've taken the children to the guesthouse.\""], "voix": "sha", "ja": "お子様方をゲストハウスへお送りいたしました。」"}
+{"id": 231184, "en": ["\"Good work.", "  Tonight is a special evening.", "  Make sure you stay alert.\""], "voix": "nat", "ja": "「ご苦労でした。 今夜は特別な晩です。 緊張感を欠かさないように。」"}
+{"id": 231190, "en": ["\"Y-Yes.", "  Certainly, Madam...\""], "voix": "sha", "ja": "「は、はい。 かしこまりました、奥様……。」"}
+{"id": 231200, "en": ["Genji had gone with Kanon to meet Kinzo."], "ja": "源次は嘉音を伴い、金蔵を迎えに行っている。"}
+{"id": 231203, "en": ["...There was still no sign of their return."], "ja": "……まだ戻ってくる様子はない。"}
+{"id": 231214, "en": ["The hand of the clock passed 22:00 slightly."], "ja": "時計の針は、２２時を少し過ぎようとしていた。"}
+{"id": 231215, "en": ["Once sure of that, Eva spoke to Krauss."], "ja": "それを確認した上で、絵羽が蔵臼に言った。"}
+{"id": 231222, "en": ["\"...Nii-saaan?", "  It's time.", "  Are you still not going to start the family conference?\""], "voix": "eva", "ja": "「……兄さぁん？ 　もう時間だけれども。 親族会議、まだ始まらないのかしらぁ？」"}
+{"id": 231230, "en": ["\"......The arrival of the guest of honor has been delayed.", "  Wait a short while.\""], "voix": "kla", "ja": "「…………主賓の到着が遅れている。 しばらく待ちたまえ。」"}
+{"id": 231238, "en": ["\"How long?", "  Sorry, but time's up.", "  I won't have you saying `Father hasn't quite shown up yet' over and over until dawn.\""], "voix": "eva", "ja": "「いつまで？ 　悪いけど、時間を切ってもらうわよ。 お父様がなかなか来ない、何てのを延々と続けて、夜明けまで待たされたら堪らないわ。」"}
+{"id": 231245, "en": ["\"How could I make a promise about the time Father shows up?", "  Why are you in such a rush?", "  Why not drink some tea and calm down for now...?\""], "voix": "kla", "ja": "「親父殿のお越しになる時間を、私が約束など出来るものか。 何を焦っているのだね。 まずはコーヒーでも飲んで落ち着かんかね…？」"}
+{"id": 231252, "en": ["\"Aniki, we're gathered here for a family conference.", "  Not a farce."], "voix": "rud", "ja": "「兄貴、俺たちは親族会議のために集まってるんだ。 茶番じゃない。"}
+{"id": 231258, "en": ["  We'll wait 30 more minutes.", "  But if that doesn't work, you'll let us break into the study, okay?\""], "voix": "rud", "ja": "あと３０分は待つ。 だが、それで駄目なら書斎に押し掛けさせてもらうぜ？」"}
+{"id": 231266, "en": ["\"B-Break into...", "  Such an action would be quite lacking in respect for the Head!\""], "voix": "nat", "ja": "「お、押し掛けるとは物騒な……。 当主様への敬いに、あまりにも欠ける行為です！」"}
+{"id": 231276, "en": ["\"Oh, right, our apologies.", "  We'll be good for 30 more minutes.", "  Hehheheheh...\""], "voix": "eva", "ja": "「そうよねぇ、ごめんなさい？ 　あと３０分は大人しくしてるわ。 うっふっふっふ……。」"}
+{"id": 231283, "en": ["\".........Hmph.\""], "voix": "kla", "ja": "「…………………ふっ。」"}
+{"id": 231291, "en": ["\".........", "I look forward to seeing if you can keep that same smile up 30 minutes from now.\""], "voix": "eva", "ja": "「………………………。 ３０分後にも、同じ笑いが浮かべられるか、楽しみだわ。」"}
+{"id": 231298, "en": ["\"...So, you honestly believe that Father is dead?\""], "voix": "kla", "ja": "「……親父殿が死んでいると、本気で信じているのかね？」"}
+{"id": 231305, "en": ["\"I have no desire to discuss that now.", "  We can wait until Father comes here."], "voix": "eva", "ja": "「それを今さら議論する気はないわ。 お父様がここにやってくればいいだけの話。"}
+{"id": 231311, "en": ["  There's absolutely no need for me to argue you down, Nii-san.\""], "voix": "eva", "ja": "兄さんを言い負かす必要なんて、何もないもの。」"}
+{"id": 231317, "en": ["\"The Ushiromiya Headship will be passed on to the proper person in the proper manner."], "voix": "kla", "ja": "「右代宮家当主は、正当なる人間へ、正当なる手続きを以って継承される。"}
+{"id": 231323, "en": ["  ...No matter what you may scheme, you cannot resist.", "  Of course, the same goes for me.\""], "voix": "kla", "ja": "……お前が何の策を弄したところで、何も抗えんよ。 もちろん、私もな。」"}
+{"id": 231330, "en": ["\"What are you trying to say?", "  ...And after bragging all these years about being the Successor yourself...!\""], "voix": "eva", "ja": "「何をわけのわかんないことを。 ……今までさんざん、自分こそが次期当主だと威張ってきたくせに…！」"}
+{"id": 231336, "en": ["\"I'll turn your own words back on you.", "  I have no desire to discuss that now.", "  All that matters is for Father to come here and proclaim it with his own mouth."], "voix": "kla", "ja": "「お前の言葉をそのまま返そう。 それを今さら議論する気はないね。 親父殿がやって来て、自らの口でそれを宣言すればいいだけの話だ。"}
+{"id": 231342, "en": ["  There's absolutely no need for me to argue you down.", "  ...Right?", "  Heheheh!\""], "voix": "kla", "ja": "お前を言い負かす必要など、どこにもない。 ……だったかな？ 　くっくっくっく！」"}
+{"id": 231349, "en": ["Krauss casually turned Eva's words back on her."], "ja": "蔵臼は、流暢に絵羽の言葉をお返しする。"}
+{"id": 231350, "en": ["Of course, that added oil to Eva's anger."], "ja": "もちろんそれは絵羽の怒りに油を注いだ。"}
+{"id": 231351, "en": ["But it didn't ignite."], "ja": "しかし発火はしなかった。"}
+{"id": 231354, "en": ["Because, in that instant, the sound of a very loud knock rang out."], "ja": "なぜならその瞬間、とても大きなノックの音が響き渡ったからだ。"}
+{"id": 231372, "en": ["Both Genji and Kanon were usually very reserved when they knocked."], "ja": "源次も嘉音も、ノックをする時はとても控えめだ。"}
+{"id": 231373, "en": ["They wouldn't hit the door with such a violent strength."], "ja": "こんな乱暴なまでの強さでは叩かない。"}
+{"id": 231374, "en": ["...It was like a judge's gavel slamming down in a call for silence."], "ja": "……まるで、静粛にと言いながら打ち鳴らされる裁判官の槌のようだった。"}
+{"id": 231377, "en": ["So, everyone went quiet..."], "ja": "だから、一同はシンと静まり返った……。"}
+{"id": 231385, "en": ["The door opened slightly, ...and Genji showed himself."], "ja": "扉が細く開き、……源次が姿を見せる。"}
+{"id": 231388, "en": ["Then, he spoke with a serious tone different from his usual one."], "ja": "そして、普段とは違う厳かな口調で言った。"}
+{"id": 231392, "en": ["It wasn't the tone he used when carrying out his duties."], "ja": "それは彼が職務を遂行する時の口調ではない。"}
+{"id": 231393, "en": ["...It was the tone he used when speaking for Kinzo himself."], "ja": "……彼が、金蔵の言葉を代弁する時の口調だ。"}
+{"id": 231396, "en": ["So just by hearing Genji speak like that, the siblings were struck with a sudden tension."], "ja": "だから源次がその口調をしただけで、兄弟たちには緊張感が走るのだ。"}
+{"id": 231403, "en": ["\"Take your seats, everyone.\""], "voix": "gen", "ja": "「皆様、ご着席を。」"}
+{"id": 231407, "en": ["At those words, the dining hall was wrapped in total silence, and everyone hurriedly returned to their designated seats."], "ja": "その言葉に、食堂は完全に沈黙し、みんな慌てて自分の序列の席に戻る。"}
+{"id": 231410, "en": ["It was as though students who had been bustling around just before homeroom had suddenly returned to their seats when the teacher came,", " and it might even have looked humorous."], "ja": "まるで、ホームルーム直前まで騒いでいた生徒たちが、先生が来て大急ぎで席に戻るような、 そんな滑稽さも感じられたかもしれない。"}
+{"id": 231413, "en": ["...But there was no way anyone would joke about it."], "ja": "……しかし、そうだと茶化せる人間など、いるはずもなかった。"}
+{"id": 231416, "en": ["Everyone sat in order, and Shannon, Gohda, and Kumasawa stood up straight in a row by the wall."], "ja": "全員が整然と着席し、紗音、郷田、熊沢も壁際に整列し背筋を伸ばす。"}
+{"id": 231423, "en": ["\"...The Head of the glorious Ushiromiya family and lord of Rokkenjima, the island that sparkles gold,", " ...Lord Ushiromiya Kinzo has arrived.\""], "voix": "gen", "ja": "「……栄光ある右代宮家の当主にして、金色に輝ける六軒島の領主。 右代宮金蔵卿の、御成りであります。」"}
+{"id": 231428, "en": ["Of the double doors that led to the dining hall, Genji opened the right door from the inside, and Kanon opened the left door from the outside."], "ja": "食堂への観音開きの扉を、源次が内側から右の扉を、そして左の扉を外側から嘉音が開く。"}
+{"id": 231460, "en": ["...And, welcomed by a respectful bow from those two, majestically fluttering his cape, ......Kinzo appeared..."], "ja": "……そしてその二人の最敬礼に迎えられながら、威圧感でローブをなびかせながら、…………金蔵が姿を現す……。"}
+{"id": 231463, "en": ["Kinzo's gait had a dignified weight to it, and it was hard to believe that he had reportedly been at the end of his life."], "ja": "金蔵の足取りは貫禄ある重みがあり、とても余命幾ばくを宣告されたとは思えないものだった。"}
+{"id": 231470, "en": ["Genji pulled back Kinzo's seat and motioned for him to sit."], "ja": "源次が金蔵の席を引き、着席を促す。"}
+{"id": 231476, "en": ["But Kinzo stayed standing, signaling with his chin for Genji to move back."], "ja": "しかし金蔵は座らず、源次に下がれという風に顎で合図する。"}
+{"id": 231485, "en": ["\"*cackle*cackle*cackle*cackle*cackle*  Fuhhahahahahahahahahaha...!!", "  Welcome to Rokkenjima, ladies and gentlemen.", "  Why the frightened face, Evaa?\""], "voix": "kin", "ja": "「くっくくくくくくくくく、ふっはははははははははは…！！ 　ようこそ諸君、六軒島へ。 何を怯えた顔をしておるのか、絵羽ァ。」"}
+{"id": 231492, "en": ["\"N-No, why would I be frightened...!", "  I'm just relieved to find you in excellent spirits, Father...\""], "voix": "eva", "ja": "「い、いえ、そんな怯えてるなんて…！ 　お、お父様が大変お元気そうなので、ほっとしただけで……。」"}
+{"id": 231498, "en": ["\"Wahhahhahhahhahhahha...!!"], "voix": "kin", "ja": "「わっはっはっはっはっは…！！"}
+{"id": 231504, "en": ["  Evaa, you're as amusing as ever, aren't yoou?", "  Why don't you just honestly say how frustrated you are at losing your bet with Krauss?", "  ...*cackle*cackle*  You can't say it, can you?", "  *cackle*cackle*!!\""], "voix": "kin", "ja": "絵羽ァ、お前は相変わらず面白いなぁ？ 　蔵臼との賭けに負けて悔しいと素直に言えばよいのに。 ……くっくくくく、言えないよなァ。 くっくっくっく！！」"}
+{"id": 231510, "en": ["Eva realized that their conversation during the day had indeed been leaked to Kinzo, and she hung her head, turning red."], "ja": "絵羽は、やはり金蔵に日中のやりとりが筒抜けであることを理解し、赤くなりながら俯く。"}
+{"id": 231517, "en": ["\"Well then, my sons and daughters and their companions!", "  Tonight, I shall make an important announcement regarding my inheritance and the succession that you all seem so keen on.\""], "voix": "kin", "ja": "「さぁってと、我が息子たち娘たち、そしてその伴侶の諸君！ 　お前たちの執心している我が財産と当主の継承について、今宵は重要な発表をしようと思う。"}
+{"id": 231523, "en": ["\"But first!"], "voix": "kin", "ja": "まず最初に！"}
+{"id": 231527, "en": ["  I must tell you how incredibly disappointed I am.", "  After all, until this very day, no one has been able to solve the riddle of the epitaph.\""], "voix": "kin", "ja": ":noclear_cw　私はひどく失望していることを伝えようと思う。 それは、今日まで誰にもあの碑文の謎を解くことが出来なかったということだ。」"}
+{"id": 231534, "en": ["Even though Kinzo said he was disappointed,", " a condescending smile rose to his face, as though there was no way the likes of these could've solved it, and his gaze passed through all of them."], "ja": "金蔵は失望という言葉を口にはしながらも、 貴様ら如きに解けるものかとでも言うような見下した笑みを浮かべ、ぎょろりと一同を見渡す。"}
+{"id": 231540, "en": ["\"...I had planned to hand over everything to the one who could solve it.", "  But none have been able to solve it before today, and here we stand, with nothing of mine passed down to anyone.\""], "voix": "kin", "ja": "「………私は、あれを解けた者に、全てを譲り渡すつもりでいた。 しかし、今日までに誰も解くことが出来ず、我が全ては誰にも継承されることなく、ここに至っているわけだ。"}
+{"id": 231545, "en": ["\"How shameful...!!", "  To think that not one among you has come forward with the qualifications to succeed me!", "  How truly disappointing, and shameful, and patheetic!!", "  Wahhahhahhahhahhahha!!\""], "voix": "kin", "ja": "情けない…！！ 　お前たちの中に、それを受け継ぐ資格を持つ人間が現れなかったことが、 私は心底残念であり、そして情けなく、ザマぁないと思っている！！ 　わっはっはっはっはっはっは！！」"}
+{"id": 231549, "en": ["The siblings hung their heads in silence."], "ja": "兄弟たちは黙って俯く。"}
+{"id": 231553, "en": ["Of course, they would have solved it if they could."], "ja": "もちろん、解けるものなら解いていた。"}
+{"id": 231554, "en": ["True, they couldn't deny that they'd wasted a golden opportunity, but it was just so hard..."], "ja": "チャンスを棒に振ったと言われればそれまでだが、しかしそれでも、あまりに難解だった…。"}
+{"id": 231560, "en": ["\"Therefore,", " I am proclaiming here and now that I will suspend the use of the epitaph's riddle as a method of choosing my successor."], "voix": "kin", "ja": "「よって。 私は碑文の謎にて我が継承者を選ぶことを、ここに中止することを宣言する。"}
+{"id": 231566, "en": ["  In short, time's up!"], "voix": "kin", "ja": "つまりはタイムオーバー！"}
+{"id": 231577, "en": ["  This is game over.", "  ...And what a shame for you all.", "  Even though it should have given you all an equal and fair chance, that's gone now!", "  ......Gehhahahahah!!\""], "voix": "kin", "ja": "ゲイムオーバーというわけだ。 ……残念だったなぁ、お前たち。 お前たちには、等しく公平にチャンスがあったはずなのに、それが今、ここに潰えた！ 　………んっふっふっふっふっふ！！」"}
+{"id": 231581, "en": ["It truly sounded like Kinzo was making a victory proclamation."], "ja": "それはまさに、金蔵の勝利宣言のように聞こえた。"}
+{"id": 231587, "en": ["\"In that case, will my oldest son Krauss succeed the Headship...?", "  *cackle*cackle*!", "  The answer is <no>!!\""], "voix": "kin", "ja": "「ならば、当主は長男の蔵臼に継承されるのか…？ 　くっくっくっく！ 　答えはノーである！！」"}
+{"id": 231595, "en": ["\"Wha...?!\""], "voix": "eva", "ja": "「え…？！」"}
+{"id": 231602, "en": ["\"......\""], "voix": "kla", "ja": "「…………………。」"}
+{"id": 231609, "en": ["\"...You understand, right, Krauuss?", "  I certainly gave you the title of Successor.", "  But all you did was let it go to your head...", "  Do you know what a Successor is...?\""], "voix": "kin", "ja": "「……わかっているよなぁ、蔵臼ぅ？ 　お前には確かに次期当主という肩書きを与えた。 だが、お前はそれに溺れただけだ…。 次期当主というのは、どういう意味かわかるかぁ……？」"}
+{"id": 231615, "en": ["\"......It means...the person who will inherit your position after you, Father...\""], "voix": "kla", "ja": "「………お父さんの後を継ぐ、という意味です…。」"}
+{"id": 231622, "en": ["\"Wrooooooooooooooooonnnng!!"], "voix": "kin", "ja": "^^!s0「違あああぁうッ！！"}
+{"id": 231628, "en": ["  The position of Successor isn't something that's guaranteed by the current Head at aaaaaaaaaaall!\""], "voix": "kin", "ja": ":noclear_cw　次期当主というのは、当主が約束されたものではなぁああいい！"}
+{"id": 231644, "en": ["\"......Listen up, Krauuss.", "  I won't tell you this again.", "  A Successor...", "is what you call someone who finds everyone else who's after the Headship,", " thoroughly breaks their noses, and makes it so they can never disobey him again.\""], "voix": "kin", "ja": "………いいか、蔵臼ゥ。 二度と教えないからよく聞けよ。 次期当主というのはな？ 　自分以外にも当主を狙うヤツがいたら、 その鼻を徹底的にへし折って、二度と逆らえないようにしてやるヤツのことを言うのだ。"}
+{"id": 231649, "en": ["\"This is not only something that can be said of the Headship.", "  It's the same with money!", "  A `rich person' doesn't mean someone who has money."], "voix": "kin", "ja": "これは何も、当主だけのことではない。 カネについても言える！ 　金持ちというのは、カネを持っているヤツのことではない。"}
+{"id": 231655, "en": ["  It means someone who crushes everyone who had more money than himself,", " and who scrabbles together more money than anyone else.\""], "voix": "kin", "ja": "自分よりカネを持っているヤツ全てを叩き潰し、 そして誰よりもカネを掻き集められるヤツのことを言うのだ。」"}
+{"id": 231669, "en": ["\"It's the same with talent.", "  A genius is not what you call a person blessed with talent!"], "voix": "kin", "ja": "「才能も同じ。 天才とは才能に秀でたヤツのことではない！"}
+{"id": 231675, "en": ["  It means a person who crushes everyone with more talent than themselves!", "  A person who can coerce geniuses and all other people to call them that using strength and charisma!!", "  You have a mistaken impression when it comes to all of these things.", "  ...So, you aren't of the right caliber to be my Successor.", "  *cackle*cackle*cackle*cackle*cackle*!!\""], "voix": "kin", "ja": ":noclear_cw　自分より秀でたヤツ全てを叩き潰し！ 　自分を天才と全ての人間に呼ばせることを力とカリスマで強要できるヤツを指して言う！！ 　お前はその全てにおいて勘違いしているのだよ。 ……だから次期当主の器ではないのだよゥ。 くっくくくっくくくくくく！！」"}
+{"id": 231683, "en": ["\"...I-I'll take your words to heart...\""], "voix": "kla", "ja": "「……………べ、勉強になります…。」"}
+{"id": 231687, "en": ["Perhaps that truly was Kinzo's philosophy."], "ja": "それはまさに、金蔵の哲学なのかもしれない。"}
+{"id": 231691, "en": ["As a result of faithfully carrying out that rant-like philosophy of his,", " Kinzo had glorified the Ushiromiya family to the state it was in today..."], "ja": "金蔵は今日まで、その暴言とも聞こえる自らの哲学を忠実に実行した結果、 右代宮家をここまで繁栄させてきたのだ……。"}
+{"id": 231694, "en": ["It may be hard to imagine after his immersion in the occult in recent years,", " but that brutally overbearing outlook was no more or less than Ushiromiya Kinzo's charisma and aura..."], "ja": "近年のオカルト被れの金蔵からは想像もつかないだろうが、 この凶暴なる強引さこそが、右代宮金蔵のカリスマであり、オーラでもある…。"}
+{"id": 231702, "en": ["\"Such an unsatisfactory person is not qualified to inherit everything of the Ushiromiya family.", "  In that case, is Eva, Rudolf, or Rosa qualified?\""], "voix": "kin", "ja": "「このような不甲斐ない蔵臼に、右代宮家の全てを継承する資格などない。 ならば、絵羽、留弗夫、楼座の３人にはあるのか？"}
+{"id": 231708, "en": ["\"Again, <no>!!"], "voix": "kin", "ja": "これもノーである！！"}
+{"id": 231714, "en": ["  You were unable to solve the riddle, and you were also unable to use a scheme to drag Krauss down!", "  All the three of you managed to do was gather together in a united front to try and extort money from Krauss.", "  And even that scheme was thoughtless!", "  You can't even corner Krauss all by himself!", "  ......There could be nothing more shameful!\""], "voix": "kin", "ja": ":noclear_cw　碑文の謎を解けず、さりとて蔵臼を引き摺り下ろす策も弄せず！ 　お前たちに出来たのは３人寄せ集めで共同戦線を張って、蔵臼からカネをせびろうとしたことだけ。 しかもその策も浅はかそのもの！ 　蔵臼一人を追い詰めることさえ出来やしない！ 　………情けないことこの上なしッ！"}
+{"id": 231720, "en": ["\"You lack the avarice to steal away the position of Successor by any means!!", "  In order to get what you want, you should sacrifice everything, becoming as covetous and greedy as possible...!!", "  The goddess of luck smiles upon the greedy!!", "  You three, who don't have that wild spirit, are as unfit for the succession as Krauss is!!\""], "voix": "kin", "ja": "次期当主の座をどんなことをしてでも奪い取ろうという貪欲さが足りぬ！！ 　欲しいもののためには如何なる犠牲も払い、どこまでも貪欲となるべし、強欲となるべし…！！ 　幸運の女神は貪欲なる者にこそ微笑む！！ 　その野生の精神がないお前たち３人に、蔵臼同様に継承の資格などありはしないッ！！」"}
+{"id": 231732, "en": ["Eva and the rest had no words to respond with."], "ja": "絵羽たちに返せる言葉はない。"}
+{"id": 231733, "en": ["And they couldn't calculate what it was Kinzo was about to say..."], "ja": "そして、金蔵が何を語ろうとしているのか、計りかねている…。"}
+{"id": 231737, "en": ["Was Kinzo actually planning to proclaim that no one would succeed the Headship?"], "ja": "金蔵はまさか、誰にも当主を継がないとでも宣言するつもりだろうか？"}
+{"id": 231738, "en": ["If so, that would work to Eva, Rosa, and Rudolf's advantage."], "ja": "もしそうならば、それは絵羽たちにとって利することになる。"}
+{"id": 231741, "en": ["After all, in the end, they'd just have to renegotiate everything among the siblings after Kinzo's death, splitting the inheritance evenly."], "ja": "結局のところ、金蔵の死後に兄弟で改めて調整し、遺産を山分けすればいいだけの話だからだ。"}
+{"id": 231744, "en": ["It would surely be more troublesome if a specific person's name was raised and proclaimed to be the Successor."], "ja": "むしろ、具体的に個人名を挙げて、誰かに継承を宣言される方が厄介に違いなかった。"}
+{"id": 231747, "en": ["...But would Kinzo really say something to benefit any of the four siblings after demeaning them so much?"], "ja": "……しかし、ここまで四兄弟を扱き下ろした金蔵が、その誰かが得をするようなことを言うだろうか。"}
+{"id": 231756, "en": ["\"...You don't think...he's going to say that because no one will succeed him,", " he'll donate all of his fortune to charity or something, right...?\""], "voix": "eva", "ja": "「……まさか、誰にも引き継がないからと、 財産を全て慈善団体にでも寄付するとか言い出すつもりじゃないでしょうね……。」"}
+{"id": 231763, "en": ["\"......I'm afraid I wouldn't put it past Father.\""], "voix": "ros", "ja": "「………お父様ならやりかねないという恐怖はあるわ。」"}
+{"id": 231770, "en": ["\"The blood's just risen to his head...", "  We can't do anything but let him talk for now.\""], "voix": "rud", "ja": "「頭に血が上ってるだけさ……。 しばらくは聞き流すしかねぇ。」"}
+{"id": 231779, "en": ["\"...W-Well then, Father.", "  What thoughts do you have regarding the Succession of the Headship?\""], "voix": "kla", "ja": "「で、…ではお父さん。 次期当主については、どういうお考えをお持ちですか。」"}
+{"id": 231786, "en": ["\"Hmph......", "  Since I am so utterly disappointed in all of you, I've lost the desire to hand it over to anyone."], "voix": "kin", "ja": "「ふ………。 お前たちに完全に失望した以上、私は誰に引き継ぐ気も失った。"}
+{"id": 231791, "en": ["  Therefore, the Ushiromiya family will end here.", "  It ends with my generation.\""], "voix": "kin", "ja": "よって、右代宮家はこれで終わる。 私の代で終わりだ。」"}
+{"id": 231798, "en": ["\"...Th-That cannot...\""], "voix": "kla", "ja": "「……そ、そういうわけには……。」"}
+{"id": 231806, "en": ["\"The Ushiromiya family was crushed long ago in that earthquake.", "  The current Ushiromiya family is nothing but an illusion of gold I'm glimpsing for an instant.", "  ...The likes of which will end when I awaken from my slumber.", "  Hehheheh!", "  Everything in this world is a dream, an illusion.", "  ...Life is but a daydream before the awakening called death.", "  Aaah, yes, that's how it was from the beginning!!", "  That I should lose everything when I die was part of Beatrice's contract, and her curse!", "  Fuhahaha!!", "  As if I'd let you, Beatrice!", "  I will be the one who captures you!!", "  Tonight, that goal will be realized.", "  *cackle*cackle*!", "  Wahhahahahahaha!!\""], "voix": "kin", "ja": "「右代宮家など、あの震災の時にとっくに滅んでおるわ。 今の右代宮家など、私が束の間だけ見ている黄金の幻想に過ぎぬのだ。 ……私が夢より覚めれば、終わる程度のもの。 ふっふっふ！ 　この世など全ては夢、幻。 …生など、死という目覚めの前には白昼夢と同じよ。 あぁ、そうだ、元よりそうだったのだ！！ 　私が死ぬ時に全てを失うのが、ベアトリーチェとの契約、そして呪い！ 　ふっはっはっは！！ 　そうは行くか、ベアトリーチェ！ 　お前を捕らえるのはこの私だ！！ 　今宵、それは現実となるだろう。 くっくくくくく！ 　わっははははははははは！！」"}
+{"id": 231814, "en": ["For a while, Kinzo was overcome with cackling, and his eyes bulged."], "ja": "金蔵はしばらくの間、白目を剥きながらげらげらと笑い転げる。"}
+{"id": 231815, "en": ["Whenever he talked about Beatrice, it was always both eloquent and insane..."], "ja": "ベアトリーチェのことを語る時はいつも、彼は雄弁でそして狂気的だった……。"}
+{"id": 231821, "en": ["\"Foolish children such as yourselves truly are daydreams!!", "  It's as though you were never there from the beginning!!", "  Disappear!  Wake up!!", "  Disappear from the doze of the truth that I am...!!", "  You failures that have not built up anything that makes you worthy to succeed me!!\""], "voix": "kin", "ja": "「お前たちのような愚かなる息子たちなど、まさに白昼夢！！ 　初めからいなかったも同然よッ！！ 　消えろ！覚めろ！！ 　真実の私のまどろみと共に消え去ってしまえ…！！ 　私を継承するに値する何物も築き上げてこなかった出来損ないどもめッ！！」"}
+{"id": 231832, "en": ["\"K-Kinzo-san.", "  If I may...\""], "voix": "nan", "ja": "「き、金蔵さん。 よろしいかな……。」"}
+{"id": 231841, "en": ["\"What is it,", " my friend?\""], "voix": "kin", "ja": "「何か。 我が友よ。」"}
+{"id": 231845, "en": ["Nanjo nervously raised his hand, asking to speak.", "  Kinzo allowed him to."], "ja": "南條がおずおずと挙手し、発言を求める。 金蔵はそれを認めた。"}
+{"id": 231852, "en": ["\"I understand how you feel, Kinzo-san.", "  Because you love your children, you expect a lot of them,", " and as a parent and grandparent myself, ", "I understand how parental affection can make you feel as though your expectations were betrayed.\""], "voix": "nan", "ja": "「金蔵さんの気持ちもわかる。 子どもたちを愛するがゆえに、 大きな期待を寄せ、それゆえに期待を裏切られたような気持ちになる親心、 同じく子どもや孫を持つ身として、よーくわかります。"}
+{"id": 231857, "en": ["\"...However, you are extraordinary, Kinzo-san.", "  A genius.", "  Isn't saying that it's only natural for them to catch up to you a little too harsh...?"], "voix": "nan", "ja": "……しかし、金蔵さんは非凡だ。 天才だ。 そんな金蔵さんに追い付いて当然と言うんでは、ちょいと酷過ぎるんじゃないかね…？"}
+{"id": 231862, "en": ["  Despite that, Krauss-san, Eva-san, Rudolf-san, Rosa-san,", " and all of their partners have done their very best to catch up with you...\""], "voix": "nan", "ja": "それでも、そんな金蔵さんに追い付こうと、 蔵臼さんも絵羽さんも、留弗夫さんも楼座さんも、そしてその伴侶の皆さんも、よーく頑張っています…。」"}
+{"id": 231869, "en": ["\"Hohoooooooooohhh???", "  And just how much money have they built up with this `Doing their best'?", "  After these cowards fail completely in ventures and gain debt,", " and still try to sponge off me, how can you say that they did their very best...?!!\""], "voix": "kin", "ja": "「ほほぉおおおぉ？？？ 　よォく頑張って、どの程度のカネを稼ぎ上げたというのかァ。 事業にことごとく失敗して借金を抱え、 未だに私のすねをかじろうという間抜けどものどこがよォく頑張っていると言えるのかぁあああ…！！"}
+{"id": 231872, "en": ["\"Money is the crystallization of everything in this world.", "  If you cannot grasp that, then you cannot grasp the world!", "  If a life cannot strongly grasp this world, it doesn't deserve to live!!", "  Disappear!!", "  Disappear from my life and reality!!\""], "voix": "kin", "ja": "この世の全てはカネとして結晶しているのだ。 それが掴めぬということは、この世を掴んでおらぬということ！ 　魂がこの世をしっかり掴んでおらぬということは、生きるに値せぬということだッ！！ 　消えろ！！ 　我が生と現実から消え去ってしまえ！！」"}
+{"id": 231880, "en": ["\"...That's a reckless argument.", "  With that logic, even I must not live."], "voix": "nan", "ja": "「……それは暴論です。 その理論から言ったら、私だって生きていてはいけないことになる。"}
+{"id": 231885, "en": ["  ...Even so, I believe the time I spend playing chess with you was worthwhile for both of us, Kinzo-san...", "  ...You should know better than anyone else that there are many things in this world that cannot be bought with money.\""], "voix": "nan", "ja": "……そんな私でも、金蔵さんと過ごしたチェスの時間は、共に価値あるものだったと信じていますぞ…。 ……世の中、お金で買えないものもたくさんあることを、金蔵さん自身が誰よりもご存知のはずだ。」"}
+{"id": 231893, "en": ["\"......Hmm.", "  ...Hmph.\""], "voix": "kin", "ja": "「…………む。 ……ふむ。」"}
+{"id": 231897, "en": ["As the siblings motionlessly hung their heads, they cheered Nanjo on inside their hearts."], "ja": "兄弟たちはじっと頭を垂れながら、南條に心の中で声援を送る。"}
+{"id": 231900, "en": ["Not one of the siblings could offer their opinion in front of Kinzo in a rage, but Kinzo's close friend Nanjo alone was allowed to..."], "ja": "激高した金蔵に意見できる兄弟はいないが、親友である南條にだけはそれが許されていた…。"}
+{"id": 231905, "en": ["Even though Kinzo had raged so fiercely, after being admonished by Nanjo, he nodded several times as though in agreement."], "ja": "金蔵はあれだけ激高していたのに、南條に諭され、納得したかのように小さく何度も頷く。"}
+{"id": 231908, "en": ["...This surprisingly obedient side of him might have seemed cute, but there was no one here who could laugh."], "ja": "……案外素直な一面を可愛らしくも思うが、それを笑える者はいなかった。"}
+{"id": 231914, "en": ["\"It may be true that your children haven't built up as great a fortune as you have, Kinzo-san.", "  ...Though, even so, they're rich enough to make me jealous.\""], "voix": "nan", "ja": "「確かに息子さんたちは、金蔵さんほどの財は築き上げられなかったかもしれない。 ……まぁ、それでも私から見れば羨ましいほどのお金持ちではありますがな。"}
+{"id": 231919, "en": ["\"But besides money, they have also built up many things that cannot be bought with money.", "  When it comes to that, they are in no way inferior to you, Kinzo-san.\""], "voix": "nan", "ja": "しかし、お金だけでなく、お金では買えないたくさんのものを築き上げました。 それについて言えば、金蔵さんにも負けないくらいです。」"}
+{"id": 231925, "en": ["\"Hoh.", "  And what do you claim they have built up that cannot be bought with money?\""], "voix": "kin", "ja": "「ほぅ。 金で買えぬ何を積み上げたというのか。」"}
+{"id": 231931, "en": ["\"Happiness.", "  Family.", "  ...They have found wonderful partners, had children, and each has built up their own happy homes.", "  They have glorified your family name...and have brought back grandchildren.\""], "voix": "nan", "ja": "「幸せです。 家族です。 ……彼らは素晴らしい伴侶を見つけ、子を産み、それぞれの幸せな家庭を築かれています。 あなたの一族を繁栄させ、そして孫を連れ帰ってきてくれました。"}
+{"id": 231936, "en": ["\"Grandchildren are wonderful.", "  We older people can look at these young grandchildren, who will live on into a new era that we will not even be given a chance to see, and in them, we can imagine an endless future.", "  ...Isn't that the sole entertainment we have in our old age?\""], "voix": "nan", "ja": "孫は良いですぞ。 私たち年寄りは、私たちには見ることもかなわぬ新しき時代を生きるだろう若き孫に、無限の未来を想像するのです。 ……それは、老境の唯一の楽しみではありませんか。"}
+{"id": 231941, "en": ["\"Remember, Kinzo-san.", "  Remember your joy when they first brought back their grandchildren...!", "  Your children and your grandchildren...will carry your great works on to future generations, setting an example.", "  That is something that an individual cannot accomplish no matter how much money they have.\""], "voix": "nan", "ja": "思い出しなさい、金蔵さん。 彼らが初めて孫を連れて帰ってくれた時の喜びを…！ 　息子さんたちは、そして孫たちは、金蔵さんの偉業を後の世まで伝え、模範としてくれることでしょう。 それは、お金がいくらあろうとも、孤独なる身には成せぬことです。」"}
+{"id": 231946, "en": ["The siblings all nodded in agreement..."], "ja": "ウンウンと同意の頷きをする兄弟たち…。"}
+{"id": 231951, "en": ["Certainly, Kinzo had looked happy when his grandchildren had just been born."], "ja": "確かに、金蔵とても生まれたばかりの孫に、目尻を下げた日もあったのだ。"}
+{"id": 231952, "en": ["...Back when he still had some sanity in his heart."], "ja": "……まだ多少は正常な心が残っていた頃には。"}
+{"id": 231956, "en": ["...However, did Kinzo's heart still contain a Human's warmth...?"], "ja": "……しかし、金蔵の心に、ニンゲンとしての温かみなど、今もまだ残っているだろうか……。"}
+{"id": 231963, "en": ["\"In other words,", " in exchange for the vast riches I created,", " instead of gaining money, I have gained my grandchildren?!\""], "voix": "kin", "ja": "「それはつまり。 私が成した巨万の富の代わりに！ 　カネを儲ける代わりに、孫を儲けたと、そういうわけか。」"}
+{"id": 231969, "en": ["\"N-No, no, that's not what I...\""], "voix": "nan", "ja": "「い、いえいえ、そういう意味では…、」"}
+{"id": 231975, "en": ["\"So, in exchange for the several tens of billions in wealth that I have built up, I have gained a single grandchild from each of my children!!\""], "voix": "kin", "ja": "「私が稼ぎ上げた数百億という財産の代わりに、息子たちは１人ずつ孫を儲けたというわけか！！"}
+{"id": 231982, "en": ["\"Hahhahahahahahahahahaha!!", "  This is wonderful!", "  So, I have created a single life using ten billion yen!", "  That's how it is!", "  Interesting, truly an interesting example in the alchemical sense, riight...?!\""], "voix": "kin", "ja": "はっはははははははははは！！ 　それは素晴らしい！ 　つまりは百億を投じて命をひとつ生み出したと！ 　そういうわけだ！ 　これは面白い、錬金術的に考えて実に面白い例えではないかァ…？！"}
+{"id": 231988, "en": ["\"Hooh, what valuable grandchildren!", "  Wonderful, ...wonderful!!", "  Wahhahhahhahhahha!!", "  Is that right, Krauss?", "  ...Is your daughter worth ten billion yen...?\""], "voix": "kin", "ja": "ほぉう、何と価値ある孫たちなのかッ！ 　素晴らしい、……素晴らしい！！ 　わっはっはっはっはっは！！ 　そうなのか、蔵臼？ 　……お前の娘には百億の価値があるというのか……？」"}
+{"id": 231996, "en": ["\"......\""], "voix": "kla", "ja": "「………………………。」"}
+{"id": 232001, "en": ["Krauss couldn't answer instantly."], "ja": "蔵臼は即答出来ない。"}
+{"id": 232002, "en": ["...It wasn't that he didn't have confidence in his daughter.  It was because he didn't have a clue what Kinzo was trying to test him with in this question."], "ja": "……娘に自信がないという意味ではなく、金蔵が何を試したくて問い掛けているのか、まったく見えないからだ。"}
+{"id": 232005, "en": ["But when Natsuhi was then pressed for an answer, she responded, breaking Krauss's silence with an answer of her own interpretation."], "ja": "しかし、続いて返事を求められた夏妃は、それを自分なりに解釈し、蔵臼の沈黙を破って答える。"}
+{"id": 232013, "en": ["\"...Y-Yes.", "  Jessica is a daughter I wouldn't let go of even for ten billion yen.", "  In that sense, I believe she has a value that can't be measured with money.\""], "voix": "nat", "ja": "「……は、はい。 朱志香は百億のお金を積まれても手放せない娘です。 その意味において、お金では数えられない価値があると信じてます。」"}
+{"id": 232020, "en": ["\"Hoh.", "  So, you can state for certain that she's worth ten billion.", "  Hoh hoh!"], "voix": "kin", "ja": "「ほぉ。 百億の価値があると言い切るか。 ほぅほぅ！"}
+{"id": 232025, "en": ["  What about you, Eva?", "  What about your George...?\""], "voix": "kin", "ja": "絵羽はどうか？ 　お前のところの譲治はどうだ……？」"}
+{"id": 232033, "en": ["Since Natsuhi had answered that way, Eva naturally came up with her own answer as well."], "ja": "夏妃がそう答えたなら、絵羽の答えも自ずと決まっている。"}
+{"id": 232036, "en": ["...Even though Eva should have known better than to respond to a provocative question like this, she answered as well."], "ja": "……このような挑発的な問いには、答えるべきではないと知っているはずの絵羽も、同じく返事をする。"}
+{"id": 232042, "en": ["\"Yes, Father.", "  George is worth ten billion...no, even more than that."], "voix": "eva", "ja": "「えぇ、お父様。 譲治には百億の、……いいえ、それ以上の価値があります。"}
+{"id": 232047, "en": ["  And that's not in the abstract sense of things money can't buy.", "  George will certainly build up a fortune equal to his worth.", "  He'll become a grandson worthy of carrying on your great works, Father...!\""], "voix": "eva", "ja": "それはお金で買えないという抽象的な意味ではありません。 譲治は必ずや、自らの価値に等しいだけの財産を築き上げるでしょう。 お父様の偉業を継ぐに相応しい孫となるはずです…！」"}
+{"id": 232051, "en": ["Eva sent a glance at Hideyoshi and Natsuhi as if she'd scored a point."], "ja": "してやったりとでもいうかの表情で秀吉と夏妃をちらりと見る絵羽。"}
+{"id": 232054, "en": ["...When she heard what Eva had said, Natsuhi was about to add more praise for her daughter, but stopped at a glare from Krauss."], "ja": "……それを聞き、夏妃も我が娘にさらに評価を加えようかと思ったが、蔵臼に睨まれそれを飲み込む。"}
+{"id": 232060, "en": ["\"Hmm, I see."], "voix": "kin", "ja": "「ふむ、なるほど。"}
+{"id": 232065, "en": ["  ......Then what about you, Rudolf?", "  What about your Battler?\""], "voix": "kin", "ja": "………ならば留弗夫はどうか？ 　お前のところの戦人はどうだというのか。」"}
+{"id": 232072, "en": ["\"Compared to George-kun, ...there's nothing about Battler I can brag about."], "voix": "rud", "ja": "「ウチの戦人は、……譲治くんに比べられちゃ、威張れることは何もねぇ。"}
+{"id": 232077, "en": ["  If he was kidnapped and we were threatened with a ransom of ten billion, I'd feel like sticking a bow on the guy and letting them have him.\""], "voix": "rud", "ja": "誘拐されて身代金を百億よこせと脅されたら、ノシをつけて進呈したい程度のヤツではある。」"}
+{"id": 232084, "en": ["\"*giggle*giggle*...\""], "voix": "kir", "ja": "「くすくすくす……。」"}
+{"id": 232090, "en": ["\"On top of that, he's an idiot and reckless.", "  He talks about grand dreams and things that couldn't be done.", "  ...I guess in that way, he's a super idiot worth the equivalent of ten billion normal idiots.\""], "voix": "rud", "ja": "「さらに、馬鹿で無鉄砲だ。 偉そうな夢や、出来るわけもねぇことを語り出す。 ……その一点においては、馬鹿百億人分に匹敵する大馬鹿だろうさ。"}
+{"id": 232095, "en": ["\"But I'm sure that guy could do things that even a group of ten billion average people couldn't do.", "  Well, I'm pretty sure he'll fall flat on his face.", "  The world isn't easy.\""], "voix": "rud", "ja": "だが、馬鹿も出来ねぇ凡人どもが、百億人束になっても出来ねぇことを、きっとあいつはやり出すだろうよ。 まぁ、俺はどうせコケるだろうとは思ってる。 世の中は甘くねぇ。"}
+{"id": 232100, "en": ["\"...But at the very least, ", "there's no doubt that watching over his life will be more fun than looking at ten billion average people.\""], "voix": "rud", "ja": "……しかし、百億の凡人を眺めるよりは、 ヤツの人生は観賞して愉快なものになるだろうことだけは、疑ってねぇぜ。」"}
+{"id": 232104, "en": ["Eva clicked her tongue at that clever style of speech, which would probably match Kinzo's tastes."], "ja": "金蔵の好みそうなうまい言い方をすると、絵羽は舌打ちする。"}
+{"id": 232109, "en": ["Apparently, Rudolf had done that on purpose, so he grinned back at her."], "ja": "留弗夫自身も狙って言ったらしく、にやりと笑い返した。"}
+{"id": 232117, "en": ["\"...What of Maria?\""], "voix": "kin", "ja": "「……真里亞はどうか？」"}
+{"id": 232124, "en": ["\"...M-Maria is my adorable and only daughter.", "  Her value cannot be measured with money.", "  ...That is all.\""], "voix": "ros", "ja": "「ま、……真里亞は私の可愛い、たったひとりの娘です。 お金の価値で量れるものではありません。 ……それだけです。」"}
+{"id": 232132, "en": ["\"Hmm.", "  ......I see.", "  Dreams and the future, miracles and possibilities are the source of my magical power.", "  No magic without hopes holds any strength.\""], "voix": "kin", "ja": "「ふむ。 …………なるほど。 夢と未来、奇跡と可能性は我が魔力の源泉だ。 希望なくして如何なる魔法も力を持ちはしない。"}
+{"id": 232137, "en": ["\"...Heh, I cannot expect any more from you who have proven to be average,", " but I see, my grandchildren hold future possibilities, and expecting a magical miracle from them may be worthwhile.\""], "voix": "kin", "ja": "……ふっ、すでに凡百であることを証明してしまったお前たちには何を期待することも叶わないが。 なるほど、孫たちには未来の可能性があり、魔法的奇跡を期待する価値はあり得るというわけか。"}
+{"id": 232141, "en": ["\"If you're saying that, in this way, they are worth more than ten billion...hmm, yes, I can see where you're coming from.", "  ...Hmmm, hmmmm...\""], "voix": "kin", "ja": "それを以って、百億以上の価値と言ってみせるなら、ふむ、わからぬでもない。 ……ふむ、ふむ……。」"}
+{"id": 232145, "en": ["When Kinzo got in a rage, he wouldn't let anyone speak up,", " but even so, he would sometimes accept something on his own while yelling by himself...and change his own opinion."], "ja": "金蔵は激高すれば誰にも口答えを許さないが、 にもかかわらず、自分でひとり怒鳴り続けながら、勝手に何かに納得して、自分の意見を翻す時もある。"}
+{"id": 232148, "en": ["...That's what this felt like to the siblings."], "ja": "……兄弟たちはそんな気配を感じ取っていた。"}
+{"id": 232151, "en": ["Apparently, even though Kinzo had been disgusted by his unsuccessful children and had cast them away as being unfit for the inheritance of his title or his fortune,", " he wasn't sure about his grandchildren."], "ja": "どうやら金蔵は、出来の悪い息子たちに呆れ果て、家督も遺産を譲る価値はないと切り捨てていたが、 孫についてはどうだろうと考えているらしい。"}
+{"id": 232154, "en": ["...At this rate, he might soon say that the inheritance would go to his grandchildren instead of the siblings."], "ja": "……この流れだと、遺産は、兄弟ではなく、孫たちに与えると言い出すかもしれない。"}
+{"id": 232157, "en": ["As the siblings sat in fear of what their fickle and short-tempered father might suddenly think of next,", " they carefully watched his every move..."], "ja": "兄弟たちは、気まぐれで短気なる父が、 突然何を思いついて何を言い出すのかに怯えながら、その一挙手一投足を慎重に見守った…。"}
+{"id": 232173, "en": ["\"...Hmm.", "  ...Let me change my thinking a little.", "  I have absolutely no desire to hand over all I have to any of you.\""], "voix": "kin", "ja": "「……ふむ。 ……考えを少し改めよう。 お前たちに我が全てを継承する気はまったくない。"}
+{"id": 232178, "en": ["\"However, it will be quite interesting to question the grandchildren to see if one of them is qualified...", "  I've always thought of them as mere kids,", " but there's a chance I'll find a shining gem amongst them that will catch me off guard.\""], "voix": "kin", "ja": "しかし、孫たちの誰かにその資格があるかどうかを問うのは、なかなかに面白いことだ……。 いつまでも子どもだと思っておったが、 ひょっとすると、私を驚かせるような原石の煌きを見せてくれるかもしれぬ。"}
+{"id": 232189, "en": ["\"And testing them for that would be..."], "voix": "kin", "ja": "そしてそれを期待し試すのは、"}
+{"id": 232191, "en": ["...yes, it would be a shame to abandon that final side-trip in my remaining life.", "  ...Hmmmmm, "], "voix": "kin", "ja": ":voicedelay 3430^^……なるほど、我が余生最後の道楽としても捨てがたい。 ……ふぅむ、"}
+{"id": 232193, "en": ["...well then, what shall I do...?\""], "voix": "kin", "ja": ":voicedelay 1720^^……さて、これはどうしたものか…。」"}
+{"id": 232202, "en": ["\"...I-I can, with confidence, recommend George as someone fitting to follow after you!\""], "voix": "eva", "ja": "「じょ、…譲治なら、お父様の後を継ぐに相応しいと、私は自信を持って推薦できます！」"}
+{"id": 232206, "en": ["Eva claimed that right away."], "ja": "絵羽が直ちにそう主張する。"}
+{"id": 232214, "en": ["Natsuhi looked like she was about to follow along, but Krauss gave her a look telling her to restrain herself, so she swallowed her words."], "ja": "夏妃もそれに釣られそうになるが、蔵臼が堪えろという風に目配せしたので、それを飲み込んだ。"}
+{"id": 232220, "en": ["\"Hehheheheheheh!", "  How bold."], "voix": "kin", "ja": "「ふっふふふふふ！ 　勇ましいではないか。"}
+{"id": 232224, "en": ["  ...Then, let us do this."], "voix": "kin", "ja": "……では、こうしよう。"}
+{"id": 232229, "en": ["  I will individually question the grandchildren to see if they are qualified to succeed the Ushiromiya family inheritance and wealth.\""], "voix": "kin", "ja": "右代宮家の家督と財産の全てを受け継ぐ資格があるかどうか、孫たちに個別に問おうではないか。」"}
+{"id": 232234, "en": ["\"...Father...\""], "voix": "eva", "ja": "「…お父様……、」"}
+{"id": 232240, "en": ["\"Howeeever!!"], "voix": "kin", "ja": "^^!s0「しかァしッ！！"}
+{"id": 232247, "en": ["  ......That does not mean that one of you will indirectly receive the inheritance.", "  I am already disappointed in you all.", "  There is no longer anything I have to give you.", "  Not a thing!", "  The ones I will question are my grandchildren.", "  And the ones who might succeed me are my grandchildren.", "  ...Make absolutely sure that you do not mistake this, understood...?\""], "voix": "kin", "ja": "^^!sd 　………それはお前たちの誰かに間接的に家督を引き継ぐという意味ではない。 お前たちにはすでに失望しているのだ。 お前たちに与えるものは、今や何もない。 何もな！ 　私が問うのは孫たちだ。 そして引き継ぐかもしれないのも孫たちだ。 ……それを決して勘違いするな……？」"}
+{"id": 232256, "en": ["\"......I shall obey Father's decision.\""], "voix": "kla", "ja": "「………お父さんの判断に従います。」"}
+{"id": 232263, "en": ["\"Same here.", "  I'll go along with what he decides.", "  ...What about you, Aneki?\""], "voix": "rud", "ja": "「同じくだ。 親父の決定に従うぜ。 ……なぁ、姉貴？」"}
+{"id": 232271, "en": ["\"O-Of course.", "  ...I believe Father will make a wise judgement.\""], "voix": "eva", "ja": "「も、もちろんよ。 ……お父様が賢明な判断をされると信じています。」"}
+{"id": 232279, "en": ["\"I-I will also obey Father's decision...\""], "voix": "ros", "ja": "「わ、私もお父様の判断に従います……。」"}
+{"id": 232286, "en": ["\"I shall think of how to test my grandchildren.", "  Which means this is no longer any business of yours.", "  After all, none of you are involved with the succession in any way now."], "voix": "kin", "ja": "「孫たちをどのように試すかは考えよう。 そしてそれは、お前たちには今さら関係のない話だ。 当主継承とお前たちは、もはや何の関係もないのだから。"}
+{"id": 232293, "en": ["  ...So right here, right now, perhaps we should discuss a different matter that does involve you.\""], "voix": "kin", "ja": "……だからこの場では、お前たちに関係のある、もうひとつの話をしようではないか。」"}
+{"id": 232307, "en": ["\"A different matter...?\""], "voix": "kla", "ja": "「もうひとつの話、とは……？」"}
+{"id": 232313, "en": ["\"Indeed.", "  That is tonight's true purpose, and the true purpose for this final Ushiromiya family conference as well."], "voix": "kin", "ja": "「うむ。 それこそが今宵の、そして右代宮家最後の親族会議の本当の理由だ。"}
+{"id": 232318, "en": ["  ...Heheheheheheh!!", "  I have no desire to hear your thoughts and opinions."], "voix": "kin", "ja": "……くっくっくっくっく！！ 　お前たちに求めるのは、議論でも意見でもない。"}
+{"id": 232323, "en": ["  I demand only your assistance!", "  Assistance in my ceremony!\""], "voix": "kin", "ja": "我が儀式にッ！ 　協力を求めるためだ。」"}
+{"id": 232331, "en": ["\"...Your ceremony...?\""], "voix": "rud", "ja": "「…………儀式ぃ…？」"}
+{"id": 232338, "en": ["\"Quiet...!", "  Father's talking now...!\""], "voix": "eva", "ja": "「静かに…！ 　お父様がお話をなさっている最中よ…！」"}
+{"id": 232345, "en": ["Rudolf and the rest had automatically narrowed their brows at the occult-like word."], "ja": "儀式というオカルト的な言葉に、思わず留弗夫たちは眉をひそめてしまう。"}
+{"id": 232348, "en": ["Could he be planning to start some strange ceremony involving Beatrice's resurrection again...?"], "ja": "また何か、ベアトリーチェ復活を巡る、怪しげな儀式でも始めようというのだろうか……？"}
+{"id": 232352, "en": ["And he wanted their assistance...?"], "ja": "それに協力を求める…？"}
+{"id": 232353, "en": ["What in the world was he planning to do?"], "ja": "一体、何を始めるつもりだというのか。"}
+{"id": 232356, "en": ["In the past, he had carried out many eccentricities that he called by the same name, such as starting to burn a strange incense and filling the whole mansion with the stench."], "ja": "過去にも、そうだと称して、おかしな香を焚き始めて、屋敷中に異臭を漂わせたりと、数々の奇行を行なったことがある。"}
+{"id": 232359, "en": ["To the siblings, a ceremony was nothing more than one of the aged Kinzo's obnoxious hobbies."], "ja": "兄弟たちにとって、儀式は、老いた金蔵の迷惑な趣味のひとつでしかない。"}
+{"id": 232369, "en": ["\"Father,", " just what do you mean by that......?\""], "voix": "kla", "ja": "「お父さん…。 儀式とは一体………？」"}
+{"id": 232376, "en": ["\"If we can assist you, we'll do anything.", "  Right, Rosa?\""], "voix": "eva", "ja": "「私たちに協力できることなら、何でもご協力します。 ねぇ、楼座。」"}
+{"id": 232382, "en": ["\"Y-Yes...", "  But...what in the world...is it...?\""], "voix": "ros", "ja": "「え、えぇ……。 でも、一体、何を…？」"}
+{"id": 232390, "en": ["\"A ceremony as inscribed in my epitaph.", "  ...A ceremony to revive Beatrice and open the door to the Golden Land.", "  That witch, who escaped her cage of flesh and sneeringly slipped through my fingers, I shall now capture...", "and force into submission with my greatest hidden art.", "  ......For that purpose, I must offer 13 people as sacrifices.\""], "voix": "kin", "ja": "「私が碑文に刻んだとおりの儀式だ。 ……ベアトリーチェを蘇らせ、黄金郷の扉を開く儀式である。 肉体の檻を逃れ、私の指の隙間を嘲笑うようにすり抜けるあの魔女を、今度こそ捕らえ、 屈服させる、私の最大の秘術だ。 ………そのために、１３人もの命を生贄に捧げねばならぬがな。"}
+{"id": 232396, "en": ["\"...Hehheheheheh!", "  Gathering 13 people's worth of sacrifices is no easy feat.", "  But tonight is the family conference!", "  Many adults have gathered on Rokkenjima.", "  There could be no other day on which to carry out this ceremony.\""], "voix": "kin", "ja": "……ふっふふふふふ！ 　１３人もの生贄は容易には集まらぬ。 しかし、今宵は親族会議！ 　これだけの大人数が六軒島に集まった。 この儀式が行なえるのは、今日をおいて他にないのだ。」"}
+{"id": 232402, "en": ["Taken literally, it sounded like he was telling them to become human sacrifices for his dark ceremony and die."], "ja": "それは、言葉通りに受け取ったなら、物騒な儀式の生贄になって死んでくれと言っているようにしか聞こえない。"}
+{"id": 232406, "en": ["Ridiculous."], "ja": "そんな馬鹿な。"}
+{"id": 232407, "en": ["Was it some kind of metaphor...?"], "ja": "これは何かの比喩表現…？"}
+{"id": 232411, "en": ["But they didn't even have a clue what he was trying to illustrate."], "ja": "しかし何の話を喩えて言っているのかさっぱり見当がつかない。"}
+{"id": 232414, "en": ["The siblings whispered together about what Kinzo was saying..."], "ja": "兄弟たちはひそひそと、金蔵が何を言い出しているのかと囁き合う……。"}
+{"id": 232423, "en": ["\"...What's Dad going on about?", "  Is this his usual sickness...?\""], "voix": "rud", "ja": "「……親父は何を言ってるんだ？ 　いつもの悪い病気か…？」"}
+{"id": 232430, "en": ["\"Probably.", "  Listen silently for now.\""], "voix": "kla", "ja": "「だろうな。 しばらく黙って聞いてやれ。」"}
+{"id": 232438, "en": ["\".........\""], "voix": "ros", "ja": "「………………………。」"}
+{"id": 232445, "en": ["\"I'm sorry, Father...", "  I don't understand what you mean by that.\""], "voix": "eva", "ja": "「ごめんなさい、お父様…。 どういう意味で仰られているのか、わかりかねます。」"}
+{"id": 232455, "en": ["\"What is it you don't understand?", "  I am making this extremely simple.", "  I told you that I'll choose 13 of the humans on this island and offer them as sacrifices in a ceremony to revive Beatrice."], "voix": "kin", "ja": "「何がわかりかねるというのか。 私は至極単純に話している。 ベアトリーチェを蘇らせる儀式のために、この島にいる人間から１３人を選び、生贄に捧げようと言っている。"}
+{"id": 232459, "en": ["  Even worthless people like you can be very useful as sacrifices in my ceremony.", "  Wahhahhahhahha!!\""], "voix": "kin", "ja": "何の価値もないお前たちも、我が儀式の生贄としてなら大いに役に立てるというわけだ。 わっはっはっはっは！！"}
+{"id": 232467, "en": ["\"...Listen!!", "  This is not a joke nor anything of the sort.", "  This is my final bet, my final ceremony, the last one I will desire in my life!", "  There are now more than 13 humans on this island.", "  In short, that's a head count that can easily satisfy the massive number of sacrifices I require!", "  Become the sacrifices for my ceremony!!\""], "voix": "kin", "ja": "……聞けッ！！ 　これは冗談でも何でもない。 私が人生の最後に欲する、最後の賭け、最後の儀式である！ 　この島には今、１３人を超える人間がいる。 つまり、この膨大な数の生贄を容易に満たせるだけの頭数が存在するというわけだ！ 　お前たちは我が儀式の生贄となれッ！！」"}
+{"id": 232477, "en": ["\"...Kinzo-san, ...you weren't...", "serious about what you said back then, were you...?!", "  It wasn't a joke...?!!\""], "voix": "nan", "ja": "「……金蔵さん、……あんた、まさか……。 あの話は本気だったのかね…？！ 　冗談ではなく……！！」"}
+{"id": 232481, "en": ["Unusually for him, Nanjo's face changed color as he stood up and shouted."], "ja": "南條が、珍しく血相を変えて立ち上がり叫ぶ。"}
+{"id": 232485, "en": ["It seemed this wasn't the first time Nanjo had heard all this dark talk about 13 sacrifices."], "ja": "１３人を生贄に、などという物騒な話は、南條にとって初耳ではなかったらしい。"}
+{"id": 232492, "en": ["\"Sorry, my friend.", "  That was no joke nor anything of the sort.", "  It is what I bet my life on, the final ceremony, the final game that I will attempt.\""], "voix": "kin", "ja": "「すまんな、我が友よ。 あれは冗談でも何でもない。 我が生涯を賭して、最後に挑む儀式であり、ゲームなのだよ。"}
+{"id": 232499, "en": ["\"Yes, this is a game!", "  If gaining my fortune and leaving the island is your goal, then there are only two ways to achieve it!", "  Will you escape being chosen as one of the 13 sacrifices and spectacularly survive, by finally solving the riddle of the epitaph and stopping the ceremony, "], "voix": "kin", "ja": "そう、これはゲームだ！ 　お前たちにとって、我が財産を得て島を出ることがゴールならば、それを達する方法は２つしかない！ 　１３人の生贄から逃れ見事生き残り、今さらながら碑文の謎を解いて儀式を止めてみせるか、"}
+{"id": 232504, "en": ["...or will you kill me?!", "  ...And thereby stop this ceremony.", "  Those are your only two options!!\""], "voix": "kin", "ja": "……私を殺しッ！ 　この儀式を止めてみせるか。 この２つしかない！！」"}
+{"id": 232511, "en": ["By now, everyone wasn't just whispering, but chattering and muttering away."], "ja": "もはや一同は、ひそひそという囁きではなく、ざわざわという賑わいになっていた。"}
+{"id": 232512, "en": ["Even the siblings had noticed that Kinzo was beginning to act abnormally..."], "ja": "さすがの兄弟たちも、金蔵が常軌を逸し始めていることに気付いている…。"}
+{"id": 232521, "en": ["\"...Father, are you a little tired?", "  Genji-san, has Father been drinking?\""], "voix": "kla", "ja": "「……お父さん、少しお疲れなのでは？ 　源次さん、お父さんは少し酒を？」"}
+{"id": 232528, "en": ["\"......No.", "  The Master is sensible.\""], "voix": "gen", "ja": "「……………いいえ。 お館様は聡明であらせられます。」"}
+{"id": 232535, "en": ["\"Sorry, Dad.", "  I don't have a clue what you're talking about..."], "voix": "rud", "ja": "「悪ィけど、親父。 何を言い出すのかさっぱりだぜ……。"}
+{"id": 232540, "en": ["  Dad's free to start up any weird ceremony he wants to revive the witch he loves.", "  That's his hobby."], "voix": "rud", "ja": "親父が、愛する魔女を蘇らせるために、どんな怪しげな儀式をおっ始めてもそりゃ自由だぜ。 親父の趣味なんだからな。"}
+{"id": 232546, "en": ["  But getting wrapped up in that...ahaha...and being made into a human sacrifice is a little more than I can handle.\""], "voix": "rud", "ja": "だが、そいつに巻き込まれて、……たはは、生贄にされるのはまっぴら御免だぜ。」"}
+{"id": 232554, "en": ["\"Rudolf, are you trying to interrupt Father?!\""], "voix": "eva", "ja": "「留弗夫、お父様の話に口を挟む気？！」"}
+{"id": 232561, "en": ["\"What are you talking about, Aneki?!", "  You expect me to listen to something that shady and say `Oh, really?'?!\""], "voix": "rud", "ja": "「何言ってんだ、姉貴！ 　こんな物騒な話に、はいそうですかで頷けるわけねぇだろ？！」"}
+{"id": 232569, "en": ["Was the `ceremony' Kinzo had mentioned literally something disturbing, ", "or was it some kind of test to choose the Successor?"], "ja": "金蔵の口にする“儀式”が、言葉通りの物騒なものなのか、 次期当主を選ぶための何らかの試練なのか。"}
+{"id": 232572, "en": ["It seemed that Rudolf had taken it literally,", " but Eva apparently still believed that it was something like a test or examination to find a proper Successor."], "ja": "留弗夫は言葉通りの物騒なものとして受け取ったようだが、 絵羽はそれでも、これは次期当主を見極めるための、 試練や審査のようなものだと信じているようだった。"}
+{"id": 232575, "en": ["But Kinzo responded with a clear smile."], "ja": "しかし金蔵はそれに対し、明快な答えを返す。"}
+{"id": 232585, "en": ["\"Well then, that is all I have to say.", "  Nooo objections or opinions are necessary from you...!!", "  I will simply awaken from my dream of having four unsuccessful children.", "  To all of you, what will occur now before your very eyes may seem like a dream, an illusion, something that couldn't conceivably be of this world, and a world that defies understanding.\""], "voix": "kin", "ja": "「さて、私からの話は以上だ。 異議も意見もなァんにも必要はなぁい…！！ 　４人の不出来なる息子たちがいたという私の夢が覚めるだけの話なのだ。 お前たちにとって、これより目の前で起こることはまさに夢、幻、あるいはこの世のものと思えぬ理解に及ばぬ世界だろう。"}
+{"id": 232590, "en": ["\"But that itself is my reality!!", "  Now, I will finally awaken from the shallow, useless dream that all of you are!!\""], "voix": "kin", "ja": "しかしそれこそが我が現実！！ 　お前たちという出来の悪き浅い夢は今こそようやく覚めるのだッ！！"}
+{"id": 232595, "en": ["\"Come, the game has already begun, see?", "  With this many of you here, I can take lives starting with anyone...!!"], "voix": "kin", "ja": "さぁ、もうゲームは始まっているぞ？ 　これだけいては、誰から命を奪えばいいものやら…！！"}
+{"id": 232600, "en": ["  So long, my unsuccessful children.", "  And for the final and only time in your lives, be useful...for my ceremony...!!"], "voix": "kin", "ja": "さらばだ、出来の悪き息子たちよ。 そして生涯でただ一度、そして最後に、私の儀式のために役に立て…！！"}
+{"id": 232606, "en": ["  Arise, Pendragon's Memorial Troops...!!\""], "voix": "kin", "ja": "出でよ、ペンドラゴンの記念兵たちよ…！！」"}
+{"id": 232619, "en": ["When Kinzo raised his arms high like an opera singer and yelled as though towards a packed audience, "], "ja": "金蔵がオペラ歌手のように両手を高く掲げて、まるで満場の観客にそう叫ぶように言うと、"}
+{"id": 232630, "en": ["the air shattered like glass, ......and the outlines of three people who supposedly hadn't been invited to this island appeared..."], "ja": "空間がガラスのように割れ、………この島に招かれていないはずの人影が、３人もそこに姿を現す……。"}
+{"id": 232639, "en": ["\"Chiester 45, right here...!\""], "ja": "「シエスタ４５、ここに…！」"}
+{"id": 232646, "en": ["\"Chiester 410, riiiight here!\""], "ja": "「シエスタ４１０、ここにぃ！」"}
+{"id": 232656, "en": ["\"Chiester 00, right here, sir.\""], "ja": "「シエスタ００、ここにであります。」"}
+{"id": 232666, "en": ["Three girls with strange forms suddenly appeared behind Kinzo."], "ja": "３人の奇怪なる姿の少女たちが金蔵の後に突如、現れる。"}
+{"id": 232669, "en": ["Where from?", "  When?", "  Who?", "  Who were they??"], "ja": "どこから？ 　いつの間に？ 　誰？ 　どちら様？？"}
+{"id": 232673, "en": ["...The Humans were thrown off balance, and their minds went blank."], "ja": "……ニンゲンたちは目を白黒させて頭を真っ白にする。"}
+{"id": 232674, "en": ["Because they spent all that time thinking, they lost their last chance to survive."], "ja": "そんな思考に時間を費やしたため、彼らは生き残る最後のチャンスを失った。"}
+{"id": 232682, "en": ["\"You have permission to shoot six to death."], "voix": "kin", "ja": "「お前たちには６人の射殺を許可する。"}
+{"id": 232688, "en": ["  I leave the choice of targets up to you.", "  Begin your attack.\""], "voix": "kin", "ja": "標的は自由だ。 攻撃開始。」"}
+{"id": 232696, "en": ["\"Unrestricted Firing, understood, sir.", "  Thank you for granting us such excellent targets.", "  Everyone, Commence Unrestricted Firing.\""], "ja": "「自由射撃了解であります。 良き標的に感謝。 各個、自由射撃開始。」"}
+{"id": 232704, "en": ["\"Nihi!", "  First one in, nyeh!!", "  Hyahhah!!\""], "ja": "「にひ！ 　一番乗りだにぇ！！ 　ヒャッハッ！！」"}
+{"id": 232708, "en": ["When 410 scratched the air with her finger, a golden bow appeared in empty space, and she pulled its string."], "ja": "４１０が宙を指で掻くと、虚空に黄金の弓が現れ、その弦を引く。"}
+{"id": 232763, "en": ["The golden arrow that had been readied there was fired off without any hesitation, flew around the room leaving haphazard gold curves everywhere, "], "ja": "そこに構えられた黄金の矢は何の躊躇いもなく放たれ、室内をでたらめな黄金の軌跡を残しながら飛び回り、"}
+{"id": 232764, "en": ["......and chose Natsuhi from among those sitting at the table of the family conference, pulverizing the left half of her face."], "ja": "………親族会議のテーブルに座した一同の中から、夏妃を選び、その顔面の左半分を粉砕した。"}
+{"id": 232784, "en": ["Flesh and deep-red blood scattered around,", " leaving massive red spatter marks on the relatives' faces and the pure white tablecloth."], "ja": "肉片と真っ赤な血飛沫が辺りに撒き散らされ、 親族たちの顔と真っ白なテーブルクロスに真っ赤な飛沫を大量に残す。"}
+{"id": 232789, "en": ["...Silence fell."], "ja": "シン、……としていた。"}
+{"id": 232792, "en": ["Despite the massive number of deep-red spots left on the tablecloth, ", "......no one could understand why Natsuhi's head was half smashed, nor why she was hanging her head as though dozing while still sitting,", " ......and they watched on in silence."], "ja": "一同は、テーブルクロスに真っ赤な斑が大量に残されても、なお、この異常な、 ………夏妃が頭部を半壊させて、腰掛けたまま居眠りをするように頭を垂れるのを、 ………何が起こったのか理解できずに、沈黙して見守っていた。"}
+{"id": 232797, "en": ["...Those sitting on Natsuhi's right-hand side were silent for a relatively long time,", " but those sitting to her left were not."], "ja": "……夏妃より右側に座っていた者たちは比較的長く沈黙していたが、 左側に座っていた者たちはそうはいかなかった。"}
+{"id": 232800, "en": ["...Because the people sitting on that side had been shown how her head had been smashed open like a watermelon or a pomegranate...", "and could even see inside her..."], "ja": "……そちら側に座っていた人々は、 彼女の頭部が叩き割られた西瓜か石榴のようになっている、その内側まで見せ付けられていたからだ……。"}
+{"id": 232808, "en": ["\"Na...tsuhi......\""], "voix": "kla", "ja": "「な、……つひ…………、」"}
+{"id": 232815, "en": ["\"...One down.", "  Natsuhi, is it?  A luckless woman to the end."], "voix": "kin", "ja": "「……まずは１人。 夏妃か、最後まで運のない女だ。"}
+{"id": 232821, "en": ["  ...Next!\""], "voix": "kin", "ja": "……次ッ！」"}
+{"id": 232828, "en": ["\"00, Firing.\""], "ja": "「００、射撃。」"}
+{"id": 232834, "en": ["After scratching the empty air in the same way and readying her bow, 00 fired as well."], "ja": "００も同じように虚空を掻いて黄金の弓を構えると、放つ。"}
+{"id": 232895, "en": ["After it flew around and around at high speeds like the golden arrow 410 had released, drawing a convoluted curve in the same manner,", " ...it smashed half of Rudolf's head in the same way as he looked at Natsuhi in shock, killing him instantly."], "ja": "４１０の放った黄金の矢同様、でたらめな軌跡を描いて室内をぐるぐると高速で飛びまわった後、 ……夏妃を呆然と見ていた、留弗夫を、同じように頭部を半壊させて即死させた。"}
+{"id": 232902, "en": ["This time, everyone managed to avoid freezing up mentally.", "  They realized that a fearsome murder had started playing out right in front of them, just as Kinzo had said."], "ja": "今度はみんな、思考停止には陥らなかった。 恐るべき殺人が、金蔵の言葉通りに目の前で実行され出したことを理解する。"}
+{"id": 232906, "en": ["And they realized that Kinzo would probably kill even more...!"], "ja": "そして、金蔵はさらに殺すだろうことを理解する……！"}
+{"id": 232913, "en": ["\"\"Waaaaaaaaaaaaaaaaaaaaahhhh!!\"\""], "ja": "!s0「「うわああああああぁあああ！！」」"}
+{"id": 232920, "en": ["\"\"Kyaaaaaaaaaaaaaaaaaaaaaaahhhhh!!!\"\""], "ja": "「「きゃああぁああああああぁあああッ！！！」」"}
+{"id": 232932, "en": ["Shrill screams burst out."], "ja": "鋭い悲鳴が沸き起こる。"}
+{"id": 232937, "en": ["Even so, they didn't know what to do."], "ja": "それでもなお、彼らはどうすればいいかわからなかった。"}
+{"id": 232938, "en": ["So they could only keep screaming and flapping their wide-open mouths like goldfish..."], "ja": "だから、悲鳴をほとばしらせたままに口を大きく開けて、金魚のようにぱくぱくとさせ続けるしかなかった……。"}
+{"id": 232948, "en": ["\"...F-Father, "], "voix": "eva", "ja": "「お、……お父様……、"}
+{"id": 232950, "en": ["...what do you think you're doing...?\""], "voix": "eva", "ja": ":voicedelay 3470^^これは何の真似です……？」"}
+{"id": 232957, "en": ["\"...Y-You fool!!", "  Run now!!\""], "voix": "hid", "ja": "「…あ、阿呆ぅ！！ 　はよ逃げるんやッ！！」"}
+{"id": 232961, "en": ["As Eva asked Kinzo that in total shock,", " Hideyoshi, who had come to his senses faster than anyone else and risen to his feet, pulled at her arm from behind."], "ja": "呆然としながら、金蔵にそう問い掛ける絵羽を、 誰よりもいち早く正気に戻って立ち上がった秀吉が、後から腕を掴み引っ張る。"}
+{"id": 233022, "en": ["However, merciless fate's choice for the third sacrifice..."], "ja": "しかし、無慈悲なる運命は３人目の生贄に、"}
+{"id": 233024, "en": ["...was Hideyoshi."], "ja": "^^!d900………秀吉を選ぶ。"}
+{"id": 233027, "en": ["Just like the two before him, half of Hideyoshi's head was neatly smashed,", " ...and the right side of his head, which had happened to be facing that direction at the time, ...had been blown away with its contents exposed like a watermelon or a pomegranate."], "ja": "秀吉の頭部もまた、それまでの２人と同じく綺麗に半分、 ……その時、たまたま向けていた右側側頭部が、……西瓜か石榴のように中身をぶちまけて吹き飛ばされた。"}
+{"id": 233031, "en": ["So, still holding Eva, ...Hideyoshi slumped backwards and fell down."], "ja": "だから秀吉は、絵羽を掴んだまま、……ぐらりと後へ仰け反って倒れる。"}
+{"id": 233032, "en": ["Still held by her beloved husband, Eva fell over backwards with him."], "ja": "絵羽は最愛の夫に抱かれたまま、一緒に後へ転げて倒れる。"}
+{"id": 233042, "en": ["\"Dear...?", "  Dear...?!", "  Eeeeeeeeeeeeeeeeeekkkk!!!\""], "voix": "eva", "ja": "「あなた……？ 　あなた…？！ 　ひいいいぃいいいいいいぃいッ！！！」"}
+{"id": 233046, "en": ["Eva screamed."], "ja": "絵羽は絶叫する。"}
+{"id": 233049, "en": ["...It was only natural."], "ja": "…無理もない。"}
+{"id": 233052, "en": ["The face she had been looking for...had been half lost,", " and the crushed skull, the mashed brains, and the crushed jaw all lay bare..."], "ja": "そこに求めたはずの秀吉の面影が、……半分失われていて、 砕けた頭蓋骨、ぐちゃぐちゃになってはみ出た脳髄、砕けた歯茎を剥き出しにしているのだから……。"}
+{"id": 233061, "en": ["\"45, Impact, it's a hit...!\""], "ja": "「４５、着弾、命中…！」"}
+{"id": 233068, "en": ["\"Spectacular.", "  Fire again.", "  Three more remain.\""], "voix": "kin", "ja": "「見事だ。 続けて撃て。 残りは３人であるぞ。」"}
+{"id": 233078, "en": ["\"F-Father...!!", "  Wh-Wh-Wh-Wh-What...what...is this supposed to be?!?!\""], "voix": "kla", "ja": "「おッ、お父さん…！！ 　こここここッ、これはこれはッ、何の真似です？！？！」"}
+{"id": 233088, "en": ["When Krauss stood up forcefully and was about to rush Kinzo, 00 blocked him."], "ja": "蔵臼が威勢良く立ち上がり、金蔵に食って掛かろうとすると、それを００に制止される。"}
+{"id": 233091, "en": ["...With her slender-looking body, she held back Krauss with just the palm of her right hand."], "ja": "……華奢そうな体をしながら、右腕の手の平だけで蔵臼の体躯を押し留める。"}
+{"id": 233097, "en": ["He still tried to resist and attack Kinzo,", " so 00 lifted Krauss by the nape of the neck and twisted into his Adam's apple with her thumb."], "ja": "それでもなお、抗い、金蔵に組みかかろうとするので、 ００は蔵臼の襟首を掴み上げ、親指を喉仏に捻りこむ。"}
+{"id": 233101, "en": ["It seemed to be very painful, and Krauss was overcome with agony."], "ja": "それはとても堪えたらしく、蔵臼は悶絶して苦しがった。"}
+{"id": 233111, "en": ["\"Gghh, oooooooohhhh...!!!", "  Everyone, ...run...!!", "  Get the police...!", "  An ambulance...!!", "  Quickly...!!\""], "voix": "kla", "ja": "「ぐ、おぉおおおおお……！！！ 　みんな、…逃げろ…！！ 　警察を……！ 　救急を…！！ 　早く……ッ！！」"}
+{"id": 233121, "en": ["\"Everyone, let's escape!!"], "voix": "nan", "ja": "「皆さん、逃げましょう！！"}
+{"id": 233125, "en": ["  Escape!!\""], "voix": "nan", "ja": ":noclear_cw　逃げるんだ！！」"}
+{"id": 233130, "en": ["Nanjo's sharp words finally dissolved the spell that had been holding them down in their chairs."], "ja": "南條の鋭い一言に、ようやく一同の、腰が椅子から剥がせない呪縛が解けた。"}
+{"id": 233136, "en": ["When Gohda and Kumasawa each tried to escape from the dining hall first, "], "ja": "郷田と熊沢が、我先にと食堂から逃げ出そうとすると、"}
+{"id": 233146, "en": ["410 moved in an instant and appeared there, blocking the way."], "ja": "４１０がそこに瞬間移動して現われ、退路を塞ぐ。"}
+{"id": 233153, "en": ["\"Nihi!  You sure are slow nyeeh.", "  Did you think I'd let you escape nyeeh♪\""], "ja": "「にひ！　すっトロいにぇ〜。 逃ィがすと思ったかにぇ〜♪」"}
+{"id": 233161, "en": ["\"Hiieeeeeeeeeehhhh!!\""], "voix": "kum", "ja": "「ひィえええぇえぇえ！！」"}
+{"id": 233169, "en": ["\"H-Help meeeeeeeeeeeee!!\""], "voix": "goh", "ja": "「おッ、お助けぇえええええぇ！！」"}
+{"id": 233176, "en": ["\"Gohda-san, duck!!\""], "voix": "kir", "ja": "「郷田さん、伏せてッ！！」"}
+{"id": 233180, "en": ["Even though Gohda didn't understand, he crouched when he heard Kyrie's sharp voice."], "ja": "霧江の鋭い声に、郷田はわけもわからずにとにかくしゃがむ。"}
+{"id": 233185, "en": ["...Then, a burst of air rushed above his head."], "ja": "……するとその頭上を重い風が切る。"}
+{"id": 233192, "en": ["Kyrie had taken a big swing with a chair to mow 410 down."], "ja": "霧江が、椅子を大きく横振りにして薙ぎ払ったのだ。"}
+{"id": 233203, "en": ["But 410, still with a mocking expression, easily caught that widely swung chair with a single hand."], "ja": "しかし、４１０は人を馬鹿にしたような笑みのまま、その大振りの椅子をぱしりと片手で容易に受け止める。"}
+{"id": 233212, "en": ["\"...Tch!\""], "voix": "kir", "ja": "「……ち！」"}
+{"id": 233219, "en": ["\"What a scary woman nyeh.", "  You really wanna go the same way as your husband that muuch?\""], "ja": "「おっかない女だにぇ。 旦那の後がそんなに追いたいぃ？」"}
+{"id": 233269, "en": ["From the cuff of her arm where she had caught the chair, something like a shining golden snake appeared,", " ...wrapped itself around the chair, and burst open."], "ja": "椅子を受け止めている腕の袖口から、光る黄金の蛇のようなものが現れて、 ……椅子にぐるぐるっと絡みつくと、それをバリンッ！！っと爆ぜさせてしまう。"}
+{"id": 233272, "en": ["It was a fearsome power, like a vice."], "ja": "万力どころではない、恐ろしい力だった。"}
+{"id": 233275, "en": ["When Kyrie realized that the being in front of her, which looked like a girl,", " was actually something that surpassed Human knowledge and that a Human could not even begin to oppose,", " her head was filled with a fierce alarm bell that welled up from deep inside her..."], "ja": "霧江は目の前の一見少女に見える存在が、 ニンゲンには到底、太刀打ち出来ない人知を越えた存在だと知り、 内より湧き出す壮絶な警鐘で頭を満たされる…。"}
+{"id": 233284, "en": ["Genji, Shannon, and Kanon, all of the servants permitted to wear the One-Winged Eagle, continued to stand calmly at attention by the wall, even with a scene like this before their eyes,", " making them look very bizarre and eerie."], "ja": "そんな光景を目前にしても、冷静に壁際に直立不動で立ち続ける、源次、紗音、嘉音の、 片翼の鷲を許された使用人たちの姿はとても異様で不気味だった。"}
+{"id": 233287, "en": ["For an instant, Kyrie thought that they'd managed to stay calm because they were with the enemy...", "and had been given a guarantee that they wouldn't be killed."], "ja": "霧江は一瞬、彼らのその余裕は、 彼らが敵側であり、自分たちは殺されないという保証によって成り立っていると考えた。"}
+{"id": 233348, "en": ["...But as soon as she thought that, the side of Genji's face was blown away before her eyes."], "ja": "……しかし、そう考えた瞬間に源次の側頭部が吹き飛ばされるのを目の当たりにする。"}
+{"id": 233353, "en": ["\"G-Genji-san...\""], "voix": "nan", "ja": "「げ、源次さん……。」"}
+{"id": 233361, "en": ["\"45, Impact, it's a hit...!\""], "ja": "「４５、着弾、命中…！」"}
+{"id": 233368, "en": ["\"...Hohoh, Genji, how unfortunate.", "  ...Rest in peace, my friend."], "voix": "kin", "ja": "「……ほほぅ、源次め、これは運が悪い。 ……安らかに眠れ、我が友よ。"}
+{"id": 233374, "en": ["  *cackle*cackle*cackle*  Your death will not be wasted.", "  You will become one of the 13 keys essential to the resurrection of my beloved witch.", "  Fuhhahahahahahahaha...\""], "voix": "kin", "ja": "くっくくくくくく、そなたの死は無駄にはならぬぞ。 我が愛しき魔女復活の重要なる１３の鍵のひとつとなるのだから。 ふっはははははははは……。」"}
+{"id": 233380, "en": ["The half of Genji's expression that remained..."], "ja": "源次に半分だけ残された表情は、"}
+{"id": 233382, "en": ["was as indifferent as ever."], "ja": "^^!d900……いつもと同じように淡白なものだった。"}
+{"id": 233385, "en": ["He tilted, ...fell over, and sent a blood-red splatter out across the floor..."], "ja": "ぐらりと傾き、……どさりと倒れて、真っ赤な飛沫を床に飛び散らせた……。"}
+{"id": 233393, "en": ["\"......Genji-sama.........\""], "voix": "sha", "ja": "「………源次さま……………。」"}
+{"id": 233400, "en": ["\"......We're nothing more...than the witch's pieces.", "  ......Nothing more, ......nothing more...\""], "voix": "kan", "ja": "「…………僕たちなんて、…所詮は魔女の駒なんだ。 ………所詮…、………所詮……。」"}
+{"id": 233405, "en": ["From the meek and frustrated...", "no, ...resigned expressions on Shannon and Kanon's faces, one couldn't sense any naive hopes that they'd be rescued."], "ja": "紗音と嘉音の、神妙そうな、…そして悔しそうな、 いや、……諦観さえ漂う表情には、自分たちは助かるなどという甘い期待は感じられない。"}
+{"id": 233409, "en": ["That's right.", "  Kinzo was, in the truest sense, ......carrying out these murders at random."], "ja": "そう。 金蔵は本当の本当に、………ランダムに殺人を行なっているのだ。"}
+{"id": 233410, "en": ["In the truest sense, ...he was killing like it was a game to see who would be saved and who would be killed."], "ja": "誰が助かり、誰が殺されるか、……本当の本当に、ゲームのように殺しているのだ。"}
+{"id": 233421, "en": ["\"Weeell then, whoo'll we go for next nyeh?", "  Nihhihi!!\""], "ja": "「さァて、つゥぎは誰を狙おうっかにぇ〜。 にっひひ！！」"}
+{"id": 233426, "en": ["410 looked at Kyrie for a second."], "ja": "４１０は一瞬だけ霧江を見た。"}
+{"id": 233427, "en": ["In that second, ...Kyrie was prepared for her own death."], "ja": "だからその瞬間、……霧江は自らの死を覚悟した。"}
+{"id": 233431, "en": ["But when she readied her golden bow in midair, 410 was looking at someone else over Kyrie's shoulder."], "ja": "だが宙に黄金の弓を構えた時、４１０は霧江の頭越しに別の誰かを見た。"}
+{"id": 233432, "en": ["...So, as imprudent as it was, Kyrie felt as though she had been saved..."], "ja": "……だから霧江は不謹慎にも、自分は助かったと直感する……。"}
+{"id": 233491, "en": ["Again, an ugly, exploding, popping sound rang throughout the room."], "ja": "再び、室内に砕けて爆ぜる醜い音が響き渡る。"}
+{"id": 233496, "en": ["...Who was it this time?"], "ja": "……今度は誰が？"}
+{"id": 233499, "en": ["When Kyrie turned to face the direction of the sound, "], "ja": "霧江が音をした方向を振り返ると、"}
+{"id": 233504, "en": ["......she saw blood gushing like a fountain, and Eva lying on her husband's chest."], "ja": "………そこには、血を噴水のように迸らせながら、夫の胸元に倒れる絵羽の姿があった。"}
+{"id": 233507, "en": ["...Of course, her face had been half smashed just like her husband's..."], "ja": "…もちろんその顔は、夫と同じく半分を砕かれたものだった……。"}
+{"id": 233510, "en": ["410 had mercilessly targeted Eva as she'd clung to her husband's corpse, sobbing."], "ja": "４１０は無慈悲にも、夫の遺体にすがり付いて泣きじゃくっていた絵羽を標的としたのだ。"}
+{"id": 233517, "en": ["\"L-Let go of Nii-san...!!", "  Let go of Nii-san...!!"], "voix": "ros", "ja": "「に、兄さんを離して…！！ 　兄さんを離しなさい…！！"}
+{"id": 233523, "en": ["  Just stop it, Father!!", "  Just stop this brutality!!\""], "voix": "ros", "ja": "もう止めてお父様！！ 　こんな残酷なことはもう止めてッ！！」"}
+{"id": 233532, "en": ["\"...Run away, Rosa...", "  Ggh, ack......!\""], "voix": "kla", "ja": "「……逃げろ楼座……。 ぐ、く、………！」"}
+{"id": 233536, "en": ["Rosa's objection didn't reach Kinzo as he continued to laugh loudly in the blood-spattered dining hall,", " and she wasn't able to lessen Krauss's pain at being lifted up by the nape of the neck by 00."], "ja": "楼座の抗議は、血飛沫に染まる食堂で高笑いを続ける金蔵には届かないし、 ００に襟首を掴み上げられている蔵臼の苦痛を和らげることも出来ない。"}
+{"id": 233539, "en": ["So, Rosa had no choice but to use force.", "  She lifted up a chair beside her and gave a warning."], "ja": "だから楼座は実力を行使するしかない。 傍らの椅子を振り上げ、警告する。"}
+{"id": 233547, "en": ["\"Father...!!", "  Order her to let go of Nii-san!", "  Just stop them from doing this!!\""], "voix": "ros", "ja": "「お父様…！！ 　兄さんを離すように命令して！ 　もうこんなことを止めさせて！！」"}
+{"id": 233553, "en": ["\"I cannot.", "  If that is what you desire, then prevent it using your own power.", "  ...Cut a path through to your own fate with your own hands."], "voix": "kin", "ja": "「出来ぬな。 それを望むならば、お前の自らの力で阻止するが良い。 ……自らの運命は自らの手で切り開け。"}
+{"id": 233558, "en": ["  You who have always hid behind the backs of others in fear, let me see you overcome your weakness one last time in your life...!!", "  Fuhhahahahahahahahaha!!!\""], "voix": "kin", "ja": "常に誰かの背に隠れ、怯えてきたお前に宿る、人生最後の克己を見せてみよ…！！ 　ふっははははははははは！！！」"}
+{"id": 233564, "en": ["\"...F-Father..."], "voix": "ros", "ja": "「お、……お父様……。"}
+{"id": 233571, "en": ["  ......Aaaaaaaaaaaaahhhhh!!!\""], "voix": "ros", "ja": "………うわああああああああぁあああ！！」"}
+{"id": 233589, "en": ["The chair that Rosa had lifted up..."], "ja": "^^!s0　楼座はその振り上げた椅子を、"}
+{"id": 233591, "en": ["...swung down at the father who had reigned as a symbol of terror for her entire life."], "ja": "^^!d1000………自分の生涯に、畏怖の対象として君臨し続けた父親に対し、振り下ろす。"}
+{"id": 233599, "en": ["It was the greatest...and final...act of bravery and self-control in Rosa's life."], "ja": "それは楼座の人生で最大の、そして最後の勇気、そして克己。"}
+{"id": 233602, "en": ["What Kinzo had said might have been true."], "ja": "金蔵の言う通りかもしれない。"}
+{"id": 233605, "en": ["...If she had grasped that courage much sooner,", " her life might have become more free, unrestrained by anyone else."], "ja": "……その勇気をもっともっと早くに持てたなら、 彼女の人生はもっと自由で、何者にも束縛されなかったかもしれない。"}
+{"id": 233616, "en": ["Then, there was a bursting sound."], "ja": "そして、バンッと爆ぜる音。"}
+{"id": 233621, "en": ["The sound of Rosa's chair fiercely hitting Kinzo..."], "ja": "……楼座の椅子が激しく金蔵を打ち付ける音であるはずは、"}
+{"id": 233623, "en": ["could not have been this."], "ja": "^^!d500…なかった。"}
+{"id": 233629, "en": ["With the chair still lifted up, "], "ja": "椅子を振り上げたまま、"}
+{"id": 233631, "en": ["......she neatly lost half of her head...and slumped over."], "ja": "^^!d800………頭部を綺麗に半分失い、ばたりと倒れる。"}
+{"id": 233644, "en": ["Still holding Krauss up with one hand, ...00 had stuck her other hand out towards Rosa."], "ja": "蔵臼を片手で掴み上げたまま、……００がもう片手を楼座に突き出していた。"}
+{"id": 233652, "en": ["The golden snake released from that arm..."], "ja": "^^!s0　その腕より放たれた黄金の蛇が、"}
+{"id": 233654, "en": ["had constricted Rosa in a helix..."], "ja": "^^!d800楼座を螺旋状に締め上げ、"}
+{"id": 233656, "en": ["and had smashed into her head."], "ja": "^^!d900……頭部を食い破ったのだ。"}
+{"id": 233668, "en": ["\"...Defensive Firing.", "  I apologize for the discourtesy of shooting so close to you, sir.\""], "ja": "「……防衛射撃。 至近弾の無礼をお詫びするであります。」"}
+{"id": 233677, "en": ["\"I care not.", "  Hmm, so this makes six people.\""], "voix": "kin", "ja": "「構わぬ。 む、これで６人であるか。」"}
+{"id": 233684, "en": ["\"Yes, Lord Goldsmith.", "  This makes six people.\""], "ja": "「はい、ゴールドスミス卿。 これで６人であります。」"}
+{"id": 233688, "en": ["When she indifferently communicated that, 00 let go of Krauss, whom she had been lifting up this whole time."], "ja": "それを淡白に告げると、００はずっと掴み上げていた蔵臼を放り投げる。"}
+{"id": 233702, "en": ["\"Indeed.", "  So, the sacrifices of the first twilight were Eva, Rudolf, Rosa, Natsuhi, Hideyoshi, and Genji.", "  *cackle*cackle*cackle*!!\""], "voix": "kin", "ja": "「うむ。 第一の晩の生贄は、絵羽に留弗夫に、楼座、夏妃、秀吉、そして源次であるか。 くっくくくくくく！！」"}
+{"id": 233714, "en": ["It was a massacre that happened in an instant."], "ja": "それは、あっという間の虐殺。"}
+{"id": 233717, "en": ["The interior of the dining hall had been dirtied by blood spatter,", " ...and the six unlucky victims lay with their heads brutally exposed."], "ja": "食堂内は血飛沫によって汚され、 ……６人の不運なる犠牲者が、無残な頭部を晒して転がっている。"}
+{"id": 233720, "en": ["In a way that was fitting for that abnormal space, Kinzo's abnormal laugh alone echoed out..."], "ja": "その異常な空間に相応しい、金蔵の異常な笑い声だけが木霊していた……。"}
+{"id": 233730, "en": ["\"Hahhahahahahaha, wahhahahahahahahahahahahaha!!", "  The curtain has finally risen!", "  The ceremony to revive Beatrice has begun...!!\""], "voix": "kin", "ja": "「はっはははははは、わっはははははははははははッ！！ 　いよいよに幕を開けたぞ！ 　ベアトリーチェを蘇らせる儀式の始まりだ…！！"}
+{"id": 233735, "en": ["\"You lucky ones who have managed to escape the first twilight, allow me to introduce you to my friends."], "voix": "kin", "ja": "運良く第一の晩を逃れた者たちに、我が友人たちを紹介しようではないか。"}
+{"id": 233740, "en": ["  Arise, my friend!", "  Ronove...!!\""], "voix": "kin", "ja": "出でよ、我が友よ！ 　ロノウェ…！！」"}
+{"id": 233753, "en": ["When Kinzo called Ronove's name, the demon butler showed himself in midair, bowing respectfully..."], "ja": "金蔵がロノウェの名を呼ぶと、うやうやしく最敬礼をしながら、虚空に悪魔の執事が姿を現す……。"}
+{"id": 233759, "en": ["\"Pleased to meet you, everyone.", "  And good day to those of you I haven't seen for a long time."], "voix": "ron", "ja": "「皆様方、初めまして。 そしてご無沙汰の皆様におかれましては御機嫌よう。"}
+{"id": 233765, "en": ["  Pu ku ku ku...!", "  It seems this place is once again spectacularly untidy.\""], "voix": "ron", "ja": "ぷっくっくっく…！ 　これはまた派手に散らかされましたようで。」"}
+{"id": 233771, "en": ["\"Pay it no mind.", "  It takes a stimulant of this level to wake me from my daydream-like days.\""], "voix": "kin", "ja": "「良いわ。 我が白昼夢の如き日々を覚ますには、この程度の刺激が必要だ。"}
+{"id": 233776, "en": ["\"Allow me to introduce my friend, a reliable butler and one of the 72 Great Demons, Ronove.\""], "voix": "kin", "ja": "紹介しよう、我が友人であり、頼れる執事であり７２柱の大悪魔である、ロノウェだ。」"}
+{"id": 233783, "en": ["\"I am pleased to make your acquaintance.\""], "voix": "ron", "ja": "「以後、お見知りおきを。」"}
+{"id": 233787, "en": ["Just who was he making that introduction to?"], "ja": "それは誰に対しての紹介なのか。"}
+{"id": 233790, "en": ["...Krauss and Kyrie, who were still down on their backsides, and Nanjo, Gohda and Kumasawa...", "could only look up at this middle-aged gentlemen they didn't know in shock..."], "ja": "……尻餅を付いたままの蔵臼も霧江も、南條も郷田も熊沢も、 呆然としながら初対面の中年紳士を見上げる他なかった……。"}
+{"id": 233793, "en": ["Only Shannon and Kanon seemed to recognize him, and they bowed deeply..."], "ja": "紗音と嘉音だけは面識があるようで、深々と頭を下げる…。"}
+{"id": 233801, "en": ["\"...So, I wasn't able to greet Genji.", "  I hope he was at least able to fulfill his purpose painlessly.\""], "voix": "ron", "ja": "「……源次には挨拶が叶いませんでしたか。 せめて、苦痛なく役目を終えられたなら良いのですが。」"}
+{"id": 233809, "en": ["\"It was an instant death from a direct hit to the head...!", "  He didn't have time to feel the pain.\""], "ja": "「頭部直撃弾にて即死でした…！ 　苦痛を味わう暇もありません。」"}
+{"id": 233815, "en": ["\"Is that so?", "  Very well.\""], "voix": "ron", "ja": "「そうですか。 結構です。」"}
+{"id": 233822, "en": ["\"Allow me to introduce another friend.", "  Arise, my friend, Virgilia...!!\""], "voix": "kin", "ja": "「続けて友を紹介しよう。 出でよ、我が友、ワルギリア…！！」"}
+{"id": 233831, "en": ["Once again, a silhouette of someone the relatives didn't know appeared from empty space."], "ja": "再び虚空に、親族たちにとって未知なる人影が現れる。"}
+{"id": 233832, "en": ["She appeared in a refined dress while making an elegant greeting."], "ja": "それは優雅なドレス姿で上品に挨拶をしながら現れる。"}
+{"id": 233838, "en": ["\"......Thank you for summoning me, Master."], "voix": "wal", "ja": "「………召喚を感謝します、お館様。"}
+{"id": 233844, "en": ["  Although I would rather not have been summoned into a bloody place such as this.\""], "voix": "wal", "ja": "許されるならば、このような血生臭き場に呼び出されたくはありませんでしたが。」"}
+{"id": 233852, "en": ["\"Allow me to introduce her too.", "  This is both my friend and a reliable counselor, Virgilia."], "voix": "kin", "ja": "「こやつも紹介しよう。 我が友であり頼れる相談役でもある、ワルギリアだ。"}
+{"id": 233865, "en": ["  ...I desire to borrow your great power as the Witch of the Finite.", "  Lend it to me!\""], "voix": "kin", "ja": "……偉大なる有限の魔女であるお前の力を我が儀式に借りたい。 その力を貸せぃ！」"}
+{"id": 233871, "en": ["\"...Even if I tried to refuse, such a thing wouldn't be permitted for one subordinated by the power of your summonings.", "  As you wish, Master.\""], "voix": "wal", "ja": "「……お断りしようにも、あなたの強力な召喚隷属下にある身ではそれも叶いません。 御意に、お館様。」"}
+{"id": 233879, "en": ["\"......Still, what a fearsome fellow.", "  To think he summoned three of the Chiester Sisters Corps, then me, and even Virgilia..."], "voix": "ron", "ja": "「…………それにしても、恐ろしいお方だ。 シエスタの姉妹兵を３人も召喚し、私に加え、さらにワルギリアさままでも召喚せしめるとは…。"}
+{"id": 233885, "en": ["  ...Even though it's only in the area of summoning, to think that he surpasses Milady so thoroughly...  How frightening.", "  I can't help but shudder at the Ushiromiya blood.\""], "voix": "ron", "ja": "……召喚という能力においてのみとはいえ、お嬢様をも遥かに上回るとは、……恐ろしい。 右代宮の血に戦慄を覚えます。」"}
+{"id": 233893, "en": ["\"In order to carry out Beatrice's resurrection ceremony, I shall give it my all as a summoner.", "  This still isn't enough.", "  In order to perfectly succeed in the ceremony this time, I shall summon more.\""], "voix": "kin", "ja": "「ベアトリーチェ復活の儀式を執り行うために、私は召喚師としての全てを尽くすだろう。 まだ足りぬな。 この度の儀式の完璧なる遂行のために、さらに召喚しよう。"}
+{"id": 233898, "en": ["\"The Pendragon Memorial Troops and Ronove and Virgilia...", "  ...I can still call more...  With my magical power, I can still call many more...!!"], "voix": "kin", "ja": "ペンドラゴンの記念兵にロノウェにワルギリア…。 ……まだ呼べるぞ…、我が魔力なら、まだまだ呼べる……！！"}
+{"id": 233906, "en": ["  Answer to my summons, "], "voix": "kin", "ja": "^^!s1　我が召喚に応えよ……、"}
+{"id": 233908, "en": ["...one of the 72 demons, Gaap!!\""], "voix": "kin", "ja": ":voicedelay 2390^^７２柱が１人、ガァプよ！！」"}
+{"id": 233922, "en": ["\"Gaap...?", "  You can even materialize her...?\""], "voix": "wal", "ja": "「ガァプを…？ 　あれまでも顕現できるというのですか……。」"}
+{"id": 233929, "en": ["\"It probably means that the corrosion has advanced even more on this island.", "  ...It had already proceeded far enough to materialize us.", "  By now, we shouldn't be surprised no matter how great a demon he summons.\""], "voix": "ron", "ja": "「さらにこの島の侵食が進んだということでしょう。 ……私たちが顕現できているほどです。 今さら、どんな大悪魔が呼び出せたとしても、驚くには値しますまい。」"}
+{"id": 233936, "en": ["\"Has Rokkenjima already been completely sucked into a parallel world then?", "  ......I hope he does not surrender.\""], "voix": "wal", "ja": "「もはや六軒島は完全に、異世界に飲み込まれているということですか。 …………彼が屈服しないと良いのですが。」"}
+{"id": 233942, "en": ["\"......He learned a lot last time, correct?", "  After all this time, he won't surrender over this much.", "  Probably, I should say.", "  Pu ku ku!"], "voix": "ron", "ja": "「………前回、たっぷり入れ知恵をなされたでしょう？ 　この程度では今さら屈服しますまい。 恐らく、ですがね？ 　ぷっくっく！"}
+{"id": 233948, "en": ["  ......Well then, shall we enjoy the stage we now stand upon?", "  It seems the main character is the Master this time.", "  Let us expect a script of a different flavor than Milady's.\""], "voix": "ron", "ja": "………さて、私たちはこの舞台を楽しもうではありませんか。 今回の主人公はどうやらお館様のようだ。 お嬢様とは一味違った脚本に期待しましょう。」"}
+{"id": 233969, "en": ["When Kinzo strongly concentrated his magical power, ...a pale light gathered in the empty air, twisted,", " ...and a magic circle was drawn there with a deep-red glow."], "ja": "金蔵が魔力を強く集中すると、……空間に青白い光が集まり、歪み、 ……真っ赤な光で魔法陣が描かれていく。"}
+{"id": 233981, "en": ["And with a sound like glass breaking, ......a new demon could be seen there."], "ja": "そしてそれがガラスのように砕け散った時、………そこには新しき悪魔の姿があった。"}
+{"id": 233989, "en": ["\"...You did well to answer to my call.", "  ...Gaap, one of the 72 Great Demons...!\""], "voix": "kin", "ja": "「……よくぞ我が呼び掛けに応えた。 ……７２柱の大悪魔が一つ、ガァプよ…！」"}
+{"id": 234002, "en": ["\"......This is one hell of a place you've summoned me to."], "voix": "gap", "ja": "「…………すごいところに呼び出されたものね。"}
+{"id": 234008, "en": ["  Did you call me to clean up this blood-stained room,", " Goldsmith...?\""], "voix": "gap", "ja": "この血まみれの部屋を掃除するために、私は呼び出されたのかしら？ 　ゴールドスミス…？」"}
+{"id": 234013, "en": ["The literally devilish woman, wrapped in a venomous, ominous costume,", " looked at the scene which should have made her cover her eyes, and twisted her mouth in a grin..."], "ja": "毒々しく、禍々しい装束に身を包んだ、文字通りに悪魔的な女が、 凄惨で目を覆うべきはず光景に、にやりと口元を歪めてみせる……。"}
+{"id": 234021, "en": ["\"To summon you for such a reason...", "would be like using a cashmere muffler to mop the floor.\""], "voix": "ron", "ja": "「そのためだけにあなたを呼び出すとしたら、それはまるで、 カシミアのマフラーで雑巾掛けをするようなものですよ。」"}
+{"id": 234027, "en": ["\"It's been a long time, Gaap."], "voix": "wal", "ja": "「お久しぶりですね、ガァプ。"}
+{"id": 234032, "en": ["  ...To think that a Great Demon such as yourself has finally appeared on this island.", "  ...Perhaps this island is finally submerging completely into fantasy.\""], "voix": "wal", "ja": "……あなたのような大悪魔が、とうとうこの島に現れてしまうなんて。 ……いよいよこの島も幻想に沈むのでしょうか。」"}
+{"id": 234039, "en": ["\"This all-star cast is even more surprising than the gruesome state of the room.", "  ......A full three Chiester Sisters, the Great Demon Ronove, the Great Witch Virgilia, and even me.\""], "voix": "gap", "ja": "「部屋の惨状よりも、この豪華キャストの方が驚くべきね。 ………シエスタ姉妹が３人もいて、大悪魔ロノウェに大魔女ワルギリアに私まで。"}
+{"id": 234045, "en": ["\"What's going on?", "  Is this Pandemonium?", "  Are you trying to start a concert from hell or something?", "  ......I see, as a conductor for that, I couldn't think of anyone better than you, Goldsmith.\""], "voix": "gap", "ja": "これは何事？ 　ここはパンデモニウム？ 　地獄の演奏会でも始めるつもりかしら。 ………なるほど、そこで指揮棒が振るえるのは、あなたぐらいしか思いつかないわ、ゴールドスミス。」"}
+{"id": 234052, "en": ["\"I will have your assistance as facilitator in the completion of my ceremony to resurrect Beatrice.", "  You have no objections to my summoning contract, correct...?\""], "voix": "kin", "ja": "「そなたには、ベアトリーチェを蘇らせる我が儀式遂行のための進行役として協力してもらう。 我が召喚契約に異存はないな…？」"}
+{"id": 234058, "en": ["\"Of course not.", "  There's no way I could resist the subordinating power of the legendary Great Summoner, Lord Goldsmith, who forced the famous Great Witch Beatrice to do his bidding.\""], "voix": "gap", "ja": "「異存も何も。 天下の大魔女、ベアトリーチェを使役した伝説の大召喚師、ゴールドスミス卿の召喚隷属に、私が抗えるわけもない。"}
+{"id": 234064, "en": ["\"...I'll assist you.", "  Although I will of course ask a fitting price.", "  ...So?", "  What's my first job?\""], "voix": "gap", "ja": "……協力はするわよ。 もちろん見合ったお代もいただくけどね。 ……で？ 　最初の仕事は？」"}
+{"id": 234071, "en": ["\"Capture the cowards who made it through the first twilight.", "  Fortunately, there are still seven here, aren't there?", "  Nanjo, Shannon, Kanon, Gohda, Kumasawa, Kyrie, and Krauss...!\""], "voix": "kin", "ja": "「第一の晩を免れた間抜けどもを捕らえよ。 幸いにも、ここにはまだ７人いるではないか。 南條に紗音に嘉音、郷田に熊沢、霧江に蔵臼…！"}
+{"id": 234076, "en": ["\"Hoh, if these seven are all offered as sacrifices, that's exactly 13 people!", "  Until it's time for the second and later twilights to be carried out, throw them into the cage of sacrifices, *cackle*!!\""], "voix": "kin", "ja": "ほぉ、この７人を丸々生贄に捧げればちょうど１３人だ！ 　第二の晩以降を実行するタイミングが訪れるまで、生贄の檻に放り込んでおくが良かろう、くっくっく！！」"}
+{"id": 234082, "en": ["\"......A cashmere mop, huh?", "  Understood.\""], "voix": "gap", "ja": "「…………カシミアの雑巾掛けね。 了解したわ。」"}
+{"id": 234095, "en": ["As Gaap shrugged her shoulders, she looked at Krauss, who was still down on his butt."], "ja": "ガァプは肩を竦めながら、未だに尻餅を付いたままの蔵臼を見る。"}
+{"id": 234103, "en": ["She glared."], "ja": "睨む。"}
+{"id": 234110, "en": ["Then, when she snapped her fingers, ...Krauss was swallowed up by the floor, as though a round pitfall had opened up beneath him."], "ja": "そして指をパチンと鳴らすと、……まるで床に丸く落とし穴でも開いたかのように、蔵臼が床に飲み込まれる。"}
+{"id": 234115, "en": ["\"Uu, waaaaahhh......\""], "voix": "kla", "ja": "「う、わああぁぁ………、」"}
+{"id": 234123, "en": ["\"One down.\""], "voix": "gap", "ja": "「一丁上がり。」"}
+{"id": 234129, "en": ["There was no hole in the floor."], "ja": "床に穴などない。"}
+{"id": 234130, "en": ["But it had certainly looked as though Krauss had been swallowed up by a hole and disappeared..."], "ja": "しかし確かに蔵臼は穴に飲み込まれて消えたように見えた……。"}
+{"id": 234138, "en": ["\"......!!\""], "voix": "kir", "ja": "「…………ッ！！」"}
+{"id": 234143, "en": ["Searching for her next prey, Gaap's gaze crossed Kyrie's."], "ja": "次の獲物を狙い、ガァプの目線が霧江と交差する。"}
+{"id": 234144, "en": ["She snapped her fingers."], "ja": "パチンと指が鳴る。"}
+{"id": 234150, "en": ["Kyrie jumped back as though repelled."], "ja": "霧江は、弾かれたように床を飛び退く。"}
+{"id": 234154, "en": ["Her instincts had been right."], "ja": "直感は当たった。"}
+{"id": 234155, "en": ["After all, in the place where she'd been until a second ago, a round, jet-black hole had appeared, the same kind that had swallowed up Krauss."], "ja": "直前まで自分がいた場所に、蔵臼を飲み込んだのと同じ、丸い漆黒の落とし穴が現れたからだ。"}
+{"id": 234161, "en": ["However, before she could catch her balance, another pitfall appeared and swallowed her up."], "ja": "しかし、姿勢を直す前に、さらに現れた落とし穴が彼女を飲み込んでしまった。"}
+{"id": 234164, "en": ["...Even Kyrie had no way of eluding Gaap's capture."], "ja": "……いくら霧江でも、ガァプの捕縛から逃れる術はないのだ。"}
+{"id": 234185, "en": ["\"Waahh...!!\""], "voix": "nan", "ja": "「うわぁ……！！」"}
+{"id": 234189, "en": ["When she snapped her fingers again, a shocked Nanjo was swallowed up by the floor and disappeared."], "ja": "再び指がパチンと鳴らされ、呆然としてた南條が床に飲み込まれて消えた。"}
+{"id": 234197, "en": ["When she did it again, 410 let out a short yell and jumped back."], "ja": "さらに指が鳴らされると、４１０が、ひゃっと短い悲鳴を上げて飛び退く。"}
+{"id": 234204, "en": ["This time, a slightly larger pitfall had opened, swallowing both Shannon and Kanon, who had been standing in a line by the door."], "ja": "今度は少し大きな落とし穴が開き、扉の脇に整列していた紗音と嘉音の二人を飲み込んだ。"}
+{"id": 234209, "en": ["But because 410 had jumped away from the door, the way was no longer blocked."], "ja": "しかし、４１０が扉の前を飛び退いたお陰で、退路が開かれた。"}
+{"id": 234221, "en": ["Instinctively aware that he would be next, Gohda dashed out through that door."], "ja": "次は自分たちの番だと直感した郷田がその扉から外へ飛び出す。"}
+{"id": 234226, "en": ["Of course, Kumasawa also escaped with lightning speed, chasing after Gohda."], "ja": "もちろん熊沢も、脱兎の如く逃げ出し、郷田の後を追う。"}
+{"id": 234244, "en": ["As Gaap snapped her fingers over and over,", " round, jet-black pitfalls opened one after another behind them, chasing them."], "ja": "ガァプの指がパチンパチンパチンと数度鳴らされ、 彼らの逃げるすぐ後を、丸い漆黒の落とし穴が次々開いて追い掛けた。"}
+{"id": 234247, "en": ["However, they did nothing but drive the recklessly fleeing pair away...and couldn't swallow them up."], "ja": "しかし、形振り構わずに逃げ出す二人を追い立てるに留まり、うまく飲み込むことは出来なかった。"}
+{"id": 234250, "en": ["Gohda and Kumasawa had escaped in a matter of seconds..."], "ja": "郷田たちはあっという間に逃げ出していってしまう……。"}
+{"id": 234259, "en": ["\"......I've gotten slow.", "  I let two get away.\""], "voix": "gap", "ja": "「………鈍ったわ。 二人逃した。」"}
+{"id": 234266, "en": ["\"Don't worry, we are currently locking onto the escapee targets.\""], "ja": "「ご安心を、逃走目標を捕捉中であります。」"}
+{"id": 234273, "en": ["\"Data Link ready."], "ja": "「データリンクよし。"}
+{"id": 234279, "en": ["  Nihi!", "  Shall we snipe?\""], "ja": "にひ！ 　狙撃しますか？」"}
+{"id": 234286, "en": ["\"No, I cannot authorize that.", "  They are precious sacrifices.", "  Wait for the Master's authorization.\""], "voix": "ron", "ja": "「いいえ、それは許可できませんよ。 貴重な生贄です。 お館様の許可を待つように。」"}
+{"id": 234295, "en": ["\"Great Lord Goldsmith...!", "  We await your orders...!\""], "ja": "「大ゴールドスミス卿…！ 　指示を待ちます…！」"}
+{"id": 234302, "en": ["\"It is still too soon for the coming of the second twilight...is what the source of my magical power is whispering to me.", "  It must not be now."], "voix": "kin", "ja": "「第二の晩の訪れにはまだ早いと、……我が魔力の源泉が囁いておるわ。 今はならぬ。"}
+{"id": 234308, "en": ["  Let them do as they please.", "  It isn't as though they can escape from this island.\""], "voix": "kin", "ja": "好きにさせてやれ。 どうせこの島からは逃げられぬわ。」"}
+{"id": 234315, "en": ["\"The source of the Master's magical power is noise and risk and tests of luck."], "voix": "wal", "ja": "「お館様の魔力の源泉とは即ち、ノイズとリスクと運試し。"}
+{"id": 234321, "en": ["  ...Hohohoh, in other words, it means being fickle, it would seem.\""], "voix": "wal", "ja": "……ほっほっほ、つまりは気まぐれ、というわけですか。」"}
+{"id": 234328, "en": ["\"*cackle*  Perhaps you could also put it that way.", "  Good work, Gaap.", "  Let us steadily advance the ceremony from here on.\""], "voix": "kin", "ja": "「くっくっく、そうとも言うかも知れぬ。 ガァプ、ご苦労であった。 儀式はこのまま着実に進めよう。"}
+{"id": 234333, "en": ["\"......Well then, that is that.", "  Next are my grandchildren.", "  ......I will test them to see whether they are qualified to become my successor."], "voix": "kin", "ja": "………さて、それはそれとして。 次は我が孫たちだ。 ………次期当主たる資格があるかどうかを試す。"}
+{"id": 234339, "en": ["  Let's see, how shall I test their qualifications?", "  *cackle*cackle*...!!\""], "voix": "kin", "ja": "はてさて、どうやってその資質を確かめたものか。 くっくっくっく…！！」"}
+{"id": 234349, "en": ["\"If you decide that they're qualified, "], "voix": "wal", "ja": "「その資格があると判断されたなら、"}
+{"id": 234351, "en": ["...do you intend to abandon Beato's resurrection?\""], "voix": "wal", "ja": ":voicedelay 2830^^……ベアトの復活を断念されるおつもりで？」"}
+{"id": 234357, "en": ["\"Of course.", "  And despite that, I will test them.", "  ...Hmph, perhaps a woman cannot understand that contradiction, nor my madness.", "  *cackle*cackle*...\""], "voix": "kin", "ja": "「無論だ。 にもかかわらず試す。 ……ふっ、女の身にはわからぬであろうな、この矛盾、我が狂気など。 くっくっくっく…。」"}
+{"id": 234365, "en": ["\"......Well apparently, men are as weird as ever.", "  I don't get the very concept of playing around with risk.\""], "voix": "gap", "ja": "「………相変わらず、男ってどこか変ね。 リスクを遊ぶという概念、わかりかねるわ。」"}
+{"id": 234372, "en": ["\"Oh my, and I thought you loved that sort of thing.\""], "voix": "ron", "ja": "「おやおや、あなたはそういうのが大好きかと思っておりましたが？」"}
+{"id": 234378, "en": ["\"Of course.", "  If a man whispers to me about dangerous risks and love, I go head over heels."], "voix": "gap", "ja": "「もちろんよ。 男に、危険なリスクと一緒に恋を囁かれたらキュンキュンしちゃうわ。"}
+{"id": 234384, "en": ["  ...But only if he's hot!\""], "voix": "gap", "ja": "…ただしイケメンに限る！」"}
+{"id": 234398, "en": ["\"Pu ku ku ku ku ku...!\""], "voix": "ron", "ja": "「ぷーっくっくっくっくっく…！」"}
+{"id": 234406, "en": ["\"Be quiet.", "  Try to refrain from whispering.\""], "voix": "wal", "ja": "「お静かに。 私語は慎むようにっ。」"}
+{"id": 234414, "en": ["\"Hmph, truly noisy women.", "  But at least they aren't boring.", "  ...This is what makes summoning so pleasant.", "  All of you will bear one side of the scales of noise and risk in my ceremony.", "  That is the work I expect of you...!\""], "voix": "kin", "ja": "「ふっ、実に姦しいヤツらだ。 だが少なくとも退屈はせぬ。 ……これだから召喚は愉快なのだ。 そなたらには、我が儀式のノイズとリスクの天秤の片側を担ってもらうぞ。 その働きに期待している…！」"}
+{"id": 234423, "en": ["Six brutally murdered corpses lay in the dining hall, and it was contaminated with red, gruesome decorations..."], "ja": "食堂内には６人の惨殺死体が転がり、凄惨な装飾で赤く汚されている……。"}
+{"id": 234427, "en": ["It was now unimaginable that, until just a second ago, 13 humans had been arranged here in a well-organized manner."], "ja": "そこについさっきまで、１３人もの人間が整然と座っていたなど、もはや想像することも出来ない。"}
+{"id": 234430, "en": ["Kinzo lined up the famous demons and their subordinates, loudly declared the beginning of a night of overwhelming mass murders,", " and swore to himself that he would certainly revive Beatrice and open the door to the Golden Land..."], "ja": "金蔵は、名だたる悪魔とその配下たちを並べ、圧倒的なる虐殺の夜の幕開けを高らかに宣言し、 必ずやベアトリーチェを蘇らせ、黄金郷の扉を開くことを自らに誓うのだった……。"}
+{"id": 234453, "en": ["\"Sorry to keep you waiting!!", "  Now the curtain finally rises on the first twilight!!"], "voix": "bea", "ja": "「待たせたなァ！！ 　これにて第一の晩、いよいよ開幕、開幕ゥ！！"}
+{"id": 234460, "en": ["  *cackle*!", "  That Kinzo, I see he loves being flashy as usual.", "  So, even that man who can be more persistent than anything when he follows you around...can shine so when on the stage.\""], "voix": "bea", "ja": "くっくっく！ 　金蔵め、相変わらず派手を好む男よ。 付きまとわれればしつこいことこの上なき男も、舞台の上ではこれほどまでに映えるというのか。」"}
+{"id": 234467, "en": ["\"Damn...", "  Always killing in a grotesque way, as usual..."], "voix": "but", "ja": "「くそ……。 相変わらずグロい殺し方ばかりしやがって……。"}
+{"id": 234473, "en": ["  Smashing half of their heads?!", "  The bad taste you witches and demons have always pisses me off...!\""], "voix": "but", "ja": "頭部半壊だぁ？！ 　てめぇら魔女ども悪魔どもの悪趣味には相変わらずウンザリさせられるぜ…！」"}
+{"id": 234482, "en": ["\"Smashing half of their heads...  I see.", "  So, she's realized that, in the games up until now, that's been the most ideal method of killing.\""], "voix": "enj", "ja": "「頭部半壊……、なるほど。 これまでのゲームで、一番理想的な殺し方がこれだと気付いたわけね。」"}
+{"id": 234489, "en": ["\"Ideal?", "  How is such a grotesque way of killing ideal?!\""], "voix": "but", "ja": "「理想的？ 　このグロい殺し方がどう理想的だってんだ？！」"}
+{"id": 234498, "en": ["\"...Isn't it though?", "  Try and remember the very first game.\""], "voix": "gap", "ja": "「……実に理想的じゃない。 一番最初のゲームを思い出してみるといい。」"}
+{"id": 234506, "en": ["\"You...!", "  So, you're that new demon or whatever that just appeared..."], "voix": "but", "ja": "「お前は……！ 　さっき登場しやがった、新しい悪魔とかいうヤツか…。"}
+{"id": 234512, "en": ["  Damn, so does this mean that the witch's corrosion continued, and there are now even more creeps wandering around...?!\""], "voix": "but", "ja": "くそ、また魔女の侵食が進んで、ロクでもないヤツが増えたというわけなのか…？！」"}
+{"id": 234519, "en": ["...The more the witch's corrosion advances, the more Rokkenjima tilts towards the spirit world."], "ja": "……魔女の侵食が進めば進むほどに、六軒島は異界側に傾いていく。"}
+{"id": 234522, "en": ["That's why strange, insane people keep appearing one by one."], "ja": "次々とおかしな、そして狂ったヤツらが増えていくというわけだ。"}
+{"id": 234525, "en": ["This island has been closed off by the typhoon, so no Human can leave it, much less appear as a new character to increase their numbers."], "ja": "この島は台風に閉ざされ、ニンゲンは島から出ることはもちろん、新しく増えて登場することも出来ない。"}
+{"id": 234528, "en": ["But the more the corrosion advances, the more witches and demons can appear, without limit.", "  Increasing one by one."], "ja": "しかし魔女や悪魔どもは、侵食されればされるほどに、いくらでも登場できる。 次々に増えていく。"}
+{"id": 234531, "en": ["By now, there might be more demons than Humans among the characters appearing in this insane tale.", "  ...Their numbers might be the thing that represents this mad corrosion."], "ja": "今やこの狂った物語の登場人物は、ニンゲンより悪魔の方が多いのではないだろうか。 ……ヤツらの人数こそが、その狂いの侵食を示す数字そのものかもしれない。"}
+{"id": 234534, "en": ["Yeah, I'm sure that's true.", "  And the corrosion hasn't just affected the number of people, but apparently their fashion sense as well."], "ja": "あぁ、きっとそうだろうな。 そしてどうやら、侵食されてるのは人数だけじゃなく、服装センスもらしいぜ。"}
+{"id": 234537, "en": ["If the corrosion advances any further and even more weird people appear, just what in the world will they be wearing?", "  ......It's so scary I can't imagine..."], "ja": "これ以上、侵食が進んでさらにおかしいヤツらが登場したなら、一体、どんな格好になるんだろうな。 ………俺ぁ、おっかなくて想像も出来ねぇぜ…。"}
+{"id": 234541, "en": ["...Aaaah, seriously, give me a break..."], "ja": "……あぁ、マジで勘弁してくれ…。"}
+{"id": 234542, "en": ["Don't make these weird guys increase in number anymore...!!"], "ja": "これ以上、おかしな連中を増やさないでくれ…！！"}
+{"id": 234552, "en": ["\"*cackle*cackle*cackle*!  I can't do that, they'll keep increasing more and more!!"], "voix": "bea", "ja": "「くっくくくく！　そうはいかんぞ、まだまだ増やすぞォ！！"}
+{"id": 234557, "en": ["  I'll defile the foolish `closed circle' rule Humans speak of, over and over again...!"], "voix": "bea", "ja": "ニンゲンどもの語る、クローズドサークルなる間抜けなルールを妾がいくらでも汚してやろうぞ…！"}
+{"id": 234562, "en": ["  Welcome to my elegant game,", " Gaap!\""], "voix": "bea", "ja": "よく来たな、我が優雅なるゲームへ！ 　ガァプよ！」"}
+{"id": 234569, "en": ["\"......It's been a long time, Riiche.", "  Have you been well?"], "voix": "gap", "ja": "「………お久しぶりね、リーチェ。 お元気だった？"}
+{"id": 234575, "en": ["  ...Why do I ask, you look great!", "  Have you gotten younger?", "  You look two or three hundred years younger than when I last saw you.", "  ......Ah, I see.\""], "voix": "gap", "ja": "…というかずいぶん元気そうじゃない。 あなた、若返った？ 　私が知ってる頃より、２、３００歳は若々しいわ。 …………あぁ、なるほど。」"}
+{"id": 234579, "en": ["The demon Grandfather had summoned and introduced as Gaap...", "took a glance at me, and then grinned as though she'd figured something out on her own."], "ja": "祖父さまにガァプと紹介されて呼び出された悪魔は、 俺を一瞥してから、勝手に何かを納得したかのようににやっと笑う。"}
+{"id": 234582, "en": ["...That smile felt openly obscene."], "ja": "……率直に、嫌らしい笑いだと感じた。"}
+{"id": 234589, "en": ["\"I guess she's Beato's friend.", "  ...Which means she's gotta be a creep among creeps."], "voix": "but", "ja": "「ベアトの友人らしいな。 ……ってことは輪を掛けてロクでもねぇヤツってわけだ。"}
+{"id": 234595, "en": ["  By the way, they were saying something about a closed circle or whatever, but what does that mean?\""], "voix": "but", "ja": "しかし、クローズドサークルが何とかって言ってやがったが、どういう意味だ？」"}
+{"id": 234602, "en": ["\"Serial murder mystery novels that occur in places isolated from the outside world, like Rokkenjima is now, are sometimes called closed circles.", "  Since such a place is isolated from the outside, it's like a circle that's closed.", "  ...Therefore, in general, the characters and suspects are limited in number.\""], "voix": "enj", "ja": "「今の六軒島のような、外界から途絶された場所で起こる連続殺人ミステリーは、クローズドサークルとも呼ばれるわ。 外界からの途絶、つまりは閉じられた輪の世界というわけ。 ……ゆえに、登場人物と容疑者は限定されるのが一般的。"}
+{"id": 234608, "en": ["\"Having new suspect candidates added on one after another from outside the circle goes against the etiquette of mystery novels.", "  ...In other words, the witch is probably trying to desecrate Humans and the mystery genre itself.\""], "voix": "enj", "ja": "にもかかわらず、新しい容疑者候補が次々に輪の外から追加されていくのは、ミステリーの作法に反する。 ……つまり、ニンゲンとミステリーに対する、魔女の冒涜ってつもりなんでしょうよ。」"}
+{"id": 234614, "en": ["\"......You're Gretel?"], "voix": "gap", "ja": "「………あなたがグレーテル？"}
+{"id": 234620, "en": ["  I see, you look like a wise kid.  ...*giggle*", "  I love kids like you.", "  ...You taste so sweet and tantalizing.\""], "voix": "gap", "ja": "なるほど、賢い子みたいね、……くす。 そういう子は好きよ。 ……舌が甘くてとろけるから。」"}
+{"id": 234627, "en": ["\"Gross.", "  ...Keep the jokes to your clothing.\""], "voix": "enj", "ja": "「気色悪い。 ……冗談は服だけにしておいて。」"}
+{"id": 234632, "en": ["\"It's <Devilish Pretty>'s newest, <Jack the Ripper, Christmas Blood>.", "  Sorry for having a style that a country bumpkin from the Human world couldn't understand, okay?\""], "voix": "gap", "ja": "「デヴィリッシュプリティの最新作、ジャックザリッパー・クリスマスブラッド。 ……ニンゲン界の田舎娘には理解できないセンスでごめんね？」"}
+{"id": 234637, "en": ["\"...At least we know it's well-ventilated.", "  Why don't you add a gap to the head part as well?", "  Let a little air into your brain.\""], "voix": "enj", "ja": "「……通気性がいいのだけは理解できたわ。 ついでに頭にも切れ目をいれたら？ 　脳みその通気性もよくなるかもね。」"}
+{"id": 234644, "en": ["\"Gaap is always sensitive to the fashions of the spirit world!", "  But this year's fad truly is bold.", "  I think I'll order one sometime...!\""], "voix": "bea", "ja": "「ガァプは魔界の流行にいつも敏感でな！ 　しかし今年の流行りも実に大胆だ。 妾も一度ぜひ取り寄せてみるとしよう…！」"}
+{"id": 234650, "en": ["\"For you, Riiche, I'd recommend Ali-Gray, <Alice and the Graveyard>.", "  Let's go to 666 sometime soon to look at the clothes.", "  You really should drop by the spirit world every now and then.\""], "voix": "gap", "ja": "「リーチェにはアリグレがお勧めね、アリスアンドザグレイブヤード。 今度一緒に６６６にお洋服見に行きましょうよ。 たまには魔界にもいらっしゃいな。」"}
+{"id": 234656, "en": ["\"When this game is over, I'll be sure to do that.", "  *cackle*cackle*!\""], "voix": "bea", "ja": "「このゲームを終えたら、ぜひそうしようぞ。 くっくっくっく！」"}
+{"id": 234662, "en": ["\"......Still, your two opponents are pretty cute, Riiche.\""], "voix": "gap", "ja": "「………それにしても。リーチェの対戦相手のお二人はなかなか可愛いわ。"}
+{"id": 234667, "en": ["\"It looks like this kid has figured out the meaning of the corpses with their heads half smashed."], "voix": "gap", "ja": "この子なら、頭部半壊死体にどういう意味があるか、察しが付きそうね。"}
+{"id": 234673, "en": ["  ......Know what that is, girl...?\""], "voix": "gap", "ja": "………わかるぅ、お嬢ちゃん……？」"}
+{"id": 234681, "en": ["\"...Just now, she told me to remember the first game.", "  ...What did that mean...?\""], "voix": "but", "ja": "「……さっきこいつは、一番最初のゲームを思い出せと言ったな。 ……どういう意味だ…？」"}
+{"id": 234687, "en": ["\"Just what it sounds like.", "  ...Remember the first twilight of the very first game."], "voix": "enj", "ja": "「言葉通りの意味よ。 ……一番最初のゲームの第一の晩を思い出して。"}
+{"id": 234693, "en": ["  ...When the adults' corpses were found in the gardening shed with the magic circle drawn on it.", "  Remember?\""], "voix": "enj", "ja": "……大人たちの死体が魔法陣の描かれた園芸倉庫の中で発見された時のことよ。 覚えてる？」"}
+{"id": 234707, "en": ["Episode 1.", "  The first twilight."], "ja": "エピソード１。 第一の晩。"}
+{"id": 234710, "en": ["Krauss, Rudolf, Kyrie, Rosa, Shannon, and Gohda...", "  All six of them had their heads pulverized and died......"], "ja": "蔵臼、留弗夫、霧江、楼座、紗音、郷田の６人が、それぞれに頭部を粉砕されて死亡していた………。"}
+{"id": 234718, "en": ["\"At that time, there were two types of corpses.", "  Some had their faces pulverized, and some had half of their faces pulverized.\""], "voix": "enj", "ja": "「あの時、あそこには２種類の死体があったわ。 それは、顔面を粉砕された死体と、側面を粉砕された死体の２種類。」"}
+{"id": 234725, "en": ["\"That's right.", "  The ones with their faces smashed were Rudolf, Kyrie, Rosa, and Gohda.", "  The ones with the sides of their heads smashed were Krauss and Shannon."], "voix": "bea", "ja": "「そうだ。 顔面粉砕は、留弗夫、霧江、楼座、郷田の４人。 側頭部粉砕は、蔵臼、紗音の２人だった。"}
+{"id": 234731, "en": ["  ...At the time, I fickly created two types of corpses,", " but I realized that the former, more atrocious type was actually disadvantageous for me.\""], "voix": "bea", "ja": "……妾も、あの時点では気まぐれに生み出した２種類の死体であったが、 より残忍な死体である前者の方が、妾にとってむしろ不利であることに気付いたのだ。」"}
+{"id": 234738, "en": ["\"...Disadvantageous for you...?"], "voix": "but", "ja": "「……ベアトにとって不利……？"}
+{"id": 234744, "en": ["  ......I see.", "  So that's what this is.\""], "voix": "but", "ja": "…………そうか。 そういうことか。」"}
+{"id": 234754, "en": ["That's right."], "ja": "そうなんだ。"}
+{"id": 234755, "en": ["The smashed faces might look atrocious."], "ja": "一見残酷な顔面粉砕。"}
+{"id": 234758, "en": ["...But that made it hard to confirm the identity of each person."], "ja": "……しかしそれは、本人確認を難しくしているのだ。"}
+{"id": 234763, "en": ["For example, at that time, Uncle Krauss and Shannon-chan had their heads half smashed."], "ja": "例えば、あの時の蔵臼伯父さんと紗音ちゃんは、頭部は半壊だった。"}
+{"id": 234766, "en": ["That alone was atrocious enough, but because half of their faces remained, it was easy to confirm their identities."], "ja": "それ自体も、もちろん残酷ではあるが、顔が半分残っていたため、容易に本人確認が出来た。"}
+{"id": 234771, "en": ["But Dad and the other three were different."], "ja": "しかし、親父たち４人は違った。"}
+{"id": 234774, "en": ["Because his face had been completely destroyed, even I, as his son, could only guess by inference that it had to be Dad because of his clothes and the like."], "ja": "顔面が全壊だったため、実の息子の俺でさえ、服装などから親父に違いないと類推するしかなかった。"}
+{"id": 234777, "en": ["...In short, it remained vague until the end whether that really had been Dad's corpse."], "ja": "……つまり、本当にあれが親父の死体だったのか、ついにはうやむやのままだったわけだ。"}
+{"id": 234784, "en": ["\"If this reasoning battle had taken place during the first game as well,", " I would probably have claimed that, since the identities of Dad and the rests' bodies were impossible to confirm, there was a possibility that one was a fake corpse."], "voix": "but", "ja": "「第一のゲームの時にも、もしも推理バトルが行なわれてたなら、 俺は多分、親父たちの死体を、本人確認不能のため、偽装死体の可能性もあると主張していたかもしれない。"}
+{"id": 234790, "en": ["  ...After all, Beato didn't state anything in red during that game.\""], "voix": "but", "ja": "……何しろ、あのゲームの時にはベアトは一切、赤での発言もしていない。」"}
+{"id": 234797, "en": ["\"Well done.  Correct.", "  ......A faked death is one of the basics of the mystery genre.", "  Even if you make a doctor examine the corpse, you can't trust the results if you suspect him of being the culprit's accomplice."], "voix": "gap", "ja": "「お上手よ。それで正解。 ………偽装死はミステリーの基本の一つ。 たとえ医者に検死をさせたとしても、犯人とグルを疑われればその結果は信用できない。"}
+{"id": 234803, "en": ["  Therefore, corpses that can't guarantee a death for certain are always disadvantageous for the witch's side.\""], "voix": "gap", "ja": "つまり、確実な死を保証できない死体は常に、魔女サイドを不利にするということ。」"}
+{"id": 234810, "en": ["\"You can suspect faked deaths for all corpses, hypothesizing that one or more of them is the culprit for the crimes that follow."], "voix": "enj", "ja": "「あらゆる死体について偽装死を疑い、その後の事件の犯人に想定することが出来る。"}
+{"id": 234815, "en": ["  ...It's a move Battler doesn't like, but it's the most elementary move to use against a witch.\""], "voix": "enj", "ja": "……戦人の嫌う手だけど、魔女に対するもっとも初歩的な一手ね。」"}
+{"id": 234822, "en": ["\"Yeah, that's right.", "  That's why Beato started using the red.", "  ...With the red truth, she can carry out a perfect autopsy.\""], "voix": "but", "ja": "「あぁ、そうだ。 だからベアトは赤を使い出した。 ……赤き真実で、完璧な検死を行なうようになったんだ。」"}
+{"id": 234829, "en": ["\"*cackle*cackle*!", "  That's how it is.", "  Normally, for the first twilight,", " I would use the red truth right away, confirming the deaths of these six.", "  However, as you know, my battle strategy this time is the complete opposite of previous games, and I'll now use red truth starvation tactics...!\""], "voix": "bea", "ja": "「くっくくくくく！ 　そういうことだ。 本来ならば、この第一の晩の惨劇に対し、 妾はすぐにでも赤き真実にて、この度の６人の死亡を確定させるところである。 しかし、知ってのとおり、今回の妾の戦法はこれまでとは正反対の、赤き真実の兵糧攻めと言ったところ…！"}
+{"id": 234835, "en": ["\"Since you use it as a grounding from which to counterattack, I will not use the red easily.", "  I'll make you come apart at the seams by using red in just a single place, as rarely as possible!", "  In the end, it means I will permit all rants regarding your guesswork for all the closed rooms,", " and I only have to smash one of those once with the red truth.\""], "voix": "bea", "ja": "そなたが反撃の拠り所にしようとする以上、妾は容易には赤を使わぬ。 必要最低限の赤にて、たった一箇所だけ綻びさせればいい！ 　つまり、妾は究極的に言えば、そなたのあらゆる密室の推理について、あらゆる暴言を許せども、 その内のひとつを、たった一回の赤き真実にて打ち破るだけで良いわけだ。」"}

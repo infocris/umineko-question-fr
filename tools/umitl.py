@@ -73,6 +73,8 @@ def check_seg(en, fr):
         errs.append("balises <i> différentes")
     if fr.lower().count("#ff0000") != en.lower().count("#ff0000"):
         errs.append("code rouge #ff0000 différent")
+    if fr.lower().count("#5decff") != en.lower().count("#5decff"):
+        errs.append("code bleu #5decff différent")
     if "ᵉ" in fr:
         errs.append("caractère ᵉ absent des polices du jeu (écrire 19e)")
     if fr.count("~") != en.count("~"):

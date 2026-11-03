@@ -1,0 +1,627 @@
+239140|"Ouais...‖  ...Grand-père...
+239144|...a tué...
+239148|...tout le monde..."
+239161|"Grand-père n'est pas dans son état normal en ce moment.‖  Si tu tombes sur lui, tu seras en danger.‖  Il pourrait te tuer... !‖  Ne pense surtout pas à venir nous délivrer... !‖  Nous nous débrouillerons de notre côté."
+239165|"A-Alors on fait quoi, nous ?!‖  Espèce d'ordure de Grand-père, comment il a osé faire ça à Maman et aux autres... ?!‖  Ce vieux débris qui refuse de crever, je vais le buter... !!"
+239175|"Jessica, si tu parles comme ça, tu vas faire de la peine à ta mère.‖  Ce ne sont pas des mots dignes d'une demoiselle."
+239177|"Uuuuuuu, ...uuuuuu... !!"
+239186|"Quoi qu'il arrive, votre sécurité passe avant tout.‖  Fermez toutes les portes de la maison d'hôtes à clé.‖  ...Mais ne vous croyez pas à l'abri pour autant.‖  La grande baie vitrée du salon du rez-de-chaussée pourrait être brisée.‖  Restez dans cette chambre, et dressez un lit contre la porte pour faire une barricade.‖  Il y a des toilettes et un réfrigérateur dans cette chambre, n'est-ce pas ?‖  Vous devriez pouvoir tenir enfermés jusqu'à demain matin.‖  ...Écoute bien, je le répète.  ...Pas question de faire quoi que ce soit de violent.‖  Ne pense même pas à venger ta mère !‖  Contentez-vous de vous cacher et d'attendre que ça passe, sans provoquer l'ennemi."
+239198|"Oui, ......oui... !!‖  J'ai compris, ...Papa... !‖  Uuuuuuuuuu !!"
+239205|Ensuite, Gohda prit le combiné...‖et Krauss lui fit promettre de bien veiller sur les enfants, en adulte responsable.
+239211|...Le visage couvert de sueur froide, Gohda répéta "Oui, Monsieur, oui, Monsieur !" d'une voix beaucoup trop tendue.
+239217|Puis ce fut au tour de Kyrie de prendre le combiné et de parler avec Battler ; quand Shannon et Kanon prirent la ligne, George et Jessica leur répondirent.‖  Sur cette lancée, Nanjo et Kumasawa s'y mirent aussi, si bien que tous, d'un côté comme de l'autre, prirent le combiné à tour de rôle,‖ s'assurant que chacun était sain et sauf pour l'instant, même si l'on ignorait où ils se trouvaient, s'encourageant les uns les autres et mettant en commun tout ce qu'ils savaient de leur situation respective.
+239221|Ils auraient voulu parler sans fin, mais l'heure n'était pas aux bavardages.
+239222|Krauss annonça qu'ils allaient raccrocher pour le moment, et ceux de la maison d'hôtes acquiescèrent.
+239229|"S'il se passe quoi que ce soit, nous rappellerons.‖  Restez près du téléphone pour pouvoir décrocher tout de suite.‖  Encore une fois, soyez prudents.‖  Ne faites surtout rien d'inconsidéré... !"
+239236|"...O-Ouais, j'ai compris...‖  Rien que de savoir que toi et...Kanon-kun et les autres, vous êtes sains et saufs, ...c'est déjà ça de gagné...‖  ...On va faire de notre mieux.‖  Vous aussi, restez en vie... !"
+239240|"Oui, bien sûr.‖  Bon, je raccroche pour l'instant.‖  Restez sur vos gardes."
+239244|Sur ces mots, la conversation prit fin.
+239258|Gohda et les autres hommes descendirent en hâte au rez-de-chaussée, fermèrent les volets et verrouillèrent solidement les portes.
+239264|Cependant, comme Krauss l'avait craint, il n'y avait rien à faire pour la superbe et vaste baie vitrée du salon du rez-de-chaussée.
+239267|Si quelqu'un la brisait, il pourrait entrer sans peine.
+239270|Pour quelqu'un comme Kinzo, qui n'hésitait plus à tuer, envahir le rez-de-chaussée ne serait pas bien difficile.
+239278|"...Il est probable que Grand-père et ses complices soient armés.‖  Nous enfermer dans notre chambre est la meilleure solution, et c'est même la seule barricade que nous puissions dresser.‖  ...C'est dur de n'avoir d'autre choix que de nous claquemurer nous-mêmes dans une pièce close, mais si l'ennemi a des armes à feu, c'est le seul moyen qu'il nous reste."
+239285|"J-J'ai entendu dire que le Maître possède une collection d'armes à feu en état de marche.‖  ...C'est ça, une arme, c'était une arme à feu...
+239290|  Dans ce cas, ...ce doit être une arme d'une puissance effroyable... !‖  N-Nous ne pourrons jamais lui tenir tête... !"
+239298|"......Il faut une force terrible pour faire éclater la tête de quelqu'un, pas vrai ?‖  Alors c'est peut-être une balle de magnum, ou un truc de ce genre.‖  Un truc pareil traverserait sûrement une porte fragile sans problème."
+239306|"Dans ce cas, raison de plus pour se retrancher dans la chambre...‖  Dressons un lit contre la porte, et bouchons aussi la fenêtre.‖  ...Si on va jusque-là, ils auront beau avoir des armes, ils ne devraient pas pouvoir faire irruption."
+239315|"Merde, ...on peut rien faire d'autre que se défendre et encaisser.‖  ...Bon sang, achever mon père, et en plus capturer Kyrie-san,
+239317|...tu vas me le payer cher, sale vieux schnock... !"
+239325|"I-I-I-Impossible, nous ne pourrons jamais rivaliser avec eux... !!‖  Et puis, il n'y a pas que le Maître, il a aussi ses sbires !‖  I-Il y en a peut-être même encore d'autres... !‖  ......Mais qu'est-ce que...c'est que ces gens-là... ?"
+239330|Battler brûlait d'envie de venger Rudolf...‖et de foncer hors d'ici pour sauver Kyrie.
+239333|...Mais rien qu'à voir la terreur de Gohda, il ne doutait pas que ce serait de la folie...
+239340|"...Toi aussi, ça doit te ronger, ...pas vrai, Aniki ?
+239345|  Et pourtant, faut rester terré ici, ...bon sang..."
+239353|"Bien sûr, moi aussi, ça me ronge.‖  Je ne peux pas rester calme alors qu'on a assassiné mes deux parents.
+239358|  Mais justement, c'est pour ça que je dois rester calme !‖  Tu crois que nos parents morts voudraient qu'on perde la vie pour rien ?‖  Sûrement pas !‖  Ils voudraient qu'au moins leurs enfants s'en sortent.
+239363|"Alors je survivrai.‖  Je préviendrai la police et je ferai éclater toute la vérité.‖  Je laisserai la justice s'occuper de nos ennemis.‖  Ce sera ma vengeance.‖  ...Nos parents ne voudraient sûrement pas qu'on meure en essayant de les venger.‖  Pas vrai... ?"
+239371|"...............‖  ...T'as raison...‖  C'est exactement comme tu dis...
+239376|  ...Bon sang, vieux salaud, c'est quoi cette histoire de cérémonie... ?!‖  Si on est censés servir de sacrifices pour un truc pareil, alors on s'en sortira coûte que coûte, et on te le gâchera, ton précieux rituel..."
+239384|"C'est ça.‖  ...Et puis, il te reste encore Kyrie-san, Battler-kun.‖  Et moi, il me reste encore Shannon.‖  En tout cas, soyons prudents et attendons notre chance.‖  La moindre imprudence de notre part pourrait finir par nuire à ceux qui ont été capturés."
+239391|"......Des otages, hein ?‖  ......Mais Grand-père les a capturés pour en faire des sacrifices, pas vrai ?!‖  Si on va pas les sauver, on attend juste qu'ils se fassent tuer, c'est ça ?!"
+239398|"On ne sait même pas où se trouve le cachot où ils sont enfermés... !‖  Shannon et Kanon-kun n'en savaient rien, et Gohda-san et Kumasawa-san non plus, évidemment.‖  Il y a de très fortes chances que ce soit un endroit secret que seul Grand-père connaît.‖  ...Dans ces conditions, errer au hasard serait quasiment du suicide !"
+239406|"...J-Je sais bien...
+239411|...Mais quand même, ...bon sang, ...tu veux dire que tout ce qu'on peut faire, c'est rester enfermés ici en attendant qu'il se passe quelque chose... ?"
+239419|"......B-Battler-sama, je comprends ce que vous ressentez, mais...‖...faisons passer la sécurité avant tout...
+239424|  ...D'après ce que disait Krauss-sama, il s'agit d'une cellule assez ancienne,‖ et ils pourraient bien réussir à briser les barreaux d'une façon ou d'une autre.‖  ...Pour le moment, le plus sage est de leur faire confiance et d'attendre."
+239432|"Grand-père a plusieurs sbires, et ils sont tous armés, c'est bien ça... ?"
+239441|"...O-Oui, c'est cela.‖  ......Et ils sont sans doute...
+239443|tous armés..."
+239450|Gohda avait pu dire que Kinzo avait des complices, ‖...mais il n'avait pas pu ajouter que c'étaient surtout des jeunes femmes, comme des sorcières, ...qui avaient tué à l'aide d'une étrange magie.
+239453|S'il l'avait dit, on aurait seulement douté de sa santé mentale.
+239456|...Non, pire encore, lui-même ne comprenait toujours pas ce qu'il avait vu, et doutait de sa propre raison.
+239460|...Mais peu importait leur sexe ou leur apparence, ...peu importait que ce soit par la magie ou par une arme à feu.
+239463|Que ces filles aient obéi aux ordres de Kinzo......‖et tué six personnes en un instant...restait une vérité inébranlable...
+239466|Si cette bande venait aussi attaquer la maison d'hôtes, ...que se passerait-il ?
+239467|Fermer simplement portes et fenêtres comme ils l'avaient fait ne servirait sûrement à rien...
+239483|Gohda...et Kumasawa...
+239486|Ces deux-là, qui avaient assisté au massacre de la salle à manger,‖ ne pouvaient rien faire d'autre que se prendre la tête entre les mains, sans savoir comment interpréter ce qu'ils avaient vu...
+239492|"......Kumasawa-san, ça va... ?‖  Tu veux du thé... ?"
+239499|"H-Ho ho ho ho ho...‖  Merci beaucoup, merci...‖  ...Pardonnez-moi, mais pourriez-vous me laisser un peu seule avec mes pensées...... ?"
+239504|Maria essayait d'être gentille, mais Kumasawa ne semblait toujours pas remise de son trouble.
+239510|"...Maria, merci d'être aussi attentionnée.‖  Laissons Kumasawa-san se reposer pour l'instant."
+239517|"...Uu-."
+239521|Jessica aussi s'inquiétait du choc que ces deux-là avaient dû subir en assistant à une telle tragédie, ‖...mais même dans ses rêves les plus fous, elle n'aurait pu imaginer la scène incroyable dont Kumasawa avait été témoin...
+239526|Pourtant, avec sa mère assassinée et son père captif,‖ Jessica non plus ne pouvait pas rester calme.
+239529|Elle étouffait son angoisse et sa tristesse sous sa colère envers Kinzo...et arpentait la pièce, à cran.
+239541|"......Kumasawa-san,
+239546| Maman est vraiment......morte ?"
+239552|"...O-Oui...‖  ...Jamais je n'avais vu...une mort aussi horrible..."
+239563|"Est-ce qu'il se pourrait qu'elle soit encore en vie...
+239565|...et que si on la soigne,
+239567|...on puisse la sauver... ?"
+239582|"...............‖...Q-Quand on a la tête dans un état pareil......on ne peut pas survivre..."
+239591|"..................‖...Ouais, t'as raison...‖  ...On n'a pas besoin de premiers soins...
+239593|quand on a la tête en miettes, normalement..."
+239601|Quand Gohda s'était précipité dans la maison d'hôtes,‖ submergé par l'émotion, il avait raconté le massacre de la salle à manger sans rien cacher.
+239604|...Sauf ce qui concernait les sorcières et la magie, à quoi eux-mêmes ne parvenaient toujours pas à croire.
+239607|Autrement dit, il n'avait même pas adouci la façon atroce dont Natsuhi et les autres étaient morts.
+239610|...C'était trop tard à présent, mais Kumasawa regrettait qu'ils en aient de toute évidence trop dit...
+239613|Pourtant, Jessica secoua légèrement la tête et, d'un rire un peu douloureux, déclara :
+239619|"...En fait, c'est grâce à ce que vous nous avez dit que j'ai pu garder la tête froide.
+239624|  ......Si vous n'aviez pas parlé de sa tête fracassée, ‖...j'aurais cru qu'elle était peut-être encore en vie.‖  Et alors j'aurais foncé au manoir, je serais tombée sur Grand-père, ...et je me serais peut-être fait tuer.‖  ...Ce fil d'espoir aurait pu m'être fatal, au bout du compte.‖  ......Alors je vous suis reconnaissante."
+239631|"...Je suis vraiment désolée...‖  Pardonnez-nous de ne pas avoir mieux choisi nos mots..."
+239637|"T'en fais pas pour ça maintenant.‖  On peut plus rien pour Maman, ...mais Papa est encore en vie.‖  Kanon-kun et Shannon aussi, et Tante Kyrie et le docteur Nanjo.‖  ...Je veux les sauver d'une façon ou d'une autre, alors on ne doit rien faire d'inutile qui pourrait leur compliquer les choses.‖  Ce qu'on peut faire de plus utile pour l'instant, c'est peut-être d'attendre près du téléphone."
+239642|Il se pouvait qu'on les appelle pour leur demander de créer une diversion pendant que les autres s'échappaient.
+239643|Ou bien les autres découvriraient peut-être où ils se trouvaient et les appelleraient à l'aide.
+239646|...Jessica comprenait que, pour agir rapidement le moment venu, la seule chose à faire pour l'instant était d'attendre dans cette chambre...
+239661|Une fois l'inspection du rez-de-chaussée et la fermeture des portes terminées, George, Battler et Gohda revinrent.
+239662|Chacun avait les bras chargés de diverses choses.
+239666|George rapportait des boissons, des conserves, des crackers et d'autres en-cas trouvés dans le salon et dans une réserve, ainsi qu'une trousse de secours.
+239669|Que des provisions indispensables pour soutenir un siège.
+239673|Gohda avait une grande échelle pliante et des outils de menuiserie.
+239677|C'était pour condamner la porte de l'intérieur, au cas où.
+239678|En cas de besoin, l'échelle servirait à s'enfuir par la fenêtre.
+239684|Battler avait monté des objets pouvant servir d'armes, tranchantes ou contondantes.
+239690|Outre l'inévitable couteau de cuisine, il y avait un pied de table démonté qui pouvait servir de gourdin...‖et une perche à peu près de la taille d'un homme, qu'il avait apparemment fabriquée en démontant un portemanteau.‖  Même sans pointe, elle pourrait sûrement servir de lance.
+239696|...Il y avait de fortes chances que l'ennemi soit armé, aussi était-il douteux que tout cela serve à quoi que ce soit.
+239699|Mais c'était toujours mieux que rien, et si ces objets pouvaient leur apporter ne serait-ce qu'un peu de tranquillité d'esprit, leur effet apaisant serait déjà utile.
+239707|Puis le lit et le canapé furent dressés contre la porte pour la barricader.
+239711|Ils n'allèrent pas jusqu'à la condamner avec des clous.
+239712|...Il restait une chance que Krauss et les autres s'échappent et viennent les rejoindre.
+239717|Ils avaient apparemment aussi dressé une barricade en haut de l'escalier.
+239718|Elle était disposée de manière à faire un vacarme, si bien qu'elle servirait aussi d'alarme.
+239719|C'était apparemment une idée de Battler.
+239726|Pour cette raison, ils éteignirent la télévision.
+239727|......Ainsi, si la vitre du rez-de-chaussée venait à être brisée, ils l'entendraient.
+239730|Une fois le poste éteint, il ne resta plus qu'un silence inquiétant.
+239742|...Le bruit du vent et de la pluie qui se déchaînaient.
+239743|Allaient-ils devoir passer toute la nuit écrasés par une telle angoisse ?
+239746|Le bateau devait venir les chercher demain matin.
+239749|Cependant, à en juger par la météo, le typhon allait couvrir l'essentiel de la journée de demain, et le bateau ne viendrait sans doute pas.
+239752|...Le typhon devait passer dans la matinée du surlendemain.
+239755|Autrement dit, le bateau arriverait le surlendemain matin, ...le matin du 6 octobre.
+239758|Et en ce moment, c'était la nuit du 4 octobre, tard.
+239761|......Ils allaient devoir passer plus de trente heures sur cette île,‖ où rôdaient Kinzo, devenu un assassin sans pitié, et ses étranges compagnons...
+239772|Même avec les volets fermés, un peu de lumière filtrait sûrement à l'extérieur.
+239773|Cela pouvait révéler à l'ennemi qu'ils se cachaient ici.
+239778|...Battler suggéra qu'il vaudrait peut-être mieux éteindre les lumières.
+239781|Mais rien qu'en éteignant la télévision, ils avaient déjà été submergés par une impression sinistre.
+239784|...Personne ne s'opposa franchement à sa proposition, mais personne non plus ne l'approuva......
+239791|"...Uu-.‖  On peut pas regarder la télé ?"
+239798|"Non, désolé, mais il va falloir t'en passer.‖  ...On peut pas se permettre de rater le bruit de l'ennemi qui entre par effraction."
+239805|"............‖...C'est nul."
+239813|Bien qu'on lui ait annoncé la mort de sa mère, Maria était la seule à ne pas sentir le danger approcher.
+239814|Elle semblait juste contrariée qu'on ait éteint la télévision.
+239818|......Même face à une situation aussi anormale, elle n'arrive pas à partager notre sentiment de danger ?
+239819|...Est-ce parce qu'elle est si jeune ?
+239822|Aux yeux de Battler, même ce léger malaise venant d'une si petite fille lui donnait l'impression que Maria avait quelque chose de profondément inquiétant...
+239845|"Cela dit,‖ ......nous avons déjà épuisé toutes nos options.‖  Vous pensez pouvoir faire quelque chose contre ces barreaux ?"
+239851|"...Malheureusement, ils sont plus solides que prévu.
+239856|  J'ignore quand ils ont été posés, mais côté durabilité, rien à redire.‖  Une construction vraiment de premier ordre."
+239864|Kyrie eut un petit rire.
+239865|...Ils n'avaient plus aucun coup à jouer, mais l'atmosphère s'était un peu détendue.
+239872|"...Cet endroit ressemble à la réserve où l'on pose les pièces prises aux échecs.‖  ...Alors, il ne nous reste plus aucun coup à jouer... ?"
+239879|"Pas encore.‖  Il est trop tôt pour abandonner.‖  Arrêter de réfléchir, c'est comme arrêter de respirer, non ?"
+239887|"Exactement.‖  ...Aux échecs, les pièces prises ne servent plus à rien, mais au shogi, elles peuvent avoir un rôle décisif.
+239892|  Un seul pion capturé peut suffire à mettre l'adversaire sous pression."
+239900|"Je vois...‖  Mais tout de même, on ne peut rien faire contre ces barreaux..."
+239907|"Nous, peut-être pas.‖  ......Mais si nous découvrons où nous sommes et que nous prévenons Gohda-san, il pourrait venir nous délivrer."
+239914|"Je vois...‖  Mais cela reviendrait à mettre Gohda-san en danger...
+239919|  Et dans ce cas, je m'inquiéterais aussi pour les enfants de la maison d'hôtes, qui se retrouveraient sans un seul homme adulte..."
+239927|"Quand on craint le risque, il n'y a pas de mal à conserver ses titres en attendant que le cours remonte.
+239932|  ...En revanche, à trop craindre de couper ses pertes, on risque de se retrouver avec un vulgaire bout de papier.‖  ...Sauf qu'ici, ce sont nos vies qui sont en jeu."
+239939|"Et notre dignité de parents, n'est-ce pas ?‖  Après avoir joué les fiers au téléphone en leur disant de rester sages parce que nous allions nous débrouiller seuls, nous ne pouvons pas appeler au secours dans la foulée.‖  Ce serait vraiment peu glorieux.‖  *gloussement*."
+239945|"À ce stade, il y a longtemps que j'ai jeté ce genre de fierté inutile.
+239950|  ......Et si nous mettions nos idées en commun ?‖  Où sommes-nous ?‖  Est-ce vraiment sous la salle à manger ?‖  Ou bien est-ce un tout autre endroit, à l'écart du manoir... ?"
+239955|Krauss, Kyrie et Nanjo se mirent à en discuter plus avant.
+239968|Kanon était accroupi près des barreaux, guettant en silence la moindre présence.
+239971|...Comme on le lui avait ordonné.
+239976|Shannon s'approcha de lui, et ils restèrent tous deux accroupis côte à côte.
+239982|"......Tu sens quelqu'un ?"
+239991|"......Oui.‖  ...Ils ne font pas attention à nous, mais il y a quelqu'un assez près d'ici."
+239998|"Un Humain... ?"
+240004|"......Je pense que ce sont les chèvres.‖  Elles respirent plutôt bruyamment."
+240009|La capacité de Kanon à sentir la présence d'autrui surpassait de loin celle d'un Humain.
+240010|Il disait que leur respiration était bruyante, mais Krauss et les autres n'en auraient pas perçu le moindre souffle.
+240013|...C'est pourquoi, s'il l'avait rapporté docilement, ils n'auraient fait que douter des oreilles de Kanon.
+240021|".........Ils nous ont eus, hein ?"
+240028|"............‖...C'est rare.‖  Qu'on nous capture sans nous tuer."
+240036|"Cette fois, Beatrice-sama ne s'est pas montrée.‖  Et le Maître a quitté son bureau.‖  ...Je n'y comprends plus rien..."
+240044|"Je sais.‖  ......Quoi qu'il arrive, quoi qu'il change, tout n'est qu'un divertissement pour les caprices de cette sorcière.‖  Au bout du compte, rien ne changera."
+240052|"Je me demande si cette fois......on pourra aller à la Terre dorée."
+240059|"Qui sait.‖  On a un fort taux d'élimination."
+240071|"......Maintenant que j'y pense, c'est vraiment rare qu'on survive tous les deux au premier crépuscule.‖  ...J'ai l'impression que c'est très inhabituel de pouvoir parler ensemble comme ça alors que la cérémonie a déjà commencé."
+240079|"Peut-être.‖  ...Mais ça aussi, je parie que c'est pour l'amusement de la sorcière.‖  Comme on est toujours éliminés dès le début, elle nous laisse vivre un peu plus longtemps pour se moquer de nous, je ne vois pas d'autre explication."
+240087|"Je me demande......si on ne pourra pas atteindre la Terre dorée cette fois encore."
+240094|"Sûrement pas.‖  ...Si on se raccroche à un espoir idiot, elle en profitera encore."
+240103|"*gloussement*‖  C'est vrai.‖  La dernière fois, c'est de toi qu'elle a profité, hein ?"
+240110|"...Je suis un idiot."
+240115|Kanon fit la moue et détourna la tête.
+240121|Shannon eut un petit rire et, comme pour s'excuser, se blottit contre son épaule.
+240125|"Mais...je suis contente que Mademoiselle soit saine et sauve."
+240132|"...Elle a seulement échappé au premier crépuscule.‖  ...Elle attend peut-être juste une mort encore plus cruelle pour plus tard.
+240137|  Et toi, Nee-san ?‖  ...Tu n'es pas contente que George-sama soit sain et sauf ?‖  Ce serait bien que vous puissiez atteindre la Terre dorée tous les deux."
+240143|"......Merci.‖  Je vous souhaite la même chose, à toi et à Mademoiselle."
+240150|"J-Je n'espérais rien de ce genre.‖  ...C'est comme tu dis.‖  Cette sorcière ne fait que s'amuser, à faire miroiter des récompenses et à regarder les gens s'agiter en vain pour les obtenir.‖  ......Personne ne pourra aller à la Terre dorée, c'est sûr.‖  ...Si je souhaite atteindre la Terre dorée avec Mademoiselle, ‖...ça va l'amuser...et elle ne nous laissera certainement jamais y arriver."
+240157|"...Tu as raison.‖  ......Beatrice-sama réfléchit à l'ordre des sacrifices qui sera le plus intéressant."
+240163|"Cette histoire de victimes choisies au hasard, c'est un mensonge éhonté.‖  Cette sorcière d'escroc...‖  ...Toute cette histoire de souhait exaucé, quel qu'il soit, à la Terre dorée, c'est sûrement un mensonge, ça aussi."
+240169|".........Ce n'est pas vrai.‖  La Terre dorée, c'est...un endroit merveilleux."
+240175|"Tu y es déjà allée ?"
+240181|"......Juste un tout petit peu.‖  Même si ce n'était sans doute qu'un caprice de Beatrice-sama."
+240187|".........C'est comment, là-bas ?"
+240197|"Eh bien,‖ ......c'est un endroit merveilleux.‖  ...Je n'arrive pas vraiment à l'expliquer.‖  C'est comme un monde tiré d'un rêve paisible."
+240206|"Un endroit paradisiaque, avec des roses épanouies partout et de beaux papillons qui virevoltent, un truc de ce genre ?"
+240214|"...Ce n'est pas un endroit qu'on peut se représenter concrètement comme ça.‖  C'est vraiment comme l'intérieur d'un rêve.‖  Quand on y est, tout est très doux, très paisible, ‖...et on a le droit de dormir aussi longtemps qu'on veut, comme quand on se réveille tôt un jour de congé, blottie sous la couette."
+240217|"...La lumière du soleil filtre entre les rideaux, et on se dit qu'il va falloir se lever,‖ et puis on se rend compte que c'est un jour de congé, et qu'on peut se rendormir...  C'est un endroit où l'on ressent ce genre de chose."
+240225|"Moi, je trouverais ça du gâchis.‖  Se réveiller par erreur un jour de congé, il n'y a que toi pour faire ça, Nee-san.‖  ......Et alors ?"
+240231|"Eh bien,‖ quand j'y étais, je me sentais comblée et très sereine.‖  Mais quand je suis revenue dans ce monde, alors que j'y étais encore une seconde plus tôt, je n'arrivais plus à bien m'en souvenir.
+240236|  C'est comme quand on n'arrive pas à se rappeler un rêve qu'on vient de faire.‖  ...Mais je me souviens quand même que c'était un monde très paisible et silencieux."
+240242|"......C'est tout ?‖  Ben ça alors, cette Terre dorée dont elle se vante tout le temps n'a rien d'extraordinaire.‖  ...Je croyais que c'était un endroit où tous les vœux se réalisaient."
+240249|"C'est exactement ça.‖  C'est un endroit où tous les vœux sont exaucés.‖  ......Enfin, ce n'est peut-être pas tout à fait ça.‖  Il vaudrait peut-être mieux dire que c'est un endroit où l'on n'a plus besoin de rien souhaiter."
+240254|"...Par exemple, Kanon-kun, si tu avais froid et que tu souhaitais avoir une veste, tu serais heureux qu'on t'en donne une,‖ mais si tu étais dans une pièce chaude dès le départ, tu n'aurais même aucune raison de vouloir une veste, pas vrai ?"
+240259|"...La Terre dorée, c'est comme ça.‖  La plupart des souhaits, on n'a même plus besoin de les formuler.‖  C'est un monde où tout est paisible."
+240264|"On pourrait même dire que c'est un endroit qui dépasse l'idée qu'on est heureux quand ses vœux sont exaucés, ...un monde libéré de tout."
+240271|"............‖...On dirait un peu un monde religieux."
+240278|"Et là-bas, tout est égal.‖  Tout ce qui est doué de pensée est égal.‖  ...Il n'y a ni Humains, ni meubles, ni sorcières.‖  ...Là-bas, j'étais l'égale de tout le monde.‖  Je n'avais plus à avoir honte d'être un meuble."
+240283|"......C'était vraiment un monde heureux, où j'étais l'égale de tous les Humains, et même des sorcières.‖  Je ne m'en souviens pas très bien,‖ mais j'ai l'impression que là-bas, j'étais même l'égale de Beatrice-sama, et qu'on était de bonnes amies."
+240290|"......Si cette sorcière y est, ça ne peut pas être un vrai paradis.
+240295|  ......Bref, tu veux aller dans cette Terre dorée avec George-sama.‖  C'est bizarre.‖  La Terre dorée est une utopie où l'on est comblé en tout, non ?‖  Tu n'y serais pas satisfaite même sans George-sama ?"
+240302|"............‖...La Terre dorée est très paisible, sereine, et tout y est égal.‖  ...Mais en fait, il n'y manque qu'une chose : le bonheur."
+240308|"Ce n'est pas un monde heureux ?"
+240315|"Bien sûr, rien que parce qu'il est paisible, serein et équitable, c'est un monde incroyablement heureux.‖  ...Mais disons que c'est un monde zéro, où l'on est libéré de tous les soucis, qui sont des valeurs négatives.‖  Le monde des humains est rempli de négatif, alors un monde à zéro est évidemment un immense bonheur, ...mais ça reste zéro.‖  *gloussement*  C'est un problème de luxe, hein ?"
+240318|"...C'est un peu comme ça.‖  Quand on somnole un paisible matin de congé,‖ ...si la personne qu'on aime le plus est à côté de nous et nous tient la main, alors ça peut devenir un bonheur encore plus grand, encore plus merveilleux, ...quelque chose comme ça.‖  ...Pardon, ta Nee-san est trop bête pour trouver de bonnes comparaisons."
+240326|"...Autrement dit,‖ pour toi, le plus grand bonheur, ce serait d'atteindre ce monde avec George-sama."
+240332|"Oui.‖  Et pour toi, ce serait sûrement de l'atteindre avec Mademoiselle."
+240339|"On serait libérés de nos soucis dans un monde équitable... ?‖  ......On dirait une espèce de religion bizarre.
+240344|  Moi, j'ai l'esprit plus terre à terre.‖  J'imaginais plutôt un monde où on nous donnerait un remède magique pour renaître en Humains, un truc dans ce goût-là."
+240351|"......Si tu y vas, tu comprendras.‖  Si Beatrice-sama est vraiment aussi capricieuse, alors un jour, elle te laissera sûrement l'entrevoir toi aussi.‖  ...Alors, tu comprendras ma comparaison."
+240358|"..................‖Bon, je ne vais pas trop y compter.‖  ...De toute façon, on dirait que pour nous, c'est déjà game over cette fois-ci.‖  J'espère avoir une autre chance."
+240365|"...Tu as raison.‖  Si on se raccroche à des espoirs trop ambitieux, Beatrice-sama en profitera.‖  ...Le mieux, c'est peut-être d'arrêter de réfléchir...et de s'en remettre au destin."
+240372|"......On n'a qu'à être de simples pièces d'échecs.‖  ...Qu'on réfléchisse ou non, on ne peut pas échapper à l'échiquier de la sorcière.‖  Notre rôle, maintenant, c'est juste d'attendre de voir comment on va être torturés à mort.‖  ...Pour nous, le rêve de la Terre dorée est bien trop creux."
+240378|".........Tu as...raison.‖  ...Pardon..."
+240382|Kanon haussa les épaules, puis dit à Shannon de le laisser tranquille parce qu'elle le gênait dans sa tâche, et s'éloigna d'elle.
+240385|Comprenant son étourderie d'avoir abordé un sujet aussi déplacé, qui n'avait fait que blesser Kanon,‖ Shannon se mordit la lèvre inférieure et baissa les yeux...
+240391|Shannon ne l'importuna pas davantage.
+240392|Elle alla s'accroupir seule dans un coin.
+240405|"............Nn-"
+240414|À cet instant, Kanon dressa l'oreille.
+240415|On aurait dit les oreilles d'un chat réagissant à un bruit étrange.
+240423|"Qu'est-ce qu'il y a ?"
+240430|"...Chut.
+240438|  ......Krauss-sama, quelqu'un arrive."
+240448|"Quoi ?!"
+240456|Ils interrompirent leur conversation et tendirent l'oreille.
+240459|...Pendant un moment, ils n'entendirent rien,‖ mais finalement, ils perçurent le bruit des pas traînants d'un groupe nombreux...
+240468|"...Les voilà donc."
+240474|"L'heure de payer la note a sonné, ou alors c'est notre première et dernière chance."
+240482|"......Je vais parler à Kinzo-san.‖  ...J'essaierai de découvrir où nous sommes, d'une manière ou d'une autre."
+240489|"Nous comptons sur vous.
+240494|  ..............."
+240502|Lors du dernier appel, Kyrie avait demandé l'heure qu'il était du côté de la maison d'hôtes.
+240505|...Elle avait ainsi appris que c'était la même heure qu'à sa montre, et donc que leurs montres n'avaient pas été retardées.
+240509|Il n'y avait pas que les pendules murales de la maison d'hôtes.
+240510|Les montres de plusieurs personnes, dont celles de George et de Gohda, concordaient.
+240513|...Si c'était le cas,‖ alors seules quelques minutes s'étaient écoulées entre le massacre de la salle à manger et le moment où ils avaient été transportés dans le cachot.
+240516|Pas assez de temps pour les assommer et les transporter.
+240520|Alors était-ce vraiment des trappes, et se trouvaient-ils juste sous la salle à manger... ?
+240521|Tout ce qu'ils pouvaient faire, c'était prier pour que Nanjo parvienne à découvrir où ils étaient...
+240530|"...Ils arrivent.‖  Ils sont sans doute...quatre.‖  ...Le Maître...et trois de ceux qui sont apparus dans la salle à manger."
+240537|"Cela suffit.‖  Toi aussi, recule.‖  Nous nous occuperons du reste."
+240545|"Shannon-chan, désolée, mais tu veux bien t'asseoir près du téléphone ?‖  Cache-le avec ta jupe."
+240553|"Ah, ...oui... !"
+240565|Le bruit de pas se rapprocha, ...et on entendit une lourde porte s'ouvrir au bout du couloir.
+240568|La lumière qu'ils portaient apparemment éclaira le couloir, caressant les murs d'ombres aussi tranchantes que des rasoirs.
+240578|Puis la lueur de la lanterne qu'ils tenaient éclaira les prisonniers à travers les barreaux.
+240579|...Les ombres acérées des barreaux les découpaient en tranches verticales.
+240583|Il y avait quatre silhouettes.
+240584|......C'étaient Kinzo, ......Ronove, Virgilia et Gaap.
+240594|"Silence, je vous prie.‖  Veuillez accueillir le chef de la famille Ushiromiya, Sire Goldsmith."
+240603|"......Goldsmith ?"
+240611|"C'est le nom de plume de Père.‖  Il semble qu'il signe toujours ainsi quand il écrit ses grimoires douteux."
+240618|"`Kinzo' à l'anglaise ?‖  Ça ne devrait pas plutôt être Gold Warehouse ?"
+240631|"......Hahhahahahahahahahahaha.‖  Un warehouse n'est qu'un entrepôt, où l'on se contente d'entasser.‖  Mais moi, je fais naître l'or, et je le travaille de mes mains pour en accroître encore la valeur.‖  Ne trouves-tu pas que `smith', l'orfèvre, me sied bien mieux ?"
+240638|"......C'est juste.‖  Pardonnez mon intervention."
+240646|"Kinzo-san, ‖...que se passe-t-il, enfin ?‖  Où sommes-nous donc... ?"
+240653|"Allons, mon ami,‖ vous ne vous en souvenez pas ?
+240659|  Certes, vous n'êtes sans doute jamais entré dans cette geôle, mais vous devez vous souvenir d'avoir parcouru ce couloir."
+240668|"......Hein,
+240670|......hein ?‖  ......V-Vous ne voulez pas dire......"
+240677|"...Vous avez une idée ?"
+240683|"Mais, enfin, ......c'est impensable.
+240689|  ...D'abord, nous sommes tombés dans une trappe, et nous nous sommes retrouvés enfermés ici en quelques minutes à peine...‖  ...Non seulement la distance est bien trop grande, mais c'est physiquement impossible..."
+240701|"Pour un Humain, oui.‖  *gloussement*."
+240709|"Père, ...sommes-nous dans le manoir ?‖  Dire que le manoir avait un sous-sol pareil..."
+240716|"Kraaauss,‖ n'y avait-il pas un lieu dont vous chuchotiez tous l'existence, et que vous avez tenté de trouver en me suivant à plusieurs reprises ?
+240722|  ......C'est ici.‖  Non, pour être exact, c'en est le sous-sol.‖  *ricane*ricane*... !"
+240734|"Cet endroit serait-il......le sous-sol...
+240736|...de Kuwadorian... ?!"
+240751|"...Brillante déduction.‖  Nous sommes bien dans le sous-sol de Kuwadorian."
+240759|"Kuwadorian...‖  ...Ne me dites pas que c'est...le manoir caché de Père dont on parlait... ?‖  Il existe vraiment... ?"
+240768|"Ce manoir a été bâti à l'usage exclusif de ma sorcière bien-aimée, Beatrice.‖  C'est vraiment dommage que je ne puisse pas vous guider dans les parties en surface, car c'est une demeure magnifique et raffinée."
+240776|"......Charmant, d'être seuls tous les deux dans un manoir doté d'une prison comme celle-ci.
+240781|  Je crois que les goûts de Père sont un peu trop pour moi."
+240791|"...Kyrie-san,‖ ...il serait peut-être plus sage de vous abstenir de remarques aussi impolies."
+240800|"*gloussement*‖  Mais je suis d'accord.‖  ...Si on m'offrait un manoir avec un cachot pareil,‖ même un amour vieux de cent ans s'envolerait d'un coup, et je filerais en emportant tout ce qui a de la valeur."
+240808|"Pu ku ku.‖  Tiens donc, ce genre de chose ne vous intéresse pas ?
+240813|  Moi qui croyais que vous en raffoliez."
+240821|"Hé hé.‖  ......Bien sûr que j'en raffole.‖  Par exemple si on m'offre un collier pour mon anniversaire, ce genre de truc.
+240827|  ...Mais seulement s'il est canon."
+240841|"Pu ku ku ku ku !"
+240849|"Silence !‖  ...Peut-être vous faudrait-il un bâillon plutôt qu'un collier ?"
+240857|"Oh, ça aussi, ça te plaît ?‖  T'es vraiment pas difficile, Lia.‖  *gloussement*..."
+240866|"N-Ne raccourcissez pas le nom des gens comme bon vous semble... !"
+240874|"Assez, femmes bruyantes !‖  Voulez-vous donc être enfermées dans la même cellule ?"
+240881|"J-Je vous demande pardon, Maître...‖  Ma vieille carcasse ne supporterait pas une prison aussi froide..."
+240886|Virgilia s'excusa aussitôt, mais Gaap et Ronove se contentèrent d'en rire ensemble.
+240889|Comme s'ils pensaient être les seuls que l'on ne pouvait emprisonner,‖ ou bien que, même si l'on essayait, cela ne servirait à rien...
+240899|"Une prison est un lieu d'où le captif ne peut s'échapper.‖  Elle traduit une volonté farouche et un amour qui refusent de le laisser partir, sa vie durant.‖  Une femme à laquelle on pourrait renoncer si elle s'enfuyait ne mérite même pas qu'on lui parle d'amour."
+240904|"Une femme qui vous rend fou au point de ne pas vouloir la laisser fuir, au point de l'enchaîner...‖  C'est parce qu'elle en valait la peine qu'elle était un amour digne que je lui sacrifie ma vie.‖  ......Je ne te demande pas de comprendre."
+240911|"......Personne ne peut m'enchaîner, je ne me laisserai pas enchaîner.‖  Je ne veux pas être aimée, je veux aimer.
+240916|  Je suis comme Goldsmith.‖  C'est pour ça que je comprends la folie de ton amour."
+240925|"L'amour et la folie sont les deux faces d'une même pièce, à ce qu'on dit.‖  Quelle plaie."
+240933|"......Mais avoir appris aussi facilement où nous sommes, c'est un grand pas.
+240938|  Vous nous expliquerez en détail plus tard, mais il semble que vous connaissiez cet endroit, ...n'est-ce pas, docteur Nanjo ?"
+240948|"O-Oui...‖  ...Si ce couloir est le passage souterrain sous Kuwadorian, ‖...alors en le suivant tout droit, il devient un long tunnel,
+240950|...et en continuant, nous devrions pouvoir retourner au manoir."
+240957|"...Donc, si seulement nous pouvions venir à bout de ces barreaux, nous pourrions rentrer."
+240969|"Père...‖  Que comptez-vous faire de nous ?"
+240976|"Comme je l'ai déjà déclaré, vous serez les sacrifices des crépuscules suivants.‖  Vous êtes justement cinq ici.‖  Pile le nombre d'otages qu'il faut pour les cinq victimes à transpercer."
+240984|"...Je vois.‖  ...L'heure de payer la note a donc sonné pour nous ?"
+240992|"Le moment venu.‖  Mais ce n'est pas pour cela que je suis venu vous voir cette fois, alors détendez-vous.
+240997|  Et puis, je crois l'avoir déjà dit.‖  ...Si l'un de mes petits-enfants est jugé digne d'hériter de tout ce qui est à moi, la cérémonie sera interrompue.‖  Autrement dit, vos vies seront épargnées."
+241005|"...Q-Que comptez-vous faire aux enfants ?"
+241012|"Je vais leur faire passer un test.‖  Un test pour voir s'ils sont dignes ou non d'être le successeur.‖  Si un seul d'entre eux parvient à m'impressionner, j'interromprai la cérémonie."
+241022|"......Et s'il n'y en a aucun de digne,
+241024|...que comptez-vous faire des enfants ?"
+241036|"*ricane*ricane*ricane* !‖  Inutile de t'en soucier.‖  De toute façon, c'est vous qui serez sacrifiés en premier.‖  En quoi ce qui se passera ensuite pourrait-il vous concerner ?‖  Confiez votre destin à vos propres enfants.‖  ...Vos enfants, le fruit de tout ce que vous avez mis au monde, enseigné et élevé.‖  Ils devraient être les plus dignes de se voir confier votre destin... !‖  *ricane*ricane* !‖  Ne fais pas cette tête inquiète, Kraaauss...‖  Fais confiance à cette fille dont tu te vantes qu'elle vaut dix milliards de yens.‖  Hé hé hé, hé ha ha ha ha ha ha ha... !!"
+241046|"......Exactement.
+241051|  Les enfants sont le fruit de leurs parents.‖  Il est juste que nous remettions notre destin entre leurs mains.‖  Et cela vaut aussi pour vous, Père, n'est-ce pas ?"
+241058|"...Hmph, ha ha ha ha ha !‖  Elle a du cran, cette fille, c'est du gâchis pour Rudolf !‖  Wah ha ha ha ha ha... !!"
+241070|"...Kyrie-san, ...il vaudrait mieux ne pas trop le provoquer."
+241077|"Je suis d'accord.‖  Prenons notre mal en patience pour l'instant..."
+241085|"C'est vrai...‖  ...De toute façon, nous ne sommes que des poissons sur la planche à découper.‖  Il n'y a plus rien que nous puissions faire."
+241096|"Ha, mais pour m'insulter, tu ne manques pas de vigueur.‖  Ce genre de femme ne me déplaît pas, vois-tu ?‖  Beatrice aussi était ainsi, au début.‖  *ricane*ricane*ricane* !!"
+241103|"......Maître,‖ peut-être devrions-nous revenir au sujet principal.‖  Cela fait un moment que nous nous égarons."
+241111|"Ah oui, c'est vrai.  Pardon, pardon, mon ami.‖  Bien, revenons-en à l'essentiel.‖  Pour cela, j'ai fait préparer un téléphone.
+241116|  ...Shannon, tu es bien maligne.‖  Tu n'as plus besoin de le cacher.‖  C'est moi qui l'ai fait installer.‖  *ricane*ricane*... !"
+241128|"P-Pardonnez-moi..."
+241135|"............"
+241140|Shannon se retira précipitamment, et le téléphone apparut à la lumière...
+241149|"Krauss,‖ appelle mes petits-enfants à la maison d'hôtes.‖  Annonce-leur le test...et le début de mon épreuve."
+241154|D'un geste, Ronove invita Krauss à prendre le combiné.
+241161|".........Et si je refuse ?"
+241174|"Ho ho, et qu'est-ce qui te fait croire que tu es en position de négocier ?‖  Si tu n'appelles pas, mes petits-enfants n'auront même pas leur chance.
+241179|  La famille Ushiromiya s'arrêtera ici.‖  Et je vous sacrifierai tous sur-le-champ !!"
+241187|"Vous auriez de la chance d'être sacrifiés sur-le-champ.
+241192|  ...Vous ne croyez pas que ce serait plus douloureux de voir les enfants sacrifiés d'abord, sous vos yeux... ?"
+241200|"...Ga...ap.‖  C'est le Maître qui décide de l'ordre des sacrifices.‖  Ne dites pas n'importe quoi de votre propre chef."
+241208|"Lia, tu viens d'essayer de raccourcir mon nom, pas vrai ?"
+241216|"C-Ce n'est pas vrai !
+241220|  Et je vous ai dit de ne pas raccourcir le nom des gens comme bon vous semble... !"
+241230|"...Les femmes sont vraiment..."
+241237|"Bruyantes.  Pu ku ku !"
+241273|Le cabinet que Nanjo avait ouvert, puis transmis à son fils, existait toujours à Niijima.
+241276|Le vieux médecin était le fils de Nanjo, mais il dégageait une impression bien différente.
+241282|"Je suis vraiment navré de vous dire cela alors que vous êtes venue de si loin, mais je n'ai rien de particulier à vous apprendre."
+241286|Le fils de Nanjo avait dit cela avec la plus grande froideur.
+241292|"...Depuis que l'accident survenu sur cette île a été repris par les chaînes de télévision de la manière la plus indécente,‖ même mon père, qui était le médecin et l'ami de M. Ushiromiya, a fait l'objet d'un intérêt tout à fait déplorable de la part de bien des gens.‖  Tout cela sans la moindre preuve, et ils sont même parvenus à salir tout ce que mon père avait accompli auparavant.‖  J'en éprouve aujourd'hui encore un profond ressentiment."
+241299|"......Je pense que c'est compréhensible.‖  Il m'est arrivé la même chose.‖  J'ai dû le supporter sans relâche depuis mes six ans."
+241305|"C'est vrai.‖  Pardonnez-moi."
+241309|Le médecin se rappela enfin qu'Ange aussi était une victime, exposée aux mêmes regards curieux que lui.
+241316|"Dans ce cas, vous comprenez sans doute pourquoi je ne veux plus rien avoir à faire avec cette affaire.‖  ...Ce fut un malheureux accident.‖  Les seuls à vouloir en faire tout un plat en parlant de crime, ce sont ces émissions de télévision et ces magazines irresponsables.‖  Je suis plus que las de leur attitude."
+241322|......Nanjo avait attiré l'attention parce qu'il était l'un des rares amis d'Ushiromiya Kinzo.
+241326|C'est pourquoi les chasseurs de sorcières et la presse avaient sans doute assailli avec acharnement son fils aussi, un parent survivant, pour en faire une source d'informations.
+241329|...Le médecin s'étendit longuement, critiquant la presse avec indignation.
+241336|"Je comprends tout à fait ce que vous ressentez.‖  Pour quelqu'un comme moi, qu'on a surveillée jusque dans sa vie privée,‖ et dont la vie privée, l'image et même les droits les plus élémentaires ont peut-être été bafoués,‖ c'est très facile de percevoir la colère de quelqu'un dans votre situation."
+241341|"......Et c'est justement pour ça que je veux savoir, plus que tout, ce qui s'est réellement passé dans cette affaire qui a si complètement gâché ma vie.‖  Voilà pourquoi je suis venue ici.
+241346|  ......Je suis une partie concernée, tout comme vous.‖  Ni une chroniqueuse de magazine ni une intervieweuse.‖  Je vous en prie, ne vous méprenez pas."
+241351|"Je ne suis pas venue jusqu'ici pour m'amuser.‖  ...Cessez de me regarder de haut.‖  S'il s'agit de comparer qui a eu la vie la plus brisée par cette affaire, vous ne faites pas le poids face à moi."
+241357|"......Nng, ..."
+241361|Ange avait parlé sèchement.
+241365|Le médecin, qui n'avait pas imaginé qu'on lui répondrait aussi vertement, ne put que se taire.
+241368|...Du point de vue d'Ange, le médecin ne faisait vraiment que geindre pour des broutilles.
+241372|Elle ne voulait vraiment plus qu'on la regarde de haut.
+241373|Il était temps de lui faire comprendre combien de jours elle avait traversés avant d'arriver sur cette île.
+241376|Le médecin comprit qu'il avait commis un impair et resta un moment silencieux, l'air gêné.
+241382|"Je sais qu'il est sans doute pénible de se rappeler ce qui s'est passé à l'époque, mais si vous savez quoi que ce soit, dites-le-moi, je vous en prie, quoi que ce soit.‖  Bien sûr, je n'en parlerai à personne."
+241387|"Je suis venue ici aujourd'hui pour régler les comptes de ma vie.‖  ...J'ai 18 ans.‖  Cette affaire m'a volé 12 ans de ma vie.‖  Et elle continuera sans doute à m'en voler.
+241391|  ...Depuis ce jour où j'avais six ans, je suis restée enfermée dans les ténèbres.‖  Et malgré cela, vous dites que je n'ai pas le droit de savoir... ?"
+241397|"......Non, ...c'était grossier de ma part.‖  Comme tous ceux qui venaient étaient des gens mal intentionnés, je me suis mis sur la défensive par réflexe.‖  Veuillez excuser mon impolitesse.
+241402|  ...Entendu.‖  Si vous jurez de n'en souffler mot à personne, je vous dirai tout."
+241408|"Merci, docteur.‖  ...Alors, je vous écoute.‖  Dites-moi tout ce que vous pouvez."
+241415|"...Comme vous le savez, mon père n'était pas seulement le médecin traitant de M. Ushiromiya, c'était aussi son ami, grâce aux échecs.‖  Leur relation était très ancienne, elle remontait à l'époque où M. Ushiromiya s'était installé à Rokkenjima."
+241419|"À quel point étaient-ils proches ?"
+241423|"Très proches, semble-t-il.‖  Il semble que leurs liens autour des échecs amenaient souvent mon père à séjourner au manoir de M. Ushiromiya.‖  ...Ce n'est peut-être pas à moi de le dire, mais M. Ushiromiya avait un caractère extrêmement difficile.‖  Et mon père était un homme d'une grande largeur d'esprit, qui excellait à fréquenter ce genre de personnes.‖  Il n'est pas difficile d'imaginer qu'il ait été un ami précieux pour M. Ushiromiya, si isolé."
+241431|"Ce jour-là, c'était le jour de la conférence familiale.‖  ...Lors de la conférence familiale des Ushiromiya, on discutait âprement de la fortune et de sa répartition,‖ si bien que cela ressemblait presque à un conseil d'administration.‖  Ce qui veut dire que le docteur Nanjo devait jouir d'une confiance telle qu'on lui demandait d'y assister, n'est-ce pas... ?"
+241437|"Mon père était un simple médecin,‖ je ne l'imagine donc pas en position de conseiller une famille aussi fortunée que les Ushiromiya sur la répartition de ses biens.‖  On l'y avait très probablement appelé pour veiller sur la santé de M. Ushiromiya, qui n'était pas au mieux à l'époque.‖  ...En tant qu'ami intime de Kinzo, mon père savait sûrement tenir sa langue, et on devait lui faire confiance pour ne pas divulguer les secrets de la conférence familiale."
+241447|"...Ushiromiya Kinzo n'était-il pas en très mauvaise santé à l'époque ?‖  Reste-t-il des dossiers médicaux ?"
+241453|"Il avait peut-être emporté les dossiers le jour de l'accident.‖  J'ai le regret de vous dire que tout le dossier médical de M. Ushiromiya a disparu.‖  C'était le patient de mon père, je n'en connais donc pas les détails."
+241458|"Aux alentours de l'affaire,‖ s'est-il passé quelque chose d'étrange ?"
+241464|"......‖...Oui, il y a bien une chose.‖  ...Cependant, elle risque fort de prêter à malentendu, aussi je préférerais vraiment ne pas en parler."
+241470|"...De quoi s'agit-il ?‖  Dites-le-moi, je vous en prie."
+241480|Le médecin tergiversa un moment,‖ mais après en avoir dit autant, il ne pourrait pas berner Ange en esquivant le sujet.
+241483|Il finit par céder et, après avoir de nouveau fait jurer le secret à Ange, lui raconta...
+241491|"À vrai dire, quelques jours après cet accident, j'ai reçu un courrier chez moi."
+241495|"......Un courrier ?"
+241501|"C'était très curieux.‖  L'expéditeur était censé être moi, mais je n'en avais aucun souvenir.‖  Quelqu'un avait usurpé mon nom pour l'envoyer."
+241504|"La destination était l'île de Rebun, à Hokkaido.‖  ...Si l'on excepte les Territoires du Nord, c'est la pointe la plus septentrionale du Japon.‖  Le destinataire était apparemment domicilié sur l'île de Rebun, mais......
+241507|le nom était celui de mon père."
+241510|"...Seulement, il y avait apparemment un problème avec l'adresse, si bien qu'on y avait apposé la mention `Adresse inconnue'...‖et qu'il avait été renvoyé à l'expéditeur, `moi'."
+241517|C'était...une histoire vraiment étrange.
+241521|Le nom du fils de Nanjo figurait comme expéditeur.
+241522|...Pourtant, il affirmait ne pas avoir posté cette lettre.
+241525|Bref, cela signifiait que quelqu'un avait usurpé son nom pour l'envoyer.
+241528|Le destinataire était `Nanjo Terumasa', sur l'île de Rebun, à Hokkaido.
+241532|Mais le numéro de parcelle indiqué n'existait pas,‖ si bien que la poste locale n'avait pas pu le distribuer et l'avait renvoyé à `l'expéditeur, le fils de Nanjo'...
+241538|"...Qu'est-ce qu'il y avait dedans ?"
+241542|"............‖...Je vous demande vraiment de garder le silence là-dessus.‖  C'est extrêmement embarrassant pour moi aussi.‖  Et pourtant, je ne peux pas m'en débarrasser..."
+241550|Le médecin se leva et se dirigea vers une bibliothèque.
+241553|Elle était garnie d'une rangée de dictionnaires qui ne pouvaient être que décoratifs,‖ destinés à bien montrer que leur propriétaire était un intellectuel.
+241556|Lorsqu'il en retira plusieurs volumes, une grande enveloppe kraft apparut derrière.
+241559|Il la prit et la jeta sur le bureau.
+241562|Elle avait été soigneusement scellée avec du ruban adhésif,‖ et sa couleur passée comme sa sécheresse montraient clairement qu'elle avait été fermée douze ans plus tôt...
+241570|"Je vous demande très solennellement de garder le silence sur cette affaire."
+241576|Insistant au point d'en être agaçant, le médecin ouvrit le scellé avec un coupe-papier.
+241579|...Puis, quand il inclina l'enveloppe, une enveloppe postale déjà ouverte en glissa.
+241582|L'enveloppe avait un certain poids, laissant deviner qu'elle contenait autre chose qu'une lettre.
+241591|......Le destinataire...était bien Nanjo Terumasa.
+241594|Rien que cela...était un choc énorme.
+241597|Après cette affaire, on n'avait jamais retrouvé le corps de Nanjo, et il avait fini par être déclaré mort après une disparition dans des circonstances exceptionnelles.
+241601|...Et pourtant, cette lettre adressée à un certain Nanjo, à Hokkaido, existait bel et bien.
+241602|On pouvait presque y voir le signe qu'il avait simulé sa propre mort pour s'enfuir à Hokkaido.
+241609|"...Le docteur Nanjo était-il vraiment à Hokkaido ?‖  Ou bien y avait-il à Hokkaido une autre personne portant exactement le même nom ?"
+241615|"Si mon père avait d'une façon ou d'une autre réchappé à l'accident et vivait encore à Hokkaido,‖ nous, sa famille, en aurions été très heureux, quelles que soient les circonstances.
+241620|  J'ai moi aussi envisagé cette possibilité au début.‖  ...Seulement, l'adresse de destination de cette enveloppe n'existe pas.‖  Bref, c'était un courrier qui n'avait aucune chance de lui parvenir."
+241626|"......Est-il possible que l'expéditeur se soit trompé en écrivant l'adresse ?"
+241632|"Bien sûr, je ne peux pas l'exclure.‖  Mais à en juger par le numéro de l'adresse, j'ai du mal à le croire."
+241650|"......
+241652|Hokkaido,
+241654|île de Rebun,
+241656|district de Rebun,
+241658|ville de Rebun,
+241660|1-2-34-567.‖  ........."
+241670|Jusqu'à la ville de Rebun, ça va.
+241674|...Mais je n'arrivais pas à chasser l'impression que la suite de chiffres qui venait après, 1234567, n'était pas très sérieuse.
+241675|On aurait dit une fausse adresse inventée par un gamin.
+241683|"On a sans doute écrit un numéro absurde qui n'existait manifestement pas.‖  Je pense qu'il est naturel de supposer que, dès le départ, cette enveloppe a été envoyée à une adresse inexistante, où
+241687| ~ib~elle n'avait aucune chance d'être distribuée~ib~‖."
+241691|Quand l'adresse de destination n'existe pas, le courrier est en général renvoyé à l'expéditeur.
+241694|Mais même quand l'adresse est incomplète, la poste locale fait souvent l'effort, par obligeance et dans la mesure du possible, ‖de rechercher si la destination voulue par l'expéditeur existe.
+241697|Quand elle ne la trouve toujours pas, il arrive que le courrier soit renvoyé après plusieurs jours de recherches.
+241703|C'est apparemment ce qui était arrivé à cette enveloppe, et le timbre portait un cachet du 3 octobre.
+241706|Le cachet venait de Niijima.
+241709|Niijima était très loin de l'île de Rebun.
+241713|En plus, l'adresse était fantaisiste.
+241714|...Il avait fallu plus d'une semaine pour que le courrier revienne.
+241719|...Autrement dit, il y avait de fortes chances pour que le retour de l'enveloppe à l'expéditeur, au bout d'un délai indéterminé...‖ait été le but recherché dès le départ.
+241722|Pourquoi faire une chose pareille......?
+241725|Avant même de se demander ce qu'on avait envoyé, cette enveloppe était déjà enveloppée de mystère...
+241734|".........Et à l'intérieur ?"
+241740|"Allez-y."
+241744|Avec la permission du médecin, j'ai incliné l'enveloppe déjà ouverte.
+241750|Il en est sorti une petite lettre pliée et une petite clé munie d'une plaque numérotée.‖  Puis une carte magnétique a glissé à son tour.
+241754|Sur la plaque de la clé était gravé A112.
+241755|...Je ne savais pas ce que ça voulait dire.
+241758|La carte magnétique était d'un noir de jais, avec des caractères dorés gravés dessus.
+241762|`Members' y était écrit en anglais.
+241763|Avec son noir profond et ses lettres d'or, la carte donnait une impression de grand luxe.
+241766|...Mais bien sûr, rien qu'avec ça, je n'avais aucune idée de quel genre de carte il s'agissait.
+241771|...J'ai déplié la lettre.
+241774|Son contenu était extrêmement bref, il n'y était écrit que ceci :
+241782|07151129.
+241789|Y figuraient aussi le nom d'une très grande banque connue dans tout le Japon, ainsi que les mots `Siège central'.
+241792|...C'était tout.
+241799|"Et ceci, c'est......?"
+241805|"......‖......Une carte, une clé et un code pour un coffre-fort à la banque.‖  Et pas un coffre ordinaire, qui plus est.‖  Un coffre inquiétant, apparemment réservé à une clientèle très particulière."
+241812|Après avoir réglé ses affaires à la suite des funérailles de son père, il s'était rendu à la banque.
+241816|...Un code, une clé et une carte.
+241817|Il ne faisait aucun doute qu'on y gardait quelque chose de très important,‖ et il avait été naturellement curieux de savoir ce que ce pouvait être.
+241820|Au début, il n'avait pas su quoi faire.
+241823|...Cette carte ne lui avait jamais appartenu, après tout.
+241826|Lorsqu'il avait pris son courage à deux mains pour montrer la carte à un employé, on l'avait alors confié à un employé visiblement haut placé...qui l'avait conduit jusqu'à une grande salle des coffres au quatrième sous-sol.
+241829|La sécurité était stricte tout au long du chemin.
+241832|Le médecin avait lui-même déjà déposé des objets de valeur, comme des titres de propriété, dans des coffres bancaires,‖ mais ceci était d'un tout autre niveau...
+241840|"...Contrairement à la procédure du coffre que j'utilisais,‖ avec ce système, il suffisait d'avoir la carte, le code et la clé, on ne vérifiait pas votre identité.‖  ...Mais en tout cas, j'étais effrayé par l'allure imposante de cette salle des coffres si bien gardée.‖  ...Et je me demandais quels objets louches pouvaient bien m'attendre, pour qu'on ait dû les déposer dans un endroit pareil."
+241846|"......Et ensuite ?"
+241852|"Quand j'ai passé la carte dans le lecteur, on m'a demandé d'entrer le code.‖  Et une fois ce nombre à huit chiffres saisi et validé, j'ai été autorisé à entrer dans la salle des coffres.‖  ...C'était un spectacle incroyable.‖  Un monde digne d'un film de science-fiction.‖  Une immense salle argentée, plongée dans la pénombre, dont les murs étaient couverts de portes de coffres."
+241860|Il était entré dans cette salle, accompagné de l'employé.
+241863|Apparemment, dès que la carte avait été lue, les coffres auxquels il avait droit avaient été déterminés,‖ si bien que ceux qu'il pouvait ouvrir étaient signalés par une lumière verte, et ceux qu'il ne pouvait pas ouvrir par une lumière rouge.
+241870|"A112 était l'un de ces coffres signalés.‖  ...D'ailleurs, il y avait beaucoup d'autres coffres marqués d'une lampe verte en plus de celui-là.‖  Au moins une vingtaine, je crois.‖  Il y en avait peut-être même davantage dans un autre coin.
+241875|  ...Quoi qu'il en soit, je n'avais que la clé du A112.‖  Je n'avais aucun moyen de vérifier le contenu des autres coffres."
+241881|Sous le regard de l'employé, le médecin avait déverrouillé et ouvert le coffre.
+241888|Un tiroir semblable à un grand classeur s'était alors ouvert,‖ ...révélant une mallette en duralumin d'allure coûteuse...
+241891|On l'avait portée dans une autre pièce, où l'employé s'était enfin retiré, et il s'était retrouvé face à son contenu...
+241897|"Et le contenu, c'était......?"
+241901|".........
+241904|......De l'argent liquide."
+241912|"De l'argent liquide ?‖  Combien ?"
+241918|"J'ai entendu dire qu'une liasse d'un million de yens en billets neufs fait exactement un centimètre d'épaisseur.‖  Comme des liasses étaient serrées dans une mallette en duralumin de cette taille, ‖...il devait y avoir cent millions en tout.
+241923|  Je ne sais pas, je ne les ai pas comptés.‖  Je n'y ai même pas touché.‖  J'ai compris tout de suite.‖  C'était de l'argent dangereux."
+241930|Ce n'est pas normal de déposer cent millions de yens en liquide tels quels, dans une mallette, au fond d'un coffre comme celui-là.
+241931|...C'est bien plus simple à gérer quand on les met sur un compte et qu'ils deviennent de simples chiffres.
+241934|Quand on ne peut pas le faire, c'est évidemment qu'il y a quelque chose de louche avec cet argent...
+241941|"...J'ai eu un trou noir, et j'ai compris aussitôt que je ne devais surtout pas m'en mêler."
+241947|"Donc, vous n'y avez pas touché du tout ?"
+241953|"C'est exact.‖  J'ai tout refermé à clé tel que je l'avais trouvé, je l'ai remis dans le coffre d'origine, et je suis parti.‖  ...J'ai pensé à jeter cette clé et cette carte, mais je ne sais pas ce qui pourrait arriver.‖  C'est pourquoi je les cache au fond de cette bibliothèque depuis douze bonnes années.‖  ......Aujourd'hui encore, j'ignore d'où venait cet argent."
+241959|"...Je pourrais emprunter cette enveloppe ?"
+241965|"Non.‖  Contentez-vous de la regarder ici, je vous prie."
+241971|"......
+241976|...Entendu.‖  Alors, permettez-moi un instant.‖  Il y a quelque chose que je veux vérifier."
+241984|J'ai sorti le grimoire d'Onee-chan du sac à dos que j'avais posé.
+241987|...Puis je l'ai ouvert à la page où Beatrice avait écrit un texte à Onee-chan...et j'ai comparé les deux écritures...
+241991|"............"
+241996|......Cette écriture si caractéristique, il n'y avait pas d'erreur possible.
+241999|  Celle qui avait envoyé ces cent millions de yens en liquide......c'était Beatrice en personne...
+242006|Mais, ......qu'est-ce que c'est... ?
+242007|Quelque chose me tracasse...‖  Qu'est-ce que c'est......?‖  Qu'est-ce que ça peut bien être......?
+242020|"......O-Ouais.‖  J'crois bien que j'ai reçu un truc comme ça par la poste.
+242025|  Dis, m'man, où c'est que tu l'as mis ?!"
+242032|La même enveloppe, avec le même contenu, avait été envoyée au fils de Kumasawa, qui avait autrefois vécu avec elle.
+242041|Mais il avait été très occupé les jours suivants, et semblait l'avoir oubliée à force de courir à droite à gauche.
+242044|Cependant, son étrange contenu était apparemment resté gravé dans sa mémoire, et il s'en était souvenu dès qu'Ange lui en avait parlé...
+242047|Après un moment d'attente,‖ sa femme aux lèvres pincées avait retrouvé l'enveloppe, tout en se plaignant qu'il oubliait toujours aussitôt où il rangeait les choses...
+242055|Le mode opératoire, pour l'expéditeur comme pour le destinataire, était le même que pour le fils de Nanjo.
+242058|L'expéditeur était censé être le fils de Kumasawa, et la destinataire, Kumasawa Chiyo.
+242062|Et l'adresse de destination se trouvait dans la préfecture d'Okinawa.
+242063|Préfecture d'Okinawa, district de Yaeyama, ville de Yonaguni, 1-2-34-567.
+242067|L'île de Yonaguni était la pointe la plus occidentale du Japon.
+242068|Et le numéro de parcelle était exactement la même suite de chiffres, visiblement choisie sans grand soin.
+242072|...Désormais, c'était certain.
+242073|Cette enveloppe avait bel et bien été envoyée dans le but d'être renvoyée à l'expéditeur.
+242078|Son contenu était exactement le même.
+242082|Une lettre portant le code et le nom du siège central de la banque.
+242083|Une carte magnétique.‖  Une clé munie d'une plaque numérotée.
+242086|L'inscription sur la plaque était A113.
+242089|...Le numéro qui suivait juste celui de la clé envoyée à Nanjo.
+242092|Selon toute vraisemblance, le coffre contenait le même genre de mallette en duralumin, remplie de cent millions de yens en liquide...
+242105|"...J'ai l'impression que c'est ma défunte mère qui me l'a envoyé de l'au-delà.‖  J'comprends pas trop ce qu'il y a dedans, et ça fout la frousse, alors je l'ai laissé de côté tout ce temps, et je l'avais complètement oublié jusqu'à aujourd'hui."
+242109|"...Alors, vous savez ce que c'est, mademoiselle ?
+242112|  Des fois que vous auriez reçu la même chose chez vous... ?"
+242121|"............Ah."
+242131|"...Qu'est-ce qui vous arrive, Ange-sama ?"
+242138|『Uryu, ...t'as mal à la tête ?  Mal à la tête... ?!』
+242145|"......Désolée, j'ai mal à la tête...
+242151|  ...Ça me transperce...  ......Je sais..."
+242159|『Comment ça, tu sais... ?』
+242168|"Ne me dites pas que...
+242170|...cette enveloppe...vous est parvenue à vous aussi, Ange-sama... ?"
+242178|......Je me suis souvenue...
+242182|  ...Je me suis souvenue... !!
+242185|Moi aussi, j'avais reçu une étrange enveloppe...il y a douze ans... !!
+242189|Après avoir perdu toute ma famille, j'étais au plus bas.
+242190|...Mais c'était un courrier vraiment bizarre, alors j'en gardais un vague souvenir.
+242197|C'était une lettre étrange, que je ne me souvenais pas d'avoir envoyée, mais dont j'étais l'expéditrice.
+242201|J'ai oublié l'adresse de destination, mais le destinataire était Ushiromiya Rudolf.
+242202|Mon père.
+242205|Je me souviens de mon trouble quand, croyant recevoir une lettre de Papa, je l'ai ouverte,‖ et que j'y ai trouvé une clé et une carte auxquelles je ne comprenais rien.
+242208|Déçue, je l'avais jetée quelque part, je crois...
+242212|Où est-ce que j'ai mis cette enveloppe ?
+242213|Je l'ai sans doute perdue quelque part dans le chaos qui a suivi.
+242216|Aujourd'hui, je n'ai plus aucun moyen d'en vérifier le contenu.
+242221|Mais j'en ai une idée assez précise.
+242225|...Le contenu était sûrement le même.
+242226|Il y avait forcément une clé, une carte et une note avec un code dans cette enveloppe...
+242237|"...Beatrice...‖  ...Qu'est-ce qu'elle cherchait à faire... ?‖  Alors comme ça, elle a distribué cet argent ridicule à toutes les familles des victimes ?‖  ......Je ne lui pardonnerai pas...de se moquer d'eux jusque dans la mort......"
+242245|『Uryu, ...uryu, ...Ange......』
+242250|Sakutarou s'agitait, inquiet.
+242251|...En regardant son visage soucieux, j'ai senti mon agitation retomber petit à petit...
+242257|"Pardon...‖  Ma haine de Beatrice ne date pas d'aujourd'hui.
+242263|  ...J'étais juste surprise et furieuse de découvrir que j'avais déjà un lien avec la sorcière...dès ce jour-là, à six ans..."
+242270|"......Depuis douze ans,‖ vous êtes constamment prisonnière de la malédiction de Beatrice-sama.‖  ...Ceci en est peut-être la preuve.
+242276|  Mais je vous en prie, tenez bon.‖  Briser cette malédiction faisait aussi partie du but de ce voyage, non ?"
+242283|"C'est vrai...‖  Laisser le sang me monter à la tête ne me mènera nulle part.‖  Je dois réfléchir calmement.
+242288|  ......Qu'est-ce que ça veut dire ?‖  Quel sens ça a, de distribuer cent millions de yens aux familles ?
+242294|  Elle cherche à nous provoquer... ?‖  Maudite Beatrice......"
+242301|『Ange, ...calme-toi...‖  ...Uryu...』
+242306|Sakutarou, le visage enfoui contre mon ventre, m'a pressée de garder mon calme.
+242307|...J'ai de nouveau pris une grande inspiration...et je me suis mise à réfléchir.
+242320|"......Je me demande si l'envoi de cette enveloppe vient confirmer que le crime de Beatrice était prémédité."
+242327|"Le cachet date de juste avant la conférence familiale.‖  Et tout a été fait exprès pour que l'enveloppe revienne au bout d'un certain temps."
+242335|『...Ils voulaient qu'elle arrive après l'affaire, c'est ça... ?』
+242342|"Oui.‖  C'est ce que ça laisse entendre.
+242348|  ......Mais ça soulève quelques questions.‖  Pourquoi utiliser une méthode aussi incertaine ?"
+242356|"Incertaine ?"
+242364|"Oui.‖  Après tout, personne ne pouvait deviner, avant d'utiliser cette astuce, combien de jours le courrier mettrait à revenir.‖  ...Normalement, on ne peut même pas estimer le temps que mettra la poste de destination à faire ses recherches, à conclure que le destinataire est inconnu, puis à renvoyer le courrier."
+242372|『Oui, maintenant que tu le dis...‖  Ce serait plus fiable de fixer une date d'arrivée et de l'envoyer comme ça...‖  Uryu...』
+242380|"...Peut-être, mais quand même,‖ si l'enveloppe a été postée la veille, alors même en revenant au plus vite, elle serait sans doute arrivée le lundi ou plus tard.‖  Elle voulait peut-être que ça ait l'air d'une lettre d'outre-tombe."
+242387|"...Une lettre d'outre-tombe, tu dis ?
+242392|  ...Tu as raison.‖  Ça m'a surprise, et ça m'a mise mal à l'aise.‖  ...Un courrier avec le nom de ma famille morte écrit en grosses lettres dessus...‖jeté dans la boîte aux lettres avec une étiquette de mauvais augure collée dessus.‖  ...Mais pour moi, ça n'a pas vraiment de sens.‖  Moi, je l'aurais envoyé de façon à ce qu'il arrive à une date précise.‖  Je n'arrive pas à comprendre qu'on accepte le risque qu'il arrive un autre jour que celui qu'on avait prévu."
+242401|『.........Uryu.‖  ...Mais moi, je trouve que ça ressemble vraiment à Beato.』
+242408|"Hein ?‖  Tu...connais Beato ?"
+242415|『...Enfin, je lui ai juste un peu parlé.‖  ...Mais je vois assez bien Beato faire un truc comme ça.
+242423|  ......Tu n'arrives pas à l'imaginer, toi aussi, Mammon ?‖  Beato aime bien ce genre de farces, pas vrai ?』
+242430|"......
+242436|......Oui, c'est peut-être vrai.‖  ...Ça ne m'étonnerait pas de Beatrice-sama, une farce aussi cruelle qu'une lettre d'outre-tombe."
+242444|『Non, ce n'est pas tout.‖  ......Beatrice trouverait ça plus amusant de passer par une méthode incertaine, plutôt que par une méthode absolument sûre.』
+242451|"......Elle trouverait une méthode incertaine...amusante... ?"
+242459|Je me suis rappelé le journal de Maria onee-chan...‖  ...Il y était très souvent question de jeux avec Beatrice.
+242462|À ces occasions, Beato faisait parfois des farces aux adultes de la famille avec Maria.
+242467|Mais ces farces avaient toujours une petite touche d'esthétique de sorcière.
+242470|Elle voulait......qu'elles soient plus amusantes quand leur issue était incertaine.
+242477|Un jour, Maria onee-chan et Beato ont décidé de se servir pour une farce d'une petite voiture à friction qu'elle avait apportée.
+242480|C'était un jouet à la mode à l'époque : en faisant reculer la petite voiture, on remontait le ressort des roues, et quand on la lâchait, elle filait en avant.
+242486|Elles avaient remonté la petite voiture et l'avaient cachée derrière un pot à lait.
+242489|...Autrement dit, la farce consistait à ce que, si quelqu'un soulevait le pot à lait, la petite voiture s'élance et lui fasse peur.
+242496|Espérant que quelqu'un tomberait dans le piège, Onee-chan et Beato avaient observé les adultes en cachette pendant toute l'heure du thé.
+242499|Elles avaient hâte de voir quelqu'un s'y laisser prendre, mais personne n'a touché au pot à lait piégé, et la farce a fait long feu...
+242504|Quand Onee-chan a alors marmonné `On aurait dû la mettre à un endroit où quelqu'un se serait forcément fait avoir',‖ Beato lui aurait répondu ceci :
+242509|"Les pièges les plus amusants et les plus palpitants...sont ceux où l'on ne sait pas qui va se faire prendre, ni même si quelqu'un va se faire prendre."
+242514|...C'est sans doute vrai qu'un piège qui marcherait à coup sûr ne procurerait pas ce genre d'excitation.
+242518|...On trouvait des récits semblables à plusieurs endroits,‖ ce qui permettait de deviner que la sorcière appelée Beatrice avait un caractère capricieux et adorait les frissons du hasard...
+242521|Quelqu'un de capricieux, c'est vraiment difficile à cerner.
+242524|Je n'arrive pas à retourner l'échiquier...pour découvrir ce que manigançait cette sorcière d'il y a douze ans.
+242537|Tout en examinant tout cela, Ange laissa son regard errer d'un endroit à l'autre.
+242543|Puis, soudain, quelque chose sur le mur attira son attention.
+242546|Plusieurs cadres contenant des photos y étaient accrochés.
+242549|La plupart étaient des photos souvenirs prises quand la famille Kumasawa se réunissait ou partait en promenade, et Kumasawa figurait sur plusieurs d'entre elles.
+242552|...Elle y arborait toujours un sourire qui faisait presque entendre son rire enjoué, `ho ho ho'.
+242555|...C'est un souvenir lointain, mais je me rappelle bien que c'était ce genre de vieille dame joyeuse...
+242564|"Avez-vous remarqué quelque chose d'inhabituel chez Kumasawa-san dans les jours qui ont précédé l'affaire... ?"
+242570|"Non.‖  Elle avait l'air comme d'habitude.‖  ...La conférence familiale la mettait toujours sur les nerfs, alors elle répétait sans arrêt combien c'était dur."
+242577|"......?‖  ...Qu'est-ce que c'est ?"
+242581|Parmi tous les cadres, l'un d'eux contenait autre chose qu'une photo de personnes.
+242589|C'était la photo agrandie d'un relief ornant la porte d'une demeure de style occidental, ou quelque chose comme ça.
+242592|...On n'y voyait aucun sujet particulièrement intéressant, et je me suis justement un peu demandé pourquoi quelqu'un s'était donné la peine de la prendre.
+242595|En m'approchant, je me suis aperçue que des caractères avaient été écrits au stylo.
+242607|"...Ah, ça, c'est une photo que j'ai récupérée quand on s'est partagé les affaires de ma mère.‖  Je crois que ça a sans doute un rapport avec cette histoire de `Légende de l'or'."
+242612|"L'épitaphe de la sorcière, vous voulez dire ?‖  Celle dont on murmurait qu'elle indiquait la cachette des dix tonnes d'or...‖  ...Kumasawa-san aussi a donc essayé de la résoudre.‖  Mais ce n'est pas l'épitaphe.‖  C'est la première fois que je vois ça."
+242617|Au-dessus de la porte de style occidental se trouvait une arche, et c'est là qu'était le relief.‖  Des mots anglais y étaient gravés, et c'était apparemment sur eux que la photo était centrée.
+242618|L'inscription au stylo semblait en être la traduction en japonais.
+242628|".........‖`Cette porte ne s'ouvre qu'avec une probabilité d'une sur un million de milliards.‖  Tu ne seras béni qu'avec une probabilité d'une sur un million de milliards'.‖  ...Ça ne me dit rien.‖  Rien de tel n'apparaît dans l'épitaphe ni dans le journal d'Onee-chan."
+242635|"Dans les affaires de ma mère, il y avait pas mal de photos et de notes qui montraient qu'elle essayait de résoudre l'énigme de l'épitaphe.
+242640|  En fait, ma mère aimait étonnamment ce genre de trucs.‖  Et puis il y avait cette rumeur selon laquelle dix tonnes de lingots d'or étaient cachées quelque part.‖  Pas étonnant qu'elle se soit passionnée pour ça."
+242647|Le journal de Maria onee-chan comme son grimoire contenaient une description de l'épitaphe de la sorcière.
+242651|Il y était question d'une cérémonie pour ouvrir la porte de la Terre dorée, de la cérémonie de résurrection de Beatrice, de la cérémonie de succession de Beatrice.‖  Et ainsi de suite.
+242654|Le plus intéressant était peut-être la dernière, celle qui parlait d'une cérémonie de succession.
+242657|D'après Beatrice,‖ si l'on parvenait à résoudre l'épitaphe de la sorcière,‖ on recevrait non seulement les dix tonnes d'or et la succession de la famille Ushiromiya,‖ mais aussi son propre pouvoir magique et son nom, ainsi que le titre de Sorcière dorée.
+242663|Dans la maisonnée Ushiromiya de l'époque, l'épitaphe de la sorcière était considérée comme une devinette difficile que le chef de famille, Kinzo, avait préparée pour choisir son successeur.
+242667|Mais selon l'interprétation de Mariage Sorcière, c'était Beatrice elle-même qui posait la question,‖ en partie pour choisir son propre successeur.
+242670|...Les deux interprétations divergeaient légèrement dans les détails.
+242675|Quoi qu'il en soit, son contenu sinistre évoquait une série de meurtres sanglants,‖ et les deux messages en bouteille décrivaient chacun un crime suivant ce schéma.
+242678|Si je parvenais à résoudre l'épitaphe de la sorcière maintenant, douze ans après, est-ce que je pourrais mettre au jour un complot ourdi à l'époque... ?
+242682|J'ai moi-même essayé de la résoudre plusieurs fois, mais je n'ai jamais eu la moindre idée de ce qu'elle voulait dire.
+242683|Il paraît que beaucoup de chasseurs de sorcières s'y sont essayés aussi.
+242687|J'ai aussi trouvé, dans certains livres, des théories comme celle du Río de la Plata ou celle d'Enoura.
+242688|Cependant, aucune de ces théories n'était concluante...
+242697|"Il y a d'autres documents ?"
+242703|"Je pense, mais tout a été partagé entre mes frères et sœurs.‖  J'ai aucune idée de qui a quoi.‖  Désolé."
+242709|"......Rien qu'en lisant ce texte anglais que Kumasawa-san a photographié, on a l'impression que c'était une porte interdite, rarement ouverte.
+242715|  ...Mais où se trouve-t-elle dans le manoir, je me demande ?‖  À en juger par la lumière, on dirait qu'elle est à l'extérieur.‖  ...Kumasawa-san pensait-elle que l'or était caché là-dedans ?"
+242721|"Qui sait.‖  En tout cas, je me demande bien où ça pouvait être, dans le manoir de Rokkenjima.‖  ...Ça me fait de la peine de le dire, mais il n'y avait pas assez d'argent sur le compte en banque de ma mère pour me faire croire qu'elle avait trouvé l'or.‖  Uha ha ha ha, elle ne l'a sans doute pas trouvé, finalement."
+242728|...Beatrice, la Sorcière dorée, avait donné dix tonnes d'or à Kinzo.
+242731|Ce qui voulait dire que la sorcière était la véritable propriétaire de l'or.
+242734|Beatrice était la propriétaire de toute l'immense fortune de la famille Ushiromiya.
+242738|La sorcière qui détenait cette immense richesse avait massacré les humains de Rokkenjima ce jour-là,‖ ...et envoyait de grosses sommes d'argent aux familles des victimes comme par jeu.
+242742|...Une lettre d'outre-tombe, mon œil.
+242743|C'est une profanation des morts.

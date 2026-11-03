@@ -235,3 +235,65 @@ vouvoie avec une déférence ironique Lambdadelta et Bernkastel (« Dame »). Le
 vouvoient Beatrice mais tutoient Battler (moqueuses : あんた, 戦人くぅん). Eva sorcière garde le tutoiement envers Battler, Battler la
 vouvoie (« Tante Eva ») sauf colère où le japonais devient familier (お前). Les Chiester
 vouvoient tout le monde (410 traînante, 45 timide, 00 sèche).
+
+Choix retenus pendant la traduction de l'épisode 3 (à reprendre) : Predecessor-sama (先代さま) →
+Madame la Précédente ; Great Lady Beatrice → Grande Dame Beatrice ; old hag (ババア) → vieille
+bique ; master key → passe-partout ; boiler room → chaufferie ; parlor → salon ; shutters
+(鎧戸) → volets ; head furniture (家具頭) → chef des meubles ; Land of the Dead → royaume des
+morts ; Devil's Proof → `preuve du diable' ; resign → abandonner ; human side / witch side →
+le camp humain / le camp de la sorcière ; Lucifer of Pride → Lucifer de l'Orgueil ; Chiester 410
+« Nihi », « nyeh » ; *cackle*cackle* → *ricane*ricane* ; sweetfish → ayu (« la rivière aux
+ayus ») ; Kuwadorian (九羽鳥庵) → Kuwadorian ; ヘソ噛んで死んじゃえ (Eva) → « t'as qu'à crever ».
+Registres fixés : Battler tutoie Virgilia ; Hideyoshi, Kyrie, Rosa, Natsuhi, Krauss se
+vouvoient entre eux ; Eva tutoie Kyrie, Hideyoshi, Rudolf, Rosa ; Kyrie vouvoie Eva ; Rudolf
+vouvoie Hideyoshi, qui le tutoie.
+
+## Épisode 4 (Alliance of the Golden Witch) — compléments
+
+Fichiers : `work/ep4/NN.en.jsonl` → `work/ep4/NN.fr.txt`, contrôle `python3 -I tools/tlcheck.py work/ep4/NN`.
+Nouvelles voix : enj Ange, sak Sakutarou, gap Gaap, kas Kasumi (Sumadera), oko Okonogi,
+ama Amakusa, kaw Kawabata (le batelier), pro le professeur (expert des livres anciens),
+lam Lambdadelta, ber Bernkastel.
+
+Balise supplémentaire : `#5decff…</i>` = **vérité bleue** (comme le rouge : recopie `#5decff`
+au même endroit et le `</i>` final).
+
+| Anglais (japonais) | Français |
+|---|---|
+| blue truth (青き真実) / speak in blue | la vérité bleue / dire en bleu |
+| Mariage Sorcière | Mariage Sorcière (nom propre, gardé) |
+| Witch of Origins / Apprentice Witch (原初の魔女見習い) | la Sorcière des Origines / apprentie sorcière |
+| Lord X (卿) | Sire X (Sire Goldsmith) ; féminin : Dame X |
+| Great Summoner (大召喚師) | le grand invocateur |
+| Gaap | Gaap (démon, l'une des 72) |
+| Sakutarou ; « uryu » | Sakutarou ; « uryu » (tic gardé) |
+| grimoire (魔導書) | grimoire |
+| the Ushiromiya Library (右代宮蔵書) | la collection Ushiromiya |
+| Witch Hunters (ウィッチハンター) | les chasseurs de sorcières |
+| the Hidden Side (裏, port de Kuwadorian) | l'autre côté |
+| the Rokkenjima incident / mystery | l'affaire de Rokkenjima |
+| Fragments (カケラ) | Fragments |
+| Ushiromiya Group / company president (社長) | le groupe Ushiromiya / le président |
+| St. Lucia Academy (聖ルチーア学園) | l'Académie Sainte-Lucia |
+| Maria onee-chan / Onii-chan (Ange) | Maria onee-chan / Onii-chan (gardés) |
+| Aunt Eva / Aunt Kasumi (Ange) | Tante Eva / Tante Kasumi |
+
+Registres épisode 4 : Ange (18 ans, 1998) est sèche et familière ; elle vouvoie les adultes
+polis avec elle (Okonogi, le professeur, les inconnus), tutoie Kasumi (hostile, あんた), Amakusa
+et les êtres magiques. Amakusa vouvoie Ange, la taquine (« Mademoiselle », お嬢). Okonogi tutoie
+Ange (« Ange-chan »). Ange enfant (1986) et Maria se tutoient. Sakutarou tutoie Maria, parle
+doucement. Gaap tutoie tout le monde, effrontée. Kinzo tutoie tout le monde, emphatique.
+Beatrice et Battler : comme dans les épisodes 2-3.
+Registres fixés : Ange tutoie Amakusa, Kasumi, Battler, Beatrice, Maria, Sakutarou, Bernkastel,
+Lambdadelta, Gaap, Ronove, Eva (1998) et chaque sœur prise à part (« vous » pour les Sept Sœurs
+ensemble) ; elle vouvoie Okonogi, le professeur, le batelier. Amakusa, le professeur, Ronove et
+les Sept Sœurs vouvoient Ange ; Okonogi, Kasumi, Beatrice, Maria, Sakutarou, Gaap, Lambdadelta,
+Bernkastel et Eva (1998) la tutoient. Battler ↔ Beatrice, Kinzo, Gaap, Lambdadelta, Bernkastel :
+tu dans les deux sens ; Ronove vouvoie Battler, qui le tutoie. Beatrice ↔ Virgilia : vous dans les
+deux sens (« Maîtresse », « Princesse ») ; Beatrice tutoie Ronove (qui la vouvoie), Gaap, Maria,
+Kinzo (tu réciproques) ; elle vouvoie Lambdadelta et Bernkastel (« Mesdames »), qui la tutoient.
+Kinzo tutoie Beatrice, Gaap, Ronove ; Gaap le tutoie (« Goldsmith »), Ronove et Virgilia le
+vouvoient (« Maître »). Maria ↔ Beatrice, Rosa, Sakutarou : tu. Adultes Ushiromiya : comme
+l'épisode 3 (Rosa vouvoie Natsuhi). Exceptions voulues : Eva vouvoie Kyrie avec une douceur
+mielleuse (下さらないかしら, lot 03) ; la Beatrice de la dernière énigme vouvoie Battler en rouge
+(あなた/です, lot 17).

@@ -1,0 +1,752 @@
+226105|"Maria-chan,
+226107|...tu n'as toujours pas retrouvé ta clé... ?"
+226113|"...Uu-...‖  ...La clé...  Elle est plus là..."
+226117|"Ta maman ne dort pas à la maison ce soir, c'est ça ?‖  Alors sans clé, tu ne peux pas rentrer chez toi ?"
+226123|"Uu-...‖  ...Peux pas rentrer..."
+226127|"Eh bien, c'est embêtant, ça...‖  Tu es allée voir au poste de police ?‖  Quelqu'un l'y a peut-être déposée."
+226133|"......Mama a dit qu'il faut pas parler aux policiers, même s'ils me parlent."
+226137|"Hein ?‖  Et pourquoi donc ?"
+226143|"............"
+226149|Sans doute parce que Rosa se sentait coupable de laisser une enfant aussi jeune que Maria garder seule la maison, ‖ et qu'elle savait que la société ne le tolérerait pas.
+226152|C'est pourquoi elle avait seriné à Maria de changer le plus souvent possible de magasin pour ne pas attirer l'attention des adultes, ‖ et de ne rien dire de plus qu'une formule de politesse aux policiers, même s'ils lui adressaient la parole.
+226155|Maria avait docilement obéi.
+226158|Plutôt que de se demander pourquoi elle devait agir ainsi, ‖ elle se pliait sagement à ces règles, parce que c'était sa mère qui les lui avait données.
+226163|Mais le gérant de la supérette ne vit sans doute pas les choses de cette façon.
+226166|...D'ailleurs, voir une enfant aussi jeune contrainte de garder seule la maison, et si souvent, ‖...avait de quoi inquiéter n'importe qui...
+226171|...Et puis.
+226177|Après un nouvel aller-retour entre chez elle et la supérette...quand elle y arriva pour la troisième fois...
+226178|...Un policier l'attendait.
+226183|"C'est cette petite.‖  ...Maria-chan, tu as retrouvé ta clé ?"
+226189|"......Uu-...‖  ...Pas trouvée..."
+226193|"Comment tu t'appelles, ma petite ?"
+226199|"........."
+226203|Le policier lui demanda son nom, mais Maria ne répondit pas.
+226206|"Ta maman t'a dit de ne pas parler aux policiers ?‖  Hé hé hé !‖  T'inquiète pas, le monsieur n'est pas méchant.‖  Tu as déjà mangé, ce soir, ma petite ?"
+226212|"......J'ai acheté à manger, mais je peux pas rentrer à la maison, alors je peux pas manger."
+226216|"Et ta maman, elle fait quoi ?‖  Elle ne rentre pas ce soir ?‖  C'est pour son travail ?"
+226222|"......Uu-."
+226226|"Tu sais comment on peut joindre ta maman à son travail ?"
+226232|"........."
+226236|Maria baissa la tête, sans force.
+226239|...Elle ne comprenait pas pourquoi le policier la grondait.
+226242|Non, il ne la grondait sans doute pas, mais si cela arrivait aux oreilles de sa mère, elle se ferait gronder, c'était certain.
+226245|Même si elle ne comprenait pas pourquoi elle se ferait gronder, elle comprenait au moins cela.
+226251|Mais le policier ne voulait pas laisser partir Maria.
+226252|Et puis, la faim lui faisait tourner la tête.
+226255|Le policier s'en aperçut, et il fut décidé qu'il l'écouterait au poste pendant qu'elle mangerait.
+226261|...Maria fut emmenée au poste de police.
+226262|On lui réchauffa son oden au micro-ondes, et on lui servit même du thé bien chaud et des daifuku salés.
+226265|On lui avait dit de ne pas parler aux policiers, ‖...mais quand on l'interrogea sur Sakutarou, elle répondit, et peu à peu, elle eut le sentiment que ce n'était pas quelqu'un de méchant.
+226268|...Et puis, de toute façon, elle ne pouvait pas rentrer chez elle, et elle ne savait plus quoi faire.
+226271|......Elle lui donna le numéro du travail de Mama, ‖...ce numéro qu'elle ne devait donner à personne et qu'elle ne devait appeler qu'en cas de vraie, vraie urgence.
+226274|Dans la pièce à tatamis au fond du poste, tout en mangeant son oden si chaud qu'il menaçait de la brûler, ‖ elle regarda le policier téléphoner en pensant vaguement : ...`Ah, je vais sûrement me faire gronder'.
+226280|"......Est-ce que Mama...va gronder Maria...... ?"
+226284|『...Uryu......』
+226296|Il devait écouter la sonnerie depuis un bon moment.
+226297|Le combiné collé à l'oreille, le policier leva les yeux vers l'horloge en ronchonnant.
+226300|"......Ils ne répondent peut-être pas parce que c'est fermé, à cette heure-ci.‖  ...Hmmmmmm.
+226306|  ...Ah ?‖  Allô ?‖  Allô ?‖  C'est bien la SARL Anti-Rosa ?‖  Ici le poste de police de la gare de Senbonzakura, commissariat de Komatsugawa.‖  Est-ce que la présidente...euh...Udaikan...non, pardon, est-ce que madame Ushiromiya, la présidente, est là ?‖  ......Oui.‖  ...Comment ?‖  Elle est en congé ?"
+226314|"Oui.‖  La présidente est en congé pour trois jours depuis hier.‖  Euh, c'est à quel sujet... ?"
+226315|"Oh non, non, non, rien de grave.‖  Et vous savez où elle pourrait être ?‖  Elle ne vous aurait pas laissé un moyen de la joindre ?"
+226319|"Ah, ...vous pouvez patienter un instant ?‖  ......Dites, quelqu'un sait où la présidente est partie en vacances ?‖  Ou comment la joindre ?"
+226320|"Elle m'a dit qu'elle allait manger du crabe à volonté à Sapporo avec son copain.‖  La chaaance, quand il fait froid comme ça, on se rapproche tout naturellement, pas vrai ?‖  Mais elle m'a pas laissé de numéro."
+226323|"D'accord, compris.‖  ...Euh, allô ?‖  Il paraît qu'elle est partie à Sapporo, mais pour la joindre, je ne sais pas trop.‖  ...Vous voulez laisser un message ?"
+226328|"Hmm, je vois, c'est bien embêtant.‖  Bon, alors, si vous arrivez à la joindre, vous pourrez lui dire que nous avons appelé ?‖  Oui, voilà."
+226341|...Ensuite, on m'a emmenée dans un commissariat encore plus grand, ‖ et j'y ai passé la nuit.
+226344|Puis on m'a posé plein de questions sur moi.
+226347|Une dame qui disait être assistante sociale du quartier est venue et m'a interrogée sur plein de choses.
+226351|Et elle m'a dit : `Ma pauvre petite'.
+226352|C'est en entendant ça que je l'ai appris, pour la première fois.
+226358|"......Est-ce que Maria......c'est une pauvre petite... ?"
+226362|『...Uryu...‖  C'est pas vrai, ...tu es heureuse, Maria...』
+226366|"......Uu-..."
+226389|Puis, ...Rosa rentra.
+226392|On avait dit à Maria de rester dans sa chambre, ‖ ...mais en revenant des toilettes, elle se cacha à l'entrée du salon et écouta la conversation.
+226397|La visiteuse...était l'assistante sociale qui avait posé toutes ces questions à Maria, l'autre jour.
+226404|"Je ne veux pas qu'on m'impose ce genre de chose !!
+226409|  Maria a un cœur trop pur et trop sensible, alors s'il y a là-bas un enfant sans délicatesse, il risque de la blesser !!‖  Arrêtez de vous mêler de ce qui ne vous regarde pas !!"
+226414|"Mais enfin, Madame, ‖ si votre enfant est si sensible, pourquoi la laisser seule à la maison ?‖  Une mère ne devrait-elle pas rester auprès de son enfant ?"
+226422|"Je reste auprès d'elle autant que je peux !!‖  Je n'ai pas d'ordres à recevoir de vous là-dessus... !!"
+226426|"Vraiment ?‖  Elle est très connue, dans le voisinage.‖  On dit que votre fille vient souvent faire des courses ou manger le soir.‖  Tout le monde s'inquiétait et veillait sur elle."
+226433|"Comment savez-vous que c'était mon enfant ?!!
+226437|  Des enfants, il y en a plein dans cette ville, non ?!!‖  Ne décidez pas comme ça que c'est ma Maria !!‖  Il arrive bien que des enfants traînent dehors le soir, non ?!‖  Vous avez la moindre preuve que c'était chaque fois ma fille ?!"
+226443|"Tout le quartier commerçant savait...qu'une petite fille avec un lion en peluche dans les bras venait souvent dîner et faire des courses.‖  Tout le monde prenait soin de Maria-chan, parce qu'on s'inquiétait pour elle.‖  Il arrivait même qu'on la raccompagne chez elle, parce que les rues sont dangereuses la nuit, vous savez ?"
+226452|"D-Des lions en peluche, on en trouve partout !!‖  La raccompagner chez elle, de quoi je me mêle !!
+226457|  Ils comptent enlever Maria, c'est ça ?!‖  Laissez-la tranquille !!‖  Maria est ma fille.‖  C'est moi qui l'élève !‖  Je n'ai aucune intention de la mettre dans je ne sais quel établissement !!‖  Arrêtez de vous mêler de ce qui ne vous regarde pas !!"
+226466|『U-Uryu...‖  Le lion en peluche...
+226468|c'est moi... ?』
+226474|"...Ça va.‖  C'est Maria qui va se faire gronder...‖  Ça te concerne pas, Sakutarou..."
+226478|Maria serra Sakutarou dans ses bras et continua d'observer sa mère, terrifiée...
+226486|"M-Moi aussi, j'aimerais pouvoir être avec Maria tous les jours !
+226491|  Mais je suis une mère célibataire, alors je dois travailler !‖  Je n'en ai peut-être pas l'air, mais je suis présidente d'une société, et c'est moi qui fais vivre mes employés !!‖  Je suis prise par mon travail toute l'année, je n'ai même pas le temps de me reposer !!"
+226497|"Vraiment ?‖  Pourtant, vous étiez en congé ces trois derniers jours, non ?"
+226503|"J-Je n'étais pas en congé !‖  J'ai passé mes nuits au bureau, à travailler !!‖  J'ai une montagne de dossiers que mes employés, qui ne sont pas fiables, sont incapables de traiter !!"
+226509|"Pourquoi mentir comme ça ?‖  Quelqu'un de votre société a dit que vous aviez pris trois jours de congé, vous savez ?‖  Vous êtes allée à Hokkaido avec votre petit ami, n'est-ce pas ?‖  En laissant votre fille toute seule pendant trois jours entiers... !"
+226520|"J-Je ne sais rien de ce petit ami je ne sais rien de Hokkaido !!!‖  D'où vous sortez ces absurdités ?!
+226524|  Pourquoi, pourquoi ?!
+226528|  Vous avez la moindre preuve ?!
+226532|  C'est quoi ton problème, de quel droit tu te mêles des affaires de famille des autres !!‖  J'aime Maria j'ai ma façon à moi de l'aimer alors ferme-la !!‖  Je ne suis pas partie en voyage je travaillais tout ce temps-là !!"
+226538|"J'essayais de finir mon travail de toutes mes forces, de toutes mes forces parce que je voulais revoir Maria le plus vite possible !!
+226546|  Je suis restée au bureau tout le temps tout le temps tout le temps tout le temps, tout le temps tout le temps tout le temps tout le temps !!‖  Je sais pas je sais pas je sais rien de Hokkaido arrête de raconter n'importe quoi aaaaaaaaaaaaaaaaaaaaaaaaaaah !!!
+226552|  Va-t'en !!‖  Va-t'en, va-t'eeeeeeeeeen !!
+226558|  Mais qu'est-ce qui te prend, toiiiiiiii ?!!‖  Va-t'en !!‖  Va-t'en, va-t'eeeeeeeeeeeen !!!"
+226571|Rosa s'emporta, les cheveux en bataille.
+226575|Dans l'élan, en se levant, elle renversa une tasse de thé, ‖ mais le bruit qu'elle fit en frappant la table des deux mains, encore et encore, fut bien plus fort.
+226578|Face à cette fureur, qu'on aurait pu sans exagérer qualifier de démence aux yeux révulsés, ‖ l'assistante sociale ne put s'empêcher de reculer.
+226584|...Et il en allait de même pour Maria, qui observait la scène en cachette depuis le couloir.
+226588|Elle avait déjà vu sa mère en colère bien des fois.
+226589|Mais elle ne l'avait jamais vue folle de rage à ce point.
+226593|En voyant cela, Maria en fut certaine.
+226594|...Ce n'était plus sa mère.
+226597|C'était un autre être, un être maléfique qui avait pris possession du corps de sa mère...
+226611|Et puis, l'être maléfique la découvrit.
+226612|Maria sut qu'elle se reflétait dans les yeux de l'être maléfique.
+226615|Son esprit se vida, et elle eut l'impression que son champ de vision s'éloignait à toute vitesse...
+226620|Rosa fondit sur Maria, la saisit par ses petites épaules avec une force impitoyable, ‖et baissa les yeux sur la peluche que Maria tenait dans ses bras, Sakutarou.
+226627|"......Maria, ‖ je t'ai pourtant dit je ne sais combien de fois de ne pas emporter ça dehors,
+226632|...et tu l'as emporté quand même, c'est ça ?"
+226640|『...U-Uryu......‖  C-C'est pas la faute de Maria...‖  C'est moi qui ai voulu venir...』
+226646|"C-C'est pas vrai... !‖  C'est Maria qui a emmené Sakutarou toute seule, parce qu'elle se sentait seule... !‖  Alors Mama, c'est pas la faute de Sakutarou... !!"
+226652|『Uryu, ...Maria......』
+226658|"C'est pas la faute de Sakutarou !!‖  C'est pas la faute de Sakutarou !!"
+226664|Plus encore que sur Maria, la colère de Rosa s'abattait sur le lion en peluche qu'elle tenait dans ses bras.
+226668|...Une petite fille venait faire des courses en pleine nuit, toujours serrant un lion en peluche.
+226669|C'est à cause de cela qu'elle était devenue célèbre dans le quartier commerçant...
+226686|"Les...
+226688|...Les...
+226690|Je t'ai dit de ne pas emporter de peluches avec toiiiiiiiiiii !!!
+226696|  Pourquoi...
+226702|tu ne peux pas...
+226708|écouter ce que dit Mama ?!!
+226714|  Pourquoi ?!‖  Pourquoi, pourquoi ?!‖  Pourquoi tu ne peux pas respecter les règles de Mamaaaaaaaaaa ?!!"
+226727|À chaque mot, elle frappait le sol du talon et cognait furieusement contre le mur.
+226731|...Certes, ces coups ne s'abattaient pas directement sur Maria.
+226732|Mais la violence de ce vacarme, elle, la frappait de plein fouet.
+226738|"M-Madame, ...arrêtez... !!"
+226745|"Lâchez-moi !!‖  Je vous dis de me lâcheeeeeeeeeeeer !!"
+226757|L'assistante sociale, revenue à elle, immobilisa Rosa en lui bloquant les bras dans le dos.
+226760|Mais à l'instant même où on la toucha, Rosa se débattit comme électrisée et repoussa violemment l'assistante sociale.
+226770|...Celle-ci heurta la table et tomba par terre.
+226771|Une tasse posée sur la table se brisa au sol dans un bruit violent...
+226780|『...M-Maria n'a rien fait de mal... !‖  C'est ma faute !‖  Alors ne gronde pas Maria... !!』
+226786|"C'est Maria qui a emmené Sakutarou... !!‖  C'est pas la faute de Sakutarou !!
+226791|  C'est pas la faute de Sakutarou !!‖  Alors regarde pas Sakutarou avec ces yeux qui font peur !!‖  Le regarde paaaaaaaaaaaaaaaaaas !!"
+226797|『Ne gronde pas Maria... !‖  Ne gronde pas Maria... !!‖  Uryuu-- !!!』
+226804|".........T-Toi...‖  Qu'est-ce que tu fais depuis tout à l'heure ?
+226809|  Tu joues aussi à la poupée comme ça...dehors ?‖  Tu le faisais aussi devant les gens des magasins... ?
+226815|  .........
+226822|Voilà pourquoi tout le monde se souvient de toiiiiiii,
+226832|crève, espèce d'idiote sans cervelle !!  Pourquoi tu es aussi débiiiiiiiiiiiiile ?!!!"
+226850|"Réponds-moi franchement.‖  Quand tu sortais faire des courses, tu emmenais toujours cette peluche en cachette de Mama, c'est ça ?"
+226858|『......U-Uryu......』
+226865|"Arrête de parler comme une peluche, c'est ridicule !!!
+226870|  Parle avec tes propres mots, pas avec ceux d'une peluche !!!"
+226878|"S-Sakutarou, c'est pas une peluche !!‖  C'est l'ami de Maria !!‖  L'appelle pas une peluche...‖  L'appelle paaaaaaaaaaaaaaaaaas !!"
+226885|"Oui, oui, j'ai compris, il s'appelle Sakutarou, c'est ça ?!‖  Tu l'emmenais toujours faire les courses, en cachette de Mama, c'est ça ?"
+226892|"...O-Oui......"
+226896|Maria l'avoua franchement.
+226899|Si elle ne l'avouait pas, Sakutarou dirait quelque chose pour prendre la faute sur lui, ‖ alors en avouant tout de suite, elle protégeait son petit ami.
+226906|"Seulement Sakutarou ?‖  Il y en a d'autres ?‖  ...Ne me dis pas que tu emportes aussi des choses bizarres à l'école... ?"
+226912|"...M-Madame !!‖  Votre fille n'a rien fait de mal, voyons !‖  Cessez immédiatement cet interrogatoire !"
+226919|"Vous, taisez-vous !!!
+226923|  Je parle avec ma fille, non ?!!!
+226928|  ...Allez, Maria, regarde Mama dans les yeux quand tu parles.‖  Qu'est-ce qu'on répond à la question de Mama ?"
+226934|"...U-Uu-...
+226939|  ...Il y avait pas que Sakutarou.‖  ...Tous les lapins venaient aussi..."
+226945|"......Tu les as sur toi en ce moment... ?"
+226951|"Uu-......"
+226957|Maria fouilla dans ses poches, ‖ ...et en sortit, dans sa toute petite main, quatre lapins en céramique...
+226960|Ces lapins étaient de précieux amis, qui pouvaient l'accompagner jusqu'à l'école à la place de Sakutarou.
+226963|Mais en les voyant, Rosa secoua légèrement la tête, comme prise de vertige...
+226973|Dans le carnet de correspondance, l'école avait écrit que Maria apportait apparemment des jouets en classe pour jouer avec, ‖ et demandait à la famille de faire en sorte qu'elle arrête.
+226976|Mais Rosa avait balayé la remarque, accusant l'enseignant de chercher la petite bête, et avait même appelé l'école pour protester.
+226979|...Sa fille n'apporterait jamais de jouets à l'école, avait-elle affirmé.
+226982|Pendant près d'une heure, elle avait hurlé sur le directeur adjoint pour qu'il cesse de porter de fausses accusations contre sa fille.
+226989|...L'école savait, dans une certaine mesure, que Maria était une enfant à plaindre.
+226993|On y savait que ces petits jouets qu'elle apportait étaient ses seuls amis.
+226994|...C'est justement pour cela qu'on avait choisi de fermer les yeux.
+226997|Mais d'autres élèves les avaient aperçus, ‖ et quelques garçons s'étaient mis à crier à l'injustice parce qu'elle seule avait le droit d'apporter des jouets ; l'école ne savait plus comment calmer les choses...
+227000|On avait voulu passer gentiment le message par l'intermédiaire de la mère, ‖ mais après la réaction excessive de Rosa, même l'institutrice de Maria avait préféré fermer les yeux.
+227005|......Mais à présent, Rosa savait.
+227008|C'était elle qui avait eu tort, ...sa fille apportait bel et bien des jouets à l'école.
+227011|......Et l'école... ‖avait vu le spectacle honteux de sa fille apportant des jouets en classe et jouant seule avec eux, comme s'ils étaient ses seuls amis.
+227014|Pour Rosa, dont la fille était un peu différente des enfants ordinaires, ‖ voir ce côté singulier de sa fille étalé au grand jour et montré du doigt était plus insupportable que tout.
+227020|......Alors elle rugit.
+227023|Elle s'emporta.
+227026|L'assistante sociale tenta de nouveau de s'interposer entre Rosa et Maria, ‖ mais elle ne fit que déchaîner une fois de plus la fureur de Rosa.
+227033|Rosa, le visage pareil à celui d'un démon, repoussa encore une fois la femme,
+227039|et comme cela ne suffisait toujours pas à calmer sa colère, elle trépigna encore et encore avec une telle violence qu'on aurait cru qu'elle allait passer à travers le plancher.
+227060|Puis, après avoir paru reprendre ses esprits l'espace d'un instant,
+227062|......elle retint soudain son souffle haletant...et demanda à Maria :
+227068|".........‖...Maria.‖  Ces lapins de l'orchestre, ce sont tes précieux amis ?"
+227075|"......U-Uu-......"
+227082|"Je vois.‖  C'est bien, d'avoir quatre amis, hein ?"
+227087|Tout en disant cela, Rosa saisit l'un des lapins dans la main de Maria.
+227088|Puis elle le lui mit sous le nez, pour bien le lui montrer.
+227092|...Un adorable lapin tenant une trompette, une petite figurine semblable à une pièce d'échecs.
+227093|Elle le leva lentement, très haut.
+227096|...Bien sûr, les yeux de Maria et de Sakutarou le suivirent...
+227104|Puis, à une vitesse que l'œil ne pouvait suivre, elle le fracassa contre le mur.
+227123|"Kyaaa !!!!"
+227126|『......!!!』
+227135|Elle avait à moitié imaginé que le pire pourrait arriver.
+227136|Aussi comprit-elle aussitôt ce qui venait de se passer.
+227139|...Alors Maria poussa un bref cri de désespoir...
+227145|Il était en miettes.
+227149|Il était petit et solide, mais pas assez pour résister à la fureur déchaînée de sa mère.
+227156|"......Comme tu n'as pas écouté ce que Mama t'a dit, j'en ai cassé un.‖  Désormais, chaque fois que tu désobéiras à Mama, j'en casserai un autre.
+227164|  ...Tâche de t'en souvenir !!!"
+227169|"Madame, ...vous osez vous dire mère après avoir fait une chose pareille ?!!‖  Vous croyez que votre fille n'en souffre pas, quand vous faites ça ?!"
+227177|"Maria, souffrir ?!‖  Mais moi aussi je souffre, non ?!‖  Qui va prendre la responsabilité de mes blessures, à moi ?!
+227183|  Hein ?!
+227187|  Quiiiiiiiiiii ?!!!‖  Je t'ai dit de la fermeeeeer !!!"
+227193|"A-Arrête, Mama... !‖  C'est la faute de Maria... !‖  Te fâche pas contre la dame... !"
+227199|『C'est pas la faute de Maria, ...c'est la mienne... !‖  Te fâche pas contre Maria... !‖  Uryu, uryuuryuuryu, uryuu-- !』
+227207|"......J-Je t'ai dit d'arrêter de jouer à la peluche comme çaaaaaaaaaa ?!!
+227219|  Et puis d'abord, c'est répugnant, une peluche comme amie, tu as quel âge, cette année ?!‖  Quel âge ?!‖  Hein, quel âge ?!"
+227225|"Ce n'est qu'une peluche mal fichue et répugnante, faite de tissu et de coton, non ?!!
+227230|  C'est tout ce que tu as comme amis ?!‖  Si tu as le temps de jouer à faire comme si cette peluche monstrueuse était ton amie, va donc te faire de vrais amis, des humains !!"
+227235|"Pourquoi est-ce que tu n'arrives jamais à te faire des amis ?!!‖  C'est pour ça que toute ta classe te prend pour une bizarre et se moque de toi !!‖  Ça suffit, maintenant, ressaisis-toi enfin !!‖  Il est temps de passer l'âge de ces jeux de peluche !!"
+227244|『Uryu,
+227246|...uryu......』
+227256|"Je t'ai dit d'arrêter ton jeu de peluuuuuuuuuche !!"
+227262|"Aaah !!‖  Mama, Mama !!‖  Rends-le !‖  Rends-moi Sakutarouuuuuuuuuu !!"
+227267|『Uryu- !!
+227270|  Uryuu-- !‖  Uryuuryu- !』
+227305|Mama a attrapé Sakutarou par la tête...et me l'a arraché...
+227306|Puis, ......elle l'a cogné contre le mur, encore et encore.
+227312|『Uryu- !!‖  J'ai mal, j'ai mal, mal mal mal mal... !!』
+227320|"Arrête, je te dis !!
+227326|  Je t'ai dit d'arrêter ton numéro de peluuuuuuuuuuche !!
+227332|  C'est à cause de cette peluche !!‖  C'est pour ça que tu n'arrives jamais à te faire des amis !‖  C'est pour ça que tu es la seule à être mise à l'écart dans ta classe, et qu'on te traite comme une bête curieuse !!‖  Je n'aurais jamais dû te donner une peluche pareille !!‖  Je n'aurais jamais dû te donner une peluche aussi répugnante !!"
+227351|"Arrêêêêêêêêêêêête !!
+227368|  Rends-moi Sakutarou, rends-moi Sakutarou !!‖  Waaaaaaaaaaaaaaaaaaaaahhh !!‖  Sakutarou, c'est l'ami de Maria !!‖  Son meilleur ami !!‖  Du moment que Sakutarou est là, Maria a besoin de rien d'autre !‖  Alors rends-le !!‖  Rends-leeeeeeeee !!"
+227372|...Ma supplique désespérée, je ne sais pourquoi, n'a fait que jeter de l'huile sur le feu de la colère de Mama...
+227382|Mama a repoussé mon bras alors que j'essayais de reprendre Sakutarou, ‖ et d'une façon étrange, elle a planté profondément les ongles de ses deux mains dans Sakutarou et l'a tordu...
+227389|L'écharpe rouge que je lui renouais soigneusement tous les jours s'est défaite et est tombée par terre...
+227394|...Sakutarou, à qui je tenais tellement, tellement...
+227397|...Était tordu, écrasé, déchiré par les ongles à ce point...
+227405|Il se tordait de douleur,
+227407|son visage se crispait...
+227409|de tristesse......
+227424|Puis les ongles de Mama...
+227426|ont trouvé une couture du cou......
+227428|et l'ont déchirée...
+227429|...Avec les ongles de ses deux mains,
+227431|...elle l'a mis en pièces......
+227450|En un instant,
+227452|......le tissu jaune de Sakutarou...
+227454|et le coton à l'intérieur...ont jailli...
+227458|On aurait presque dit de la barbe à papa humide...
+227470|『...U......ryu.........』
+227476|"...kutarou...... ?"
+227483|『...Ma...ria......』
+227489|"......Sakutarou......"
+227496|『U...ryu...———』
+227502|"......kutarou......"
+227509|『——... .. .・    "
+227515|"......ta...rou......"
+227521|『』
+227530|...
+227535|......Le tissu jaune tout froissé et la barbe à papa qui en débordait m'ont été fourrés sous les yeux.
+227538|Puis, ...à travers le visage de Mama, l'être maléfique...l'a déclaré clairement.
+227545|"~ib~Sakutarou est mort~ib~."
+227573|Mabagagyurui, gyugo.
+227586|Gikuguki
+227588|...kutarou
+227590|...sakuta
+227592|...rou
+227594|...gubijitta......
+227603|...Uuuuu.
+227607|Uwaaaaaaaaaaaaauuuuuuuuuu...‖  Waaaaaaaaaaaaauuuuuuuuuuuu...
+227608|gudarou...‖sagudarou...‖  ...Waaaaaaaaaaaaaaauuuuuuuuu......
+227620|"MARIA, ...MARIA......‖  ...Ne pleure point..."
+227628|"Beatrice, Beatrice... !!‖  Waaaaaaaaaaaaaaaaaahhh !!‖  Waaaaaaaaaaaaaaahhh !!"
+227635|"Sakutarou était un bon ami...‖  Tant que tu ne l'oublieras pas, il sera toujours avec toi...‖  Alors ne pleure point..."
+227642|"Fais-le revenir à la vie !!‖  Tu connais plein de magies, Beato !!‖  Tu peux même faire revivre Sakutarou, hein ?!"
+227648|"......C-C'est que...‖  ...Bien sûr, si Sakutarou avait été mon meuble, ce serait aisé.
+227653|  Mais Sakutarou est ton meuble à toi.‖  ...Pour moi, c'est difficile."
+227659|"Si tu dis que c'est difficile, ça veut dire que c'est pas impossible, hein ?!‖  Fais-le revenir à la vie !!‖  Fais-le revivre avec la Magie de l'Infiniiiiiiiiie !"
+227666|"......Hmm...‖  ...À vrai dire...‖  Le réceptacle de Sakutarou était une peluche que Rosa avait faite de ses mains, n'est-ce pas... ?
+227671|  Et cette Rosa a nié Sakutarou.‖  ...Une vie que sa propre mère n'a pas permise ne peut exister..."
+227675|Les paroles de Beatrice étaient faibles.
+227678|...Car elle savait que, quelle que soit l'excuse, ‖ cela ne suffirait pas à consoler Maria ni à le lui faire accepter.
+227681|Mais elle devait annoncer cette douloureuse vérité à Maria, sa disciple et sa grande amie.
+227684|......Elle devait lui annoncer ce fait... ‖...que même en usant de toute sa magie, elle ne pouvait ramener Sakutarou à la vie.
+227690|"Tant que tu continueras à croire fermement en l'existence de Sakutarou, son âme ne disparaîtra pas...‖  Alors, MARIA, ...je t'en prie, ne sois pas triste..."
+227695|"Là, en ce moment même, regarde, ...crois que Sakutarou te sourit, juste là..."
+227702|"Non !!!
+227708|  Non
+227716|non
+227724|non !!
+227732|  Il faut que tu fasses revivre Sakutarou !!‖  Non non non !
+227738|  Waaaaaaaaaaaaaaaaaaaahhhh !!"
+227744|"Renonce... !!‖  Il n'existe point de magie pour ramener Sakutarou à la vie... !
+227749|  Mais malgré cela, tu dois croire de toutes tes forces que Sakutarou demeure ton grand ami... !!‖  Cette force deviendra magie... !"
+227758|"C'est pas de la magie, c'est pas de la magie !!
+227762|  Il faut que Sakutarou revienne à la vie... !!
+227767|  C'est impossible parce que c'est Mama qui l'a fait elle-même ?‖  Pourquoi Mama a fait Sakutarou ?‖  C'était pour l'offrir à Maria, non ?‖  C'était pour qu'il soit l'ami de Maria, non ?
+227773|  Alors pourquoi...Mama l'a fait elle-même...et l'a cassé elle-même ?‖  Pourquoi Mama lui a donné naissance elle-même, et a voulu le casser elle-même ?‖  Je comprends pas, je comprends pas !!"
+227783|"Je hais Mama, je hais Mama... !!‖  C'est trop injuste c'est trop injuste trop triste trop triste... !!‖  Je veux tordre Mama comme elle a fait à Sakutarou... !‖  Je veux planter mes ongles et la déchirer, la réduire en tissu et en coton !!‖  Waaaaaaaaaaaaaaahhh !!‖  C'est trop injuste, trop injuste, Beatriiice !!‖  Waaaaaaaaaaaaaaahhh, Sakutarouuuuuuuu !!!!"
+227789|Des ténèbres, derrière Maria, deux bras gigantesques d'un noir de jais surgirent lentement, ‖ et s'enroulèrent autour de Maria qui sanglotait de rage.
+227792|Puis d'immenses ongles s'enfoncèrent dans la poitrine et le ventre de Maria...
+227798|Maria ne pouvait pas les voir.
+227799|...Mais Beato, si.
+227802|La colère et la tristesse qui ne savent où se déverser finissent par vous déchirer vous-même.
+227806|...Beato le savait.
+227807|Elle le voyait.
+227810|Oui.‖  ...Autrement dit, ces bras gigantesques étaient ceux de Maria elle-même.
+227813|Ces ongles commençaient lentement à s'enfoncer dans sa poitrine et son ventre...
+227816|...Avec leur taille et leur force démesurées, ‖ces bras pourraient sans doute réduire Maria en lambeaux sans la moindre peine...
+227819|Mais Maria elle-même ne pouvait s'en rendre compte.
+227822|Noyée dans un océan de ses propres larmes, ...elle ne pouvait se rendre compte que ses propres bras tentaient de lui déchirer la poitrine...
+227828|"C'est trop injuste, trop injuste... !!!‖  Si on peut vraiment pas faire revivre Sakutarou, ...Maria veut se venger !!‖  Je veux que Mama subisse la même chose !!‖  Je veux qu'elle subisse la même chose que Sakutarou... !
+227833|  Beatrice !!‖  Apprends-moi une magie pour ça !!‖  Apprends-moi une magie pour battre Mama... !!"
+227840|"............
+227845|...Est-ce là le fond de ta pensée ?"
+227851|"Tuer Mama !!‖  Je vais la tuer !!‖  Non, c'est pas Mama !‖  C'est la méchante sorcière qui a pris possession de Mama !
+227856|  Je vais tuer la sorcière Mama !!‖  Uuuuuuuuuuuuuuuuuuuu !!"
+227862|".........
+227867|...Soit.‖  Je te donnerai ce pouvoir.‖  ...Plutôt que de te voir, toi et ton cœur si beau, te déchirer toi-même, ‖...il est bien plus juste que ta mère sans cœur, celle qui t'a infligé cette souffrance, soit déchirée à ta place."
+227874|"......Je vais te l'enseigner.‖  ...Je vais t'enseigner l'abîme du monde des sorcières, ces profondeurs où ne pénètre aucune lumière..."
+227880|"Uuuuuuuu, Sakutarou, Sakutarou... !!‖  Je déteste, je déteste, je les déteeeeste tous !!‖  Je déteste Mama, et Ange aussi !!‖  Je les déteste tous, tooous !!‖  Uuuuuuwaaaaaaaaaaaaaaaaaaahhh... !!"
+227952|J'avais l'intention de faire une petite sieste, ...mais le bateau tanguait vraiment trop.
+227958|J'ai renoncé à dormir et je suis montée sur le pont.
+227959|Là, un soleil éclatant et une forte brise marine m'ont accueillie...
+227966|Amakusa faisait des étirements sur le pont.
+227971|...Lui aussi devait avoir du temps à tuer.
+227972|Après tout, il nous reste encore plusieurs heures avant d'atteindre Niijima.
+227975|En avion, il n'aurait fallu que quelques dizaines de minutes, mais il était possible que la famille Sumadera ait tendu ses filets autour de l'aéroport de Niijima.
+227979|Et sans doute le port aussi.
+227980|C'est pour ça que j'avais trouvé un bateau qui nous débarquerait à l'écart du port, sans poser de questions.
+227983|Je suis tombée par hasard sur un capitaine jovial, ‖ je l'ai payé grassement, et il a accepté de m'aider, amusé...
+227991|"Il reste encore longtemps ?"
+227998|"Je viens de demander au capitaine, il paraît qu'il faudra encore deux bonnes heures.‖  Enfin, on n'est pas en position de faire les difficiles."
+228005|"......Il fait vraiment beau.‖  Je vais finir par cramer."
+228011|"Vous allez lire sur le pont ?‖  Vous allez abîmer votre livre."
+228016|Amakusa avait dû penser ça parce que je tenais le journal de Maria onee-chan sous le bras.
+228017|Je le lisais à moitié endormie, et c'est pour ça que j'étais remontée en le gardant sous le bras.
+228025|"Alors, ça avance ?‖  Vous pensez pouvoir trouver la vérité sur Rokkenjima dans le journal de Maria-san ?"
+228032|"......Qui sait.‖  J'aurai beau enquêter sur ce qui s'est passé sur cette île, je n'obtiendrai jamais rien de plus qu'une hypothèse.‖  Ni la bouteille à la mer ni le journal d'Onee-chan ne disent la vérité : ils racontent juste un conte de fées où se promène une sorcière.‖  ...Je suis coincée."
+228037|"On dirait qu'il ne vous reste plus qu'à espérer quelque chose de l'interrogatoire des témoins à Niijima."
+228041|"Les chasseurs de sorcières ont dû les bombarder de questions encore et encore, alors je suis à peu près sûre de ne trouver aucun fait nouveau."
+228046|"Hé ha ha... !‖  Vous n'en attendez pas grand-chose, et pourtant vous êtes prête à passer une demi-journée en bateau pour aller à Niijima !  Quel caprice."
+228050|"......C'est une sorte de voyage pour ma propre satisfaction, pour pouvoir dire `j'ai enquêté'.‖  Je ne suis pas naïve au point de croire sérieusement que la vérité d'il y a 12 ans va être révélée."
+228059|"Et quand vous en aurez fini avec votre voyage de satisfaction personnelle, vous comptez faire quoi ?"
+228065|"Qui sait.‖  J'y ai pas réfléchi.‖  ......J'irai à Niijima, j'interrogerai quelques témoins.
+228070|  ...Puis, pour finir, j'irai à Rokkenjima déposer quelques fleurs, et mon voyage sera terminé."
+228077|......Plusieurs jours se sont déjà écoulés depuis le début de ce voyage.
+228080|Après que Bernkastel m'a dit, sur le toit de cet immeuble, de chercher la vérité d'il y a 12 ans, ‖je suis partie pour un voyage qui revenait à vouloir attraper un nuage.
+228083|Sur le moment, j'avais ressenti quelque chose de mystique...et j'avais l'impression que je pourrais peut-être saisir une sorte de miracle au bout de ce voyage.
+228086|...Mais au bout de quelques jours, l'exaltation retombe.
+228093|Ce jour-là, quand je me tenais sur le toit de ce gratte-ciel, mon cœur était complètement acculé, mort.
+228096|...C'est pour ça que j'avais souhaité du fond du cœur être libérée de la cage de mon corps et m'élever dans le ciel... ‖et que j'avais franchi la clôture pour mourir.
+228099|Peut-être que l'envie de mourir et le fait d'avoir réellement fait ce pas en avant, de m'être jetée dans le vide... ‖ont provoqué une sorte d'expérience mystique dans ma tête, et m'ont fait croire que j'avais reçu un message d'une sorcière.
+228102|......L'exaltation de mon saut s'est dissipée avec le temps, et plus je reprenais mes esprits, plus ce voyage perdait son sens.
+228108|Mais je n'ai même pas envisagé d'y mettre fin pour autant.
+228111|Si j'arrête ce voyage, cela reviendra à reconnaître que le message de cette sorcière n'était qu'une illusion.
+228115|Et j'avais l'impression que ça reviendrait à jeter la promesse que la sorcière m'avait faite... ‖et même toute chance que quelqu'un de ma famille revienne.
+228118|Alors, parce que je veux croire à cette illusion de l'autre jour, je poursuis mon voyage.
+228125|Je ne crois pas sérieusement que ce voyage changera quoi que ce soit.
+228126|...C'est à moi de décider quand y mettre fin.‖  C'est à moi de choisir sa destination finale.
+228129|Au fond, ce voyage n'est que pour ma propre satisfaction...
+228142|"......Satisfaction personnelle, hein ?‖  Dit comme ça, ça sonne mal, mais je crois que c'est justement ça, la vie."
+228148|"...Tiens ?‖  Si c'est la réponse à laquelle t'es arrivé après avoir frôlé la mort comme mercenaire, ça doit être plutôt profond."
+228155|"Ne vous moquez pas.
+228160|  Ce que je veux dire...c'est que la seule personne au monde qui puisse vous reconnaître, c'est vous-même."
+228165|Amakusa a continué ses étirements tout en parlant.
+228166|Avec une fraîcheur agaçante.
+228170|Quand on me parle comme un prof, j'ai instinctivement envie de me rebiffer, mais ce qu'il disait était tout à fait sensé.
+228176|".........
+228181|...C'est peut-être vrai.
+228188|  Les gens font des efforts parce qu'ils veulent être reconnus par quelqu'un.‖  ...La plupart du temps, ce quelqu'un, ce sont leurs parents.‖  Les enfants apprennent à faire des efforts parce qu'ils veulent être félicités par leurs parents.‖  ......C'est d'ailleurs pour ça que moi, je n'ai jamais appris."
+228194|"Pardon, ce n'est pas ce que je voulais dire.
+228199|  ...Ce que je veux dire, c'est que la satisfaction personnelle, il n'y a rien de mal à ça.‖  Peu importe qui vous félicite, ça ne veut rien dire si vous-même vous n'êtes pas convaincue.‖  ...Et à l'inverse, même si personne ne vous félicite, peu importe, du moment que vous, vous êtes convaincue."
+228209|"......La satisfaction personnelle s'oppose à l'envie de progresser, alors on nous apprend en général que c'est mal.‖  Ta façon de voir les choses est plutôt rafraîchissante, Amakusa."
+228216|"La souffrance du monde des humains, c'est de vouloir être reconnu par quelqu'un sans savoir pour quoi il faudrait faire des efforts.‖  Moi aussi, j'ai connu une période comme ça.‖  Je voulais être reconnu par quelqu'un, mais je ne savais pas pour quoi je voulais l'être.‖  Et comme je ne savais pas pour quoi me battre, ni jusqu'où aller pour être reconnu, ‖ j'ai fait pas mal de folies."
+228223|"Et la réponse à laquelle tu es arrivé...c'est la satisfaction personnelle ?"
+228229|"Dit comme ça, ça sonne mal, mais c'est ça.‖  Le vrai riche est celui qui sait se contenter de ce qu'il a, comme on dit."
+228234|"......Si moi, je suis satisfait de ma vie, ce que disent les autres n'a aucune importance.‖  C'est pareil pour votre vie, et pour ce voyage.‖  Personne d'autre que vous, Ange-san, n'a le droit de vous critiquer."
+228239|"C'est vous seule qui décidez du sens et des résultats de votre voyage.‖  Si ce voyage a eu du sens pour vous, alors c'est amplement suffisant."
+228246|".........‖......Je t'ai toujours pris pour un dragueur frivole, mais tu sors vraiment des trucs bizarres de temps en temps.‖  Je parie que tu crois que dire des choses pareilles te rend irrésistible."
+228252|"Pas du tout, pas du tout.‖  Ce n'est pas du tout ce que je voulais dire.
+228257|  ......On dirait que vous voulez rester seule.‖  Je vais aller voir le capitaine.‖  Prenez votre temps."
+228267|Amakusa avait apparemment jugé que j'étais de mauvaise humeur.
+228268|...Même si ce n'était pas le cas.
+228273|Ou alors, il avait fini sa série d'étirements et voulait se rafraîchir à l'ombre.
+228274|La brise marine était forte, mais pas assez pour adoucir les rayons du soleil.
+228278|Amakusa a disparu.
+228279|Il n'est resté que moi.
+228285|"......La satisfaction personnelle, c'est la vie elle-même, hein ?"
+228292|"C'est d'un ennui.
+228297|  La vie n'est rien sans avidité."
+228301|Je me suis aperçue que Mammon était soudain apparue près de la proue, ses longs cheveux abondants flottant au vent.
+228309|"C'est vrai qu'une vie d'avidité serait amusante.‖  Mais contrairement à toi, les Humains ont une durée de vie limitée.
+228314|  Si l'avidité est éternelle, ça veut dire qu'on aura encore des désirs au tout dernier instant avant de mourir.‖  Avoir des désirs, ça veut dire qu'on veut quelque chose.‖  Qu'il nous manque quelque chose, qu'on n'est pas comblé."
+228319|"...Ça doit être dur de mourir sans pouvoir se dire qu'on a eu une vie comblée.‖  Alors je suis sûre que la satisfaction personnelle est nécessaire."
+228326|"......Je vois.‖  Parce que vous avez une durée de vie, il vous faut ce genre de compromis ?
+228332|  Nos maîtres ont toujours eu des vies terriblement longues, alors je n'y avais jamais pensé."
+228338|"Je me demande si les Humains vivent pour être comblés.‖  ...Si c'est le cas, le plus simple serait sans doute de vivre sans désirs.
+228343|  ...Je vois, c'est pour ça que l'avidité fait partie des sept péchés capitaux."
+228350|"*gloussement*‖  Vos compliments m'honorent."
+228355|Apparemment, aux yeux de Mammon, c'était un compliment.
+228356|Elle a pivoté et m'a adressé une gracieuse révérence.
+228364|"Ange-sama, ‖ les Humains vivent-ils pour pouvoir être comblés à l'instant de leur mort ?"
+228370|"...Ce serait plutôt dur, non, de sentir qu'il te manque quelque chose au moment de mourir ?"
+228376|"Alors les Humains ne vivent que pour avoir une mort qui les comble.‖  Ils vivent pour mieux mourir.‖  Ils vivent pour mourir."
+228381|......Cette gamine sort des trucs incroyables.
+228382|...Je vois, je n'en attendais pas moins d'un pieu démoniaque.
+228389|Pourtant, c'est peut-être la vérité.
+228390|Les humains souffrent parce qu'ils ne sont pas comblés...et ne vivent que pour l'être.
+228393|Autrement dit, cela revient peut-être au désir de mourir comblé.
+228400|"Je ne trouve rien à répondre.
+228405|  ...Les gens vivent pour être comblés.‖  Et ils espèrent mourir ainsi.
+228410|  Alors c'est vraiment douloureux de ne pas savoir comment l'être."
+228416|"Et comment on fait pour l'être, alors ?‖  Dans une vie d'Humain."
+228422|"......En étant reconnu.‖  En entendant quelqu'un dire `Tu es heureux'."
+228428|"Si n'importe qui peut les reconnaître, alors je veux bien le faire, moi."
+228434|"Oui, c'est bien ça, le problème.‖  ......Les gens ne savent pas par qui ils ont besoin d'être reconnus."
+228440|"Alors chercher cette personne qui peut les reconnaître, c'est ça, le voyage de leur vie ?‖  Hmmmm."
+228450|"C'est étrange.‖  Qu'on soit reconnu ou non, ça ne devrait rien changer à notre situation.‖  ...Et pourtant, si on est reconnu, on est comblé, et si on ne l'est pas, on ne l'est pas.‖  ...C'est un peu comme l'oiseau bleu.‖  ...Parce qu'on ne remarque pas l'oiseau bleu alors qu'il est déjà dans la cage, on doit partir le chercher partout."
+228457|"C'est quoi, ce truc ?
+228462|  Kyah ha ha ha.‖  C'est vraiment bête, une vie d'Humain."
+228468|"C'est vrai.‖  Amakusa a dit quelque chose de vraiment juste.
+228473|  ...Le vrai riche est celui qui sait se contenter de ce qu'il a, ...c'est ça ?‖  Je ne sais pas d'où vient ce proverbe, mais il est profond.‖  ...Au fond, si on ne peut pas se sentir comblé sans être reconnu par quelqu'un d'autre, c'est qu'on ne se reconnaît pas soi-même.‖  ...L'accomplissement ultime, c'est de se reconnaître soi-même."
+228479|"Évidemment.‖  Parce que si on peut `savoir' qu'on est pleinement comblé, on n'a besoin d'être reconnu par personne.‖  Il suffit de remarquer cette petite chose pour que le stupide voyage de la vie des Humains se termine sans peine.
+228484|  On peut passer le reste de sa vie à jouer et à s'amuser.‖  C'est trop ridicule, une vie d'Humain, kyah ha ha ha ha !"
+228490|Mammon choisissait mal ses mots, mais c'était sûrement la vérité.
+228493|Si l'essentiel d'une vie humaine est un voyage dans l'espoir d'être reconnu par quelqu'un, ‖pour pouvoir connaître une mort comblée...
+228496|......Alors, quand on comprend que celui qui doit nous reconnaître n'est pas quelqu'un d'autre mais soi-même, ce voyage inutile peut prendre fin.
+228499|Les humains qui ont achevé ce voyage peuvent sans doute vivre le reste de leur vie librement, la tête haute.
+228502|Ce serait si noble, si digne...
+228509|"Tu sais, ‖il paraît qu'Amakusa est en très mauvais termes avec ses parents.
+228514|  ...Ça se comprend.‖  N'importe quels parents normaux voudraient qu'il se sorte de ce métier."
+228522|"Et alors, où est le problème ?‖  Du moment que ça lui plaît."
+228528|"......Exactement.‖  Au bout du compte, tout se résume à ça.‖  Le jugement que les autres portent sur toi n'a aucune importance.‖  Si toi-même, tu reconnais fermement ta propre existence, ça suffit.‖  ...Si tu peux vivre en ayant confiance en toi, tu pourras sûrement accepter n'importe quel mode de vie et t'en satisfaire."
+228533|"Je suis sûre qu'un jour, Amakusa prendra une balle perdue sur un champ de bataille et sera gravement blessé.‖  ...Il pourrait même mourir.
+228538|  Mais je ne crois pas qu'il trouverait ça injuste.‖  Je suis sûre qu'il en rirait en disant que ça aussi, ça fait partie de la vie."
+228544|"Quelle belle façon de vivre.‖  Je pourrais tomber amoureuse de lui."
+228550|"...Les pauvres Humains qui ne peuvent pas se reconnaître eux-mêmes... ‖errent toute leur vie à la recherche de cette reconnaissance, et sans rien accepter, ils ne font que se plaindre et meurent sans avoir été comblés.‖  ...C'est pitoyable.‖  Comparé aux gens qui traînent leur vie sans le moindre but, ‖ Amakusa finira peut-être un jour par crever au bord de la route, mais je trouve qu'il est bien plus noble, lui qui vit la tête haute."
+228556|"Dans la vie, ceux qui gagnent, ce sont ceux qui ont compris, non ?‖  Plus tôt ils comprennent, plus ils peuvent profiter du reste de leur vie."
+228562|......Avec ces mots de Mammon,
+228564|...j'ai enfin accepté une certaine vérité.
+228567|Autrefois, ...je qualifiais cette fille de bizarre, d'un peu étrange.
+228572|Mais,
+228574|...ce n'était pas vrai.
+228579|Elle avait seulement gardé la tête haute...
+228581|...et achevé ce voyage plus vite que quiconque.
+228592|".........C'est peut-être pour ça que Maria onee-chan...était si incroyable.
+228597|  À un âge où elle entrait à peine à l'école primaire, elle était déjà arrivée à ce stade."
+228606|Pour nous autres, qui observions sa vie de l'extérieur, ce n'était pas ce qu'on appellerait une vie heureuse.
+228609|Mais même si des journées comme celles-là étaient gravées dans son journal, ‖ ...elles se terminaient toujours par la mention que ç'avait été une journée heureuse.
+228618|Même si la part de sa mère qui n'aimait pas sa fille se laissait entrevoir, ‖elle croyait que sa mère l'aimait.
+228621|Cet amour maternel qui n'existait pas, elle l'a créé elle-même, et elle a rempli son monde d'amour.
+228629|Les autres la voyaient peut-être comme une pauvre fille jamais comblée, ‖ ...mais elle, elle se reconnaissait comme comblée.
+228632|Et c'est pour ça qu'elle était heureuse ainsi.
+228641|C'est facile d'y voir quelque chose de pitoyable et de triste.
+228642|Mais pour elle, ce n'était que l'avis des autres, alors ça n'avait aucune importance.
+228645|`Était-ce le bonheur pour elle, ou non'...c'est tout ce qui comptait.
+228648|C'est exactement comme quand les citadins montrent du doigt la façon de vivre des gens de la campagne, ‖ en déplorant leurs difficultés et en les plaignant : ça ne les regarde absolument pas.
+228651|Si ceux qui vivent là sont satisfaits de ce qu'ils ont, c'est amplement suffisant.
+228665|"......J'ai enfin compris quelque chose.‖  Je viens de le comprendre.
+228670|  ...J'ai fait quelque chose d'horrible à Maria onee-chan.‖  ......Et à vous toutes, et à Sakutarou aussi, ce jour-là."
+228677|"............"
+228684|"Que la magie existe...ou non.‖  ...Ce n'est pas aux autres d'en décider.
+228689|  C'est à soi-même.‖  Que la magie existe pour Maria onee-chan, c'est à Maria onee-chan d'en décider, pas à moi."
+228694|"...Et pourtant, quand j'étais petite, ce jour-là, je l'ai dit.‖  En disant que la magie ne pouvait pas exister, ...je l'ai blessée."
+228699|Que la magie n'existe pas à mes yeux...ça vaut pour mon monde.
+228700|Mais en profiter pour la nier jusque dans le monde d'Onee-chan, c'était se tromper complètement de cible.
+228707|"Mariage Sorcière, c'est l'alliance de sorcières que Maria onee-chan a créée.‖  Elle m'y a invitée...en me proposant de devenir sorcière avec elle."
+228712|"Je trouvais que c'était un nouveau jeu amusant, alors je l'ai suivie quelque temps.‖  ...Mais, avec la cruauté de l'enfance, ‖ je m'en suis lassée en cours de route.‖  Et, ...j'ai déchiré son cœur pur avec des mots tranchants."
+228717|"...À ce moment-là, on a dû se disputer violemment.‖  Moi, j'ai vite oublié, mais elle, elle n'a pas pu oublier.‖  ...Après tout, pour elle, la magie était un pouvoir naturel, qui existait vraiment, ‖ et elle croyait pouvoir le partager avec moi."
+228722|"...Pour Maria onee-chan, ‖la magie était un pouvoir qui permettait de voir le monde comme heureux...non, qui rendait vraiment tout heureux.‖  Elle voulait simplement partager ça avec moi aussi.‖  Et la petite fille que j'étais a déchiré ce sentiment.‖  ...Alors elle s'est enfermée dans sa coquille, persuadée qu'elle ne pourrait partager sa magie avec personne."
+228729|"......Si c'est vrai, alors le voyage de la vie de Dame MARIA n'était pas terminé, finalement.‖  Si elle avait pu s'accepter elle-même, elle n'aurait pas eu besoin de s'effondrer juste parce que vous l'aviez rejetée, Ange-sama."
+228735|"Onee-chan était petite.‖  Elle n'avait pas encore atteint la sagesse détachée d'Amakusa.‖  ...Oui, maintenant je comprends...‖  C'est pour ça qu'une alliance de sorcières comme Mariage Sorcière était nécessaire."
+228742|——Une alliance où chacune reconnaît que l'autre est une sorcière.
+228750|"...C'est ça, je crois bien que c'était le premier article du pacte de Mariage Sorcière.‖  ...Les sorcières de l'alliance se reconnaissent et se respectent mutuellement.‖  C'est le sens le plus profond, et le seul, de l'alliance des sorcières..."
+228756|Maria onee-chan voulait partager avec moi les lois secrètes qui rendent le monde heureux, ce qu'on appelle la magie.
+228760|Mais j'étais petite.
+228761|Et elle aussi.
+228764|...Je l'ai blessée avec une cruauté innocente.
+228771|"......Ce jour-là, j'ai dit...des choses cruelles.‖  À vous toutes, et à Sakutarou.‖  J'ai dit que vous ne pouviez pas exister."
+228777|"Quelle impolitesse.‖  Nous, nous reconnaissons nous-mêmes que nous existons.
+228783|  Nous ne sommes pas comme les Humains, avec leurs âmes à moitié endormies.‖  ...`Je pense, donc je suis'.‖  Que vous reconnaissiez la magie ou que vous la niiez, l'existence de cette magie qu'on appelle les Sept Sœurs du Purgatoire...est un fait.‖  ...Tant que nous la reconnaissons nous-mêmes, pour reprendre vos mots."
+228789|"Ce serait une véritable violence qu'une autre personne, comme moi, la nie.
+228794|  ......Ce serait sûrement comme se faire hurler par sa propre mère `J'aurais voulu que tu ne sois jamais née'... ‖non, `Disparais'."
+228802|...Même après avoir été frappée de plein fouet par tous ces mots, ‖ ...la magie de Maria onee-chan...
+228804|...lui a permis de croire en l'amour de sa mère.
+228807|Sakutarou, son ami magique, l'encourageait sans cesse.
+228812|...Il lui répétait que sa mère l'aimait, qu'elle rentrait tard à cause de son travail, ‖ et qu'elle rapporterait sûrement un cadeau...
+228815|Même quand Maria a appris que ce n'était pas vraiment le travail qui en était la cause, la magie lui a permis de continuer à y croire.
+228821|Et en croyant que sa mère l'aimait, en se reconnaissant elle-même, ‖ elle a rempli son monde d'amour, de paix et de sérénité, ...et l'a bâti entièrement.
+228828|"Ce qui s'est passé il y a 12 ans, ...ce qui est arrivé à ma famille...
+228833|  ...Ce n'était pas...un voyage pour découvrir ça."
+228839|"......Alors c'est quel genre de voyage ?"
+228845|"C'était un voyage...pour demander pardon à Maria onee-chan pour ce qui s'est passé ce jour-là."
+228851|"............"
+228857|"Je ne sais pas pourquoi, mais c'est ce que je pense.‖  ...Si je ne l'avais pas blessée, ‖ ......l'affaire d'il y a 12 ans n'aurait peut-être pas eu lieu.‖  ...C'est ce que je pense."
+228866|Je n'ai aucun fondement pour l'affirmer.
+228867|Je n'ai aucune idée de la façon dont blesser Onee-chan pourrait être lié à cette affaire mystérieuse survenue quelques années plus tard.
+228870|Mais, je ne sais pourquoi, je n'arrive pas à croire qu'il n'y ait aucun lien.
+228875|C'est une sorcière qui a provoqué cette affaire.
+228878|Et le coupable, c'est la Sorcière dorée, Beatrice.
+228881|Et Beatrice faisait partie de l'alliance de sorcières Mariage Sorcière.
+228884|J'ai horriblement blessé l'autre sorcière de cette alliance.
+228887|Je l'ai blessée en affirmant que la magie n'existe pas.
+228892|......Alors, quelques années plus tard, un crime commis par une sorcière a eu lieu, ‖ et deux journées qu'on ne peut expliquer autrement que par la magie m'ont été jetées à la figure, grâce à la bouteille à la mer.
+228899|"...Je suis forcément impliquée, d'une façon ou d'une autre.
+228904|  ......Je ne comprends pas.‖  C'est peut-être une coïncidence, ou peut-être le destin.‖  ......Je ne sais pourquoi, c'est ce que j'ai fini par penser pendant ce voyage."
+228910|"Et sur quoi vous vous fondez ?"
+228916|"Sur rien.‖  C'est juste ce que je pense."
+228922|"Hmmmm...‖  Les Japonais sont vraiment intéressants.‖  Même quand ils sont les victimes, ils ont l'impression d'avoir mal agi et s'excusent sans raison.
+228927|  ...Je comprendrais si vous disiez `Je hais Beatrice-sama de m'avoir pris ma famille !', ‖ mais vous êtes vraiment bizarre, à vous sentir coupable sans raison et à vouloir vous excuser."
+228933|"Bien sûr que je hais Beatrice.‖  Sans ce sentiment, je ne pourrais pas continuer ce voyage.
+228938|  Mais rien ne m'empêche de donner un autre but à ce voyage.‖  Il n'y a pas de mal à ajouter, en plus de ma vengeance contre la sorcière d'il y a 12 ans, le but de demander pardon pour mes fautes passées.‖  Je peux au moins aller à Rokkenjima, m'excuser pour mes paroles irréfléchies, et déposer des fleurs."
+228947|"...Non, ......il y a mieux que des fleurs.‖  Et je crois que ça conviendrait mieux à Onee-chan."
+228955|Je me suis levée, sans me soucier de la brise marine qui m'ébouriffait, et j'ai concentré mon esprit...
+228956|J'ai levé ma paume à hauteur de mon visage...et j'ai imaginé un vaste espace...
+228962|"......Ange-sama, ........."
+228969|"...Silence.
+228974|  .........
+228980|...Allons, viens.‖  ...Je suis l'apprentie sorcière ANGE Beatrice.‖  ...J'ai été excommuniée, mais j'ai jadis fait partie de la même alliance, et tu es le meuble regretté qui jouait avec moi.‖  Réponds à mon appel......"
+228986|C'était difficile à voir en plein jour, mais une faible lumière bleue s'est rassemblée au creux de ma paume.
+228991|......Puis,
+228993|......la silhouette de Sakutarou a ressuscité.
+229003|Elle me rappelait vraiment tant de souvenirs, cette silhouette.
+229011|Ses oreilles adorables, son écharpe rouge vif.
+229019|...Elle se défaisait facilement, alors Onee-chan la lui renouait consciencieusement tout le temps, c'est ça... ?
+229033|"...Sakutarou, ‖...tu nous reconnais ?‖  Tu sais qui nous sommes... ?"
+229039|『...Uryu... ?
+229044|  Uryu... ?‖  Mammon... ?‖  Ange...... ?』
+229048|Le visage ensommeillé, comme s'il s'éveillait d'un long sommeil, Sakutarou a regardé tout autour de lui en parlant.
+229055|"Ça faisait longtemps, ...Sakutarou.‖  Je crois bien que c'est la première fois que je t'invoque par mon propre pouvoir.‖  ...Et désormais, je suis la seule à pouvoir t'invoquer."
+229061|『.........Uryu...』
+229066|Ces mots étaient peut-être un peu cruels.
+229067|Le visage de Sakutarou s'est assombri...
+229074|"Autrefois, je t'ai nié.
+229081|  ......Si je t'ai invoqué,
+229083|...ça veut dire que j'ai accepté ton existence."
+229089|『......Tu es sûre... ?‖  Ça va vraiment...si je suis invoqué dans le monde d'Ange... ?』
+229093|Ses yeux étaient un peu craintifs.
+229097|...C'était bien naturel.
+229098|Moi qui jouais avec lui comme une amie, ‖ je l'avais soudain nié et j'avais tenté de le brûler avec le poison antimagie.
+229101|Normal qu'il ait peur...
+229107|"Je te demande pardon... ‖pour ce jour-là.‖  ......À toi aussi, Mammon.‖  Et à vous toutes."
+229124|À un moment donné, ...les autres Sept Sœurs s'étaient rassemblées sur le pont.
+229128|Non, elles sont toujours là.
+229129|Toujours à mes côtés.
+229132|Il suffit que je reconnaisse qu'elles ont le droit d'être là pour qu'elles apparaissent.
+229138|"Vous existez bel et bien.‖  Lucifer.‖  Leviathan.‖  Satan.‖  Belphegor.‖  Mammon.‖  Beelzebub.‖  Asmodeus.‖  ...Et Sakutarou aussi."
+229153|"...En êtes-vous sûre ?‖  Vous êtes celle qui défie Beatrice-sama, Ange-sama.‖  ...Est-il convenable que quelqu'un qui nie les sorcières nous reconnaisse ?"
+229159|"Que la magie existe ou non dans mon monde, désolée, mais je préfère laisser la question en suspens.
+229165|  Ce n'est pas que j'ai moi-même reconnu l'existence de la magie."
+229172|"...Mais alors, n'est-ce pas contradictoire...avec le fait de nous reconnaître ?"
+229178|"C'est que la magie existe pour ceux qui y croient.‖  Même si moi, je n'y crois pas.‖  Si quelqu'un y croit, alors la magie existera dans le monde des humains."
+229183|"Que je croie à la magie ou non, ça n'y changera absolument rien.‖  Non, ça ne doit rien y changer.
+229188|  Cette personne n'a qu'à garder la tête haute et croire en sa propre magie.‖  Et moi, je le reconnais.‖  Alors, il n'y a rien d'étrange à ce que vous existiez toutes."
+229196|"......Joli sophisme, ...mais c'est une interprétation intéressante."
+229203|"Ce que vous dites là, Ange-sama, c'est sans doute une preuve du diable."
+229212|"Une preuve du diable... ?"
+229220|"Ben oui !‖  Pour prouver l'existence des démons, il suffit d'en trouver un."
+229227|"Mais nier l'existence des démons, c'est impossible."
+229235|"Kyah ha !‖  Et nous, nous sommes là.‖  Ça veut dire que, qu'Ange-sama croie à la magie ou non, notre existence est inébranlable."
+229242|『...Uryu ?
+229251|  Le poison antimagie...
+229253|...est en train de disparaître...
+229255|...d'Ange...』
+229262|"C-C'est vrai...‖  ...Alors que vous êtes du côté de ceux qui nient la magie, ...pourquoi... ?"
+229269|"C'est sans doute... ‖...parce que j'ai appris ce que veut dire respecter et reconnaître.
+229274|  Maintenant, ...je pourrais peut-être... ‖comprendre toute la profondeur de la magie de Maria onee-chan...et de Beatrice."
+229278|Autrefois, je ne croyais pas aux choses comme la magie.‖  Persuadée que ça ne pouvait pas exister, je faisais comme si je fermais les yeux de toutes mes forces et ne voyais rien.
+229282|Mais aujourd'hui, je suis différente.
+229283|J'ai l'impression de pouvoir regarder bien en face cette chose qu'on appelle la magie...et d'approcher sa véritable nature...
+229294|"...Quel dommage.‖  C'est vraiment rare, à notre époque, de trouver une Humaine aussi libérée du poison antimagie.‖  Et elle a un talent si rare pour être sorcière..."
+229301|"C'est vrai.‖  ...Si Ange-sama essayait maintenant de devenir sorcière, ‖ ...elle pourrait devenir une grande sorcière, peut-être même du niveau de Beatrice-sama."
+229308|"Malgré tout, elle a reconnu notre existence, et elle est notre maîtresse.‖  ...Selon toute vraisemblance, Ange-sama sera notre dernière maîtresse.‖  Considérons ceci comme notre dernier service, et donnons-nous-y pleinement."
+229316|"...Pfff.‖  Mais je supporte paaas qu'Ange-sama elle-même ne croie toujours pas à la magie."
+229323|"...Ange-sama, croyez aussi à la magie, s'il vous plaaaît.‖  C'est trop du gâchis d'avoir enfin une maîtresse et que ce soit pas une sorcièèère."
+229329|"Vous avez un talent exceptionnel qui pourrait faire de vous l'une des plus grandes sorcières, et pourtant votre but est d'abattre les sorcières.‖  C'est tellement dommage.
+229335|  ...Enfin, malgré tout, c'est votre vie, votre façon de vivre, ‖ et dans le monde que vous avez choisi, nous n'avons pas notre mot à dire."
+229342|"Merci de me comprendre.
+229347|  Oui, que la magie existe ‖~ib~pour moi~ib~‖ ou non, ‖ c'est à moi d'en décider.‖  Que la magie existe réellement quelque part dans le monde ou non."
+229354|Quand j'y pense, ce monde est si vaste...et pourtant si petit.
+229358|Des milliards de gens vivent sur la Terre.
+229359|Mais je n'en rencontrerai sans doute même pas 1 %.
+229363|Et pourtant, je parlerai d'un monde.
+229364|De `mon monde', moi qui ne connais même pas 1 % du monde.
+229368|"Je n'ai pas qualité pour nier les lois d'un monde que je ne connais pas.‖  ...Alors ce n'est pas parce que la magie n'existe pas dans mon monde que je peux nier qu'elle existe dans un monde que je ne connais pas.‖  C'est une vraie preuve du diable.‖  Non, c'est peut-être plutôt `À Rome, fais comme les Romains'."
+229375|Je peux avoir confiance dans le monde que je connais.
+229376|Alors même si un parfait inconnu qui ne sait rien de mon monde le nie, ça n'a aucune importance.
+229379|Et de la même façon, je n'ai aucun droit de nier un monde que je ne connais pas... ‖sous prétexte que je ne le connais pas.
+229387|"C'est pourquoi, ‖ qu'il y ait de la magie dans mon monde ou non, ‖ ...je ne peux pas nier la magie que Maria onee-chan m'a apprise."
+229396|『Uryu !‖  Parce que même si on ne l'a jamais vue, ‖ ...la magie existe !』
+229403|"Oui.‖  C'est pour ça que, comme je l'ai déjà dit, ‖ ...vous, les amis de l'alliance des sorcières, Mariage Sorcière, ‖ personne ne peut vous nier, ni moi ni qui que ce soit."
+229407|J'ai de nouveau proclamé cette partie, la plus importante.
+229413|......Malgré le vacarme de la brise marine et des vagues qui se brisaient, c'était un moment de silence.
+229416|Sakutarou comme les Sept Sœurs du Purgatoire...méditaient mes paroles.
+229419|Et moi aussi, sans doute.
+229423|La magie existe-t-elle ?
+229424|Les sorcières existent-elles ?
+229427|Tout en laissant de côté la réponse qui vaut pour mon propre monde, ...j'ai reconnu leur existence.‖  C'est cette contradiction que j'avais proclamée si fièrement.
+229434|『Merci, ...Ange.』
+229440|"Si vous allez jusque-là, ne pourriez-vous pas reconnaître aussi les sorcières... ?
+229446|  ...Non, c'était une question stupide.‖  Vous avez déjà une réponse claire à cette question."
+229453|"Désolée.‖  Cela dit, je reconnais que des sorcières existent peut-être quelque part dans ce monde.
+229458|  Mais ça n'ébranle pas mon monde."
+229465|"...Vous ne reconnaîtrez ni les sorcières ni la magie.‖  Vous dévoilerez à coup sûr la vérité de Rokkenjima.
+229471|  ...C'est bien ça ?"
+229477|"Oui.‖  C'est mon monde.
+229482|  Même si une vraie sorcière existe, je ne la reconnaîtrai pas dans mon monde.‖  Peu importe à quel point cette sorcière essaiera de me convaincre."
+229489|"Votre rôle, Ange-sama, est d'abattre les sorcières.
+229495|  ...Et j'ai bien compris que votre détermination ne vacille pas le moins du monde.‖  Nous sommes vos meubles, les Sept Sœurs du Purgatoire... !‖  Nous serons toujours à vos côtés.‖  Nous attendrons toujours le jour où nous pourrons vous être utiles... !"
+229502|"Cela dit, puisque vous ne croyez pas à la magie, nous ne pourrons jamais être plus que des compagnes de conversation."
+229509|"C'est suffisant, pour l'instant.‖  On nous a laissé une place pour exister.‖  Rien que pour ça, nous devons remercier Ange-sama et la reconnaître."
+229517|"Bref !‖  Nous toutes !"
+229524|『On est de nouveau tous ensemble...
+229529|  Uryu- !!』
+229538|"Kyaa !!‖  Sakutarou !‖  Laisse-moi te câlineeeeeeeeeer !!"
+229542|Quand Sakutarou, submergé par l'émotion, a eu les larmes aux yeux, les Sept Sœurs se sont précipitées sur lui et l'ont assailli de câlins.
+229545|...Elles aussi célébraient des retrouvailles longtemps attendues.
+229548|Si leur existence est permise, elles peuvent assurément exister ici.
+229551|Non, même si je ne le permets pas, elles peuvent exister.
+229555|Parce que je les ai reconnues, elles
+229560|~ib~m'ont montré, à moi aussi, leur joie de se retrouver~ib~.
+229565|Tout en observant cette scène, ......je méditais sur le sens de mon voyage.
+229579|"......Je me demande si vous m'avez toutes pardonné, comme ça."
+229586|"Vous en avez fait bien assez.‖  Nous sommes des meubles.‖  Rien que d'être invoquées, ‖ rien que d'avoir le droit d'être à vos côtés, nous rend heureuses."
+229592|『Uryu... !‖  Ange, merci beaucoup... !』
+229598|"...Au fait, pourquoi est-ce que j'ai pu invoquer Sakutarou ?
+229603|  ...Non, c'est l'inverse.‖  Pourquoi Onee-chan n'a-t-elle pas pu invoquer Sakutarou ?"
+229612|Maria onee-chan avait sombré dans le désespoir, persuadée que Sakutarou était mort.
+229613|Ce qui voulait dire qu'elle n'avait plus été capable de l'invoquer comme ça.
+229617|Autrefois, Onee-chan disait qu'il était plus facile de faire une invocation avec un réceptacle.
+229618|Mais un réceptacle, c'est comme des petites roues sur un vélo, ça ne devrait pas être absolument indispensable.
+229621|...Autrement dit, même si le lion en peluche qui servait de réceptacle à Sakutarou n'existait plus, il aurait dû être possible de l'invoquer.
+229626|...Non, à bien y réfléchir, ‖ on peut même douter un peu que les êtres invoqués soient soumis à la vie et à la mort.
+229630|Qui plus est, Sakutarou devait être un ami particulièrement précieux pour Maria onee-chan.
+229631|Elle aurait dû pouvoir faire tous les efforts possibles pour l'invoquer une nouvelle fois.
+229634|C'était certes triste que la peluche qui lui servait de réceptacle ait été mise en pièces, ‖ mais pourquoi était-il `mort', au point de ne plus pouvoir être invoqué... ?
+229648|『...C'est parce que...
+229650|...à ce moment-là, quand Maria a vu ma peluche déchirée... ‖elle a
+229655|~ib~décidé~ib~‖ que j'étais mort.』
+229664|"C'est comme pour l'existence de la magie.‖  ...Si Sakutarou est mort dans le monde de Dame MARIA, ‖ alors il ne peut pas exister dans son monde."
+229670|『......Uryu...』
+229679|Le choc de voir sa peluche adorée mise en pièces... ‖avait laissé dans son cœur une blessure si profonde qu'elle ne pouvait plus invoquer son ami irremplaçable.
+229686|~ib~Aux yeux de Maria onee-chan~ib~‖, Sakutarou était mort.
+229689|Alors même si Sakutarou peut exister ainsi pour moi, il ne peut pas exister devant elle.
+229697|『J'étais...toujours avec Maria...‖  ...Quand Maria pleurait, j'étais toujours juste à côté d'elle, à lui dire de pas pleurer...‖  ...Mais ma silhouette, ma voix, ...plus rien de moi n'arrive jusqu'à Maria...』
+229701|Sakutarou a baissé la tête, l'air triste.
+229707|"...Après cet incident, la nature de Mariage Sorcière a rapidement commencé à changer.‖  Avant, l'alliance était quelque chose de paisible.
+229712|  Mais après l'incident, elle n'a plus été remplie que de choses inquiétantes, centrées sur la façon de maudire les gens qu'on hait.‖  ...Le journal d'Onee-chan a commencé à changer de façon flagrante."
+229719|Un journal est un miroir qui reflète le cœur tel qu'il est.
+229722|Il montrait sans doute la personnalité appelée Maria mourir...... ‖et renaître sous la forme d'une personnalité de sorcière maléfique, MARIA.
+229725|Quand elle remplissait ce journal de haine et de tristesse, ...son cœur n'était sûrement pas comblé.
+229729|C'est parce qu'il n'était pas comblé qu'elle devait le remplir de haine et de tristesse.
+229730|Et sans avoir été comblée, elle a trouvé la mort.
+229735|...Je me demande si son âme jamais comblée a encore aujourd'hui un trou dans la poitrine, creusé par la tristesse... ‖et si elle erre sans fin, en versant des larmes et en appelant Sakutarou...
+229738|............
+229747|"......Onee-chan...a besoin de toi."
+229753|『Uryu......』
+229759|"Comment est-ce que je peux te faire revivre dans le monde de Maria onee-chan ?‖  Si je trouve le moyen, je pourrai sauver Onee-chan.
+229764|  ...C'est la façon d'expier qui m'a été imposée.‖  Que faut-il faire pour que Sakutarou revive ?"
+229770|『...Pour Maria, mon réceptacle avait une signification très importante...』
+229776|"Le réceptacle.‖  ...Autrement dit, si on pouvait faire revivre le lion en peluche..."
+229782|『Mais...‖...c'est Mama Rosa qui a fait ma peluche de ses mains, alors elle seule pourrait la faire...』
+229787|Dans le journal aussi, Maria onee-chan l'avait demandé à Beatrice...et elle avait essuyé un refus pour cette raison.
+229790|Qu'une peluche soit unique et faite main a une très grande signification magique.
+229793|Alors, si on pouvait refaire la même chose...
+229797|Mais Tante Rosa n'est plus de ce monde.
+229798|On ne peut pas refaire la même chose.
+229805|"...Il n'y a jamais eu d'autre peluche identique, ou quelque chose comme ça ?"
+229812|"C'est une peluche faite pour l'anniversaire de Dame MARIA...et il est le seul de son espèce au monde.‖  ...Un réceptacle fait main, unique.‖  C'est pour ça qu'il recèle un grand pouvoir magique.
+229818|  Et, ...une fois perdu, on ne peut plus se le procurer.‖  Il ne revivra pas..."
+229824|『......Uryu......』
+229832|...Parce qu'elle le savait, ‖Maria onee-chan a vu cette peluche, unique en ce monde, se faire mettre en pièces,
+229834|......et elle a sombré dans le désespoir.
+229838|Parce que c'était la seule de son espèce au monde, ‖ et qu'elle ne pouvait admettre un compromis comme en racheter une autre, ...elle avait désespéré du fond du cœur...
+229846|"...Mais Sakutarou est bien là.‖  Même sans réceptacle, il est là.‖  Parce que je le reconnais, il existe bel et bien dans mon monde.
+229851|  ......Même si Maria onee-chan ne le reconnaît pas, ça ne peut pas être nié.‖  N'est-ce pas... ?"
+229858|"En théorie, c'est vrai, ‖ ...mais je crois qu'il serait difficile de le faire accepter à Dame MARIA avec ce même raisonnement."
+229864|『...Maria, ‖...je suis pas mort...‖  Je suis juste là......‖  ...Uryu...』
+229876|"Je suis sûre qu'à Rokkenjima, ‖ ...je pourrai retrouver Maria onee-chan.‖  Et, ...coûte que coûte, je ferai revivre le toi qui est en Onee-chan...et je vous réunirai."
+229882|『Tu peux le faire... ?』
+229888|"Ce sera sans doute difficile.‖  ...Tout comme moi, quand on m'a invitée dans l'alliance des sorcières, je l'ai rejetée sans comprendre ce que ça voulait dire, ‖ elle aussi pourrait rejeter ton existence."
+229893|"......Mais il faut que je le fasse.‖  C'est la seule façon pour moi d'expier mes fautes."
+229899|"......Ange-sama..."
+229909|"Qu'est-ce qui m'attend à Rokkenjima ?‖  Et qu'est-ce qui va se passer, qu'est-ce qui va naître ?‖  ...Ou peut-être qu'il ne se passera rien."
+229913|『............』
+229917|"Cette île où tout a commencé est la destination finale de ce voyage.‖  ......Vous êtes les meubles d'une sorcière, alors en tant que votre maîtresse,
+229920|...‖je dois vous ramener chez vous~ib~...
+229924|sur l'île de la sorcière, à Rokkenjima."
+229931|Alors que le soleil était si fort, des nuages s'étaient amoncelés à un moment donné.
+229932|Les embruns qui me frappaient la joue ne venaient peut-être pas tous des vagues qui se brisaient.
+229941|"Ange-san, ‖ on dirait qu'on va avoir droit à une petite averse.‖  Vous feriez peut-être mieux de descendre."
+229945|Amakusa m'a interpellée avec une expression qui disait `Tiens, vous êtes encore là ?'
+229949|En levant les yeux, j'ai vu que la silhouette de l'île avait nettement grossi.
+229950|On allait peut-être bientôt accoster.
+229955|Je me suis souvenue que la météo avait annoncé des averses éparses.
+229959|Le ciel n'était pas assez sombre pour que ce soient de vrais nuages de pluie.
+229960|Ça ne durera sans doute pas longtemps.
+229964|Même si la pluie était assez fine pour ne pas être gênante...
+229965|...Qu'il se mette à pleuvoir au moment où nous approchions de l'île me faisait l'effet d'une sorte de destin.
+229969|Il pleuvait aussi le 4 octobre 1986.
+229970|Je m'approche du Rokkenjima de ce jour-là...et pas seulement en distance...
+229979|Je suis redescendue avec Amakusa.
+229984|Il portait sur l'épaule ce qui ressemblait à un sac de golf vraiment énorme et lourd.
+229988|C'était quelque chose qu'Amakusa avait rapporté un jour où nous nous étions séparés.
+229989|...Je ne me suis pas renseignée sur son contenu, mais j'avais du mal à imaginer qu'il s'agisse de quelque chose de pacifique.
+229996|"......Je n'irai pas jusqu'à te demander ce qu'il y a dedans, mais ça a l'air lourd."
+230002|"Pourquoi est-ce que ces trucs sont toujours aussi fichtrement lourds ?‖  Un instructeur français m'a appris quelque chose d'intéressant là-dessus, un jour.
+230007|  Il disait qu'ils doivent toujours être lourds.‖  ......Après tout, une vie humaine pèse plus lourd que la Terre entière.‖  Alors ces trucs-là doivent être encore plus lourds."
+230014|"......Ce serait bien que tu n'aies pas à t'en servir."
+230020|"Ce serait bien, oui."
+230030|Amakusa a posé à côté de lui le bagage qui ressemblait à un sac de golf.
+230054|Un bimoteur à hélices se posa sur la piste.
+230055|Vu la météo, le vol n'avait certainement pas été agréable.
+230056|Tous les vols suivants avaient été suspendus en raison du temps.
+230071|Fendant la bruine en traversant la piste, Sumadera Kasumi entra dans le hall, escortée de deux hommes en noir.
+230074|Les quatre hommes en noir qui attendaient dans le hall se levèrent et la saluèrent en inclinant respectueusement la tête.
+230079|"""Kasumi-sama... !!"""
+230085|"Ça secoue vraiment, ces avions à hélices...‖  Je n'ai aucune envie d'en reprendre un."
+230089|"Nous avons préparé une voiture !‖  Par ici, je vous prie."
+230095|Ils montèrent dans deux voitures de luxe louées pour l'occasion...
+230105|"...Ange doit se diriger vers Rokkenjima.‖  Une île déserte...  Comme c'est pratique.‖  ......Vous avez prévu des outils, j'imagine ?"
+230107|"Oui, Madame... !"
+230113|L'homme en noir assis à l'avant posa sur ses genoux un sac lourd qui se trouvait à ses pieds, ‖ l'ouvrit d'un *clic*, et montra à Kasumi ce qu'il contenait.
+230118|À l'intérieur se trouvaient plusieurs blocs argentés, soigneusement enveloppés de papier d'aluminium.
+230121|...Il en déballa un pour le lui montrer.
+230124|Un pistolet automatique noir et massif pointa le bout de son nez...
+230167|Il était déjà presque 22 heures.
+230168|Le typhon avait désormais enveloppé Rokkenjima.
+230171|Même la roseraie, si belle en plein jour... ‖était battue par des vents violents, et résistait de toutes ses forces en ondulant pour empêcher ses fleurs de s'envoler...
+230177|Dans cette roseraie...Shannon ouvrait la marche, suivie de Battler qui tenait un parapluie, de Jessica, et de George qui portait sur son dos Maria endormie ; tous se dirigeaient vers la maison d'hôtes.
+230185|"On peut quand même aller jusqu'à la maison d'hôtes tout seuls.‖  Shannon-chan, c'est bon, tu devrais retourner te reposer."
+230192|"Ne vous en faites pas, vous raccompagner fait aussi partie de mon travail..."
+230200|"Avec la conférence familiale, ma mère et Genji-san doivent être à cran.‖  Si on te retient, ils vont croire que tu tires au flanc."
+230207|"C'est vrai.‖  Accepter simplement son aide est sans doute la meilleure façon de ne déranger personne.
+230213|  ...Merci, Shannon."
+230220|"Je vous en prie.‖ ...C'est vrai que, comme le dit Mademoiselle, l'atmosphère au manoir est très tendue aujourd'hui.
+230227|  Alors, vous accompagner me permet de prendre un peu l'air, et ça me soulage un peu."
+230236|"La conférence familiale, hein ?‖  ......Ils se sont donné la peine de nous mettre dehors, nous les gamins, alors ils doivent parler de trucs pas très nets."
+230245|"Sans doute.‖  Je suis sûr qu'on ne peut rien faire pour les aider.‖  Essayer de ne pas les gêner, c'est sans doute la meilleure façon de nous rendre utiles."
+230253|"Pff... !‖  Je suis sûre que c'est encore `Le fric, le fric, le fric !'.
+230259|  ...D'habitude, ils n'arrêtent pas de crâner qu'ils sont pleins aux as, mais quand ça se corse, ils se mettent tous à faire des manières.‖  Ils pourraient pas être généreux et tout partager entre tout le monde ?"
+230266|"Ihihi.‖  Ce serait génial.‖  J'aimerais bien en avoir une part, moi aussi.
+230272|  Si j'en avais, je partagerais tout de suite avec Shannon-chan."
+230279|"M-Merci beaucoup...‖  L'intention me suffit."
+230290|"Shannon n'est vraiment pas avide.‖  D'habitude, les filles de ton âge ont des tas de choses qu'elles voudraient acheter."
+230298|"Peut-être.‖  Mais aucune des choses que je désire ne peut s'acheter avec de l'argent."
+230306|"Ooh !‖  Quel désintéressement !
+230312|  Moi, si j'alignais tout ce que je veux, tout l'or du monde n'y suffirait pas."
+230319|"Ça, c'est pour les choses qui s'achètent avec de l'argent.
+230327|  Je me demande bien ce que c'est, ces `choses qui ne s'achètent pas' que Shannon désire.‖  T'as une idée, George nii-san ?"
+230338|"B-Bah, je me le demande.‖  Je ne suis pas Shannon, comment je pourrais le savoir ?"
+230345|"M-Moi non plus, je ne sais pas."
+230350|George et Shannon baissèrent les yeux, le visage rouge.
+230353|Battler était lui aussi au courant de leur situation ; il savait donc à quoi faisait allusion Jessica pour les taquiner.
+230361|"Aniki, c'est quelqu'un que je respecte.‖  Je crois que tu es tombée sur quelqu'un de vraiment bien, Shannon-chan."
+230369|"Ouais.‖  Moi aussi, je suis rassurée de savoir que Shannon est entre les mains de George nii-san."
+230376|"A-Arrêtez de nous taquiner.‖  Pour nous, c'est une question sérieuse.
+230383|  Et toi, alors, Jessica-chan ?‖  Tu as pu te rapprocher un peu de Kanon-kun ?"
+230392|"Quoiiiiiiiii ?!‖  Alors toi et Kanon-kun, vous êtes comme ça ?!"
+230401|"Ah, euh, ben !!‖ C-C'est déloyal, George nii-san, retourner la conversation comme ça, c'est déloyal !"

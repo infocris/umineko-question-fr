@@ -1,0 +1,805 @@
+{"id": 221643, "en": ["  ...Bern noticed that.", "  So, she looked for the most powerful piece for breaking that deadlock, found you, and threw you in.", "  To make this game end, you see?\""], "voix": "lam", "ja": "……ベルンはそれに気付いてる。 そして、それを破るためにもっとも強力な駒としてあんたを見つけ、送り込んできた。 このゲームを終わらせるためにね？」"}
+{"id": 221649, "en": ["\"......To make this game...end...\""], "voix": "enj", "ja": "「………このゲームを、終わらせる……。」"}
+{"id": 221655, "en": ["\"What's a piece's role when the game ends?", "  ......I'll state it clearly.", "  Your existence is a contradiction."], "voix": "lam", "ja": "「終われば駒の役目は？ 　………はっきり断言する。 あんたは、存在が矛盾してるのよ。"}
+{"id": 221660, "en": ["  ...Your reason for existing is to bury yourself in the darkness and despair...!\""], "voix": "lam", "ja": "……自らの存在理由が、自らを闇に葬り絶望するため…！」"}
+{"id": 221667, "en": ["My goal is to defeat Beato and release my captive family."], "ja": "私の目的は、ベアトを倒し、囚われている家族を解放すること。"}
+{"id": 221668, "en": ["...And yet, even if I succeed, I won't be rewarded."], "ja": "……なのに、それが成し遂げられても、私は報われない。"}
+{"id": 221678, "en": ["\"You cannot lose.", "  And you won't be rewarded if you win."], "voix": "lam", "ja": "「負けられない。 そして勝っても報われない。"}
+{"id": 221683, "en": ["  ...So, I've brought you a third choice.", "  And that choice will make our interests coincide.\""], "voix": "lam", "ja": "……だから私は第３の選択肢をあなたに持ってきたの。 そしてその選択肢は、私とあなたの利害を一致させるわ。」"}
+{"id": 221691, "en": ["......Continuing the tie...for all eternity......"], "ja": "…………永遠に、引き分け続けること………。"}
+{"id": 221699, "en": ["\"Yes.", "  ...As long as the tie continues forever, this world will not crumble."], "voix": "lam", "ja": "「そう。 ……永遠に引き分け続ける限り、この世界は崩壊しない。"}
+{"id": 221704, "en": ["  ...What is this world?", "  ......It's the world of the game with the witch.", "  A world where Beato and Battler fight for all eternity."], "voix": "lam", "ja": "……この世界は何？ 　………魔女とのゲームの世界。 ベアトと戦人が永遠に戦い続ける世界。"}
+{"id": 221709, "en": ["  ...And at the same time, ", "it's a world where you get to be with Battler for all eternity...!!\""], "voix": "lam", "ja": "……そして同時に。 あなたが永遠に戦人と一緒にいられる世界なのよ……！！」"}
+{"id": 221722, "en": ["\".........Nng, "], "voix": "enj", "ja": "^^!s1「…………………う、"}
+{"id": 221724, "en": ["......aaaah"], "voix": "enj", "ja": ":voicedelay 740^^…………う"}
+{"id": 221726, "en": ["...ah"], "voix": "enj", "ja": ":voicedelay 730^^……ぁ"}
+{"id": 221728, "en": ["......\""], "voix": "enj", "ja": ":voicedelay 270^^…………。」"}
+{"id": 221744, "en": ["My head was spinning."], "ja": "頭がぐちゃぐちゃになる。"}
+{"id": 221748, "en": ["That confusion became a hot liquid, and I felt it pouring from my eyes..."], "ja": "その混沌が熱い汁になって、目から溢れ出すのがわかる…。"}
+{"id": 221749, "en": ["It was so hot...that it felt like it'd burn my face..."], "ja": "その熱さで……、顔を火傷してしまいそうなくらい…。"}
+{"id": 221758, "en": ["\"Riight...?", "  ANGE Beatriiiiice...??", "  Since Bernkastel's goal is to end the game and end the world where you and Battler can interact, why should you be her ally...?\""], "voix": "lam", "ja": "「ねぇ……？ 　エンジェ・ベアトリーチェぇえぇ…？？ 　ゲームを終わらせ、あなたと戦人の交流できる世界を終わらせようとするのが目的のベルンカステルに、味方する理由がどこにあんのォ…？"}
+{"id": 221763, "en": ["\"...That kid tricked you, you see?", "  She made it look like you might be saved if you became her piece.", "  But I won't deceive you there!\""], "voix": "lam", "ja": "……あの子はあんたを騙してたのよ？ 　自分の駒になれば、あんたが救われるかのように誤魔化してね。 でも、私はそこを誤魔化さない！"}
+{"id": 221768, "en": ["\"...So I'll say it, ANGE.", "  Become my chess piece.", "  Unlike Bern, I won't offer you rewards based on lies that certainly will never be granted.", "  As long as you become my piece and help me so that this world `certainly' never ends..."], "voix": "lam", "ja": "……だから言うわ、エンジェ。 私の駒になりなさい。 私はベルンのように、絶対にもらえない嘘のご褒美なんてちらつかせないわ。 私の駒となり、このゲームが“絶対”に終わらないように私に協力する限り。"}
+{"id": 221773, "en": ["  Then with `certainty', I'll swear upon my name that this world will `certainly' continue!\""], "voix": "lam", "ja": "私はあんたに、この世界が“絶対”に続くことを我が名において“絶対”に約束する！"}
+{"id": 221778, "en": ["\"That's not all.", "  I'll add on a bonus.", "  This rule that binds you.", "  ...I'll clear it away for you."], "voix": "lam", "ja": "それだけじゃないわ。 ボーナスも付けてあげる。 あなたに課せられている、ルール。 ………それを取り払ってあげるわ。"}
+{"id": 221783, "en": ["  Well, of course, I'll only do it after you've sworn to become my piece, okay?\""], "voix": "lam", "ja": "まぁもちろん、私の駒になると誓ってもらった後にだけどね？」"}
+{"id": 221787, "en": ["In my own throat, ...there was a thick, loud gulping sound..."], "ja": "自分の喉が、……ごくりと、重くて大きな音を立てる……。"}
+{"id": 221791, "en": ["Aah, I shouldn't have listened..."], "ja": "あぁ、聞かなきゃ良かった……。"}
+{"id": 221792, "en": ["If I hadn't listened, I could've remained an innocent little sister, praying for my brother's victory."], "ja": "聞かなければ、私は兄の勝利を祈る、純粋な妹でいられたのだ。"}
+{"id": 221795, "en": ["...But I might be different now."], "ja": "……でも、もう私は違うかもしれない。"}
+{"id": 221798, "en": ["...I might've been degraded into a witch's furniture, ", "......one that cares about nothing but being by Onii-chan's side..."], "ja": "…お兄ちゃんの側にいられればいいだけの、 ………魔女の家具に、成り下がっているのかもしれない……。"}
+{"id": 221804, "en": ["\"...I'm not telling you to betray your brother, okay?", "  If it looks like Battler's gonna lose, you can save him with all you've got.", "  ...On the other hand, when Battler closes in on Beato too much, I want you to hold back a little.", "  ...That's all I'm asking, all right?\""], "voix": "lam", "ja": "「……兄を裏切れと言ってるわけじゃないんだからね？ 　戦人が負けそうになったら、全力で助ければいい。 ……逆に、戦人がベアトを追い詰めすぎたら、少し加減を変えてあげてほしいと、 ……その程度のお願いをしてるのよ？"}
+{"id": 221809, "en": ["\"Don't worry, there's no need to actually betray Battler.", "  ...Battler can't win against Beato alone.", "  That's why Bern threw you in, you see?", "  ...As long as you don't lend a hand, Battler will be unable to win against Beato for all eternity.\""], "voix": "lam", "ja": "大丈夫、戦人を裏切るほどの必要はないわ。 ……戦人ひとりじゃ、ベアトには勝てない。 だからベルンはあんたを送り込んだんでしょ？ 　……あんたが手を貸さない限り、戦人は永遠にベアトには勝てない。"}
+{"id": 221814, "en": ["\"See?", "  It's really simple, isn't it?", "  ...*giggle*giggle*, hohhohohoho, ahhahahahahahah, ahhahhahhahhahhahha!", "  Kahhahhahhahha, kyaaahhahahahahaha, hahhhahahahahahahha!!\""], "voix": "lam", "ja": "ね？ 　とってもカンタンでしょォ？ 　……くすくすくす、ほっほほほほ、あっはははははははっはっはっはっはっはッ！ 　かっはっはっはっはっは、きゃーっはっはっはっはっはっはっはっは！！」"}
+{"id": 221857, "en": ["\"Hey!!", "  That's miiine!", "  Giiive iiit baaack!!\""], "ja": "「ちょっとー！！ 　それ、私のー！ 　かーえーしーてぇー！！」"}
+{"id": 221865, "en": ["\"No, no, I'll eat iiit!", "  Asmo, Asmo, pass!\""], "ja": "「やだやだ、私が食べるの〜！ 　アスモ、アスモ、パース！」"}
+{"id": 221874, "en": ["\"Kya-hahahaha!", "  Over here, Levia onee-samaaa!\""], "ja": "「きゃーはははは！ 　レヴィアお姉様、こっちこっちぃ〜！」"}
+{"id": 221885, "en": ["I wonder where they swiped it from."], "ja": "どこからくすねて来たのだろう。"}
+{"id": 221886, "en": ["They were fighting over a donut or something, playing around really loudly."], "ja": "ドーナツか何かを争って、実に賑やかに戯れている。"}
+{"id": 221895, "en": ["\"Heeeeey!!"], "ja": "^^!s0「こらあああ！！"}
+{"id": 221902, "en": ["  Ange-sama is reading, so can't you be a little more quiet?!\""], "ja": "^^!sd 　縁寿さまは読書をなさってるのよ、少しは静かに出来ないのッ？！」"}
+{"id": 221909, "en": ["\"Yelling stuff like that makes you the loudest one, Satan!  Be silent!!", "  You foolish little sister!\""], "ja": "「そう言ってるサタンが一番うるさいのよ、沈黙なさい！！ 　この愚妹が！」"}
+{"id": 221916, "en": ["\"Y-You're the loud one, Lucifer onee-sama!!", "  I-Is there something you'd like to say to me?!\""], "ja": "「ル、ルシファーお姉様の方がうるさいです！！ 　も、文句がおあり？！」"}
+{"id": 221921, "en": ["I was already used to the oldest and the third oldest sister arguing with each other."], "ja": "長女と三女の口喧嘩ももうお馴染みだ。"}
+{"id": 221922, "en": ["Even though they're both so quick to anger, it's a bit funny how they're both having to hold back a little."], "ja": "二人とも怒りんぼのくせに、少し腰が引けているっぽいところが何だか面白い。"}
+{"id": 221926, "en": ["They might be surprisingly like each other."], "ja": "案外、似た者同士なのかもしれない。"}
+{"id": 221933, "en": ["\"*cackle*cackle*", "  You were told to be noisy, but this is a bit too much."], "ja": "「くっくくく。 賑やかにしていろとの仰せでしたが、これではさすがに。"}
+{"id": 221939, "en": ["  Should I make them lower the volume a little?\""], "ja": "少しボリュームを下げさせますか？」"}
+{"id": 221946, "en": ["\"......They can mess around all they want.", "  It's a hundred times more pleasant than that shrill laughter in the classroom.\""], "voix": "enj", "ja": "「…………気にしないで騒いでてくれていいわ。 教室の黄色い笑い声より百倍心地良いもの。」"}
+{"id": 221954, "en": ["\"Ange-samaa, go to the next page quickly!", "  You read really sloow!\""], "ja": "「縁寿さまぁ、早く次のページぃ！ 　縁寿さまは読むのが遅いぃ！」"}
+{"id": 221961, "en": ["\"You like to read, Mammon?", "  You looked like you'd be the worst at doing boring things.\""], "voix": "enj", "ja": "「マモンは読書が好きなの？ 　地味なことが一番苦手そうに見えるのにね。」"}
+{"id": 221967, "en": ["\"Mammon controls greed.", "  ...That also includes a thirst for knowledge."], "ja": "「マモンが司るのは強欲。 ……知識欲にもそれは通じます。"}
+{"id": 221973, "en": ["  Still, she wants to keep that knowledge all for herself, so be warned that she refuses to let people read any book you give her, and sometimes burns them after reading them.\""], "ja": "ただし、独占したがるので、本を与えると人に読ませまいと、読書後に焼いてしまうこともあるのでご注意を。」"}
+{"id": 221980, "en": ["\"I like knowing things that no one else knows.", "  I like being able to do things that no one else can do.", "  So I like studying and practicing.", "  Because I want to keep wisdom that no one else knows about all to myself.\""], "ja": "「私は、誰も知らないことを、私だけが知っているのが好き。 誰も出来ないことを、私だけが出来るのが好き。 だから勉強は好き、練習は好き。 私だけが、誰も知らない英知を、独り占めしたいから。」"}
+{"id": 221985, "en": ["As Mammon said that, her eyes sparkling, ", "she peered down at the page that was open and read through it again."], "ja": "マモンはそう言い、目を輝かせながら、 今開かれているページをもう一度読み直すように凝視する。"}
+{"id": 221986, "en": ["You could see the greed that made her covet that page even more thoroughly than I did."], "ja": "同じページを、私以上に貪り尽くしてやろうという強欲さが現れていた。"}
+{"id": 221992, "en": ["As you can see, my magical power has grown much stronger than it was on the first day I summoned them."], "ja": "見ての通り、私の魔力は初めて彼女らを呼び出した日に比べ、ずっと強くなっていた。"}
+{"id": 221993, "en": ["By now, I've gotten so that I can summon all of the Seven Sisters of Purgatory at once and still calmly read a book like this."], "ja": "今では、煉獄の七姉妹を同時に呼び出しながら、こうしてのんびり読書が出来るまでになっている。"}
+{"id": 221999, "en": ["This place, although I can't recall exactly where it is, is a quiet and calm street-side bench."], "ja": "ここは、どこだか思い出せないけれど、のんびりとした静かな街並のベンチ。"}
+{"id": 222000, "en": ["I'd been young back then, so I don't remember the details of its location."], "ja": "私は幼かったから、ここがどこなのか、覚えていないのだ。"}
+{"id": 222003, "en": ["...Still, I remember that my days walking here were a lot of fun."], "ja": "……しかし、ここを歩いた日が、とても楽しかったことは覚えてる。"}
+{"id": 222006, "en": ["Together with Dad, Mom, ...and even Onii-chan,", " it was a memory of a very rare and very happy day when everyone had been together..."], "ja": "お父さんとお母さんと、…そしてお兄ちゃんも揃った、 本当に全員が揃ったとても珍しくてとても幸せな日の記憶…。"}
+{"id": 222010, "en": ["The people who walked by every once in a while didn't notice me."], "ja": "時折、道往く人々は私たちの姿には気付かない。"}
+{"id": 222011, "en": ["They just pleasantly ignored me and passed by as though everything was normal."], "ja": "ただ、心地良く無視して、普通に通り過ぎてくれるだけだ。"}
+{"id": 222018, "en": ["Even the Seven Sisters' incredible outfits weren't embarrassing or anything,", " because it wasn't like anyone was actually watching."], "ja": "七姉妹たちのすごい格好も、 別に誰かに見られているわけでもないのだから、恥ずかしくも何ともない。"}
+{"id": 222021, "en": ["Come to think of it, I'm getting pretty used to it.", "  As long as they don't make me wear those."], "ja": "というか、割と慣れた。 私が着させられるわけでない限り。"}
+{"id": 222026, "en": ["I was sitting on a stylish bench, memorizing a timeline for world history."], "ja": "私はお洒落なベンチに腰掛け、世界史の年表を暗記中だ。"}
+{"id": 222029, "en": ["...In an academy system where everything is based on collective responsibility, there's no tolerance for dunces."], "ja": "……何でも連帯責任になる学園の校風は、落ち零れをやさしく許容なんてしてくれない。"}
+{"id": 222032, "en": ["It seemed that I was considerably below the average grade for the class."], "ja": "何でも、私がクラスの平均点を著しく下げているらしい。"}
+{"id": 222035, "en": ["According to those extremely intellectual girls,", " if I alone improved my grade, the average would rise drastically."], "ja": "極めて理知的な彼女らの話によると、 私ひとりが改善されるだけで、大幅に平均点が上がるらしい。"}
+{"id": 222039, "en": ["...They had been kind enough to show me with a graph drawn by colorful pens on a B4 sheet of drawing paper."], "ja": "……ご丁寧にも、Ｂ４の画用紙にカラフルなペンでそれをグラフにしてまで示してくれた。"}
+{"id": 222040, "en": ["...Just thinking of the effort it had taken to draw that was repulsive."], "ja": "…その書く手間を考えるだけでも、おぞましい。"}
+{"id": 222044, "en": ["But I've already spat out all those complaints."], "ja": "でも、そういう愚痴はもう全て吐き出した。"}
+{"id": 222045, "en": ["...I've already voiced my constant and furious anger and sadness to these girls here."], "ja": "……腸が煮えくり返るような怒りや悲しみは全て彼女らに吐き出した。"}
+{"id": 222051, "en": ["The Sisters "], "ja": "七姉妹たちは、"}
+{"id": 222056, "en": ["were sometimes indignant, "], "ja": "ある時は憤り、"}
+{"id": 222061, "en": ["sometimes sympathetic, "], "ja": "ある時は同情し、"}
+{"id": 222066, "en": ["and sometimes mourned along with me."], "ja": "ある時は私と一緒に悲しんでくれた。"}
+{"id": 222069, "en": ["...I was truly happy to be able to share emotions like that with friends."], "ja": "……そういう感情を共有してくれる友人がいてくれることが、本当に嬉しかった。"}
+{"id": 222072, "en": ["It's said that they were originally furniture that existed to carry out Beatrice's cruel sacrifice ceremony."], "ja": "彼女らは本来は、ベアトリーチェの残酷な生贄の儀式を行なうための家具だったという。"}
+{"id": 222075, "en": ["...According to the occult message bottle I hated, ", "...it seems that several of them even attacked my family."], "ja": "……私を不快にさせる、オカルトメッセージボトルによるならば、 …彼女らの何人かは、私の家族を手に掛けてさえいるらしい。"}
+{"id": 222079, "en": ["But I don't believe that, and it's pointless to question them about it."], "ja": "しかし、私はそれを信じないし、彼女らにそれを詰問しても無駄なことだ。"}
+{"id": 222080, "en": ["They are furniture, so they only respond to their master's requests."], "ja": "彼女らは家具なのだから、主のリクエストに応えるだけなのだ。"}
+{"id": 222083, "en": ["Even if they really did attack my family, I can't hate them."], "ja": "もし本当に彼女らが私の家族に手を掛けていたとしても、彼女らを憎むことは出来ない。"}
+{"id": 222094, "en": ["...What I really hated..."], "ja": "^^!s0　……私が本当に憎むのは、"}
+{"id": 222096, "en": ["was the Golden Witch, Beatrice."], "ja": "^^!d800……黄金の魔女ベアトリーチェ。"}
+{"id": 222097, "en": ["......Or else that ringleader of the Ushiromiya Suspicion, "], "ja": "………もしくは、六軒島疑惑の張本人、"}
+{"id": 222099, "en": ["Aunt Eva."], "ja": "^^!d1000絵羽伯母さん。"}
+{"id": 222112, "en": ["\"...Ange-sama, quickly, the next page.\""], "ja": "「……縁寿さまぁ、早くっ、次のページっ。」"}
+{"id": 222118, "en": ["\"Oh, sorry."], "voix": "enj", "ja": "「あぁ、ごめん。"}
+{"id": 222124, "en": ["  ......I'm tired.", "  Mind if I take a break?\""], "voix": "enj", "ja": "………疲れたわ。 少し休憩させて？」"}
+{"id": 222133, "en": ["\"Kyahaha!", "  Ange-sama said break!\""], "ja": "「きゃはは！ 　縁寿さま、休憩だって！」"}
+{"id": 222141, "en": ["\"Let's play, let's play!", "  Ange-sama, let's plaaay!!\""], "ja": "「遊ぼ遊ぼ！ 　縁寿さま、遊ぼー！！」"}
+{"id": 222145, "en": ["When they noticed that I had interrupted my studying, the most energetic youngest sisters gathered around me."], "ja": "私が勉強を中断したことに気付くと、一番賑やかな末っ子たちが群がってくる。"}
+{"id": 222150, "en": ["And that wasn't all."], "ja": "それだけではない。"}
+{"id": 222158, "en": ["Even Maria onee-chan and Sakutaro showed themselves."], "ja": "真里亞お姉ちゃんにさくたろまで姿を現す。"}
+{"id": 222161, "en": ["They had probably been very close by, but they must've hid themselves so that they wouldn't interrupt my studying."], "ja": "私のすぐ近くにいたのだろうが、勉強の邪魔にならないように姿を消していてくれていたに違いない。"}
+{"id": 222167, "en": ["『Uryu-!", "  Ange!", "  How's studying?  How's studying?』"], "voix": "sak", "ja": "『うりゅー！ 　縁寿〜！ 　お勉強どう？お勉強どう？』"}
+{"id": 222175, "en": ["\"Kyaaah!!", "  Sakutaro-!!", "  How are yooooouu?!\""], "ja": "「きゃー！！ 　さくたろー！！ 　元気ぃいいぃ？！」"}
+{"id": 222183, "en": ["\"Wait a second!", "  Let me squeeze him tooooooooooo!!\""], "ja": "「ちょっとお！ 　私にもモフモフさせてええ！！」"}
+{"id": 222192, "en": ["\"Don't we always say that the first one to get there wins?!"], "ja": "^^!s0「早い者勝ちだっていつも言ってるでしょう？！"}
+{"id": 222209, "en": ["  Kyaa, cute, cute!\""], "ja": "きゃー、可愛い可愛い！」"}
+{"id": 222229, "en": ["『Ukyuu--, you're crushing meee!", "  Uryuu--!』"], "voix": "sak", "ja": "『うきゅーー、潰れちゃうよー！ 　うりゅーー！』"}
+{"id": 222237, "en": ["\"Your luck ran out when you showed up while all the Seven Sisters were gathered."], "ja": "「七姉妹が揃ってる時に現れたのが運の尽きだ。"}
+{"id": 222243, "en": ["  Give up and let us hug you.\""], "ja": "大人しく、モフモフされてもらおう。」"}
+{"id": 222249, "en": ["\"Come on!", "  It always turns out this way!!"], "ja": "「もう！ 　いっつもこんなにしてしまって！！"}
+{"id": 222255, "en": ["  I apologize for my stupid older and younger sisters...!\""], "ja": "愚昧な姉と妹どもが申し訳ありません…！」"}
+{"id": 222262, "en": ["\"Ahahahahaha.", "  Sakutaro's happy to meet everyone, too."], "voix": "mar", "ja": "「あははははは。 さくたろもみんなに会えて喜んでるよ。"}
+{"id": 222270, "en": ["  ...How's it going, Ange?", "  How's the studying going?\""], "voix": "mar", "ja": "……どう、縁寿？ 　お勉強の調子は。」"}
+{"id": 222277, "en": ["\"Thanks.", "  Well, not bad."], "voix": "enj", "ja": "「ありがと。 まぁ、そこそこには。"}
+{"id": 222282, "en": ["  They were nice enough to pass around printouts from a quiz that another class took earlier.", "  Their beautiful sense of solidarity is enough to bring tears to my eyes.", "  ...Well, at least it's probably better to put a timeline into my head.\""], "voix": "enj", "ja": "ご丁寧にも、他のクラスで先にあった小テストのプリントが回してもらえたの。 麗しい連帯感に涙が出るわ。 ……とりあえず、年表を頭に入れるだけでも、まぁ、多少はマシかしら。」"}
+{"id": 222289, "en": ["『Uryu.", "  You sure are good at studying, Ange.", "  You'll be able to get a lot of points, uryu-.』"], "voix": "sak", "ja": "『うりゅ。 縁寿お勉強偉い。 いっぱい点数取れるよ、うりゅ〜〜。』"}
+{"id": 222297, "en": ["\"Good work.", "  I was terrible at studying, so I'm jealous of you for being able to get a good score when you study hard.\""], "voix": "mar", "ja": "「お疲れ様。 真里亞、お勉強は全然駄目だったから、ちゃんと勉強すれば点数が取れる縁寿が羨ましいよ。」"}
+{"id": 222303, "en": ["\"You're joking.", "  When it comes to English, Latin, and knowledge of the occult,", " you're much more amazing for being able to remember so much.\""], "voix": "enj", "ja": "「ご冗談を。 英語、ラテン語、オカルトの知識。 そんなのを丸暗記出来てるお姉ちゃんの方がよっぽどすごいわ。」"}
+{"id": 222309, "en": ["\"I can remember anything when studying magic, but I can't remember anything boring.", "  So that didn't help at all for tests.\""], "voix": "mar", "ja": "「真里亞は魔法のお勉強は何でも覚えられるけど、つまんないお勉強は何も覚えられない。 だからテストでも何も役に立たない。」"}
+{"id": 222313, "en": ["\"Well, it's true that occult knowledge would be like that, but your grades must've been pretty good in English, right?\""], "voix": "enj", "ja": "「確かにオカルトの知識はどうかと思うけど、英語なんかは成績に結びつくんじゃない？」"}
+{"id": 222320, "en": ["\"In the first year of elementary school, on a Japanese language test,", " there was a problem when I was given a picture of a gun and was told to write its name in four squares.", "  It got marked wrong because I wrote the English word `rifle' in katakana (ライフル).\""], "voix": "mar", "ja": "「小学１年生の時、国語のテストで、 鉄砲のイラストの脇に四角が４マスあって、そこに名前を書きなさいって問題があった。 ライフルって書いたらバツだった。」"}
+{"id": 222322, "en": ["\"Why?", "  Doesn't that fit?\""], "voix": "enj", "ja": "「どうして？ 　合ってるじゃない。」"}
+{"id": 222329, "en": ["\"It was supposed to be the Japanese word for gun in hiragana, ~ib~てっぽう~ib~."], "voix": "mar", "ja": "「“てっぽう”が正解だって。"}
+{"id": 222334, "en": ["  I was told that's wrong, because you don't learn katakana in first grade.", "  ...I didn't really get it,", " so from that day on, on tests, I wrote everything in hiragana.", "  But I got in trouble with Mama for some reason.", "  Got in trouble with the teachers too.\""], "voix": "mar", "ja": "カタカナは小学１年生では習わないから駄目だと言われた。 ……真里亞はよくわからないから、 その日以来、テストでは全てひらがなで書くようにしたよ。 でも、なぜかママには怒られる。 先生にも怒られる。」"}
+{"id": 222341, "en": ["\"........."], "voix": "enj", "ja": "「…………………。"}
+{"id": 222346, "en": ["...You were probably born in the wrong country, Onee-chan.\""], "voix": "enj", "ja": "…お姉ちゃんは多分、生まれる国を間違えたわ。」"}
+{"id": 222352, "en": ["\"Then I'd rather have been born in a country of witches, so I could enter a witch school.", "  Uu-.\""], "voix": "mar", "ja": "「なら真里亞、魔女の国に生まれて、魔法学校に入りたかった。 うー。」"}
+{"id": 222359, "en": ["『If that happened, you might've had much, much more wonderful magical friends!", "  Uryu-!』"], "voix": "sak", "ja": "『そしたら、もっともっと素敵な魔法の友達がいっぱいいたかもね！ 　うりゅー！』"}
+{"id": 222365, "en": ["\"Uu-♪", "  But it's not like I mind it now."], "voix": "mar", "ja": "「うー♪ 　でも、別に今は何も気にしてないよ。"}
+{"id": 222370, "en": ["  After all, I can use lots of magic, and I've got a lot of magic friends.", "  Sakutaro is all I need.\""], "voix": "mar", "ja": "だって、魔法はいっぱい使えるし、魔法のお友達もたくさんいる。 真里亞には、さくたろがいれば充分だもの。」"}
+{"id": 222376, "en": ["『I'm not the only one!", "  There's also Sakusuke and Sakukichi, the animal band, Shimoda-kun the seal, Sanae-san the rabbit, Mr Pig-kun, and plenty more!』"], "voix": "sak", "ja": "『ボクだけじゃないよ！ 　さくすけもさくきちも、動物の音楽隊も、アザラシの下田くんもウサギの早苗さんも子豚のピグ夫くんも、他にもいっぱい！』"}
+{"id": 222381, "en": ["...Incredible."], "ja": "……すごいな。"}
+{"id": 222382, "en": ["The number of Onee-chan's friends keeps increasing."], "ja": "お姉ちゃんの友達は増える一方だ。"}
+{"id": 222386, "en": ["Every time I ask, the number of names for her friends grows."], "ja": "聞く度に友達の名前が増えていく。"}
+{"id": 222387, "en": ["But there's no doubt that Sakutaro is her best friend."], "ja": "でも、さくたろが一番の友達であることは間違いない。"}
+{"id": 222390, "en": ["...I'm a little jealous of all those close friends."], "ja": "…そんな親友がちょっぴり羨ましい。"}
+{"id": 222399, "en": ["\"...What do you think?", "  How are the Seven Sisters?", "  Do you get along with them?\""], "voix": "mar", "ja": "「……どう？ 　七姉妹は。 仲良くやれてる？」"}
+{"id": 222405, "en": ["\"Those sisters are really energetic.", "  They sometimes say shady stuff, but they aren't bad."], "voix": "enj", "ja": "「本当に賑やかな姉妹たちよ。 ……たまに物騒なことを言い出すけど、悪くないわ。"}
+{"id": 222410, "en": ["  ...I'd wanted to get a cute kid like Sakutaro, but I think being with them now is more than enough.\""], "voix": "enj", "ja": "…本当はさくたろみたいな、可愛い子が良かったんだけど、今は彼女たちと一緒でも、充分いいかなって思ってる。」"}
+{"id": 222416, "en": ["\"*giggle*", "  If you learn more of my Magic of Origins, I'm sure you'll be able to give birth to friends you'll like, Ange.", "  Creation is still a bit too hard for you now.\""], "voix": "mar", "ja": "「くす。 もっと私の原初の魔法を学んだなら、きっと縁寿の好みの友達を生み出せるようにもなるよ。 今の縁寿に創造はまだちょっと難しいね。」"}
+{"id": 222422, "en": ["\"There's a difference between creation and summoning.", "  ...And, resurrection is also different.\""], "voix": "enj", "ja": "「創造と召喚は違う。 ……そして、反魂もまた違う。」"}
+{"id": 222429, "en": ["\"......", "So, your greatest wish really is to revive your family...?\""], "voix": "mar", "ja": "「……………。 やっぱり、一番の願いは、家族を蘇らせること…？」"}
+{"id": 222435, "en": ["\"Yes.", "  ......I have a vessel for it.", "  This.\""], "voix": "enj", "ja": "「うん。 …………依り代は持ってるよ。 これ。」"}
+{"id": 222441, "en": ["\"That's right.", "  ...I'm sure that hair accessory will eventually become the key to summoning Battler.", "  ...The rest is up to your training, Ange.\""], "voix": "mar", "ja": "「そうだね。 …その頭飾りなら、いつかきっと、戦人を呼び出す鍵になるよ。 ……あとは縁寿の修行次第だね。」"}
+{"id": 222448, "en": ["\"Although not knowing how long it'll take is enough to make me cry.\""], "voix": "enj", "ja": "「それが、いつまで掛かるのかわからないのが泣けるけれども。」"}
+{"id": 222454, "en": ["『Uryu...", "  Stay strong, even if it's tough...", "  If you don't give up, Ange, it will definitely, definitely come true someday...』"], "voix": "sak", "ja": "『うりゅ…。 辛くてもしっかり…。 縁寿が諦めなければ、絶対に絶対にいつか叶うよ…。』"}
+{"id": 222460, "en": ["\"If someone gave me some proof that it'd definitely be granted, at least that would calm my heart.\""], "voix": "enj", "ja": "「絶対に叶うという保証を、誰かがくれたなら、きっと心も休まるでしょうにね。」"}
+{"id": 222466, "en": ["『Uryu!", "  Then I guarantee it!", "  Without a doubt, Ange will surely have her wish granted someday!』"], "voix": "sak", "ja": "『うりゅ！ 　ならボクが保証するー！ 　縁寿はいつかきっと、必ず願いを叶えられるよ！』"}
+{"id": 222472, "en": ["\"...Thanks.", "  I'm glad to hear it, even if you're just saying it to console me.\""], "voix": "enj", "ja": "「……ありがと。 気休めでも嬉しいわ。」"}
+{"id": 222478, "en": ["『It's not like that, uryu-.』"], "voix": "sak", "ja": "『気休めじゃないよぅ、うりゅー。』"}
+{"id": 222485, "en": ["\"Stop it, Ange.", "  That kind of emotion will turn into the magic-resisting toxin."], "voix": "mar", "ja": "「駄目だよ、縁寿。 そういう感情は反魔法の毒素になるよ。"}
+{"id": 222491, "en": ["  The feeling that your dreams will definitely come true is the best seed that buds into magic power.\""], "voix": "mar", "ja": "夢は必ず叶うって気持ちが、一番よく芽吹く魔力の種なんだよ。」"}
+{"id": 222498, "en": ["\"......", "...That's right, sorry, Teacher.\""], "voix": "enj", "ja": "「…………。 ……そうね、ごめんなさいお師匠様。」"}
+{"id": 222505, "en": ["\"You need to be a bit greedier, Ange-sama."], "ja": "「縁寿さまは少し強欲さが足りないのよ。"}
+{"id": 222512, "en": ["  Go however far it takes to get the thing you desire!", "  You're lacking the willpower to never give up until you get it!\""], "ja": "欲しい物のためにはどこまでも！ 　手に入れるまで絶対に諦めないという、根性が足りない！」"}
+{"id": 222518, "en": ["『Uryu-!", "  That isn't true, Ange's doing her best...!』"], "voix": "sak", "ja": "『うりゅー！ 　そんなことないよ、縁寿はがんばってるよ…！』"}
+{"id": 222524, "en": ["\"Thanks, Sakutaro, Mammon.", "  Crying about it won't help anything."], "voix": "enj", "ja": "「ありがとう、さくたろ、マモン。 泣き言なんて何の足しにもならないもんね。"}
+{"id": 222530, "en": ["  There's nothing I can do except hang in there.", "  I'll try hard.", "  I'll grit my teeth.", "  I'll definitely make my dreams come true.", "  With certainty.\""], "voix": "enj", "ja": "私にはただがんばるしか道はないのよ。 努力するわ。 歯を食いしばってね。 そして必ず夢を叶えるわ。 絶対に。」"}
+{"id": 222536, "en": ["『Uryu!", "  You're awesome, Ange, do your best!", "  Mammon and I will support you!』"], "voix": "sak", "ja": "『うりゅ！ 　縁寿偉いよ、がんばろう！ 　ボクもマモンも応援するー！』"}
+{"id": 222543, "en": ["\"Yes, we'll support you.", "  The greedier our master is, the more our worth will increase.\""], "ja": "「えぇ、応援します。 主が強欲であればあるほど、私たちの価値も上がるというもの。」"}
+{"id": 222551, "en": ["\"More importantly, Ange-samaa!", "  We've finally got 10 people gathered heeere!\""], "ja": "「それより縁寿さまぁ！ 　せっかく１０人も集まったんだしー！」"}
+{"id": 222558, "en": ["\"We planned to have everyone play shiritori or something!\""], "ja": "「みんなでしりとりでもして遊ぼうって提案がありましてぇ！」"}
+{"id": 222566, "en": ["\"If you lose, there's a punishment game!", "  Let me nibble your eeears!\""], "ja": "「負けたら罰ゲーム！ 　私に耳をかじらせて〜！」"}
+{"id": 222574, "en": ["\"Come on, is hunger the only thing inside that head of yours?!\""], "ja": "「もうッ、あんたの頭には食欲以外ないの？！」"}
+{"id": 222580, "en": ["\"Please forgive my foolish sisters' stupid proposals..."], "ja": "「愚妹どもの愚かな提案をお許しください…。"}
+{"id": 222586, "en": ["  Are you sure it isn't about time you returned to your studying?\""], "ja": "そろそろ勉強に戻られなくても大丈夫ですか？」"}
+{"id": 222593, "en": ["\"No, no, nooooooo!!", "  I waited so long for you to finish studying, so I can't stand it if you don't play with us!\""], "ja": "「やだやだやだぁあああ！！ 　ずっとお勉強終わるの待ってたのに、遊んでもらえないなんてやだぁああぁ！」"}
+{"id": 222602, "en": ["\"I don't think it's a bad idea.", "  Perhaps playing every once in a while is good for softening the mind.\""], "ja": "「悪くない提案と思います。 たまには遊ぶのも、良い頭の柔軟になるかと。」"}
+{"id": 222609, "en": ["\"......You govern Sloth, right, Belpha?", "  What you're saying sounds reasonable, but you're actually being sneaky, aren't you?\""], "voix": "enj", "ja": "「…………ベルフェが司るのは怠惰だっけ？ 　もっともらしいことを言ってるけど、うまいことを言ってるわね。」"}
+{"id": 222616, "en": ["\"Hmph.", "  My apologies.", "  ...You are diligent, Ange-sama.\""], "ja": "「ふ。 失礼しました。 ……縁寿さまは勤勉でおられる。」"}
+{"id": 222623, "en": ["\"If it's okay with Ange, I'd also like to play with everyone.", "  Let's make some noise.", "  It'll definitely be fun.\""], "voix": "mar", "ja": "「縁寿さえ良ければ、私もみんなで遊びたいな。 みんなでわいわい。 きっと楽しい。」"}
+{"id": 222630, "en": ["『Uryu-!", "  Ange, Ange, let's play, let's play!", "  Let's all do shiritori!』"], "voix": "sak", "ja": "『うりゅー！ 　縁寿縁寿、遊ぼう遊ぼう！ 　みんなでしりとりをやろー！』"}
+{"id": 222643, "en": ["\"In that case, let's start from Sakutaro's `uryu-'."], "ja": "「では、さくたろの“うりゅー”からスタートで。"}
+{"id": 222649, "en": ["  ......In that case, which sound should we start the next word from?", "  `Ryu'?", "  Or `yu'?\""], "ja": "………この場合、何からになるの？ 　“りゅ”？ 　“ゆ”？」"}
+{"id": 222656, "en": ["\"From `uryu-'?", "  ......I wonder.", "  Maybe it really should be `ryu'?\""], "voix": "mar", "ja": "「“うりゅー”から？ 　……………何だろね。 やっぱり、“りゅ”？」"}
+{"id": 222663, "en": ["\"...It's rare for a word that ends like that to come up.\""], "voix": "enj", "ja": "「……こんなおかしな語尾の単語が出てくるなんて滅多にないし。」"}
+{"id": 222671, "en": ["\"Then I'm first!!", "  I'll do a word starting with `ryu'!", "  Ryuuzu (watch crown)!\""], "ja": "「じゃあ私が一番！！ 　“りゅ”から行くね！ 　時計のネジの“竜頭”〜！」"}
+{"id": 222678, "en": ["\"I wanted to go first!", "  `Ryuuto' (lute) would've been wonderful!\""], "ja": "「私が一番に言いたかったのにぃ！ 　“リュート”の方が素敵ぃ！」"}
+{"id": 222685, "en": ["\"`Zu'?", "  Feels like we keep getting tough ones."], "voix": "enj", "ja": "「“ず”？ 　何だかさっきから難しいのばっかりね。"}
+{"id": 222691, "en": ["  ...Wait a sec, what order are we going in?", "  Who's next?\""], "voix": "enj", "ja": "…というか、順番どうなってるの？ 　次は誰？」"}
+{"id": 222697, "en": ["『Uryu.", "  I don't think it matters who.", "  Whoever thinks of a matching word first.』"], "voix": "sak", "ja": "『うりゅ。 誰でもいいと思うよ。 思いついた人順でいいよ。』"}
+{"id": 222704, "en": ["\"What's that?  Sounds interesting.", "  How about the person who can say the most wins?", "  It's fast-talking shiritori!\""], "voix": "mar", "ja": "「何それ、面白いね。 いっぱい言えた人が勝ち？ 　早口しりとりだね！」"}
+{"id": 222711, "en": ["\"Then I'll go!"], "ja": "「じゃあ私行くね！"}
+{"id": 222714, "en": ["  `Zucchini'!"], "ja": "“ズッキーニ”！"}
+{"id": 222717, "en": ["  `Ninniku itame' (garlic stir-fry)!"], "ja": "“ニンニク炒め”！"}
+{"id": 222720, "en": ["  `Mekabu with pasta'!"], "ja": "“芽かぶのパスタ”〜！"}
+{"id": 222726, "en": ["  All of them delicious!", "  Kyaha, I said three of them!\""], "ja": "どれも美味しそう！ 　きゃは、３つも言っちゃったぁ！」"}
+{"id": 222732, "en": ["\"Belz takes three points."], "ja": "「ベルゼ、３点獲得っと。"}
+{"id": 222738, "en": ["  ...Can you use conjunctions?\""], "ja": "……接続詞はありなのか？」"}
+{"id": 222744, "en": ["\"If you could use `with', then anything would work!!"], "ja": "「“の”がありになったら、何でもありになっちゃうわ！！"}
+{"id": 222750, "en": ["  That last one doesn't count!", "  Minus one point!!", "  Let's start from `me'.\""], "ja": "最後のは駄目よ！ 　１点減点！！ 　“め”からよ。」"}
+{"id": 222758, "en": ["\"Then I'll go.", "  `Meringue'-!\""], "voix": "mar", "ja": "「じゃあ真里亞ね。 “メレンゲ”〜！」"}
+{"id": 222765, "en": ["『`Ge'??", "  ...U-U-", "Uryu-!』"], "voix": "sak", "ja": "『“げ”？？ 　…う、…う、 ……うりゅー！』"}
+{"id": 222772, "en": ["\"`Gesuidou' (Drainage system), "], "ja": "「“下水道”、"}
+{"id": 222779, "en": ["`umetatechi' (reclaimed land), "], "ja": "“埋立地”、"}
+{"id": 222786, "en": ["`chikashitsu' (basement)."], "ja": "“地下室”。"}
+{"id": 222790, "en": ["  How'd you like them apples?\""], "ja": ":noclear_cwざっとこんな感じ？」"}
+{"id": 222796, "en": ["\"Onee-sama, those are all pretty crummy words, *giggle*!\""], "ja": "「お姉様、何だか品のない単語ばっかりー、くすくす！」"}
+{"id": 222802, "en": ["\"S-So what?  Then why don't you try following up with something refined!!"], "ja": "「な、何よ、じゃあ品のいい単語で続けてみなさいよっ！！"}
+{"id": 222808, "en": ["  Anyway, that's three points for me.", "  The next one's `tsu', okay, `tsu'!\""], "ja": "とにかく私、３点ね。 次は“つ”よ、“つ”！」"}
+{"id": 222815, "en": ["\"I've never played such a weird shiritori before."], "voix": "mar", "ja": "「こんな変なしりとり初めて。"}
+{"id": 222821, "en": ["  Uu-uu-!", "  It's fun!\""], "voix": "mar", "ja": "うーうー！ 　面白い！」"}
+{"id": 222827, "en": ["『Uryu-!", "  I don't get it at all, but it's fun.", "  Uryu-!』"], "voix": "sak", "ja": "『うりゅー！ 　全然わかんないけど面白い。 うりゅー！』"}
+{"id": 222834, "en": ["I've played normal shiritori before, but I've never experienced a shiritori this weird."], "ja": "普通のしりとりをしたことはあるけれど、こんなおかしなしりとりは始めての経験だ。"}
+{"id": 222838, "en": ["There's only the lively Seven Sisters, Maria onee-chan, Sakutaro, and me."], "ja": "ただでさえ賑やかな七姉妹に、真里亞お姉ちゃんにさくたろに、私。"}
+{"id": 222839, "en": ["I'm now surrounded by friends that are so fun to be with."], "ja": "こんな楽しい仲間たちに、私は今や囲まれている。"}
+{"id": 222842, "en": ["...The courage to accept a world of magic, a world of witches..."], "ja": "……魔法の世界、魔女の世界を受け容れる勇気。"}
+{"id": 222845, "en": ["...That alone didn't change the fact that I was still locked up in an academy,", " without a single friend in my class."], "ja": "…それを持つだけで、私は相変わらず学園に閉じ込められていて、 クラスにはたったひとりの友達もいないことに変わりはない。"}
+{"id": 222848, "en": ["But despite that, I'm able to have such a fun and lively time."], "ja": "にもかかわらず、こんなにも楽しく賑やかに過ごせている。"}
+{"id": 222851, "en": ["......I'll also become a witch, like Maria onee-chan."], "ja": "………私も、真里亞お姉ちゃんのような、魔女になろう。"}
+{"id": 222854, "en": ["And someday, I'll add my family to this fun circle."], "ja": "そしていつの日にか、この楽しい輪に、家族も加えよう。"}
+{"id": 222857, "en": ["Dad, Mom.", "  And Onii-chan."], "ja": "お父さん、お母さん。 そしてお兄ちゃん。"}
+{"id": 222861, "en": ["...And if possible, George onii-chan and Jessica onee-chan.", "  And the other relatives."], "ja": "……もし許されるなら、譲治お兄ちゃんや朱志香お姉ちゃんも。 他の親戚たちも。"}
+{"id": 222862, "en": ["I'll call everyone, everyone here without a single person missing, ...and we'll all gather together."], "ja": "みんなみんなここに呼んで、誰一人欠けることなく、…みんなで集まろう。"}
+{"id": 222869, "en": ["\"...This is my...dream."], "voix": "enj", "ja": "「……それが私の、夢。"}
+{"id": 222874, "en": ["  ...That's right.", "  Until I make that come true, I definitely won't lose heart.\""], "voix": "enj", "ja": "……そうよ。 私はそれを叶えるまで、絶対に挫けない。」"}
+{"id": 222880, "en": ["\"I'm sure you'll become a Great Witch, Ange-sama.", "  As long as you believe in that."], "ja": "「縁寿さまはきっと大魔女になられます。 あなたがそうだと信じるだけで。"}
+{"id": 222886, "en": ["  We Seven Stakes of Purgatory will always serve by your side until that day comes.\""], "ja": "我ら煉獄の七姉妹は、その日まで常にお側にお仕えするでしょう。」"}
+{"id": 222896, "en": ["\"You'll be there for me...?", "  No matter how long, ", "...you'll lend me your strength?\""], "voix": "enj", "ja": "「いてくれる…？ 　いつまでも。 ……私の力になってくれる？」"}
+{"id": 222898, "en": ["\"Of course.", "  After all, I'm your friend.  Right, Ange-sama?\""], "ja": "「当然。 だって私、縁寿さまの友達じゃないですか？」"}
+{"id": 222906, "en": ["\".........", "...Yes, that's right.", "  Let's all stick together and play together.", "  Today, and in the future, always, ...always.\""], "voix": "enj", "ja": "「……………………。 ……えぇ、そうね。 常に全員揃って、みんなで遊びましょう。 今も、これからも、ずっと、ずっと。」"}
+{"id": 222908, "en": ["\"Until the day your dream comes true, Ange-sama.\""], "ja": "「縁寿さまが夢を叶えられる日まで。」"}
+{"id": 222914, "en": ["The lively, ten-person game of shiritori, ", "alongside a street cut off from time, under the constantly bright rays of the sun, could have continued forever..."], "ja": "１０人での賑やかなしりとりが、 いつまでも温かな日差しの時間のまま切り取られた明るい街並みの中で、いつまでも続けられるのだった……。"}
+{"id": 222938, "en": ["\"......Wait, seriously?  What's going on, Ushiromiya-saan?\""], "ja": "「………マジ、本当、どーゆうわけぇ、右代宮さぁん？」"}
+{"id": 222947, "en": ["\"............\""], "voix": "enj", "ja": "「…………………………。」"}
+{"id": 222951, "en": ["...In the end,", " I wasn't able to get a very good grade on my test."], "ja": "……結局。 私はテストで、大した成績を取ることは出来なかった。"}
+{"id": 222954, "en": ["I tried memorizing things in my own way,", " but if you could manage anything by cramming the night before a test, no one would ever worry about tests."], "ja": "私なりに暗記をしたつもりだったが、 そんな一夜漬け程度でどうにかなるなら、誰だってテストで悩んだりしない。"}
+{"id": 222961, "en": ["\"Normally, when you know the problems beforehand, you should be able to pass easily, right?  Easily!\""], "ja": "「予め問題がわかってたら、普通、楽勝じゃない？　楽勝ぉ！」"}
+{"id": 222962, "en": ["\"It's true that we didn't go so far as to write the answers into the blanks for you.", "  We thought you'd studied at least that much.\""], "ja": "「さすがの私たちも、空欄に答えまでは書き込みませんでしたわ。 その程度はお勉強してくれると信じてましたからぁ。」"}
+{"id": 222963, "en": ["\"What the hell?", "  Come on, are you serious?  I can't believe it!", "  They're almost all wrong, aren't they?", "  Did you really study properly?!\""], "ja": "「何これ？！ 　ちょっとマジこれ、信じらんなぁい！ 　ほとんど駄目じゃない？ 　あんた本当にちゃんと予習したわけぇ？！」"}
+{"id": 222970, "en": ["\".........More or less...\""], "voix": "enj", "ja": "「………………一応…。」"}
+{"id": 222975, "en": ["\"This isn't what you call more or less, Ushiromiya-san.", "  ...It's so horrible that it makes me dizzy, okay?\""], "ja": "「一応ってレベルじゃありませんことよ、右代宮さん。 ……ここまでひどいと私、眩暈すらしそうですわよ？」"}
+{"id": 222976, "en": ["\"Oh, God.", "  Please forgive her for getting a miserable grade on such an easy test...", "and for making the average score for the entire class plummet...!\""], "ja": "「おぉ、神よ。 こんなカンタンなテストすら無残な成績を残し、 クラス全体の平均点をガタ落ちさせる彼女をどうかお許しください…！」"}
+{"id": 222984, "en": ["\"*giggle*giggle*giggle*, *cackle*cackle*cackle*, "], "ja": "「くすくすくすくす、けらけらけらけら、"}
+{"id": 222988, "en": ["ahahahahahahaha.\""], "ja": "あははははははは。」"}
+{"id": 222994, "en": ["...The same test had been given in another class first."], "ja": "……同じテストが、先に他のクラスで行なわれた。"}
+{"id": 222995, "en": ["That test paper had been obtained, so the average score for our class had been unusually high."], "ja": "そのテスト用紙が入手されていたので、今回のテストの平均点は非常に高かった。"}
+{"id": 222998, "en": ["Enough to obscure my slight improvement."], "ja": "私のささやかな点数アップなど霞む位に。"}
+{"id": 223001, "en": ["However, ...there were some things I had no excuse for."], "ja": "しかし、……言い訳の余地のない部分も、若干はある。"}
+{"id": 223004, "en": ["If I'd spent that entire day studying like mad, I might've been able to get a slightly higher score."], "ja": "あの日一日を、死に物狂いで勉強していたなら、あるいはもうちょっとは点数が取れていたかもしれない。"}
+{"id": 223010, "en": ["...But I hadn't gone that far."], "ja": "……しかし私はそこまではしなかった。"}
+{"id": 223017, "en": ["After that on that day, ", "...I spent the whole time having fun playing shiritori with the Seven Sisters, Sakutaro and Onee-chan."], "ja": "だってあの日はあの後、…七姉妹とさくたろとお姉ちゃんと、 ……楽しくしりとりをして過ごしてしまったのだから。"}
+{"id": 223024, "en": ["As expected, the winner had been Maria onee-chan."], "ja": "優勝したのはやっぱり真里亞お姉ちゃん。"}
+{"id": 223025, "en": ["She was a strong player thanks to her wide knowledge of trivia."], "ja": "色々な雑学知識を持っているから強かった。"}
+{"id": 223031, "en": ["Sakutaro had gotten the punishment game."], "ja": "罰ゲームはさくたろだった。"}
+{"id": 223034, "en": ["He spent the whole time cheering for everyone else's answers,", " completely forgotting to think of any himself."], "ja": "みんなの解答を、きゃっきゃと褒めてるばっかりで、 自分が解答するのをすっかり忘れてたから。"}
+{"id": 223040, "en": ["...Because of that, he'd been squished by the Seven Sisters and had his ears thoroughly nibbled, hadn't he?"], "ja": "……そんなわけで七姉妹に揉みくちゃにされて、耳をはむはむされまくっていたっけ。"}
+{"id": 223051, "en": ["\"Heey, are you listening, Ushiromiya-san?!\""], "ja": "「ねぇっ、聞いてる右代宮さん？！」"}
+{"id": 223058, "en": ["\".........\""], "voix": "enj", "ja": "「………………………。」"}
+{"id": 223062, "en": ["They were surrounding me, twittering like small birds.", "  They were annoying, smelly."], "ja": "彼女らは私を取り囲んだまま、小鳥のように囀る。 うるさくて、臭い。"}
+{"id": 223065, "en": ["On the outside of that circle was Mammon, an exasperated expression on her face..."], "ja": "その輪の外にマモンがいて、呆れた表情を浮かべている…。"}
+{"id": 223073, "en": ["\"This is a messed up school, just like usual.", "  Shouldn't you be more than happy as long as your own grades are good?\""], "ja": "「相変わらずおかしな学校ね。 自分の成績が良かったなら万々歳じゃないの？」"}
+{"id": 223079, "en": ["\"......It's probably because of that collective responsibility thing.", "  Instead of worrying about their own grades, ", "they're more concerned about how embarrassing it is for the class average to be low."], "voix": "enj", "ja": "「………連帯責任とやらのせいでしょ。 彼女らにとって、自分の成績がどうこうじゃなくて、 クラスの平均点が低くて恥ずかしい方が問題なのよ。"}
+{"id": 223084, "en": ["  Or maybe it's because they really hate the volunteer work they're forced to do as punishment.\""], "voix": "enj", "ja": "あるいは、その結果、罰則として与えられる奉仕活動が嫌で嫌で仕方ないのかもしれない。」"}
+{"id": 223091, "en": ["\"So in other words, they aren't studying because they want their grades to be good,", " but because of collective responsibility and since they hate volunteer work?\""], "ja": "「それってつまり、成績を良くしたいから勉強してるとかじゃなくて、 連帯責任や奉仕活動が嫌だから勉強してるって意味？」"}
+{"id": 223099, "en": ["\"...They're jealous and embarrassed.", "  They don't want to be inferior to anyone, and they don't want to be humiliated.", "  That's the only feeling that drives them to study.\""], "ja": "「……妬ましくて恥ずかしいのよ。 誰かより劣りたくない、辱められたくない。 そんな気持ちだけが、彼女らを勉強に駆り立ててる。」"}
+{"id": 223109, "en": ["\"What noisy people.  If they want to study, why can't they just do it themselves?\""], "ja": "「勉強がしたければ勝手にすればいいのに、騒がしいやつら。」"}
+{"id": 223116, "en": ["\"In the end,", " without collective responsibility and volunteer work, they'd have no desire to study."], "ja": "「つまるところ。 連帯責任も奉仕活動もなければ、彼女らは勉強などする気もないわけだ。"}
+{"id": 223122, "en": ["  ...How foolish it is to study without knowing the meaning of studying.\""], "ja": "……勉強の意味も知らず勉強することの、何と愚かしいことか。」"}
+{"id": 223131, "en": ["\"Still, these guys really are annoying and stupid!", "  Don't you dare disturb Ange-sama's precious day for even a minute!\""], "ja": "「しかし、本当にこいつらはうるさくて馬鹿馬鹿しいッ！ 　縁寿さまの貴重な昼の一時を邪魔するなというのに！」"}
+{"id": 223140, "en": ["\"Waaah, I hate those people!!", "  Just get lost!!\""], "ja": "「わあん、こいつら嫌いー！！ 　早くどっか行っちゃえー！！」"}
+{"id": 223149, "en": ["\"I'm hungryyyyyy!!", "  Go away noooooow, waaaah!!\""], "ja": "「お腹空いたぁあぁ！！ 　早く消えちゃえぇ、わあああん！！」"}
+{"id": 223158, "en": ["\"......", "......Sorry, everyone.", "  I wonder why Humans are so shameful.\""], "voix": "enj", "ja": "「………………。 ………ごめんね、みんな。 ニンゲンってのはどうしてここまで浅ましいのかしらね。」"}
+{"id": 223166, "en": ["\"It's probably because, instead of working hard themselves,", " it's easier to make you work hard and earn them a higher class average to satisfy their greed."], "ja": "「自分で努力するより、 縁寿さまに努力させる方が、楽で強欲に平均点を稼げるってことでしょう。"}
+{"id": 223171, "en": ["  ...Humans are all greedy.", "  And they'll burden others with their greed to make things easier for themselves.\""], "ja": "……ニンゲンなんて、みんな強欲。 そしてより楽なようにそれを強いる。"}
+{"id": 223177, "en": ["\"...We'll eventually be reunited with them on the mountain of Purgatory.", "  When they get to the fifth terrace, they'd better watch their step...\""], "ja": "…こいつらとはやがて、煉獄の山で再会するわ。 第五冠を抜ける時は、せいぜい己が足元に注意することね…。」"}
+{"id": 223181, "en": ["Mammon controls the fifth terrace of the mountain that reaches to heaven, Mount Purgatory."], "ja": "マモンは、天国へ至る山、煉獄山の第五冠を司る。"}
+{"id": 223184, "en": ["...Since she's saying this, you can probably be sure that after those girls die, their journey to heaven won't be an easy one."], "ja": "……彼女がこう約束してくれた以上、彼女らの死後、のんびりと天国へ旅立てることは断じてないだろう。"}
+{"id": 223187, "en": ["...No, on the contrary, let them just fall into hell."], "ja": "…いや、むしろ、地獄へ堕ちろ。"}
+{"id": 223215, "en": ["The class committee went to the student council and applied to use a classroom during lunch and after school."], "ja": "クラス委員会は生徒会に対し、昼休みと放課後の教室使用を申請した。"}
+{"id": 223221, "en": ["The purpose of use was for a class study group."], "ja": "使用目的は、クラス勉強会。"}
+{"id": 223222, "en": ["A wonderful little gathering so that they could all surround me and make me study.  I'm so grateful I could cry."], "ja": "私ひとりを囲んで勉強させるための、ありがたくて涙が出る催しだった。"}
+{"id": 223225, "en": ["Which meant that every day, all of my lunch and three hours of my afternoon would be stolen."], "ja": "私は毎日、昼休みの全てと放課後の３時間を、奪われることになったわけだ。"}
+{"id": 223228, "en": ["The academy and its student council, with its theme of student self-government,", " instantly approved of this pleasant activity that the students were taking up of their own initiative..."], "ja": "生徒自治をモットーとする学園と生徒会は、 生徒による自主的なこの微笑ましい活動を、二つ返事で承認した…。"}
+{"id": 223231, "en": ["In other words, I was no longer able to escape after school by leaving the classroom..."], "ja": "つまり私は、放課後に逃げるように教室を後にすることが、出来なくなったわけだ…。"}
+{"id": 223240, "en": ["After school, the first class study group meeting started right away."], "ja": "放課後に、さっそく第１回のクラス勉強会が開かれた。"}
+{"id": 223243, "en": ["Would they open a textbook, then kindly and carefully explain so that even I could understand it?", "  Of course it didn't turn out like such a naive illusion."], "ja": "教科書を開いて、私にもわかるように懇切丁寧に教えてくれる？ 　そんな甘い幻想はさすがにない。"}
+{"id": 223248, "en": ["After school in the classroom, dozens of my classmates crowded around my desk."], "ja": "放課後の教室に、私の席を取り囲むように十数人のクラスメートがいた。"}
+{"id": 223251, "en": ["First, before we started studying..."], "ja": "まず、勉強を始める前に。"}
+{"id": 223256, "en": ["Why were my grades so bad?"], "ja": "なぜ私の成績が悪いのか。"}
+{"id": 223257, "en": ["What was the reason?"], "ja": "その理由は何なのか。"}
+{"id": 223258, "en": ["It was decided that we couldn't start until I could clearly answer those questions, become aware of the problem, and show regret for my actions."], "ja": "それをはっきりさせて、自覚、反省をしてもらわないことには始まらない、ということになった。"}
+{"id": 223263, "en": ["...Of course, there's no way for me to respond when asked a question like that."], "ja": "……もちろん、そんなことを聞かれても、私には答えられるわけもない。"}
+{"id": 223267, "en": ["They've loathed me all this time."], "ja": "彼女らは私を忌み嫌ってきた。"}
+{"id": 223268, "en": ["And they've rejected me and kept me at a distance, preventing me from joining in on their community."], "ja": "そしてコミュニティに私を加えないよう、拒絶して遠ざけてきた。"}
+{"id": 223272, "en": ["So, I've avoided their community myself."], "ja": "だから私も、彼女らのコミュニティを避けるようにしてきた。"}
+{"id": 223273, "en": ["There shouldn't have been any conflict for either of us that way."], "ja": "そこに、両者の衝突はないはずだ。"}
+{"id": 223276, "en": ["So even in this group that was enthusiastic about raising the class average, ", "they obviously kept me at a distance."], "ja": "だから、彼女らがクラスの平均点を上げようと意気込むそのコミュニティにも、 当然、私は足を遠ざけた。"}
+{"id": 223279, "en": ["Even if I tried to join in, ", "they would probably ignore me, like they always did in the past."], "ja": "私がそのコミュニティに加わろうとしても、 彼女らはそれまで常にそうしてきたように、私を無視しただろう。"}
+{"id": 223293, "en": ["\"If you'd just asked, we would've taught you whatever you wanted.", "  Riiiiiiiight?!\""], "ja": "「言ってくれれば私たち、いくらでも教えてあげたよ？ 　ねーーー？！」"}
+{"id": 223294, "en": ["\"\"\"Riiiiiiiigght!!!\"\"\""], "ja": "^^!s0「「「ねえーーーーッ！！！」」」"}
+{"id": 223307, "en": ["They were getting themselves all worked up."], "ja": "彼女たちはそう息巻く。"}
+{"id": 223308, "en": ["...I've already had enough of the hypocrisy of their tacked-on excuses."], "ja": "……彼女たちの後付けの偽善はもううんざりだった。"}
+{"id": 223315, "en": ["\"Ushiromiya-san, your problem is that you're lacking a cooperative personality.", "  You mustn't be satisfied as long as everything's good for you alone.\""], "ja": "「右代宮さんの悪いところはね、協調性がないところなのよ。 自分さえ良ければいいって思ってるその考えがいけないのよ。」"}
+{"id": 223316, "en": ["\"Those who gather in Saint Lucia's place of learning shall have a cooperative heart.", "  It's written right there in the student handbook, right?\""], "ja": "「聖ルチーアの学び舎に集う者は協調の心を持つように。 ちゃんと生徒手帳にも明記されてましてよ？」"}
+{"id": 223317, "en": ["\"I think having a cooperative heart is what gives birth to the desire to study together and contribute to the entire class.", "  I believe that itself is the thing you lack before you even start studying, Ushiromiya-san, ", "but what do you say?!\""], "ja": "「協調性があれば、 クラス全体に貢献するために一緒にお勉強しようという意思も生まれると思うの。 そここそが右代宮さんに、お勉強以前に欠けている部分だと思うんだけど、どう思うかしらぁ？！」"}
+{"id": 223323, "en": ["\"Heeey, have you even been listening to us?!"], "ja": "「ねーぇ、さっきから私たちの話を聞いてるゥ？！"}
+{"id": 223327, "en": ["  We went to all the trouble of staying after school to say this ", "~ib~for your sake~ib~", ", right?!\""], "ja": "^~ib~^貴女のため^~ib~^に私たちはわざわざ放課後に残ってこうしてお話しているのよー？！」"}
+{"id": 223331, "en": [".........", "I'm so grateful I could cry."], "ja": "…………………。 ありがたくて、涙が出る。"}
+{"id": 223336, "en": ["Of course, they didn't like that."], "ja": "もちろん、それを咎められた。"}
+{"id": 223339, "en": ["`This way, it almost makes it look like we're bullying you', they reprimanded me."], "ja": "“これではまるで、私たちが虐めてるみたいじゃない”と、さらに叱責された。"}
+{"id": 223343, "en": ["Fortunately, I'm normally all cried out anyway."], "ja": "幸い、涙なんて普段から絞り尽くしてる。"}
+{"id": 223344, "en": ["If I'm told not to cry, I can hold it back."], "ja": "泣くなと言われたなら、堪えることだって出来るさ。"}
+{"id": 223348, "en": ["First, I was made to write a letter of remorse and read it out loud."], "ja": "私はまず、反省文を書かされて、発表させられることになった。"}
+{"id": 223349, "en": ["Of course, this was to be done by today."], "ja": "もちろん、今日の話だ。"}
+{"id": 223355, "en": ["The class committee politely applied to the student council and the staff room for an extension on the use of this classroom."], "ja": "クラス委員長が律儀に生徒会と職員室に、教室使用の延長を申請してくれた。"}
+{"id": 223356, "en": ["...It seems it was accepted right away."], "ja": "……あっさり受理されたらしい。"}
+{"id": 223360, "en": ["Which means that starting now, I'll be forced into self-criticism for at least a full five hours here..."], "ja": "つまりこれで、私は今からたっぷり５時間以上もここで自己批判を強いられるわけだ……。"}
+{"id": 223364, "en": ["——Ushiromiya Ange got a low score on her test and caused trouble for her classmates."], "ja": "——右代宮縁寿は、テストの成績が低くて、クラスメートに迷惑を掛けました。"}
+{"id": 223372, "en": ["\"That's not it, riiight?!?!\""], "ja": "^^!s0「違うでしょぉーッ？！？！」"}
+{"id": 223384, "en": ["\"You getting low grades and causing us trouble isn't the root of the problem, is it?!\""], "ja": "「成績が低くて迷惑を掛けたってのは、根本じゃないでしょお？！」"}
+{"id": 223385, "en": ["\"It's a cooperative attitude, right?  A cooperative attitude!!\""], "ja": "「協調性でしょ、協調性！！」"}
+{"id": 223386, "en": ["\"Come ooon!!", "  Why do we even have to direct Ushiromiya-san on how to write a letter of regret?!\""], "ja": "「もーッ！！ 　何で右代宮さんの反省文の書き方まで私たちが指導しなくちゃならないのよー！」"}
+{"id": 223389, "en": ["Their abusive jeers flew about one after another."], "ja": "彼女らの口汚い罵声が次々飛び交う。"}
+{"id": 223394, "en": ["I followed their `directions' and erased it."], "ja": "私は彼女らの“指導”に従い消しゴムを入れた。"}
+{"id": 223397, "en": ["——Ushiromiya Ange didn't have a cooperative attitude and caused trouble for her classmates."], "ja": "——右代宮縁寿は、協調性がなくて、クラスメートに迷惑を掛けました。"}
+{"id": 223408, "en": ["\"Hey, wait a sec, it's pointless if you just write whatever we say, right?!\""], "ja": "「ねぇ、ちょっとお、私たちが言ったのをそのまま書いても意味ないのよ？！」"}
+{"id": 223409, "en": ["\"Do you really know what `regret' means?!\""], "ja": "「あんた、反省って意味、わかってんのー？！」"}
+{"id": 223410, "en": ["\"It's pointless if you don't write it in your own words, pointless!\""], "ja": "「自分の言葉で書かなくちゃ意味がないじゃない、自分の言葉で書かなくちゃッ！」"}
+{"id": 223411, "en": ["\"I always thought you were a bit strange, Ushiromiya-san, but you really are weird!", "  *giggle*giggle*giggle*!\""], "ja": "「右代宮さんって、ちょっと不思議な子だなって思ってたけど、やっぱり変わってるよねー！ 　くすくすくすくす！」"}
+{"id": 223414, "en": ["Even following their directions didn't change the jeers much, and now it felt like they were mocking me even more..."], "ja": "彼女らの指導に従っても、あまり罵声は変わらず、むしろ嘲りも増えた感じだった…。"}
+{"id": 223420, "en": ["So for several more hours, without rest, without even being allowed to go to the bathroom,", " much less dinner, I was continuously abused..."], "ja": "私はそうして数時間もの間、休むことも、お手洗いに行くことも許されず、 当然、夕食さえも許されずに、延々と罵倒されながら。"}
+{"id": 223423, "en": ["...I was coerced into writing a paragraph that humiliated myself..."], "ja": "……自らを辱める文章を書き上げることを強要され続けた……。"}
+{"id": 223435, "en": ["At about 9:00 that night, ...I was told to stand up and read it aloud."], "ja": "そして夜も９時を回り、……私はそれを起立して読み上げるように言われた。"}
+{"id": 223440, "en": ["The contents..."], "ja": "その文面は、"}
+{"id": 223442, "en": ["were smeared black with tears and eraser marks."], "ja": "^^!d800……涙の跡と消しゴムの跡で真っ黒にくすんでいた。"}
+{"id": 223450, "en": ["It certainly was my handwriting, "], "ja": "^^!s0　確かに私の筆跡だけれど、"}
+{"id": 223452, "en": ["...but it was like a list of soulless letters, "], "ja": "^^!d900……まるで内容に覚えのない、"}
+{"id": 223454, "en": ["whose contents I couldn't even remember."], "ja": "^^!d1000魂の篭らぬ文字が列挙されている。"}
+{"id": 223464, "en": ["Everything had been copied down according to their orders."], "ja": "それらは全て彼女らが指導したものを書き写したものだ。"}
+{"id": 223467, "en": ["So while I had been the one to write the letters, they weren't my words."], "ja": "だから、たとえ私の文字で書かれたとしても、私の言葉ではない。"}
+{"id": 223470, "en": ["I'd been coerced into writing them down...and even coerced into reading them aloud."], "ja": "それを書き取ることを強要され、さらに発表することを強要される。"}
+{"id": 223473, "en": ["......Even after all this time, I was surprised to learn that, beyond just ignoring people and hiding their things,", " there are other ways to bully people..."], "ja": "………私は、人の虐め方には、無視や、物を隠すだけでなく、 こういうものもあるのかと今さらながら驚かされる……。"}
+{"id": 223481, "en": ["\"Heey!", "  Read it aloud quickly!!\""], "ja": "「ほらあ！ 　早く読み上げなさいよー！！」"}
+{"id": 223482, "en": ["\"Look how many people are staying this late just for you, Ushiromiya-san.", "  Why not thank us a little?\""], "ja": "「右代宮さんのために、これだけの人間がこんなに遅くまで付き合ってるのよ？ 　少しは感謝したら？」"}
+{"id": 223483, "en": ["\"Isn't the fact that she doesn't feel gratitude a sign that she doesn't have a scrap of a cooperative attitude?\""], "ja": "「そこで感謝の気持ちがわかないという時点で、もう協調性が欠片ほどもないのよね？」"}
+{"id": 223484, "en": ["\"It's okay, Ushiromiya-san.", "  We'll always be with you from now on.", "  Why not study with us and remake yourself?", "  Okay?\""], "ja": "「大丈夫よ、右代宮さん。 これからは私たちがいつも一緒にいてあげるから。 一緒にお勉強して、生まれ変わりましょう？ 　ね？」"}
+{"id": 223488, "en": ["\"*giggle*giggle* \"Ahahahahaha \"Kyahhhyahyahyahya!!\"\"\""], "ja": "「くすくすくす「あははははは「きゃっひゃひゃひゃひゃひゃ！！」」」"}
+{"id": 223499, "en": ["As I stood by my seat, surrounded by them, ...I dropped my gaze towards the blackened page."], "ja": "私は彼女らに囲まれたまま、席を起立し、……その黒ずんだページに目を落とす。"}
+{"id": 223502, "en": ["And then...I spoke those humiliating words, ", "but right away, jeers flew at me saying that they couldn't hear and to speak up."], "ja": "そして……その辱めの言葉を口にするが、 すぐに、よく聞こえない、もっと大きな声でと罵声が飛んだ。"}
+{"id": 223508, "en": ["......I can't read it."], "ja": "……………読めない。"}
+{"id": 223511, "en": ["I had no idea...", "that being forced to read a paragraph humiliating me would be so painful."], "ja": "自らの口で、自らを辱める文章を読まされることが、こんなにも辛いことだなんて、 知らなかった。"}
+{"id": 223515, "en": ["My throat shook.", "  My fingertips shook."], "ja": "喉が震える。 指先も震える。"}
+{"id": 223516, "en": ["...The paragraph of humiliation written in my own handwriting made my eyes burn with a hot liquid."], "ja": "……自らの筆跡で書かれた屈辱的な文章が、瞳の奥を熱い液体が焼く。"}
+{"id": 223524, "en": ["So my world blurred and twisted."], "ja": "だから世界が潤んで歪んだ。"}
+{"id": 223527, "en": ["I saw the girls surrounding me twist and bend."], "ja": "私を取り囲む彼女らがみんな歪んで見えた。"}
+{"id": 223531, "en": ["...I saw them twist and bend into the impression I had of them."], "ja": "……私が彼女たちに持っていた印象そのままの姿に歪んで見えた。"}
+{"id": 223532, "en": ["In other words, ...that was my true field of vision."], "ja": "だからそれはつまり、……正しい視界だった。"}
+{"id": 223543, "en": ["Beyond that twisted crowd of people, ...I could see my friends."], "ja": "その歪んだ人垣の向こうに、……私の友人たちの姿が見える。"}
+{"id": 223544, "en": ["Compassion could be seen in all of their eyes."], "ja": "皆、瞳には同情を浮かべていた。"}
+{"id": 223552, "en": ["\"......Ange, ......stay strong...\""], "voix": "mar", "ja": "「………縁寿、………しっかり…。」"}
+{"id": 223558, "en": ["『Uryu-......』"], "voix": "sak", "ja": "『うりゅー………。』"}
+{"id": 223563, "en": ["Maria onee-chan and Sakutaro were looking at me with sad eyes."], "ja": "真里亞お姉ちゃんとさくたろが、悲しい目で私を見ている。"}
+{"id": 223564, "en": ["Probably because they realized that even cheap words of compassion would hurt me."], "ja": "安っぽい同情の言葉すらも、私を傷つけると知っているからだろうか。"}
+{"id": 223567, "en": ["...They kept alternating between trying to say something...and hanging their heads."], "ja": "……何かを口にしようとしては俯くことを、繰り返す。"}
+{"id": 223576, "en": ["\"What the hell's wrong with these people...?!!\""], "ja": "「何なのよ、こいつら…！！」"}
+{"id": 223584, "en": ["\"They're just the worst!", "  Really pisses me off!", "  What's so fun about gathering around Ange-sama and torturing her?!\""], "ja": "「最低のヤツら！ 　腸が煮えくり返るわよ！ 　縁寿さまを寄って集って嬲り者にして、何が楽しいわけッ？！」"}
+{"id": 223592, "en": ["\"It's a resentment they can't voice despite their jealousy.", "  They don't care who it hurts, as long as they can let it out.", "  What horrible people.\""], "ja": "「妬ましくても吐き出せない怨嗟。 誰でもいいのよ、吐き出せればね。 最低のヤツら。」"}
+{"id": 223601, "en": ["\"Ange-sama!", "  In this kind of situation, it's okay to go mad with rage for your own honor's sake!!", "  Anger is an appropriate emotion and an appropriate reaction!", "  If you don't get mad now, when will you get mad?!!\""], "ja": "「縁寿さまッ！ 　ここはご自身の名誉のために怒り狂うことが許される場面です！！ 　怒りは正当な感情で正当な反応！ 　ここで怒らなかったら、どこで怒るんですかッ！！」"}
+{"id": 223609, "en": ["\"Stop it, don't stir Ange-sama up with cheap anger!!", "  If Ange-sama could do that, she would've done it already!!\""], "ja": "「やめなさいよ、安っぽく縁寿さまを怒らせないでっ！！ 　それが出来たらもうやってるわよ縁寿さまはっ！！」"}
+{"id": 223617, "en": ["\"......You should only get angry if doing so will improve the situation.", "  However, from an objective standpoint, doing that now would probably only aggravate the situation further.", "  It may be humiliating, but the wisest thing to do now is to withstand it.\""], "ja": "「……………怒って状況が改善できるならそうすべきだ。 だが、客観的に判断して、それはますますに状況を悪化させるだけだろう。 ……屈辱的だが、今は耐えるのが賢明だ。」"}
+{"id": 223624, "en": ["\"Ahha!", "  You really are a sloth, Belpha!"], "ja": "「あっは！ 　さっすがベルフェ姉は怠惰やってます！"}
+{"id": 223630, "en": ["  Quit fooling around, I can't stand this!!", "  I can't forgive them!!\""], "ja": "ふざけないでよ、私は耐えられない！！ 　こいつらが許せないッ！！」"}
+{"id": 223636, "en": ["『...E-Everyone, calm down...", "  It'll become a burden for Ange...』"], "voix": "sak", "ja": "『…み、みんな騒がないで…。 縁寿の負担になっちゃうよ…。』"}
+{"id": 223643, "en": ["\"A burden?!", "  What are you talking about?  Is this the time or place to be calm?!", "  We furniture are not so cruel as to cooly watch when our master is humiliated!!\""], "ja": "「負担？！ 　なに言ってんのよ、ここは騒ぐところでしょ？！ 　私たち家具は、主が侮辱されているのを見て冷静で居られるほど残酷じゃないッ！！」"}
+{"id": 223652, "en": ["\"Ange-sama!!", "  You have no obligation to read such a humiliating letter!", "  If you can't let out a cry of rage, then at least throw it onto the floor!!\""], "ja": "「縁寿さまッ！！ 　そんな侮辱の文章を読む義務はありません！ 　怒りの声を上げられないなら、せめてその屈辱の文面を床に叩きつけて！！」"}
+{"id": 223658, "en": ["\"You don't need to trash talk them, you don't need to yell so loud that they bend over backwards!"], "ja": "「口汚く罵らなくていい、仰け反らせるほどの大声をあげなくていい！"}
+{"id": 223664, "en": ["  Just throw the notebook on the floor with all your might...!!", "  By doing just that, you'll be able to show your strong will!!\""], "ja": "ただ渾身の力でそのノートを床に叩きつけて…！！ 　それだけのことで、縁寿さまは強い意思を示すことが出来る！！」"}
+{"id": 223674, "en": ["\"Don't start running on by yourself, Mammon!!", "  I told you, right?!", "  If Ange-sama could do it, she would've done so long ago!!\""], "ja": "「勝手なことを言わないでっ！！ 　言ってるでしょ？！ 　それが出来るもんなら縁寿さまだってとっくにやってる！！」"}
+{"id": 223680, "en": ["\"Nothing will be resolved by the eruption of momentary emotions."], "ja": "「一時の感情の爆発は何も解決しない。"}
+{"id": 223686, "en": ["  Can't you see that doing that will only make their treatment of Ange-sama even more severe?!\""], "ja": "むしろ、縁寿さまに対する風当たりを悪くするだけだとなぜわからん！」"}
+{"id": 223694, "en": ["\"Waaaaaaaaaaaaahh!!"], "ja": "^^!s0「わああああああん！！"}
+{"id": 223701, "en": ["  Why is this happening to Ange-sama when she didn't do anything wrong?!\""], "ja": "^^!sd 　縁寿さまは悪くないのに何でこんな目に遭うのお？！」"}
+{"id": 223708, "en": ["\"Not letting her eat dinner...and making her stay so long after school!  I hate iiiiiiiiiiiiit!!\""], "ja": "^^!s0「夕飯も食べさせてもらえないで、放課後からずっとこんななんて嫌ぁああああ！！」"}
+{"id": 223726, "en": ["\"And it's not just tonight, but tomorrow and the day after too!!", "  That's enough, you can't simply sit there bearing this humiliation!!\""], "ja": "「今夜だけじゃないわ、今日も明日も明後日も！！ 　いい加減にして、こんな屈辱耐えられないッ！！」"}
+{"id": 223736, "en": ["\"Hey!!  Are you really listening to us?!\""], "ja": "「ねえ！！　私たちの話、本当に聞こえてるッ？！」"}
+{"id": 223744, "en": ["Someone tugged at my hair."], "ja": "私の髪が、ぐいっと引っ張られる。"}
+{"id": 223745, "en": ["...I was torn back into my tragic reality."], "ja": "……私は無惨な現実に引き戻された。"}
+{"id": 223748, "en": ["...I was no longer even permitted to listen to the Seven Sisters speaking on my behalf in my heart."], "ja": "…七姉妹たちが私の胸中を代弁してくれるその言葉に耳を傾けることさえ、もはや許されなかった。"}
+{"id": 223753, "en": ["My hair was lifted upwards, one of my hair ornaments came off, and I could hear the sound of it rolling on the ground."], "ja": "掴み上げられ、片方の髪飾りが取れ、床にコツンコツンと落ちて転がる音が聞こえた。"}
+{"id": 223756, "en": ["...No one picked it up."], "ja": "……誰も拾わない。"}
+{"id": 223760, "en": ["To the contrary, they casually avoided it as though something filthy was rolling towards them."], "ja": "むしろ、何か汚いものでも転がってきたかのように、さりげなく避けた。"}
+{"id": 223761, "en": ["I tried to follow it with my eyes, but my hair was tugged upwards again."], "ja": "私がそれを目で追おうとすると、再び髪が掴み上げられた。"}
+{"id": 223771, "en": ["\"Why do you neeever listen to us, even though we're talking about something so serious?!\""], "ja": "「何で私たちがこんなに真剣に話してるのに、いっつも聞いてないわけ？！」"}
+{"id": 223772, "en": ["\"In one ear and out the other, is it?", "  Does anything get into that thick skull of yours?!", "  Get a grip, okay?!\""], "ja": "「右の耳から左の耳ってヤツぅ？ 　それとも馬の耳に念仏かしらぁ？！ 　あんた、いい加減にしてよね？！」"}
+{"id": 223778, "en": ["\"Are you really conscious of the trouble you're causing us?", "  You aren't going to start saying that you just wrote it grudgingly because we told you to, right?!\""], "ja": "「私たち全員に迷惑掛けてるって自覚、本気であるの？ 　私たちに言われてるから嫌々、書いたとか言い出すんじゃないでしょうね？！」"}
+{"id": 223779, "en": ["\"Until you really show regret of your own will, this seriously isn't gonna end, okay?!", "  It's not just for today.", "  It'll seriously keep on going tomorrow and the day after, you see?", "  Don't you play us for fools, okay?!?!\""], "ja": "「あんたが本当に自分の意思で反省できるまで、マジで終わんないからね？ 　今日だけじゃないよ。 明日も明後日もマジで続くからね？ 　あんまり舐めてんじゃないわよッ？！？！」"}
+{"id": 223788, "en": ["\"I mean, why are you still even alive?", "  Is it normal to go on living like this?", "  If it were me, I'd just die!\""], "ja": "「つーかさぁ、何でまだ生きてんの？ 　生きてられる普通？ 　私なら死んじゃうね！」"}
+{"id": 223789, "en": ["\"You can't live like this, can you?!", "  'Cause you being alive just means getting in other people's way all the time, right?", "  If it were me, I definitely couldn't live on!\""], "ja": "「生きてられないよねー？！ 　だってさ、生きてるだけで迷惑掛けてるだけでしょ？ 　私だったら絶対に生きてられない！」"}
+{"id": 223790, "en": ["\"Yeah, yeah, I'd die too.", "  If doing that's better for the world, then I'd die right away!  Riiiiiiiiight?!!\""], "ja": "「うんうん、私だったら死ぬね。 その方が世の中のためになるなら、すぐにでも死んじゃうよー！　ねええー！！」"}
+{"id": 223796, "en": ["...Then die."], "voix": "enj", "ja": "……じゃあ死んでよ。"}
+{"id": 223805, "en": ["\"Ange-sama...\""], "ja": "「縁寿さま……。」"}
+{"id": 223811, "en": ["\"Kill all of them now!!", "  Lucifer, can you hear me?!\""], "voix": "enj", "ja": "「こいつら全員、今すぐ殺してよあんたたちッ！！ 　ルシファー、聞こえたッ？！」"}
+{"id": 223820, "en": ["\"Uh, ...ah...\""], "ja": "「えっ、……あ…。」"}
+{"id": 223828, "en": ["\"You Seven Sisters of Purgatory are incredible furniture that can massacre mere Humans in a flash, right?!", "  You're always boasting about it to me!!", "  Then do it!", "  Massacre them right now!!", "  Right here, right now!!\""], "voix": "enj", "ja": "「あんたたち煉獄の七姉妹は、ニンゲンなんかあっという間に皆殺しに出来るすごい家具なんでしょ？！ 　あんたらいつも私にそう自慢していたわッ！！ 　ならやって！ 　今すぐこいつらを皆殺しにしてッ！！ 　今すぐこの場でッ！！」"}
+{"id": 223835, "en": ["\"......Well.........\""], "ja": "「………それは……………、」"}
+{"id": 223839, "en": ["For some reason, Lucifer hesitated."], "ja": "ルシファーはなぜか口篭る。"}
+{"id": 223847, "en": ["...Why?", "  What's wrong?!"], "voix": "enj", "ja": "……何で？ 　どうしてよッ？！"}
+{"id": 223848, "en": ["You're certain-kill furniture that can fly around faster than the eye can see and instantly pierce the hearts of a witch's enemies, right?"], "voix": "enj", "ja": "目にも留まらぬ速度で飛び回って、魔女の敵の心臓を即座に貫く、必殺の家具でしょう？"}
+{"id": 223849, "en": ["And I'm giving you an order as your master!!"], "voix": "enj", "ja": "そしてそれを主である私が命じてる！！"}
+{"id": 223852, "en": ["Carry it out right away!", "  Kill!!", "  Kill them aaaaaaaaaaaaaaaaaaaall!!"], "voix": "enj", "ja": "今すぐ実行しなさい！ 　殺して！！ 　こいつらをみんな殺せええええぇええぇえぇッ！！"}
+{"id": 223860, "en": ["\".........A-Ange-sama...", "  ...Please, calm down...\""], "ja": "「……………………え、縁寿さま……。 …どうか、落ち着いて……、」"}
+{"id": 223868, "en": ["If they had immediately followed my brutal order, making heaps of corpses with me at the center..."], "ja": "もしも彼女らが私の残酷な命令に直ちに従い、私を中心に屍を累々と並べて見せたなら。"}
+{"id": 223872, "en": ["...I was ready to reflect on my own reckless actions of stealing human lives so readily, ...ready to regret and repent, just as they had wanted me to."], "ja": "……私は人の命をあっさりと奪ってしまった自分の暴挙を、悔いて後悔し、彼女らが望んだように自ら反省するつもりでいた。"}
+{"id": 223873, "en": ["I was prepared to do that."], "ja": "その覚悟があった。"}
+{"id": 223876, "en": ["And yet, Lucifer just let an unsure expression rise to her face...and didn't move to carry out my order."], "ja": "なのに、ルシファーは戸惑いの表情を見せるだけで、私の命令を実行しようとはしなかった。"}
+{"id": 223882, "en": [".........I knew it."], "ja": "………………わかってた。"}
+{"id": 223886, "en": ["Yeah, I knew it.", "  ...Vaguely."], "ja": "わかってたさ。 ……薄々は。"}
+{"id": 223887, "en": ["No, that's not right.", "  ...I've known from the beginning."], "ja": "いや、違う。 ……最初っから知ってたんだ。"}
+{"id": 223890, "en": ["I've......known that magic was all empty this whole time, haven't I...?"], "ja": "だから私は……、……魔法なんて虚しいって、わかってたんじゃないか……。"}
+{"id": 223904, "en": ["\"...The Seven Sisters of Purgatory?  Yeah, right...", "  ...Stupid, so pointless...", "  ......I've known it the whole time...\""], "voix": "enj", "ja": "「……何が煉獄の七姉妹よ…。 ……下らない、下らない…。 …………私、最初っから知ってたんだから……。」"}
+{"id": 223910, "en": ["\"......A-Ange-sama, "], "ja": "「…………え、……縁寿さま…。"}
+{"id": 223916, "en": ["......a-aaaaaahhh...!!!\""], "ja": "^^!s0…………ッ、ッッッッ……！！！」"}
+{"id": 223930, "en": ["I glared into the worthless Lucifer's eyes."], "ja": "不甲斐ないルシファーの瞳をぎょろりと睨みつける。"}
+{"id": 223934, "en": ["...And pain seemed to accompany that gaze."], "ja": "…するとその凝視は、どうやら痛みを伴ったらしい。"}
+{"id": 223935, "en": ["As though she was being assaulted with a violent headache, Lucifer grasped her head with both arms."], "ja": "ルシファーは凄まじい頭痛に襲われたかのように、自らの頭を両腕で抱え込む。"}
+{"id": 223939, "en": ["But it looked like she couldn't tear her eyes off my gaze."], "ja": "しかし、私の凝視から目は剥がせないらしい。"}
+{"id": 223940, "en": ["...So she was assaulted with a pain that grew more and more violent."], "ja": "……だからますますに激痛が彼女を襲う。"}
+{"id": 223949, "en": ["\"............\""], "voix": "enj", "ja": "「…………………………………。」"}
+{"id": 223957, "en": ["\"Guhguhguh, ah...gahgaaa, agaa......!!"], "ja": "「ぐぐぐ、あ……がが、が………ッ！！"}
+{"id": 223965, "en": ["  Gyack!!!\""], "ja": ":noclear_cw　はがッ！！！」"}
+{"id": 223985, "en": ["Useless, useless...!!"], "voix": "enj", "ja": "役立たずが役立たずが……！！"}
+{"id": 223986, "en": ["I hate you!!", "  Disappear...!!"], "voix": "enj", "ja": "あんたなんて大嫌いッ！！ 　消えてしまえ…！！"}
+{"id": 223989, "en": ["~ib~You're nothing but a delusion inside my head~ib~", "...!!!"], "voix": "enj", "ja": "^~ib~^あんたなんて所詮、私の中の妄想じゃない^~ib~^…！！！"}
+{"id": 223999, "en": ["Hopelessness and disappointment."], "ja": "絶望と失望。"}
+{"id": 224000, "en": ["Resignation and a dream's end."], "ja": "諦めと夢の終わり。"}
+{"id": 224001, "en": ["A cracking sound, like you'd hear from a frozen lake's surface during a fierce winter, rang out just once."], "ja": "厳冬の湖で、氷結した湖面が立てるような亀裂音が一度だけ響く。"}
+{"id": 224010, "en": ["At the same time, Lucifer's form, which was being tormented by a violent pain, stiffened in place and grew cloudy."], "ja": "その音と同時に、激痛に苦しむルシファーの姿が、そのままの姿で硬直し、白濁した。"}
+{"id": 224013, "en": ["...It was almost as though a beautifully polished glass window had been heartlessly smashed and turned white from the countless fissures."], "ja": "……まるで、美しく磨かれた窓ガラスが、 無残に叩き割られ、無数のひびによって真っ白になってしまうのに、よく似ていた。"}
+{"id": 224017, "en": ["And that was an accurate analogy."], "ja": "そしてそれは、正しい表現だった。"}
+{"id": 224018, "en": ["At some point, Lucifer's form had turned into a glass ornament of the same shape."], "ja": "ルシファーの姿は、ルシファーの姿をしたガラス製の置物に、いつの間にか代わっている。"}
+{"id": 224029, "en": ["Countless fissures ran through it from the inside, and as the head and arms collapsed, it crumbled to the floor."], "ja": "それは内側より無数の亀裂を走らせて、頭や腕などを瓦解させながら崩れ落ちた。"}
+{"id": 224037, "en": ["\"Eeeek?!!\""], "ja": "「ひいィッ？！！」"}
+{"id": 224044, "en": ["\"L-Luci-nee...!!\""], "ja": "「ル、ルシ姉…ッ！！」"}
+{"id": 224054, "en": ["\"......Who's the second sister...?", "  Leviathan?"], "voix": "enj", "ja": "「…………次女は誰…？ 　レヴィアタン？"}
+{"id": 224060, "en": ["  Carry out my order.", "  Massacre them right now!!\""], "voix": "enj", "ja": "私の命令を実行して。 今すぐにこいつらを皆殺しにしてッ！！」"}
+{"id": 224070, "en": ["\"N-No, um!", "  ...Err, Ange-sama...", "  ...Please calm your heart and listen..."], "ja": "「い、いえあのッ！ 　……そ、その縁寿さま…。 ……どうかお気を静めてお聞き下さい…。"}
+{"id": 224071, "en": ["  We, umm, "], "ja": "^^!s1私たちはその、"}
+{"id": 224078, "en": ["......aaah, "], "ja": ":voicedelay 2009^^………ッッッ、"}
+{"id": 224086, "en": ["gwaagahhgguguggah, "], "ja": "んぐグぐぐぐがッッ、"}
+{"id": 224094, "en": ["kyaaggghh!!\""], "ja": "がはッ！！！」"}
+{"id": 224109, "en": ["I'm not looking for excuses or back talk or an answer."], "ja": "私が聞きたいのは言い訳でも口答えでも返事でもない。"}
+{"id": 224110, "en": ["...I want nothing more than a swift confirmation of my order to eradicate the girls who are humiliating me."], "ja": "……ただ迅速に、私を辱める彼女らを抹殺する命令を受領する言葉だけだ。"}
+{"id": 224113, "en": ["If you're going to say anything else, there's no need for me to listen until the end."], "ja": "それ以外を口にするならば、最後までを聞く必要はない。"}
+{"id": 224123, "en": ["After Leviathan also turned white due to countless cracks throughout her whole body,", " she fell over backwards, splitting into separate parts along her neck, hips and arms."], "ja": "レヴィアタンもまた、全身を大量のひびで白濁させると、 仰け反るような姿のまま倒れて、首や腕、腰などの華奢な部分を分断させた。"}
+{"id": 224127, "en": ["If she'd been smashed to bits and lost her original form, it probably wouldn't have seemed so brutal."], "ja": "粉々に砕けて原形を留めない方が、むしろ残酷さは感じさせなかっただろう。"}
+{"id": 224130, "en": ["So seeing the two of them halfway left over made the remaining younger sisters shake even harder..."], "ja": "だから、しっかりと彼女らの姿を中途半端に残したところが、 大いに残りの妹たちを震え上がらせた…。"}
+{"id": 224142, "en": ["\"...Why won't you listen to my orders...?", "  Why?", "  Why?!!\""], "voix": "enj", "ja": "「……どうして私の命令を聞いてくれないの…？ 　どうして？ 　どうしてよッ！！」"}
+{"id": 224148, "en": ["\"M-My apologies...!!"], "ja": "「おッ、畏れながら…！！"}
+{"id": 224154, "en": ["  H-Here, under the current conditions, the anti-magic power is...e-extremely strong and...\""], "ja": "げ、現在のこの場は、反魔法力が、ひ、非常に強く…ッ、」"}
+{"id": 224161, "en": ["\"What's that?", "  You can't do it because Humans are here?  That's your logic?"], "voix": "enj", "ja": "「何よそれ。 ニンゲンがいるから駄目って、どういう理屈？"}
+{"id": 224166, "en": ["  Isn't killing Humans what you do?!", "  If you can't do that, then what use are you as furniture?!!", "  Die!!!\""], "voix": "enj", "ja": "ニンゲンを殺すのがあんたたちの役目でしょ？！ 　それが出来ないなら、あんたたちは何の為の家具なのよッ！！ 　死ねッ！！！」"}
+{"id": 224173, "en": ["\"Eeeeek!!"], "ja": "「ひぃッ！！"}
+{"id": 224186, "en": ["  P-Please spare me, Ange-samaaaaa...ah, "], "ja": "^^!s1　お、お許し下さい縁寿さまぁぁ……ッ、"}
+{"id": 224188, "en": ["aaaah, "], "ja": ":voicedelay 5600^^ッッッ、"}
+{"id": 224190, "en": ["khhagah, gihh, ack!!\""], "ja": ":voicedelay 360^^くぐ、ぎ、かッ！！」"}
+{"id": 224204, "en": ["As she clutched her head with both arms, Satan also turned white and fell down face first."], "ja": "サタンも両腕で頭を抱えながら、白濁してうつ伏せに倒れた。"}
+{"id": 224208, "en": ["Apparently the neck is the most slender part after all."], "ja": "やはり首が一番華奢らしい。"}
+{"id": 224209, "en": ["Her head slid off and rolled over to Belphegor's feet."], "ja": "頭がごろりともげて、ベルフェゴールの足元に転がる。"}
+{"id": 224218, "en": ["\"You can't do it because there are too many Humans?"], "voix": "enj", "ja": "「ニンゲンが多いから駄目なの？"}
+{"id": 224223, "en": ["  Then later on, I'll call them into the shadows one by one,", " and you can make a bloodbath of all of them, right?\""], "voix": "enj", "ja": "じゃあ私が、後でこいつらを一人ずつ物陰に呼び出せたなら、 あんたたちはきっちり全員を血祭りに出来るというの？」"}
+{"id": 224230, "en": ["\"...With your current magical power, it may be easy for you to converse with us.", "  However, you still lack the training to materialize us in front of all of the Humans here...!\""], "ja": "「……現在の縁寿さまの魔力では、私たちと会話する程度は容易いでしょう。 しかし、この場にいる全てのニンゲンの前で顕現するには、まだまだ魔力の錬成が足りません…！"}
+{"id": 224235, "en": ["\"I deeply understand your anger, but even if you could use us to attack...", "and murdered everyone here, that would only make your situation worse...!", "  I know it's humiliating, but please control your anger for the time being..."], "ja": "お怒りは深く理解できますが、例え我らを攻撃に使えたとしても、 この場の全員を殺害することは、かえって状況を悪くするだけです…！ 　屈辱的とは思いますが、どうかこの場は怒りを納められて…、"}
+{"id": 224241, "en": ["......ahgah, "], "ja": "……ッッ、あが、"}
+{"id": 224253, "en": ["...gaaaahaahh, kwaaaagghhgh!!\""], "ja": "……くぐぐぐッ、がッッッッ！！」"}
+{"id": 224272, "en": ["\"......Will I get the same answer from the next three...?", "  Are you gonna tell me you can't do it because the anti-magic power is too great?", "  Are you gonna tell me you can't do it because my magical power is too weak?"], "voix": "enj", "ja": "「……………あとの３人も同じ答えなの…？ 　反魔法力が高いから出来ないって言う？ 　私に魔力が足りないから出来ないって言う？"}
+{"id": 224277, "en": ["  ...Then I won't ask you to kill all of them.", "  Just one person's fine, so try and kill them.", "  Right here, right now...!!\""], "voix": "enj", "ja": "……なら全員を殺せとは言わないわ。 たった１人でいいから殺してみなさいよ。 今すぐこの場で…！！」"}
+{"id": 224284, "en": ["As Asmodeus and Beelzebub held each other, they crouched down, cringing in fear under my glare."], "ja": "睨み付けられたアスモデウスとベルゼブブは、抱き合いながら竦み上がってしゃがみ込む。"}
+{"id": 224288, "en": ["...If they'd been able to obey my order, they probably would've carried it out immediately."], "ja": "……もしも私の命令に従えたなら、直ちに実行しただろう。"}
+{"id": 224289, "en": ["And yet here they were, crouching down."], "ja": "にもかかわらず、彼女らはしゃがみ込む。"}
+{"id": 224292, "en": ["...Empty.", "  Sad.", "  And pathetic..."], "ja": "……虚しい。 悲しい。 そして情けない……。"}
+{"id": 224296, "en": ["That's right, I've known."], "ja": "そうさ、わかっていたさ。"}
+{"id": 224297, "en": ["These girls can't even touch reality with one of their fingers..."], "ja": "彼女らには、現実に指一本だって触れることなんか出来やしない……。"}
+{"id": 224304, "en": ["\"N-No, no...!!", "  Belz, I'm scared, Beeelz!!\""], "ja": "「ぃ、…嫌だぁ嫌だぁ…！！ 　ベルゼ怖いよベルゼー！！」"}
+{"id": 224310, "en": ["\"Ange-sama, spare us, spare us...!!", "  I don't wanna diiiiiiiieee!!\""], "ja": "「縁寿さまぁ、許して下さい、許して下さい…！！ 　死にたくないぃいいぃ！！」"}
+{"id": 224320, "en": ["\"Die, useless furniture!", "  Why are you guys even alive?", "  Why are you alive when your lives are worthless?", "  It doesn't matter if you die, right?", "  Die.", "  I'm telling you to die!!", "  Do you think any idiot would leave furniture that has no use lying around?!\""], "voix": "enj", "ja": "「死になさいよ、使えない家具ッ！ 　どうして生きてるの、あんたたち？ 　生きてる価値がないのに、何で生きてるわけ？ 　死ねばいいじゃん。 死になさいよ。 というかむしろ死ねッ！！ 　使い道のない家具を置いとく馬鹿がいると思うッ？！」"}
+{"id": 224327, "en": ["\"\"Eeeeeeekkk!!", "  !!!!  Gah!!!\"\""], "ja": "「「ひィイイィ！！ 　ッッッッ、がッ！！！」」"}
+{"id": 224349, "en": ["\"P-Please stop, Ange-sama!!\""], "ja": "「や、やめてください、縁寿さまッ！！」"}
+{"id": 224355, "en": ["\"...What is it, Mammon?", "  Are you gonna be only one to fulfill my order?"], "voix": "enj", "ja": "「……なぁに、マモン。 あなただけは私の命令を遂行してくれるの？"}
+{"id": 224360, "en": ["  That's right.", "  You're my best friend.", "  ......You alone will do it for me.", "  Get them!\""], "voix": "enj", "ja": "そうよね。 私の一番のお友達だもんね。 …………あなただけは、やってくれるわよね。 こいつらを！」"}
+{"id": 224368, "en": ["\"......A-As you are now, Ange-sama, ...even if you use us, you aren't capable of committing murder!!"], "ja": "「…………い、今の縁寿さまには、……私たちを使役しても、人殺しは出来ません！！"}
+{"id": 224372, "en": ["  It's furniture's duty to help with things their master can do...!", "  Things that even the master can't do, we can't do...!!", "  Do you hate them, Ange-sama?", "  You do hate them, right?\""], "ja": "主に出来ることを手伝うのが家具の役目…！ 　主にすら出来ないことを、私たちにはすることが出来ない…！！ 　縁寿さまはこいつらが憎いですか？ 　憎いですよね？"}
+{"id": 224377, "en": ["\"I totally understand why you want to kill them!!", "  Okay, in that case, go ahead and kill them, Ange-sama!", "  If you stain your own hands with blood, then we, the Seven Sisters of Purgatory, will go along with you however far!  However far you go!!\""], "ja": "殺したくなる気持ち、よくわかりますッ！！ 　えぇ、どうぞ、ならば殺しましょうよ、縁寿さま！ 　縁寿さま自らがその手を血に染めるならば、我ら煉獄の七姉妹、どこまでもお供しましょうとも！　どこまでもッ！！」"}
+{"id": 224389, "en": ["\"...I'm...asking you all......because I can't do it myself, aren't I...?", "  ...Isn't being able to do things I can't the thing that makes you furniture?!!\""], "voix": "enj", "ja": "「……私に、……出来ないから、………あんたたちに頼んでるんでしょう……。 ……私に出来ないことを出来るから、あんたたちは家具なんでしょお！！」"}
+{"id": 224397, "en": ["\"Yes, we are furniture.", "  Furniture to be used...!!"], "ja": "「えぇ、家具です。 使われてこそ家具です…！！"}
+{"id": 224402, "en": ["  Please, go ahead and use us to kill!", "  You'll be the one killing, Ange-sama!!", "  If you're saying that you want to kill, then go ahead, be my guest!", "  No need to hesitate, go and carry it out right now!!\""], "ja": "どうぞ我らを使って殺して下さい！ 　殺すのは貴女です、縁寿さまッ！！ 　縁寿さまが殺したいというならどうぞご自由に！ 　躊躇うことはありません、どうぞ今すぐにそれを実行を！！"}
+{"id": 224407, "en": ["\"And once you've prepared yourself mentally,", " once you're prepared to dirty your own hands, then we'll help you!", "  But you haven't done that, Ange-sama!!\""], "ja": "そこまでの覚悟が伴って初めて！ 　自らの手を汚す覚悟があって初めて、我らはそれをお手伝いいたしましょう！ 　でも縁寿さまはそれに至っていないんです！！」"}
+{"id": 224417, "en": ["\"Pft, ......*cackle*cackle*, ahhahhahhahhahha...", "  Ahhahhahhahhahhahhahhahha, don't speak, furniture.", "  You delusion!!", "  I get it already, you don't all have to tell me.", "  ...You people can't do anything.", "  You're nothing more than my delusions, illusions, daydreams...!", "  I haven't had a single friend from the very beginning.", "  You're just a phantom, a pretend friend I created in my heart, in my isolation, right?", "  I've known from the very beginning!!!\""], "voix": "enj", "ja": "「ふっ、………くっくっくっく、あっはっはっはっはっは…。 あっはっはっはっはっはっはっは、語るな家具が。 妄想がッ！！ 　もうわかってるわよ、皆まで言わせないでよ。 …あんたたちには何も出来ない。 あんたたちは所詮、私の妄想、幻想、白昼夢…！ 　私には初めから友達なんて一人もいないわ。 孤独な私が心の中に生み出した、お友達ごっこの幻影でしょう？ 　知ってたのよ、最初ッから！！！」"}
+{"id": 224426, "en": ["\"Ahhahahahahahahahahahaha!!"], "ja": "「あっはははははははははははッ！！"}
+{"id": 224431, "en": ["  Yeah, that's right!", "  We're an illusion inside your head, Ange-sama, but so what?", "  Yes, that's truue!", "  We're just imaginary friends created to soothe ", "lonely, lonely Ange-sama's heart because she doesn't have a single friend, but so what?"], "ja": "えぇ、そうですよゥ！ 　縁寿さまの頭の中の幻想ですけど何かァ？ 　ハイ、そうですゥ！ 　私たちは友達のただ一人もいやしない、 寂しい寂しい縁寿さまの心を慰めるためだけに生み出されたお友達ごっこの脳内妄想ですが何かァ？"}
+{"id": 224435, "en": ["  If you want to look at reality, just look at it.", "  You can stop looking at us and return to being surrounded and bathed with jeering over there!!\""], "ja": "見たければ現実を見るといい、 私たちなんか見ないで、あそこで囲まれて罵声を浴びせられてるあなたに戻るといい！！"}
+{"id": 224440, "en": ["\"C'mon, c'mon, go back, welcome home to reality!!", "  Just call on us only when it's convenient for you and pretend you have friends, ", "then spur us on even though you don't have the guts to dirty your own hands, then deny and erase us once you realize that it's hopeless!"], "ja": "ほらほら戻りなさいよ、お帰りなさいな現実にッ！！ 　都合のいい時だけ私たちを呼び出してお友達ごっこで、 自分の手を汚す覚悟もないくせにそれをけしかけ、駄目とわかったら否定して消し去る！"}
+{"id": 224445, "en": ["  Yes, please enjoy it, I'll leave with a shriek of anguish just like you want, Ange-sama!!\""], "ja": "えぇ、どうぞお楽しみ下さいよ、縁寿さまが期待されるような苦悶の声と悲鳴をあげて退場しますとも！！"}
+{"id": 224451, "en": ["\"Just copy the jeering that you're being showered with right now,", " and do the same to us to get it off your chest."], "ja": "縁寿さまがたった今、浴びせられている罵声を、 私たちにも同じように浴びせ掛けて胸の内をスゥっとさせるがいいです。"}
+{"id": 224456, "en": ["  That's also furniture's duty!!", "  Getting slammed against the floor when someone's pissed off is also a chair's important duty!!"], "ja": "それもまた家具の役目！！ 　ムカついて床に叩き付けられることもまた、椅子の大事なお役目ですからァ！！"}
+{"id": 224461, "en": ["  If that alone can absorb their master's bad mood even for an instant, ", "there can be no greater honor for furniture.", "  Kill me, deny me, your first and final friend...!!!\""], "ja": "その程度のことで主の不機嫌を一時でも受け止められたなら、 家具としてこれほどの栄誉はありません。 殺しなさいよッ、否定しなさいよ、あなたの最初で最後の友達をぉおおおッ…！！！」"}
+{"id": 224469, "en": ["At the end, Mammon had a mocking expression on her face,", " ...but for some reason, it looked splashed with tears."], "ja": "マモンは最後に、嘲り笑いの表情を浮かべたけれど、 ……なぜか涙の粒を散らしたように見えた。"}
+{"id": 224482, "en": ["Mammon, Beelzebub and Asmodeus were smashed and fell to the floor..."], "ja": "マモンと、ベルゼブブとアスモデウスの３人は砕け散り、床に転げた……。"}
+{"id": 224495, "en": ["『......U-Uryu.........』"], "voix": "sak", "ja": "『………う、……うりゅ………………。』"}
+{"id": 224501, "en": ["\"......", "Come over here, Sakutaro."], "voix": "mar", "ja": "「………………。 こっちへおいで、さくたろ。"}
+{"id": 224507, "en": ["  Ange is a little agitated right now.", "  ...So you mustn't get close.\""], "voix": "mar", "ja": "今の縁寿は、少し冷静じゃないだけ。 ……だから、近寄っちゃ駄目だよ。」"}
+{"id": 224514, "en": ["『What about everyone else?", "  Are all the Seven Sisters alive?", "  Did they die...?』"], "voix": "sak", "ja": "『みんなは？ 　七姉妹のみんなは生きてるの？ 　死んじゃったの…？』"}
+{"id": 224520, "en": ["\"...It's okay.", "  It looks gruesome, but those are the remains of their vessels after being deported from the human world.", "  Shells that have been shed."], "voix": "mar", "ja": "「……大丈夫だよ。 とても無残な姿だけど、あれは人間界を強制退去させられて残された、依り代の残滓。 抜け殻だよ。"}
+{"id": 224525, "en": ["  ...So it's all right.", "  They're probably deeply hurt, but they're okay.", "  Everyone is alive.", "  I'm sure we'll be able to meet them again someday.\""], "voix": "mar", "ja": "……だから大丈夫。 とても傷ついただろうけど、無事だよ。 みんな生きてるよ。 きっといつか、また会えるよ。」"}
+{"id": 224531, "en": ["『Uryu...", "  ...Thank goodness, ......thank goodness......』"], "voix": "sak", "ja": "『うりゅ…。 ……良かった………良かった…………。』"}
+{"id": 224537, "en": ["\"...Ange has violated the contract of Mariage Sorcière.", "  ...To do such a horrible thing, ...even though witches of the alliance must respect and accept one another...", "  Even though they were all important friends to you, Ange...\""], "voix": "mar", "ja": "「……縁寿はマリアージュ・ソルシエールの条約に違反した。 ……同盟の魔女は、互いを敬い認め合わなくちゃならないのに、……こんな酷いことを……。 みんな縁寿の大切な、お友達だったのに……。」"}
+{"id": 224545, "en": ["\"No witches' alliance has anything to do with this.", "  Magic friends?  Give me a break."], "voix": "enj", "ja": "「そんな魔女の同盟なんて関係ない。 魔法のお友達？　いい加減にして。"}
+{"id": 224552, "en": ["  ......I killed them, erased them.", "  I smashed the Seven Sisters!\""], "voix": "enj", "ja": "………私が殺したわ、消し去った。 私が七姉妹を、砕け散らせた！」"}
+{"id": 224556, "en": ["『Uryu, ...that's so cruel, ...so cruel......』"], "voix": "sak", "ja": "『うりゅ……、そんなの酷いよ……、酷いよ………。』"}
+{"id": 224566, "en": ["\"...Just give it a rest with this playing witches thing.", "  ...I'm begging you.", "  Maria onee-chan and Sakutaro, I want you to disappear by yourselves.", "  ......Even in my imagination, ...I don't want to kill and erase you.\""], "voix": "enj", "ja": "「……もう、魔女ごっこはいい加減にして。 ……お願いだから。 真里亞お姉ちゃんもさくたろも、自ら消えてほしい。 ………私が殺して消したなんて、……妄想の中ですら、したくないから。」"}
+{"id": 224574, "en": ["『...W-We aren't your imagination...", "  We're your friends, Ange, ...uryu......!』"], "voix": "sak", "ja": "『ボ、…ボクたちは妄想なんかじゃないよ……。 縁寿のお友達だよ…、うりゅ………！』"}
+{"id": 224578, "en": ["Sakutaro said that as he hid behind Maria onee-chan, sobbing."], "ja": "さくたろは真里亞お姉ちゃんの背中に身を隠しながら、そう言って涙ぐむ。"}
+{"id": 224581, "en": ["......Sakutaro doesn't exist."], "ja": "………さくたろなんて存在しない。"}
+{"id": 224584, "en": ["Sakutaro is also...an imaginary creature Onee-chan created to distract herself from her loneliness......"], "ja": "さくたろもまた、お姉ちゃんが寂しさを紛らわすために生み出した、妄想なんだ………。"}
+{"id": 224590, "en": ["『...U-Uryu, ......it hurts, ...it hurts, Maria...", "  ...Why?  Why...?", "  Uryu......uryu......』"], "voix": "sak", "ja": "『う、……うりゅ、………痛い、……痛いよ、真里亞……。 ……何で？何で…？ 　うりゅ………うりゅ………。』"}
+{"id": 224596, "en": ["\"Stop it.", "  Denying my friend is the one thing I will not permit.\""], "voix": "mar", "ja": "「やめて。 私のお友達を否定することだけは、許さない。」"}
+{"id": 224600, "en": ["The same power that had smashed the Seven Sisters was probably eating into Sakutaro as well."], "ja": "七姉妹たちを砕いたのと同じ力が、さくたろをも蝕もうとしているのだろう。"}
+{"id": 224604, "en": ["...But Maria onee-chan was apparently protecting him with some other power."], "ja": "……だが、真里亞お姉ちゃんが何らかの力でそれを庇っているらしい。"}
+{"id": 224605, "en": ["So Sakutaro's form didn't break and scatter."], "ja": "だから、さくたろの姿は砕け散らない。"}
+{"id": 224609, "en": ["Onee-chan glared at me sharply."], "ja": "お姉ちゃんは鋭い目で私を睨みつける。"}
+{"id": 224610, "en": ["...It was a serious expression that I'd never seen before."], "ja": "……初めて見せる厳しい表情だった。"}
+{"id": 224616, "en": ["\"Sakutaro is my furniture.", "  You cannot erase him, Ange.", "  ...However, trying to deny someone is the greatest form of scorn for a witch.\""], "voix": "mar", "ja": "「さくたろは私の家具。 縁寿には消せないよ。 ……なのに、否定しようとするのは魔女にとって最大級の侮蔑も同じだよ。」"}
+{"id": 224623, "en": ["\"Sakutaro didn't exist from the very beginning."], "voix": "enj", "ja": "「さくたろなんて、最初から存在しないわ。"}
+{"id": 224628, "en": ["  He's just a lion stuffed animal.", "  A phantom you personified with the delusions inside your own mind!\""], "voix": "enj", "ja": "ただのライオンのぬいぐるみ。 それをお姉ちゃんが、あたかも存在するかのように脳内で妄想して、人格化した、ただの幻なのよ！」"}
+{"id": 224636, "en": ["\"Uu-!!!"], "voix": "mar", "ja": "「うーッ！！！"}
+{"id": 224641, "en": ["  That's not true!!"], "voix": "mar", "ja": ":noclear_cw　そんなことないよッ！！"}
+{"id": 224646, "en": ["  Sakutaro is my friend!!", "  He was a stuffed animal once, but now he isn't!!\""], "voix": "mar", "ja": "さくたろは真里亞のお友達なの！！ 　元はぬいぐるみだけど、今はぬいぐるみじゃないのー！！」"}
+{"id": 224653, "en": ["\"No, he's a stuffed animal.", "  A stuffed animal made of cloth and cotton!", "  He can't move or talk by himself!", "  You're just talking for him like a ventriloquist, right?!"], "voix": "enj", "ja": "「いいえ、ぬいぐるみだわ。 布と綿で出来たぬいぐるみ！　 自ら喋れも動きもしない！　 お姉ちゃんはそれを、腹話術みたいにして喋ってるだけじゃない！"}
+{"id": 224658, "en": ["  You call that magic?", "  You call that a witch?!", "  You call that...a friend?!", "  I can't accept that!!\""], "voix": "enj", "ja": "それが魔法？ 　それが魔女？！ 　それが、……友達？！ 　そんなの、私は認めないわ！！」"}
+{"id": 224665, "en": ["『............Uryu..."], "voix": "sak", "ja": "『……………………うりゅ……。"}
+{"id": 224676, "en": ["......Am I..."], "voix": "sak", "ja": "^^!s1………ボクは、"}
+{"id": 224678, "en": ["...not me...?"], "voix": "sak", "ja": ":voicedelay 1370^^………ボクじゃないの……？"}
+{"id": 224695, "en": ["...Am I..."], "voix": "sak", "ja": "……ボクは……ただのぬいぐるみで、"}
+{"id": 224697, "en": ["...just a stuffed animal that..."], "voix": "sak", "ja": ":voicedelay 3760^^…本当は喋れなくて…、"}
+{"id": 224699, "en": ["...can't really talk..."], "voix": "sak", "ja": ":voicedelay 2350^^………真里亞の、"}
+{"id": 224701, "en": ["...and not Maria's..."], "voix": "sak", "ja": ":voicedelay 940^^……お友達じゃ、"}
+{"id": 224703, "en": ["...friend...?"], "voix": "sak", "ja": ":voicedelay 1930^^……………ないの…………？"}
+{"id": 224713, "en": ["U...ryu......』"], "voix": "sak", "ja": "う……りゅ………、』"}
+{"id": 224723, "en": ["As though struck with a high fever, Sakutaro weakened bit by bit."], "ja": "さくたろが、高熱にうなされるかのように、少しずつ衰弱していく。"}
+{"id": 224724, "en": ["As he clung to Onee-chan's body, he did all he could to continue standing, ", "...but his body began to gradually slip down..."], "ja": "お姉ちゃんの体にすがり付きながら、何とか立ち続けようと頑張るが、 ……少しずつ体がずり落ちていく…。"}
+{"id": 224727, "en": ["As he did, Onee-chan held him, yelling at me as tears streamed down her face..."], "ja": "お姉ちゃんはそんなさくたろを抱き、涙を零しながら私に叫んだ…。"}
+{"id": 224736, "en": ["\"Uuu--!!"], "voix": "mar", "ja": "「うーーッ！！"}
+{"id": 224739, "en": ["  Stop iit!!", "  Don't burn Sakutaro with the magic-resisting toxin!!", "  Don't bully him!!", "  Don't insult him!", "  Don't deny him!!\""], "voix": "mar", "ja": ":noclear_cw　やめてェ！！ 　反魔法の毒でさくたろを焼かないでッ！！ 　虐めないで！！ 　侮辱しないでッ！ 　否定しないでぇええ！！」"}
+{"id": 224756, "en": ["\"*giggle*giggle*giggle*!!"], "voix": "enj", "ja": "「きゃっきゃっきゃ！！"}
+{"id": 224762, "en": ["  Maria onee-chan, you're so weeeird!!", "  There is no Sakutaro!", "  Stuffed animals are stuffed animals!"], "voix": "enj", "ja": "真里亞お姉ちゃん、変なのー！！ 　さくたろなんかいないよー！ 　ぬいぐるみはぬいぐるみだもんー！"}
+{"id": 224770, "en": ["  I learned from Mama that they're made of cloth and cotton!!", "  There's no way they can walk or talk!!", "  *giggle*giggle*, *giggle*giggle*giggle*!!!\""], "voix": "enj", "ja": ":noclear_cw　布と綿で出来てるってママに習ったもんー！！ 　歩いたり喋ったりなんか出来るわけないよー！！ 　きゃっきゃっきゃっきゃ、きゃーっきゃっきゃっきゃっきゃ！！！」"}
+{"id": 224789, "en": ["『......Uryu, ............u...yu......』"], "voix": "sak", "ja": "『………うりゅ………………、………ぅ…ゅ………………、』"}
+{"id": 224795, "en": ["\"Sakutaro!!", "  Sakutaro-!!!", "  You aren't a stuffed animal, you aren't a stuffed animal, you're a friend!!", "  Uuu--!!!", "  Waaaaaaaaaaaaaahhhh!!!!\""], "voix": "mar", "ja": "「さくたろ！！ 　さくたろー！！！ 　ぬいぐるみじゃないもん、ぬいぐるみじゃないもん、友達だもん！！ 　うーー！！！ 　わぁああぁあああああああーーー！！！！」"}
+{"id": 224804, "en": ["\"*giggle*giggle*giggle*giggle*!!"], "voix": "enj", "ja": "「きゃっきゃっきゃっきゃ！！"}
+{"id": 224812, "en": ["  *giggle*giggle*giggle*giggle*!!", "  Instead of playing with stuffed animals, it's better to play outside with everyone!!"], "voix": "enj", "ja": ":noclear_cw　きゃーッきゃっきゃっきゃっきゃっきゃ！！ 　ぬいぐるみ遊びなんかより、みんなでお外で遊ぶ方がいいー！！"}
+{"id": 224817, "en": ["  I'm bored with stuffed animals already!!", "  *giggle*giggle*!!\""], "voix": "enj", "ja": "ぬいぐるみもう飽きたー！！ 　きゃっきゃっきゃっきゃ！！」"}
+{"id": 224825, "en": ["\"I hate you, Ange!!", "  Uu-!!", "  Why say something like that, hatehatehatehate!!", "  I hate you!!\""], "voix": "mar", "ja": "「縁寿なんかもう知らない！！ 　うー！！ 　何でそんなこと言うの、嫌い嫌い嫌い嫌い！！ 　大っ嫌い！！」"}
+{"id": 224828, "en": ["You're not my friend!!", "  I won't let you be one of us witches anymore...!!"], "voix": "mar", "ja": "絶交だ、絶交だ！！ 　もう魔女の仲間になんか入れてあげないッ…！！"}
+{"id": 224835, "en": ["Upon my name, the Apprentice Witch of Origins, MARIA,", " I hereby expel the Apprentice Witch ANGE from the Mariage Sorcière Alliance of Witches...!!"], "voix": "mar", "ja": "原初の魔女見習い、マリアの名において、 魔女見習いエンジェをマリアージュ・ソルシエール魔女同盟より除名とする……！！"}
+{"id": 224842, "en": ["......And then."], "ja": "………それで。"}
+{"id": 224845, "en": ["...What had been peaceful days to me became a daydream and ended."], "ja": "…私の穏やかだった日々は、白昼夢ということになって、終わった。"}
+{"id": 224848, "en": ["By now, it's impossible to prove."], "ja": "今となっては検証不能だ。"}
+{"id": 224851, "en": ["No one can verify whether that really was magic or whether those really were my friends,", " or else nothing more than a daydream."], "ja": "あれが本当に魔法で、そして私の友人たちだったのか、 それとも白昼夢に過ぎなかったのかは、誰にも検証できない。"}
+{"id": 224855, "en": ["...I, the sole observer, concluded that they were a daydream."], "ja": "……唯一の観測者である私が彼女らを、白昼夢だと断じたから。"}
+{"id": 224856, "en": ["...So that became the truth."], "ja": "……それが真実となった。"}
+{"id": 224861, "en": ["Perhaps, in the farther future, I'll observe it again, ", "and when that happens, maybe I'll acknowledge that it wasn't a dream, ...that the Seven Sisters really were my friends, and that along with Maria onee-chan and Sakutaro,", " they did everything they could for me in my isolation."], "ja": "私は後の未来に再びこれを観測し、その時はこれを夢ではなく、 ……七姉妹たちは本当に友人で、真里亞お姉ちゃんもさくたろも、 孤独な私のために尽力してくれていたと、認めるのだろうか。"}
+{"id": 224865, "en": ["......Something so vague is neither the truth nor an illusion."], "ja": "………………そんなあやふやなの、真実でも幻でも、何でもない。"}
+{"id": 224866, "en": ["Maybe the reality here and now is the only world with the real me."], "ja": "今、ここにある現実だけが、本当の私の世界なんじゃないか。"}
+{"id": 224869, "en": ["Where is the real me?"], "ja": "本当の私はどこにいるの？"}
+{"id": 224879, "en": ["The person standing amidst the girls' exposed wreckage that resembles broken glass sculptures,", " that girl who's breathing harshly, her shoulders heaving, ...isn't me."], "ja": "壊れたガラスの彫像のような残骸を晒している彼女らの中央に立ち、 荒い息で肩を上下させているのは私ではない。"}
+{"id": 224882, "en": ["I'm...over there."], "ja": "私がいるのは、……あそこ。"}
+{"id": 224889, "en": ["The me that's surrounded by a crowd and being showered by jeers...and who's hanging her head, her eyes red......"], "ja": "人垣に囲まれ、罵倒を浴びせられ続け、…目を真っ赤にしながら俯く、私………。"}
+{"id": 224894, "en": ["...Isn't the me over there..."], "ja": "……あそこにいる私こそが、"}
+{"id": 224896, "en": ["...the real me...?"], "ja": "^^!d800………本当の私じゃないか……。"}
+{"id": 224900, "en": ["I won't dream anymore."], "ja": "もう、夢なんか、見ない。"}
+{"id": 224901, "en": ["Because there's nowhere left to run."], "ja": "逃げる場所なんか、どこにもないのだから。"}
+{"id": 224905, "en": ["I'm...going back."], "ja": "私は、帰る。"}
+{"id": 224906, "en": ["...I'll return myself to the cage made of flesh..."], "ja": "……肉で出来た檻に、自ら戻る……。"}
+{"id": 224912, "en": ["\"Hey!!", "  Are you listening to us?!", "  It's not like anything'll be resolved if you just stand there hanging your head, right?!\""], "ja": "「ねぇ！！ 　話、聞こえてますかしらぁ？！ 　いつまでも俯いていても、何の解決にもなりませんわよー？！」"}
+{"id": 224920, "en": ["\"............", "...I hear you.\""], "voix": "enj", "ja": "「…………………………。 ……聞こえてるわ。」"}
+{"id": 224924, "en": ["\"Ah, you finally answered.", "  You aren't thinking that this'll end if you stay silent, or that we'll forgive you if you cry, right?!", "  We're asking if you're aware!", "  We're asking if you're aware of the trouble you're causing those around you...!!\""], "ja": "「あ、やっと返事した。 このまま黙ってれば終わるとか、泣けば許してもらえるとか、そういうこと考えてるんじゃないのー？！ 　あんた、自覚あるかって聞いてるのよ！ 　自分が周りに迷惑掛けてるって自覚があるのかって聞いてんのよ…！！」"}
+{"id": 224928, "en": ["......I...slowly nodded."], "ja": "………私は、…ゆっくりと頷く。"}
+{"id": 224929, "en": ["...I acknowledged it."], "ja": "…それを認めた。"}
+{"id": 224937, "en": ["I acknowledged that I had slipped into the world of my daydream, trying to remain separate from the others in my class."], "ja": "私は白昼夢の世界に入り浸り、クラスから疎遠であろうとしたことを認める。"}
+{"id": 224941, "en": ["...To separate myself from and disgrace those Sisters who spoke to me with reliable and kind words,", " despite being totally unable to help when I really wanted them to, ", "...I acknowledged that."], "ja": "……それを認めることによって、あれだけ頼もしい言葉や優しい言葉を掛けてくれたのに、 この、本当に助けて欲しい今になって、 何も助けてくれなかった彼女らを穢すために、決別するために、 ……それを、認める。"}
+{"id": 224948, "en": ["\"...I, Ushiromiya Ange, do not have a cooperative attitude and caused trouble for my classmates.", "  There is nothing to blame for that except my excessive inferiority complex towards all of my classmates because of my inability to study.", "  And, ............\""], "voix": "enj", "ja": "「……私、右代宮縁寿は、協調性がなくて、クラスメートに迷惑を掛けました。 それは、勉強が出来ないため、クラスメート全体に対し、過度の劣等感を持っていたからに他なりません。 私は、…………………………。"}
+{"id": 224956, "en": ["\"......It's a shame that I'm alive.\""], "voix": "enj", "ja": "…………生きてても仕方ありません。」"}
+{"id": 224960, "en": ["Starting there, I was no longer reading the paragraph they'd made me write."], "ja": "そこからは、彼女らが書けと言った文章にはない。"}
+{"id": 224963, "en": ["...It was me...improvising.", "  And...it was what was in my heart."], "ja": "……私の、即興。 そして、胸の内。"}
+{"id": 224967, "en": ["They noticed that it wasn't what they'd anticipated,", " but while they did frown, no one spoke."], "ja": "彼女らも、それが予定されていないものであることに気付くが、 眉をひそめながらも、口出しはしなかった。"}
+{"id": 224968, "en": ["So I continued."], "ja": "だから私は続ける。"}
+{"id": 224976, "en": ["\"...That's right.", "  It's a shame that I lived.", "  ...I should've had them take me with them on that day in 1986.", "  ...And yet, I was the only one who wasn't taken.\""], "voix": "enj", "ja": "「……そうです。 私は生きてても仕方がなかった。 ……１９８６年のあの日に、私も連れて行ってもらうはずだったんです。 ……なのに、私だけが連れて行ってもらえなかった。"}
+{"id": 224978, "en": ["\"...Why am I here?", "  ...This isn't the world I'm supposed to be in.", "  ......No one will save me.", "  ...For a time, ...I felt as though only the fictional friends I created inside myself could save me.", "  But those friends were nothing more than a delusion, ...and they didn't save me at all.", "  After all, this isn't a world of imagination, but a world of reality.\""], "voix": "enj", "ja": "……どうして、私はここにいるのでしょう。 …ここは、…私のいる世界じゃない。 …………誰も助けてくれません。 …一時、……私の中に生まれた架空の友人たちだけが、私を助けてくれるような気がしていました。 でも、友人たちは所詮は妄想で、……助けてなどくれなかった。 だってここは妄想の世界じゃなくて、現実の世界だから。"}
+{"id": 224984, "en": ["\"......So, in short, ...up until today, ...I've been having the same daydream.", "  ...I hated my real classmates and only lived by interacting with the friends in my mind.", "  ......Just now, I split up with those friends.", "  So I am here.\""], "voix": "enj", "ja": "………だからつまり、……私は今日までずっと、……白昼夢を見続けてきたわけです。 …現実のクラスメートを嫌い、妄想の友人たちとの交流の中だけに生きた。 ………その友人たちとは、さっき決別しました。 だから私がここにいます。"}
+{"id": 224989, "en": ["\"......I have no family.", "  I've thrown my friends away too.", "  ...There's no longer anything left for me.", "  ...Why haven't I died?", "  Someone asked that a short while ago.", "  ...I think they're right.", "  Why......am I alive?", "  ......I should've died......in the year 1986.", "  ...No, I must really have died.\""], "voix": "enj", "ja": "…………家族もいません。 友人も捨てました。 ……もう私には、何も残っていません。 ……どうして死なないの？ 　さっきそう聞いた人がいました。 …その通りだと思います。 どうして私は、………生きてるんでしょう。 ………………１９８６年に私は、…………死んでいるはずだったんです。 …いえ、きっと死んだんです。"}
+{"id": 224995, "en": ["\"And yet, ......my dead soul is still locked up inside this cage of flesh."], "voix": "enj", "ja": "なのに、…………私の殺された魂は、未だにこの肉の檻に閉じ込められている。"}
+{"id": 224996, "en": ["  So I'll ask someone.", "  If no one answers, ...I'll do it myself.\""], "voix": "enj", "ja": "だから、誰かに求めよう。 それに誰も応えてくれないなら、……自分でしよう。"}
+{"id": 225005, "en": ["\"Please, "], "voix": "enj", "ja": "^^!s1「誰か私を、"}
+{"id": 225007, "en": [".........let me die.\""], "voix": "enj", "ja": ":voicedelay 1460^^…………………死なせて下さい。」"}
+{"id": 225019, "en": ["I spoke that sentence...and looked around."], "ja": "その一言を口にし、周りを見渡す。"}
+{"id": 225024, "en": ["Dumbfounded girls."], "ja": "唖然とした子。"}
+{"id": 225025, "en": ["Shocked girls."], "ja": "呆然とした子。"}
+{"id": 225026, "en": ["Girls whose faces seemed to be saying `What the heck is this kid talking about?'"], "ja": "何を言ってるのこの子、という顔の子。"}
+{"id": 225029, "en": ["And, a bit late, ", "more and more girls with faces that said `Is this girl all right?'"], "ja": "そして、やや遅れてから、この子大丈夫〜？ 　という顔の子が増えていく。"}
+{"id": 225038, "en": ["*whisper*.", "  *chatter*."], "ja": "ひそひそ。 ざわざわ。"}
+{"id": 225039, "en": ["And then, *giggle*."], "ja": "そして、くすくす。"}
+{"id": 225042, "en": ["......When I ordered the friends in my daydream to kill, they couldn't do it."], "ja": "…………殺せと命じて、白昼夢の友人たちには出来なかった。"}
+{"id": 225048, "en": ["And so."], "ja": "ならばと。"}
+{"id": 225049, "en": ["I asked real Humans to kill me, "], "ja": "現実のニンゲンたちに殺せと頼んだが、"}
+{"id": 225051, "en": ["...but of course, these girls can't do it either."], "ja": "^^!d800……やはり彼女たちにも出来ない。"}
+{"id": 225054, "en": ["...In other words, both daydreams and reality are the same."], "ja": "……ということはつまり、白昼夢も現実も、どちらも同じ。"}
+{"id": 225058, "en": ["Doesn't this mean that, including this world..."], "ja": "この世界も含めて、全てが全てが。"}
+{"id": 225059, "en": ["......Absolutely everything is a daydream?"], "ja": "…………白昼夢だということじゃないのか。"}
+{"id": 225062, "en": ["Then, ...there's no problem, right?"], "ja": "なら、……それでいいじゃないか。"}
+{"id": 225067, "en": ["After all, ...on that day when I lost my family, I was already dead."], "ja": "だって私は、……家族を全て失ったあの日に、もう死んでるのだから。"}
+{"id": 225068, "en": ["...Everything that happened afterwards is going on in my head, my life flashing before my eyes after I failed to die."], "ja": "……その後に続く全ての日々が、……死に損なった私の、走馬灯のような妄想だったのだ。"}
+{"id": 225072, "en": ["Once I understood that, ......it felt like the scenery surrounding me began to twist and bend slightly."], "ja": "それを理解したら、……………周りの全ての景色が、わずかに歪み始めた気がした。"}
+{"id": 225077, "en": ["......Yeah."], "ja": "………あぁ。"}
+{"id": 225078, "en": ["...I'll finally......wake up."], "ja": "…やっと私は、………覚めるんだな。"}
+{"id": 225079, "en": ["...I'll be released from this daydream world."], "ja": "…この白昼夢の世界から、解放されるんだな。"}
+{"id": 225087, "en": ["I feel my consciousness sliding away."], "ja": "ふぅっと、気が遠のいていく気がする。"}
+{"id": 225091, "en": ["...That's all right."], "ja": "……それでいい。"}
+{"id": 225092, "en": ["Fade farther and farther away......and take me to my family..."], "ja": "どこまでもどこまでも遠のいて、…………私を家族のところまで連れて行って……。"}
+{"id": 225095, "en": ["Then, no matter what happens in this twisted, stale world, I won't mind it at all."], "ja": "だから、歪んで色褪せた世界で何が起こっても、まったく気にならなかった。"}
+{"id": 225100, "en": ["I saw the crowd get pushed aside as a teacher stepped in."], "ja": "人垣が押しのけられて、教師が割り込んでくるのが見える。"}
+{"id": 225103, "en": ["Perhaps a teacher doing the rounds happened to notice a strange disturbance."], "ja": "おかしな騒ぎになっているのを、たまたま見回りの教師が見つけた、ということかもしれない。"}
+{"id": 225106, "en": ["The teacher was vigorously shouting something, moving to protect me."], "ja": "教師は盛んに何かを怒鳴りながら、私を庇うような仕草をしていた。"}
+{"id": 225115, "en": ["...Watching that, I knew that an ally had appeared for me, even if there was only one,", " and I felt my awareness return very slightly."], "ja": "……それを見て、私はたった１人とはいえ、味方が現れてくれたことを知り、 少しだけ意識が戻るのを感じる。"}
+{"id": 225127, "en": ["........."], "ja": "………………。"}
+{"id": 225130, "en": ["...The only ones who can save me in the world of reality...are real Humans."], "ja": "……現実の世界で私を助けてくれるのは、…現実のニンゲンだけなんだ。"}
+{"id": 225133, "en": ["Never again.", "  ...Never again will I seek rescue from daydreams."], "ja": "もう二度と。 ……白昼夢などに救いを、求めるものか。"}
+{"id": 225136, "en": ["......This is the world of Humans."], "ja": "………ここはニンゲンの世界。"}
+{"id": 225139, "en": ["Nothing can save a Human...except other Humans..."], "ja": "ニンゲンを助けてくれるのは、ニンゲンだけなんだ……。"}
+{"id": 225153, "en": ["\"........."], "voix": "mar", "ja": "「………………………。"}
+{"id": 225159, "en": ["...I see.", "  If that's what you think, then that's your world, Ange.\""], "voix": "mar", "ja": "……そうだね。 縁寿がそう思ったなら、それが縁寿の世界。」"}
+{"id": 225168, "en": ["『...Can Ange..."], "voix": "sak", "ja": "『……縁寿は、"}
+{"id": 225170, "en": ["find happiness this way......?』"], "voix": "sak", "ja": ":voicedelay 1420^^……これで幸せになれる………？』"}
+{"id": 225178, "en": ["\"......If Ange believes that's the only way to find happiness, then it is the only way.", "  ...If she can't accept the blue bird in the cage for what it is, "], "voix": "mar", "ja": "「………縁寿が、それでしか幸せになれないと信じたなら、もうそれしかない。 …籠の中にいる青い鳥を、そうだと認められないなら、"}
+{"id": 225180, "en": ["...then she must go and search forever.\""], "voix": "mar", "ja": ":voicedelay 4240^^…どこまでも探しに行かざるを得ない。」"}
+{"id": 225187, "en": ["『Uryu...", "  ...Maria, are you...breaking off relations with Ange......?』"], "voix": "sak", "ja": "『うりゅ……。 …真里亞と縁寿はもう、……絶交なの………？』"}
+{"id": 225193, "en": ["\"........."], "voix": "mar", "ja": "「…………………………。"}
+{"id": 225198, "en": ["...No, nothing like that.", "  I only did that because that's what Ange wanted.", "  ...We witches are sometimes persecuted.", "  However, we always remain by everyone's sides.", "  ...And our aid can always be asked for.\""], "voix": "mar", "ja": "……絶交なんかじゃないよ。 縁寿がそれを求めたから、そうしただけ。 ……私たち魔女は、時に迫害を受けるけれども。 でも、常にみんなの身近にある。 ……そしてきっとその助けを求められる。」"}
+{"id": 225204, "en": ["『...Will the day come......when Ange will play with us once again...?』"], "voix": "sak", "ja": "『……縁寿も、………またボクたちと遊んでくれる日が来る……？』"}
+{"id": 225210, "en": ["\"Maybe.  Or, she might forget, and it'll never come."], "voix": "mar", "ja": "「来ないで、そのまま忘れてしまうこともあるかもしれない。"}
+{"id": 225215, "en": ["  ...In the human world, we call that growing up and saying goodbye to your childhood self.", "  ......Still.\""], "voix": "mar", "ja": "…人の世ではそれを、成長や決別と呼ぶから。 …………でも。」"}
+{"id": 225223, "en": ["If Ange just remembers, we'll always be by her side."], "ja": "縁寿さえ思い出してくれれば、私たちはいつでも、側にいられるよ。"}
+{"id": 225226, "en": ["...And until then, ...we'll be waiting."], "ja": "……それまで私たちは、……待ってるから。"}
+{"id": 225260, "en": ["..............."], "ja": "……………………………………。"}
+{"id": 225267, "en": ["『.........Uryu...", "  ......Maria, ...answer me...』"], "voix": "sak", "ja": "『……………………うりゅ…。 ………真里亞、…返事して……？』"}
+{"id": 225273, "en": ["\"............\""], "voix": "mar", "ja": "「………………………。」"}
+{"id": 225291, "en": ["『......Uryu..."], "voix": "sak", "ja": "『………うりゅ…。"}
+{"id": 225292, "en": ["  ...So I really am..."], "voix": "sak", "ja": "^^!s1……やっぱりボクは、"}
+{"id": 225294, "en": ["a stuffed animal...?", "  ...I'm made of cloth and cotton, "], "voix": "sak", "ja": ":voicedelay 2220^^……ぬいぐるみなの…？ 　……布と綿で出来てるから、"}
+{"id": 225296, "en": ["...so there's no way I can..."], "voix": "sak", "ja": ":voicedelay 2520^^……しゃべれるわけ…"}
+{"id": 225298, "en": ["talk...?", "  ...So, "], "voix": "sak", "ja": ":voicedelay 1280^^ないの……？ 　……だから、"}
+{"id": 225300, "en": ["...I can't talk to Maria......?』"], "voix": "sak", "ja": ":voicedelay 1260^^……真里亞とはおしゃべりできないの………？』"}
+{"id": 225310, "en": ["Sakutaro looked up at Maria sadly."], "ja": "さくたろが悲しそうに真里亞を見上げる。"}
+{"id": 225313, "en": ["Maria's face was covered with tears, and it looked as though it had even lost all traces of sadness..."], "ja": "真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。"}
+{"id": 225320, "en": ["\"......Uu-.", "  ...I hear you, Sakutaro."], "voix": "mar", "ja": "「…………うー。 ……聞こえてるよ、さくたろ。"}
+{"id": 225325, "en": ["  ...You aren't a stuffed animal made of cloth and cotton.", "  ......You are...my friend."], "voix": "mar", "ja": "……さくたろは、布と綿で出来たぬいぐるみなんかじゃないよ。 ………真里亞の、お友達だよ。"}
+{"id": 225330, "en": ["  ......I hate Ange.", "  ...Uuuuuuuuuuuu...\""], "voix": "mar", "ja": "………………縁寿なんか嫌い。 ……うううぅううぅぅぅ……。」"}
+{"id": 225336, "en": ["『Uryu...  Sorry, Maria.  Sorry, Maria...!", "  Uryu...!』"], "voix": "sak", "ja": "『うりゅ…、真里亞ごめんね、真里亞ごめんね……！ 　うりゅ……！』"}
+{"id": 225341, "en": ["Sakutaro regretted doing that."], "ja": "さくたろは後悔する。"}
+{"id": 225342, "en": ["By freezing her heart, Maria had finally been able to escape from her sadness."], "ja": "真里亞は心を凍らせることで、ようやく悲しみから逃れられていたのだ。"}
+{"id": 225345, "en": ["...By speaking up and calling her back, he'd caused her to be overwhelmed with sadness again..."], "ja": "…それを、声を掛けて呼び戻してしまったから、また悲しみに囚われてしまった…。"}
+{"id": 225361, "en": ["Sakutaro tried hugging Maria, letting go of her,", " and gazing at her uneasily, lost as to how he could bring Maria's spirits up."], "ja": "さくたろは、よちよちとした仕草で、真里亞にしがみついては離れてみたり、 様子を見てはうろうろしてみたりと、どうすれば真里亞を元気付けられるか戸惑っている。"}
+{"id": 225365, "en": ["...He might've looked a little humorous doing that."], "ja": "……その様子がどこかちょっぴりユーモラスだったのかもしれない。"}
+{"id": 225366, "en": ["In the end, that was enough to distract Maria from her sadness..."], "ja": "結果的にそれは、真里亞の気持ちを悲しみから逸らすことが出来た……。"}
+{"id": 225372, "en": ["\"Sorry.", "  ......Crying won't help anything anymore.\""], "voix": "mar", "ja": "「ごめんね。 ………もう泣いても仕方ないもんね。」"}
+{"id": 225378, "en": ["『You got in a fight with Ange, but you still have lots of friends, Maria...", "  I'm not the only one.", "  ......Everyone's here.", "  Sakusuke and Sakukichi, the animal band, and many, many more...』"], "voix": "sak", "ja": "『縁寿とは喧嘩しちゃったけど、真里亞にはまだたくさん友達がいるよ…。 ボクだけじゃない。 ………みんなもいるよ。 さくすけもさくきちも、動物の音楽隊も、他にも他にも……。』"}
+{"id": 225382, "en": ["Maria looked at the many stuffed animals around her pillow, which were gathered together as though they were having an idle chat."], "ja": "真里亞は枕の周りで井戸端会議でもしているかのように集まっている、たくさんのぬいぐるみたちを見る。"}
+{"id": 225388, "en": ["『...Everyone...is worried about you, Maria.", "  They're all talking over and over about how to cheer you up, okay...?』"], "voix": "sak", "ja": "『……みんな、真里亞のこと、心配してるよ？ 　どうしたら真里亞が元気になってくれるかなって、ずっとずっと相談しているよ……？』"}
+{"id": 225395, "en": ["\"............", "...Everyone won't...go away...like Ange...?\""], "voix": "mar", "ja": "「………………………………。 ……みんなは、……縁寿みたいに、いなくならない…？」"}
+{"id": 225401, "en": ["『They won't.", "  We'll always be together.』"], "voix": "sak", "ja": "『ならないよ。 ボクたちはいつだって一緒だよ。』"}
+{"id": 225408, "en": ["\"......Really?", "  All of you are only with me at home.", "  We can't go out together when Mama's around, and we can't go to school.\""], "voix": "mar", "ja": "「………本当に？ 　さくたろたちは、家でしか一緒じゃないよ。 ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ。」"}
+{"id": 225415, "en": ["『You aren't supposed to take us to school, so you'll get in trouble if the teacher finds out."], "voix": "sak", "ja": "『ボクたちは学校に行っちゃいけないから、先生に見つかったら怒られちゃうもん。"}
+{"id": 225420, "en": ["  But if no one finds out, we can be together at any time.』"], "voix": "sak", "ja": "でも、見つからないなら、いつだって一緒にいていいんだよ。』"}
+{"id": 225426, "en": ["\"...Sakutaro, you're big, so you'd be found.\""], "voix": "mar", "ja": "「……さくたろ、大きいから見つかっちゃうね。」"}
+{"id": 225434, "en": ["『Then you can take one of the kids that are small enough to walk around with."], "voix": "sak", "ja": "『だったら、小さくて持ち歩ける子と一緒に行けばいいよ。"}
+{"id": 225441, "en": ["  ...For example, ...what about them?", "  If you take the friends in the forest band, "], "voix": "sak", "ja": "……例えば、ほら。 森の音楽隊の仲間たちなら、"}
+{"id": 225443, "en": ["...look, they're small, so you can hide them in your pocket and go to school together.』"], "voix": "sak", "ja": ":voicedelay 2410^^……ほら、小さいから真里亞のポケットに隠れて一緒に学校に行けるよ。』"}
+{"id": 225450, "en": ["\"......There's a lot of them in the band.", "  I can't fit them all in my pocket.\""], "voix": "mar", "ja": "「………音楽隊いっぱいいるよ。 ポケットに入りきらないよ。」"}
+{"id": 225455, "en": ["She collected all of the forest band pieces that were scattered across her bed."], "ja": "ベッドの上に、ごちゃっと散らばる森の音楽隊の駒たちをかき集める。"}
+{"id": 225456, "en": ["There were about as many of them as pieces in a chess set, so it'd probably be impossible to fit them all in her pocket..."], "ja": "チェスの駒くらいの数があるそれを全てポケットに入れていくのは無理だろう…。"}
+{"id": 225464, "en": ["『In that case, you can just take friends that you're especially close with.", "  ...You can take the four rabbits, your best friends in the forest band.』"], "voix": "sak", "ja": "『なら、特に仲良しのお友達だけを連れて行くといいよ。 ……森の音楽隊の中で、一番、真里亞と仲良しの、うさぎの四人組を連れてくといいよ。』"}
+{"id": 225470, "en": ["\"...I could fit four in my pockets."], "voix": "mar", "ja": "「……４つならポケットに入る。"}
+{"id": 225475, "en": ["  ...Yeah.", "  This way, they won't be found.\""], "voix": "mar", "ja": "……うん。 これなら見つからないね。」"}
+{"id": 225482, "en": ["『Now, you won't be alone even at school, Maria.", "  Those kids will be with you even where I can't go.』"], "voix": "sak", "ja": "『だから真里亞はこれで、学校でもひとりぼっちじゃないよ。 ボクが一緒に行けないところでも、この子たちなら一緒にいてくれるよ。』"}
+{"id": 225488, "en": ["\"......Yeah.", "  ...Maybe...I won't be lonely that way.", "  ...Maybe I can hold out...until coming home from school...\""], "voix": "mar", "ja": "「……………うん。 ……なら、…寂しくないかも。 ……お家に帰ってくるまで、……我慢できるかも…。」"}
+{"id": 225494, "en": ["『As long as we aren't found by the teacher and Mama, we can be with you at any time.", "  So let's be together, play together forever."], "voix": "sak", "ja": "『ママと先生にさえ見つからなければ、ボクたちはいつだって一緒にいられるんだよ。 そしていつまでも一緒にいよう、遊んでいよう。"}
+{"id": 225499, "en": ["  We definitely won't leave you all alone, Maria.", "  Uryu!』"], "voix": "sak", "ja": "ボクたちは真里亞を、絶対にひとりぼっちになんか、させないから。 うりゅ！』"}
+{"id": 225504, "en": ["Maria's expression finally regained a little of its brightness."], "ja": "真里亞の表情がようやく、わずかに明るさを取り戻す。"}
+{"id": 225510, "en": ["...That's right."], "ja": "……そう。"}
+{"id": 225511, "en": ["In the beginning, Maria's world didn't have Ange in it."], "ja": "元々考えてみれば、真里亞の世界に縁寿はいなかったのだ。"}
+{"id": 225514, "en": ["Even without Ange, it was fun with everyone."], "ja": "縁寿がいなくても、みんなが一緒で楽しかった。"}
+{"id": 225517, "en": ["And yet, strangely enough, it suddenly became sad without Ange, who had come in at the end."], "ja": "なのに、最後に入ってきた縁寿が抜けただけで、急に悲しくなるのはおかしい。"}
+{"id": 225521, "en": ["...All that's happened is that I've returned to the world right before Ange entered it."], "ja": "…縁寿が入る直前の世界に戻っただけじゃないか。"}
+{"id": 225522, "en": ["...So there's nothing to be sad about."], "ja": "……なら、悲しいわけなんかないんだ。"}
+{"id": 225530, "en": ["\"...Yeah.", "  I'm not lonely.", "  Sakutaro and the others are with me.\""], "voix": "mar", "ja": "「……うん。 寂しくないよ。 さくたろも、みんなも一緒だもん。」"}
+{"id": 225537, "en": ["『Uryu-!"], "voix": "sak", "ja": "^^!s0『うりゅー！"}
+{"id": 225544, "en": ["  I looove you, Maria...!』"], "voix": "sak", "ja": "^^!sd 　真里亞、だーい好き…！』"}
+{"id": 225551, "en": ["\"I won't let any more Humans come into my world.", "  ...Mariage Sorcière is an alliance between me and Beatrice only."], "voix": "mar", "ja": "「もうニンゲンなんかに、真里亞の世界には、誰も立ち入らせないよ。 ……マリアージュ・ソルシエールは、真里亞とベアトリーチェだけの二人きりの同盟。"}
+{"id": 225556, "en": ["  ...From the start, even Beatrice didn't want to let Ange join.", "  ......It's all right this way.", "  Ange was still too young.\""], "voix": "mar", "ja": "……元々、ベアトも、縁寿を加えるのには反対してたし。 ………これでいいんだもんね。 縁寿はまだ幼過ぎたんだよ。」"}
+{"id": 225563, "en": ["『...For now, until you can be friends with Ange again, I think it's okay to forget about it.", "  You can play together once you've regained your high spirits, Maria.", "  Until then, all of us will be by your side.』"], "voix": "sak", "ja": "『……縁寿のことは、また仲良しになれるまで、当分は忘れていていいと思うよ。 真里亞がまた元気を取り戻せたら、一緒に遊べばいいよ。 それまで、ボクたちみんなが、ずっと側にいるからね。』"}
+{"id": 225570, "en": ["\"......Thank you.", "  ...Sakutaro, ...everyone.\""], "voix": "mar", "ja": "「………ありがと。 ……さくたろ、……みんな。」"}
+{"id": 225581, "en": ["Then, Maria once again regained her former world."], "ja": "そして、真里亞は再び元の世界を取り戻す。"}
+{"id": 225582, "en": ["She regained the world that wasn't lonely, where she was surrounded by many friends."], "ja": "大勢の友達に囲まれた、寂しくない世界を取り戻す。"}
+{"id": 225585, "en": ["Just like usual, she didn't have any Human friends at school, but her magic friends were always with her."], "ja": "学校では相変わらず、ニンゲンの友達はいないけれど、魔法の友達はいつも一緒にいる。"}
+{"id": 225588, "en": ["The rabbit band she hid in her pockets talked with her during class, sounding like they were having fun."], "ja": "ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。"}
+{"id": 225591, "en": ["Just listening to that greatly embellished the time she spent in class."], "ja": "それに耳を傾けるだけで、寂しい授業時間がとても彩られた。"}
+{"id": 225596, "en": ["Maria made it so that, as long as Mama and the teacher didn't find out, her other friends could always be with her."], "ja": "ママと先生にさえ見つからないなら、他の友達とも常に一緒にいるようにした。"}
+{"id": 225599, "en": ["When Mama told Maria to go play outside, Maria would secretly pack Sakutaro and Sakusuke and the rest into her bag and play together at the library or somewhere."], "ja": "ママに、お外で遊んできなさいと言われた時は、こっそりカバンにさくたろやさくすけたちを詰めて行って、図書館とかで一緒に遊んだ。"}
+{"id": 225605, "en": ["Even when Mama was late coming home and Maria went shopping for dinner, she always went with Sakutaro."], "ja": "ママの帰りが遅くて、お夕飯のお買い物なんかに行く時も、常にさくたろたちと一緒に行った。"}
+{"id": 225609, "en": ["The man at the convenience store and the other people were nice to Sakutaro."], "ja": "コンビニのおじさんたちも、さくたろに優しくしてくれた。"}
+{"id": 225610, "en": ["He sometimes gave a second portion free for Maria and Sakutaro."], "ja": "真里亞とさくたろにって、２つ分のオマケをくれたこともあった。"}
+{"id": 225614, "en": ["When Mama found out, Maria would get in trouble for bringing Sakutaro and the rest outside."], "ja": "ママにそれを見つかると、さくたろたちを連れてきちゃ駄目と怒られる。"}
+{"id": 225615, "en": ["When the teacher found out, Maria would get in trouble for bringing toys to school."], "ja": "先生にそれを見つかると、おもちゃを学校に持ってきちゃ駄目と怒られる。"}
+{"id": 225619, "en": ["The toxin must be strong in Mama and the teacher."], "ja": "きっと、ママと先生は毒素が強いんだ。"}
+{"id": 225620, "en": ["That's why Sakutaro looks like a normal stuffed animal to them."], "ja": "だからさくたろたちが、ただのぬいぐるみに見えちゃうんだ。"}
+{"id": 225625, "en": ["After all, the convenience store man and the others say hello to Sakutaro."], "ja": "だって、コンビニのおじさんたちは、さくたろにも挨拶してくれるよ。"}
+{"id": 225629, "en": ["......Not all Humans are hopeless."], "ja": "………ニンゲンみんなが駄目なんじゃない。"}
+{"id": 225630, "en": ["There are tons of people who, unlike Ange and Mama and teacher, can say hello to magic friends like I can..."], "ja": "縁寿やママや先生と違って、私みたいに魔法の友達と挨拶が出来る人だって大勢いるんだ……。"}
+{"id": 225637, "en": ["\"Oh, Maria-chan.", "  Welcome.", "  Was your Mama late coming home tonight too...?\""], "ja": "「真里亞ちゃんかい。 いらっしゃい。 今夜もママは帰りが遅いのかい…？」"}
+{"id": 225643, "en": ["\"Yeah.", "  ...But I've got Sakutaro, so I'm not lonely."], "voix": "mar", "ja": "「うん。 ……でも、さくたろたちも一緒だから、寂しくないの。"}
+{"id": 225648, "en": ["  Right, Sakutaro?\""], "voix": "mar", "ja": "ね、さくたろ？」"}
+{"id": 225658, "en": ["『Uryu.", "  It's not just Sakutaro today.", "  Some other friends came too.』"], "voix": "sak", "ja": "『うりゅー。 今日はね、さくたろだけじゃないんだよ。 他のお友達も一緒なんだよ。』"}
+{"id": 225660, "en": ["\"Oh, other friends, is it?", "  What kind of friends did you bring today?\""], "ja": "「おや、他のお友達かい。 今日はどんなお友達が一緒なんだい？」"}
+{"id": 225667, "en": ["\"Today, the rabbits from the forest band are also with me.", "  ...Look, in my pocket.\""], "voix": "mar", "ja": "「今日はね、森の音楽隊のうさぎさんたちも一緒。 ……ほら、ポケットに入ってるの。」"}
+{"id": 225671, "en": ["Maria began to line up four ceramic rabbit dolls on the register."], "ja": "真里亞は、陶製のうさぎの人形を４つ、レジの上に並べ始める。"}
+{"id": 225676, "en": ["As the owner of the shop looked at it, smiling, he sent a signal to a part-timer with his chin."], "ja": "店長のおじさんはそれを微笑ましそうに見ると、アルバイトに顎で合図を送る。"}
+{"id": 225679, "en": ["Then, the sign on the other register that said `closed' was taken down, and a voice called out for everyone to move over there."], "ja": "すると、もうひとつのレジの、準備中という札が下げられ、お待ちの方こちらにどうぞーと声が掛けられた。"}
+{"id": 225682, "en": ["All of the people in line behind Maria lined up behind that one..."], "ja": "真里亞の後に並んでいた人たちは全員、そちらに並び直す…。"}
+{"id": 225687, "en": ["\"I see, I see.", "  You do have a lot of friends, Maria-chan.", "  But I hope your Mama comes home soon.\""], "ja": "「そうかそうか。 真里亞ちゃんにはお友達がいっぱいだねぇ。 ママも早く帰ってきてくれればいいのに。」"}
+{"id": 225693, "en": ["\"Uu-.", "  Mama's busy with work again, so she's spending the night at the company.", "  It's been very busy lately.", "  ...She hasn't even been able to get much time to talk to me on the telephone."], "voix": "mar", "ja": "「うー。 ママはまたお仕事が忙しくて、会社にお泊りなの。 最近はよく忙しくなるの。 ……真里亞と電話でお話しする時間も全然取れない。"}
+{"id": 225698, "en": ["  But I'm not lonely!", "  I've got Sakutaro and the rest!", "  Right?\""], "voix": "mar", "ja": "でも寂しくないよ！ 　真里亞にはさくたろたちがいるもん！ 　ねー！」"}
+{"id": 225704, "en": ["『Uryu-!!』"], "voix": "sak", "ja": "『うりゅー！！』"}
+{"id": 225714, "en": ["\"I've even got all the rabbits from the band.", "  Look.", "  Kyu-kyu-♪\""], "voix": "mar", "ja": "「うさぎの音楽隊のみんなも一緒だもん。 ほら。 きゅーきゅー♪」"}
+{"id": 225716, "en": ["\"Is kyu-kyu- the sound a rabbit makes?", "  My, I've never heard that.\""], "ja": "「うさぎの鳴き声って、きゅーきゅーだったっけ？ 　はて、そういや聞いたことないなあ。」"}
+{"id": 225719, "en": ["After smiling at Sakutaro, who was poking his head out of her knapsack,", " she played around with the rabbit band on the register, making them frolic around."], "ja": "真里亞は、ナップザックから顔をのぞかせるさくたろに微笑みかけながら、 レジの上のうさぎの音楽隊を、戯れあうようにいじって遊ぶのだった。"}
+{"id": 225722, "en": ["Although the shop manager gazed at this pleasantly, he had slightly pitying look on his face."], "ja": "店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。"}
+{"id": 225728, "en": ["...This was apparently a single mother household, where the mother had to work hard and couldn't come home very often."], "ja": "……どうも母子家庭らしく、母親が激務でなかなか家に帰れないらしい。"}
+{"id": 225729, "en": ["On top of that, it looked like this girl didn't even have any friends."], "ja": "その上、友達もいる様子がない。"}
+{"id": 225732, "en": ["As he watched her play around happily with her dolls and claim that she wasn't lonely despite everything,", " he couldn't help but feel a kind of compassion."], "ja": "なのに、こうしてぬいぐるみたちと楽しく遊んで、寂しくないと言い張る少女に、 ささやかな同情を感じずにはいられなかった。"}
+{"id": 225736, "en": ["And actually, this wasn't limited to him alone."], "ja": "実はこれは、彼に限ったことではない。"}
+{"id": 225737, "en": ["Maria had become quite famous in this shopping district..."], "ja": "この商店街では、真里亞のことはとても有名になっていたのだ…。"}
+{"id": 225742, "en": ["\"Maria-chan, you should eat some oden every once in a while.", "  If you don't eat your eggs and fish paste, you won't get big.\""], "ja": "「真里亞ちゃん、たまにはおでんも食べなさい。 卵とか練り物とか食べないと、大きくなれないよ。」"}
+{"id": 225748, "en": ["\"Uu-?", "  Can't get a cream roll...?\""], "voix": "mar", "ja": "「うー？ 　クリームパンじゃ駄目…？」"}
+{"id": 225754, "en": ["『Uryu.", "  If you don't eat certain things, you won't get big.", "  How about oden for today?』"], "voix": "sak", "ja": "『うりゅ。 いろいろ食べないと大きくなれないよ。 今日はおでんにしよ？』"}
+{"id": 225760, "en": ["\"Uu-.", "  ...Then I'll have some oden.\""], "voix": "mar", "ja": "「うー。 ……じゃあおでんにする。」"}
+{"id": 225764, "en": ["\"Yep, yep, that's the ticket.", "  Why don't I stick a whole bunch in there?", "  Want mustard?\""], "ja": "「うんうん、そうしなさい。 おじさんが多めに入れておくよ。 カラシいる？」"}
+{"id": 225770, "en": ["『Uryu.", "  I can't handle spicy things...』"], "voix": "sak", "ja": "『うりゅー。 辛いのは苦手……。』"}
+{"id": 225774, "en": ["\"I see, I see.", "  Then, you make sure you don't let it spill on the way home.", "  It'll sure be delicious while it's hot.\""], "ja": "「そうかそうか。 じゃ、零さないように持って帰りな。 温かい内がおいしいよ。」"}
+{"id": 225780, "en": ["\"Uu-.", "  Thank you.\""], "voix": "mar", "ja": "「うー。 ありがとう。」"}
+{"id": 225784, "en": ["She had planned on getting some sweet pastries for dinner, but since oden had been recommended to her, she would be having that tonight instead."], "ja": "いつものように菓子パンの夕食にするつもりだったが、おでんを勧められたため、今夜はおでんになった。"}
+{"id": 225787, "en": ["Letting someone else determine the menu makes for an unexpected and interesting meal."], "ja": "メニューを人に決めてもらうと、意外な食事になって、面白い。"}
+{"id": 225790, "en": ["...Very often, Maria had to decide what her dinner would be on her own, so it was easy for the menus to get a little one-sided.", "  So, it felt fun to have a meal she hadn't anticipated..."], "ja": "……真里亞は自分ひとりで夕食を決めなければならないことが多かったので、メニューも偏りやすい。 だから、そういう予期せぬ食事に楽しさを感じるのだった…。"}
+{"id": 225804, "en": ["『Uryu-!", "  Thanks for giving us extra, Mister!』"], "voix": "sak", "ja": "『うりゅー！ 　おじさん、オマケしてくれてありがとう！』"}
+{"id": 225806, "en": ["\"Send my regards to your other friends at home.", "  No stuffing yourself on your way back.", "  Go straight home and eat it there.\""], "ja": "「お家にいる他のお友達たちにもよろしくねー。 途中で摘み食いしちゃ駄目だよ。 まっすぐお家へ帰ってから食べるんだよ。」"}
+{"id": 225812, "en": ["\"Uu-!", "  Thanks Mister!!\""], "voix": "mar", "ja": "「うー！ 　おじさん、ありがとー！！」"}
+{"id": 225816, "en": ["Maria raised the bag with the oden container high..."], "ja": "真里亞は、おでんの容器の入ったレジ袋を高々と上げるのだった……。"}
+{"id": 225833, "en": ["\"............"], "voix": "mar", "ja": "「……………………………。"}
+{"id": 225838, "en": ["......Huh...?\""], "voix": "mar", "ja": "………あれ……？」"}
+{"id": 225846, "en": ["『...Uryu?", "  What is it, Maria?』"], "voix": "sak", "ja": "『……うりゅ？ 　どうしたの、真里亞？』"}
+{"id": 225852, "en": ["\"......The key isn't in my pocket.\""], "voix": "mar", "ja": "「………ポケットに鍵がない。」"}
+{"id": 225859, "en": ["Standing in front of the door to her house, Maria searched all over her body."], "ja": "自宅の扉の前で、真里亞はぱたぱたと全身を探る。"}
+{"id": 225860, "en": ["...The key to the house wasn't there."], "ja": "……家の鍵がないのだ。"}
+{"id": 225864, "en": ["She always methodically put it in the same pocket."], "ja": "いつも几帳面に同じポケットに入れる。"}
+{"id": 225865, "en": ["So there was no way she had put it in another pocket, but she searched her whole body just in case."], "ja": "だから他のポケットに入れてしまったわけはないのだが、念のため全身を探る。"}
+{"id": 225868, "en": ["...Unsurprisingly, it wasn't there."], "ja": "……やっぱりなかった。"}
+{"id": 225876, "en": ["『Did you drop it when you took your wallet out...?』"], "voix": "sak", "ja": "『お財布を出した時に落とした……？』"}
+{"id": 225882, "en": ["\"No.", "  When I took my wallet out, I definitely felt it.", "  I also felt it when I searched my pocket partway here."], "voix": "mar", "ja": "「うぅん。 お財布を出してしまう時には、ちゃんと手応えがあったもん。 途中でポケットを探った時にもちゃんと手応えがあった。"}
+{"id": 225888, "en": ["  ...It was there until partway.", "  I didn't drop it!", "  Uu-uu-uu-...!\""], "voix": "mar", "ja": "……途中まではあったの。 落としてなんかいない！ 　うーうーうー…！」"}
+{"id": 225900, "en": ["Even though the late autumn wind had been bearable when Maria had been thinking of returning home, where the heater was,", " now that she was confused and had lost her key, that wind tormented her."], "ja": "家に帰れば暖房があると思えばこそ耐えられる晩秋の外気も、 鍵をなくし、途方に暮れる真里亞には堪えるものだった。"}
+{"id": 225905, "en": ["But no matter how hard she searched, she couldn't find her key."], "ja": "しかし、いくら探しても鍵は見つからない。"}
+{"id": 225906, "en": ["She turned out all her pockets and even tried taking off her jacket and hitting it, but to no avail."], "ja": "全てのポケットを引っ繰り返し、着ていた上着を脱いで叩いてもみたが駄目だった。"}
+{"id": 225909, "en": ["...Of course, she also turned the knapsack Sakutaro was in upside down, but the key didn't come out."], "ja": "……もちろん、さくたろの入っているナップザックだって引っ繰り返してみたが、鍵が出てくることはなかった。"}
+{"id": 225916, "en": ["\"......Uu-.", "  ......Uu-uu-uu-!!!\""], "voix": "mar", "ja": "「………うー。 ………うーうーうー！！！」"}
+{"id": 225921, "en": ["Something that should have been there...wasn't where it was supposed to be."], "ja": "あるはずのものが、あるべきところにない。"}
+{"id": 225922, "en": ["Why isn't the key there, when I didn't do anything wrong?"], "ja": "自分は悪くないのに、なぜか鍵がない。"}
+{"id": 225926, "en": ["...Why isn't it?!"], "ja": "……何でないの？！"}
+{"id": 225927, "en": ["Why?!", "  Why...?!!!"], "ja": "どうしてッ！ 　どうして…ッ！！！"}
+{"id": 225936, "en": ["Maria was cold and frustrated and angry, and she stamped on the ground..."], "ja": "真里亞は寒くて悔しくて腹立たしくて、地団太を踏む…。"}
+{"id": 225937, "en": ["The bottom of her foot throbbed, but that didn't lessen her frustration."], "ja": "足の裏がジンジンするが、それでも悔しいのが収まることはない。"}
+{"id": 225940, "en": ["...At the same time, her tears poured out."], "ja": "……その内、ぽろぽろと悔し涙まで零れ出す。"}
+{"id": 225950, "en": ["\"...Uu-.", "  ...Uu-!!"], "voix": "mar", "ja": "「……うー。 ……うー！！"}
+{"id": 225958, "en": ["  Uuuu---!!\""], "voix": "mar", "ja": ":noclear_cw　うーーー！！」"}
+{"id": 225976, "en": ["It wasn't her fault."], "ja": "自分は悪くない。"}
+{"id": 225977, "en": ["So, it was someone else's fault."], "ja": "だから誰かが悪い。"}
+{"id": 225980, "en": ["But Maria didn't know who that someone was...and could do nothing but continue to let out a moan of anger."], "ja": "でも、その誰かが誰かわからなくて、真里亞は怒りの唸り声を上げ続ける他なかった。"}
+{"id": 225988, "en": ["『...Uryu...", "  I'm sure you dropped it partway...", "  Let's look for it, okay?", "  Let's return on the road we came by and search, okay...?』"], "voix": "sak", "ja": "『……うりゅ……。 きっと途中で落としたんだよ…。 探そう？ 　来た道を戻って探そ…？』"}
+{"id": 225994, "en": ["\"...Uu-...", "  Even though I went to all the trouble of buying oden...and got eggs and stuff for free...", "  I won't be able to eat it while it's hot..."], "voix": "mar", "ja": "「……うー…。 せっかくおでん買ったのに、……卵とかオマケしてもらったのに……。 温かいうちに食べられない……。"}
+{"id": 225999, "en": ["  ......Uuuu----!!!\""], "voix": "mar", "ja": "………うーーーー！！！」"}
+{"id": 226005, "en": ["『...Maria, ...I know it's frustrating, but let's search, okay...?", "  It's no one's fault, so let's search...』"], "voix": "sak", "ja": "『…真里亞……、悔しいけど探そ…？ 　誰も悪くないよ…、探そ…。』"}
+{"id": 226015, "en": ["Maria finally lent an ear to Sakutaro's words and began to trod back down the road she had come on."], "ja": "真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。"}
+{"id": 226018, "en": ["...The wind was colder than before, and it felt like it was blowing in through the corners of her jacket in a mean way..."], "ja": "……さっきまでより、風が冷たく、意地悪に上着の隙間から入り込んでくるように感じた…。"}
+{"id": 226022, "en": ["『Uryu...", "  Let's watch our feet closely and search, okay...?", "  Then let's get home quickly, let the heater warm us up, and eat oden, all right?", "  I'm sure it'll be delicious.』"], "voix": "sak", "ja": "『うりゅ…。 しっかり足元を見て探そ…？ 　そして早くお家に帰って、暖房で温まりながら、おでんを食べよ？ 　きっとおいしいよ。』"}
+{"id": 226026, "en": ["\"......Uu-.", "  ...Gone.", "  ...Uu-.", "  ...It's gone...\""], "voix": "mar", "ja": "「………うー。 ……ない。 ……うー。 ……ない…。」"}
+{"id": 226030, "en": ["As Sakutaro encouraged her, Maria searched for the key..."], "ja": "さくたろに励まされながら、鍵を探す真里亞…。"}
+{"id": 226037, "en": ["But she made it all the way back to the convenience store where she'd bought the oden."], "ja": "しかし、おでんを買ったコンビニまで戻ってきてしまう。"}
+{"id": 226038, "en": ["...She hadn't found it."], "ja": "……見つからなかったのだ。"}
+{"id": 226045, "en": ["Just in case, she asked the man at the convenience store whether they had found a dropped key,", " but they hadn't found anything."], "ja": "念のため、コンビニのおじさんに、鍵の落し物がなかったか聞くが、 見つかっていないとのことだった。"}
+{"id": 226052, "en": ["...One more time, she returned home, paying close attention to the area around her feet."], "ja": "……もう一度、足元に注意しながら、家へ戻る。"}
+{"id": 226053, "en": ["But, unsurprisingly, she didn't find it."], "ja": "しかし、やはり見つからなかった。"}
+{"id": 226057, "en": ["She was no longer frustrated enough to stomp her feet."], "ja": "もう地団太を踏みたくなるような悔しさはない。"}
+{"id": 226058, "en": ["...But hot tears dripped down her face."], "ja": "……でも、熱い涙がぽろぽろ零れた。"}
+{"id": 226061, "en": ["The oden had cooled down completely."], "ja": "おでんはすっかり冷めてしまっている。"}
+{"id": 226065, "en": ["...Even though she had been told it would be delicious when warm, she hadn't been able to eat it."], "ja": "…温かいうちがおいしいよと言ってくれたのに、食べられなかった。"}
+{"id": 226066, "en": ["...Even though that man had given her so much free stuff..."], "ja": "……おじさんに色々オマケしてもらったのに……。"}
+{"id": 226071, "en": ["『...Uryu...", "  Don't cry...", "  ...Mama isn't coming back tonight.", "  ...Let's do our best and search...』"], "voix": "sak", "ja": "『……うりゅ……。 泣かないで……。 ……ママは今夜、帰ってこないんだよ。 ……頑張って探そ……。』"}
+{"id": 226075, "en": ["\"......Why can't I find it...?", "  ...Uuuu, ...uuuuuuuu!\""], "voix": "mar", "ja": "「………何で見つからないの…。 ……ううぅ……、……うううぅぅッ！」"}
+{"id": 226079, "en": ["『Maria, don't cry...!", "  Let's do our best and search...!", "  ......Maria...』"], "voix": "sak", "ja": "『真里亞、泣かないで…！ 　頑張って探そ…！ 　………真里亞……。』"}
+{"id": 226085, "en": ["Maria was no longer able to hold back her tears."], "ja": "真里亞はもう、涙を堪えることは出来なかった。"}
+{"id": 226088, "en": ["Sobbing, she clutched Sakutaro and held the bag of oden, returning once more down the road she had come by."], "ja": "しくしくと泣きながら、さくたろを抱いて、おでんの袋を持って、もう一度来た道を戻る。"}
+{"id": 226093, "en": ["Perhaps because more and more houses and stores had turned their lights off by now, it was even darker and harder to search than before."], "ja": "深夜になり、灯りを消した家や店が増えたせいか、より暗くなり、探しにくかった。"}
+{"id": 226094, "en": ["...And, once again without finding the key, she returned to the convenience store."], "ja": "……そして、また鍵を見つけられないまま、コンビニに戻ってきてしまう。"}

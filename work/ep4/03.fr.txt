@@ -1,0 +1,585 @@
+209608|"......Ça alors.‖  Autrement dit, Beatrice a satisfait la preuve du diable par une attaque de front.‖  Et ça faisait partie du plan de la sorcière depuis le début."
+209614|"La bouteille à la mer est une information observée dans le futur, après 1986.‖  ......Ni Beatrice ni Battler ne peuvent l'observer.‖  ...Seule ANGE Beatrice le peut."
+209620|"...À vrai dire, je n'avais aucune envie d'enquêter sur cette bouteille à la mer.‖  ...Après tout, le lire, ce serait comme écouter la version de la sorcière.‖  Pour moi, la théorie de la sorcière n'était qu'un délire, alors je n'y voyais qu'une perte de temps."
+209625|"...Mais Okonogi-san me l'a dit.‖  Avec un seul œil, on ne peut pas voir les choses en relief."
+209631|"Tu veux dire qu'en plus du point de vue qui nie les sorcières, il te faut aussi celui qui les accepte ?‖  ...C'est une façon de penser correcte.‖  Le nombre de points de vue est comme un dénominateur.‖  Avec un seul point de vue, le mystère, au numérateur, ne diminue pas d'un iota.‖  Mais plus le nombre de points de vue augmente, plus le mystère se divise."
+209637|"Je sais.‖  ...Il y a cette bouteille à la mer qui s'est échouée sur une île voisine quelques années après les faits.‖  Elle a atterri entre les mains d'un collectionneur.‖  J'ai pris rendez-vous avec lui, à tout hasard."
+209648|...J'ai pu entendre la version de Tante Eva grâce à Okonogi-san.
+209652|Maintenant, place à...la version de la sorcière.
+209653|Eh bien, écoutons-la.‖  La version de Beatrice...!
+209694|"Trois mois à vivre.‖  C'est l'an dernier que vous avez dit ça, n'est-ce pas, docteur Nanjo ?"
+209702|"...J-Je n'ai fait que vous donner un avis global fondé sur son état de santé à ce moment-là.‖  Et il se trouve que, cette année encore, par chance-"
+209709|"Alors comme ça, alors qu'on se demande s'il passera seulement la fin de l'année, le vieux est toujours plongé à fond dans ses recherches occultes.‖  Et vous dites qu'il ne lui reste que trois mois, docteur ?"
+209716|"C-Comme je vous l'ai dit, l'état de Kinzo-san-"
+209724|"Ne devriez-vous pas vous réjouir que notre vénéré père soit encore en si bonne forme ?‖  Par piété filiale, chacun de vous meurt d'envie d'aller saluer Père.‖  Je vois bien à quel point cela vous contrarie qu'il refuse de vous recevoir."
+209731|"...Quand on voit que vous vous mettez tous à calculer votre part d'héritage avant même que le soleil ne se couche,‖ je comprends que Père n'ait aucune envie de vous voir."
+209739|"V-Vous vous trompez, Natsuhi nee-san.‖  ...On voulait juste, euh-"
+209746|"Le vieux n'est pas immortel, il mourra un jour.‖  On ne lui dit pas de mourir.  On dit juste qu'il mourra tôt ou tard.‖  On discute simplement de la façon de s'y préparer, c'est tout."
+209754|"Et c'est justement cela qui est irrespectueux !!"
+209761|"Arrête.‖  Tu vas aggraver ta migraine."
+209765|Krauss fit signe de se rasseoir à Natsuhi, qui, dans son agitation, s'était levée de sa chaise.
+209775|Pour apaiser l'atmosphère, soudain devenue lourde de soupçons,‖ Hideyoshi afficha un sourire de façade et fit signe à tout le monde de se calmer.
+209781|"...Natsuhi-san, ne vous méprenez pas.‖  On dit bien qu'il faut toujours partir en laissant les lieux propres, pas vrai ?‖  Nous, on parle juste de ceux qui restent pour l'accompagner.‖  On en discute pour pouvoir accompagner Père comme il se doit quand il partira pour le voyage qu'il finira bien par faire."
+209788|"Ha ha ha...‖  C'est bien de vous, Hideyoshi-san.‖  Vous dites la même chose qu'eux, mais vous la rendez si intelligente."
+209795|"Oui, c'est vrai.‖  Pas comme toi, Nii-san."
+209802|"Arrêtez.‖  On n'avance pas.
+209807|  ......Bref, comme on te le disait, Aniki,‖ laisse tomber toute cette histoire d'héritage.‖  Je me fiche même que le vieux nous tape dessus."
+209813|"Pour faire court, on veut voir le vieux en personne et le saluer.‖  Même s'il ne veut pas.‖  S'il s'est enfermé dans son bureau, on est prêts à emprunter la clé à Genji-san s'il le faut.
+209819|  Pas vrai, Rosa ?"
+209825|"...Ah, ...eh bien, euh...ce n'est pas qu'on veuille te forcer la main...‖  ...C'est juste que...ça fait si longtemps qu'on n'a pas salué Père.
+209831|  S'il ne lui reste vraiment que peu de temps, on risque de ne plus jamais pouvoir le revoir...‖  ...Aujourd'hui sera peut-être notre dernière occasion d'échanger quelques mots avec Père..."
+209837|"C'est vrai, Rosa a raison.‖  S'il ne lui reste que trois mois, il pourrait s'éteindre d'un moment à l'autre, non ?
+209842|  Et malgré ça, tu veux dire qu'on n'aurait même pas le droit de lui parler une dernière fois ?‖  ...Quelles que soient les circonstances, tu ne trouves pas que c'est un peu fort... ?"
+209849|"...Si vous souhaitiez vraiment saluer Père, je suis certaine qu'il accepterait volontiers de vous recevoir."
+209855|"Mais Père a déjà entendu parler du sujet irrespectueux que vous comptez aborder !‖  Personne n'aurait envie de vous recevoir dans ces conditions.‖  Si vous ne pouvez pas voir Père, c'est de votre seule faute, n'est-ce pas ?"
+209862|"Hé hé.‖  Exactement.‖  Vous n'avez pas besoin de vous creuser la tête pour comprendre pourquoi Père ne veut pas voir vos visages, n'est-ce pas ?‖  Père sait parfaitement que vous êtes tous aux abois financièrement."
+209870|"......De quoi tu parles ?‖  ...Je ne vois absolument pas où tu veux en venir, Nii-san."
+209877|"Hé hé hé hé !‖  Tu croyais vraiment que j'ignorais dans quelle situation vous vous trouvez... ?"
+209889|Eva et les autres comprirent qu'il avait percé à jour leurs difficultés financières,‖ et, tantôt bluffant, tantôt revenant au cœur du sujet pour contre-attaquer, ‖ils pressèrent Krauss encore et encore de les laisser voir Kinzo.
+209892|...Le doux parfum du thé que Rosa avait pris la peine d'acheter était complètement gâché.
+209895|La seule chose qui la soulageait à présent, c'était que les enfants n'assistent pas à cela.
+209898|...Qu'ils soient partis jouer sur la plage aussitôt après le déjeuner était leur seul salut.
+209910|Eva faisait mine de se jeter sur Krauss, et Hideyoshi et Kyrie s'interposaient pour calmer les deux camps.
+209913|...C'est alors que Kyrie poussa un profond soupir et prit la parole.
+209924|"......Pardonnez-moi, Krauss nii-san.‖  Je sais que je suis une pièce rapportée, mais me permettez-vous de dire une chose ?‖  J'ai une proposition."
+209931|"De quoi s'agit-il, Kyrie-san ?"
+209937|"...Tout d'abord, et cela vaut aussi pour mon mari,‖ depuis des années, nous minimisons les efforts que vous faites en vivant avec Père et en prenant soin de lui.
+209943|  ...N'est-ce pas ?"
+209951|"......Ça...bon...‖  ...Nous, on a la belle vie puisqu'on est partis, mais Aniki joue les nounous pour le vieux depuis des dizaines d'années, ça a dû être un sacré boulot.
+209957|  ...Je veux bien l'admettre, mais où tu veux en venir, Kyrie ?"
+209963|"Nous devons reconnaître que Krauss nii-san est celui qui veille sur Père.‖  ...N'est-ce pas ?‖  Nous avons toujours eu peur de Père...et nous nous sommes déchargés de la tâche de prendre soin de lui sur Krauss nii-san.‖  Tout le monde devrait reconnaître ses efforts.
+209969|  N'est-ce pas,‖ Eva nee-san ?"
+209978|"......‖...Et alors ?‖  Nii-san s'occupe de Père ?‖  Ne décide pas des choses toute seule, alors que tu n'es pas de la famille !"
+209985|"H-Hé, allons, ...du calme.‖  ...Kyrie-san, de quoi parlez-vous ?"
+209992|"............‖...Kyrie, continue, je t'en prie."
+209999|"Nous devrions être plus reconnaissants envers Krauss nii-san et Natsuhi nee-san.‖  ...Nous devrions les remercier de toujours prendre soin de Père.
+210005|  C'est notre manque de gratitude qui est à l'origine de ces disputes stériles qui n'en finissent pas.‖  ...N'est-ce pas, Krauss nii-san ?"
+210013|"......Vous m'étonnez.‖  Je ne pensais pas que vous, Kyrie-san, seriez capable de comprendre nos efforts,‖ auxquels même mes propres frère et sœurs n'ont jamais pris la peine de songer."
+210020|"...C'est le devoir naturel du successeur au titre de chef de la famille Ushiromiya."
+210027|"C'est exact.‖  C'est votre responsabilité en tant que successeur, n'est-ce pas ?‖  ...C'est justement parce que vous prenez soin de Père que nous devons vous reconnaître comme successeur."
+210038|"Hé !!‖  Pourquoi tu lances ce sujet toute seule ?!!‖  Tu n'es qu'une pièce rapportée-"
+210044|"Attends, Aneki !!
+210050|  ......C'est vrai.‖  Kyrie a raison.‖  C'est parce que tu t'occupes du vieux que tu es le successeur, Aniki.‖  C'est exactement ce que tu as dit."
+210057|"......Ah-"
+210064|"......Hmm-"
+210068|Rosa comprit, puis ce fut au tour d'Eva.
+210073|L'agressivité avec laquelle Eva aboyait contre Kyrie, qui faisait avancer la discussion de son propre chef, disparut en un éclair,‖ et elle fixa à la place Krauss et Natsuhi.
+210076|...Natsuhi, qui ne comprenait pas ce brusque changement, se troubla légèrement.
+210083|"Krauss nii-san,‖ ...si vous acceptez seulement quelques conditions, ‖nous ne vous demanderons plus jamais de voir Père jusqu'à sa mort.
+210089|  Bien entendu, nous n'exigerons pas d'être à son chevet quand il s'éteindra.‖  ...Cela ne nous dérangerait même pas de manquer les funérailles."
+210096|"...Oh ?‖  ......Où voulez-vous en venir ?‖  Mais autant vous écouter, pour l'instant.‖  Énoncez donc vos conditions."
+210103|"Premièrement.‖  ...Le terme de successeur au titre de chef de famille désigne la personne qui prend soin du chef actuel, Ushiromiya Kinzo."
+210109|"......Hmm.‖  Et ensuite ?"
+210115|"Deuxièmement.‖  Le devoir de cette personne est de veiller sur Ushiromiya Kinzo jusqu'à la fin de ses jours.‖  ...Pour faire simple, son travail consiste à s'occuper de lui jusqu'à ses derniers instants.‖  Vous y étiez préparé depuis le début, Krauss nii-san, donc cela ne pose aucun problème."
+210121|"Naturellement.‖  Je n'ai aucune objection à ces deux conditions.‖  C'est déjà ce que je fais."
+210129|"Troisièmement.‖  Dans le cas où la personne chargée de veiller sur lui manquerait à son devoir de surveillance, elle sera déchue de ses droits."
+210139|À ces mots, toute assurance disparut du visage de Krauss.
+210140|...Seule Natsuhi peinait encore à en saisir le sens.
+210151|"...Oh.‖  Et en quoi consiste donc...
+210153|ce devoir de surveillance qui incombe à celui qui veille sur lui ?"
+210160|"Il s'agit de veiller à ce que Père puisse vivre le reste de sa vie en aussi bonne santé que possible.‖  ...Je vais être plus précise.‖  Si Père venait à mourir d'autre chose que de mort naturelle, celui qui veille sur lui serait déchu de ses droits, et perdrait son statut de successeur.‖  Dans ce cas, c'est la suivante dans l'ordre de succession, Eva nee-san, qui serait choisie comme successeur."
+210171|"......Qu-Qu'avez-vous dit... ?‖  Comment osez-vous proférer de telles inepties sans la moindre honte ?!!"
+210178|"Oh, oh.‖  Eh bien, eh bien, voilà une lourde responsabilité pour celui qui veille sur lui...
+210183|  Cependant, on peut mourir de bien des façons.‖  Par exemple, il arrive que des vieillards séniles meurent parce qu'un aliment s'est coincé dans leur gorge.‖  Normalement, au sens large, on appelle cela mourir de vieillesse."
+210188|"Mais selon votre raisonnement, cela devient une mort accidentelle, et c'est moi qui porte la responsabilité de la surveillance.‖  ...C'est injustement défavorable pour moi."
+210195|"Je n'ai aucune intention de vous imposer un argument aussi injuste.‖  Je parle du genre de chose que celui qui veille sur lui aurait pu empêcher en prenant bien soin de Père et en gardant un œil sur lui."
+210200|"Porter la nourriture à la bouche de Père relève peut-être de son travail, mais qu'il l'avale ou non dépasse clairement sa responsabilité.‖  L'exemple que vous citez ne me poserait absolument aucun problème, Krauss nii-san."
+210206|"......Oh.‖  Dans ce cas, à quel genre de situation pensez-vous, où l'on pourrait reprocher une faute à celui qui veille sur lui ?"
+210214|"Par exemple,
+210215|...s'il disparaissait."
+210228|"......
+210233|......Oh ?"
+210239|"Pour l'instant, Père semble avoir toute sa tête,‖ mais il pourrait commencer à devenir sénile."
+210244|"...Il pourrait errer pendant que vous ne le surveillez pas et avoir un accident,‖ ...ou bien se perdre dans la forêt et disparaître.
+210249|  ...Ce genre de cas ne relèverait-il pas clairement de la responsabilité de celui qui veille sur lui... ?"
+210256|"L'esprit de Père est parfaitement sain !‖  Il n'y a aucune raison de parler de sénilité... !"
+210264|"`Un jour, j'ai soudain vu Père s'enfoncer dans la forêt.‖  Je l'ai suivi, mais je ne l'ai pas retrouvé.‖  J'ai appelé la police et nous l'avons cherché, mais au bout de sept longues années sans le retrouver, je l'ai fait déclarer mort.'‖  Ce que je veux dire, c'est que nous n'accepterons pas que vous le fassiez passer pour mort avec ce genre d'histoire."
+210271|"............"
+210278|"Quand Père s'éteindra, une autopsie sera obligatoirement pratiquée,‖ et nous vérifierons qu'il est mort de vieillesse au sens le plus courant, dans les limites du bon sens.‖  ...Toute mort due à une autre cause sera imputée à celui qui veille sur lui.
+210283|  .........Vous voyez ?‖  Tout cela entre dans ce que vous faites avec tant de peine depuis tout ce temps, Krauss nii-san.‖  Ce ne sont pas des conditions bizarres, n'est-ce pas... ?"
+210291|"V-Vous vous moquez de nous, c'est honteux !!‖  Je ne comprends pas pourquoi mon mari devrait se voir imposer une règle aussi humiliante !!"
+210299|"......À vrai dire, je le soupçonne depuis l'an dernier.‖  Non, tout le monde ici le soupçonne probablement aussi.‖  Eva nee-san et Hideyoshi nii-san.‖  Rudolf-san et Rosa-san aussi.‖  Tout le monde le soupçonne depuis le début, mais c'était si effrayant à imaginer que personne ne l'a dit à voix haute."
+210305|"Hm.‖  ...Hé hé hé hé, ha ha ha ha ha... !!‖  Je vois, c'est donc cela que vous voulez dire ?
+210312|  ...Que Père est déjà mort, et que je le cache !"
+210327|"...Ouais, c'est ça.‖  C'est une des théories que j'avais imaginées pour résoudre le dernier mystère de la partie précédente."
+210334|"......Tu veux parler de la toute fin,‖ du mystère de qui a tué le docteur Nanjo ?"
+210340|"Exactement.‖  ...C'est vrai que la sorcière en a dit, des choses, en rouge.‖  ...Elle a cité les noms des 18 personnes en annonçant si elles étaient vivantes ou mortes, et elle a affirmé qu'il n'y avait aucun autre humain.‖  ...Mais avec cette théorie, je peux me faufiler dans cette brèche... !"
+210346|"......‖...Je vois.‖  C'est donc une des réponses qui ne mettent pas ces deux affirmations en contradiction.‖  ......Ça se tient."
+210352|"Tu vois ce que je veux dire ?‖  ...T'as l'esprit plutôt vif, toi.‖  Ça m'évite d'avoir à expliquer."
+210358|"Il n'existe pas de 19e personne sur cette île.‖  Et pourtant, ce mécanisme permet d'y glisser un nouveau personnage inconnu.
+210363|  ...Autrement dit, il suffit que `les noms des 18 personnes' ne correspondent pas forcément aux `18 personnes présentes sur l'île'."
+210371|"C'est ça... !‖  La sorcière a cité les noms de 18 personnes à la suite, en annonçant si elles étaient vivantes ou mortes.‖  Et en plus, elle a déclaré qu'il n'y avait pas d'autres humains que ces 18-là.‖  ...Il y avait là une illusion."
+210376|Rien ne garantissait que ~ib~les noms des 18 personnes = les 18 personnes présentes sur l'île~ib~‖.
+210389|"Quand elle a cité les 18 noms en annonçant qui était vivant et qui était mort,‖ elle a caché le nom du coupable X, et glissé à la place quelqu'un qui n'était pas sur cette île... !‖  Comme ça, même si le coupable était sur l'île, elle a pu l'exclure de la liste des vivants et des morts !‖  La personne qu'elle a glissée là n'était pas vraiment sur l'île, donc elle ne comptait pas dans le total des personnes présentes."
+210394|"De cette façon, même si le coupable comptait parmi les 18 personnes présentes sur l'île, son nom pouvait ne pas apparaître !‖  Les deux déclarations en rouge sont totalement indépendantes, donc cette théorie ne crée aucune contradiction... !"
+210400|"Si on a utilisé le nom de quelqu'un pour cacher l'existence du coupable, ce nom doit remplir plusieurs conditions.‖  ...D'abord, même si cette personne n'est pas sur l'île, il faut que ce soit quelqu'un qu'on croit présent sur l'île.‖  ...Sinon, elle n'aurait pas pu nous tromper."
+210405|"Et l'idéal, c'est que cette personne soit morte.‖  ...Il n'y a pas d'alibi plus parfait que la mort.‖  Après tout, à ce stade, le mystère reposait sur le fait que le crime était impossible pour les 18 personnes.
+210410|  ......C'est à peu près ça ?"
+210419|"Ouais, c'est ça... !‖  Et cette personne, c'était...
+210421|...
+210429|Grand-père.‖  ...Là, Kyrie-san ne peut vouloir dire qu'une seule chose.‖  ...On croyait que Grand-père s'était enfermé dans son bureau en refusant de voir qui que ce soit,‖ ...mais il est possible qu'il soit déjà mort, ‖et qu'Oncle Krauss mente quand il prétend que Grand-père est vivant... !"
+210434|Exactement.‖  Grand-père restait enfermé dans sa chambre depuis le début, et personne n'avait vu son visage !
+210437|Il était peut-être déjà mort, ‖et Oncle Krauss et les autres s'étaient peut-être mis d'accord pour tromper tout le monde... !!
+210444|"......Si Kinzo meurt, le partage de l'héritage a lieu.‖  Mais si Kinzo ne meurt pas...‖non,
+210448|s'il meurt, mais que
+210454|~ib~sa mort n'est pas annoncée~ib~‖, le partage de l'héritage n'aura pas lieu."
+210460|"Autrement dit, Oncle Krauss pourrait garder toute la fortune de Grand-père pour lui... !‖  Eh oui, il a un mobile plus que suffisant !"
+210464|Une 19e personne X n'existe peut-être pas vraiment sur cette île.
+210468|Mais une personne X existait.
+210469|...Et cette personne était la 18e !
+210475|"Autrement dit, il n'y avait à l'origine pas 18 personnes sur cette île, mais 17.‖  Puis une personne inconnue X s'est cachée parmi elles et a commis le crime.
+210483|  ...Alors, Beato ?!‖  Montre-toi, je viens de résoudre le dernier et le plus grand mystère de la dernière fois !!"
+210500|Tandis que Battler l'affirmait avec force, un claquement d'applaudissements secs surgit de nulle part, et les alentours s'illuminèrent,‖ pour devenir l'habituel salon de thé de la sorcière.
+210508|"*ricanement*  Ha ha ha ha ha ha ha... !‖  Bravo, bravo.‖  J'aimerais pouvoir nier que tu as mis le temps, pour un incapable de ton espèce, mais d'une façon ou d'une autre, tu as réussi à trouver une réponse.
+210513|  Même un bloc de béton sait arrêter de penser !‖  Tu as donc enfin évolué en un être doué d'intelligence."
+210519|"...On pourrait dire que tu as enfin fait un pas en avant par rapport à la créature pleurnicheuse que tu étais, qui se contentait de me lécher les bottes en grinçant des dents.‖  *ricane*ricane* !"
+210526|"...Dire que la dernière fois, je me suis fait balader par ce stupide jeu de mots.‖  Je suis tellement minable que ça m'énerve moi-même !"
+210535|"Allez, Beato, répète-le !!‖  Si tu peux déclarer que Grand-père faisait partie des 18 personnes présentes sur l'île, vas-y, essaie doooooonc !!‖  Ouais, tu peux pas.‖  Parce qu'il était déjà mort.‖  C'est la fin de tes supercheriiiiiiiies !!"
+210541|"*ricane*ricane*ricane*ricane*  Ah ha ha ha ha ha ha ha ha ha ha... !!‖  Voyons voir, que faire ?‖  ......Vais-je trancher cela en deux d'un coup de vérité rouge ?
+210546|  Non, non, il serait peut-être bon aussi de me retenir pour l'instant et de te laisser t'emballer.‖  Quitte à te pousser d'une falaise, il est plus amusant de t'attirer d'abord tout en haut.‖  *ricanement* !"
+210550|Avec son ricanement exaspérant, Beato semblait même chercher l'expression qui m'agacerait le plus.
+210553|...Comme si elle voulait dire que la réponse à laquelle j'étais enfin arrivé était d'un ridicule sans nom.
+210559|Alors que l'attitude de la sorcière m'énervait, Gretel, elle, affichait une expression neutre et posée.
+210562|...Comme si elle s'était attendue à ce que la sorcière réagisse ainsi.
+210569|".........‖Je vois.‖  ...Tout comme Battler apprend et progresse, la sorcière aussi."
+210576|"Qu'est-ce qu'il y a, Beato ?!‖  Fais pas tant de manières !!‖  Je t'ai demandé si tu pouvais le répéter !‖  Réponds !!"
+210586|"*ricane*ricane*ricane*..."
+210593|"...Arrête, Battler.‖  La sorcière ne répondra pas si facilement.‖  ...Pas tant qu'elle ne pensera pas y gagner quelque chose."
+210601|"Quoi ?!‖  Qu'est-ce que tu veux dire... ?"
+210607|"Dans les parties précédentes, tu te faisais balader par cette vérité rouge, alors la sorcière s'en est servie de nombreuses fois.
+210613|  Mais maintenant, la situation a changé.‖  Tu cherches à lui soutirer la vérité rouge...et tu t'en sers au contraire comme d'une arme.‖  Dans ces conditions, la sorcière n'a aucune raison de tirer du rouge à tout bout de champ.‖  ......Pas vrai ?"
+210621|"Gretel, ou qui que tu sois.‖  ...Il semble que tu aies l'esprit bien plus vif que Battler.‖  Quelle redoutable ennemie j'ai accueillie là.
+210626|  C'est exact !‖  Quand Battler espère que j'utilise la vérité rouge, ai-je la moindre obligation de le faire ?!"
+210631|"Non !‖  Je n'ai pas même l'obligation d'une miette du croissant que tu as mangé ce matin de te faire plaisiiiiiiir !!"
+210638|"E-Espèce de......!!"
+210644|"Oui oui oui oui, c'est ce visaaaaage-là !‖  Si j'ai commencé à jouer avec la vérité rouge, c'est uniquement parce que je voulais voir ce visage !‖  Je n'ai aucune raison de jouer si ça ne me donne pas l'occasion de te voir faire cette tête... !"
+210650|"...Hé hé.‖  T'es juste mauvaise perdante, hein ?
+210655|  Si tu crois que tu vas m'embrouiller en racontant n'importe quoi parce que tu peux pas répondre à ma demande, tu te trompes !!"
+210661|"Ne prends pas la grosse tête !!‖  Une réponse pareille, je pourrais la réduire en pièces sans le moindre effort !!
+210666|  Mais je ne prendrai pas la peine de parler en rouge.‖  Je ne le dirai pas, justement parce que c'est toi qui me le demandes.‖  Sais-tu pourquoi ?"
+210673|"......Tu viens de le dire.‖  Tu veux le pousser dans le vide au moment le plus savoureux.‖  Cette sorcière perfide dit qu'elle n'utilisera plus le rouge quand c'est toi qui le réclames.
+210679|  Autrement dit, elle ne jouera plus à ce petit jeu où tu lui ordonnes de répéter."
+210687|"*ricane*ricane* !‖  Exactement, exactement !‖  Contrairement à Battler, avec cette fille, tout va vite, pas besoin d'explications !‖  Je dirai ce qui me plaît avec la vérité rouge, au moment où je le désirerai !"
+210693|"C'est ça.‖  En somme, la vérité rouge est un droit dont la sorcière use librement.‖  Elle n'a pas à s'en servir chaque fois que le camp humain le désire.
+210701|  ......Mais même ça, ça dépend de la situation."
+210719|"...De la situation... ?‖  Qu'est-ce que tu veux dire... ?"
+210729|"La sorcière n'a aucune obligation de répondre quand tu lui ordonnes de répéter quelque chose.‖  Mais cela devient une obligation si, et seulement si, ton affirmation peut détruire la théorie de la sorcière.‖  Car dans ce tribunal sans juge, ce qui n'est pas réfuté devient la vérité."
+210734|"...Tout comme la théorie de la sorcière, celle que défend la sorcière......‖deviendrait immédiatement la vérité si tu craquais et arrêtais de penser."
+210740|"Alors, ...puisqu'elle n'a pas de contre-argument à mon raisonnement, ça veut dire qu'il est juste ?!‖  Ça veut dire que le coupable est la mystérieuse 18e personne X, et que Grand-père est déjà mort ?!"
+210746|"...Du moins, jusqu'à ce que la sorcière réplique.‖  Une vérité perd toujours face à de nouvelles vérités venues d'un futur plus lointain.‖  ...Le plus pénible, c'est que même le moment de la réplique est laissé au choix de la sorcière."
+210752|"...Autrement dit, soit ton raisonnement de tout à l'heure était juste, ‖soit la sorcière se retient de répliquer alors que tu te trompes.‖  ...Ou bien la sorcière l'ignore parce qu'il n'ébranle de toute façon pas les fondements de la théorie de la sorcière,‖ mais dans tous les cas, on ne peut pas faire la différence pour le moment.‖  ......C'est à peu près ça ?"
+210760|"*ricane*ricane*, *ricane*ricane*ricane* !‖  Maudite Dame Bernkastel, de m'avoir envoyé une pièce aussi gênante.‖  Grâce à elle, je n'ai plus une seule réplique !"
+210768|"La sorcière a appris qu'elle pouvait répondre à tes demandes de répétition plus tard.‖  ...On pourrait appeler ça un coup différé."
+210774|"...E-Elle se fiche de moi...‖  ...Donc, même si j'avance un raisonnement faux, il est possible que Beato me laisse patauger exprès sans le démentir,‖ et que tout à la fin, quand j'aurai bâti un raisonnement encore plus colossal, elle le coupe à la racine,‖ et renverse tout... ?!"
+210780|Un raisonnement sert de pont vers le suivant.
+210781|En lui demandant de répéter, j'avais pu consolider ma position et avancer petit à petit.
+210784|Mais comme cette garce de Beato avait appris cette étrange tactique du différé,‖ ...je ne pouvais plus confirmer ni infirmer mes raisonnements.
+210787|C'est comme si on venait de m'arracher le bâton que j'avais enfin trouvé pour tâtonner dans le noir.‖  ...Là, je suis coincé, non... ?!!
+210795|"Allons, allons, Battler, si tu fais une tête aussi désespérée, je ne vais plus pouvoir m'arrêter de baver, tu sais♪‖  Depuis le début, ce bâton n'était rien d'autre qu'une chose que je t'avais donnée parce que tu étais si lamentable.
+210800|  Tout ce que ça veut dire, c'est que tu peux enfin m'affronter sans handicap, pas vrai ?‖  Kuhi hi hi hi hi hi hi hi !"
+210807|"...Mais ça ne change rien au fait que lui ordonner de répéter reste un des moyens de riposte de Battler.‖  Comme je l'ai déjà dit, tant qu'il s'agit de quelque chose de fatal qui détruirait la théorie de la sorcière, ‖la sorcière est obligée de répliquer, et donc de parler avec la vérité rouge.
+210812|  ...Même si le moment de cette réplique est laissé au choix de la sorcière, elle doit avoir lieu tôt ou tard.‖  ......N'est-ce pas ?"
+210818|"Hmm, il se peut.‖  Si je ne peux pas réfuter la théorie des `astuces réalisées par des humains' qu'avance Battler avant la fin de la partie,‖ Battler s'en servira pour me nier, et il pourra proclamer sa victoire."
+210824|"...Alors, on peut considérer ça comme une contrainte pour le camp de la sorcière... ?  La `théorie de l'astuce' avancée par le camp humain, ‖autrement dit ce qu'il t'ordonne de répéter, doit être réfutée pendant la partie (pendant l'épisode) ?"
+210830|"C'est cela.‖  ...Le but de Battler est de montrer qu'il peut expliquer par des humains toute la plaisante partie que je déroule sur cette île, et ainsi me nier.‖  Si Battler y parvient, il deviendra à cet instant le vainqueur de cette partie."
+210838|"Vérifions les règles.‖  ...On peut considérer que la fin de la partie correspond à 24 h 00 le 5 octobre 1986, à l'heure du Rokkenjima de la partie ?"
+210844|"Cela ne me pose aucun problème."
+210850|"À la fin de la partie, le camp humain doit avoir exposé une théorie fondée sur des astuces pour tous les mystères,‖ et si le camp de la sorcière ne peut pas répliquer, le camp humain peut proclamer sa victoire.‖  ...Ça te va ?"
+210856|"......Soyons plus précises.‖  À la fin de la partie, le camp de la sorcière se verra accorder une occasion de répliquer."
+210862|"Fixons une durée.‖  Une minute.‖  Si tu ne peux pas répliquer en une minute, la victoire sera proclamée."
+210868|"Dans ce cas, permets-moi de t'imposer la même règle.‖  À la fin de la partie, le camp humain disposera d'une minute pour réfuter les mystères qui lui ont été posés.‖  S'il reste ne serait-ce qu'un seul mystère non réfuté dans ce délai, ce sera la victoire de la sorcière, et la partie sera terminée.
+210873|  ...Ce serait d'un ennui mortel de voir la partie interrompue par de longues réflexions, n'est-ce pas ?"
+210882|"......Merde.‖  Vous décidez de tout sans moi...
+210888|  Mais je vois à peu près de quoi il retourne.‖  Même si ce que je t'ordonne de répéter n'est pas réfuté tout de suite, il faudra bien que ce le soit un jour."
+210894|"Oui, c'est ça.‖  ...Et ça doit arriver avant 00 h 01 le 6 octobre.
+210900|  ...Mais fais attention.‖  Il lui suffit de réduire en pièces une seule des choses que tu lui ordonnes de répéter.‖  Tu ne pourras pas proclamer ta victoire tant que tu n'auras pas résolu toutes les énigmes."
+210911|"Tout comme je peux utiliser le rouge,‖ je t'autorise désormais à utiliser le bleu, Battler."
+210917|"Quand tu expliqueras mes meurtres magiques par des humains et des astuces, tu pourras énoncer tes affirmations en bleu.‖  J'ai l'obligation de réfuter ton bleu avec le rouge avant la fin de la partie."
+210926|"Le bleu...‖  ...Donc je parlerai en bleu quand je t'ordonnerai de répéter... ?"
+210932|"Pas tout à fait.‖  Quand tu m'ordonnais de répéter, tu pouvais le faire pour n'importe quelle broutille.
+210938|  Mais le bleu est un peu plus strict.‖  S'il ne nie pas à lui seul les sorcières, il ne sera pas valable."
+210945|"............"
+210955|Ça commence à devenir compliqué, ...mais en gros, c'est quelque chose comme ça.
+210958|Par exemple, prenons une des énigmes passées pour lesquelles je lui avais demandé de répéter.
+210961|"Il y a réellement 5 passe-partout."
+210964|C'était pour confirmer qu'il y avait vraiment 5 passe-partout, puisqu'elle affirmait qu'il n'y en avait pas plus de 5.
+210968|Mais comme ça, à lui seul, ça ne nie pas les sorcières, je ne peux pas le dire en bleu.
+210969|Donc, pour parler en bleu, il faudrait que je dise quelque chose comme...
+210972|`En réalité, il y avait plus de 5 passe-partout.‖  Le coupable est entré dans la pièce ou en est sorti avec cette clé supplémentaire !'
+210976|...C'est seulement à ce moment-là que la sorcière, qui prétend que c'était un meurtre en chambre close commis par magie, aurait l'obligation de répliquer.
+210977|Autrement dit, je ne peux pas lui ordonner de répéter quelque chose qui se contente de confirmer les prémisses de mon raisonnement.
+210980|......Ça risque de me désavantager sérieusement.
+210983|Bon sang...‖  Ça suffirait presque à faire passer le rouge dont Beato se servait jusqu'ici pour me tourmenter pour quelque chose d'extrêmement charitable...
+210995|"...Bon sang.‖  Donc, même si j'élabore une théorie sur une chambre close et que je l'énonce en bleu,‖ si Beato la réfute tout, tout à la fin, je n'aurai même pas le temps d'élaborer ma théorie suivante... ?!‖  Cette règle est horrible, elle me désavantage complètement..."
+211001|"......Tu vas encore capituler avant même que le combat commence ?
+211007|  Calme-toi.‖  Personne n'a dit que tu ne pouvais utiliser le bleu qu'une fois par mystère.‖  Tu sais ce que ça veut dire ?"
+211013|"N-Non.‖  ...Qu'est-ce que ça veut dire... ?"
+211020|"Jusqu'ici, avec ta façon pitoyable de te battre, tu formulais une théorie, tu guettais la réaction de la sorcière,‖ et si ça ne marchait pas, tu te mettais alors à formuler une autre théorie.‖  Ce n'est pas comme ça que tu acculeras une sorcière."
+211026|"Alors, comment je dois me battre... ?
+211031|  ......Tu veux quand même pas dire..."
+211037|"Si, c'est ça.
+211040|  ...On n'attaque pas ses énigmes avec un point.
+211047|  ~ib~On les assaille avec un mur~ib~‖.‖  Tu l'as dit toi-même dans une partie précédente, que c'est ainsi que devrait être la force de ton raisonnement."
+211055|Assaillir...avec un mur.
+211056|C'est vrai, je l'avais dit moi-même.
+211059|Deviner pour mettre à nu le mystère, c'est comme essayer de toucher une cible lointaine avec une flèche.
+211062|Jusqu'ici, je me contentais de tirer flèche après flèche,‖ en demandant à la sorcière si j'avais touché,‖ puis de rebander mon arc quand on me disait que j'avais raté.
+211066|À ce rythme-là, je risque pas de toucher quoi que ce soit...
+211067|Les balles sont peut-être un meilleur exemple que les flèches.
+211070|Si on tire coup sur coup sur une cible lointaine avec un pistolet, on ne la touchera sans doute pas facilement.
+211073|...Alors, comment faire mouche ?
+211077|Si un pistolet ne marche pas,‖ ...on prend un fusil de chasse !
+211078|Au lieu d'une balle unique, je vais la cribler d'un coup avec de la `grenaille', faite d'innombrables projectiles... !
+211082|La grenaille se disperse, donc elle touche une large zone.
+211083|C'est ce qui la rend idéale pour tirer sur des cibles petites et rapides comme les oiseaux.
+211086|Exactement, aucune règle ne dit que je dois raisonner comme avec un pistolet, en tirant une balle à la fois.
+211089|...Formuler une seule théorie et se contenter d'espérer qu'elle fasse mouche, ça ne vaut pas mieux que d'arrêter de penser.
+211092|Il faut tirer une masse énorme de balles, de raisonnements, et les faire frapper comme un mur, pour qu'il suffise qu'une seule touche la cible.
+211100|"......Le bleu, hein... ?‖  ...J'ai compris.‖  Si ta vérité rouge est un katana affûté comme un rasoir, on dirait bien que mon bleu est un fusil de chasse.‖  Non, ...une mitrailleuse dont la puissance de feu va transformer la sorcière en passoire."
+211107|"Je vois, une arme maladroite qui tire à tout va en espérant toucher.‖  *ricane*ricane* !‖  Ce genre de comparaison grossière te ressemble bien."
+211113|"Le dénouement d'un roman policier est toujours le même.‖  ...Le grand détective rassemble tous les suspects et expose une seule piste logique qui fonctionne à merveille.‖  Un peu comme Guillaume Tell transperçant une pomme d'une seule flèche, de façon spectaculaire.‖  C'est pour ça que j'ai cru à tort que c'était une vertu."
+211121|...Ce serait sans doute magnifique.
+211122|Si je pouvais transpercer la vérité d'un seul raisonnement.
+211125|Mais ce n'est pas réaliste.
+211131|Regarde les vraies guerres.
+211132|Est-ce qu'on y voit tout le monde sortir un long fusil de sa tranchée, viser biiien soigneusement et échanger des tirs un par un ?
+211136|Non, pas vrai ?!
+211137|On tire en rafale, on arrose dans tous les sens, on cloue l'ennemi sur place sous un tir de barrage !
+211142|Le raisonnement, c'est pareil.
+211145|À cause de cette drôle de vertu, j'étais resté coincé à croire qu'il valait mieux suivre un seul raisonnement à la fois.
+211148|Nous, les humains, on peut tirer d'innombrables raisonnements et possibilités !
+211152|Les balles, c'est l'imagination.‖  Arrêter de penser, c'est comme avoir le canon enrayé... !
+211153|Ma façon pitoyable de raisonner jusqu'ici, c'était un vrai pistolet à bouchon.
+211156|J'étais lamentable : je tirais mollement, je me faisais réfuter en rouge, puis je prenais la balle suivante et je rechargeais.
+211159|Ma `vérité bleue', qui affirme que ce sont des humains et des astuces qui sont la réalité,‖ va écraser sa cible, l'illusion racontée par la sorcière, sous sa puissance de feu et la force de mon imagination... !
+211166|Voilà ma...
+211168|façon de me battre, à moi, Ushiromiya Battler... !!
+211187|"......Grâce à toi, j'ai compris ma vraie façon de me battre.‖  Merci, Gretel !!"
+211194|"De rien."
+211200|"Ça me fait mesurer à quel point j'étais pitoyable avant.
+211205|  ...Ouais, Beato a raison.‖  Jusqu'ici, j'avais droit à un handicap.‖  Je le reconnais... !!‖  Nouvelle règle, bien reçu !!‖  J'ai ma propre façon de me battre !‖  Je vais te la montrer !!"
+211212|"*ricane*ricane*ricane*ricane* !!
+211217|  Voilà un bel état d'esprit, il me plaît !‖  Alors essaie-la tout de suite, cette vérité bleue qui est la tienne... !!"
+211224|"...Ouais, je vais m'en servir.‖  Avec cette vérité bleue, je vais réduire en miettes ta théorie de la sorcière, selon laquelle seule une sorcière a pu commettre les crimes puisque tout le monde avait un alibi !!"
+211234|"Voici ma vérité !
+211241|  #5decffUshiromiya Kinzo est déjà mort.
+211248|  Par conséquent, le vrai nombre de personnes sur l'île est de 17 !
+211254|  En y ajoutant une personne inconnue X, on arrive à 18 personnes.
+211260|  En supposant que cette personne X existe, les crimes deviennent possibles même si les 17 personnes ont toutes un alibi !!"
+211304|"...En bref, si vous continuez à nous empêcher de voir Père, nous devrons admettre la théorie suivante.
+211311|  Pour faire simple, Père est déjà mort.‖  Mais vous le cachez parce que vous ne voulez pas que l'héritage soit partagé."
+211318|".........
+211324|...Ridicule."
+211334|"C-C'est exact, c'est plus que ridicule !!‖  Je n'ai jamais entendu pareille insulte !!"
+211341|"Nous pourrions même vérifier de force s'il est mort ou vivant, en présence de la police.
+211347|  N'est-ce pas, Eva nee-san... ?"
+211353|"...O-Oui...
+211359|  C'est exact, Nii-san.‖  On pourrait monter toutes sortes d'histoires contre toi.‖  On pourrait facilement créer une situation où tu serais obligé de nous laisser voir Père en présence d'un tiers... !"
+211365|"Cependant,‖ je pense que cela jetterait une grande honte sur la famille Ushiromiya.
+211371|  C'est pour cela que je fais cette proposition.‖  Voici les responsabilités et les devoirs de celui qui veille sur Père.‖  Et une pénalité dans le pire des cas.‖  Si vous acceptez ces conditions, nous pourrons nous abstenir de faire quelque chose comme traîner Père dehors."
+211380|"...Ouais, c'est vrai, Aniki...‖  Tu ne l'as pas dit toi-même, tout à l'heure... ?‖  Tu remplis ton devoir naturel en veillant sur le vieux.‖  Les conditions de Kyrie ne devraient pas t'inquiéter, non ?‖  Pourquoi tu réagis aussi violemment ?"
+211386|"...Ça t'inquiète vraiment tant que ça, de te faire retirer ta place de successeur si le vieux meurt d'autre chose que de mort naturelle ?"
+211393|"Ou alors, quoi ?‖  Tu aurais une raison de penser que Père pourrait mourir d'autre chose que de mort naturelle... ?"
+211400|"Comment le pourrais-je ?
+211406|  ...Je vois, maintenant je comprends moi aussi ce que ressent Père.‖  Quelle triste fin de vie que la sienne, lui qui ne peut même pas mourir comme il l'entend."
+211412|"Oui, une bien triste fin de vie, vraiment.‖  ...Et c'est justement que cette `fin de vie' appartienne déjà au passé que nous soupçonnons."
+211418|"...Vous pourriez dissiper complètement ce soupçon simplement en nous laissant voir Père.‖  ...Alors, même après avoir été humilié à ce point par nous, vous refusez toujours de nous laisser le voir, Krauss nii-san...... ?"
+211425|"............"
+211434|"Père est sans doute déjà mort.‖  Le corps a peut-être été éliminé dans le plus grand secret.‖  ...Et après avoir accaparé toute sa fortune en tant que représentant de Père, ‖vous ferez croire à sa `disparition' jusqu'à ce que sept ans s'écoulent, faisant de Père un défunt sans cadavre."
+211440|"......Pardon, mais ne le prenez pas mal, d'accord ?‖  Je ne fais que jouer au détective."
+211448|"...Q-Quelle insolence !!
+211454|  Vous n'avez pas le droit de rester dans ce manoir !!‖  Partez immédiatement !!‖  Je ne vous permettrai plus jamais de franchir le seuil de cette maison !!"
+211460|"Ça a marché l'an dernier, mais vous avez épuisé votre chance en croyant que ça marcherait encore cette année.
+211465|  ...Père est de mauvaise humeur, donc il ne peut pas nous recevoir ?‖  C'était déjà bien assez suspect l'an dernier, et voilà que vous recommencez."
+211471|"Si vous vouliez vraiment vous faire passer pour le représentant de Père et mettre la main sur toute sa fortune, il fallait faire un peu plus vite,‖ et le faire disparaître sans attendre la conférence familiale d'aujourd'hui.‖  Vous êtes vraiment naïf, Krauss onii-sama..."
+211480|"......Je ne vois absolument pas ce que vous-"
+211487|"Cependant !‖  ...S'il est vrai que Père est de mauvaise humeur,‖ et que vous nous empêchez de le voir dans le cadre de vos responsabilités envers lui, alors c'est une chose tout à fait admirable.‖  Dans ce cas, il vous suffit d'accepter nos conditions, et tout sera réglé ici et maintenant."
+211494|"......Après tout, vous tenez tellement à Père, Krauss nii-san.‖  Il n'y a aucune chance que Père meure d'une façon qui pose problème lors de l'autopsie."
+211499|"De toute façon, Père déteste les hôpitaux, donc il s'éteindra dans son bureau, n'est-ce pas ?‖  Quoi qu'il arrive, une autopsie sera forcément pratiquée.
+211506|  ...La seule façon de ~ib~le tuer sans autopsie~ib~ serait qu'il disparaisse."
+211516|"......Ça suffit, Kyrie-san.  Je crois que vous avez assez tourmenté Nii-san."
+211520|Eva réprimanda Kyrie d'une voix d'une gentillesse écœurante.
+211524|...Vu la situation, c'était impensable.
+211525|...C'est bien pour cela que c'était écœurant...
+211533|"Je suis sûre que Nii-san a ses propres soucis, et sa fierté aussi.‖  Certes, Nii-san considère peut-être cela comme un de ses devoirs naturels,‖ mais si on l'oblige à le mettre par écrit et à accepter des pénalités,
+211535|...je comprendrais tout à fait qu'il se fâche.
+211541|  Tu n'es pas d'accord, Rosa... ?"
+211548|"...Si, c'est vrai.‖  ......Elle a peut-être un peu trop fait peu de cas de la fierté de Krauss nii-san en tant que fils aîné.‖  ...Ce serait un peu dur pour lui de l'obliger à signer un engagement sur les devoirs de celui qui veille sur Père, comme Kyrie-san l'a présenté."
+211555|"C'est vrai.‖  Tu fais du bon boulot, Aniki.‖  Vu ça, on pourrait envisager de laisser tomber toutes ces histoires de papiers bizarres à signer et de pénalités dans le pire des cas...‖et de te confier tout ça."
+211564|"...V-Vous......"
+211573|Non seulement Eva, mais aussi Rudolf et Rosa, un sourire inquiétant aux lèvres comme s'ils s'étaient concertés à l'avance, se mirent à acculer Krauss.
+211576|Ils avaient maintenant parfaitement compris comment Kyrie avait acculé Krauss...et à quel compromis exactement elle comptait aboutir...
+211584|"...Nous parlions d'un engagement signé sur les responsabilités de celui qui veille sur Père.‖  Mais même sans signer quoi que ce soit, vous pouvez faire en sorte que nous ne demandions plus jamais à voir Père.‖  ...À condition de prouver que vous êtes digne de veiller sur Père par une forme de garantie autre qu'un engagement signé."
+211588|"Vous me demandez......de payer une caution ?
+211592|  Hé hé hé hé, ha ha ha ha ha ha... !‖  C'est trop drôle !‖  Wah ha ha ha ha ha ha ha ha !"
+211600|"La caution sera versée à Eva-san, Rudolf-san et Rosa-san, à raison de 3 milliards de yens chacun.‖  En guise d'acompte, vous virerez dix pour cent de cette somme, 300 millions de yens, avant la fin de l'année."
+211605|"9 milliards ?!‖  Je n'ai pas une telle somme !!!"
+211625|"Une fois Père décédé, vous devriez pouvoir vous débrouiller.‖  Nous avons au moins enquêté jusque-là.‖  Dans votre situation financière actuelle, vous devriez pouvoir faire face à l'acompte de 900 millions de yens."
+211630|"Et vous pourriez même ~ib~les emprunter à Père~ib~, n'est-ce pas ?‖  ...Inutile de continuer cette comédie cousue de fil blanc."
+211640|"......Qu-Quelle histoire désagréable.‖  Vraiment désagréable... !!"
+211647|"C-C'est bien vrai !!‖  Rien que de parler de l'héritage de Père était déjà bien trop irrespectueux !‖  Père serait déjà mort ?‖  Mon mari le cacherait pour garder toute la fortune pour lui ?!‖  J'en ai assez !!‖  Aucun d'entre vous n'est plus digne de porter le nom d'Ushiromiya !!"
+211653|"Calmez-vous, Natsuhi-san... !‖  On s'est tous dit ce qu'on avait à se dire !
+211658|  Et si on en restait là pour l'instant... ?!‖  Tout ça arrive d'un coup, et c'est une affaire énorme.‖  On est peut-être un peu échauffés nous aussi !"
+211664|"Et si on faisait une pause pour se rafraîchir les idées ?‖  Krauss nii-san a sans doute besoin d'un peu de temps lui aussi.‖  Pas vrai, Krauss nii-san ?"
+211671|".........Du temps... ?‖  Et pourquoi aurais-je besoin d'une chose pareille ?"
+211679|"Allons, allons !‖  Au fond, on ne pense à rien de louche !‖  C'est juste qu'on veut tellement voir Père qu'on s'est mis à râler un peu... !‖  Et Krauss nii-san, je comprends trèès bien que vous vous soyez emporté à force de nous répondre du tac au tac... !"
+211685|"Au fond, vous aussi, Krauss nii-san, puisqu'on insiste autant, vous voulez bien nous laisser le voir !‖  Pas vrai ?‖  C'est bien ça ?‖  Vous vous êtes juste un peu entêté, et c'était gênant de dire que vous nous laisseriez le voir après avoir refusé tant de fois.‖  C'est ça, hein ?‖  Pas vrai ?  Pas vrai ?"
+211691|"...C-Certes, il semble que mon mari ait un peu perdu son sang-froid, tout comme vous.
+211697|  ...Nous refusions obstinément uniquement par respect pour la volonté de Père, qui ne souhaite voir personne."
+211703|".........‖...En effet, c'est vrai.‖  Cela tournait à la dispute entre frère et sœurs, comme autrefois, et je me suis entêté moi aussi.‖  ......Rafraîchissons-nous les idées.
+211709|  ...Je comprends combien vous tenez tous à voir Père.‖  ...Je le lui transmettrai.‖  ......Je trouverai un moyen de convaincre Père de vous recevoir.‖  ......Cela vous convient-il ?"
+211717|"...Oui.‖  Je pense qu'on peut laisser à Krauss nii-san le temps de persuader Père."
+211724|"Ouais.‖  ...On compte sur toi, Aniki.‖  Persuade-le bien de nous recevoir.‖  Après tout, c'est toi qui veilles sur le vieux."
+211730|"Et pour ce qui est de le persuader, ...on va fixer une limite à ce soir, d'accord ?‖  Demain, on vérifiera que Père va bien, même s'il faut enfoncer la porte de son bureau.
+211736|  ......Ça ne te pose pas de problème, j'imagine ?‖  Nii-san... ?"
+211745|"...Faites comme bon vous semble.‖  Je vois, il semble que même le temps qu'on m'accorde pour le persuader soit compté.
+211751|  ...Allons-y, Natsuhi.‖  Nous lui demanderons au moins de se joindre à nous pour le dîner."
+211758|"O-Oui... !"
+211766|Krauss quitta le salon avec Natsuhi.
+211769|Une fois leurs pas évanouis,‖ Hideyoshi poussa un profond soupir et, avec un sourire en coin, se laissa tomber lourdement sur le canapé...
+211781|"......Kyrie-san,‖ ...vous êtes...une femme effrayante."
+211788|"Pardon d'avoir parlé sans y être invitée.‖  Je m'en excuse."
+211795|"...Mais non, mais non.  Tu ne l'as pas acculé comme on l'avait prévu au départ, mais au final, c'est encore mieux.‖  ...Comme toujours, je ne peux que m'incliner devant toi..."
+211803|"Mais...il pourra vraiment réunir 900 millions... ?‖  On avait estimé que 750 millions, c'était le maximum que Krauss nii-san pouvait se permettre dans sa situation financière actuelle...‖  ...900 millions, ce n'est pas un peu trop le saigner... ?"
+211810|"S'il ne peut pas, ce n'est pas grave non plus.‖  Si on baisse à 750 millions pour que Krauss nii-san sauve la face, on aura l'air de faire un compromis et ce sera plus facile de conclure, non ?‖  Et s'il sort vraiment 900 millions, c'est encore mieux."
+211817|"Nii-san doit être en pleine réunion stratégique avec Natsuhi-san en ce moment.‖  ...Ça va être vraiment intéressant de voir quel raisonnement tordu notre fier Nii-san va nous sortir en guise d'excuse."
+211824|"Convaincre Père... ?‖  Il n'y a aucune chance qu'il y arrive."
+211828|Impossible de convaincre quelqu'un qui n'est même pas là... !
+211858|"......Mes frère et sœurs sont tous venus, malgré leurs obligations respectives, pour cette conférence familiale annuelle."
+211862|Krauss et Natsuhi se trouvaient dans le bureau faiblement éclairé de Kinzo.
+211866|De temps à autre, on entendait le tonnerre, et la pièce sombre s'illuminait par éclairs.
+211867|...Il semblait que la tempête allait très bientôt couper l'île du monde.
+211874|"...Père... !‖  Je vous en prie, rien qu'une fois, montrez à ces irrespectueux la majesté du chef de famille... !"
+211887|"Ça ne va pas......"
+211907|La haute silhouette qui se tenait près de la fenêtre, offrant à leurs regards son dos majestueux,‖ ...répondit d'une voix calme mais ferme.
+211911|Elle baissa légèrement la tête et se mit à trembler.
+211912|...Finalement, ils entendirent un rire étouffé par-dessus son épaule.
+211917|"*ricane*ricane*ricane*ricane*ricane*  Ha ha ha ha ha ha !!
+211920|  Ça ne va pas, ça ne va pas du tout... !!
+211924|  Wah ha ha ha ha ha ha ha ha ha ha !!"
+211929|......Trois mois à vivre... ?‖  Un vieux croulant au bout du rouleau... ?
+211930|De qui parlait-on, au juste ?
+211944|"Bande d'imbéciiiiles !!
+211950|  Tu es venu jusqu'ici sans broncher parce que ton frère et tes sœurs t'ont menacé ?‖  N'as-tu donc pas honte !!"
+211959|Quand Kinzo se retourna d'un mouvement de cape, celle-ci fendit avec force l'air vicié de la pièce.
+211960|Ce souffle incarnait véritablement la majesté et la volonté d'Ushiromiya Kinzo.
+211973|Il n'y aurait rien eu d'étrange à ce que Krauss, comme balayé par ce souffle, tombe sur les fesses.
+211980|Comme pour prendre soin de Krauss, qui semblait avoir les jambes coupées, Natsuhi s'accroupit à son tour.
+211990|Alors,
+211992|...*boum*,
+211994|...*boum*,
+211996|les pas de Kinzo, d'une lourdeur qui disait toute sa dignité, se rapprochèrent.
+212008|"...P-Père......"
+212018|"Espèèèèèce d'imbécile... !!‖  Kanon m'a tout raconté.  Jusqu'où t'es-tu lamentablement laissé mener par le bout du nez par ton frère et tes sœurs ?!?!"
+212025|"P-Père... !‖  Mon mari fait de son mieux pour protéger votre honneur..."
+212032|Sans prêter l'oreille aux paroles de Natsuhi, Kinzo tendit la main vers le col de Krauss, toujours assis par terre.
+212049|...Non, il replia les doigts, ne laissant dépasser que l'index, puis, de ce doigt...
+212050|il appuya contre le col de Krauss,
+212052|...le tordit,
+212054|.........et lentement,
+212056|d'un seul doigt,
+212058|...souleva Krauss dans les airs.
+212070|"...Tu es vraiment un imbécile pathétiiiiiique.‖  ...Tu laisses ta femme parler pour te défendre ?‖  Si tu as une excuse, donne-la toi-même !!"
+212075|"Gargh, .........gwah... !!"
+212079|Krauss battait l'air des pieds.
+212083|Le doigt musclé de Kinzo l'étranglait.
+212084|Il ne pouvait même pas ouvrir la bouche, encore moins parler.
+212087|Cela dit, même s'il avait pu ouvrir la bouche, ‖dans l'état où il était, il n'aurait jamais pu trouver une excuse capable de satisfaire Kinzo...
+212091|Mais tout de même, ...comment décrire une telle force... ?
+212092|Personne, après avoir vu cette force surhumaine, n'aurait osé traiter Kinzo de vieillard...
+212099|"...Père... !!‖  Mon mari s'est battu à sa manière... !!‖  Je vous en prie, pardonnez-lui... !!"
+212105|"......Natsuhii.‖  ...Se battre, c'est le chemin qu'on parcourt jusqu'à la victoire.‖  ...Le chemin qu'on parcourt jusqu'à la défaite, ça ne s'appelle pas se battre."
+212115|"Ça s'appelle être pitoyable !!‖  Wah ha ha ha ha ha ha ha, et c'est cela, mon successeur ?‖  Wah ha ha ha ha ha ha, wah ha ha ha ha ha ha ha ha ha haaaaaah !!"
+212119|Dans le grondement du tonnerre, Kinzo riait à gorge déployée, comme si rien au monde ne pouvait être plus plaisant.
+212122|Et quand il eut fini de rire, il jeta son fils comme un vulgaire bout de papier,‖ et le projeta contre le mur...
+212152|"Gwah, ...uuuuuuuuu..."
+212159|"Chéri, chéri... !!  Tenez bon..."
+212163|Krauss glissa le long du mur en se frottant la gorge, l'air de souffrir...‖  Natsuhi accourut auprès de lui pour le soigner...
+212166|Mais sans manifester le moindre intérêt pour eux deux, ‖Kinzo retourna près de la fenêtre, comme s'il ne l'avait jamais quittée, et leva les yeux vers les nuages d'orage, lourds de malheur.
+212178|"......Je pensais que je n'aurais aucun regret dans ma vie, si seulement je pouvais revoir Beatrice,‖ mais il semble que les choses ne se passeront pas si facilement.‖  ...Il était convenu dès le début que rien de ce que j'ai reçu de la sorcière ne resterait.‖  Cependant, le nom d'Ushiromiya n'appartient pas à la sorcière.‖  ...Qui est digne d'hériter de ce nom ?‖  Il semble que cela, au moins, je doive le régler de mes propres mains.‖  ...Réjouis-toi, Krauss !!‖  J'ai changé d'avis."
+212187|"......P-Père...‖  ......Alors... ?"
+212196|"Je n'ai aucune envie de dîner avec des lâches de votre espèce.‖  Mais j'assisterai à la conférence familiale qui suivra !"
+212210|"P-Père...‖  Merci infiniment... !"
+212218|"Là, je ferai une annonce capitale concernant la succession du chef de famille.‖  Je réglerai moi-même vos querelles stupides !!‖  Ouh ha ha ha ha ha ha ha, waaah ha ha ha ha ha ha ha ha ha ha !!!"
+212260|La porte s'ouvrit avec fracas, et Rosa entra en trombe avec Maria.
+212266|"Genji-san ou quelqu'un est là... ?!‖  Peu importe qui, apportez-nous une serviette de bain... !!"
+212276|Dehors, le typhon soufflait déjà à pleine puissance, et une pluie battante commençait à tomber.
+212277|Même si elle avait un parapluie, Maria était restée dans la roseraie tout ce temps, au milieu du vent et de la pluie.
+212280|Elle était glacée jusqu'aux os.
+212290|Maria s'était un peu disputée avec Rosa dans la roseraie, et celle-ci lui avait ordonné de rester là.
+212296|...Elle avait obéi et avait continué d'attendre à cet endroit, même quand la pluie s'était mise à tomber à verse.
+212302|Certes, Rosa s'était un peu emportée sous le coup de l'émotion, ‖mais le caprice obstiné de Maria était sans doute davantage à blâmer.
+212305|...Les cousins, qui avaient assisté à cette scène,‖ furent soulagés de voir la mère et l'enfant de nouveau blotties l'une contre l'autre.
+212314|Rosa frictionnait la tête de Maria avec une serviette.
+212315|Elle semblait morte d'inquiétude à l'idée que Maria ait pris froid, mais l'intéressée, elle, était parfaitement insouciante.
+212325|"Ça va ?‖  Tu n'as pas pris froid, au moins ?‖  On devrait peut-être retourner te changer d'abord..."
+212332|"Uu-, Maria va très bien !‖  Et puis Maria a faim, alors manger, c'est mieux que se changer, uu- !"
+212342|"Ha ha ha ha.‖  Elle a l'air d'aller bien, Tante Rosa.‖  Avec autant d'énergie, c'est forcément le cas."
+212348|"C'est vraiment une bonne chose qu'elle ait eu un parapluie.‖  ...Je me disais qu'elle serait peut-être trempée jusqu'aux os.
+212354|  Qu'elle ait eu un parapluie, c'est déjà une chance dans son malheur."
+212362|"Mais Maria !‖  Même avec un parapluie, faut que t'ailles t'abriter quand il pleut aussi fort, d'accord ?‖  Les filles doivent jamais, jamais prendre froid."
+212369|"......Uu-."
+212377|"Ce n'est rien, Jessica-chan.
+212382|  ...C'est la faute de Maman, qui lui a dit de rester là.‖  Pardon, vraiment pardon... !!"
+212388|"Uu- !‖  Maria a été sage ?‖  Maria a été sage parce qu'elle a fait ce que Maman a dit ?‖  Maria est restée même s'il faisait froid, elle est restée jusqu'à ce que Maman vienne !‖  Uu-uu- !"
+212394|"Oui, tu as vraiment été très sage, Maria.‖  Tu as fait exactement ce que Maman t'avait dit...‖  C'est très bien.
+212400|  Mais la prochaine fois, même si Maman te dit quelque chose, va t'abriter s'il se met à pleuvoir comme ça.‖  D'accord... ?‖  Promets-le à Maman."
+212408|"Uu-.‖  Promis à Maman.‖  ...Uu-☆"
+212414|Rosa, serrant tendrement Maria contre elle, croisa son petit doigt avec le sien pour sceller leur promesse.
+212415|Battler et les autres sentirent bien qu'au contact du petit doigt de sa mère, ‖la chaleur revenait dans le corps de Maria.
+212424|"Kanon-kun, merci pour la serviette.‖  Tu m'as rendu un grand service."
+212431|"...Alors, si vous voulez bien m'excuser."
+212438|S'inclinant avec une expression neutre, comme s'il n'avait rien fait qui mérite des remerciements, Kanon quitta le salon.
+212445|"...Allez, c'est déjà l'heure du dîner.‖  Allons-y tous ensemble.‖  ...Et Maman donnera même son dessert à Maria, parce qu'elle a été si sage."
+212451|"Uu- !‖  C'est vrai, Maman ?!
+212459|  Uu-uu-, Maria aura du dessert, uu-uu-uu-♪‖  Maria aime Maman, Maria aime Maman !"
+212465|"Allons, Maria, ne saute pas partout.
+212471|  Maman t'aime aussi, Maria.‖  Maman aime Maria, Maman aime Maria."
+212477|"Maria aussi aime Maman, aime Maman !‖  Uu-uu-uu-uu- !"
+212484|"Uu-uu-uu-uu-♪"
+212488|Rosa et Maria semblaient vraiment complices.‖  Même les cousins qui les regardaient sentirent une chaleur depuis longtemps oubliée leur monter au cœur.
+212497|"...Tu sais, c'est peut-être à cet âge-là qu'on s'entend le mieux avec ses parents."
+212504|"Pas chez moi.‖  Maman passait son temps à me hurler de réviser, réviser, réviser."
+212510|"C'est parce qu'ils aiment leurs enfants.‖  L'amour d'un parent n'est pas toujours doux et indulgent.
+212516|  Ma mère aussi était sévère avec moi, mais maintenant, je comprends que c'était parce que je comptais beaucoup pour elle."
+212525|"Uu-uu-uu- !‖  Maria aime Maman, Maria aime Maman !"
+212531|"Maman aime Maria, Maman aime Maria♪  Bon, on va manger ?‖  Main dans la main, comme deux amies."
+212538|"Uu- !‖  Main dans la main, comme deux amies !‖  Maman et Maria, amies, amies♪"
+212544|"Oui, c'est ça.‖  Maman et Maria sont amies.‖  Pour toujouuurs, comme ça.‖  Je t'aime, Maria..."
+212565|"......Qu'est-ce qui te prend, tout d'un coup ?‖  ...Qu'est-ce qu'il y a ?"
+212569|Ce bruit soudain venait de la tasse que tenait Gretel, qui était tombée et s'était brisée.
+212577|"......Pardon.‖  J'étais distraite.‖  Désolée de l'avoir fait tomber."
+212581|La tasse, sur le sol, avait volé en éclats.
+212584|...Une tasse tombée de cette hauteur aurait-elle vraiment fait un tel bruit et volé en éclats ?
+212588|Même quelqu'un d'aussi obtus que Battler pouvait deviner qu'elle était de mauvaise humeur pour une raison ou une autre,‖ mais il ne comprenait pas pourquoi elle était soudain devenue si maussade.
+212595|Alors qu'elle se penchait pour ramasser les morceaux de la tasse, Ronove apparut de nulle part et l'en empêcha.
+212602|"Vous allez vous blesser.‖  Laissez-moi m'occuper du ménage.‖  Puis-je vous apporter une autre tasse de thé... ?"
+212609|"...Pas la peine.‖  ......On dirait que le thé d'un démon n'est pas à mon goût."
+212616|"Oh.‖  Dire qu'il existe quelqu'un que même le thé de Ronove ne satisfait pas.‖  Je rends hommage à ton palais exigeant."
+212623|"......Je commence à m'ennuyer, je sors un instant."
+212630|"T'ennuyer ?‖  Attends une seconde, c'est maintenant que ça devient intéressant.
+212636|  À ce moment-là, Maria va sûrement encore dire qu'elle a reçu un parapluie et une lettre de Beatrice, pas vrai ?‖  C'est la partie essentielle..."
+212642|"Excuse-moi.‖  Désolée, je te laisse t'occuper du ménage."
+212651|"Comptez sur moi."
+212660|Sans rien ajouter, Gretel disparut de son propre chef.‖  Sa silhouette se dissipa littéralement dans le vide...
+212663|Il y avait bel et bien de la contrariété sur son visage.
+212666|Mais ni Battler ni Ronove, et bien sûr pas davantage Beato, ne comprenaient pourquoi son humeur s'était si brusquement assombrie.
+212669|Il ne restait plus que le parfum du thé qu'elle avait renversé...
+212691|......Ça ne me plaît pas.
+212694|Non, pour parler franchement, ça me donne la nausée.
+212704|"Uu-... ?‖  ...Pourquoi t'es si énervée, Ange... ?"
+212714|"Pourquoi, tu dis ?!‖  C'est évident, non... ?"
+212721|"Uu-.‖  ...Maria comprend pas..."
+212725|Même Maria onee-chan, avec son air ahuri, ...m'énerve.
+212733|Quand j'ai tendu les mains, paumes vers le haut, dans le vide, un livre est venu s'y poser, surgi de nulle part.
+212736|......C'est le journal de Maria onee-chan.
+212752|Sans que j'aie à les tourner, les pages se sont mises à défiler alors qu'il n'y avait pas un souffle de vent,‖ et la porte du monde de Maria onee-chan s'est ouverte.
+212761|"...Pourquoi tu crois que Maria n'est pas heureuse, Ange ?"
+212767|"......Juge objectivement."
+212773|"Objectivement, ça veut dire de ton point de vue à toi, c'est ça ?"
+212779|".........
+212784|...Tu veux dire que la vérité n'est pas la même pour moi et pour toi, Maria onee-chan ?"
+212790|"La vérité peut changer de forme selon l'observateur.‖  Et les observateurs du futur réécrivent toujours cette forme.‖  ......Ange, qu'est-ce que tu veux faire du bonheur de Maria... ?"
+212796|"............"
+212800|Les pages du journal défilaient de plus en plus vite...‖  Puis une lumière éblouissante jaillit des profondeurs du journal, ...engloutissant tout et recouvrant tout de blanc.
+212827|"......Pardon, Maria.‖  Maman a plein de travail urgent à terminer, alors elle va devoir rester enfermée au bureau un moment.‖  ...Je ne pourrai sans doute pas rentrer avant tard dans la nuit, après-demain."
+212832|"...Uu-.‖  ...Alors, et la promesse d'aller au cinéma avec Maria dimanche... ?"
+212836|"Le cinéma... ?‖  Euh-"
+212843|Au ton de Rosa, il était évident qu'elle avait oublié cette promesse.
+212844|Mais la réponse de Maria fut de s'excuser d'avoir posé la question...
+212847|......Pardon.
+212850|Maria s'excusa d'avoir embêté sa mère avec cette question...
+212856|"......Maria va garder la maison.‖  Maria attendra bien sagement.‖  ...Maria prendra un bain tous les jours et changera de culotte.‖  ...Et Maria sait où est l'argent.‖  ......Maria ira dans un magasin différent chaque jour.‖  Maria essaiera de pas sortir trop tard.‖  Si un policier demande, Maria dira qu'elle fait des courses pour Maman.‖  ...Maria fera ce que Maman a dit, comme Maman a dit."
+212860|"............‖...C'est bien.‖  Tu es vraiment une gentille fille.‖  Si tu fais tout ça, je te rapporterai un cadeau.‖  D'accord ?‖  Couche-toi avant 21 h.‖  Il ne faut pas dire à la maîtresse ni à aucun adulte que Maman ne rentre pas.‖  D'accord... ?"
+212864|".........Oui.‖  ...Alors Maman, travaille bien.‖  ...Travaille bien, finis ton travail, ...et rentre le plus vite possible...‖  Maria...pleurera plus toute la nuit en embêtant les voisins...‖  ...Alors rentre vite......"
+212868|"......‖...Bon, je suis occupée, je vais raccrocher.‖  ...Sois sage en m'attendant.‖  Ne fais pas de bêtises.‖  Au revoir."
+212875|*clic*.‖  ...D'un ton qui coupait court, Rosa raccrocha sans attendre la réponse de Maria.
+212881|Maria reposa sagement le combiné et retourna sur le canapé.
+212882|Là était assise la peluche Sakutarou, avec qui elle regardait la télé une seconde plus tôt.
+212888|Sakutarou tenait la télécommande de la télé.
+212889|...Elle avait éteint la télé à cause du coup de téléphone.
+212892|Il avait l'air de lui demander d'appuyer sur le bouton, parce qu'il voulait vite regarder la télé de nouveau.
+212901|"......Sakutarou,‖ ...tu veux regarder...la télé ?"
+212903|『...Uryu ?‖  Tu veux plus regarder, Maria... ?‖  Si l'équipe des comédiens répond juste à toutes les questions, ils peuvent encore remonter.‖  Uryu- !』
+212909|"......Non.‖  ......Maria veut plus...de télé."
+212915|Encore une fois, ...Maman était trop occupée par son travail et ne rentrerait pas.
+212920|Maman fait tellement d'heures supplémentaires qu'elle ne rentre que tard dans la nuit.
+212923|...Parce qu'elle a des `rendez-vous', ou un truc comme ça, elle rentre toujours après avoir bu beaucoup d'alcool, alors qu'elle le supporte mal,‖ et, toute pâle, elle file droit sous la douche puis au lit.
+212926|Et parce qu'elle a des heures supplémentaires même le week-end, ou un truc comme ça, elle dit qu'elle doit passer la nuit là-bas, et elle ne rentre presque jamais.
+212929|...Ces derniers temps, elle s'est mise à dire qu'elle avait un gros projet en cours, alors ça arrive souvent...
+212934|...Les dessins que Maria s'était appliquée à faire en cours d'arts plastiques, tout le monde s'en était moqué,‖ mais Maria voulait quand même les montrer à Maman, rien qu'à elle, ...et encore une fois, elle ne pourra pas les regarder.
+212937|Et puis Maria pourrait raconter la fois où tout le monde lui avait laissé le ménage, mais où elle s'était appliquée toute seule et où la maîtresse l'avait félicitée.
+212940|Ou la fois où, en faisant les courses, le monsieur du magasin avait dit que Maria était toujours bien sage et lui avait offert une canette de café.
+212943|Et puis la fois où Maria avait voulu encourager Maman, qui travaillait si dur...‖et avait caché une carte pour elle sous son oreiller.
+212947|"......Et il y a plein...d'autres choses...que Maria voulait raconter."
+212954|『......Maman travaille vraiment très dur.‖  Elle travaille de toutes ses forces pour qu'on puisse manger tous les jours.』
+212958|"...Maria déteste son travail.‖  ...Maman a qu'à arrêter."
+212965|『Le travail, c'est quelque chose d'important pour les grands.‖  ...C'est grâce à ça que Maria peut manger, ‖qu'on achète des vêtements, ‖qu'on paie la cantine, ‖et qu'on paie l'acompte de la colonie d'été.‖  ...Tout ça, c'est parce que Maman travaille et gagne de l'argent.』
+212969|".........‖...Maria veut pas manger.‖  Veut pas de vêtements.‖  Veut pas de cantine et veut pas aller en colonie.‖  ...De toute façon, aucun groupe veut de Maria."
+212976|『Uryu...‖  ...Tout à l'heure, au téléphone, Maman a promis de rapporter un cadeau en rentrant du travail, pas vrai ?‖  Moi, je crois qu'elle a fait cette promesse parce que tu comptes beaucoup pour elle, Maria, ‖et qu'elle s'en veut de te laisser toute seule.』
+212983|"...Tu crois ?"
+212993|『Uryu !‖  Si ça l'embêtait ou si ça l'ennuyait, elle le ferait pas !‖  ...Maman aussi voudrait être tout le temps à côté de toi, Maria.‖  ...Et ça lui fait de la peine et ça la rend triste, de pas pouvoir.‖  ......Moi, je me souviens de la nuit où elle est restée toute la nuit à côté de toi, en pleurant.』
+213000|"......Oui.‖  ...Maria comprenait pas pourquoi elle pleurait, ...mais elle était si triste,‖ ...et Maria pouvait rien faire d'autre que rester sans rien dire à côté d'elle."
+213006|『Moi, je me souviens de la dernière chose que Maman a dite ce soir-là.‖  ...Elle a dit `Merci, Maria'.‖  ......Elle a dit que rien qu'en restant à côté d'elle, tu étais sa seule alliée au monde.‖  ...Uryu, tu te souviens ?』
+213012|"Oui...‖  ......Maria est sa seule alliée au monde,
+213014|...elle a dit."
+213021|Sakutarou posa la télécommande sur la table, grimpa tant bien que mal sur le canapé,‖ s'assit sur mes genoux, ...et me parla en me regardant dans les yeux.
+213025|『...Maman, c'est sûrement pareil que toi, Maria.‖  ......Les dessins que fait Maman, il n'y a que ceux-là dont les clients se moquent.‖  ...Il n'y a que l'entreprise de Maman à qui les autres entreprises refilent les boulots pénibles.‖  Maman est la présidente, alors elle doit tout régler toute seule.‖  ...Il n'y a que l'entreprise de Maman que les autres n'invitent jamais à travailler avec elles.‖  ......La seule alliée de Maman, c'est Maria.‖  ...Si tu lui dis d'arrêter son travail, ...où est-ce qu'elle pourra trouver une alliée dans le monde entier......?』
+213031|"......Mmh, ‖......Sakutarou..."
+213035|『Moi, dans le monde entier, je n'ai que Maria.‖  ...Maman, dans le monde entier, n'a que Maria.‖  ......Et toi, Maria ?』
+213041|"...Maria a Maman, et elle t'a toi aussi, Sakutarou..."
+213051|『Alors, Maria, tu n'es pas seule du tout !‖  Uryu !』
+213057|"......Uu-."
+213061|『Comme Maman est très occupée par son travail, elle ne peut pas souvent être avec toi, mais je t'en prie, Maria, ne lui en veux pas.‖  ...En échange, moi, je serai toujours là, à côté de toi, pour toujours.‖  ......Alors ne pleure pas, d'accord... ?‖  ......Uryu...‖  Si je suis avec toi......ça ne suffit pas à arrêter ton chagrin... ?』
+213067|"......Uuu, ...uuuuuuuuuuu, Sakutarou...‖  ...Uuuuuuuuu !!‖  Ouaaaaaaaaah, waaaaaaaaaaaaah..."
+213072|......Par une fissure de son cœur, qu'elle s'était efforcée de colmater, ...les gouttes de chagrin de Maria finirent par couler.‖  ...*plic*ploc*.‖  *ploc*ploc*.
+213073|...*plic*ploc*plic*ploc*.
+213080|...Pourtant, les week-ends où Maman ne rentrait pas n'avaient rien de si rare.
+213081|...Ce n'était pas comme si cette nuit-là était particulièrement douloureuse ou triste par rapport aux autres.
+213084|...Et pourtant, les larmes de Maria coulaient à flots.
+213091|『Uryu-... !‖  Maria, ne pleure pas...‖  Moi, je serai toujours avec toi...‖  Même si tu pleures, Maria, moi, je ne pleurerai pas.‖  Je suis un lionceau, alors je ne pleure pas, même quand je me sens seul.‖  ...Même si moi aussi j'ai envie de pleurer, je ne pleurerai pas... !』
+213095|"Pourquoi tu pleures pas, Sakutarou... ?‖  Même si t'es si triste que t'arrives pas à retenir tes larmes, tu pleures pas... ?"
+213105|『Uryu.‖  Mais si je pleure, qui est-ce qui va te consoler... ?‖  Alors je ne pleure pas.‖  Parce que je veux que tu retrouves le moral.』
+213107|"Si Maria retrouve le moral, ...Maman va rentrer... ?"
+213114|『Quand Maman rentrera, si c'est une Maria toute joyeuse qui l'accueille, ...je suis sûr qu'elle sera contente.‖  Uryu.』
+213116|"...Maman...sera contente... ?"
+213123|『Uryu.‖  Comme ça, je suis sûr que sa fatigue du travail s'envolera aussi.‖  Et alors, je suis sûr qu'elle retrouvera ses forces plus vite et qu'elle jouera beaucoup avec toi.』
+213125|"............"
+213132|『Quand tu rentres à la maison et que Maman t'attend, toute de bonne humeur dans la cuisine, tu te sens vraiment heureuse, non ?‖  Je suis sûr que c'est pareil pour Maman.』
+213134|"...Alors si Maria garde la maison de bonne humeur, ...Maman sera heureuse elle aussi ?"
+213139|『Uryu !』
+213147|Sakutarou hocha profondément sa grosse tête.
+213148|Les larmes ne pouvaient plus couler des yeux de Maria.
+213151|...Si elle accueillait Maman avec un visage baigné de larmes, Maman serait sûrement triste elle aussi.
+213158|『Tu le sais bien, Maria.‖  On ne peut pas utiliser la magie qui fait naître les sourires si on ne sourit pas soi-même.』
+213164|"...Oui.‖  ...Maria le sait.‖  Alors Maria pleurera plus."
+213168|『Dis, Maria.‖  J'ai une idée pour passer un bon moment.‖  ...Uryu, tu veux l'entendre ?』
+213174|"...Quoi ?"
+213180|『Maman ne rentrera pas avant dimanche tard dans la nuit.
+213185|  Alors faisons une soirée pyjama, en secret de Maman.』
+213191|"Une soirée pyjama... ?"
+213198|『Jusqu'à ce que tu sois fatiguée tard ce soir, on mange des bonbons et on boit du soda au lit, et tu joues avec moi.』
+213204|"Une soirée pyjama.‖  ...Oui, ça a l'air amusant.‖  ...Maria est pas obligée de se coucher à 21 h, alors ?‖  Maman se fâchera pas si Maria dort pas ?"
+213208|『C'est un secret entre toi et moi, rien que pour quand Maman n'est pas là.‖  Alors ce soir, jusqu'à ce que tu aies sommeil, on va bien s'amuser tout le temps.‖  On va manger des jelly beans en devinant de quelle couleur sera le prochain.‖  On va ouvrir des cacahuètes en devinant quelle moitié est le papi.‖  On va chercher un trésor dans le placard.‖  Et plein, plein d'autres choses !‖  Je me demande quel goût ça aura, si on mélange du coca et du soda au melon.』
+213216|"Uu-.‖  Maria a toujours voulu essayer une fois, mais elle a demandé à Maman si elle pouvait, et Maman s'est fâchée."
+213220|『Uryu- !‖  Essayons en secret de Maman♪‖  Ce soir, on va beaucoup jouer, beaucoup rire, et chasser nos larmes avec de la bonne humeur.‖  T'inquiète pas, avec moi, ce sera forcément amusant !‖  Je te rendrai forcément heureuse, Maria.』
+213226|"Oui, oui !‖  Avec Sakutarou, ce sera forcément amusant.‖  Maria sera forcément heureuse.‖  Merci, Sakutarou.‖  Maria pleurera plus.‖  On va s'amuser comme des fous, retrouver tout notre entrain, et on dira bon retour à Maman quand elle rentrera."
+213237|『Uryu- !‖  Ce soir, on va beaucoup jouer et se sentir beaucoup mieux♪‖  Faisons le genre de fête secrète qu'on ne peut faire que quand Maman n'est pas là.‖  Si on fait assez de bruit, je suis sûr que plein d'amis viendront jouer depuis le pays de l'autre côté du miroir et le pays des merveilles.‖  Et alors, on aura tellement d'amis qu'on ne pourra plus du tout s'ennuyer.‖  Uryu- !』
+213245|"Uryu- !!"
+213263|...Puis Maria commença sa soirée pyjama, seule avec Sakutarou, et s'amusa jusque tard dans la nuit.
+213268|Elle joua à plonger la main dans le sachet de jelly beans sans regarder, en essayant de deviner quelle couleur elle allait tirer.
+213269|...Sakutarou avait du flair et devina juste souvent.
+213270|Maria réussit aussi un coup d'éclat en devinant juste quatre fois d'affilée.
+213273|Le jeu où il fallait ouvrir des cacahuètes en devinant quelle moitié était le papi...‖était plus facile que de deviner la couleur des jelly beans, alors elle devina juste souvent.
+213277|Sucer ses doigts couverts de sel, ce n'était pas poli, mais c'était le meilleur moment.
+213280|Elle adorait le coca comme le soda au melon, chacun de leur côté.
+213283|Elle espérait qu'en mélangeant ses deux boissons préférées, il y aurait un éclair de lumière, comme en alchimie,‖ et qu'une nouvelle boisson que personne n'avait jamais goûtée serait créée.
+213286|Elle s'enthousiasma à l'idée que, si c'était vraiment délicieux, elle l'appellerait le Soda Sakutarou et le vendrait.
+213290|Mais, contre toute attente, ça avait un drôle de goût, pas du tout celui qu'elle espérait.
+213291|Et la couleur était plutôt terne et trouble.
+213295|...Pas étonnant, peut-être, que du noir mélangé à du vert donne ça.
+213296|...Dommage.  Maria imaginait que ça deviendrait couleur ananas, tout pétillant.
+213301|Mais ce fut une nuit géniale, incroyable, amusante.
+213304|Si on s'amuse autant ici, Maman aura peut-être envie de rentrer et débarquera à l'improviste.
+213307|...Alors, Maria avait l'impression que Maman allait peut-être rentrer d'un coup et alla plusieurs fois vérifier à la porte d'entrée, ‖mais Maman ne risquait pas de pouvoir rentrer, occupée comme elle l'était par son travail.
+213312|Mais plutôt que de la solitude, ‖ce fut juste un peu de déception à l'idée que Maman ne puisse pas se joindre à cette joyeuse fête nocturne.
