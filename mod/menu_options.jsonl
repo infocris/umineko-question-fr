@@ -1,5 +1,16 @@
 {"id": 317423, "line": "lsp seventh_mod_button_first_slot + 36, \":s#FFFFFF^~c4~NOTE: Changing ADV settings clears on-screen text\", 170, 175 : gettextspeed %Free2 : itoa $Free3, %Free2 : mov $Free3, $Free3 + \" ms par lettre\""}
-{"id": 317424, "line": "if %Free2 == 40 mov $Free3, \"lente (touche 1)\""}
-{"id": 317425, "line": "mov %Free1,1 : if %Free2 == 20 mov $Free3, \"normale (touche 2)\""}
-{"id": 317426, "line": "mov %x, 170 : if %Free2 == 0 mov $Free3, \"rapide (touche 3)\""}
-{"id": 317427, "line": "mov %y, 225 : lsp seventh_mod_button_first_slot + 37, \":s#FFFFFF^~c4~Vitesse du texte : \" + $Free3, 170, 200"}
+{"id": 317424, "line": "if %Free2 == 40 mov $Free3, \"lente\""}
+{"id": 317425, "line": "mov %Free1,1 : if %Free2 == 20 mov $Free3, \"normale\""}
+{"id": 317426, "line": "mov %x, 170 : if %Free2 == 8 mov $Free3, \"rapide\""}
+{"id": 317427, "line": "mov %y, 225 : if %Free2 == 0 mov $Free3, \"instantanée\""}
+{"id": 317428, "line": "lsp seventh_mod_button_first_slot + 37, \":s#FFFFFF^~c4~Vitesse du texte : \" + $Free3 + \"\", 170, 200"}
+{"id": 317445, "line": "mov $Free1, \":s#C7C7C7#FFFFFF^~c4~Vitesse du texte (changer)^\" : gosub *createModTextButtonAndMoveNext"}
+{"id": 317461, "line": "if %BtnRes = 12 inc %3550 : gosub *fr_apply_speed : goto *seventh_menu_loop"}
+{"id": 343131, "line": "*fr_apply_speed"}
+{"id": 343132, "line": "if %3550 > 4 mov %3550, 1"}
+{"id": 343133, "line": "if %3550 == 1 textspeed 40"}
+{"id": 343134, "line": "if %3550 == 2 textspeed 20"}
+{"id": 343135, "line": "if %3550 == 3 textspeed 8"}
+{"id": 343136, "line": "if %3550 == 4 textspeed 0"}
+{"id": 343137, "line": "return"}
+{"id": 343288, "line": "gosub *fr_apply_speed"}
