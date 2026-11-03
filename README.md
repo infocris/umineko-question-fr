@@ -10,7 +10,8 @@ Only the text changes.
 |---|---|
 | Episode 1 (*Legend of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
 | Episode 2 (*Turn of the Golden Witch*), Tea Party, ???? | translated, reviewed against the Japanese |
-| Episodes 3 and 4 | still in English |
+| Episode 3 (*Banquet of the Golden Witch*), Tea Party, ???? | translated (Japanese used as reference), not yet reviewed against the Japanese |
+| Episode 4 (*Alliance of the Golden Witch*), Tea Party, ???? | translated (Japanese used as reference), not yet reviewed against the Japanese |
 | Menus, buttons, title screen, date and notice screens | translated (388 images) |
 | Character profiles and Tips pages | translated (from OCR of the English pages) |
 
@@ -48,6 +49,7 @@ mod/                     everything tied to the 07th-mod script
 work/
   chunks/                Episode 1 translation batches (original, unpatched script)
   ep2/                   Episode 2 and Tea Party batches (07th-mod script)
+  ep3/, ep4/             Episode 3 and 4 batches, with their Tea Parties
   pages/fr/              character profile / Tips page texts, one file per page
 review/                  review against the Japanese: batches, justified fixes, reviewer brief
 patch/                   French images, laid out like the game folder (en/…, bmp/…)
