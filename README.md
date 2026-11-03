@@ -4,6 +4,10 @@ An amateur French translation of *Umineko When They Cry – Question Arcs* (Stea
 top of the [07th-mod](https://07th-mod.com/) patch: the PS3 voices and graphics stay in place.
 Only the text changes.
 
+[![Example video: the French translation in-game](https://i.ytimg.com/vi/pvG1k11rfYA/hqdefault.jpg)](https://www.youtube.com/watch?v=pvG1k11rfYA)
+
+[Example video on YouTube](https://www.youtube.com/watch?v=pvG1k11rfYA): the French translation in-game.
+
 **Status**
 
 | Part | State |
