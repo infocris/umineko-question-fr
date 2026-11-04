@@ -1,0 +1,4071 @@
+{
+ "_doc": "Dictionnaire phonétique des mots étrangers de la traduction (épisodes 1-8) pour un moteur TTS français. prononciation = graphie à substituer, lisible par une voix française ; api = transcription API (japonais : prononciation d'origine). lecture_francaise = la lecture française par défaut est la bonne. occurrences : Q = épisodes 1-4, R = épisodes 5-8. Généré par tools/mkphonetique.py depuis tools/phonetique.tsv.",
+ "regles": [
+  {
+   "nom": "Balises du script",
+   "motif": "#[0-9a-fA-F]{6}|</?i>|~ib~|\\{[^}]*\\}",
+   "action": "supprimer avant synthèse (couleurs des vérités rouge/bleue/violette/dorée, italique, marques internes)."
+  },
+  {
+   "nom": "Kanji entre parenthèses",
+   "motif": "\\s*[（(][　-鿿＀-￯]+[)）]",
+   "action": "supprimer : le texte donne parfois le kanji après la lecture, ex. « Belne (鐘音) »."
+  },
+  {
+   "nom": "Caractères pleine chasse",
+   "motif": "[！-～]",
+   "action": "normaliser en NFKC (« Ｅｘｅｃｕｔｅｄ » → « Executed »), puis lire en anglais."
+  },
+  {
+   "nom": "Passages en langue étrangère",
+   "motif": "<[^<>]+>|『[^』]*』",
+   "action": "le texte entre < > est en anglais (ou en italien pour Bice), celui entre 『 』 en italien : basculer la voix dans cette langue (SSML <lang xml:lang=\"en-US\"> / \"it-IT\"), ou garder la voix française si le moteur ne le permet pas."
+  },
+  {
+   "nom": "Guillemets de citation",
+   "motif": "`([^`']+)'",
+   "action": "`mot' marque un mot cité ou une pensée : retirer les signes, garder le mot."
+  },
+  {
+   "nom": "Honorifiques après trait d'union",
+   "motif": "(?<=-)(san|chan|sama|kun|senpai|sensei|nii|nee)\\b",
+   "action": "lire le suffixe à part avec l'entrée correspondante (Battler-san → « Batlèr sann ») ; « san » ne doit jamais devenir « sans »."
+  },
+  {
+   "nom": "Lettres étirées",
+   "motif": "([^\\W\\d_])\\1{2,}",
+   "action": "cris et appels étirés (Battleeeer, Beatriiiice, Geooorge) : réduire la répétition à une lettre pour retrouver l'entrée (Battler), puis allonger la syllabe par la prosodie (SSML <prosody rate=\"slow\">) plutôt qu'en épelant."
+  },
+  {
+   "nom": "Mots en capitales",
+   "motif": "\\b[A-ZÀ-Ý]{3,}\\b",
+   "action": "les capitales marquent un cri ou l'insistance de Dlanor (EVA, KNOX, PAS) : lire comme le mot en minuscules. Seuls les sigles ci-dessous s'épellent."
+  },
+  {
+   "nom": "Sigles à épeler",
+   "motif": "\\b(GHQ|SSVD|RSI|KGB|VIP|PDG|CQFD|SOS|CD|UV|SARL|IME|CP|FDT|DZL)\\b",
+   "action": "épeler lettre par lettre (NASA et OK se lisent comme des mots)."
+  }
+ ],
+ "onomatopees": [
+  {
+   "motif": "[Uu]u+-?",
+   "lecture": "Ouu",
+   "note": "tic de Maria (うー) : « ou » prolongé, jamais « u » français",
+   "occurrences": 1152
+  },
+  {
+   "motif": "[Uu]ryu+",
+   "lecture": "Ouryou",
+   "note": "tic de Sakutarou",
+   "occurrences": 200
+  },
+  {
+   "motif": "[Kk]ih+i(?:h?hi)*",
+   "lecture": "Ki-hi-hi",
+   "note": "rire de Beatrice (h expiré)",
+   "occurrences": 168
+  },
+  {
+   "motif": "[Ii]hi(?:hi)*",
+   "lecture": "I-hi-hi",
+   "note": "ricanement (h expiré)",
+   "occurrences": 75
+  },
+  {
+   "motif": "[Nn]ihi(?:hi)*",
+   "lecture": "Ni-hi-hi",
+   "note": "rire de Lambdadelta",
+   "occurrences": 34
+  },
+  {
+   "motif": "[Kk]yaha(?:ha)*",
+   "lecture": "Kya-ha-ha",
+   "note": "rire aigu",
+   "occurrences": 7
+  },
+  {
+   "motif": "[Kk]ya+h?",
+   "lecture": "Kyah",
+   "note": "petit cri",
+   "occurrences": 66
+  },
+  {
+   "motif": "[Hh]ya+h?",
+   "lecture": "Hyah",
+   "note": "cri d'effort",
+   "occurrences": 123
+  },
+  {
+   "motif": "[Gg]ya+h*",
+   "lecture": "Guyah",
+   "note": "cri de douleur",
+   "occurrences": 41
+  },
+  {
+   "motif": "[Kk]u+h",
+   "lecture": "Kouh",
+   "note": "grimace (くっ)",
+   "occurrences": 25
+  },
+  {
+   "motif": "[Ff]u+h?",
+   "lecture": "Fouh",
+   "note": "soupir, rire bref",
+   "occurrences": 39
+  },
+  {
+   "motif": "[Gg]uh",
+   "lecture": "Gouh",
+   "note": "grognement",
+   "occurrences": 10
+  },
+  {
+   "motif": "[Uu]kyu+",
+   "lecture": "Oukyou",
+   "note": "petit cri plaintif",
+   "occurrences": 6
+  },
+  {
+   "motif": "[Kk]yu+",
+   "lecture": "Kyou",
+   "note": "petit cri",
+   "occurrences": 12
+  },
+  {
+   "motif": "[Aa]u(?:au)+",
+   "lecture": "Aou-aou",
+   "note": "bredouillement (あうあう)",
+   "occurrences": 5
+  },
+  {
+   "motif": "[Aa]wa(?:wa)+",
+   "lecture": "Awa-wa",
+   "note": "panique (あわわ)",
+   "occurrences": 7
+  },
+  {
+   "motif": "[Nn]+[gh]+",
+   "lecture": "Nngh",
+   "note": "gémissement : souffle nasal, ne pas épeler",
+   "occurrences": 140
+  },
+  {
+   "motif": "[Hh]m+[hpf]*",
+   "lecture": "Hmm",
+   "note": "réflexion ou dédain (Hmph, Hmpf)",
+   "occurrences": 390
+  },
+  {
+   "motif": "[Tt]ch",
+   "lecture": "Tch",
+   "note": "claquement de langue (ちっ)",
+   "occurrences": 33
+  },
+  {
+   "motif": "[Nn]yeh|[Nn]ihe",
+   "lecture": "Nyé",
+   "note": "tic de Chiester 410",
+   "occurrences": 70
+  },
+  {
+   "motif": "[Ww]a+h+",
+   "lecture": "Wah",
+   "note": "surprise",
+   "occurrences": 188
+  }
+ ],
+ "entrees": [
+  {
+   "graphie": "Ushiromiya",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Ouchiromiya",
+   "api": "ɯɕiɾomija",
+   "occurrences": {
+    "Q": 711,
+    "R": 677
+   }
+  },
+  {
+   "graphie": "Rokkenjima",
+   "section": "Personnages, noms japonais",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Rokkénndjima",
+   "api": "ɾokkeɴdʑima",
+   "occurrences": {
+    "Q": 218,
+    "R": 262
+   }
+  },
+  {
+   "graphie": "Kinzo",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Kinnzô",
+   "api": "kinzoː",
+   "note": "金蔵 Kinzō",
+   "occurrences": {
+    "Q": 701,
+    "R": 795
+   }
+  },
+  {
+   "graphie": "Krauss",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Kraouss",
+   "api": "kɾaɯsɯ",
+   "note": "クラウス : à l'allemande, pas « Krôss »",
+   "occurrences": {
+    "Q": 477,
+    "R": 401
+   }
+  },
+  {
+   "graphie": "Natsuhi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Natsouhi",
+   "api": "natsɯçi",
+   "occurrences": {
+    "Q": 583,
+    "R": 920
+   }
+  },
+  {
+   "graphie": "Jessica",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Djèssika",
+   "api": "dʑesika",
+   "note": "ジェシカ, prénom anglais",
+   "occurrences": {
+    "Q": 903,
+    "R": 422
+   }
+  },
+  {
+   "graphie": "Eva",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Éva",
+   "api": "eva",
+   "occurrences": {
+    "Q": 823,
+    "R": 453
+   }
+  },
+  {
+   "graphie": "Hideyoshi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Hidéyochi",
+   "api": "çidejoɕi",
+   "occurrences": {
+    "Q": 296,
+    "R": 132
+   }
+  },
+  {
+   "graphie": "George",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Djordj",
+   "api": "dʒɔʁdʒ",
+   "note": "prénom anglais (譲治 Jōji), pas « Georges »",
+   "occurrences": {
+    "Q": 780,
+    "R": 443
+   }
+  },
+  {
+   "graphie": "Rudolf",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Roudolf",
+   "api": "ɾɯdoɾɸ",
+   "occurrences": {
+    "Q": 230,
+    "R": 265
+   }
+  },
+  {
+   "graphie": "Kyrie",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Kirié",
+   "api": "kiɾie",
+   "note": "霧江 Kirie",
+   "occurrences": {
+    "Q": 428,
+    "R": 253
+   }
+  },
+  {
+   "graphie": "Battler",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Batlèr",
+   "api": "batlɛʁ",
+   "note": "戦人 Batora ; « Bat-lère », pas « Bateur »",
+   "occurrences": {
+    "Q": 1024,
+    "R": 1715
+   }
+  },
+  {
+   "graphie": "Rosa",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Roza",
+   "api": "ɾoza",
+   "occurrences": {
+    "Q": 979,
+    "R": 202
+   }
+  },
+  {
+   "graphie": "Maria",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "lecture française",
+   "occurrences": {
+    "Q": 2145,
+    "R": 535
+   }
+  },
+  {
+   "graphie": "Ange",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "縁寿 Enje : garder la lecture française « Ange » [ɑ̃ʒ], aucune substitution",
+   "occurrences": {
+    "Q": 438,
+    "R": 967
+   }
+  },
+  {
+   "graphie": "Genji",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Guénndji",
+   "api": "ɡeɴdʑi",
+   "occurrences": {
+    "Q": 479,
+    "R": 307
+   }
+  },
+  {
+   "graphie": "Ronoue",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Ronoué",
+   "api": "ɾonoɯe",
+   "note": "源次 Ronoue Genji",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Shannon",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Chanonn",
+   "api": "ɕanoɴ",
+   "note": "紗音",
+   "occurrences": {
+    "Q": 902,
+    "R": 475
+   }
+  },
+  {
+   "graphie": "Kanon",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Kanonn",
+   "api": "kanoɴ",
+   "note": "嘉音 ; éviter le « on » nasal",
+   "occurrences": {
+    "Q": 1028,
+    "R": 394
+   }
+  },
+  {
+   "graphie": "Gohda",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Gôda",
+   "api": "ɡoːda",
+   "note": "郷田",
+   "occurrences": {
+    "Q": 391,
+    "R": 207
+   }
+  },
+  {
+   "graphie": "Toshiro",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Toshirô",
+   "api": "toɕiɾoː",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Kumasawa",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Koumassawa",
+   "api": "kɯmasawa",
+   "occurrences": {
+    "Q": 312,
+    "R": 190
+   }
+  },
+  {
+   "graphie": "Chiyo",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Tchiyo",
+   "api": "tɕijo",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Nanjo",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Nanndjô",
+   "api": "naɴdʑoː",
+   "note": "南條",
+   "occurrences": {
+    "Q": 395,
+    "R": 155
+   }
+  },
+  {
+   "graphie": "Terumasa",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Téroumassa",
+   "api": "teɾɯmasa",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Amakusa",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Amakoussa",
+   "api": "amakɯsa",
+   "occurrences": {
+    "Q": 39,
+    "R": 41
+   }
+  },
+  {
+   "graphie": "Okonogi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Okonogui",
+   "api": "okonoɡi",
+   "occurrences": {
+    "Q": 24,
+    "R": 26
+   }
+  },
+  {
+   "graphie": "Kasumi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Kassoumi",
+   "api": "kasɯmi",
+   "occurrences": {
+    "Q": 73,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Sumadera",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Soumadéra",
+   "api": "sɯmadeɾa",
+   "occurrences": {
+    "Q": 53,
+    "R": 26
+   }
+  },
+  {
+   "graphie": "Ootsuki",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Ôtsouki",
+   "api": "oːtsɯki",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Kawabata",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Kawabata",
+   "api": "kawabata",
+   "occurrences": {
+    "Q": 1,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Yasu",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Yassou",
+   "api": "jasɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 84
+   }
+  },
+  {
+   "graphie": "Asumu",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Assoumou",
+   "api": "asɯmɯ",
+   "occurrences": {
+    "Q": 38,
+    "R": 55
+   }
+  },
+  {
+   "graphie": "Hachijo",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Hatchidjô",
+   "api": "hatɕidʑoː",
+   "note": "八城",
+   "occurrences": {
+    "Q": 0,
+    "R": 109
+   }
+  },
+  {
+   "graphie": "Tohya",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Tôya",
+   "api": "toːja",
+   "note": "十八",
+   "occurrences": {
+    "Q": 0,
+    "R": 71
+   }
+  },
+  {
+   "graphie": "Ikuko",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Ikouko",
+   "api": "ikɯko",
+   "occurrences": {
+    "Q": 0,
+    "R": 33
+   }
+  },
+  {
+   "graphie": "Itouikukuro",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Itô Ikoukourô",
+   "api": "itoː ikɯkɯɾoː",
+   "note": "伊藤幾九郎 : deux mots",
+   "occurrences": {
+    "Q": 0,
+    "R": 21
+   }
+  },
+  {
+   "graphie": "Reigonamu",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Rèigonamou",
+   "api": "ɾeːɡonamɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Furudo",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Fouroudo",
+   "api": "ɸɯɾɯdo",
+   "occurrences": {
+    "Q": 0,
+    "R": 106
+   }
+  },
+  {
+   "graphie": "Erika",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Érika",
+   "api": "eɾika",
+   "occurrences": {
+    "Q": 0,
+    "R": 1138
+   }
+  },
+  {
+   "graphie": "Rika",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Rika",
+   "api": "ɾika",
+   "occurrences": {
+    "Q": 0,
+    "R": 8
+   }
+  },
+  {
+   "graphie": "Satoko",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Satoko",
+   "api": "satoko",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Kotobuki",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Kotobouki",
+   "api": "kotobɯki",
+   "occurrences": {
+    "Q": 0,
+    "R": 16
+   }
+  },
+  {
+   "graphie": "Miyoko",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Miyoko",
+   "api": "mijoko",
+   "occurrences": {
+    "Q": 0,
+    "R": 26
+   }
+  },
+  {
+   "graphie": "Sayo",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sayo",
+   "api": "sajo",
+   "occurrences": {
+    "Q": 16,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Yoshiya",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Yochiya",
+   "api": "joɕija",
+   "occurrences": {
+    "Q": 0,
+    "R": 17
+   }
+  },
+  {
+   "graphie": "Tajima",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Tadjima",
+   "api": "tadʑima",
+   "occurrences": {
+    "Q": 0,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Yukari",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Youkari",
+   "api": "jɯkaɾi",
+   "occurrences": {
+    "Q": 0,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Ayumi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Ayoumi",
+   "api": "ajɯmi",
+   "occurrences": {
+    "Q": 0,
+    "R": 5
+   }
+  },
+  {
+   "graphie": "Hayakawa",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Hayakawa",
+   "api": "hajakawa",
+   "occurrences": {
+    "Q": 3,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Yamamoto",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Yamamoto",
+   "api": "jamamoto",
+   "occurrences": {
+    "Q": 0,
+    "R": 36
+   }
+  },
+  {
+   "graphie": "Sonezaki",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sonézaki",
+   "api": "sonezaki",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Kuwabara",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Kouwabara",
+   "api": "kɯwabaɾa",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Watanabe",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Watanabé",
+   "api": "watanabe",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Shimada",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Chimada",
+   "api": "ɕimada",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Tanaka",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Tanaka",
+   "api": "tanaka",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Hiraoka",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Hiraoka",
+   "api": "çiɾaoka",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Fumiya",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Foumiya",
+   "api": "ɸɯmija",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Tetsurou",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Tétsourô",
+   "api": "tetsɯɾoː",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Sanae",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sanaé",
+   "api": "sanae",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Garashi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Garachi",
+   "api": "ɡaɾaɕi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Yasuda",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Yassouda",
+   "api": "jasɯda",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Takamiya",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Takamiya",
+   "api": "takamija",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Emoto",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Émoto",
+   "api": "emoto",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Sakutarou",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sakoutarô",
+   "api": "sakɯtaɾoː",
+   "occurrences": {
+    "Q": 365,
+    "R": 33
+   }
+  },
+  {
+   "graphie": "Sakutaro",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Sakoutarô",
+   "api": "sakɯtaɾoː",
+   "occurrences": {
+    "Q": 0,
+    "R": 11
+   }
+  },
+  {
+   "graphie": "Sakukichi",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sakoukitchi",
+   "api": "sakɯkitɕi",
+   "occurrences": {
+    "Q": 2,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Sakusuke",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sakoussouké",
+   "api": "sakɯsɯke",
+   "occurrences": {
+    "Q": 3,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Lunon",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Lounonn",
+   "api": "ɾɯnoɴ",
+   "note": "留音 (domestique)",
+   "occurrences": {
+    "Q": 3,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Manon",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "マノン : lecture française « Manon »",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Leion",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Léionn",
+   "api": "ɾeioɴ",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Belne",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Bèlné",
+   "api": "beɾune",
+   "note": "鐘音 Berune",
+   "occurrences": {
+    "Q": 0,
+    "R": 15
+   }
+  },
+  {
+   "graphie": "Asne",
+   "section": "Personnages, noms japonais",
+   "categorie": "personnage",
+   "prononciation": "Assouné",
+   "api": "asɯne",
+   "note": "明日音",
+   "occurrences": {
+    "Q": 0,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Beatrice",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Béatritché",
+   "api": "beatɾiːtʃe",
+   "note": "ベアトリーチェ, à l'italienne",
+   "occurrences": {
+    "Q": 1254,
+    "R": 1022
+   }
+  },
+  {
+   "graphie": "Beato",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Béato",
+   "api": "beato",
+   "occurrences": {
+    "Q": 479,
+    "R": 1112
+   }
+  },
+  {
+   "graphie": "Bice",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bitché",
+   "api": "bitʃe",
+   "note": "italien",
+   "occurrences": {
+    "Q": 0,
+    "R": 12
+   }
+  },
+  {
+   "graphie": "Castiglioni",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Kastilyoni",
+   "api": "kastiʎʎoni",
+   "note": "italien (gli = « lli »)",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Angelo",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Andjélo",
+   "api": "andʒelo",
+   "note": "italien",
+   "occurrences": {
+    "Q": 0,
+    "R": 31
+   }
+  },
+  {
+   "graphie": "Gino",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Djino",
+   "api": "dʒino",
+   "note": "italien",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Bernkastel",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bèrnkastèl",
+   "api": "bɛʁnkastɛl",
+   "occurrences": {
+    "Q": 50,
+    "R": 460
+   }
+  },
+  {
+   "graphie": "Bern",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bèrn",
+   "api": "bɛʁn",
+   "occurrences": {
+    "Q": 36,
+    "R": 129
+   }
+  },
+  {
+   "graphie": "Lambdadelta",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Lammdadèlta",
+   "api": "lambdadɛlta",
+   "note": "pas de « am » nasal : « Lam-da-dèl-ta »",
+   "occurrences": {
+    "Q": 34,
+    "R": 305
+   }
+  },
+  {
+   "graphie": "Lambda",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Lammda",
+   "api": "lamda",
+   "occurrences": {
+    "Q": 11,
+    "R": 69
+   }
+  },
+  {
+   "graphie": "Virgilia",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Virdjilia",
+   "api": "viʁdʒilja",
+   "note": "à l'italienne",
+   "occurrences": {
+    "Q": 95,
+    "R": 91
+   }
+  },
+  {
+   "graphie": "Ronove",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Ronové",
+   "api": "ɾonowe",
+   "note": "ロノウェ",
+   "occurrences": {
+    "Q": 184,
+    "R": 77
+   }
+  },
+  {
+   "graphie": "Gaap",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Gâp",
+   "api": "ɡaːp",
+   "note": "ガァプ",
+   "occurrences": {
+    "Q": 76,
+    "R": 75
+   }
+  },
+  {
+   "graphie": "Chiester",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Chièstère",
+   "api": "ɕiestɛʁ",
+   "note": "シエスタ (« siesta »)",
+   "occurrences": {
+    "Q": 47,
+    "R": 80
+   }
+  },
+  {
+   "graphie": "Chiesters",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Chièstère",
+   "api": "ɕiestɛʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 5
+   }
+  },
+  {
+   "graphie": "Lucifer",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "lecture française",
+   "occurrences": {
+    "Q": 49,
+    "R": 14
+   }
+  },
+  {
+   "graphie": "Leviathan",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Léviatann",
+   "api": "leviatan",
+   "occurrences": {
+    "Q": 19,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Satan",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "lecture française",
+   "occurrences": {
+    "Q": 18,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Belphegor",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bèlfégor",
+   "api": "bɛlfeɡɔʁ",
+   "occurrences": {
+    "Q": 23,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Mammon",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Mammonn",
+   "api": "mamɔn",
+   "occurrences": {
+    "Q": 85,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Beelzebub",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bé-èlzéboub",
+   "api": "beɛlzebub",
+   "occurrences": {
+    "Q": 14,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Asmodeus",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Asmodéouss",
+   "api": "asmodeus",
+   "occurrences": {
+    "Q": 12,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Asmo",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Asmo",
+   "api": "asmo",
+   "occurrences": {
+    "Q": 7,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Levia",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Lévia",
+   "api": "levja",
+   "occurrences": {
+    "Q": 4,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Belphe",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bèlfé",
+   "api": "bɛlfe",
+   "occurrences": {
+    "Q": 3,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Luci",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Loutchi",
+   "api": "lutʃi",
+   "occurrences": {
+    "Q": 2,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Belze",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Bèlzé",
+   "api": "bɛlze",
+   "occurrences": {
+    "Q": 3,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Dlanor",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Dlanor",
+   "api": "dlanɔʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 265
+   }
+  },
+  {
+   "graphie": "Knox",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Nokss",
+   "api": "nɔks",
+   "note": "anglais, k muet",
+   "occurrences": {
+    "Q": 1,
+    "R": 83
+   }
+  },
+  {
+   "graphie": "Gertrude",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Guèrtroud",
+   "api": "ɡɛʁtʁud",
+   "occurrences": {
+    "Q": 0,
+    "R": 40
+   }
+  },
+  {
+   "graphie": "Cornelia",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Kornélia",
+   "api": "kɔʁnelja",
+   "occurrences": {
+    "Q": 0,
+    "R": 46
+   }
+  },
+  {
+   "graphie": "Featherine",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Fézarine",
+   "api": "fezaʁin",
+   "note": "フェザリーヌ",
+   "occurrences": {
+    "Q": 0,
+    "R": 85
+   }
+  },
+  {
+   "graphie": "Augustus",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Ogousstouss",
+   "api": "oɡustus",
+   "occurrences": {
+    "Q": 0,
+    "R": 8
+   }
+  },
+  {
+   "graphie": "Aurora",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Aourôra",
+   "api": "auɾoːɾa",
+   "occurrences": {
+    "Q": 0,
+    "R": 20
+   }
+  },
+  {
+   "graphie": "Zepar",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Zépar",
+   "api": "zepaʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 46
+   }
+  },
+  {
+   "graphie": "Furfur",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Fourfour",
+   "api": "fuʁfuʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 45
+   }
+  },
+  {
+   "graphie": "Lion",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "理御 Rion : lecture française « Lion », aucune substitution",
+   "occurrences": {
+    "Q": 0,
+    "R": 240
+   }
+  },
+  {
+   "graphie": "Willard",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Ouilarde",
+   "api": "wilaʁd",
+   "note": "anglais",
+   "occurrences": {
+    "Q": 0,
+    "R": 13
+   }
+  },
+  {
+   "graphie": "Wright",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Raïte",
+   "api": "ʁajt",
+   "note": "anglais, w muet",
+   "occurrences": {
+    "Q": 0,
+    "R": 10
+   }
+  },
+  {
+   "graphie": "Will",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Ouil",
+   "api": "wil",
+   "note": "anglais",
+   "occurrences": {
+    "Q": 0,
+    "R": 158
+   }
+  },
+  {
+   "graphie": "Clair",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "lecture_francaise": true,
+   "note": "lecture française « Claire » (Clair Vaux Bernardus)",
+   "occurrences": {
+    "Q": 1,
+    "R": 48
+   }
+  },
+  {
+   "graphie": "Goldsmith",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Goldsmiss",
+   "api": "ɡɔldsmis",
+   "note": "anglais",
+   "occurrences": {
+    "Q": 18,
+    "R": 14
+   }
+  },
+  {
+   "graphie": "Gretel",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Grétel",
+   "api": "ɡʁetɛl",
+   "occurrences": {
+    "Q": 17,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Hansel",
+   "section": "Personnages, noms occidentaux",
+   "categorie": "personnage",
+   "prononciation": "Hannzel",
+   "api": "hanzɛl",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Niijima",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Niidjima",
+   "api": "niːdʑima",
+   "occurrences": {
+    "Q": 19,
+    "R": 24
+   }
+  },
+  {
+   "graphie": "Odawara",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Odawara",
+   "api": "odawaɾa",
+   "occurrences": {
+    "Q": 26,
+    "R": 13
+   }
+  },
+  {
+   "graphie": "Atami",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Atami",
+   "api": "atami",
+   "occurrences": {
+    "Q": 3,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Izu",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Izou",
+   "api": "izɯ",
+   "occurrences": {
+    "Q": 5,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Kanto",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Kanntô",
+   "api": "kantoː",
+   "occurrences": {
+    "Q": 10,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Kansai",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Kannsaï",
+   "api": "kansai",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Tokyo",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Tôkyô",
+   "api": "toːkʲoː",
+   "occurrences": {
+    "Q": 14,
+    "R": 5
+   }
+  },
+  {
+   "graphie": "Kyoto",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Kyôto",
+   "api": "kʲoːto",
+   "occurrences": {
+    "Q": 2,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Okinawa",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Okinawa",
+   "api": "okinawa",
+   "occurrences": {
+    "Q": 9,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Hokkaido",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Hokkaïdô",
+   "api": "hokkaidoː",
+   "occurrences": {
+    "Q": 11,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Kyushu",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Kyoushou",
+   "api": "kʲɯːɕɯː",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Sapporo",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Sapporo",
+   "api": "sappoɾo",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Rebun",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Rébounn",
+   "api": "ɾebɯɴ",
+   "occurrences": {
+    "Q": 8,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Yonaguni",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Yonagouni",
+   "api": "jonaɡɯni",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Ginza",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Guinnza",
+   "api": "ɡinza",
+   "occurrences": {
+    "Q": 3,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Narita",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Narita",
+   "api": "naɾita",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Yokosuka",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Yokossouka",
+   "api": "jokosɯka",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Shimoda",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Chimoda",
+   "api": "ɕimoda",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Sogakishi",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Sogakichi",
+   "api": "soɡakiɕi",
+   "occurrences": {
+    "Q": 7,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Akujikishima",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Akoudjikichima",
+   "api": "akɯdʑikiɕima",
+   "occurrences": {
+    "Q": 4,
+    "R": 18
+   }
+  },
+  {
+   "graphie": "Azukishima",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Azoukichima",
+   "api": "azɯkiɕima",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Shikinejima",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Chikinédjima",
+   "api": "ɕikinedʑima",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Kirigan",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Kirigann",
+   "api": "kiɾiɡaɴ",
+   "occurrences": {
+    "Q": 0,
+    "R": 16
+   }
+  },
+  {
+   "graphie": "Sekihai",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Sékihaï",
+   "api": "sekihai",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Kuwadorian",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "auto": true,
+   "prononciation": "Kouwadoriann",
+   "api": "kɯwadoɾiaɴ",
+   "occurrences": {
+    "Q": 27,
+    "R": 43
+   }
+  },
+  {
+   "graphie": "Fukuin",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Foukou-inn",
+   "api": "ɸɯkɯiɴ",
+   "note": "Maison Fukuin (福音)",
+   "occurrences": {
+    "Q": 9,
+    "R": 53
+   }
+  },
+  {
+   "graphie": "Toraian",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Toraïann",
+   "api": "toɾaiaɴ",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Taipei",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Taïpèï",
+   "api": "tʰaipei",
+   "occurrences": {
+    "Q": 0,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Danshui",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Dann-chouéï",
+   "api": "tanʂwei",
+   "note": "chinois",
+   "occurrences": {
+    "Q": 0,
+    "R": 22
+   }
+  },
+  {
+   "graphie": "Zhuoshui",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Djouo-chouéï",
+   "api": "ʈʂwoʂwei",
+   "note": "chinois",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Kaoping",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Kao-pinng",
+   "api": "kʰaopʰiŋ",
+   "note": "chinois",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Zengwun",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Dzeng-ouenn",
+   "api": "tsəŋwən",
+   "note": "chinois",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Dajia",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Da-djia",
+   "api": "tatɕja",
+   "note": "chinois",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Dadu",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Da-dou",
+   "api": "tatu",
+   "note": "chinois",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Qilian",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Tchi-liènn",
+   "api": "tɕʰiljɛn",
+   "note": "chinois (Q = « tch »)",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Delzney",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Dèlzni",
+   "api": "dɛlzni",
+   "note": "parodie de Disney",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Hawaï",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "lecture_francaise": true,
+   "note": "lecture française",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Saipan",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Saïpann",
+   "api": "sajpan",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Guam",
+   "section": "Lieux",
+   "categorie": "lieu",
+   "prononciation": "Gouam",
+   "api": "ɡwam",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "san",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "sann",
+   "api": "saɴ",
+   "note": "suffixe (Battler-san) : « sann », jamais « sans »",
+   "occurrences": {
+    "Q": 1474,
+    "R": 1023
+   }
+  },
+  {
+   "graphie": "chan",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "tchann",
+   "api": "tɕaɴ",
+   "occurrences": {
+    "Q": 695,
+    "R": 480
+   }
+  },
+  {
+   "graphie": "sama",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "sama",
+   "api": "sama",
+   "occurrences": {
+    "Q": 700,
+    "R": 429
+   }
+  },
+  {
+   "graphie": "kun",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "kounn",
+   "api": "kɯɴ",
+   "occurrences": {
+    "Q": 567,
+    "R": 230
+   }
+  },
+  {
+   "graphie": "sensei",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "sennsé",
+   "api": "senseː",
+   "occurrences": {
+    "Q": 0,
+    "R": 35
+   }
+  },
+  {
+   "graphie": "senpai",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "sennpaï",
+   "api": "sempai",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "nii",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "nii",
+   "api": "niː",
+   "note": "nii-san, onii-chan",
+   "occurrences": {
+    "Q": 256,
+    "R": 60
+   }
+  },
+  {
+   "graphie": "Onii",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "onii",
+   "api": "oniː",
+   "occurrences": {
+    "Q": 33,
+    "R": 180
+   }
+  },
+  {
+   "graphie": "onee",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "oné",
+   "api": "oneː",
+   "occurrences": {
+    "Q": 259,
+    "R": 77
+   }
+  },
+  {
+   "graphie": "Nee",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "né",
+   "api": "neː",
+   "occurrences": {
+    "Q": 87,
+    "R": 44
+   }
+  },
+  {
+   "graphie": "aniki",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "auto": true,
+   "prononciation": "aniki",
+   "api": "aniki",
+   "occurrences": {
+    "Q": 285,
+    "R": 49
+   }
+  },
+  {
+   "graphie": "Aneki",
+   "section": "Mots japonais",
+   "categorie": "honorifique",
+   "prononciation": "anéki",
+   "api": "aneki",
+   "occurrences": {
+    "Q": 28,
+    "R": 17
+   }
+  },
+  {
+   "graphie": "miko",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "miko",
+   "api": "miko",
+   "occurrences": {
+    "Q": 0,
+    "R": 54
+   }
+  },
+  {
+   "graphie": "shogi",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "chôgui",
+   "api": "ɕoːɡi",
+   "occurrences": {
+    "Q": 3,
+    "R": 9
+   }
+  },
+  {
+   "graphie": "shiritori",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "chiritori",
+   "api": "ɕiɾitoɾi",
+   "occurrences": {
+    "Q": 8,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "oden",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "odénn",
+   "api": "odeɴ",
+   "occurrences": {
+    "Q": 13,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "miso",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "misso",
+   "api": "miso",
+   "occurrences": {
+    "Q": 0,
+    "R": 8
+   }
+  },
+  {
+   "graphie": "umeboshi",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "oumébochi",
+   "api": "ɯmeboɕi",
+   "occurrences": {
+    "Q": 0,
+    "R": 9
+   }
+  },
+  {
+   "graphie": "konpeito",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "konnpéïtô",
+   "api": "kompeːtoː",
+   "occurrences": {
+    "Q": 2,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "konpeitou",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "konnpéïtô",
+   "api": "kompeːtoː",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "gomashio",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "gomachio",
+   "api": "ɡomaɕio",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "shimesaba",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "chiméssaba",
+   "api": "ɕimesaba",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "daifuku",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "daïfoukou",
+   "api": "daiɸɯkɯ",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "kotatsu",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "kotatsou",
+   "api": "kotatsɯ",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "sashimi",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "sachimi",
+   "api": "saɕimi",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "yakisoba",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "yakissoba",
+   "api": "jakisoba",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "bento",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "bénntô",
+   "api": "bentoː",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "gyoza",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "guyôza",
+   "api": "ɡʲoːza",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "yokan",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "yôkann",
+   "api": "joːkaɴ",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "tofu",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "tôfou",
+   "api": "toːɸɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "mirin",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "mirinn",
+   "api": "miɾiɴ",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "nukamiso",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "noukamisso",
+   "api": "nɯkamiso",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "donburi",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "donnbouri",
+   "api": "dombɯɾi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "chazuke",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "tchazouké",
+   "api": "tɕazɯke",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "hijiki",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "hidjiki",
+   "api": "çidʑiki",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "kikurage",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "kikouragué",
+   "api": "kikɯɾaɡe",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "shochu",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "chôtchou",
+   "api": "ɕoːtɕɯː",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "hassaku",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "hassakou",
+   "api": "hassakɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "omurice",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "omouraïssou",
+   "api": "omɯɾaisɯ",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "futon",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "foutonn",
+   "api": "ɸɯtoɴ",
+   "occurrences": {
+    "Q": 2,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "shamisen",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "chamissénn",
+   "api": "ɕamiseɴ",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "tanuki",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "tanouki",
+   "api": "tanɯki",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "yôkai",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "yôkaï",
+   "api": "joːkai",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "kanji",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "kanndji",
+   "api": "kaɴdʑi",
+   "occurrences": {
+    "Q": 4,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "katakana",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "katakana",
+   "api": "katakana",
+   "occurrences": {
+    "Q": 4,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "hiragana",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "hiragana",
+   "api": "çiɾaɡana",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "katana",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "katana",
+   "api": "katana",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "naginata",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "naguinata",
+   "api": "naɡinata",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "shinto",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "chinntô",
+   "api": "ɕintoː",
+   "occurrences": {
+    "Q": 4,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "shugenja",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "chouguénndja",
+   "api": "ɕɯɡeɴdʑa",
+   "occurrences": {
+    "Q": 2,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "yamabushi",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "yamabouchi",
+   "api": "jamabɯɕi",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "amanojaku",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "amanodjakou",
+   "api": "amanodʑakɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "kitsune",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "kitsouné",
+   "api": "kitsɯne",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "seiza",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "séza",
+   "api": "seːza",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "omiai",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "omiaï",
+   "api": "omiai",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "ohajiki",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "ohadjiki",
+   "api": "ohadʑiki",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Obon",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "Obonn",
+   "api": "oboɴ",
+   "occurrences": {
+    "Q": 3,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Tanabata",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "Tanabata",
+   "api": "tanabata",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Orihime",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "Orihimé",
+   "api": "oɾiçime",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Hikoboshi",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "Hikobochi",
+   "api": "çikoboɕi",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Inari",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "Inari",
+   "api": "inaɾi",
+   "occurrences": {
+    "Q": 3,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "tsume",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "tsoumé",
+   "api": "tsɯme",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "kenpo",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "kennpô",
+   "api": "kempoː",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Kaiten",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "Kaïténn",
+   "api": "kaiteɴ",
+   "occurrences": {
+    "Q": 0,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Shinkansen",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "auto": true,
+   "prononciation": "Chinnkannsénn",
+   "api": "ɕiŋkanseɴ",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Showa",
+   "section": "Mots japonais",
+   "categorie": "époque",
+   "prononciation": "Chôwa",
+   "api": "ɕoːwa",
+   "occurrences": {
+    "Q": 5,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Taisho",
+   "section": "Mots japonais",
+   "categorie": "époque",
+   "prononciation": "Taïchô",
+   "api": "taiɕoː",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Taishou",
+   "section": "Mots japonais",
+   "categorie": "époque",
+   "prononciation": "Taïchô",
+   "api": "taiɕoː",
+   "occurrences": {
+    "Q": 1,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Meiji",
+   "section": "Mots japonais",
+   "categorie": "époque",
+   "prononciation": "Mèïdji",
+   "api": "meːdʑi",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Sengoku",
+   "section": "Mots japonais",
+   "categorie": "époque",
+   "auto": true,
+   "prononciation": "Sénngokou",
+   "api": "seŋɡokɯ",
+   "occurrences": {
+    "Q": 4,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Jomon",
+   "section": "Mots japonais",
+   "categorie": "époque",
+   "prononciation": "Djômonn",
+   "api": "dʑoːmoɴ",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "tsundora",
+   "section": "Mots japonais",
+   "categorie": "japonais",
+   "prononciation": "tsounndora",
+   "api": "tsɯndoɾa",
+   "occurrences": {
+    "Q": 1,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Toyotomi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Toyotomi",
+   "api": "tojotomi",
+   "occurrences": {
+    "Q": 2,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Hidetsugu",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Hidétsougou",
+   "api": "çidetsɯɡɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Hideyori",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Hidéyori",
+   "api": "çidejoɾi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Oda",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Oda",
+   "api": "oda",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Nobunaga",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Nobounaga",
+   "api": "nobɯnaɡa",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Shibata",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Chibata",
+   "api": "ɕibata",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Katsuie",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Katsouié",
+   "api": "katsɯie",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Takeda",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Takéda",
+   "api": "takeda",
+   "occurrences": {
+    "Q": 2,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Shingen",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Chinnguénn",
+   "api": "ɕiŋɡeɴ",
+   "occurrences": {
+    "Q": 3,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Uesugi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Ouéssougui",
+   "api": "ɯesɯɡi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Tokugawa",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Tokougawa",
+   "api": "tokɯɡawa",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Akechi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Akétchi",
+   "api": "aketɕi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Mōri",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Môri",
+   "api": "moːɾi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Hijikata",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Hidjikata",
+   "api": "çidʑikata",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Kondo",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Kondô",
+   "api": "kondoː",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Souji",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Sôdji",
+   "api": "soːdʑi",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Shotoku",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Chôtokou",
+   "api": "ɕoːtokɯ",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Taishi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Taïchi",
+   "api": "taiɕi",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Sakaguchi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Sakagoutchi",
+   "api": "sakaɡɯtɕi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Ango",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "prononciation": "Anngo",
+   "api": "aŋɡo",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Ayatsuji",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Ayatsoudji",
+   "api": "ajatsɯdʑi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Yukito",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Youkito",
+   "api": "jɯkito",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Higurashi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Higourachi",
+   "api": "çiɡɯɾaɕi",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Onikakushi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Onikakouchi",
+   "api": "onikakɯɕi",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Oyashiro",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Oyachiro",
+   "api": "ojaɕiɾo",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Kamehameha",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Kaméhaméha",
+   "api": "kamehameha",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Tenkaichi",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Ténnkaïtchi",
+   "api": "teŋkaitɕi",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Budokai",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "prononciation": "Boudôkaï",
+   "api": "bɯdoːkai",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Umineko",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Ouminéko",
+   "api": "ɯmineko",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Chiru",
+   "section": "Histoire et culture japonaises",
+   "categorie": "oeuvre",
+   "auto": true,
+   "prononciation": "Tchirou",
+   "api": "tɕiɾɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Purupuru",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Pouroupourou",
+   "api": "pɯɾɯpɯɾɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 8
+   }
+  },
+  {
+   "graphie": "Piko",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Piko",
+   "api": "piko",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Pikopuyo",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Pikopouyo",
+   "api": "pikopɯjo",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Pikomaru",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Pikomarou",
+   "api": "pikomaɾɯ",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Momotarou",
+   "section": "Histoire et culture japonaises",
+   "categorie": "personnage",
+   "auto": true,
+   "prononciation": "Momotarô",
+   "api": "momotaɾoː",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "whodunit",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "houdounit",
+   "api": "huːdʌnɪt",
+   "note": "« qui l'a fait »",
+   "occurrences": {
+    "Q": 0,
+    "R": 13
+   }
+  },
+  {
+   "graphie": "howdunit",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "haoudounit",
+   "api": "haʊdʌnɪt",
+   "note": "« comment »",
+   "occurrences": {
+    "Q": 0,
+    "R": 12
+   }
+  },
+  {
+   "graphie": "whydunit",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "ouaïdounit",
+   "api": "waɪdʌnɪt",
+   "note": "« pourquoi »",
+   "occurrences": {
+    "Q": 0,
+    "R": 19
+   }
+  },
+  {
+   "graphie": "Endless",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Ènndlèss",
+   "api": "ɛndlɛs",
+   "note": "Endless Nine",
+   "occurrences": {
+    "Q": 1,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Nine",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Naïne",
+   "api": "najn",
+   "occurrences": {
+    "Q": 1,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Tea",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Ti",
+   "api": "ti",
+   "note": "Tea Party",
+   "occurrences": {
+    "Q": 4,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Party",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Parti",
+   "api": "paʁti",
+   "occurrences": {
+    "Q": 4,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "fantasy",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "fanntazi",
+   "api": "fantazi",
+   "note": "« anti-fantasy »",
+   "occurrences": {
+    "Q": 10,
+    "R": 32
+   }
+  },
+  {
+   "graphie": "quiz",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "kouiz",
+   "api": "kwiz",
+   "occurrences": {
+    "Q": 0,
+    "R": 26
+   }
+  },
+  {
+   "graphie": "game",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "guéïm",
+   "api": "ɡɛjm",
+   "note": "game over",
+   "occurrences": {
+    "Q": 5,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "over",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "ovère",
+   "api": "ovɛʁ",
+   "occurrences": {
+    "Q": 5,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Mrs",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Missiz",
+   "api": "misiz",
+   "occurrences": {
+    "Q": 0,
+    "R": 6
+   }
+  },
+  {
+   "graphie": "Mister",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Mistère",
+   "api": "mistɛʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "trick",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "trik",
+   "api": "tʁik",
+   "note": "trick or treat",
+   "occurrences": {
+    "Q": 7,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "treat",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "trit",
+   "api": "tʁit",
+   "occurrences": {
+    "Q": 7,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "knock",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "nok",
+   "api": "nɔk",
+   "note": "knock, knock",
+   "occurrences": {
+    "Q": 0,
+    "R": 8
+   }
+  },
+  {
+   "graphie": "Happy",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Happi",
+   "api": "api",
+   "occurrences": {
+    "Q": 9,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Good",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Goud",
+   "api": "ɡud",
+   "occurrences": {
+    "Q": 1,
+    "R": 45
+   }
+  },
+  {
+   "graphie": "thank",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "sank",
+   "api": "sank",
+   "note": "thank you",
+   "occurrences": {
+    "Q": 4,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "you",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "you",
+   "api": "ju",
+   "occurrences": {
+    "Q": 10,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Death",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Dèss",
+   "api": "dɛs",
+   "occurrences": {
+    "Q": 0,
+    "R": 10
+   }
+  },
+  {
+   "graphie": "Die",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Daï",
+   "api": "daj",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "the",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "ze",
+   "api": "zə",
+   "occurrences": {
+    "Q": 4,
+    "R": 16
+   }
+  },
+  {
+   "graphie": "cute",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "kiout",
+   "api": "kjut",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "copy",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "kopi",
+   "api": "kɔpi",
+   "occurrences": {
+    "Q": 0,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "perfect",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "peurfèkt",
+   "api": "pœʁfɛkt",
+   "occurrences": {
+    "Q": 1,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "light",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "laït",
+   "api": "lajt",
+   "note": "light novel",
+   "occurrences": {
+    "Q": 1,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "novel",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "novèl",
+   "api": "nɔvɛl",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "cheesecake",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "chizkèk",
+   "api": "ʃizkɛk",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "donut",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "donute",
+   "api": "donœt",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "scone",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "skonne",
+   "api": "skɔn",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "scones",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "skonnes",
+   "api": "skɔn",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "pancakes",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "pannkèk",
+   "api": "pankɛk",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Gatekeeper",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Guèïtkipeur",
+   "api": "ɡɛjtkipœʁ",
+   "occurrences": {
+    "Q": 2,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Witch",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Ouitch",
+   "api": "witʃ",
+   "occurrences": {
+    "Q": 1,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Dawn",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Done",
+   "api": "dɔn",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Turn",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Teurn",
+   "api": "tœʁn",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Checkmate",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Tchèkmèït",
+   "api": "tʃɛkmɛjt",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "warp",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "ouorp",
+   "api": "wɔʁp",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "week",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "ouik",
+   "api": "wik",
+   "note": "week-end",
+   "occurrences": {
+    "Q": 4,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Equalizer",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Ikoualaïzeur",
+   "api": "ikwalajzœʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Zodiac",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Zodiak",
+   "api": "zodjak",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Steam",
+   "section": "Expressions et mots anglais",
+   "categorie": "anglais",
+   "prononciation": "Stim",
+   "api": "stim",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Agatha",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Agata",
+   "api": "aɡata",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Christie",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Kristi",
+   "api": "kʁisti",
+   "occurrences": {
+    "Q": 1,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Ellery",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Èleri",
+   "api": "ɛləʁi",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Queen",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Kouine",
+   "api": "kwin",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Dine",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Daïne",
+   "api": "dajn",
+   "note": "S.S. Van Dine",
+   "occurrences": {
+    "Q": 1,
+    "R": 11
+   }
+  },
+  {
+   "graphie": "Ackroyd",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Akroïd",
+   "api": "akʁɔjd",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Holmes",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Holmz",
+   "api": "ɔlmz",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Watson",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Ouatsonn",
+   "api": "watsɔn",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Hempel",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Hèmpel",
+   "api": "ɛmpɛl",
+   "note": "corbeau de Hempel",
+   "occurrences": {
+    "Q": 15,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Schrödinger",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Chreudinguère",
+   "api": "ʃʁødiŋɛʁ",
+   "occurrences": {
+    "Q": 3,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Rubens",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Roubènss",
+   "api": "ʁubɛ̃s",
+   "occurrences": {
+    "Q": 0,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Dante",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Dannté",
+   "api": "dante",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Alighieri",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Aliguièri",
+   "api": "aliɡjɛʁi",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Shakespeare",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Chèkspir",
+   "api": "ʃɛkspiʁ",
+   "occurrences": {
+    "Q": 0,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Mussolini",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Moussolini",
+   "api": "musolini",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "MacArthur",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Makarseur",
+   "api": "makaʁsœʁ",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Tokarev",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Tokarèv",
+   "api": "tokaʁɛf",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Kasparov",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Kasparof",
+   "api": "kaspaʁɔf",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Wukong",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Wou-kong",
+   "api": "uːkʊŋ",
+   "note": "Sun Wukong",
+   "occurrences": {
+    "Q": 0,
+    "R": 7
+   }
+  },
+  {
+   "graphie": "Pendragon",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Pènndragonn",
+   "api": "pɛndʁaɡɔn",
+   "occurrences": {
+    "Q": 6,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Eiserne",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "allemand",
+   "prononciation": "Aïzèrne",
+   "api": "ajzɛʁnə",
+   "note": "Eiserne Jungfrau",
+   "occurrences": {
+    "Q": 0,
+    "R": 10
+   }
+  },
+  {
+   "graphie": "Jungfrau",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "allemand",
+   "prononciation": "Younngfraou",
+   "api": "jʊŋfʁaʊ",
+   "occurrences": {
+    "Q": 0,
+    "R": 10
+   }
+  },
+  {
+   "graphie": "Sachertorte",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "allemand",
+   "prononciation": "Zakhèrtorté",
+   "api": "zaxɐtɔʁtə",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Mytyl",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Mitil",
+   "api": "mitil",
+   "occurrences": {
+    "Q": 1,
+    "R": 1
+   }
+  },
+  {
+   "graphie": "Tyltyl",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Tiltil",
+   "api": "tiltil",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Humpty",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Heumpti",
+   "api": "œmpti",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Dumpty",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Deumpti",
+   "api": "dœmpti",
+   "occurrences": {
+    "Q": 1,
+    "R": 0
+   }
+  },
+  {
+   "graphie": "Salò",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "oeuvre",
+   "prononciation": "Salo",
+   "api": "salo",
+   "occurrences": {
+    "Q": 0,
+    "R": 3
+   }
+  },
+  {
+   "graphie": "Dimbula",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "autre",
+   "prononciation": "Dimmboula",
+   "api": "dimbula",
+   "note": "thé de Ceylan",
+   "occurrences": {
+    "Q": 0,
+    "R": 4
+   }
+  },
+  {
+   "graphie": "Publius",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Poubliouss",
+   "api": "publius",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  },
+  {
+   "graphie": "Maro",
+   "section": "Personnes et œuvres réelles ou citées",
+   "categorie": "personne",
+   "prononciation": "Maro",
+   "api": "maʁo",
+   "occurrences": {
+    "Q": 0,
+    "R": 2
+   }
+  }
+ ]
+}

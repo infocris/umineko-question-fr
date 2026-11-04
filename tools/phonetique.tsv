@@ -1,0 +1,347 @@
+# graphie	catégorie	prononciation (vide = auto romaji)	API (vide = auto)	note
+## Personnages, noms japonais
+Ushiromiya	personnage
+Rokkenjima	lieu
+Kinzo	personnage	Kinnzô	kinzoː	金蔵 Kinzō
+Krauss	personnage	Kraouss	kɾaɯsɯ	クラウス : à l'allemande, pas « Krôss »
+Natsuhi	personnage
+Jessica	personnage	Djèssika	dʑesika	ジェシカ, prénom anglais
+Eva	personnage	Éva	eva
+Hideyoshi	personnage
+George	personnage	Djordj	dʒɔʁdʒ	prénom anglais (譲治 Jōji), pas « Georges »
+Rudolf	personnage	Roudolf	ɾɯdoɾɸ
+Kyrie	personnage	Kirié	kiɾie	霧江 Kirie
+Battler	personnage	Batlèr	batlɛʁ	戦人 Batora ; « Bat-lère », pas « Bateur »
+Rosa	personnage	Roza	ɾoza
+Maria	personnage			lecture française
+Ange	personnage			縁寿 Enje : garder la lecture française « Ange » [ɑ̃ʒ], aucune substitution
+Genji	personnage
+Ronoue	personnage	Ronoué	ɾonoɯe	源次 Ronoue Genji
+Shannon	personnage	Chanonn	ɕanoɴ	紗音
+Kanon	personnage	Kanonn	kanoɴ	嘉音 ; éviter le « on » nasal
+Gohda	personnage	Gôda	ɡoːda	郷田
+Toshiro	personnage	Toshirô	toɕiɾoː
+Kumasawa	personnage
+Chiyo	personnage
+Nanjo	personnage	Nanndjô	naɴdʑoː	南條
+Terumasa	personnage
+Amakusa	personnage
+Okonogi	personnage
+Kasumi	personnage
+Sumadera	personnage
+Ootsuki	personnage	Ôtsouki	oːtsɯki
+Kawabata	personnage
+Yasu	personnage
+Asumu	personnage
+Hachijo	personnage	Hatchidjô	hatɕidʑoː	八城
+Tohya	personnage	Tôya	toːja	十八
+Ikuko	personnage
+Itouikukuro	personnage	Itô Ikoukourô	itoː ikɯkɯɾoː	伊藤幾九郎 : deux mots
+Reigonamu	personnage	Rèigonamou	ɾeːɡonamɯ
+Furudo	personnage	Fouroudo	ɸɯɾɯdo
+Erika	personnage	Érika	eɾika
+Rika	personnage
+Satoko	personnage
+Kotobuki	personnage
+Miyoko	personnage
+Sayo	personnage
+Yoshiya	personnage
+Tajima	personnage
+Yukari	personnage
+Ayumi	personnage
+Hayakawa	personnage
+Yamamoto	personnage
+Sonezaki	personnage
+Kuwabara	personnage
+Watanabe	personnage
+Shimada	personnage
+Tanaka	personnage
+Hiraoka	personnage
+Fumiya	personnage
+Tetsurou	personnage
+Sanae	personnage
+Garashi	personnage
+Yasuda	personnage
+Takamiya	personnage
+Emoto	personnage
+Sakutarou	personnage
+Sakutaro	personnage	Sakoutarô	sakɯtaɾoː
+Sakukichi	personnage
+Sakusuke	personnage
+Lunon	personnage	Lounonn	ɾɯnoɴ	留音 (domestique)
+Manon	personnage			マノン : lecture française « Manon »
+Leion	personnage	Léionn	ɾeioɴ
+Belne	personnage	Bèlné	beɾune	鐘音 Berune
+Asne	personnage	Assouné	asɯne	明日音
+## Personnages, noms occidentaux
+Beatrice	personnage	Béatritché	beatɾiːtʃe	ベアトリーチェ, à l'italienne
+Beato	personnage	Béato	beato
+Bice	personnage	Bitché	bitʃe	italien
+Castiglioni	personnage	Kastilyoni	kastiʎʎoni	italien (gli = « lli »)
+Angelo	personnage	Andjélo	andʒelo	italien
+Gino	personnage	Djino	dʒino	italien
+Bernkastel	personnage	Bèrnkastèl	bɛʁnkastɛl
+Bern	personnage	Bèrn	bɛʁn
+Lambdadelta	personnage	Lammdadèlta	lambdadɛlta	pas de « am » nasal : « Lam-da-dèl-ta »
+Lambda	personnage	Lammda	lamda
+Virgilia	personnage	Virdjilia	viʁdʒilja	à l'italienne
+Ronove	personnage	Ronové	ɾonowe	ロノウェ
+Gaap	personnage	Gâp	ɡaːp	ガァプ
+Chiester	personnage	Chièstère	ɕiestɛʁ	シエスタ (« siesta »)
+Chiesters	personnage	Chièstère	ɕiestɛʁ
+Lucifer	personnage			lecture française
+Leviathan	personnage	Léviatann	leviatan
+Satan	personnage			lecture française
+Belphegor	personnage	Bèlfégor	bɛlfeɡɔʁ
+Mammon	personnage	Mammonn	mamɔn
+Beelzebub	personnage	Bé-èlzéboub	beɛlzebub
+Asmodeus	personnage	Asmodéouss	asmodeus
+Asmo	personnage	Asmo	asmo
+Levia	personnage	Lévia	levja
+Belphe	personnage	Bèlfé	bɛlfe
+Luci	personnage	Loutchi	lutʃi
+Belze	personnage	Bèlzé	bɛlze
+Erika	personnage	Érika	eɾika
+Dlanor	personnage	Dlanor	dlanɔʁ
+Knox	personnage	Nokss	nɔks	anglais, k muet
+Gertrude	personnage	Guèrtroud	ɡɛʁtʁud
+Cornelia	personnage	Kornélia	kɔʁnelja
+Featherine	personnage	Fézarine	fezaʁin	フェザリーヌ
+Augustus	personnage	Ogousstouss	oɡustus
+Aurora	personnage	Aourôra	auɾoːɾa
+Zepar	personnage	Zépar	zepaʁ
+Furfur	personnage	Fourfour	fuʁfuʁ
+Lion	personnage			理御 Rion : lecture française « Lion », aucune substitution
+Willard	personnage	Ouilarde	wilaʁd	anglais
+Wright	personnage	Raïte	ʁajt	anglais, w muet
+Will	personnage	Ouil	wil	anglais
+Clair	personnage			lecture française « Claire » (Clair Vaux Bernardus)
+Goldsmith	personnage	Goldsmiss	ɡɔldsmis	anglais
+Gretel	personnage	Grétel	ɡʁetɛl
+Hansel	personnage	Hannzel	hanzɛl
+Kinzo	personnage	Kinnzô	kinzoː
+## Lieux
+Niijima	lieu	Niidjima	niːdʑima
+Odawara	lieu
+Atami	lieu
+Izu	lieu
+Kanto	lieu	Kanntô	kantoː
+Kansai	lieu
+Tokyo	lieu	Tôkyô	toːkʲoː
+Kyoto	lieu	Kyôto	kʲoːto
+Okinawa	lieu
+Hokkaido	lieu	Hokkaïdô	hokkaidoː
+Kyushu	lieu	Kyoushou	kʲɯːɕɯː
+Sapporo	lieu
+Rebun	lieu	Rébounn	ɾebɯɴ
+Yonaguni	lieu
+Ginza	lieu
+Narita	lieu
+Yokosuka	lieu
+Shimoda	lieu
+Sogakishi	lieu
+Akujikishima	lieu
+Azukishima	lieu
+Shikinejima	lieu
+Kirigan	lieu	Kirigann	kiɾiɡaɴ
+Sekihai	lieu
+Kuwadorian	lieu
+Fukuin	lieu	Foukou-inn	ɸɯkɯiɴ	Maison Fukuin (福音)
+Toraian	lieu	Toraïann	toɾaiaɴ
+Taipei	lieu	Taïpèï	tʰaipei
+Danshui	lieu	Dann-chouéï	tanʂwei	chinois
+Zhuoshui	lieu	Djouo-chouéï	ʈʂwoʂwei	chinois
+Kaoping	lieu	Kao-pinng	kʰaopʰiŋ	chinois
+Zengwun	lieu	Dzeng-ouenn	tsəŋwən	chinois
+Dajia	lieu	Da-djia	tatɕja	chinois
+Dadu	lieu	Da-dou	tatu	chinois
+Qilian	lieu	Tchi-liènn	tɕʰiljɛn	chinois (Q = « tch »)
+Delzney	lieu	Dèlzni	dɛlzni	parodie de Disney
+Hawaï	lieu			lecture française
+Saipan	lieu	Saïpann	sajpan
+Guam	lieu	Gouam	ɡwam
+## Mots japonais
+san	honorifique	sann	saɴ	suffixe (Battler-san) : « sann », jamais « sans »
+chan	honorifique	tchann	tɕaɴ
+sama	honorifique	sama	sama
+kun	honorifique	kounn	kɯɴ
+sensei	honorifique	sennsé	senseː
+senpai	honorifique	sennpaï	sempai
+nii	honorifique	nii	niː	nii-san, onii-chan
+Onii	honorifique	onii	oniː
+onee	honorifique	oné	oneː
+Nee	honorifique	né	neː
+aniki	honorifique
+Aneki	honorifique	anéki	aneki
+miko	japonais
+shogi	japonais	chôgui	ɕoːɡi
+shiritori	japonais
+oden	japonais	odénn	odeɴ
+miso	japonais	misso	miso
+umeboshi	japonais
+konpeito	japonais	konnpéïtô	kompeːtoː
+konpeitou	japonais	konnpéïtô	kompeːtoː
+gomashio	japonais
+shimesaba	japonais
+daifuku	japonais
+kotatsu	japonais
+sashimi	japonais
+yakisoba	japonais
+bento	japonais	bénntô	bentoː
+gyoza	japonais	guyôza	ɡʲoːza
+yokan	japonais	yôkann	joːkaɴ
+tofu	japonais	tôfou	toːɸɯ
+mirin	japonais
+nukamiso	japonais
+donburi	japonais
+chazuke	japonais	tchazouké	tɕazɯke
+hijiki	japonais
+kikurage	japonais
+shochu	japonais	chôtchou	ɕoːtɕɯː
+hassaku	japonais
+omurice	japonais	omouraïssou	omɯɾaisɯ
+futon	japonais	foutonn	ɸɯtoɴ
+shamisen	japonais
+tanuki	japonais
+yôkai	japonais	yôkaï	joːkai
+kanji	japonais
+katakana	japonais
+hiragana	japonais
+katana	japonais
+naginata	japonais
+shinto	japonais	chinntô	ɕintoː
+shugenja	japonais
+yamabushi	japonais
+amanojaku	japonais
+kitsune	japonais
+seiza	japonais	séza	seːza
+omiai	japonais	omiaï	omiai
+ohajiki	japonais
+Obon	japonais	Obonn	oboɴ
+Tanabata	japonais
+Orihime	japonais
+Hikoboshi	japonais
+Inari	japonais
+tsume	japonais
+kenpo	japonais	kennpô	kempoː
+Kaiten	japonais
+Shinkansen	japonais
+Showa	époque	Chôwa	ɕoːwa
+Taisho	époque	Taïchô	taiɕoː
+Taishou	époque	Taïchô	taiɕoː
+Meiji	époque	Mèïdji	meːdʑi
+Sengoku	époque
+Jomon	époque	Djômonn	dʑoːmoɴ
+tsundora	japonais	tsounndora	tsɯndoɾa
+## Histoire et culture japonaises
+Toyotomi	personnage
+Hidetsugu	personnage
+Hideyori	personnage
+Oda	personnage
+Nobunaga	personnage
+Shibata	personnage
+Katsuie	personnage	Katsouié	katsɯie
+Takeda	personnage
+Shingen	personnage
+Uesugi	personnage	Ouéssougui	ɯesɯɡi
+Tokugawa	personnage
+Akechi	personnage
+Mōri	personnage	Môri	moːɾi
+Hijikata	personnage
+Kondo	personnage	Kondô	kondoː
+Souji	personnage	Sôdji	soːdʑi
+Shotoku	personnage	Chôtokou	ɕoːtokɯ
+Taishi	personnage
+Sakaguchi	personnage
+Ango	personnage	Anngo	aŋɡo
+Ayatsuji	personnage
+Yukito	personnage
+Higurashi	oeuvre
+Onikakushi	oeuvre
+Oyashiro	oeuvre
+Kamehameha	oeuvre
+Tenkaichi	oeuvre
+Budokai	oeuvre	Boudôkaï	bɯdoːkai
+Umineko	oeuvre
+Chiru	oeuvre
+Purupuru	personnage
+Piko	personnage
+Pikopuyo	personnage
+Pikomaru	personnage
+Momotarou	personnage
+## Expressions et mots anglais
+whodunit	anglais	houdounit	huːdʌnɪt	« qui l'a fait »
+howdunit	anglais	haoudounit	haʊdʌnɪt	« comment »
+whydunit	anglais	ouaïdounit	waɪdʌnɪt	« pourquoi »
+Endless	anglais	Ènndlèss	ɛndlɛs	Endless Nine
+Nine	anglais	Naïne	najn
+Tea	anglais	Ti	ti	Tea Party
+Party	anglais	Parti	paʁti
+fantasy	anglais	fanntazi	fantazi	« anti-fantasy »
+quiz	anglais	kouiz	kwiz
+game	anglais	guéïm	ɡɛjm	game over
+over	anglais	ovère	ovɛʁ
+Mrs	anglais	Missiz	misiz
+Mister	anglais	Mistère	mistɛʁ
+trick	anglais	trik	tʁik	trick or treat
+treat	anglais	trit	tʁit
+knock	anglais	nok	nɔk	knock, knock
+Happy	anglais	Happi	api
+Good	anglais	Goud	ɡud
+thank	anglais	sank	sank	thank you
+you	anglais	you	ju
+Death	anglais	Dèss	dɛs
+Die	anglais	Daï	daj
+the	anglais	ze	zə
+cute	anglais	kiout	kjut
+copy	anglais	kopi	kɔpi
+perfect	anglais	peurfèkt	pœʁfɛkt
+light	anglais	laït	lajt	light novel
+novel	anglais	novèl	nɔvɛl
+cheesecake	anglais	chizkèk	ʃizkɛk
+donut	anglais	donute	donœt
+scone	anglais	skonne	skɔn
+scones	anglais	skonnes	skɔn
+pancakes	anglais	pannkèk	pankɛk
+Gatekeeper	anglais	Guèïtkipeur	ɡɛjtkipœʁ
+Witch	anglais	Ouitch	witʃ
+Dawn	anglais	Done	dɔn
+Turn	anglais	Teurn	tœʁn
+Checkmate	anglais	Tchèkmèït	tʃɛkmɛjt
+warp	anglais	ouorp	wɔʁp
+week	anglais	ouik	wik	week-end
+Equalizer	anglais	Ikoualaïzeur	ikwalajzœʁ
+Zodiac	anglais	Zodiak	zodjak
+Steam	anglais	Stim	stim
+## Personnes et œuvres réelles ou citées
+Agatha	personne	Agata	aɡata
+Christie	personne	Kristi	kʁisti
+Ellery	personne	Èleri	ɛləʁi
+Queen	personne	Kouine	kwin
+Dine	personne	Daïne	dajn	S.S. Van Dine
+Ackroyd	personne	Akroïd	akʁɔjd
+Holmes	personne	Holmz	ɔlmz
+Watson	personne	Ouatsonn	watsɔn
+Hempel	personne	Hèmpel	ɛmpɛl	corbeau de Hempel
+Schrödinger	personne	Chreudinguère	ʃʁødiŋɛʁ
+Rubens	personne	Roubènss	ʁubɛ̃s
+Dante	personne	Dannté	dante
+Alighieri	personne	Aliguièri	aliɡjɛʁi
+Shakespeare	personne	Chèkspir	ʃɛkspiʁ
+Mussolini	personne	Moussolini	musolini
+MacArthur	personne	Makarseur	makaʁsœʁ
+Tokarev	personne	Tokarèv	tokaʁɛf
+Kasparov	personne	Kasparof	kaspaʁɔf
+Wukong	personne	Wou-kong	uːkʊŋ	Sun Wukong
+Pendragon	personne	Pènndragonn	pɛndʁaɡɔn
+Eiserne	allemand	Aïzèrne	ajzɛʁnə	Eiserne Jungfrau
+Jungfrau	allemand	Younngfraou	jʊŋfʁaʊ
+Sachertorte	allemand	Zakhèrtorté	zaxɐtɔʁtə
+Mytyl	personne	Mitil	mitil
+Tyltyl	personne	Tiltil	tiltil
+Humpty	personne	Heumpti	œmpti
+Dumpty	personne	Deumpti	dœmpti
+Salò	oeuvre	Salo	salo
+Dimbula	autre	Dimmboula	dimbula	thé de Ceylan
+Publius	personne	Poubliouss	publius
+Maro	personne	Maro	maʁo

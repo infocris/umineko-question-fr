@@ -1,0 +1,812 @@
+{
+ "_doc": "Inventaire des locuteurs pour l'attribution de voix TTS. Clé = dossier voix (voice\\NN\\). code = préfixe des alias voix (arcs Question) / code tools/voix.json (arcs Réponse). repliques = lignes de script doublées où ce dossier parle (Q = ép. 1-4, R = ép. 5-8). genre = genre de la voix. age = âge approximatif en 1986 sauf mention. spoiler = information qui révèle l'intrigue, à ne lire qu'en connaissance de cause.",
+ "narration": {
+  "nom": "Narration (lignes sans voix)",
+  "repliques": {
+   "Q": 19480,
+   "R": 18830
+  },
+  "genre": "au choix",
+  "age": "adulte",
+  "voix": "Voix posée et neutre de conteur, assez grave, capable de passer du descriptif calme aux montées de tension. Certaines narrations sont au « je » de Battler (ép. 1-4 surtout) : une voix masculine d'âge moyen reste cohérente.",
+  "ton": "Récit au passé simple, souvent lent, ponctué de « ...... »."
+ },
+ "personnages": [
+  {
+   "dossier": "01",
+   "code": "kin",
+   "nom": "Kinzo Ushiromiya",
+   "genre": "M",
+   "age": "très âgé (~85)",
+   "repliques": {
+    "Q": 465,
+    "R": 351
+   },
+   "voix": "Grave, rauque, puissante, qui tonne.",
+   "ton": "Grandiloquent, archaïsant, colérique, tirades mystiques sur la sorcière ; tutoie tout le monde sauf Nanjo."
+  },
+  {
+   "dossier": "58",
+   "code": "kij",
+   "nom": "Kinzo jeune",
+   "genre": "M",
+   "age": "~20 ans (années 1940)",
+   "repliques": {
+    "Q": 0,
+    "R": 129
+   },
+   "voix": "Jeune homme, voix claire et ferme.",
+   "ton": "Militaire puis amoureux, sincère, emporté ; ép. 7 uniquement."
+  },
+  {
+   "dossier": "02",
+   "code": "kla",
+   "nom": "Krauss Ushiromiya",
+   "genre": "M",
+   "age": "~54",
+   "repliques": {
+    "Q": 511,
+    "R": 304
+   },
+   "voix": "Baryton assuré, un peu pompeux.",
+   "ton": "Chef de famille, autoritaire et sûr de lui, souvent condescendant, peut s'emporter."
+  },
+  {
+   "dossier": "03",
+   "code": "nat",
+   "nom": "Natsuhi Ushiromiya",
+   "genre": "F",
+   "age": "~44",
+   "repliques": {
+    "Q": 495,
+    "R": 817
+   },
+   "voix": "Femme mûre, voix tenue, tranchante.",
+   "ton": "Digne, stricte, fière de son rôle d'épouse du chef ; tendue, s'adoucit rarement."
+  },
+  {
+   "dossier": "04",
+   "code": "jes",
+   "nom": "Jessica Ushiromiya",
+   "genre": "F",
+   "age": "18",
+   "repliques": {
+    "Q": 1092,
+    "R": 554
+   },
+   "voix": "Adolescente, voix vive et énergique.",
+   "ton": "Garçon manqué, franche, s'emporte vite, sentimentale au fond."
+  },
+  {
+   "dossier": "05",
+   "code": "eva",
+   "nom": "Eva Ushiromiya",
+   "genre": "F",
+   "age": "~51",
+   "repliques": {
+    "Q": 1549,
+    "R": 635
+   },
+   "voix": "Femme mûre, voix acérée, rire moqueur.",
+   "ton": "Ambitieuse, ironique, piquante, mère protectrice de George. Le même dossier porte aussi Eva-Beatrice (alias ev2, ép. 3) : voir dossier 34."
+  },
+  {
+   "dossier": "34",
+   "code": "evb",
+   "nom": "Eva-Beatrice",
+   "genre": "F",
+   "age": "jeune en apparence (Eva à ~16 ans)",
+   "repliques": {
+    "Q": 0,
+    "R": 121
+   },
+   "voix": "Version jeune d'Eva, plus aiguë, ricanante.",
+   "ton": "Sorcière cruelle et capricieuse, rire sadique. Aux ép. 3-4 elle parle dans le dossier 05 (alias ev2)."
+  },
+  {
+   "dossier": "06",
+   "code": "hid",
+   "nom": "Hideyoshi Ushiromiya",
+   "genre": "M",
+   "age": "~54",
+   "repliques": {
+    "Q": 398,
+    "R": 203
+   },
+   "voix": "Homme jovial, chaleureux, un peu bourru.",
+   "ton": "Mari d'Eva, self-made man, bonhomme et conciliant ; parler du Kansai en japonais (familier, rond en français)."
+  },
+  {
+   "dossier": "07",
+   "code": "geo",
+   "nom": "George Ushiromiya",
+   "genre": "M",
+   "age": "23",
+   "repliques": {
+    "Q": 999,
+    "R": 466
+   },
+   "voix": "Jeune homme, voix douce et posée.",
+   "ton": "Grand cousin gentil et poli, rassurant, parfois anxieux face à sa mère."
+  },
+  {
+   "dossier": "08",
+   "code": "rud",
+   "nom": "Rudolf Ushiromiya",
+   "genre": "M",
+   "age": "~45",
+   "repliques": {
+    "Q": 444,
+    "R": 392
+   },
+   "voix": "Homme mûr, voix décontractée, un peu canaille.",
+   "ton": "Père de Battler, séducteur, blagueur, devient sérieux quand il complote."
+  },
+  {
+   "dossier": "09",
+   "code": "kir",
+   "nom": "Kyrie Ushiromiya",
+   "genre": "F",
+   "age": "~44",
+   "repliques": {
+    "Q": 552,
+    "R": 436
+   },
+   "voix": "Femme mûre, voix calme et nette.",
+   "ton": "Belle-mère de Battler, pince-sans-rire, analytique, froide quand elle raisonne."
+  },
+  {
+   "dossier": "10",
+   "code": "but",
+   "nom": "Battler Ushiromiya",
+   "genre": "M",
+   "age": "18",
+   "repliques": {
+    "Q": 2909,
+    "R": 2347
+   },
+   "voix": "Jeune homme, voix forte et expressive, large palette (rires, cris, colère).",
+   "ton": "Héros. Gouailleur et blagueur au début, puis enragé dans les débats contre la sorcière, puis posé et assuré (ép. 5-8). Personnage le plus présent : voix à soigner en priorité."
+  },
+  {
+   "dossier": "11",
+   "code": "enj",
+   "nom": "Ange Ushiromiya",
+   "genre": "F",
+   "age": "18 ans en 1998 ; 6 ans en 1986",
+   "repliques": {
+    "Q": 1122,
+    "R": 1336
+   },
+   "voix": "Deux âges dans le même dossier : jeune femme à la voix sèche et grave (1998, la plupart des répliques) et petite fille (1986, ép. 4 et 8, parle d'elle-même à la 3e personne). Prévoir deux voix si le TTS le permet.",
+   "ton": "Adulte : froide, méfiante, tranchante, blessée. Enfant : capricieuse, solitaire."
+  },
+  {
+   "dossier": "12",
+   "code": "ros",
+   "nom": "Rosa Ushiromiya",
+   "genre": "F",
+   "age": "~32",
+   "repliques": {
+    "Q": 1018,
+    "R": 265
+   },
+   "voix": "Jeune adulte, voix douce qui peut devenir dure, voire hystérique.",
+   "ton": "Mère de Maria, gentille en apparence, sévère et à bout de nerfs avec sa fille."
+  },
+  {
+   "dossier": "13",
+   "code": "mar",
+   "nom": "Maria Ushiromiya",
+   "genre": "F",
+   "age": "9",
+   "repliques": {
+    "Q": 1351,
+    "R": 364
+   },
+   "voix": "Enfant, voix aiguë et chantante ; peut devenir glaçante.",
+   "ton": "Phrases courtes et enfantines, tic « Uu- », parle d'elle-même à la 3e personne ; passionnée d'occultisme, inquiétante quand elle parle de la sorcière."
+  },
+  {
+   "dossier": "14",
+   "code": "gen",
+   "nom": "Genji Ronoue",
+   "genre": "M",
+   "age": "~73",
+   "repliques": {
+    "Q": 363,
+    "R": 237
+   },
+   "voix": "Vieil homme, voix basse, calme, économe.",
+   "ton": "Majordome en chef, laconique, impassible, loyal à Kinzo."
+  },
+  {
+   "dossier": "15",
+   "code": "sha",
+   "nom": "Shannon",
+   "genre": "F",
+   "age": "~18",
+   "repliques": {
+    "Q": 835,
+    "R": 696
+   },
+   "voix": "Jeune femme, voix douce et timide.",
+   "ton": "Domestique, très polie (vouvoie), réservée, s'excuse beaucoup ; plus déterminée quand elle se bat (ép. 2-3).",
+   "spoiler": "Shannon, Kanon et Beatrice sont liés (ép. 7) ; le jeu leur donne des voix distinctes, à garder distinctes."
+  },
+  {
+   "dossier": "16",
+   "code": "kan",
+   "nom": "Kanon",
+   "genre": "M",
+   "age": "~16",
+   "repliques": {
+    "Q": 685,
+    "R": 432
+   },
+   "voix": "Adolescent, voix jeune, contenue, un peu sèche.",
+   "ton": "Domestique, se dit « simple meuble », taciturne, amer, protecteur envers Shannon."
+  },
+  {
+   "dossier": "17",
+   "code": "goh",
+   "nom": "Toshiro Gohda",
+   "genre": "M",
+   "age": "~40",
+   "repliques": {
+    "Q": 251,
+    "R": 161
+   },
+   "voix": "Homme d'âge moyen, voix affable.",
+   "ton": "Cuisinier, obséquieux avec la famille, vouvoie tout le monde, fier de son métier."
+  },
+  {
+   "dossier": "18",
+   "code": "kum",
+   "nom": "Chiyo Kumasawa",
+   "genre": "F",
+   "age": "~70",
+   "repliques": {
+    "Q": 220,
+    "R": 213
+   },
+   "voix": "Vieille dame, voix chevrotante et malicieuse.",
+   "ton": "Domestique, rieuse (« ho ho ho »), raconte des histoires de fantômes, taquine."
+  },
+  {
+   "dossier": "19",
+   "code": "nan",
+   "nom": "Terumasa Nanjo",
+   "genre": "M",
+   "age": "~70",
+   "repliques": {
+    "Q": 345,
+    "R": 129
+   },
+   "voix": "Vieil homme, voix douce et lente.",
+   "ton": "Médecin et ami de Kinzo, courtois, prudent, conciliant."
+  },
+  {
+   "dossier": "25",
+   "code": "na2",
+   "nom": "Fils de Nanjo",
+   "genre": "M",
+   "age": "adulte (1998)",
+   "repliques": {
+    "Q": 36,
+    "R": 0
+   },
+   "voix": "Homme d'âge moyen, voix polie et réticente.",
+   "ton": "Ép. 4 uniquement ; médecin, ne veut pas parler de l'affaire."
+  },
+  {
+   "dossier": "26",
+   "code": "ku2",
+   "nom": "Fils de Kumasawa",
+   "genre": "M",
+   "age": "adulte (1998)",
+   "repliques": {
+    "Q": 11,
+    "R": 0
+   },
+   "voix": "Homme d'âge moyen, voix familière.",
+   "ton": "Ép. 4 uniquement ; pêcheur, parle de façon populaire. Identité déduite du contexte, à confirmer."
+  },
+  {
+   "dossier": "20",
+   "code": "ama",
+   "nom": "Tooru Amakusa",
+   "genre": "M",
+   "age": "~20-25 (1998)",
+   "repliques": {
+    "Q": 63,
+    "R": 109
+   },
+   "voix": "Jeune homme, voix nonchalante, désinvolte.",
+   "ton": "Garde du corps d'Ange, ancien mercenaire, blagueur et détendu, appelle Ange « ojō »."
+  },
+  {
+   "dossier": "21",
+   "code": "oko",
+   "nom": "Okonogi",
+   "genre": "M",
+   "age": "~50 (1998)",
+   "repliques": {
+    "Q": 79,
+    "R": 29
+   },
+   "voix": "Homme mûr, voix jovial et rocailleuse.",
+   "ton": "Associé d'Eva, bon vivant, bavard, protecteur envers Ange."
+  },
+  {
+   "dossier": "22",
+   "code": "kas",
+   "nom": "Kasumi Sumadera",
+   "genre": "F",
+   "age": "~40 (1998)",
+   "repliques": {
+    "Q": 122,
+    "R": 0
+   },
+   "voix": "Femme mûre, voix stridente et méprisante.",
+   "ton": "Sœur de Kyrie, hostile, vulgaire, rire mauvais ; ép. 4."
+  },
+  {
+   "dossier": "23",
+   "code": "pro",
+   "nom": "Professeur Ootsuki",
+   "genre": "M",
+   "age": "âgé (1998)",
+   "repliques": {
+    "Q": 43,
+    "R": 8
+   },
+   "voix": "Homme âgé, voix théâtrale de conférencier.",
+   "ton": "Spécialiste de l'occulte à la télévision, emphatique."
+  },
+  {
+   "dossier": "24",
+   "code": "kaw",
+   "nom": "Capitaine Kawabata",
+   "genre": "M",
+   "age": "~60",
+   "repliques": {
+    "Q": 52,
+    "R": 7
+   },
+   "voix": "Homme mûr, voix rude de marin.",
+   "ton": "Pilote du bateau, bourru mais bienveillant."
+  },
+  {
+   "dossier": "27",
+   "code": "bea",
+   "nom": "Beatrice",
+   "genre": "F",
+   "age": "sans âge (sorcière, paraît ~20-25)",
+   "repliques": {
+    "Q": 2748,
+    "R": 1833
+   },
+   "voix": "Jeune femme à la voix ample et théâtrale, grand rire (« kyahahaha »), capable aussi d'une voix fragile et douce (ép. 5-6).",
+   "ton": "Sorcière dorée : arrogante, archaïque et grandiloquente, provocatrice, moqueuse ; s'adoucit beaucoup à partir de l'ép. 5. Deuxième rôle le plus présent."
+  },
+  {
+   "dossier": "60",
+   "code": "v60",
+   "nom": "Beato l'aînée",
+   "genre": "F",
+   "age": "sans âge",
+   "repliques": {
+    "Q": 0,
+    "R": 172
+   },
+   "voix": "Proche de Beatrice, plus mûre et plus cruelle.",
+   "ton": "Archaïque, sarcastique, tutoie ; ép. 6."
+  },
+  {
+   "dossier": "28",
+   "code": "ber",
+   "nom": "Bernkastel",
+   "genre": "F",
+   "age": "sans âge (paraît enfant/adolescente)",
+   "repliques": {
+    "Q": 231,
+    "R": 1293
+   },
+   "voix": "Voix basse, monocorde, lasse, presque sans intonation ; devient venimeuse.",
+   "ton": "Sorcière des miracles, froide, cynique, cruelle (ép. 5-8)."
+  },
+  {
+   "dossier": "29",
+   "code": "lam",
+   "nom": "Lambdadelta",
+   "genre": "F",
+   "age": "sans âge (paraît adolescente)",
+   "repliques": {
+    "Q": 266,
+    "R": 861
+   },
+   "voix": "Voix aiguë, sucrée, enjouée, qui bascule en menace.",
+   "ton": "Sorcière de la certitude, capricieuse, enfantine, joueuse et cruelle."
+  },
+  {
+   "dossier": "30",
+   "code": "wal",
+   "nom": "Virgilia",
+   "genre": "F",
+   "age": "sans âge (paraît ~40)",
+   "repliques": {
+    "Q": 400,
+    "R": 252
+   },
+   "voix": "Femme mûre, voix posée, maternelle.",
+   "ton": "Ancienne maîtresse de Beatrice, calme, sage, ironie légère."
+  },
+  {
+   "dossier": "31",
+   "code": "ron",
+   "nom": "Ronove",
+   "genre": "M",
+   "age": "sans âge (paraît ~30)",
+   "repliques": {
+    "Q": 413,
+    "R": 174
+   },
+   "voix": "Baryton suave et courtois.",
+   "ton": "Majordome démoniaque, élégant, pince-sans-rire, petit rire « pu ku ku »."
+  },
+  {
+   "dossier": "32",
+   "code": "gap",
+   "nom": "Gaap",
+   "genre": "F",
+   "age": "sans âge (paraît ~25)",
+   "repliques": {
+    "Q": 179,
+    "R": 337
+   },
+   "voix": "Jeune femme, voix sensuelle et taquine.",
+   "ton": "Démone espiègle, provocante, se moque de Battler ; appelle Yasu « mon intime » (ép. 7)."
+  },
+  {
+   "dossier": "33",
+   "code": "sak",
+   "nom": "Sakutarou",
+   "genre": "M",
+   "age": "peluche (voix d'enfant)",
+   "repliques": {
+    "Q": 267,
+    "R": 46
+   },
+   "voix": "Petite voix aiguë et mignonne.",
+   "ton": "Lion en peluche de Maria, tic « uryuu », naïf et tendre."
+  },
+  {
+   "dossier": "35",
+   "code": "s45",
+   "nom": "Chiester 45",
+   "genre": "F",
+   "age": "jeune (soldate)",
+   "repliques": {
+    "Q": 65,
+    "R": 38
+   },
+   "voix": "Voix neutre de soldate, mécanique.",
+   "ton": "Lapine de la garde de Ciel, rapports militaires, sensible sous la discipline."
+  },
+  {
+   "dossier": "36",
+   "code": "s41",
+   "nom": "Chiester 410",
+   "genre": "F",
+   "age": "jeune (soldate)",
+   "repliques": {
+    "Q": 71,
+    "R": 43
+   },
+   "voix": "Voix enjouée, nonchalante.",
+   "ton": "Soldate bavarde et désinvolte, finit ses phrases par un tic (« -nihe »)."
+  },
+  {
+   "dossier": "37",
+   "code": "s00",
+   "nom": "Chiester 00",
+   "genre": "F",
+   "age": "jeune (soldate)",
+   "repliques": {
+    "Q": 35,
+    "R": 58
+   },
+   "voix": "Voix calme d'officière.",
+   "ton": "Cheffe de l'escouade, sérieuse, protectrice."
+  },
+  {
+   "dossier": "38",
+   "code": "rg1",
+   "nom": "Lucifer (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune",
+   "repliques": {
+    "Q": 144,
+    "R": 69
+   },
+   "voix": "Voix hautaine.",
+   "ton": "Aînée, l'orgueil : arrogante, autoritaire avec ses sœurs."
+  },
+  {
+   "dossier": "39",
+   "code": "rg2",
+   "nom": "Leviathan (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune",
+   "repliques": {
+    "Q": 69,
+    "R": 44
+   },
+   "voix": "Voix aigre.",
+   "ton": "L'envie : jalouse, râleuse."
+  },
+  {
+   "dossier": "40",
+   "code": "rg3",
+   "nom": "Satan (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune",
+   "repliques": {
+    "Q": 52,
+    "R": 35
+   },
+   "voix": "Voix forte et irritée.",
+   "ton": "La colère : s'emporte constamment."
+  },
+  {
+   "dossier": "41",
+   "code": "rg4",
+   "nom": "Belphegor (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune",
+   "repliques": {
+    "Q": 84,
+    "R": 20
+   },
+   "voix": "Voix posée et polie.",
+   "ton": "La paresse : la plus raisonnable et la plus calme."
+  },
+  {
+   "dossier": "42",
+   "code": "rg5",
+   "nom": "Mammon (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune",
+   "repliques": {
+    "Q": 210,
+    "R": 35
+   },
+   "voix": "Voix vive, sèche.",
+   "ton": "L'avarice : cynique, piquante."
+  },
+  {
+   "dossier": "43",
+   "code": "rg6",
+   "nom": "Beelzebub (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune",
+   "repliques": {
+    "Q": 49,
+    "R": 80
+   },
+   "voix": "Voix gourmande, joyeuse.",
+   "ton": "La gourmandise : légère, ne pense qu'à manger."
+  },
+  {
+   "dossier": "44",
+   "code": "rg7",
+   "nom": "Asmodeus (Sept Sœurs)",
+   "genre": "F",
+   "age": "jeune (la cadette)",
+   "repliques": {
+    "Q": 39,
+    "R": 46
+   },
+   "voix": "Voix aiguë et pétillante.",
+   "ton": "La luxure : romantique, enthousiaste, la plus jeune."
+  },
+  {
+   "dossier": "00",
+   "code": "duo",
+   "nom": "Chœur (deux personnages)",
+   "genre": "mixte",
+   "age": "-",
+   "repliques": {
+    "Q": 0,
+    "R": 133
+   },
+   "voix": "Deux voix superposées (Zepar et Furfur, Bernkastel et Lambdadelta…) : mixer les deux voix TTS concernées.",
+   "ton": "Répliques entre 「「 」」 dans le japonais."
+  },
+  {
+   "dossier": "46",
+   "code": "eri",
+   "nom": "Erika Furudo",
+   "genre": "F",
+   "age": "~16",
+   "repliques": {
+    "Q": 0,
+    "R": 1791
+   },
+   "voix": "Jeune fille, voix polie qui vire au rire hystérique et au sarcasme.",
+   "ton": "Détective autoproclamée, vouvoiement faussement poli, arrogante, sadique ; rire « ahahahaha ». Ép. 5-8, rôle majeur."
+  },
+  {
+   "dossier": "47",
+   "code": "dla",
+   "nom": "Dlanor A. Knox",
+   "genre": "F",
+   "age": "paraît enfant",
+   "repliques": {
+    "Q": 0,
+    "R": 579
+   },
+   "voix": "Petite voix grave et sérieuse, monocorde.",
+   "ton": "Inquisitrice, phrases solennelles avec des MAJUSCULES pour ses « décrets », digne et juste."
+  },
+  {
+   "dossier": "48",
+   "code": "ger",
+   "nom": "Gertrude",
+   "genre": "F",
+   "age": "adulte",
+   "repliques": {
+    "Q": 0,
+    "R": 83
+   },
+   "voix": "Voix sévère, autoritaire.",
+   "ton": "Inquisitrice, stricte, juridique."
+  },
+  {
+   "dossier": "49",
+   "code": "cor",
+   "nom": "Cornelia",
+   "genre": "F",
+   "age": "jeune adulte",
+   "repliques": {
+    "Q": 0,
+    "R": 81
+   },
+   "voix": "Voix ferme mais plus chaleureuse que Gertrude.",
+   "ton": "Inquisitrice, formelle, un peu plus humaine."
+  },
+  {
+   "dossier": "50",
+   "code": "fea",
+   "nom": "Featherine Augustus Aurora",
+   "genre": "F",
+   "age": "sans âge (antique)",
+   "repliques": {
+    "Q": 0,
+    "R": 303
+   },
+   "voix": "Voix lente, majestueuse, détachée, un peu rêveuse.",
+   "ton": "Sorcière du Théâtre, langage solennel et archaïque, curiosité d'observatrice."
+  },
+  {
+   "dossier": "51",
+   "code": "zep",
+   "nom": "Zepar",
+   "genre": "F",
+   "age": "sans âge (démon)",
+   "repliques": {
+    "Q": 0,
+    "R": 208
+   },
+   "voix": "Voix théâtrale de présentatrice, enjouée.",
+   "ton": "Démon de l'amour, forme un duo avec Furfur, parle en vers et en écho, emphatique."
+  },
+  {
+   "dossier": "52",
+   "code": "fur",
+   "nom": "Furfur",
+   "genre": "F",
+   "age": "sans âge (démon)",
+   "repliques": {
+    "Q": 0,
+    "R": 194
+   },
+   "voix": "Voix proche de Zepar, légèrement différente (plus douce ou plus aiguë).",
+   "ton": "Démon de l'amour, complète les phrases de Zepar."
+  },
+  {
+   "dossier": "53",
+   "code": "lio",
+   "nom": "Lion Ushiromiya",
+   "genre": "indéterminé",
+   "age": "~19",
+   "repliques": {
+    "Q": 0,
+    "R": 528
+   },
+   "voix": "Voix androgyne, ni clairement masculine ni féminine (le genre de Lion n'est jamais révélé) ; jeune, douce et assurée.",
+   "ton": "« Successeur » de la famille, idéaliste, poli, sérieux, chaleureux avec Will (ép. 7)."
+  },
+  {
+   "dossier": "54",
+   "code": "wil",
+   "nom": "Willard H. Wright",
+   "genre": "M",
+   "age": "~45",
+   "repliques": {
+    "Q": 0,
+    "R": 757
+   },
+   "voix": "Homme mûr, voix grave, traînante, rocailleuse.",
+   "ton": "Inquisiteur détective, désabusé, sarcastique, tutoie tout le monde, profondément humain."
+  },
+  {
+   "dossier": "55",
+   "code": "cla",
+   "nom": "Clair Vaux Bernardus",
+   "genre": "F",
+   "age": "paraît jeune femme",
+   "repliques": {
+    "Q": 0,
+    "R": 361
+   },
+   "voix": "Voix éthérée, douce, mélancolique.",
+   "ton": "Témoin et narratrice de l'ép. 7, solennelle, confession.",
+   "spoiler": "Incarnation de la vérité de Beatrice : peut se rapprocher de la voix de Beatrice en plus fragile."
+  },
+  {
+   "dossier": "59",
+   "code": "bic",
+   "nom": "Beatrice Castiglioni « Bice »",
+   "genre": "F",
+   "age": "~20 (années 1940)",
+   "repliques": {
+    "Q": 0,
+    "R": 102
+   },
+   "voix": "Jeune femme, voix vive avec un accent italien.",
+   "ton": "Ép. 7 ; ses répliques en italien sont entre 『 』 : voix TTS capable d'italien."
+  },
+  {
+   "dossier": "56",
+   "code": "toh",
+   "nom": "Ikuko / Hachijo Tohya",
+   "genre": "F",
+   "age": "~35-40 (1998)",
+   "repliques": {
+    "Q": 0,
+    "R": 213
+   },
+   "voix": "Femme adulte, voix calme, cultivée, un peu ironique.",
+   "ton": "Romancière (Hachijo Tohya est son nom de plume) ; ép. 7-8. Ange la tutoie comme romancière, la vouvoie dans le ???? final."
+  },
+  {
+   "dossier": "57",
+   "code": "v57",
+   "nom": "Tohya (l'homme qui accompagne Ikuko)",
+   "genre": "M",
+   "age": "~30 (1998)",
+   "repliques": {
+    "Q": 0,
+    "R": 43
+   },
+   "voix": "Homme jeune adulte, voix calme et douce.",
+   "ton": "Ép. 8 ; discret, poli.",
+   "spoiler": "C'est Battler adulte : voix de Battler en plus mûre et plus éteinte."
+  },
+  {
+   "dossier": "99",
+   "code": "v99",
+   "nom": "Voix secondaires",
+   "genre": "mixte",
+   "age": "-",
+   "repliques": {
+    "Q": 232,
+    "R": 304
+   },
+   "voix": "Figurants : annonces d'aéroport, foules, policiers, journalistes… Une ou deux voix génériques par genre suffisent.",
+   "ton": "Neutre."
+  }
+ ]
+}
