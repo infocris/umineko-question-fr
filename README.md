@@ -5,8 +5,9 @@ top of the [07th-mod](https://07th-mod.com/) patch: the PS3 voices and graphics 
 Only the text changes.
 
 [![Example video: the French translation in-game](https://i.ytimg.com/vi/pvG1k11rfYA/hqdefault.jpg)](https://www.youtube.com/watch?v=pvG1k11rfYA)
+[![Second example video: the French translation in-game](https://i.ytimg.com/vi/ysERK5-l7ko/hqdefault.jpg)](https://www.youtube.com/watch?v=ysERK5-l7ko)
 
-[Example video on YouTube](https://www.youtube.com/watch?v=pvG1k11rfYA): the French translation in-game.
+Example videos on YouTube ([1](https://www.youtube.com/watch?v=pvG1k11rfYA), [2](https://www.youtube.com/watch?v=ysERK5-l7ko)): the French translation in-game.
 
 **Status**
 
